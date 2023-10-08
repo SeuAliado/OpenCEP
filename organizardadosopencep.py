@@ -4,10 +4,10 @@ import pandas as pd
 from tqdm import tqdm  # Importa a classe tqdm
 
 # Pasta de entrada contendo os arquivos JSON
-pasta_json = r'C:\Users\samuc\OneDrive\olds\Documentos\cep_dados_all\open_cep\OpenCEP-main\v1'
+pasta_json = './v1'
 
 # Pasta de saída onde os arquivos CSV serão armazenados
-pasta_saida = r'C:\Users\samuc\OneDrive\olds\Documentos\cep_dados_all\open_cep\OpenCEP-main\arquivoscsvCEPopencep'
+pasta_saida = './arquivoscsvCEPopencep'
 
 # Certifique-se de que a pasta de saída existe
 if not os.path.exists(pasta_saida):
