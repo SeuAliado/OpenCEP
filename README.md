@@ -1,3 +1,4 @@
+# Este é um fork do github.com/seualiado/opencep - Objetivo de incluir dados em CSV com o objetivo de melhorar a facilidade na leitura dos dados.
 ## OpenCEP - Gateway e WebService de CEP Grátis
 ###  WebService de CEP e IBGE Grátis para E-Commerce, ERP, NFe e muito mais!
 
