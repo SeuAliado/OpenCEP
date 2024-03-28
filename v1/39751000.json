@@ -5,5 +5,7 @@
   "bairro": "Euxenita",
   "localidade": "Sabinópolis",
   "uf": "MG",
-  "ibge": "3156809"
+  "ibge": "3156809",
+  "lat": -18.5394077,
+  "lon": -43.0213008
 }

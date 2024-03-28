@@ -5,5 +5,7 @@
   "bairro": "Jardim União",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1782118,
+  "lon": -47.3221654
 }

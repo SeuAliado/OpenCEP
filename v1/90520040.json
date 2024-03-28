@@ -5,5 +5,7 @@
   "bairro": "Auxiliadora",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.022509,
+  "lon": -51.1849069
 }

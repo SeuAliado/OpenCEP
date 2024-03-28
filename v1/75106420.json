@@ -5,5 +5,7 @@
   "bairro": "Residencial Arco-Íris",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3697316,
+  "lon": -48.952127
 }

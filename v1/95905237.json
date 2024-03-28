@@ -5,5 +5,7 @@
   "bairro": "Montanha",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4467539,
+  "lon": -51.985893
 }

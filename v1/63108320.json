@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.2562066,
+  "lon": -39.4301641
 }

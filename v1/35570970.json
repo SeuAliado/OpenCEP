@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "lat": -20.4609996,
+  "lon": -45.4324723
 }

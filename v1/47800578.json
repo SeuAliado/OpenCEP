@@ -5,5 +5,7 @@
   "bairro": "Rio Grande",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1390071,
+  "lon": -44.9699112
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salgadinho",
   "uf": "PB",
-  "ibge": "2513000"
+  "ibge": "2513000",
+  "lat": -7.1091482,
+  "lon": -36.8465564
 }

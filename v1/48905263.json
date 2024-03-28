@@ -5,5 +5,7 @@
   "bairro": "Alto do Cruzeiro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4291808,
+  "lon": -40.4969015
 }

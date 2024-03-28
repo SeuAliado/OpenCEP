@@ -5,5 +5,7 @@
   "bairro": "Pé do Morro",
   "localidade": "Passa Quatro",
   "uf": "MG",
-  "ibge": "3147600"
+  "ibge": "3147600",
+  "lat": -22.330832,
+  "lon": -44.9398914
 }

@@ -5,5 +5,7 @@
   "bairro": "Alvarenga",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.742788,
+  "lon": -46.6177848
 }

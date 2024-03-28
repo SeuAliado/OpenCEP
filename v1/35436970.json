@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaraciaba",
   "uf": "MG",
-  "ibge": "3128204"
+  "ibge": "3128204",
+  "lat": -20.5720736,
+  "lon": -43.0100686
 }

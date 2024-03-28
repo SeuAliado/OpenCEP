@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiapina",
   "uf": "CE",
-  "ibge": "2305308"
+  "ibge": "2305308",
+  "lat": -3.9221221,
+  "lon": -40.8877439
 }

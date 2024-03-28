@@ -5,5 +5,7 @@
   "bairro": "Buenos Aires",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6752079,
+  "lon": -49.3385106
 }

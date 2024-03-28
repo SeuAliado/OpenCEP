@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Luiza",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1576683,
+  "lon": -47.8319514
 }

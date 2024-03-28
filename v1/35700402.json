@@ -5,5 +5,7 @@
   "bairro": "Cedro e Cachoeira",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4536474,
+  "lon": -44.253808
 }

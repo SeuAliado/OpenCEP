@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.4091189,
+  "lon": -42.6866475
 }

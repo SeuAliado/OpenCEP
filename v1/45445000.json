@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camamu",
   "uf": "BA",
-  "ibge": "2905800"
+  "ibge": "2905800",
+  "lat": -13.9439676,
+  "lon": -39.1050205
 }

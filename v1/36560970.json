@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cajuri",
   "uf": "MG",
-  "ibge": "3110202"
+  "ibge": "3110202",
+  "lat": -20.113877,
+  "lon": -44.8544009
 }

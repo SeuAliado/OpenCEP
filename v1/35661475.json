@@ -5,5 +5,7 @@
   "bairro": "União",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.828192,
+  "lon": -44.618515
 }

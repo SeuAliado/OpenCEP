@@ -5,5 +5,7 @@
   "bairro": "Setor Tocantins",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7559631,
+  "lon": -49.2317337
 }

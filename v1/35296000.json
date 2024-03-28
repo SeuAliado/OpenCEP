@@ -5,5 +5,7 @@
   "bairro": "Limeira de Mantena",
   "localidade": "Mantena",
   "uf": "MG",
-  "ibge": "3139607"
+  "ibge": "3139607",
+  "lat": -18.5795158,
+  "lon": -41.145021
 }

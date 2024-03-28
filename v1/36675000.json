@@ -5,5 +5,7 @@
   "bairro": "São Domingos",
   "localidade": "Santo Antônio do Aventureiro",
   "uf": "MG",
-  "ibge": "3160009"
+  "ibge": "3160009",
+  "lat": -21.7610655,
+  "lon": -42.8118653
 }

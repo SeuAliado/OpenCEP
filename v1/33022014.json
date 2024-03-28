@@ -5,5 +5,7 @@
   "bairro": "Colorado",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7542151,
+  "lon": -43.8390911
 }

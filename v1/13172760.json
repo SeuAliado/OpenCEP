@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Parque da Floresta",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.821745,
+  "lon": -47.2832901
 }

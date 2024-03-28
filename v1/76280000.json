@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Britânia",
   "uf": "GO",
-  "ibge": "5203807"
+  "ibge": "5203807",
+  "lat": -15.2432008,
+  "lon": -51.1606653
 }

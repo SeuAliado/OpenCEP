@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piçarra",
   "uf": "PA",
-  "ibge": "1505635"
+  "ibge": "1505635",
+  "lat": -6.4482542,
+  "lon": -48.8664536
 }

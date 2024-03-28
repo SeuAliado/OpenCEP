@@ -5,5 +5,7 @@
   "bairro": "Jardim das Araucárias",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.810066,
+  "lon": -49.9920168
 }

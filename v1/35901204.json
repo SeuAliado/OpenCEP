@@ -5,5 +5,7 @@
   "bairro": "Ribeira de Cima",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6683686,
+  "lon": -43.2249124
 }

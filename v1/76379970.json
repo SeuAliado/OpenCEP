@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Hidrolina",
   "uf": "GO",
-  "ibge": "5209804"
+  "ibge": "5209804",
+  "lat": -14.7260734,
+  "lon": -49.4590876
 }

@@ -5,5 +5,7 @@
   "bairro": "Fonte Boa",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "lat": -1.2779953,
+  "lon": -47.9441079
 }

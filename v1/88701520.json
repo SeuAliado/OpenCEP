@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio de Pádua",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4960967,
+  "lon": -49.012846
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gramado dos Loureiros",
   "uf": "RS",
-  "ibge": "4309126"
+  "ibge": "4309126",
+  "lat": -27.4442104,
+  "lon": -52.9187569
 }

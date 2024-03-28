@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "lat": -20.7637339,
+  "lon": -41.5317649
 }

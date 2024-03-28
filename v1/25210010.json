@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana do Pilar",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6837155,
+  "lon": -43.2639916
 }

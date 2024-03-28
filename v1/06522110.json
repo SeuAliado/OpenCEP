@@ -5,5 +5,7 @@
   "bairro": "Terras de San Nicolau",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.5030381,
+  "lon": -46.988847
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Caçula (Vila Inhomirim)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6181223,
+  "lon": -43.1980773
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Giuseppe Spina",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1537305,
+  "lon": -48.9373982
 }

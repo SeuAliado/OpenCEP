@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itambacuri",
   "uf": "MG",
-  "ibge": "3132701"
+  "ibge": "3132701",
+  "lat": -18.1880676,
+  "lon": -41.8799408
 }

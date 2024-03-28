@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tunas do Paraná",
   "uf": "PR",
-  "ibge": "4127882"
+  "ibge": "4127882",
+  "lat": -24.9754315,
+  "lon": -49.0844993
 }

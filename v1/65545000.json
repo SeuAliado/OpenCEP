@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Milagres do Maranhão",
   "uf": "MA",
-  "ibge": "2106672"
+  "ibge": "2106672",
+  "lat": -3.5748054,
+  "lon": -42.6134995
 }

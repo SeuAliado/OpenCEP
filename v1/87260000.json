@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araruna",
   "uf": "PR",
-  "ibge": "4101705"
+  "ibge": "4101705",
+  "lat": -23.9313748,
+  "lon": -52.4990389
 }

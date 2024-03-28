@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "lat": -7.5631046,
+  "lon": -35.0001728
 }

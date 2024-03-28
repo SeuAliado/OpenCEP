@@ -5,5 +5,7 @@
   "bairro": "Estação",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5356708,
+  "lon": -47.4088761
 }

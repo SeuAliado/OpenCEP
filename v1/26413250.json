@@ -5,5 +5,7 @@
   "bairro": "Cosme e Damião",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6927026,
+  "lon": -43.6237463
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Orquídeas",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.178092,
+  "lon": -46.9040499
 }

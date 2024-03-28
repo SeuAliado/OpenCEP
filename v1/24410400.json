@@ -5,5 +5,7 @@
   "bairro": "Tenente Jardim",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8631457,
+  "lon": -43.0826015
 }

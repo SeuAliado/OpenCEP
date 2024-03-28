@@ -5,5 +5,7 @@
   "bairro": "Vila Tolstoi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5993405,
+  "lon": -46.5207444
 }

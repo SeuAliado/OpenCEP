@@ -5,5 +5,7 @@
   "bairro": "Vila Conceição",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4685914,
+  "lon": -46.5392655
 }

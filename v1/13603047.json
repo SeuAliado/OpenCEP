@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Eucalíptos",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3544252,
+  "lon": -47.4088075
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto Porã",
   "localidade": "Pedregulho",
   "uf": "SP",
-  "ibge": "3537008"
+  "ibge": "3537008",
+  "lat": -20.0772694,
+  "lon": -47.484692
 }

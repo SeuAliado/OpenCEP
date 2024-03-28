@@ -5,5 +5,7 @@
   "bairro": "Novo Brasil",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "lat": -19.224316,
+  "lon": -40.5935125
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aliança",
   "uf": "PE",
-  "ibge": "2600708"
+  "ibge": "2600708",
+  "lat": -7.6043922,
+  "lon": -35.2230131
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Esmeralda",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.4971565,
+  "lon": -47.4477604
 }

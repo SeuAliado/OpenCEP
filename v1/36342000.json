@@ -5,5 +5,7 @@
   "bairro": "Jacarandira",
   "localidade": "Resende Costa",
   "uf": "MG",
-  "ibge": "3154200"
+  "ibge": "3154200",
+  "lat": -20.7601826,
+  "lon": -44.4157941
 }

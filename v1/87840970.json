@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mirador",
   "uf": "PR",
-  "ibge": "4115903"
+  "ibge": "4115903",
+  "lat": -23.258209,
+  "lon": -52.7789348
 }

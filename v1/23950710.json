@@ -5,5 +5,7 @@
   "bairro": "Praia Vermelha (Mambucaba)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0206743,
+  "lon": -44.4956419
 }

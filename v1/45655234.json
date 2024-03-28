@@ -5,5 +5,7 @@
   "bairro": "Ilhéus II",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.8363853,
+  "lon": -39.0379281
 }

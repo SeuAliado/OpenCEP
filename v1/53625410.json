@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Sorte",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8611719,
+  "lon": -34.9070693
 }

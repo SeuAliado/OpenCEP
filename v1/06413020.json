@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4937789,
+  "lon": -46.8779311
 }

@@ -5,5 +5,7 @@
   "bairro": "da Estação",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "lat": -3.5335017,
+  "lon": -39.5174455
 }

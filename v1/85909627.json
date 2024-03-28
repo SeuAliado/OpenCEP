@@ -5,5 +5,7 @@
   "bairro": "Jardim Cassandra",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7368283,
+  "lon": -53.7276549
 }

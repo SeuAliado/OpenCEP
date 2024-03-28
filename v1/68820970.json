@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Sebastião da Boa Vista",
   "uf": "PA",
-  "ibge": "1507706"
+  "ibge": "1507706",
+  "lat": -1.7231405,
+  "lon": -49.5329685
 }

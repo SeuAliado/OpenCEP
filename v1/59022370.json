@@ -5,5 +5,7 @@
   "bairro": "Lagoa Seca",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.8102285,
+  "lon": -35.2074253
 }

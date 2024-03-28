@@ -5,5 +5,7 @@
   "bairro": "Jardim Colonial",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3196401,
+  "lon": -49.2970767
 }

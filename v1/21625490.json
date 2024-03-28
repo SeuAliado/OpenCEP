@@ -5,5 +5,7 @@
   "bairro": "Parque Anchieta",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8310871,
+  "lon": -43.3981529
 }

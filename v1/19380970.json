@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão dos Índios",
   "uf": "SP",
-  "ibge": "3543238"
+  "ibge": "3543238",
+  "lat": -21.8387188,
+  "lon": -51.6035776
 }

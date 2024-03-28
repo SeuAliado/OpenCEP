@@ -5,5 +5,7 @@
   "bairro": "Vila Nilva",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.499916,
+  "lon": -46.8640356
 }

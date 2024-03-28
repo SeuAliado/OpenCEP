@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.8144499,
+  "lon": -63.8792467
 }

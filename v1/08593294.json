@@ -5,5 +5,7 @@
   "bairro": "Jardim Lucinda",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4650057,
+  "lon": -46.2968426
 }

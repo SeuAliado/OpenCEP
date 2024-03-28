@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Botumirim",
   "uf": "MG",
-  "ibge": "3108503"
+  "ibge": "3108503",
+  "lat": -16.8662071,
+  "lon": -43.008976
 }

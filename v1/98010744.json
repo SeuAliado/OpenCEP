@@ -5,5 +5,7 @@
   "bairro": "Boa Parada",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6466164,
+  "lon": -53.6187171
 }

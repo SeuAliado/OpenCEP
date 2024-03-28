@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.578742,
+  "lon": -48.0238894
 }

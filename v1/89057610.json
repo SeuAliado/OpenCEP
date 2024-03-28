@@ -5,5 +5,7 @@
   "bairro": "Tribess",
   "localidade": "Blumenau",
   "uf": "SC",
-  "ibge": "4202404"
+  "ibge": "4202404",
+  "lat": -26.8733741,
+  "lon": -49.0489279
 }

@@ -5,5 +5,7 @@
   "bairro": "Morada dos Nobres",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5999142,
+  "lon": -56.054765
 }

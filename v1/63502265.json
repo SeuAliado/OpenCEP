@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3693714,
+  "lon": -39.298052
 }

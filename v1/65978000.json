@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro dos Crentes",
   "uf": "MA",
-  "ibge": "2111573"
+  "ibge": "2111573",
+  "lat": -6.8242864,
+  "lon": -46.5322758
 }

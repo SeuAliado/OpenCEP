@@ -5,5 +5,7 @@
   "bairro": "Limeira",
   "localidade": "Pavão",
   "uf": "MG",
-  "ibge": "3148509"
+  "ibge": "3148509",
+  "lat": -17.4680555,
+  "lon": -41.1297718
 }

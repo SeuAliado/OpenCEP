@@ -5,5 +5,7 @@
   "bairro": "Serra do Sol",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7352269,
+  "lon": -47.9706281
 }

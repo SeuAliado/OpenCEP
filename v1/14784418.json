@@ -5,5 +5,7 @@
   "bairro": "Oasis",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -24.17402,
+  "lon": -46.7746622
 }

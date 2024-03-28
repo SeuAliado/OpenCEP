@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6460036,
+  "lon": -40.515276
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tabocas do Brejo Velho",
   "uf": "BA",
-  "ibge": "2930907"
+  "ibge": "2930907",
+  "lat": -12.703073,
+  "lon": -44.0078478
 }

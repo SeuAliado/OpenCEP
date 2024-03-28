@@ -5,5 +5,7 @@
   "bairro": "Grogotó",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2012305,
+  "lon": -43.7791636
 }

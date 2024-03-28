@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus",
   "uf": "PB",
-  "ibge": "2502201"
+  "ibge": "2502201",
+  "lat": -6.815475,
+  "lon": -38.6544139
 }

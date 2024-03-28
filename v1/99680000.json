@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Constantina",
   "uf": "RS",
-  "ibge": "4305801"
+  "ibge": "4305801",
+  "lat": -27.7324609,
+  "lon": -52.9943138
 }

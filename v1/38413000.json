@@ -5,5 +5,7 @@
   "bairro": "Jaraguá",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9208299,
+  "lon": -48.305935
 }

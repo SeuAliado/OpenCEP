@@ -5,5 +5,7 @@
   "bairro": "Loteamento Aiuruoca",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5058462,
+  "lon": -44.1962339
 }

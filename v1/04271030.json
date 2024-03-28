@@ -5,5 +5,7 @@
   "bairro": "Vila São José (Ipiranga)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5883927,
+  "lon": -46.6134826
 }

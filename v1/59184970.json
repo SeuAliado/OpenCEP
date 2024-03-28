@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vera Cruz",
   "uf": "RN",
-  "ibge": "2414803"
+  "ibge": "2414803",
+  "lat": -6.044873,
+  "lon": -35.4286623
 }

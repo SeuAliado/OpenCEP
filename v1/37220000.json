@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Sucesso",
   "uf": "MG",
-  "ibge": "3108008"
+  "ibge": "3108008",
+  "lat": -21.0350635,
+  "lon": -44.7593214
 }

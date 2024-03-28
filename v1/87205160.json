@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "lat": -23.7485216,
+  "lon": -53.3068282
 }

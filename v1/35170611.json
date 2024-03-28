@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Penha",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5240219,
+  "lon": -42.634476
 }

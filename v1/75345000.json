@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Abadia de Goiás",
   "uf": "GO",
-  "ibge": "5200050"
+  "ibge": "5200050",
+  "lat": -16.763784,
+  "lon": -49.4377043
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Helvétia Park II",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0673976,
+  "lon": -47.1877704
 }

@@ -5,5 +5,7 @@
   "bairro": "Quinze",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -12.6290985,
+  "lon": -38.6794398
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Isabel",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5351246,
+  "lon": -47.4994143
 }

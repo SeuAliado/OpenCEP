@@ -5,5 +5,7 @@
   "bairro": "Azambuja",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -27.1261775,
+  "lon": -48.9163569
 }

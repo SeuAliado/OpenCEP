@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pindobaçu",
   "uf": "BA",
-  "ibge": "2924603"
+  "ibge": "2924603",
+  "lat": -10.741754,
+  "lon": -40.3607209
 }

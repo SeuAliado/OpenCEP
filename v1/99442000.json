@@ -5,5 +5,7 @@
   "bairro": "Passo Real",
   "localidade": "Salto do Jacuí",
   "uf": "RS",
-  "ibge": "4316451"
+  "ibge": "4316451",
+  "lat": -29.0863118,
+  "lon": -53.2252935
 }

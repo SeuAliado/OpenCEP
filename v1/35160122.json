@@ -5,5 +5,7 @@
   "bairro": "Cariru",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.4896852,
+  "lon": -42.521504
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Fé",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4368257,
+  "lon": -54.6372447
 }

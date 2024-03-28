@@ -5,5 +5,7 @@
   "bairro": "Sumarezinho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5478114,
+  "lon": -46.691036
 }

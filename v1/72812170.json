@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2474323,
+  "lon": -47.9511453
 }

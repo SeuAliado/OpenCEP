@@ -5,5 +5,7 @@
   "bairro": "Cararu",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "lat": -3.8215558,
+  "lon": -38.4215386
 }

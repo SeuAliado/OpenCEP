@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Três Passos",
   "uf": "RS",
-  "ibge": "4321907"
+  "ibge": "4321907",
+  "lat": -27.4467582,
+  "lon": -53.9430546
 }

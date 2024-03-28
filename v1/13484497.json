@@ -5,5 +5,7 @@
   "bairro": "Chácaras Antonieta",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.561167,
+  "lon": -47.4378892
 }

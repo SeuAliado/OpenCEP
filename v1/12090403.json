@@ -5,5 +5,7 @@
   "bairro": "Chácara Fonte Imaculada Conceição",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0411511,
+  "lon": -45.5450628
 }

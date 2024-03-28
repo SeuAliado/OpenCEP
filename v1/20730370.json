@@ -5,5 +5,7 @@
   "bairro": "Engenho de Dentro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.899556,
+  "lon": -43.2984912
 }

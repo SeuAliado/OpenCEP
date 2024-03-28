@@ -5,5 +5,7 @@
   "bairro": "Fazenda Fialho",
   "localidade": "São Valentim do Sul",
   "uf": "RS",
-  "ibge": "4319711"
+  "ibge": "4319711",
+  "lat": -29.0417295,
+  "lon": -51.7812418
 }

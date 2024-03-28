@@ -5,5 +5,7 @@
   "bairro": "Independência",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.4077864,
+  "lon": -42.710591
 }

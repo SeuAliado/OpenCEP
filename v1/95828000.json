@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "General Câmara",
   "uf": "RS",
-  "ibge": "4308805"
+  "ibge": "4308805",
+  "lat": -29.929517,
+  "lon": -51.9019849
 }

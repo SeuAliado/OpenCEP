@@ -5,5 +5,7 @@
   "bairro": "Cidade Salmen",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4696103,
+  "lon": -54.6600231
 }

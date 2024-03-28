@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mendonça",
   "uf": "SP",
-  "ibge": "3529500"
+  "ibge": "3529500",
+  "lat": -21.1835822,
+  "lon": -49.5782198
 }

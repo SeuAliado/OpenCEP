@@ -5,5 +5,7 @@
   "bairro": "Monte Pio",
   "localidade": "Castelo",
   "uf": "ES",
-  "ibge": "3201407"
+  "ibge": "3201407",
+  "lat": -20.6063456,
+  "lon": -41.1982293
 }

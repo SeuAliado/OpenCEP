@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Montauri",
   "uf": "RS",
-  "ibge": "4312351"
+  "ibge": "4312351",
+  "lat": -28.6731412,
+  "lon": -52.0533263
 }

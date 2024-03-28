@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapitanga",
   "uf": "BA",
-  "ibge": "2916609"
+  "ibge": "2916609",
+  "lat": -14.5108137,
+  "lon": -39.6105142
 }

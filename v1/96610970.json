@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Encruzilhada do Sul",
   "uf": "RS",
-  "ibge": "4306908"
+  "ibge": "4306908",
+  "lat": -30.5443605,
+  "lon": -52.5177123
 }

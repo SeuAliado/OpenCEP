@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeirão Cascalheira",
   "uf": "MT",
-  "ibge": "5107180"
+  "ibge": "5107180",
+  "lat": -12.9371655,
+  "lon": -51.8248805
 }

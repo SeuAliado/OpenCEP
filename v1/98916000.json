@@ -5,5 +5,7 @@
   "bairro": "Colônia Medeiros",
   "localidade": "Independência",
   "uf": "RS",
-  "ibge": "4310405"
+  "ibge": "4310405",
+  "lat": -27.9510131,
+  "lon": -54.1841995
 }

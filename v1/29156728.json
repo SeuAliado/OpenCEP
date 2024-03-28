@@ -5,5 +5,7 @@
   "bairro": "Planeta",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2868566,
+  "lon": -40.4031595
 }

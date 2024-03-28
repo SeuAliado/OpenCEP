@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "lat": -15.4486984,
+  "lon": -47.5866685
 }

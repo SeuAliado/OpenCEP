@@ -5,5 +5,7 @@
   "bairro": "Vila Del Rey",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0007356,
+  "lon": -43.9420722
 }

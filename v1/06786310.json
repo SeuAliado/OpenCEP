@@ -5,5 +5,7 @@
   "bairro": "Jardim Elizabete",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6226747,
+  "lon": -46.8076927
 }

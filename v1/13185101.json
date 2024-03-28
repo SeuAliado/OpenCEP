@@ -5,5 +5,7 @@
   "bairro": "Jardim do Brás",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8597598,
+  "lon": -47.1617581
 }

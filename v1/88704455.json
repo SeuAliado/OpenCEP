@@ -5,5 +5,7 @@
   "bairro": "Humaitá",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4772845,
+  "lon": -48.9930266
 }

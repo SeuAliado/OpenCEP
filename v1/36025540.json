@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7791412,
+  "lon": -43.3634647
 }

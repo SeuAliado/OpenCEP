@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Eugênio Barros",
   "uf": "MA",
-  "ibge": "2104602"
+  "ibge": "2104602",
+  "lat": -5.3912162,
+  "lon": -44.0579882
 }

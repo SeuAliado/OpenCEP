@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Bárbara de Goiás",
   "uf": "GO",
-  "ibge": "5219100"
+  "ibge": "5219100",
+  "lat": -15.9269268,
+  "lon": -50.1467038
 }

@@ -5,5 +5,7 @@
   "bairro": "Belo Horizonte",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "lat": -22.0440458,
+  "lon": -45.6973068
 }

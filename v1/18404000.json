@@ -5,5 +5,7 @@
   "bairro": "Loteamento Longa Vida",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9866502,
+  "lon": -48.8703084
 }

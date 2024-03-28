@@ -5,5 +5,7 @@
   "bairro": "Lindóia",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4760647,
+  "lon": -49.2756671
 }

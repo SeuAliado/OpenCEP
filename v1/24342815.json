@@ -5,5 +5,7 @@
   "bairro": "Serra Grande",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9409606,
+  "lon": -43.0399546
 }

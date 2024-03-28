@@ -5,5 +5,7 @@
   "bairro": "Mansões Samurai",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.754051,
+  "lon": -48.325029
 }

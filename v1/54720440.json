@@ -5,5 +5,7 @@
   "bairro": "Muribara",
   "localidade": "São Lourenço da Mata",
   "uf": "PE",
-  "ibge": "2613701"
+  "ibge": "2613701",
+  "lat": -8.0054378,
+  "lon": -35.0427512
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0494346,
+  "lon": -45.7150604
 }

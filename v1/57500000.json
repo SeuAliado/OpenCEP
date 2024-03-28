@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Ipanema",
   "uf": "AL",
-  "ibge": "2708006"
+  "ibge": "2708006",
+  "lat": -9.3704171,
+  "lon": -37.2483522
 }

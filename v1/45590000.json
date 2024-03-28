@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dário Meira",
   "uf": "BA",
-  "ibge": "2910008"
+  "ibge": "2910008",
+  "lat": -14.4335694,
+  "lon": -39.9036939
 }

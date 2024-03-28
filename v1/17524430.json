@@ -5,5 +5,7 @@
   "bairro": "Jardim Aparecida Nasser",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2423284,
+  "lon": -49.9283122
 }

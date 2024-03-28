@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora das Graças",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "lat": -29.9312761,
+  "lon": -51.1612903
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1064646,
+  "lon": -48.9305522
 }

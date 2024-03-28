@@ -5,5 +5,7 @@
   "bairro": "Piratini",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8193259,
+  "lon": -51.1562938
 }

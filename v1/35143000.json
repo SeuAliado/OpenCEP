@@ -5,5 +5,7 @@
   "bairro": "São Vicente do Rio Doce",
   "localidade": "Tarumirim",
   "uf": "MG",
-  "ibge": "3168408"
+  "ibge": "3168408",
+  "lat": -19.2625749,
+  "lon": -41.8098764
 }

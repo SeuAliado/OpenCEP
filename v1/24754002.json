@@ -5,5 +5,7 @@
   "bairro": "Novo México",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8012834,
+  "lon": -42.9435675
 }

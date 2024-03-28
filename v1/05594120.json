@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5820953,
+  "lon": -46.7398256
 }

@@ -5,5 +5,7 @@
   "bairro": "Rainha",
   "localidade": "Rio do Sul",
   "uf": "SC",
-  "ibge": "4214805"
+  "ibge": "4214805",
+  "lat": -27.1949002,
+  "lon": -49.6252673
 }

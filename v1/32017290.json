@@ -5,5 +5,7 @@
   "bairro": "Betânia",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9106391,
+  "lon": -44.085995
 }

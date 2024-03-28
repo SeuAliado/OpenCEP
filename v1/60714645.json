@@ -5,5 +5,7 @@
   "bairro": "Dendê",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8004787,
+  "lon": -38.5563344
 }

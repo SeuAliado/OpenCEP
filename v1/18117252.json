@@ -5,5 +5,7 @@
   "bairro": "Parque Jataí",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5714687,
+  "lon": -47.462821
 }

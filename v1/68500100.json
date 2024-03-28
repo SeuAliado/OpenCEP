@@ -5,5 +5,7 @@
   "bairro": "Velha Marabá",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "lat": -5.3485419,
+  "lon": -49.1322288
 }

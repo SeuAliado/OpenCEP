@@ -5,5 +5,7 @@
   "bairro": "Rubem Berta",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -29.999927,
+  "lon": -51.0936815
 }

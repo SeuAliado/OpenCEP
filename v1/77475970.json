@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Araguaçu",
   "uf": "TO",
-  "ibge": "1702000"
+  "ibge": "1702000",
+  "lat": -7.187535,
+  "lon": -48.2088702
 }

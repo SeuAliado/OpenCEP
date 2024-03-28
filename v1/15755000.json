@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Turmalina",
   "uf": "SP",
-  "ibge": "3555307"
+  "ibge": "3555307",
+  "lat": -20.0490536,
+  "lon": -50.4796644
 }

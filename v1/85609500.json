@@ -5,5 +5,7 @@
   "bairro": "Gaúcha",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -24.5264032,
+  "lon": -54.050772
 }

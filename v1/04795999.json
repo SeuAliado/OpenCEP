@@ -5,5 +5,7 @@
   "bairro": "Vila Almeida",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6674878,
+  "lon": -46.7054691
 }

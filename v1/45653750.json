@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7992248,
+  "lon": -39.0329405
 }

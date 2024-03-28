@@ -5,5 +5,7 @@
   "bairro": "Jardim Del Rei",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8132593,
+  "lon": -48.1417786
 }

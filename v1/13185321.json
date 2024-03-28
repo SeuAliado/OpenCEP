@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosolém",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.893954,
+  "lon": -47.178732
 }

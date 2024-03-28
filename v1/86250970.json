@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Santa Bárbara",
   "uf": "PR",
-  "ibge": "4117214"
+  "ibge": "4117214",
+  "lat": -23.5889039,
+  "lon": -50.7654084
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Vista Verde",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4740234,
+  "lon": -46.750343
 }

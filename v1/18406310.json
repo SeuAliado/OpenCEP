@@ -5,5 +5,7 @@
   "bairro": "Jardim América I",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9986579,
+  "lon": -48.8842954
 }

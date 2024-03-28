@@ -5,5 +5,7 @@
   "bairro": "Vila Renascença",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8651528,
+  "lon": -47.1424458
 }

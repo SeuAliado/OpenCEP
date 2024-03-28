@@ -5,5 +5,7 @@
   "bairro": "Córrego Frio",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.8051809,
+  "lon": -43.8722383
 }

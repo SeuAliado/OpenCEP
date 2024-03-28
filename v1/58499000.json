@@ -5,5 +5,7 @@
   "bairro": "Mata Virgem",
   "localidade": "Umbuzeiro",
   "uf": "PB",
-  "ibge": "2517001"
+  "ibge": "2517001",
+  "lat": -7.739989,
+  "lon": -35.7933068
 }

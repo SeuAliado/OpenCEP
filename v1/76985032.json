@@ -5,5 +5,7 @@
   "bairro": "Residencial Alto dos Parecis",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7186223,
+  "lon": -60.123103
 }

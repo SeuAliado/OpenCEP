@@ -5,5 +5,7 @@
   "bairro": "Parque Jequitibás",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9703646,
+  "lon": -46.7690347
 }

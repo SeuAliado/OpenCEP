@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaipu",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.4901349,
+  "lon": -55.7241764
 }

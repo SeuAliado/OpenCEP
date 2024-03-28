@@ -5,5 +5,7 @@
   "bairro": "Camela",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "lat": -8.5086185,
+  "lon": -35.1014438
 }

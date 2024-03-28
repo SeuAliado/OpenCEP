@@ -5,5 +5,7 @@
   "bairro": "Barreiros",
   "localidade": "Riachão do Jacuípe",
   "uf": "BA",
-  "ibge": "2926301"
+  "ibge": "2926301",
+  "lat": -11.5942413,
+  "lon": -39.5196916
 }

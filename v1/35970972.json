@@ -5,5 +5,7 @@
   "bairro": "Viúva",
   "localidade": "Barão de Cocais",
   "uf": "MG",
-  "ibge": "3105400"
+  "ibge": "3105400",
+  "lat": -19.9416905,
+  "lon": -43.4823198
 }

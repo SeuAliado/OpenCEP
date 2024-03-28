@@ -5,5 +5,7 @@
   "bairro": "São Simão",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6540512,
+  "lon": -49.3459722
 }

@@ -5,5 +5,7 @@
   "bairro": "Madre Maria de Jesus",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6477838,
+  "lon": -43.2268684
 }

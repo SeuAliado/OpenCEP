@@ -5,5 +5,7 @@
   "bairro": "Loteamento Couto Magalhães",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1714728,
+  "lon": -48.2099866
 }

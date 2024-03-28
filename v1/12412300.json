@@ -5,5 +5,7 @@
   "bairro": "Residencial Ouro Verde",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.944566,
+  "lon": -45.4585693
 }

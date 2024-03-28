@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1775294,
+  "lon": -47.181777
 }

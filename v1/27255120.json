@@ -5,5 +5,7 @@
   "bairro": "Laranjal",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5164099,
+  "lon": -44.0960486
 }

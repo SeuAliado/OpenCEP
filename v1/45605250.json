@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Conceição",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7896945,
+  "lon": -39.2712375
 }

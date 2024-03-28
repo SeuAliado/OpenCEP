@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Isabel do Pará",
   "uf": "PA",
-  "ibge": "1506500"
+  "ibge": "1506500",
+  "lat": -1.2982048,
+  "lon": -48.1570434
 }

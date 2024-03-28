@@ -5,5 +5,7 @@
   "bairro": "Alice Coutinho",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3008788,
+  "lon": -40.4041291
 }

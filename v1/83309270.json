@@ -5,5 +5,7 @@
   "bairro": "Nemari V",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.5213324,
+  "lon": -49.0921763
 }

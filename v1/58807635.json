@@ -5,5 +5,7 @@
   "bairro": "Alto do Capanema",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.762873,
+  "lon": -38.2330437
 }

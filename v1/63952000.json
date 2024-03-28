@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Choró",
   "uf": "CE",
-  "ibge": "2303931"
+  "ibge": "2303931",
+  "lat": -4.8394498,
+  "lon": -39.1347469
 }

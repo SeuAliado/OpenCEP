@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Calvo",
   "uf": "AL",
-  "ibge": "2707305"
+  "ibge": "2707305",
+  "lat": -9.0510868,
+  "lon": -35.3995891
 }

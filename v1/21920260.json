@@ -5,5 +5,7 @@
   "bairro": "Moneró",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.7988621,
+  "lon": -43.1975664
 }

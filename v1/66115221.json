@@ -5,5 +5,7 @@
   "bairro": "Val-de-Cães",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3781419,
+  "lon": -48.4791565
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Jesus dos Passos",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4464881,
+  "lon": -49.0690601
 }

@@ -5,5 +5,7 @@
   "bairro": "Joaquim Fonseca Milano",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7886221,
+  "lon": -55.8042502
 }

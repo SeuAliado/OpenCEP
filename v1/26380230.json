@@ -5,5 +5,7 @@
   "bairro": "São Simão",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7105939,
+  "lon": -43.5520892
 }

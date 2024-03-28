@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tigrinhos",
   "uf": "SC",
-  "ibge": "4217956"
+  "ibge": "4217956",
+  "lat": -26.686251,
+  "lon": -53.1569772
 }

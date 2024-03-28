@@ -5,5 +5,7 @@
   "bairro": "Nova Macaé",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3750727,
+  "lon": -41.795351
 }

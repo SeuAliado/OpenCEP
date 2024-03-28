@@ -5,5 +5,7 @@
   "bairro": "Itapeipu",
   "localidade": "Jacobina",
   "uf": "BA",
-  "ibge": "2917508"
+  "ibge": "2917508",
+  "lat": -11.3759055,
+  "lon": -40.3045131
 }

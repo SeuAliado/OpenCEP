@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Passagem Franca",
   "uf": "MA",
-  "ibge": "2107902"
+  "ibge": "2107902",
+  "lat": -6.2179947,
+  "lon": -43.7142484
 }

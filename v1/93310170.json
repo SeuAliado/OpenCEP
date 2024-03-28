@@ -5,5 +5,7 @@
   "bairro": "Rio Branco",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.6885834,
+  "lon": -51.140168
 }

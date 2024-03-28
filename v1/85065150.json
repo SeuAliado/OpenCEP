@@ -5,5 +5,7 @@
   "bairro": "Alto da XV",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.3769626,
+  "lon": -51.457697
 }

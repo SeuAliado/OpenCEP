@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Belo",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.3988779,
+  "lon": -54.5769703
 }

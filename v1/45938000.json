@@ -5,5 +5,7 @@
   "bairro": "Ibiranhém",
   "localidade": "Mucuri",
   "uf": "BA",
-  "ibge": "2922003"
+  "ibge": "2922003",
+  "lat": -17.8450802,
+  "lon": -40.1726472
 }

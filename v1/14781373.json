@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5322438,
+  "lon": -48.5755037
 }

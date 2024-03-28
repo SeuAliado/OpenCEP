@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Bosco",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6527088,
+  "lon": -46.7215868
 }

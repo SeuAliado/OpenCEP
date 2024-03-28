@@ -5,5 +5,7 @@
   "bairro": "Jardim São Miguel",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.613232,
+  "lon": -46.7723386
 }

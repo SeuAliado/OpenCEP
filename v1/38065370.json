@@ -5,5 +5,7 @@
   "bairro": "Fabrício",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7365255,
+  "lon": -47.9340916
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Livramento",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "lat": -7.1294452,
+  "lon": -34.9599595
 }

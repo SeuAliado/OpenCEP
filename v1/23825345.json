@@ -5,5 +5,7 @@
   "bairro": "Itimirim",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.904345,
+  "lon": -43.876576
 }

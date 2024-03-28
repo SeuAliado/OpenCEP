@@ -5,5 +5,7 @@
   "bairro": "Vila Aurea",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5533057,
+  "lon": -46.4100374
 }

@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5834556,
+  "lon": -46.5120432
 }

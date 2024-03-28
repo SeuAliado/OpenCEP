@@ -5,5 +5,7 @@
   "bairro": "Área Litorânea",
   "localidade": "Extremoz",
   "uf": "RN",
-  "ibge": "2403608"
+  "ibge": "2403608",
+  "lat": -5.6891309,
+  "lon": -35.2171539
 }

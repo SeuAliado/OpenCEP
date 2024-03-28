@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Augusto",
   "uf": "RS",
-  "ibge": "4317806"
+  "ibge": "4317806",
+  "lat": -27.8497705,
+  "lon": -53.7755614
 }

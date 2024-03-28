@@ -5,5 +5,7 @@
   "bairro": "Grajaú",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.921975,
+  "lon": -43.2648161
 }

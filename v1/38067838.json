@@ -5,5 +5,7 @@
   "bairro": "Chácaras das Orquideas",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7191185,
+  "lon": -47.9352098
 }

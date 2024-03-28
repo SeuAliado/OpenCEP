@@ -5,5 +5,7 @@
   "bairro": "Botafogo",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9554116,
+  "lon": -43.1774236
 }

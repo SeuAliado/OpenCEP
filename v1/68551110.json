@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Redenção",
   "uf": "PA",
-  "ibge": "1506138"
+  "ibge": "1506138",
+  "lat": -8.0472623,
+  "lon": -50.0147747
 }

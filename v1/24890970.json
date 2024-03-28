@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tanguá",
   "uf": "RJ",
-  "ibge": "3305752"
+  "ibge": "3305752",
+  "lat": -22.7354205,
+  "lon": -42.7233419
 }

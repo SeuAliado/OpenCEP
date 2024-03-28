@@ -5,5 +5,7 @@
   "bairro": "Praia do Anil",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.9833219,
+  "lon": -44.3033417
 }

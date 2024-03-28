@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaporé",
   "uf": "RS",
-  "ibge": "4309407"
+  "ibge": "4309407",
+  "lat": -28.8483341,
+  "lon": -51.8970894
 }

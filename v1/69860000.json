@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pauini",
   "uf": "AM",
-  "ibge": "1303502"
+  "ibge": "1303502",
+  "lat": -7.7134893,
+  "lon": -66.9925814
 }

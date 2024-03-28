@@ -5,5 +5,7 @@
   "bairro": "Monte Belo",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3553539,
+  "lon": -51.1421929
 }

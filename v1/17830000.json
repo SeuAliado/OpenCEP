@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Flórida Paulista",
   "uf": "SP",
-  "ibge": "3516002"
+  "ibge": "3516002",
+  "lat": -21.6131815,
+  "lon": -51.1729216
 }

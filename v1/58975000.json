@@ -5,5 +5,7 @@
   "bairro": "Montevidéu",
   "localidade": "Conceição",
   "uf": "PB",
-  "ibge": "2504405"
+  "ibge": "2504405",
+  "lat": -7.2199459,
+  "lon": -35.898276
 }

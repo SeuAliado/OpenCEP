@@ -5,5 +5,7 @@
   "bairro": "Pimentas",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9231138,
+  "lon": -44.2935012
 }

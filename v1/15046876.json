@@ -5,5 +5,7 @@
   "bairro": "Jardim Nunes 2",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7534949,
+  "lon": -49.3880079
 }

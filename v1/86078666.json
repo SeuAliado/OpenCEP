@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Michael Licha",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2792431,
+  "lon": -51.1609329
 }

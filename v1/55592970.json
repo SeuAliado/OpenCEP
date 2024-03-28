@@ -5,5 +5,7 @@
   "bairro": "Porto de Galinhas",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "lat": -8.5064472,
+  "lon": -35.0013466
 }

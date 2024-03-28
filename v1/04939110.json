@@ -5,5 +5,7 @@
   "bairro": "Jardim Copacabana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6915359,
+  "lon": -46.7710376
 }

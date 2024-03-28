@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitar Brasil",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5268106,
+  "lon": -47.4868721
 }

@@ -5,5 +5,7 @@
   "bairro": "Petrolândia",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9306463,
+  "lon": -44.1115335
 }

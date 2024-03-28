@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8840602,
+  "lon": -43.7985991
 }

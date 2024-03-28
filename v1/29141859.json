@@ -5,5 +5,7 @@
   "bairro": "Padre Gabriel",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3722833,
+  "lon": -40.396957
 }

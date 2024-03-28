@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6410011,
+  "lon": -40.4799283
 }

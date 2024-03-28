@@ -5,5 +5,7 @@
   "bairro": "Renascer",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.601566,
+  "lon": -56.0628682
 }

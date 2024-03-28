@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5262783,
+  "lon": -47.4048266
 }

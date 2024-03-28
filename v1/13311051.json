@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Tereza",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.265323,
+  "lon": -47.3088049
 }

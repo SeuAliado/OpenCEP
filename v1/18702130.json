@@ -5,5 +5,7 @@
   "bairro": "Vila Martins III",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1153645,
+  "lon": -48.9094993
 }

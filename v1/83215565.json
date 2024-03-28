@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Prefeito Cominese",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5692297,
+  "lon": -48.5719885
 }

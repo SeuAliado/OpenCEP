@@ -5,5 +5,7 @@
   "bairro": "Coqueiral",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.86089,
+  "lon": -38.5834667
 }

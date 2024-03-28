@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0189211,
+  "lon": -47.4247658
 }

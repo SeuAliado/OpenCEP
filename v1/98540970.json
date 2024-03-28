@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miraguaí",
   "uf": "RS",
-  "ibge": "4312302"
+  "ibge": "4312302",
+  "lat": -27.5056888,
+  "lon": -53.6807322
 }

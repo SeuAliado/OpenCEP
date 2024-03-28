@@ -5,5 +5,7 @@
   "bairro": "Contendas",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9124366,
+  "lon": -46.9617586
 }

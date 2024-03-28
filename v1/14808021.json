@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.814714,
+  "lon": -48.1619225
 }

@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Coronel Vivida",
   "uf": "PR",
-  "ibge": "4106506"
+  "ibge": "4106506",
+  "lat": -25.9345469,
+  "lon": -52.7077476
 }

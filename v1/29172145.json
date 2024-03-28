@@ -5,5 +5,7 @@
   "bairro": "Feu Rosa",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1753637,
+  "lon": -40.2001087
 }

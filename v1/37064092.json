@@ -5,5 +5,7 @@
   "bairro": "Jardim Simões",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5859126,
+  "lon": -45.4305261
 }

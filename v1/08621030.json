@@ -5,5 +5,7 @@
   "bairro": "Estância dos Pinheirais",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5616641,
+  "lon": -46.2926477
 }

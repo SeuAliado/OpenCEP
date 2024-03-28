@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camacan",
   "uf": "BA",
-  "ibge": "2905602"
+  "ibge": "2905602",
+  "lat": -15.4201038,
+  "lon": -39.4964037
 }

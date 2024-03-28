@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6002769,
+  "lon": -46.9281913
 }

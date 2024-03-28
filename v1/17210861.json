@@ -5,5 +5,7 @@
   "bairro": "Villagio Di Roma",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2851132,
+  "lon": -48.515699
 }

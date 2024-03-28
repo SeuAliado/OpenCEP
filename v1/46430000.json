@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guanambi",
   "uf": "BA",
-  "ibge": "2911709"
+  "ibge": "2911709",
+  "lat": -14.2193381,
+  "lon": -42.7796907
 }

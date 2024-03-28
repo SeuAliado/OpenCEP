@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial José Belinati",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2691862,
+  "lon": -51.1541837
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caicó",
   "uf": "RN",
-  "ibge": "2402006"
+  "ibge": "2402006",
+  "lat": -6.4593115,
+  "lon": -37.0957734
 }

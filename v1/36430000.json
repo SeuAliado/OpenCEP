@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana dos Montes",
   "uf": "MG",
-  "ibge": "3159100"
+  "ibge": "3159100",
+  "lat": -20.7880193,
+  "lon": -43.6915013
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Recanto Paulistano",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5595451,
+  "lon": -46.9525924
 }

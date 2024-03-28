@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lajinha",
   "uf": "MG",
-  "ibge": "3137700"
+  "ibge": "3137700",
+  "lat": -20.1544287,
+  "lon": -41.6232116
 }

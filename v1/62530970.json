@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miraíma",
   "uf": "CE",
-  "ibge": "2308377"
+  "ibge": "2308377",
+  "lat": -3.5693639,
+  "lon": -39.9706809
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras II",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4008801,
+  "lon": -49.9780381
 }

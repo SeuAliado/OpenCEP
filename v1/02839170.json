@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4762708,
+  "lon": -46.6807831
 }

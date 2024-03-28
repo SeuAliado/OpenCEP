@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "lat": -3.8928816,
+  "lon": -38.4562186
 }

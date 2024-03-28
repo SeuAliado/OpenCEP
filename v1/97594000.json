@@ -5,5 +5,7 @@
   "bairro": "Caverá",
   "localidade": "Rosário do Sul",
   "uf": "RS",
-  "ibge": "4316402"
+  "ibge": "4316402",
+  "lat": -30.2512911,
+  "lon": -54.9360974
 }

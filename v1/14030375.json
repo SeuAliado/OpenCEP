@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1936953,
+  "lon": -47.8376833
 }

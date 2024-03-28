@@ -5,5 +5,7 @@
   "bairro": "Jardim Taboão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6092051,
+  "lon": -46.7506518
 }

@@ -5,5 +5,7 @@
   "bairro": "Garcia",
   "localidade": "Angelina",
   "uf": "SC",
-  "ibge": "4200903"
+  "ibge": "4200903",
+  "lat": -27.4897157,
+  "lon": -48.9906999
 }

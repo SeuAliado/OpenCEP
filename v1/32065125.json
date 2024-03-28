@@ -5,5 +5,7 @@
   "bairro": "Quintas do Jacuba",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8902718,
+  "lon": -44.114595
 }

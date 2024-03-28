@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3665607,
+  "lon": -48.9186794
 }

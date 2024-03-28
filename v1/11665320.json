@@ -5,5 +5,7 @@
   "bairro": "Indaiá",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6377876,
+  "lon": -45.425589
 }

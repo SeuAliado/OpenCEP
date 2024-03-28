@@ -5,5 +5,7 @@
   "bairro": "Jardim Aurora",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4273808,
+  "lon": -46.958089
 }

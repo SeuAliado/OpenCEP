@@ -5,5 +5,7 @@
   "bairro": "São João das Missões",
   "localidade": "São Miguel das Missões",
   "uf": "RS",
-  "ibge": "4319158"
+  "ibge": "4319158",
+  "lat": -28.5468168,
+  "lon": -54.551331
 }

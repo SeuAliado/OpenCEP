@@ -5,5 +5,7 @@
   "bairro": "Laje Grande",
   "localidade": "Catende",
   "uf": "PE",
-  "ibge": "2604205"
+  "ibge": "2604205",
+  "lat": -8.5980561,
+  "lon": -35.7812136
 }

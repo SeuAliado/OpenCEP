@@ -5,5 +5,7 @@
   "bairro": "Conjunto Alvorada",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5227376,
+  "lon": -46.3383209
 }

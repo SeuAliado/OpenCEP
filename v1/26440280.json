@@ -5,5 +5,7 @@
   "bairro": "Mactube",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6385548,
+  "lon": -43.6495402
 }

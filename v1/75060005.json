@@ -5,5 +5,7 @@
   "bairro": "Nova Alexandrina",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3013552,
+  "lon": -48.958768
 }

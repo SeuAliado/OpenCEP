@@ -5,5 +5,7 @@
   "bairro": "Jardim das Américas",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.228432,
+  "lon": -52.6792647
 }

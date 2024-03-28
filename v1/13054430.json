@@ -5,5 +5,7 @@
   "bairro": "Dic IV (Conjunto Habitacional Lech Walesa)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9822005,
+  "lon": -47.1218812
 }

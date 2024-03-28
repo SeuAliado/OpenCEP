@@ -5,5 +5,7 @@
   "bairro": "Góes Calmon",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7979494,
+  "lon": -39.2715864
 }

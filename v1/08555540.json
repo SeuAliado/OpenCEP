@@ -5,5 +5,7 @@
   "bairro": "Jardim Violeta",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.4922033,
+  "lon": -46.3460182
 }

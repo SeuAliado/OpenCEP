@@ -5,5 +5,7 @@
   "bairro": "Almofala",
   "localidade": "Itarema",
   "uf": "CE",
-  "ibge": "2306553"
+  "ibge": "2306553",
+  "lat": -2.9416624,
+  "lon": -39.8339451
 }

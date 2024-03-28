@@ -5,5 +5,7 @@
   "bairro": "Ventura",
   "localidade": "Alcântaras",
   "uf": "CE",
-  "ibge": "2300507"
+  "ibge": "2300507",
+  "lat": -3.5537152,
+  "lon": -40.5613246
 }

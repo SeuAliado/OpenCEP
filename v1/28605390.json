@@ -5,5 +5,7 @@
   "bairro": "Loteamento Sitio Jacina",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.2612347,
+  "lon": -42.5217273
 }

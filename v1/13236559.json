@@ -5,5 +5,7 @@
   "bairro": "Moinho",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.217405,
+  "lon": -46.7988147
 }

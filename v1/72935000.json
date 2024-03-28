@@ -5,5 +5,7 @@
   "bairro": "Olhos D'Água",
   "localidade": "Alexânia",
   "uf": "GO",
-  "ibge": "5200308"
+  "ibge": "5200308",
+  "lat": -16.0888444,
+  "lon": -48.5093239
 }

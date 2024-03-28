@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Terra Nova",
   "uf": "BA",
-  "ibge": "2931707"
+  "ibge": "2931707",
+  "lat": -12.3936916,
+  "lon": -38.6320086
 }

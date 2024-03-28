@@ -5,5 +5,7 @@
   "bairro": "Centro Político Administrativo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5458331,
+  "lon": -56.0783025
 }

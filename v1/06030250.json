@@ -5,5 +5,7 @@
   "bairro": "Adalgisa",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.561356,
+  "lon": -46.7668193
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Redentora",
   "uf": "RS",
-  "ibge": "4315404"
+  "ibge": "4315404",
+  "lat": -27.6644383,
+  "lon": -53.6411875
 }

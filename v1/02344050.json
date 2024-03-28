@@ -5,5 +5,7 @@
   "bairro": "Barro Branco (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4674269,
+  "lon": -46.6100436
 }

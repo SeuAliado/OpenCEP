@@ -5,5 +5,7 @@
   "bairro": "Parque 10 de Novembro",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.0798023,
+  "lon": -60.012597
 }

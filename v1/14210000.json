@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luís Antônio",
   "uf": "SP",
-  "ibge": "3527603"
+  "ibge": "3527603",
+  "lat": -21.5528204,
+  "lon": -47.6986628
 }

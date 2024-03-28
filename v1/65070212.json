@@ -5,5 +5,7 @@
   "bairro": "Vila 25 de Maio",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -4.8190197,
+  "lon": -42.173726
 }

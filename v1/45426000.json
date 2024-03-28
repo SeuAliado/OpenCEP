@@ -5,5 +5,7 @@
   "bairro": "Velha Boipeba",
   "localidade": "Cairu",
   "uf": "BA",
-  "ibge": "2905404"
+  "ibge": "2905404",
+  "lat": -13.5577398,
+  "lon": -38.9385148
 }

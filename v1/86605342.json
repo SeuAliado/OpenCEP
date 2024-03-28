@@ -5,5 +5,7 @@
   "bairro": "Jardim Caviúna",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "lat": -23.3280359,
+  "lon": -51.3802642
 }

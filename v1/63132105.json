@@ -5,5 +5,7 @@
   "bairro": "Muriti",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.227883,
+  "lon": -39.3806377
 }

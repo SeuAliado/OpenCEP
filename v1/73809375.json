@@ -5,5 +5,7 @@
   "bairro": "Nova Formosa",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5279943,
+  "lon": -47.3086034
 }

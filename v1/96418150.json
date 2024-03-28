@@ -5,5 +5,7 @@
   "bairro": "Castro Alves",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3493237,
+  "lon": -54.0836453
 }

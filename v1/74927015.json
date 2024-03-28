@@ -5,5 +5,7 @@
   "bairro": "Parque Trindade II",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7539114,
+  "lon": -49.2047727
 }

@@ -5,5 +5,7 @@
   "bairro": "Barra do Sotero",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "lat": -4.404549,
+  "lon": -40.9186277
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Herminia",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2117092,
+  "lon": -54.7725749
 }

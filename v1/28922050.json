@@ -5,5 +5,7 @@
   "bairro": "Gamboa",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.87048,
+  "lon": -42.0088414
 }

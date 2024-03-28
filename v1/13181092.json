@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8282843,
+  "lon": -47.1905176
 }

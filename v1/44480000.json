@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguaripe",
   "uf": "BA",
-  "ibge": "2917805"
+  "ibge": "2917805",
+  "lat": -13.1130811,
+  "lon": -38.8960733
 }

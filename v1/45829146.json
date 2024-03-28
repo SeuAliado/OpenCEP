@@ -5,5 +5,7 @@
   "bairro": "URBIS I",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3876834,
+  "lon": -39.5846547
 }

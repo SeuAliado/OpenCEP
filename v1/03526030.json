@@ -5,5 +5,7 @@
   "bairro": "Jardim Fernandes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5506416,
+  "lon": -46.4992376
 }

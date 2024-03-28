@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cerro Grande",
   "uf": "RS",
-  "ibge": "4305157"
+  "ibge": "4305157",
+  "lat": -27.6111069,
+  "lon": -53.1677486
 }

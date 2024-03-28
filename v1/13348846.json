@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Veneza",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0677841,
+  "lon": -47.2326772
 }

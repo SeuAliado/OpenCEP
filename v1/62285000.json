@@ -5,5 +5,7 @@
   "bairro": "Macaraú",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "lat": -4.1010868,
+  "lon": -40.429428
 }

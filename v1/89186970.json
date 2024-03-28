@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aurora",
   "uf": "SC",
-  "ibge": "4201901"
+  "ibge": "4201901",
+  "lat": -27.0597733,
+  "lon": -53.1642173
 }

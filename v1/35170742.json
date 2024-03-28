@@ -5,5 +5,7 @@
   "bairro": "Surinan",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4897246,
+  "lon": -42.6323564
 }

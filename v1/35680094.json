@@ -5,5 +5,7 @@
   "bairro": "Vila Vilaça",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0643984,
+  "lon": -44.5628004
 }

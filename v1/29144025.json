@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro do Sul",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3486067,
+  "lon": -40.3946795
 }

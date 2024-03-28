@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8442012,
+  "lon": -51.1188391
 }

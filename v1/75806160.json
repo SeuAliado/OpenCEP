@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8736048,
+  "lon": -51.7142271
 }

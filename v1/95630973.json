@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Parobé",
   "uf": "RS",
-  "ibge": "4314050"
+  "ibge": "4314050",
+  "lat": -29.6275978,
+  "lon": -50.8264495
 }

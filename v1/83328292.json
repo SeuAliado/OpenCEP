@@ -5,5 +5,7 @@
   "bairro": "Jardim Karla",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4254167,
+  "lon": -49.1505516
 }

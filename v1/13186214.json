@@ -5,5 +5,7 @@
   "bairro": "Jardim Mirante de Sumaré",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8846697,
+  "lon": -47.1956893
 }

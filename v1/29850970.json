@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "lat": -18.3724786,
+  "lon": -40.8295702
 }

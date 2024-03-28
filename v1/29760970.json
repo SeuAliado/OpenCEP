@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Rio Novo",
   "uf": "ES",
-  "ibge": "3200359"
+  "ibge": "3200359",
+  "lat": -19.0561874,
+  "lon": -41.017275
 }

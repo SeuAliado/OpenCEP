@@ -5,5 +5,7 @@
   "bairro": "Setor Cristina",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6334308,
+  "lon": -49.415307
 }

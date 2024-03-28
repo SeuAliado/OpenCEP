@@ -5,5 +5,7 @@
   "bairro": "Joá",
   "localidade": "Joaquim Távora",
   "uf": "PR",
-  "ibge": "4112801"
+  "ibge": "4112801",
+  "lat": -23.4100467,
+  "lon": -49.8689201
 }

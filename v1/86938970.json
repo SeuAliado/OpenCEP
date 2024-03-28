@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Godoy Moreira",
   "uf": "PR",
-  "ibge": "4108551"
+  "ibge": "4108551",
+  "lat": -24.1879387,
+  "lon": -51.9221955
 }

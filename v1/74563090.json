@@ -5,5 +5,7 @@
   "bairro": "Setor Criméia Oeste",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6481727,
+  "lon": -49.2704702
 }

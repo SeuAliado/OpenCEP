@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2188795,
+  "lon": -35.8698135
 }

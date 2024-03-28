@@ -5,5 +5,7 @@
   "bairro": "Interlagos",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3976625,
+  "lon": -40.0465674
 }

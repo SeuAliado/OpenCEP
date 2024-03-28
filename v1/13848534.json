@@ -5,5 +5,7 @@
   "bairro": "Jardim Suécia",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.352274,
+  "lon": -46.9129784
 }

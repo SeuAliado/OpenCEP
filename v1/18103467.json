@@ -5,5 +5,7 @@
   "bairro": "Jardim Harmonia",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.413081,
+  "lon": -47.4113739
 }

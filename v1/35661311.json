@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.873831,
+  "lon": -44.5893082
 }

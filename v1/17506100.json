@@ -5,5 +5,7 @@
   "bairro": "Thomaz Mascaro",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2084264,
+  "lon": -49.9621157
 }

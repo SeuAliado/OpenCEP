@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itacuruba",
   "uf": "PE",
-  "ibge": "2607406"
+  "ibge": "2607406",
+  "lat": -8.7263994,
+  "lon": -38.6872521
 }

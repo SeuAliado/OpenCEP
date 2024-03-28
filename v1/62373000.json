@@ -5,5 +5,7 @@
   "bairro": "Inhuçu",
   "localidade": "São Benedito",
   "uf": "CE",
-  "ibge": "2312304"
+  "ibge": "2312304",
+  "lat": -4.1117018,
+  "lon": -40.869809
 }

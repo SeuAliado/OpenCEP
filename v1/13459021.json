@@ -5,5 +5,7 @@
   "bairro": "Vale das Cigarras",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7468853,
+  "lon": -47.4751755
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Riva",
   "localidade": "Primavera do Leste",
   "uf": "MT",
-  "ibge": "5107040"
+  "ibge": "5107040",
+  "lat": -15.5543327,
+  "lon": -54.3078387
 }

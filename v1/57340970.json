@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Feira Grande",
   "uf": "AL",
-  "ibge": "2702603"
+  "ibge": "2702603",
+  "lat": -9.9003623,
+  "lon": -36.6783824
 }

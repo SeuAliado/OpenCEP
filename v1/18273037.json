@@ -5,5 +5,7 @@
   "bairro": "Jardim Manoel de Abreu",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3475912,
+  "lon": -47.8213341
 }

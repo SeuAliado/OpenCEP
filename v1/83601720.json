@@ -5,5 +5,7 @@
   "bairro": "Jardim das Américas",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4585023,
+  "lon": -49.54114
 }

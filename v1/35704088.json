@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pequis",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.6440017,
+  "lon": -43.9066472
 }

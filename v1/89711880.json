@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2256301,
+  "lon": -51.9738698
 }

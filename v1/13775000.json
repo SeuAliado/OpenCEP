@@ -5,5 +5,7 @@
   "bairro": "Barrânia",
   "localidade": "Caconde",
   "uf": "SP",
-  "ibge": "3508702"
+  "ibge": "3508702",
+  "lat": -21.5274581,
+  "lon": -46.6433748
 }

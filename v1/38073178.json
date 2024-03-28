@@ -5,5 +5,7 @@
   "bairro": "Conjunto Uberaba",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7334116,
+  "lon": -47.8859392
 }

@@ -5,5 +5,7 @@
   "bairro": "Francisco de Abreu Fernandes",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2046898,
+  "lon": -49.9479551
 }

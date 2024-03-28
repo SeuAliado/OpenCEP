@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Laguna",
   "uf": "SC",
-  "ibge": "4209409"
+  "ibge": "4209409",
+  "lat": -28.4748354,
+  "lon": -48.7837539
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Nova dos Martírios",
   "uf": "MA",
-  "ibge": "2112852"
+  "ibge": "2112852",
+  "lat": -5.1892751,
+  "lon": -48.1340338
 }

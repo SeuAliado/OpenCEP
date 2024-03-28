@@ -5,5 +5,7 @@
   "bairro": "Jardim Melyane",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4679513,
+  "lon": -49.5636671
 }

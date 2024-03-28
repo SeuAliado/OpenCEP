@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Azul de Minas",
   "uf": "MG",
-  "ibge": "3166501"
+  "ibge": "3166501",
+  "lat": -18.3606283,
+  "lon": -43.1678627
 }

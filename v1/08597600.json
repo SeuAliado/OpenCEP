@@ -5,5 +5,7 @@
   "bairro": "Quinta da Boa Vista (Residencial)",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4616007,
+  "lon": -46.3258642
 }

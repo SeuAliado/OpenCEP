@@ -5,5 +5,7 @@
   "bairro": "Vila Rivabem",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4509902,
+  "lon": -49.5531885
 }

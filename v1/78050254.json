@@ -5,5 +5,7 @@
   "bairro": "Jardim Aclimação",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6006372,
+  "lon": -56.054337
 }

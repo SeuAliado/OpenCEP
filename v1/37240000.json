@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luminárias",
   "uf": "MG",
-  "ibge": "3138708"
+  "ibge": "3138708",
+  "lat": -21.5107696,
+  "lon": -44.9041132
 }

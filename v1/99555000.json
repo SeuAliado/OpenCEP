@@ -5,5 +5,7 @@
   "bairro": "Boi Preto",
   "localidade": "Chapada",
   "uf": "RS",
-  "ibge": "4305306"
+  "ibge": "4305306",
+  "lat": -27.979498,
+  "lon": -53.1501166
 }

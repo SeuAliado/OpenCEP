@@ -5,5 +5,7 @@
   "bairro": "Alto da Penha",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.2763287,
+  "lon": -39.3859739
 }

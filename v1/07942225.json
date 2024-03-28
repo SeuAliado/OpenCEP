@@ -5,5 +5,7 @@
   "bairro": "Jardim Constância",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2730728,
+  "lon": -46.7409119
 }

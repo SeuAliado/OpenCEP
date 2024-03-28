@@ -5,5 +5,7 @@
   "bairro": "Guaxima",
   "localidade": "Conquista",
   "uf": "MG",
-  "ibge": "3118205"
+  "ibge": "3118205",
+  "lat": -19.857635,
+  "lon": -47.5832943
 }

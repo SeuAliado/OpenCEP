@@ -5,5 +5,7 @@
   "bairro": "Quatituba",
   "localidade": "Itueta",
   "uf": "MG",
-  "ibge": "3134103"
+  "ibge": "3134103",
+  "lat": -19.3959705,
+  "lon": -41.2263894
 }

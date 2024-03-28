@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Antonieta",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1709907,
+  "lon": -49.9736208
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional João de Barro Thaís",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.3956746,
+  "lon": -51.9862266
 }

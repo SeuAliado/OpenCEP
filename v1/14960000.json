@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "lat": -21.4649748,
+  "lon": -49.2246518
 }

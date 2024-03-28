@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Virgínia",
   "uf": "MG",
-  "ibge": "3171709"
+  "ibge": "3171709",
+  "lat": -22.3380866,
+  "lon": -45.1120424
 }

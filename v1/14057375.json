@@ -5,5 +5,7 @@
   "bairro": "Jardim Jovino Campos",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.130738,
+  "lon": -47.849055
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belmiro Braga",
   "uf": "MG",
-  "ibge": "3106101"
+  "ibge": "3106101",
+  "lat": -21.9490766,
+  "lon": -43.4157442
 }

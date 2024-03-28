@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quedas do Iguaçu",
   "uf": "PR",
-  "ibge": "4120903"
+  "ibge": "4120903",
+  "lat": -25.4548153,
+  "lon": -52.9039407
 }

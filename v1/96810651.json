@@ -5,5 +5,7 @@
   "bairro": "Goiás",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7207205,
+  "lon": -52.447556
 }

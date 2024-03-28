@@ -5,5 +5,7 @@
   "bairro": "Vila Izabel",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.034663,
+  "lon": -47.8825012
 }

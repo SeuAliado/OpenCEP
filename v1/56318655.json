@@ -5,5 +5,7 @@
   "bairro": "Ouro Preto",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3739456,
+  "lon": -40.5251031
 }

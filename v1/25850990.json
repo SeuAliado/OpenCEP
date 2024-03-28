@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraíba do Sul",
   "uf": "RJ",
-  "ibge": "3303708"
+  "ibge": "3303708",
+  "lat": -22.1589563,
+  "lon": -43.3044178
 }

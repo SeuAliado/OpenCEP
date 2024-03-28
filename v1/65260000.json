@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cedral",
   "uf": "MA",
-  "ibge": "2103109"
+  "ibge": "2103109",
+  "lat": -1.9656121,
+  "lon": -44.5690225
 }

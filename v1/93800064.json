@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "lat": -29.6430551,
+  "lon": -51.0203947
 }

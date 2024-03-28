@@ -5,5 +5,7 @@
   "bairro": "Malvinas",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3640465,
+  "lon": -41.7914401
 }

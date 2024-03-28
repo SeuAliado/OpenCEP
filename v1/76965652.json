@@ -5,5 +5,7 @@
   "bairro": "Teixeirão",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4314603,
+  "lon": -61.4367657
 }

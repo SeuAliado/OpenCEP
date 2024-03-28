@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mirinzal",
   "uf": "MA",
-  "ibge": "2106805"
+  "ibge": "2106805",
+  "lat": -2.0564737,
+  "lon": -44.813111
 }

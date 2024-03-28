@@ -5,5 +5,7 @@
   "bairro": "Fornazari",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5511782,
+  "lon": -47.4284232
 }

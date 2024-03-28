@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carambeí",
   "uf": "PR",
-  "ibge": "4104659"
+  "ibge": "4104659",
+  "lat": -24.9540959,
+  "lon": -50.1100279
 }

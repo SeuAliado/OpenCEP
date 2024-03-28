@@ -5,5 +5,7 @@
   "bairro": "Serrinha da Prata",
   "localidade": "Saloá",
   "uf": "PE",
-  "ibge": "2612307"
+  "ibge": "2612307",
+  "lat": -9.0388804,
+  "lon": -36.7808807
 }

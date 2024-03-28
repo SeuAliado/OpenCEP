@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipanema",
   "uf": "MG",
-  "ibge": "3131208"
+  "ibge": "3131208",
+  "lat": -19.7995283,
+  "lon": -41.7168497
 }

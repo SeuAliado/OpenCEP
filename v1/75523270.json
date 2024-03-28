@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4067752,
+  "lon": -49.209908
 }

@@ -5,5 +5,7 @@
   "bairro": "Altos do Cruzeiro",
   "localidade": "Choró",
   "uf": "CE",
-  "ibge": "2303931"
+  "ibge": "2303931",
+  "lat": -4.8456987,
+  "lon": -39.1377884
 }

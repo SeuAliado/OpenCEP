@@ -5,5 +5,7 @@
   "bairro": "Massacara",
   "localidade": "Euclides da Cunha",
   "uf": "BA",
-  "ibge": "2910701"
+  "ibge": "2910701",
+  "lat": -10.5219124,
+  "lon": -38.9066439
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Helena",
   "uf": "PB",
-  "ibge": "2513307"
+  "ibge": "2513307",
+  "lat": -6.7201951,
+  "lon": -38.6397236
 }

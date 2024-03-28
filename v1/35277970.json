@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Manteninha",
   "uf": "MG",
-  "ibge": "3162575"
+  "ibge": "3162575",
+  "lat": -18.7232146,
+  "lon": -41.1605035
 }

@@ -5,5 +5,7 @@
   "bairro": "Lauro Bueno de Camargo",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1033842,
+  "lon": -47.235327
 }

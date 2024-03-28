@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Edwiges (Capela do Socorro)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6782614,
+  "lon": -46.738019
 }

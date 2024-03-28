@@ -5,5 +5,7 @@
   "bairro": "Residencial Vem Viver",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -15.6311222,
+  "lon": -47.6626668
 }

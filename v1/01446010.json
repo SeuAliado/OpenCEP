@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5757428,
+  "lon": -46.6761682
 }

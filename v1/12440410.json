@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale das Acácias",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9046712,
+  "lon": -45.3740253
 }

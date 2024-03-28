@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7844663,
+  "lon": -43.8489182
 }

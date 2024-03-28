@@ -5,5 +5,7 @@
   "bairro": "Penhalonga",
   "localidade": "Vigia",
   "uf": "PA",
-  "ibge": "1508209"
+  "ibge": "1508209",
+  "lat": -0.8615486,
+  "lon": -48.1390702
 }

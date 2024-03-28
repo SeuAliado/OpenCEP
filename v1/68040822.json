@@ -5,5 +5,7 @@
   "bairro": "Mapiri",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4288222,
+  "lon": -54.7465627
 }

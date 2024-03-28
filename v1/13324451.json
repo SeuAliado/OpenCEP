@@ -5,5 +5,7 @@
   "bairro": "Loteamento Terras de São Pedro e São Paulo",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2055228,
+  "lon": -47.305001
 }

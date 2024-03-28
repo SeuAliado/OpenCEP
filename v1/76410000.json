@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campinorte",
   "uf": "GO",
-  "ibge": "5204706"
+  "ibge": "5204706",
+  "lat": -14.0943847,
+  "lon": -49.0817124
 }

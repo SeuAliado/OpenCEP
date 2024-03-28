@@ -5,5 +5,7 @@
   "bairro": "Lagoa Branca",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "lat": -23.7111709,
+  "lon": -46.8577157
 }

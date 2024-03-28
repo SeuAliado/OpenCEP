@@ -5,5 +5,7 @@
   "bairro": "Setor Comercial",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.7030741,
+  "lon": -49.108773
 }

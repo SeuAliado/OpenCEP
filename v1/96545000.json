@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Cabrais",
   "uf": "RS",
-  "ibge": "4313391"
+  "ibge": "4313391",
+  "lat": -29.742239,
+  "lon": -52.9814383
 }

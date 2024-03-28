@@ -5,5 +5,7 @@
   "bairro": "Parque Colonial",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6025509,
+  "lon": -46.4748842
 }

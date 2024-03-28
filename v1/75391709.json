@@ -5,5 +5,7 @@
   "bairro": "Setor Jardim Imperial",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6489201,
+  "lon": -49.5137381
 }

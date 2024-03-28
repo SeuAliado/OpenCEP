@@ -5,5 +5,7 @@
   "bairro": "Conjunto Rio Claro I",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8788034,
+  "lon": -51.7371446
 }

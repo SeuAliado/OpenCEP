@@ -5,5 +5,7 @@
   "bairro": "Parque Alexandre",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5979723,
+  "lon": -46.870621
 }

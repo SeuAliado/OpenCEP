@@ -5,5 +5,7 @@
   "bairro": "Aiurê",
   "localidade": "Grão Pará",
   "uf": "SC",
-  "ibge": "4206108"
+  "ibge": "4206108",
+  "lat": -28.1064547,
+  "lon": -49.3008229
 }

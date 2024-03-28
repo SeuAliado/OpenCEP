@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Neópolis",
   "uf": "SE",
-  "ibge": "2804409"
+  "ibge": "2804409",
+  "lat": -10.3503897,
+  "lon": -36.6741487
 }

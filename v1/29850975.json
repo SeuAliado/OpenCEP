@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia do Norte",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "lat": -18.2058379,
+  "lon": -40.6046689
 }

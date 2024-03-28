@@ -5,5 +5,7 @@
   "bairro": "Cristo Redentor",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.6039449,
+  "lon": -46.5208804
 }

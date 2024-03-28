@@ -5,5 +5,7 @@
   "bairro": "Lagoinha",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.8010802,
+  "lon": -43.5959406
 }

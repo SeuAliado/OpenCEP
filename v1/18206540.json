@@ -5,5 +5,7 @@
   "bairro": "Jardim Colombo",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.6083074,
+  "lon": -48.0633745
 }

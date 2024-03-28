@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4955972,
+  "lon": -46.8800133
 }

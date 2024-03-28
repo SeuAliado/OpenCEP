@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6187374,
+  "lon": -49.4274494
 }

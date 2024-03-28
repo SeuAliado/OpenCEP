@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Professor Jamil",
   "uf": "GO",
-  "ibge": "5218391"
+  "ibge": "5218391",
+  "lat": -17.2501202,
+  "lon": -49.2444534
 }

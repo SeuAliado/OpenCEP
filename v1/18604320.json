@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Linda",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8726178,
+  "lon": -48.4263531
 }

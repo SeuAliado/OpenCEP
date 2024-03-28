@@ -5,5 +5,7 @@
   "bairro": "Jardim da Torre",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.975602,
+  "lon": -43.9260301
 }

@@ -5,5 +5,7 @@
   "bairro": "Rainha Isabel",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "lat": -9.25,
+  "lon": -36.866667
 }

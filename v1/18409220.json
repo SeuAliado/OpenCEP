@@ -5,5 +5,7 @@
   "bairro": "Vila Sonia",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9855449,
+  "lon": -48.8897076
 }

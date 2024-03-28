@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Caiada",
   "uf": "RN",
-  "ibge": "2410306"
+  "ibge": "2410306",
+  "lat": -6.1035456,
+  "lon": -35.7188463
 }

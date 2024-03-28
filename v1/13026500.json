@@ -5,5 +5,7 @@
   "bairro": "Vila Lídia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9107489,
+  "lon": -47.0566196
 }

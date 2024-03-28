@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7660038,
+  "lon": -36.653006
 }

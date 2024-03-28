@@ -5,5 +5,7 @@
   "bairro": "Caladinho",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.484625,
+  "lon": -42.6327802
 }

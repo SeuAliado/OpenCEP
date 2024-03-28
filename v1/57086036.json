@@ -5,5 +5,7 @@
   "bairro": "Benedito Bentes",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.5709724,
+  "lon": -35.7205731
 }

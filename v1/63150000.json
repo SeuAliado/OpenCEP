@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campos Sales",
   "uf": "CE",
-  "ibge": "2302701"
+  "ibge": "2302701",
+  "lat": -7.0743223,
+  "lon": -40.37156
 }

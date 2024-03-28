@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mamonas",
   "uf": "MG",
-  "ibge": "3139250"
+  "ibge": "3139250",
+  "lat": -15.0051021,
+  "lon": -42.9611571
 }

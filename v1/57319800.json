@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7498873,
+  "lon": -36.664528
 }

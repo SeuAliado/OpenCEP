@@ -5,5 +5,7 @@
   "bairro": "Vila Ribeiro",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6736461,
+  "lon": -50.432796
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cristalândia",
   "uf": "TO",
-  "ibge": "1706100"
+  "ibge": "1706100",
+  "lat": -10.5880461,
+  "lon": -49.4466005
 }

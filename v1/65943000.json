@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Formosa da Serra Negra",
   "uf": "MA",
-  "ibge": "2104099"
+  "ibge": "2104099",
+  "lat": -6.4755774,
+  "lon": -46.2857516
 }

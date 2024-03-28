@@ -5,5 +5,7 @@
   "bairro": "Campo Velho",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7884642,
+  "lon": -43.0425667
 }

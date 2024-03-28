@@ -5,5 +5,7 @@
   "bairro": "Xerém",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.5909457,
+  "lon": -43.288038
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Esperança do Piriá",
   "uf": "PA",
-  "ibge": "1504950"
+  "ibge": "1504950",
+  "lat": -2.2672901,
+  "lon": -46.9735626
 }

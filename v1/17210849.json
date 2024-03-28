@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional dos Comerciários I",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2852083,
+  "lon": -48.5137801
 }

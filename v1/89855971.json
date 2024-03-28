@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sul Brasil",
   "uf": "SC",
-  "ibge": "4217758"
+  "ibge": "4217758",
+  "lat": -26.7424499,
+  "lon": -52.9708916
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4300276,
+  "lon": -45.4473511
 }

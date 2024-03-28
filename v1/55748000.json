@@ -5,5 +5,7 @@
   "bairro": "Chã do Rocha",
   "localidade": "Orobó",
   "uf": "PE",
-  "ibge": "2609709"
+  "ibge": "2609709",
+  "lat": -7.6570227,
+  "lon": -35.5424209
 }

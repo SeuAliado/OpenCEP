@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9396348,
+  "lon": -44.2015
 }

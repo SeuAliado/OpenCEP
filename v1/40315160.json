@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9679337,
+  "lon": -38.4970662
 }

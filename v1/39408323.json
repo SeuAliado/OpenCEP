@@ -5,5 +5,7 @@
   "bairro": "Jardim Parque Morada do Sol",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7044795,
+  "lon": -43.8567298
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Tijuca",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8343052,
+  "lon": -38.6287638
 }

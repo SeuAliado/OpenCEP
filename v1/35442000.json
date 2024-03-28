@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Doce",
   "uf": "MG",
-  "ibge": "3155009"
+  "ibge": "3155009",
+  "lat": -20.2448181,
+  "lon": -42.896324
 }

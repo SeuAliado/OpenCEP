@@ -5,5 +5,7 @@
   "bairro": "Jardim Águas Claras",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9151379,
+  "lon": -46.5337626
 }

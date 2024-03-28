@@ -5,5 +5,7 @@
   "bairro": "Independência (Agulhas Negras)",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4610852,
+  "lon": -44.4475363
 }

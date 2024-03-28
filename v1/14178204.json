@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Áurea Mendes Gimenes",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1083664,
+  "lon": -48.025793
 }

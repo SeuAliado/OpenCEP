@@ -5,5 +5,7 @@
   "bairro": "Vila Sândano",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9754535,
+  "lon": -49.8593846
 }

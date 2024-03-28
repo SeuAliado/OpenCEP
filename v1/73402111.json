@@ -5,5 +5,7 @@
   "bairro": "Estância Mestre D'Armas V (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

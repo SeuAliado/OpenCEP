@@ -5,5 +5,7 @@
   "bairro": "Belo Horizonte",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.2050049,
+  "lon": -37.3627729
 }

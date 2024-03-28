@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quinta do Sol",
   "uf": "PR",
-  "ibge": "4121109"
+  "ibge": "4121109",
+  "lat": -23.8537485,
+  "lon": -52.1313998
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardelino Ramos",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1583111,
+  "lon": -51.1656214
 }

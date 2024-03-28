@@ -5,5 +5,7 @@
   "bairro": "Jardim Odete",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2888416,
+  "lon": -48.5825798
 }

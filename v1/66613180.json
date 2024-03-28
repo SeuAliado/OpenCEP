@@ -5,5 +5,7 @@
   "bairro": "Souza",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4123274,
+  "lon": -48.4718294
 }

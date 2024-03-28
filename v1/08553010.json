@@ -5,5 +5,7 @@
   "bairro": "Jardim Dulce",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.528377,
+  "lon": -46.3466413
 }

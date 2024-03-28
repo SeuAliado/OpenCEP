@@ -5,5 +5,7 @@
   "bairro": "Bentópolis",
   "localidade": "Guaraci",
   "uf": "PR",
-  "ibge": "4109203"
+  "ibge": "4109203",
+  "lat": -22.930104,
+  "lon": -51.7150159
 }

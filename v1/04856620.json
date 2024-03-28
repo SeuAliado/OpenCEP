@@ -5,5 +5,7 @@
   "bairro": "Jardim das Pedras(Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7795509,
+  "lon": -46.6858472
 }

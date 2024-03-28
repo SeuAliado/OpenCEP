@@ -5,5 +5,7 @@
   "bairro": "Vila Japão",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4643407,
+  "lon": -46.3454673
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Erasmo Assunção",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6444772,
+  "lon": -46.502545
 }

@@ -5,5 +5,7 @@
   "bairro": "Água Doce",
   "localidade": "Ibicuí",
   "uf": "BA",
-  "ibge": "2912301"
+  "ibge": "2912301",
+  "lat": -14.8260719,
+  "lon": -40.0005239
 }

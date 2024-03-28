@@ -5,5 +5,7 @@
   "bairro": "Vila Ursulina",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4668947,
+  "lon": -46.2943049
 }

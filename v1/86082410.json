@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Giordano",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2596704,
+  "lon": -51.1820463
 }

@@ -5,5 +5,7 @@
   "bairro": "Senador",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.2003278,
+  "lon": -48.2092471
 }

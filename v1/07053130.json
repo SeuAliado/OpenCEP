@@ -5,5 +5,7 @@
   "bairro": "Vila São Rafael",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4786057,
+  "lon": -46.5594047
 }

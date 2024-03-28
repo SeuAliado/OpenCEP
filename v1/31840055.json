@@ -5,5 +5,7 @@
   "bairro": "Tupi A",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8305225,
+  "lon": -43.917925
 }

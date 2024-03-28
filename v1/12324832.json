@@ -5,5 +5,7 @@
   "bairro": "Jardim Terras de Santa Helena",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.317702,
+  "lon": -45.9901772
 }

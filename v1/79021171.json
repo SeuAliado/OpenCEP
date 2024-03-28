@@ -5,5 +5,7 @@
   "bairro": "Vivendas do Bosque",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.4516308,
+  "lon": -54.5854708
 }

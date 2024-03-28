@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8475896,
+  "lon": -55.5187204
 }

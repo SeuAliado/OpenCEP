@@ -5,5 +5,7 @@
   "bairro": "Estação Cocal",
   "localidade": "Morro da Fumaça",
   "uf": "SC",
-  "ibge": "4211207"
+  "ibge": "4211207",
+  "lat": -28.6019936,
+  "lon": -49.2406366
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Caitano",
   "uf": "PE",
-  "ibge": "2613107"
+  "ibge": "2613107",
+  "lat": -8.3285791,
+  "lon": -36.1412423
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Dona Engracia Agudo Romão",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1389005,
+  "lon": -48.9930943
 }

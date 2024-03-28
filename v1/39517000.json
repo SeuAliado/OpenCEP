@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pai Pedro",
   "uf": "MG",
-  "ibge": "3146552"
+  "ibge": "3146552",
+  "lat": -15.5362405,
+  "lon": -43.1359542
 }

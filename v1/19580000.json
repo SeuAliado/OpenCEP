@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anhumas",
   "uf": "SP",
-  "ibge": "3502408"
+  "ibge": "3502408",
+  "lat": -22.2955799,
+  "lon": -51.3872764
 }

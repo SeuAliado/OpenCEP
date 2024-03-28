@@ -5,5 +5,7 @@
   "bairro": "Antique",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7717415,
+  "lon": -39.2736424
 }

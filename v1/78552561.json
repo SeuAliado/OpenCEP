@@ -5,5 +5,7 @@
   "bairro": "Jardim das Orquídeas",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.823784,
+  "lon": -55.4981259
 }

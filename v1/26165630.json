@@ -5,5 +5,7 @@
   "bairro": "São Leopoldo",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7332114,
+  "lon": -43.3806071
 }

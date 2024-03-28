@@ -5,5 +5,7 @@
   "bairro": "Perpétuo Socorro",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.976054,
+  "lon": -46.7933255
 }

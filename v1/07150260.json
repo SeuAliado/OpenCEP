@@ -5,5 +5,7 @@
   "bairro": "Cidade Seródio",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.417923,
+  "lon": -46.4573537
 }

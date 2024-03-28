@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cordeiro",
   "uf": "RJ",
-  "ibge": "3301504"
+  "ibge": "3301504",
+  "lat": -22.028281,
+  "lon": -42.3626282
 }

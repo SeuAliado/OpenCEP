@@ -5,5 +5,7 @@
   "bairro": "Jacaré",
   "localidade": "Cabreúva",
   "uf": "SP",
-  "ibge": "3508405"
+  "ibge": "3508405",
+  "lat": -23.2517992,
+  "lon": -47.0560159
 }

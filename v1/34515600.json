@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio de Pádua",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8919394,
+  "lon": -43.7994474
 }

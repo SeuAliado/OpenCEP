@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tupaciguara",
   "uf": "MG",
-  "ibge": "3169604"
+  "ibge": "3169604",
+  "lat": -18.9068724,
+  "lon": -48.2752439
 }

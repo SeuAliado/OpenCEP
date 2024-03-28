@@ -5,5 +5,7 @@
   "bairro": "City Petrópolis",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.481568,
+  "lon": -47.3966259
 }

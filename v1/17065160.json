@@ -5,5 +5,7 @@
   "bairro": "Fundação Casas Populares Salvador Filardi",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3161359,
+  "lon": -49.1129859
 }

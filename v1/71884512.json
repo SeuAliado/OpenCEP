@@ -5,5 +5,7 @@
   "bairro": "Riacho Fundo II",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.9437874,
+  "lon": -48.0362294
 }

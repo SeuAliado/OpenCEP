@@ -5,5 +5,7 @@
   "bairro": "Juacema",
   "localidade": "Jaguarari",
   "uf": "BA",
-  "ibge": "2917706"
+  "ibge": "2917706",
+  "lat": -10.2518499,
+  "lon": -40.1943615
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Quinze de Novembro",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2995086,
+  "lon": -48.5484863
 }

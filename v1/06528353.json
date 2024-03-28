@@ -5,5 +5,7 @@
   "bairro": "Recanto do Mané",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.4017761,
+  "lon": -46.8995905
 }

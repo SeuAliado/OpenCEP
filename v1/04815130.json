@@ -5,5 +5,7 @@
   "bairro": "Jardim Marcel",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.705961,
+  "lon": -46.6886836
 }

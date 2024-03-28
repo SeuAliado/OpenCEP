@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Prata do Iguaçu",
   "uf": "PR",
-  "ibge": "4117255"
+  "ibge": "4117255",
+  "lat": -25.6344713,
+  "lon": -53.3455701
 }

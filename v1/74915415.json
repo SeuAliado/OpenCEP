@@ -5,5 +5,7 @@
   "bairro": "Setor dos Afonsos",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7447685,
+  "lon": -49.2725776
 }

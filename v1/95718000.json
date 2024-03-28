@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Belo do Sul",
   "uf": "RS",
-  "ibge": "4312385"
+  "ibge": "4312385",
+  "lat": -29.134038,
+  "lon": -51.6518163
 }

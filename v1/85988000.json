@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Entre Rios do Oeste",
   "uf": "PR",
-  "ibge": "4107538"
+  "ibge": "4107538",
+  "lat": -24.7065631,
+  "lon": -54.2433113
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Miriam",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4811441,
+  "lon": -46.7094003
 }

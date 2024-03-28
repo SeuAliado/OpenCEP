@@ -5,5 +5,7 @@
   "bairro": "Jardim Vale Verde",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9784532,
+  "lon": -49.8501871
 }

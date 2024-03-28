@@ -5,5 +5,7 @@
   "bairro": "Terra Preta",
   "localidade": "Manacapuru",
   "uf": "AM",
-  "ibge": "1302504"
+  "ibge": "1302504",
+  "lat": -3.2910684,
+  "lon": -60.632866
 }

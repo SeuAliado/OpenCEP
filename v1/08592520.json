@@ -5,5 +5,7 @@
   "bairro": "Estância Paraíso",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4699562,
+  "lon": -46.2921843
 }

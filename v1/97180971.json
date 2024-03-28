@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dilermando de Aguiar",
   "uf": "RS",
-  "ibge": "4306379"
+  "ibge": "4306379",
+  "lat": -29.7066282,
+  "lon": -54.2035816
 }

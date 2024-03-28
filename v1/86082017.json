@@ -5,5 +5,7 @@
   "bairro": "Jardim Bavária",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3352968,
+  "lon": -51.1608485
 }

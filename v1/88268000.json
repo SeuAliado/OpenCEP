@@ -5,5 +5,7 @@
   "bairro": "Pinheiral",
   "localidade": "Major Gercino",
   "uf": "SC",
-  "ibge": "4210209"
+  "ibge": "4210209",
+  "lat": -27.4239416,
+  "lon": -49.0901824
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Tucumã",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9478638,
+  "lon": -67.860669
 }

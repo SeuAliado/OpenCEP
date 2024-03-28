@@ -5,5 +5,7 @@
   "bairro": "Vila Papelão",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9762061,
+  "lon": -46.9930213
 }

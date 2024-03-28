@@ -5,5 +5,7 @@
   "bairro": "Icaraí",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9042418,
+  "lon": -43.1074695
 }

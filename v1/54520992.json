@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2422924,
+  "lon": -34.9823534
 }

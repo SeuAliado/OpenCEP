@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3599927,
+  "lon": -48.9383443
 }

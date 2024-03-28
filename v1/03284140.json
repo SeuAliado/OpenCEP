@@ -5,5 +5,7 @@
   "bairro": "Parque Tomas Saraiva",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.589205,
+  "lon": -46.5369148
 }

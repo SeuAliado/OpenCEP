@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "lat": -5.1994536,
+  "lon": -39.2959462
 }

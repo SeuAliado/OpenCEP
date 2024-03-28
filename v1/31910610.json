@@ -5,5 +5,7 @@
   "bairro": "Eymard",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8630254,
+  "lon": -43.9174752
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cilka",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.447681,
+  "lon": -49.515129
 }

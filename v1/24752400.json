@@ -5,5 +5,7 @@
   "bairro": "Ipiíba",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8710258,
+  "lon": -42.975557
 }

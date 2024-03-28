@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa Grande",
   "uf": "PE",
-  "ibge": "2608750"
+  "ibge": "2608750",
+  "lat": -8.9930132,
+  "lon": -40.2719816
 }

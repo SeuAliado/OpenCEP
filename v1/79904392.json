@@ -5,5 +5,7 @@
   "bairro": "Bairro Santa Isabel",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5251076,
+  "lon": -55.7126063
 }

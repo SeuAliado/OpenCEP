@@ -5,5 +5,7 @@
   "bairro": "Barreiro Branco",
   "localidade": "Catuti",
   "uf": "MG",
-  "ibge": "3115474"
+  "ibge": "3115474",
+  "lat": -21.7833376,
+  "lon": -46.5670775
 }

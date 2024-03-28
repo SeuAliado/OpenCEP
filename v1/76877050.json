@@ -5,5 +5,7 @@
   "bairro": "Marechal Rondon 01",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.922349,
+  "lon": -63.0571323
 }

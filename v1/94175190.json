@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.8897688,
+  "lon": -51.0022412
 }

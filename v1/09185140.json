@@ -5,5 +5,7 @@
   "bairro": "Jardim Cristiane",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.68655,
+  "lon": -46.5313498
 }

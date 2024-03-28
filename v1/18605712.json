@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Elizabeth",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -23.3899703,
+  "lon": -46.2970774
 }

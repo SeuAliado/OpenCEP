@@ -5,5 +5,7 @@
   "bairro": "Jabaquara",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "lat": -20.6794258,
+  "lon": -40.6764755
 }

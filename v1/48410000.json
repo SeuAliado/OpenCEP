@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cícero Dantas",
   "uf": "BA",
-  "ibge": "2907806"
+  "ibge": "2907806",
+  "lat": -10.5904779,
+  "lon": -38.3796946
 }

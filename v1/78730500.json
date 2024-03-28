@@ -5,5 +5,7 @@
   "bairro": "Jardim Rondônia",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4529445,
+  "lon": -54.6099085
 }

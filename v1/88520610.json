@@ -5,5 +5,7 @@
   "bairro": "Dom Daniel",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.7917169,
+  "lon": -50.2996902
 }

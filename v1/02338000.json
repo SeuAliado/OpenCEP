@@ -5,5 +5,7 @@
   "bairro": "Jardim Franca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4756746,
+  "lon": -46.6180274
 }

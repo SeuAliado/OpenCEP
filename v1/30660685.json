@@ -5,5 +5,7 @@
   "bairro": "Tirol (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9822931,
+  "lon": -44.0402464
 }

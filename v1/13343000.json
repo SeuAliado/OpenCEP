@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedroso",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0934061,
+  "lon": -47.2105556
 }

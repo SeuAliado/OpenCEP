@@ -5,5 +5,7 @@
   "bairro": "São Miguel do Cambui",
   "localidade": "Marialva",
   "uf": "PR",
-  "ibge": "4114807"
+  "ibge": "4114807",
+  "lat": -23.6097565,
+  "lon": -51.8594414
 }

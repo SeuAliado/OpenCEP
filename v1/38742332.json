@@ -5,5 +5,7 @@
   "bairro": "Manoel Nunes",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9446719,
+  "lon": -47.0129936
 }

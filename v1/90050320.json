@@ -5,5 +5,7 @@
   "bairro": "Cidade Baixa",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0389812,
+  "lon": -51.2240539
 }

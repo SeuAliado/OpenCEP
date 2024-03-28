@@ -5,5 +5,7 @@
   "bairro": "Parque Taubateguassu",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0023971,
+  "lon": -45.5387323
 }

@@ -5,5 +5,7 @@
   "bairro": "Real Parque",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5762075,
+  "lon": -47.4662878
 }

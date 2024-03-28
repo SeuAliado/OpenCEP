@@ -5,5 +5,7 @@
   "bairro": "Residencial São Joaquim",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7328043,
+  "lon": -47.4098903
 }

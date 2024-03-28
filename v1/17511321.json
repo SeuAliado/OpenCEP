@@ -5,5 +5,7 @@
   "bairro": "Professor José Augusto da Silva Ribeiro",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1834027,
+  "lon": -49.9503205
 }

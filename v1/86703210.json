@@ -5,5 +5,7 @@
   "bairro": "Jardim Bononi",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.3943191,
+  "lon": -51.4316337
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Santa Rita",
   "uf": "RS",
-  "ibge": "4313375"
+  "ibge": "4313375",
+  "lat": -29.8507647,
+  "lon": -51.2741089
 }

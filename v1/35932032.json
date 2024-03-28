@@ -5,5 +5,7 @@
   "bairro": "Corumbiana de Vanessa",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8523766,
+  "lon": -43.1777885
 }

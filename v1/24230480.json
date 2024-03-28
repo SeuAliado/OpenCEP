@@ -5,5 +5,7 @@
   "bairro": "Vital Brazil",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9075501,
+  "lon": -43.0950853
 }

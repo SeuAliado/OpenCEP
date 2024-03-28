@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iracemápolis",
   "uf": "SP",
-  "ibge": "3521408"
+  "ibge": "3521408",
+  "lat": -22.5819748,
+  "lon": -47.5189978
 }

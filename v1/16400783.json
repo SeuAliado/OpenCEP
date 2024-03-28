@@ -5,5 +5,7 @@
   "bairro": "Vila Parque das Américas",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6588047,
+  "lon": -49.7565294
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Petrolândia",
   "uf": "SC",
-  "ibge": "4212700"
+  "ibge": "4212700",
+  "lat": -27.532925,
+  "lon": -49.699238
 }

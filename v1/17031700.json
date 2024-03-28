@@ -5,5 +5,7 @@
   "bairro": "Vila Tecnológica Engenheiro José Queda",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3255736,
+  "lon": -49.0208812
 }

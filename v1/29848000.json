@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Pousalegre",
   "localidade": "Boa Esperança",
   "uf": "ES",
-  "ibge": "3201001"
+  "ibge": "3201001",
+  "lat": -18.5169273,
+  "lon": -40.3530057
 }

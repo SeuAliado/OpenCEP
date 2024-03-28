@@ -5,5 +5,7 @@
   "bairro": "Pericó",
   "localidade": "São Joaquim",
   "uf": "SC",
-  "ibge": "4216503"
+  "ibge": "4216503",
+  "lat": -28.2978826,
+  "lon": -49.946433
 }

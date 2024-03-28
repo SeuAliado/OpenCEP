@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Domingos",
   "uf": "BA",
-  "ibge": "2928950"
+  "ibge": "2928950",
+  "lat": -11.5017138,
+  "lon": -39.611537
 }

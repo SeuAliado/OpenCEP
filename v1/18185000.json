@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pilar do Sul",
   "uf": "SP",
-  "ibge": "3537909"
+  "ibge": "3537909",
+  "lat": -23.8078669,
+  "lon": -47.7232369
 }

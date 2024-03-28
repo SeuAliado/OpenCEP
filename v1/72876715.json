@@ -5,5 +5,7 @@
   "bairro": "Chácaras Saia Velha",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.1028112,
+  "lon": -47.975474
 }

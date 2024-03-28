@@ -5,5 +5,7 @@
   "bairro": "Cohab",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.9813035,
+  "lon": -39.0171901
 }

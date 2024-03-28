@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mimoso de Goiás",
   "uf": "GO",
-  "ibge": "5213053"
+  "ibge": "5213053",
+  "lat": -15.0588142,
+  "lon": -48.1620573
 }

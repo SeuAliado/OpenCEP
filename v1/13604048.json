@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.344433,
+  "lon": -47.3753069
 }

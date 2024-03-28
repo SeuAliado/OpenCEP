@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caibi",
   "uf": "SC",
-  "ibge": "4203105"
+  "ibge": "4203105",
+  "lat": -27.0768756,
+  "lon": -53.2494905
 }

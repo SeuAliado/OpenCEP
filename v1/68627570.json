@@ -5,5 +5,7 @@
   "bairro": "Nova Conquista",
   "localidade": "Paragominas",
   "uf": "PA",
-  "ibge": "1505502"
+  "ibge": "1505502",
+  "lat": -2.9994918,
+  "lon": -47.3789129
 }

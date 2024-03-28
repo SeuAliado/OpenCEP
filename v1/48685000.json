@@ -5,5 +5,7 @@
   "bairro": "Ibó",
   "localidade": "Abaré",
   "uf": "BA",
-  "ibge": "2900207"
+  "ibge": "2900207",
+  "lat": -8.6309968,
+  "lon": -39.2503695
 }

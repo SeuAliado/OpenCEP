@@ -5,5 +5,7 @@
   "bairro": "Ipase",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9677844,
+  "lon": -67.8053923
 }

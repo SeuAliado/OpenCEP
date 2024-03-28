@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riachinho",
   "uf": "MG",
-  "ibge": "3154457"
+  "ibge": "3154457",
+  "lat": -16.271096,
+  "lon": -45.8279734
 }

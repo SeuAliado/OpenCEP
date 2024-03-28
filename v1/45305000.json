@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Elísio Medrado",
   "uf": "BA",
-  "ibge": "2910305"
+  "ibge": "2910305",
+  "lat": -12.9466133,
+  "lon": -39.5233396
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto do Céu",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.0982978,
+  "lon": -34.868352
 }

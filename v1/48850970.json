@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itiúba",
   "uf": "BA",
-  "ibge": "2917003"
+  "ibge": "2917003",
+  "lat": -10.6932099,
+  "lon": -39.852506
 }

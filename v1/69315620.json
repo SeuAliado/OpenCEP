@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.7807468,
+  "lon": -60.7130459
 }

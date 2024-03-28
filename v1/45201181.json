@@ -5,5 +5,7 @@
   "bairro": "Joaquim Romão",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "lat": -13.8391545,
+  "lon": -40.0746637
 }

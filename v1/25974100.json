@@ -5,5 +5,7 @@
   "bairro": "Cascata do Imbuí",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.3849667,
+  "lon": -42.9785621
 }

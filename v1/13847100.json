@@ -5,5 +5,7 @@
   "bairro": "Imóvel Olho D'Agua",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3571748,
+  "lon": -46.9439124
 }

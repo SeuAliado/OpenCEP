@@ -5,5 +5,7 @@
   "bairro": "Águas Fervidas",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.2680807,
+  "lon": -49.1818249
 }

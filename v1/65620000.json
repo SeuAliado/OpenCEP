@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coelho Neto",
   "uf": "MA",
-  "ibge": "2103406"
+  "ibge": "2103406",
+  "lat": -4.2596751,
+  "lon": -43.0182166
 }

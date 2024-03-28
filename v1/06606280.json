@@ -5,5 +5,7 @@
   "bairro": "Jardim Palmeiras",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5330375,
+  "lon": -46.9073176
 }

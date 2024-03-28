@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maraã",
   "uf": "AM",
-  "ibge": "1302801"
+  "ibge": "1302801",
+  "lat": -3.8894594,
+  "lon": -59.0920137
 }

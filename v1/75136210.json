@@ -5,5 +5,7 @@
   "bairro": "Vila São Vicente",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.4155614,
+  "lon": -48.9791357
 }

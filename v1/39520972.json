@@ -5,5 +5,7 @@
   "bairro": "Mulungu de Minas",
   "localidade": "Porteirinha",
   "uf": "MG",
-  "ibge": "3152204"
+  "ibge": "3152204",
+  "lat": -15.6287929,
+  "lon": -42.9549082
 }

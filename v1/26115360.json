@@ -5,5 +5,7 @@
   "bairro": "Vila Vitorio",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7495926,
+  "lon": -43.4015207
 }

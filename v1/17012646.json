@@ -5,5 +5,7 @@
   "bairro": "Vila Regina",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.344144,
+  "lon": -49.0485759
 }

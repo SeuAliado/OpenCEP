@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Delfim Moreira",
   "uf": "MG",
-  "ibge": "3121100"
+  "ibge": "3121100",
+  "lat": -22.5085058,
+  "lon": -45.2796172
 }

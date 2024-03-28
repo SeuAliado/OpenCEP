@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque Real Guaçu",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3708354,
+  "lon": -46.9460925
 }

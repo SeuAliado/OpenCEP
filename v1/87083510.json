@@ -5,5 +5,7 @@
   "bairro": "Jardim Paris III",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.385741,
+  "lon": -51.9578495
 }

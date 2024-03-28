@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5471515,
+  "lon": -48.5649254
 }

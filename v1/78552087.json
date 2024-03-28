@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8327726,
+  "lon": -55.5017116
 }

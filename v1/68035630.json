@@ -5,5 +5,7 @@
   "bairro": "Amparo",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4564487,
+  "lon": -54.748228
 }

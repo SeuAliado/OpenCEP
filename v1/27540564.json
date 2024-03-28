@@ -5,5 +5,7 @@
   "bairro": "Morada da Barra",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4607879,
+  "lon": -44.3845064
 }

@@ -5,5 +5,7 @@
   "bairro": "Agenor de Campos",
   "localidade": "Mongaguá",
   "uf": "SP",
-  "ibge": "3531100"
+  "ibge": "3531100",
+  "lat": -24.1277149,
+  "lon": -46.6904656
 }

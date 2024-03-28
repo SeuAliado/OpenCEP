@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5523975,
+  "lon": -46.3618213
 }

@@ -5,5 +5,7 @@
   "bairro": "Lajeado Bonito",
   "localidade": "Cotiporã",
   "uf": "RS",
-  "ibge": "4305959"
+  "ibge": "4305959",
+  "lat": -28.983109,
+  "lon": -51.6945412
 }

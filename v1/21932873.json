@@ -5,5 +5,7 @@
   "bairro": "Portuguesa",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8043033,
+  "lon": -43.1989147
 }

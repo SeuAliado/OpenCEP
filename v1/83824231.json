@@ -5,5 +5,7 @@
   "bairro": "Gralha Azul",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "lat": -25.6694408,
+  "lon": -49.3074116
 }

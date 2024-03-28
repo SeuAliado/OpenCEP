@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Poço Dantas",
   "uf": "PB",
-  "ibge": "2512036"
+  "ibge": "2512036",
+  "lat": -6.3912164,
+  "lon": -38.4955043
 }

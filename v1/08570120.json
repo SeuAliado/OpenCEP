@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Bárbara",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4752779,
+  "lon": -46.3491216
 }

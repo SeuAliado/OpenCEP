@@ -5,5 +5,7 @@
   "bairro": "Aliança",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.6963084,
+  "lon": -46.4361708
 }

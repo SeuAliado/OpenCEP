@@ -5,5 +5,7 @@
   "bairro": "Parque Planalto",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.491583,
+  "lon": -47.4794834
 }

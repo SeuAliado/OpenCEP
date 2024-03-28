@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vila Flores",
   "uf": "RS",
-  "ibge": "4323309"
+  "ibge": "4323309",
+  "lat": -28.855438,
+  "lon": -51.5563274
 }

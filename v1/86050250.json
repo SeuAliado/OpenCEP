@@ -5,5 +5,7 @@
   "bairro": "Bela Suiça",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3363152,
+  "lon": -51.1649188
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "lat": -21.5907852,
+  "lon": -48.3665751
 }

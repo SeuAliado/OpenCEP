@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pio IX",
   "uf": "PI",
-  "ibge": "2208205"
+  "ibge": "2208205",
+  "lat": -6.8351818,
+  "lon": -40.6126436
 }

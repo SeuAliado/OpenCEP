@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guajará",
   "uf": "AM",
-  "ibge": "1301654"
+  "ibge": "1301654",
+  "lat": -7.5383435,
+  "lon": -72.5912793
 }

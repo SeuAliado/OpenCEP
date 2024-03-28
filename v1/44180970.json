@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antônio Cardoso",
   "uf": "BA",
-  "ibge": "2901700"
+  "ibge": "2901700",
+  "lat": -12.4368127,
+  "lon": -39.1199398
 }

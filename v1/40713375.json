@@ -5,5 +5,7 @@
   "bairro": "Itacaranha",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8874349,
+  "lon": -38.479218
 }

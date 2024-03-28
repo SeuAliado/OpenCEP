@@ -5,5 +5,7 @@
   "bairro": "Alto do Moura",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.2806358,
+  "lon": -36.0035362
 }

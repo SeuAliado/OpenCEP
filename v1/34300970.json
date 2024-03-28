@@ -5,5 +5,7 @@
   "bairro": "Jatobá",
   "localidade": "Rio Acima",
   "uf": "MG",
-  "ibge": "3154804"
+  "ibge": "3154804",
+  "lat": -20.0935843,
+  "lon": -43.7891786
 }

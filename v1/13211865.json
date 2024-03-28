@@ -5,5 +5,7 @@
   "bairro": "Condomínio Vila de Jundiaí",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1404624,
+  "lon": -46.9203451
 }

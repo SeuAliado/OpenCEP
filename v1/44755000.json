@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ponto Novo",
   "uf": "BA",
-  "ibge": "2925253"
+  "ibge": "2925253",
+  "lat": -10.9118615,
+  "lon": -40.1043057
 }

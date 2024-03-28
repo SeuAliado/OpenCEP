@@ -5,5 +5,7 @@
   "bairro": "Leonor",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2943905,
+  "lon": -51.1932769
 }

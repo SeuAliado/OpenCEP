@@ -5,5 +5,7 @@
   "bairro": "Miguel Couto",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7268794,
+  "lon": -43.3963531
 }

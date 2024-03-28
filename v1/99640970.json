@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Valentim",
   "uf": "RS",
-  "ibge": "4319703"
+  "ibge": "4319703",
+  "lat": -27.5578346,
+  "lon": -52.5244474
 }

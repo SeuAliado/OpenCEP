@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipiranga",
   "uf": "PR",
-  "ibge": "4110508"
+  "ibge": "4110508",
+  "lat": -25.0227807,
+  "lon": -50.5844539
 }

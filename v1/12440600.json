@@ -5,5 +5,7 @@
   "bairro": "Residencial e Comercial Laerte Asumpção",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.913172,
+  "lon": -45.3713929
 }

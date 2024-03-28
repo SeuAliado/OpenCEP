@@ -5,5 +5,7 @@
   "bairro": "Vila Esplanada",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4819129,
+  "lon": -46.5546332
 }

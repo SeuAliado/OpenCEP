@@ -5,5 +5,7 @@
   "bairro": "Vila Lidio Santana",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4709937,
+  "lon": -46.5197428
 }

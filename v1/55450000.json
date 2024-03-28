@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa dos Gatos",
   "uf": "PE",
-  "ibge": "2608701"
+  "ibge": "2608701",
+  "lat": -8.6554106,
+  "lon": -35.8934136
 }

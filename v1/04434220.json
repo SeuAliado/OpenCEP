@@ -5,5 +5,7 @@
   "bairro": "Jardim Orly",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6855825,
+  "lon": -46.6662059
 }

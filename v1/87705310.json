@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0801166,
+  "lon": -52.4503222
 }

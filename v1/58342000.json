@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sobrado",
   "uf": "PB",
-  "ibge": "2515971"
+  "ibge": "2515971",
+  "lat": -7.1718234,
+  "lon": -35.2478112
 }

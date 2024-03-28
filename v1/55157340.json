@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -19.989516,
+  "lon": -44.0554356
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Leme do Prado",
   "uf": "MG",
-  "ibge": "3138351"
+  "ibge": "3138351",
+  "lat": -17.1332789,
+  "lon": -42.7731787
 }

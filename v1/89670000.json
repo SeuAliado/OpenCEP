@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Catanduvas",
   "uf": "SC",
-  "ibge": "4204004"
+  "ibge": "4204004",
+  "lat": -27.0565963,
+  "lon": -51.70451
 }

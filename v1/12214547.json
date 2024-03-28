@@ -5,5 +5,7 @@
   "bairro": "Mirante do Buquirinha",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.0998016,
+  "lon": -45.9263254
 }

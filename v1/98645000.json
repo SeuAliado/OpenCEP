@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Crissiumal",
   "uf": "RS",
-  "ibge": "4306007"
+  "ibge": "4306007",
+  "lat": -27.3613185,
+  "lon": -54.1313922
 }

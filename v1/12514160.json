@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Adhemar de Barros",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.798744,
+  "lon": -45.2025621
 }

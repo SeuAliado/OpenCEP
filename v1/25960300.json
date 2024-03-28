@@ -5,5 +5,7 @@
   "bairro": "Granja Guarani",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4437658,
+  "lon": -42.9882484
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Floresta",
   "uf": "PE",
-  "ibge": "2605707"
+  "ibge": "2605707",
+  "lat": -8.5939322,
+  "lon": -38.2322028
 }

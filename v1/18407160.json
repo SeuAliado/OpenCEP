@@ -5,5 +5,7 @@
   "bairro": "Jardim Maringá III",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.991803,
+  "lon": -48.8931212
 }

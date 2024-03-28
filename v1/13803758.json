@@ -5,5 +5,7 @@
   "bairro": "Chácaras Sol Nascente",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4347735,
+  "lon": -46.9346811
 }

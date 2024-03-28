@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1074735,
+  "lon": -47.2284856
 }

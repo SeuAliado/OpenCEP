@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Carú",
   "uf": "MA",
-  "ibge": "2111029"
+  "ibge": "2111029",
+  "lat": -3.5506796,
+  "lon": -46.2511015
 }

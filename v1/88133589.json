@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.6204219,
+  "lon": -48.6603641
 }

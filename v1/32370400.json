@@ -5,5 +5,7 @@
   "bairro": "Conjunto Água Branca",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.930993,
+  "lon": -44.0257826
 }

@@ -5,5 +5,7 @@
   "bairro": "Canaã",
   "localidade": "Triunfo",
   "uf": "PE",
-  "ibge": "2615706"
+  "ibge": "2615706",
+  "lat": -16.5677413,
+  "lon": -49.3968242
 }

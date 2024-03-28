@@ -5,5 +5,7 @@
   "bairro": "Chácara São José",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.284031,
+  "lon": -48.5514866
 }

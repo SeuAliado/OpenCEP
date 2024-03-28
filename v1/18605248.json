@@ -5,5 +5,7 @@
   "bairro": "Park Residencial Convívio",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9225647,
+  "lon": -48.4275481
 }

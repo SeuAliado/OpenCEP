@@ -5,5 +5,7 @@
   "bairro": "Campestre",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.434662,
+  "lon": -51.9722313
 }

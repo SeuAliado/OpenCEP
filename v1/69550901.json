@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tefé",
   "uf": "AM",
-  "ibge": "1304203"
+  "ibge": "1304203",
+  "lat": -3.3467984,
+  "lon": -64.7091544
 }

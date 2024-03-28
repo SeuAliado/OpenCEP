@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Seridó",
   "uf": "RN",
-  "ibge": "2411429"
+  "ibge": "2411429",
+  "lat": -6.7263655,
+  "lon": -36.7604027
 }

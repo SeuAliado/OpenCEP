@@ -5,5 +5,7 @@
   "bairro": "Cecap",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "lat": -22.7578222,
+  "lon": -45.1303342
 }

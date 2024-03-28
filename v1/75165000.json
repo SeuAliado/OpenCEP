@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouro Verde de Goiás",
   "uf": "GO",
-  "ibge": "5215405"
+  "ibge": "5215405",
+  "lat": -16.218557,
+  "lon": -49.1946007
 }

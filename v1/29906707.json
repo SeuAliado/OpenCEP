@@ -5,5 +5,7 @@
   "bairro": "Palmital",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3735338,
+  "lon": -40.0587817
 }

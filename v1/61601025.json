@@ -5,5 +5,7 @@
   "bairro": "Padre Romualdo",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.7322525,
+  "lon": -38.6854426
 }

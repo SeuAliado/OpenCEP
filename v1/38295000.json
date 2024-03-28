@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Limeira do Oeste",
   "uf": "MG",
-  "ibge": "3138625"
+  "ibge": "3138625",
+  "lat": -19.390396,
+  "lon": -50.6378804
 }

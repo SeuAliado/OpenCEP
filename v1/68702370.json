@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.2035323,
+  "lon": -47.1882121
 }

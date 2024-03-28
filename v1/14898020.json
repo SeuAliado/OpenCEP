@@ -5,5 +5,7 @@
   "bairro": "Lusitânia",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.1269439,
+  "lon": -48.2766598
 }

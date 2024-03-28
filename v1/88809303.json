@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6816093,
+  "lon": -49.3885237
 }

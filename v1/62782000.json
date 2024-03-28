@@ -5,5 +5,7 @@
   "bairro": "Gado",
   "localidade": "Palmácia",
   "uf": "CE",
-  "ibge": "2310100"
+  "ibge": "2310100",
+  "lat": -4.1535952,
+  "lon": -38.869482
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.4690193,
+  "lon": -42.5469481
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marmelópolis",
   "uf": "MG",
-  "ibge": "3140407"
+  "ibge": "3140407",
+  "lat": -22.4492906,
+  "lon": -45.1653743
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Estação",
   "uf": "RS",
-  "ibge": "4307559"
+  "ibge": "4307559",
+  "lat": -27.9143035,
+  "lon": -52.2537844
 }

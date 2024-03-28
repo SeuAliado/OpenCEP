@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Alegre de Sergipe",
   "uf": "SE",
-  "ibge": "2804201"
+  "ibge": "2804201",
+  "lat": -10.0260027,
+  "lon": -37.5619452
 }

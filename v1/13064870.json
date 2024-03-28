@@ -5,5 +5,7 @@
   "bairro": "Chácara de Recreio Santa Fé",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9066004,
+  "lon": -47.1679734
 }

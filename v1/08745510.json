@@ -5,5 +5,7 @@
   "bairro": "Vila Cardoso",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.541461,
+  "lon": -46.2408932
 }

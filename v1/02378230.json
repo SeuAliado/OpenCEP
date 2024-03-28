@@ -5,5 +5,7 @@
   "bairro": "Horto Florestal",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4521786,
+  "lon": -46.6317504
 }

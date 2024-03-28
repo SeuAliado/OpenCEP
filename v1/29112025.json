@@ -5,5 +5,7 @@
   "bairro": "Jardim Marilândia",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3554434,
+  "lon": -40.3441172
 }

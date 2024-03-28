@@ -5,5 +5,7 @@
   "bairro": "COHAB",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8126323,
+  "lon": -51.158123
 }

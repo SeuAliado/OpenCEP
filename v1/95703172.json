@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1706168,
+  "lon": -51.5072057
 }

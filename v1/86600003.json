@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "lat": -23.3107265,
+  "lon": -51.3720607
 }

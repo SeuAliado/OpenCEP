@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo André",
   "uf": "PB",
-  "ibge": "2513851"
+  "ibge": "2513851",
+  "lat": -7.2208885,
+  "lon": -36.6323257
 }

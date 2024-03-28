@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fortaleza dos Valos",
   "uf": "RS",
-  "ibge": "4308458"
+  "ibge": "4308458",
+  "lat": -28.7961248,
+  "lon": -53.2264703
 }

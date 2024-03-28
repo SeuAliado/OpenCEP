@@ -5,5 +5,7 @@
   "bairro": "Concórdia II",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.2249002,
+  "lon": -50.4166352
 }

@@ -5,5 +5,7 @@
   "bairro": "Volta Fechada",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "lat": -27.2987386,
+  "lon": -52.2862627
 }

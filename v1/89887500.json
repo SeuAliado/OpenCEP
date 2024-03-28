@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Palmitos",
   "uf": "SC",
-  "ibge": "4212106"
+  "ibge": "4212106",
+  "lat": -27.0972575,
+  "lon": -53.2062023
 }

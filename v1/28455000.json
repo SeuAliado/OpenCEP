@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José de Ubá",
   "uf": "RJ",
-  "ibge": "3305133"
+  "ibge": "3305133",
+  "lat": -21.3822269,
+  "lon": -41.9394892
 }

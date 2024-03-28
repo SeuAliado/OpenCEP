@@ -5,5 +5,7 @@
   "bairro": "Parque Nossa Senhora da Candelária",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2703021,
+  "lon": -47.312753
 }

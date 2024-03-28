@@ -5,5 +5,7 @@
   "bairro": "Ribanceira",
   "localidade": "São Romão",
   "uf": "MG",
-  "ibge": "3164209"
+  "ibge": "3164209",
+  "lat": -16.4699164,
+  "lon": -45.1018102
 }

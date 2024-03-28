@@ -5,5 +5,7 @@
   "bairro": "Jardim Lorenzete",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4866751,
+  "lon": -49.549037
 }

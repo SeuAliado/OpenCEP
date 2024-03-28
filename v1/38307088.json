@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9682172,
+  "lon": -49.4785495
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Cândida",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7511353,
+  "lon": -43.3377146
 }

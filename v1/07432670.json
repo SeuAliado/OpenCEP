@@ -5,5 +5,7 @@
   "bairro": "Sítio dos Fernandes",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4231682,
+  "lon": -46.3637831
 }

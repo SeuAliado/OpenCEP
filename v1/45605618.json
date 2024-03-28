@@ -5,5 +5,7 @@
   "bairro": "Banco Raso",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8042523,
+  "lon": -39.2790638
 }

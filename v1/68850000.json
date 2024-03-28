@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz do Arari",
   "uf": "PA",
-  "ibge": "1506401"
+  "ibge": "1506401",
+  "lat": -0.6647572,
+  "lon": -49.1730786
 }

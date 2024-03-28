@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vitorino",
   "uf": "PR",
-  "ibge": "4128708"
+  "ibge": "4128708",
+  "lat": -26.2756189,
+  "lon": -52.8098384
 }

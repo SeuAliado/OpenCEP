@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8339331,
+  "lon": -55.5239254
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Moreira Sales",
   "uf": "PR",
-  "ibge": "4116109"
+  "ibge": "4116109",
+  "lat": -24.044197,
+  "lon": -53.0066234
 }

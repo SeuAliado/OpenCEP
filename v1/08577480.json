@@ -5,5 +5,7 @@
   "bairro": "Vila Dolores",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4828599,
+  "lon": -46.371696
 }

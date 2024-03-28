@@ -5,5 +5,7 @@
   "bairro": "Vila Cascata",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4078299,
+  "lon": -51.4526692
 }

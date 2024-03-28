@@ -5,5 +5,7 @@
   "bairro": "Lomanto Júnior",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8097623,
+  "lon": -39.2941982
 }

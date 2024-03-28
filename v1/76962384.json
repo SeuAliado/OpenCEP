@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro II",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4156704,
+  "lon": -61.4546549
 }

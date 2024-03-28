@@ -5,5 +5,7 @@
   "bairro": "Jardim IV Centenário",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.400771,
+  "lon": -46.4298189
 }

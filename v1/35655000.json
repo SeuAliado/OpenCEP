@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Onça de Pitangui",
   "uf": "MG",
-  "ibge": "3145802"
+  "ibge": "3145802",
+  "lat": -19.7280291,
+  "lon": -44.8061909
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa União",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1882583,
+  "lon": -38.5093081
 }

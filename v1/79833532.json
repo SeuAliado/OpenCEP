@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Esperança",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2122502,
+  "lon": -54.7581472
 }

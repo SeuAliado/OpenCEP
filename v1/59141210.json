@@ -5,5 +5,7 @@
   "bairro": "Santos Reis",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "lat": -5.9195146,
+  "lon": -35.2722163
 }

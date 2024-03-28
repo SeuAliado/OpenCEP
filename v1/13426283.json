@@ -5,5 +5,7 @@
   "bairro": "Jardim Astúrias III",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7539439,
+  "lon": -47.6220202
 }

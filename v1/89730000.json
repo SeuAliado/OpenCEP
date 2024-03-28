@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Bela Vista",
   "uf": "SC",
-  "ibge": "4200754"
+  "ibge": "4200754",
+  "lat": -27.4338359,
+  "lon": -51.9049399
 }

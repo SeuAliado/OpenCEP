@@ -5,5 +5,7 @@
   "bairro": "Residencial Village",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0912372,
+  "lon": -48.9423335
 }

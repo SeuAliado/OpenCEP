@@ -5,5 +5,7 @@
   "bairro": "Juraci",
   "localidade": "Marcionílio Souza",
   "uf": "BA",
-  "ibge": "2920809"
+  "ibge": "2920809",
+  "lat": -13.1709485,
+  "lon": -40.8003921
 }

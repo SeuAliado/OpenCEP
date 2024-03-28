@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita de Cássia",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7747511,
+  "lon": -48.1934511
 }

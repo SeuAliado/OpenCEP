@@ -5,5 +5,7 @@
   "bairro": "Distrito Municipal Industrial IV Adolpho Matthiesen",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3517078,
+  "lon": -47.3844289
 }

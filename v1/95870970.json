@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Retiro do Sul",
   "uf": "RS",
-  "ibge": "4302402"
+  "ibge": "4302402",
+  "lat": -29.6080818,
+  "lon": -51.9440823
 }

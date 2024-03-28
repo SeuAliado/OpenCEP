@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Botuporã",
   "uf": "BA",
-  "ibge": "2904209"
+  "ibge": "2904209",
+  "lat": -13.323635,
+  "lon": -42.5117238
 }

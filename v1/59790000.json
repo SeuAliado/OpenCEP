@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Dix-Sept Rosado",
   "uf": "RN",
-  "ibge": "2404309"
+  "ibge": "2404309",
+  "lat": -5.4502858,
+  "lon": -37.5186012
 }

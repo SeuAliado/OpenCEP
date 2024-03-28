@@ -5,5 +5,7 @@
   "bairro": "Rio da Areia (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8760984,
+  "lon": -42.4636942
 }

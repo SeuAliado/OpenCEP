@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Astorga",
   "uf": "PR",
-  "ibge": "4102109"
+  "ibge": "4102109",
+  "lat": -23.2332619,
+  "lon": -51.6644764
 }

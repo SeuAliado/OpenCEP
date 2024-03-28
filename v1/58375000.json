@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mogeiro",
   "uf": "PB",
-  "ibge": "2509404"
+  "ibge": "2509404",
+  "lat": -7.3021587,
+  "lon": -35.4783084
 }

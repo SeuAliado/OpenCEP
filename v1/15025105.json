@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora da Paz",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8150434,
+  "lon": -49.3929788
 }

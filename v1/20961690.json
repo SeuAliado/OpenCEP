@@ -5,5 +5,7 @@
   "bairro": "Engenho Novo",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9237945,
+  "lon": -43.2126096
 }

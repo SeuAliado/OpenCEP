@@ -5,5 +5,7 @@
   "bairro": "Vila dos Cabanos",
   "localidade": "Barcarena",
   "uf": "PA",
-  "ibge": "1501303"
+  "ibge": "1501303",
+  "lat": -1.5122312,
+  "lon": -48.6199539
 }

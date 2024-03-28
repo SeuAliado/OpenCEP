@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brasilândia do Tocantins",
   "uf": "TO",
-  "ibge": "1703602"
+  "ibge": "1703602",
+  "lat": -8.2950454,
+  "lon": -48.4387577
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7012967,
+  "lon": -43.5826427
 }

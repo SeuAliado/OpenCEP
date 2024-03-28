@@ -5,5 +5,7 @@
   "bairro": "Ribeirão do Salto",
   "localidade": "Itarantim",
   "uf": "BA",
-  "ibge": "2916807"
+  "ibge": "2916807",
+  "lat": -15.8107265,
+  "lon": -40.2164999
 }

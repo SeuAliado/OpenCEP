@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taquaral",
   "uf": "SP",
-  "ibge": "3553658"
+  "ibge": "3553658",
+  "lat": -21.0726547,
+  "lon": -48.414658
 }

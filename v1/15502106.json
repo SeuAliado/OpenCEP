@@ -5,5 +5,7 @@
   "bairro": "Vila América",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4148664,
+  "lon": -49.9839736
 }

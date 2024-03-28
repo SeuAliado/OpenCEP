@@ -5,5 +5,7 @@
   "bairro": "França",
   "localidade": "Piritiba",
   "uf": "BA",
-  "ibge": "2924801"
+  "ibge": "2924801",
+  "lat": -11.7332574,
+  "lon": -40.5577273
 }

@@ -5,5 +5,7 @@
   "bairro": "Nicolândia",
   "localidade": "Resplendor",
   "uf": "MG",
-  "ibge": "3154309"
+  "ibge": "3154309",
+  "lat": -19.2192723,
+  "lon": -40.9878874
 }

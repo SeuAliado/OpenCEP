@@ -5,5 +5,7 @@
   "bairro": "Residencial Rassim Dibe",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9149124,
+  "lon": -48.4937914
 }

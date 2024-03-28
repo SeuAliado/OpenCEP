@@ -5,5 +5,7 @@
   "bairro": "Vila Samarco",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "lat": -18.9069635,
+  "lon": -48.3125039
 }

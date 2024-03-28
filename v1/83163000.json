@@ -5,5 +5,7 @@
   "bairro": "Faxina",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.7359826,
+  "lon": -49.1775118
 }

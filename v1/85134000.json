@@ -5,5 +5,7 @@
   "bairro": "Macucos",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.5075206,
+  "lon": -54.5427414
 }

@@ -5,5 +5,7 @@
   "bairro": "Padre Libério",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8305941,
+  "lon": -44.6022316
 }

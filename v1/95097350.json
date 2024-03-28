@@ -5,5 +5,7 @@
   "bairro": "São Leopoldo",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1812907,
+  "lon": -51.1852601
 }

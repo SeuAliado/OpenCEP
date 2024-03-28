@@ -5,5 +5,7 @@
   "bairro": "Vila Caetano Madeira",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7620191,
+  "lon": -43.2948089
 }

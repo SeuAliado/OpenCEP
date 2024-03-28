@@ -5,5 +5,7 @@
   "bairro": "Vila Rio Branco",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1728138,
+  "lon": -46.8905176
 }

@@ -5,5 +5,7 @@
   "bairro": "Bosque da Saúde",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5894765,
+  "lon": -56.0755254
 }

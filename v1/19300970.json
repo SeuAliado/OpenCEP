@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Bernardes",
   "uf": "SP",
-  "ibge": "3541208"
+  "ibge": "3541208",
+  "lat": -22.0077662,
+  "lon": -51.5553484
 }

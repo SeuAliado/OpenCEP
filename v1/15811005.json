@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Coqueiros",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1685326,
+  "lon": -48.9921577
 }

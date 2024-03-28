@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvorada",
   "uf": "TO",
-  "ibge": "1700707"
+  "ibge": "1700707",
+  "lat": -12.4788946,
+  "lon": -49.1253648
 }

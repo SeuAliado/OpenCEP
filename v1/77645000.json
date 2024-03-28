@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lajeado",
   "uf": "TO",
-  "ibge": "1712009"
+  "ibge": "1712009",
+  "lat": -9.7503704,
+  "lon": -48.3569109
 }

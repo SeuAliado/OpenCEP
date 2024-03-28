@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Esteio",
   "uf": "RS",
-  "ibge": "4307708"
+  "ibge": "4307708",
+  "lat": -29.8594466,
+  "lon": -51.1636099
 }

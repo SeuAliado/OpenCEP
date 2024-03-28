@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3590083,
+  "lon": -46.9297078
 }

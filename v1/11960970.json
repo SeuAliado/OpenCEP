@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Eldorado",
   "uf": "SP",
-  "ibge": "3514809"
+  "ibge": "3514809",
+  "lat": -24.5211592,
+  "lon": -48.1100087
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arraias",
   "uf": "TO",
-  "ibge": "1702406"
+  "ibge": "1702406",
+  "lat": -12.6770601,
+  "lon": -46.9805103
 }

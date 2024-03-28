@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Santa Rosa",
   "uf": "PR",
-  "ibge": "4117222"
+  "ibge": "4117222",
+  "lat": -24.4697658,
+  "lon": -53.9557569
 }

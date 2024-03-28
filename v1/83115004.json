@@ -5,5 +5,7 @@
   "bairro": "Contenda",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.7006487,
+  "lon": -49.1492542
 }

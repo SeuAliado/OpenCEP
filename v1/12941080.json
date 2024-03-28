@@ -5,5 +5,7 @@
   "bairro": "Vila Santista",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1192291,
+  "lon": -46.5400922
 }

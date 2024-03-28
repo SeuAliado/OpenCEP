@@ -5,5 +5,7 @@
   "bairro": "Vila Aielo",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2146736,
+  "lon": -46.8827201
 }

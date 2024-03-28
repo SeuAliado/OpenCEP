@@ -5,5 +5,7 @@
   "bairro": "Pedrinhas",
   "localidade": "Ilha Comprida",
   "uf": "SP",
-  "ibge": "3520426"
+  "ibge": "3520426",
+  "lat": -24.8932466,
+  "lon": -47.7975636
 }

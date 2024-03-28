@@ -5,5 +5,7 @@
   "bairro": "Engenho do Porto",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7933794,
+  "lon": -43.3207199
 }

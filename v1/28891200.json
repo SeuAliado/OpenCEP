@@ -5,5 +5,7 @@
   "bairro": "Maria Turri",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5250417,
+  "lon": -41.9857134
 }

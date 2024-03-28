@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Pacaraima",
   "uf": "RR",
-  "ibge": "1400456"
+  "ibge": "1400456",
+  "lat": 4.4773225,
+  "lon": -61.1473623
 }

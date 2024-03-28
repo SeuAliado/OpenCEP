@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ferreiros",
   "uf": "PE",
-  "ibge": "2605509"
+  "ibge": "2605509",
+  "lat": -7.4490676,
+  "lon": -35.2446199
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Varginha",
   "uf": "MG",
-  "ibge": "3163102"
+  "ibge": "3163102",
+  "lat": -19.706107,
+  "lon": -44.5594442
 }

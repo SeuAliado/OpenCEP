@@ -5,5 +5,7 @@
   "bairro": "São José Operário",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6360458,
+  "lon": -56.7456376
 }

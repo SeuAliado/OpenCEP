@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caetité",
   "uf": "BA",
-  "ibge": "2905206"
+  "ibge": "2905206",
+  "lat": -14.0685669,
+  "lon": -42.4836699
 }

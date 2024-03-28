@@ -5,5 +5,7 @@
   "bairro": "Guabiraba",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.8956338,
+  "lon": -38.6905864
 }

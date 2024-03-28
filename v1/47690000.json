@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coribe",
   "uf": "BA",
-  "ibge": "2909109"
+  "ibge": "2909109",
+  "lat": -13.8236612,
+  "lon": -44.4589973
 }

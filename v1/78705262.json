@@ -5,5 +5,7 @@
   "bairro": "Vila Mariley",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.461333,
+  "lon": -54.6235006
 }

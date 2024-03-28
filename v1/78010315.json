@@ -5,5 +5,7 @@
   "bairro": "Areão",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6012529,
+  "lon": -56.0779608
 }

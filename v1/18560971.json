@@ -5,5 +5,7 @@
   "bairro": "George Oettrer",
   "localidade": "Iperó",
   "uf": "SP",
-  "ibge": "3521002"
+  "ibge": "3521002",
+  "lat": -23.453287,
+  "lon": -47.55238
 }

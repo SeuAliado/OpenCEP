@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dumont",
   "uf": "SP",
-  "ibge": "3514601"
+  "ibge": "3514601",
+  "lat": -21.2372519,
+  "lon": -47.9743456
 }

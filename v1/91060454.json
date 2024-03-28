@@ -5,5 +5,7 @@
   "bairro": "Sarandi",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0449697,
+  "lon": -51.1694664
 }

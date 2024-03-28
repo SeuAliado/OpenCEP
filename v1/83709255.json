@@ -5,5 +5,7 @@
   "bairro": "Costeira",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.6065134,
+  "lon": -49.373818
 }

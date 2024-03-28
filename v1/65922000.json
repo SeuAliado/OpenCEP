@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "João Lisboa",
   "uf": "MA",
-  "ibge": "2105500"
+  "ibge": "2105500",
+  "lat": -5.4444988,
+  "lon": -47.406975
 }

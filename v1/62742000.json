@@ -5,5 +5,7 @@
   "bairro": "Caio Prado",
   "localidade": "Itapiúna",
   "uf": "CE",
-  "ibge": "2306504"
+  "ibge": "2306504",
+  "lat": -4.6526983,
+  "lon": -38.9425356
 }

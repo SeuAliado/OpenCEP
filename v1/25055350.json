@@ -5,5 +5,7 @@
   "bairro": "Jardim Gramacho",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.751876,
+  "lon": -43.2779665
 }

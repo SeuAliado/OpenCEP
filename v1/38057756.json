@@ -5,5 +5,7 @@
   "bairro": "Recanto da Terra",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7373352,
+  "lon": -47.9664944
 }

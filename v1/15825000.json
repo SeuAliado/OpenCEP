@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraíso",
   "uf": "SP",
-  "ibge": "3535705"
+  "ibge": "3535705",
+  "lat": -21.0156896,
+  "lon": -48.7794089
 }

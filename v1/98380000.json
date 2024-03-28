@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Seberi",
   "uf": "RS",
-  "ibge": "4320206"
+  "ibge": "4320206",
+  "lat": -27.4833456,
+  "lon": -53.4031508
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "lat": -8.2352741,
+  "lon": -35.7520045
 }

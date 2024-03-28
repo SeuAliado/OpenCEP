@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anhangüera",
   "uf": "GO",
-  "ibge": "5201207"
+  "ibge": "5201207",
+  "lat": -18.31014,
+  "lon": -48.2194523
 }

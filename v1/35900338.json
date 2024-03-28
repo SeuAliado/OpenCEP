@@ -5,5 +5,7 @@
   "bairro": "Panorama",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6331078,
+  "lon": -43.2230162
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Pedregal",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5967811,
+  "lon": -56.0718141
 }

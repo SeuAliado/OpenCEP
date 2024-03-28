@@ -5,5 +5,7 @@
   "bairro": "Vila Aurora III",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.480834,
+  "lon": -54.6171314
 }

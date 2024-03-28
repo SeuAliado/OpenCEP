@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sossego",
   "uf": "PB",
-  "ibge": "2516151"
+  "ibge": "2516151",
+  "lat": -6.7675358,
+  "lon": -36.2471346
 }

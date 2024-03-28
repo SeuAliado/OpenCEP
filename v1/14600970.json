@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Joaquim da Barra",
   "uf": "SP",
-  "ibge": "3549409"
+  "ibge": "3549409",
+  "lat": -23.0327852,
+  "lon": -46.9705765
 }

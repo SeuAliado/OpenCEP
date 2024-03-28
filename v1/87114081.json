@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4397342,
+  "lon": -51.8527234
 }

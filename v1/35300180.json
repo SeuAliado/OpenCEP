@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7891676,
+  "lon": -42.1513622
 }

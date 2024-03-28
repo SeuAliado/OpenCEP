@@ -5,5 +5,7 @@
   "bairro": "São João de Viçosa",
   "localidade": "Venda Nova do Imigrante",
   "uf": "ES",
-  "ibge": "3205069"
+  "ibge": "3205069",
+  "lat": -20.3364712,
+  "lon": -41.1887196
 }

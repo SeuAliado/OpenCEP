@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaiópolis",
   "uf": "SC",
-  "ibge": "4208104"
+  "ibge": "4208104",
+  "lat": -26.3396691,
+  "lon": -49.9061128
 }

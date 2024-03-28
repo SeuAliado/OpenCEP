@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caibaté",
   "uf": "RS",
-  "ibge": "4303301"
+  "ibge": "4303301",
+  "lat": -28.2909573,
+  "lon": -54.6459371
 }

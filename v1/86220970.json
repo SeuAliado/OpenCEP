@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Assaí",
   "uf": "PR",
-  "ibge": "4101903"
+  "ibge": "4101903",
+  "lat": -23.3663273,
+  "lon": -50.8504486
 }

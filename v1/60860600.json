@@ -5,5 +5,7 @@
   "bairro": "Dias Macedo",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7856597,
+  "lon": -38.5200588
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Linda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4872626,
+  "lon": -46.7529258
 }

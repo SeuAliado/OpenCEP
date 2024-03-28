@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacobina do Piauí",
   "uf": "PI",
-  "ibge": "2205151"
+  "ibge": "2205151",
+  "lat": -7.9347221,
+  "lon": -41.2106689
 }

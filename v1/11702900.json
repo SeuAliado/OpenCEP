@@ -5,5 +5,7 @@
   "bairro": "Aviação",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.0130876,
+  "lon": -46.4288622
 }

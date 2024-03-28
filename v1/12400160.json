@@ -5,5 +5,7 @@
   "bairro": "Vila Nair",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9263072,
+  "lon": -45.4693787
 }

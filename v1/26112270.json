@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7570237,
+  "lon": -43.4030559
 }

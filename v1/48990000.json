@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Andorinha",
   "uf": "BA",
-  "ibge": "2901353"
+  "ibge": "2901353",
+  "lat": -10.2948948,
+  "lon": -39.8579118
 }

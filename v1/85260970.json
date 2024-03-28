@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manoel Ribas",
   "uf": "PR",
-  "ibge": "4114500"
+  "ibge": "4114500",
+  "lat": -24.5126714,
+  "lon": -51.6702227
 }

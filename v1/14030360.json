@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Goretti",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1946969,
+  "lon": -47.8383694
 }

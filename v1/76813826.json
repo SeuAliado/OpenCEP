@@ -5,5 +5,7 @@
   "bairro": "Ulisses Guimarães",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7731777,
+  "lon": -63.7979205
 }

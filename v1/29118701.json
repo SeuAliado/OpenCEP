@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3517011,
+  "lon": -40.342546
 }

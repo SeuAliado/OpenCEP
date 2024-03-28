@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8999683,
+  "lon": -41.9483277
 }

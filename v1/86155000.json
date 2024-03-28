@@ -5,5 +5,7 @@
   "bairro": "Esperança do Norte",
   "localidade": "Alvorada do Sul",
   "uf": "PR",
-  "ibge": "4100806"
+  "ibge": "4100806",
+  "lat": -22.7772597,
+  "lon": -51.2272509
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sanharó",
   "uf": "PE",
-  "ibge": "2612406"
+  "ibge": "2612406",
+  "lat": -8.3622087,
+  "lon": -36.5651303
 }

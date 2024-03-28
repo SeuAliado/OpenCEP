@@ -5,5 +5,7 @@
   "bairro": "Bairro do Moisés",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1925491,
+  "lon": -46.9054884
 }

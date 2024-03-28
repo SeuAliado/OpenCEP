@@ -5,5 +5,7 @@
   "bairro": "Cipó dos Anjos",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.918124,
+  "lon": -39.1510606
 }

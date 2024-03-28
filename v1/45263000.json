@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus da Serra",
   "uf": "BA",
-  "ibge": "2903953"
+  "ibge": "2903953",
+  "lat": -14.366767,
+  "lon": -40.5129279
 }

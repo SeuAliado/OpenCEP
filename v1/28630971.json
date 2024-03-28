@@ -5,5 +5,7 @@
   "bairro": "Campo do Coelho",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.272038,
+  "lon": -42.6099884
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tóquio",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.3983173,
+  "lon": -51.9333837
 }

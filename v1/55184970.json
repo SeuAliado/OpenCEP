@@ -5,5 +5,7 @@
   "bairro": "Distrito Riacho do Meio",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "lat": -8.030779,
+  "lon": -36.5701645
 }

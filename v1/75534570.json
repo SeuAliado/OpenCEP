@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Itumbiara",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4050212,
+  "lon": -49.2207343
 }

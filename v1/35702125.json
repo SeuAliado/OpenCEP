@@ -5,5 +5,7 @@
   "bairro": "Padre Teodoro",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4980482,
+  "lon": -44.2383239
 }

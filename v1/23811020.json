@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.880402,
+  "lon": -43.7616828
 }

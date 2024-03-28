@@ -5,5 +5,7 @@
   "bairro": "Barracão",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8235489,
+  "lon": -42.9678569
 }

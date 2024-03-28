@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Belo",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1184835,
+  "lon": -48.0193265
 }

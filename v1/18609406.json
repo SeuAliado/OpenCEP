@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -23.1977195,
+  "lon": -46.8200382
 }

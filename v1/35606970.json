@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Martinho Campos",
   "uf": "MG",
-  "ibge": "3140506"
+  "ibge": "3140506",
+  "lat": -19.3259523,
+  "lon": -45.2367183
 }

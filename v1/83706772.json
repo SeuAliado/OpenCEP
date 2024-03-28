@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5310819,
+  "lon": -49.3648836
 }

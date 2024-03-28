@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colinas",
   "uf": "MA",
-  "ibge": "2103505"
+  "ibge": "2103505",
+  "lat": -6.0433667,
+  "lon": -44.1720266
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Sião",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5525441,
+  "lon": -47.4568679
 }

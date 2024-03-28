@@ -5,5 +5,7 @@
   "bairro": "Vila André Luiz",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7755095,
+  "lon": -50.9270554
 }

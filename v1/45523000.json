@@ -5,5 +5,7 @@
   "bairro": "Ibiaçu",
   "localidade": "Maraú",
   "uf": "BA",
-  "ibge": "2920700"
+  "ibge": "2920700",
+  "lat": -14.2588378,
+  "lon": -39.2604103
 }

@@ -5,5 +5,7 @@
   "bairro": "Taquaral",
   "localidade": "Rincão",
   "uf": "SP",
-  "ibge": "3543709"
+  "ibge": "3543709",
+  "lat": -23.6146837,
+  "lon": -46.9737167
 }

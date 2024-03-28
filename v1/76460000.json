@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Trombas",
   "uf": "GO",
-  "ibge": "5221452"
+  "ibge": "5221452",
+  "lat": -13.5083261,
+  "lon": -48.7421477
 }

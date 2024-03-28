@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6632026,
+  "lon": -49.2746891
 }

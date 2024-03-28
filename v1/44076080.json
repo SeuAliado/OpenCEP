@@ -5,5 +5,7 @@
   "bairro": "Capuchinhos",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.2576095,
+  "lon": -38.9504937
 }

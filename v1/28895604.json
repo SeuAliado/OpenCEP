@@ -5,5 +5,7 @@
   "bairro": "Village Rio das Ostras",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4941828,
+  "lon": -41.9199778
 }

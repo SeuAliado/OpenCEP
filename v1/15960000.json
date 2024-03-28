@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ariranha",
   "uf": "SP",
-  "ibge": "3503703"
+  "ibge": "3503703",
+  "lat": -21.1876353,
+  "lon": -48.7908747
 }

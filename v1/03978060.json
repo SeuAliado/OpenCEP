@@ -5,5 +5,7 @@
   "bairro": "Vila Cardoso Franco",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.618589,
+  "lon": -46.5047018
 }

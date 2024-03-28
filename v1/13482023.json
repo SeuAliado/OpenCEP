@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Europa",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5807142,
+  "lon": -47.4179357
 }

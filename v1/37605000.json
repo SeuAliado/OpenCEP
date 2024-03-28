@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Córrego do Bom Jesus",
   "uf": "MG",
-  "ibge": "3119906"
+  "ibge": "3119906",
+  "lat": -22.6298895,
+  "lon": -46.0191663
 }

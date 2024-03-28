@@ -5,5 +5,7 @@
   "bairro": "Vila Galvão",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1678451,
+  "lon": -46.8965255
 }

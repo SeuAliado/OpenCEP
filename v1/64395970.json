@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passagem Franca do Piauí",
   "uf": "PI",
-  "ibge": "2207751"
+  "ibge": "2207751",
+  "lat": -5.8571905,
+  "lon": -42.441565
 }

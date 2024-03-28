@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4402103,
+  "lon": -40.4972902
 }

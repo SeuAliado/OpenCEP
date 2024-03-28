@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Piauí",
   "uf": "PI",
-  "ibge": "2209351"
+  "ibge": "2209351",
+  "lat": -6.9473633,
+  "lon": -41.5181384
 }

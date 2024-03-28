@@ -5,5 +5,7 @@
   "bairro": "Maria Imaculada",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.8000789,
+  "lon": -46.6032749
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Vera Cruz - Jardins Viena",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7302665,
+  "lon": -49.263676
 }

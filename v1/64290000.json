@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Altos",
   "uf": "PI",
-  "ibge": "2200400"
+  "ibge": "2200400",
+  "lat": -5.0392665,
+  "lon": -42.461538
 }

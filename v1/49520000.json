@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo do Brito",
   "uf": "SE",
-  "ibge": "2801009"
+  "ibge": "2801009",
+  "lat": -10.7491119,
+  "lon": -37.493711
 }

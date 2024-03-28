@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Toritama",
   "uf": "PE",
-  "ibge": "2615409"
+  "ibge": "2615409",
+  "lat": -8.0012028,
+  "lon": -36.0512821
 }

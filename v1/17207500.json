@@ -5,5 +5,7 @@
   "bairro": "Vila Netinho Prado",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2826099,
+  "lon": -48.5596894
 }

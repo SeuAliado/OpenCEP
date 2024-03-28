@@ -5,5 +5,7 @@
   "bairro": "Dornelles",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -28.2829472,
+  "lon": -54.2733052
 }

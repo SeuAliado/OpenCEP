@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bonfinópolis de Minas",
   "uf": "MG",
-  "ibge": "3108206"
+  "ibge": "3108206",
+  "lat": -16.5669877,
+  "lon": -45.9885044
 }

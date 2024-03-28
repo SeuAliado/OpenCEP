@@ -5,5 +5,7 @@
   "bairro": "Doca Furtado",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.968833,
+  "lon": -67.8348202
 }

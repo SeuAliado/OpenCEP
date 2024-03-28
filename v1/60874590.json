@@ -5,5 +5,7 @@
   "bairro": "Pedras",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8804841,
+  "lon": -38.5057912
 }

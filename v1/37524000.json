@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Natércia",
   "uf": "MG",
-  "ibge": "3144409"
+  "ibge": "3144409",
+  "lat": -22.1183619,
+  "lon": -45.506339
 }

@@ -5,5 +5,7 @@
   "bairro": "De Lourdes",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.74702,
+  "lon": -38.4633096
 }

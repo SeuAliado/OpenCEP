@@ -5,5 +5,7 @@
   "bairro": "Três Fontes",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.6935842,
+  "lon": -43.5499383
 }

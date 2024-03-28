@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guanambi",
   "uf": "BA",
-  "ibge": "2911709"
+  "ibge": "2911709",
+  "lat": -14.2278453,
+  "lon": -42.7802718
 }

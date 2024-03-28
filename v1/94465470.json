@@ -5,5 +5,7 @@
   "bairro": "São Tomé",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.117994,
+  "lon": -51.0796807
 }

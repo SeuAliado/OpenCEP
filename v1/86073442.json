@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria do Carmo",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2809837,
+  "lon": -51.1876961
 }

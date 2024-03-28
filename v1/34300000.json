@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Acima",
   "uf": "MG",
-  "ibge": "3154804"
+  "ibge": "3154804",
+  "lat": -20.0883098,
+  "lon": -43.7910446
 }

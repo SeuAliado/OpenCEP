@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Aeroporto",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4474789,
+  "lon": -51.9091746
 }

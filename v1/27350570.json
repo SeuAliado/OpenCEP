@@ -5,5 +5,7 @@
   "bairro": "Morada Verde",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5394306,
+  "lon": -44.1985552
 }

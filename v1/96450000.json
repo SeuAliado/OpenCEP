@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dom Pedrito",
   "uf": "RS",
-  "ibge": "4306601"
+  "ibge": "4306601",
+  "lat": -30.9758965,
+  "lon": -54.6650191
 }

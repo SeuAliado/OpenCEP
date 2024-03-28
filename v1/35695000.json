@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igaratinga",
   "uf": "MG",
-  "ibge": "3130200"
+  "ibge": "3130200",
+  "lat": -19.9500874,
+  "lon": -44.7111421
 }

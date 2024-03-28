@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itanhaém",
   "uf": "SP",
-  "ibge": "3522109"
+  "ibge": "3522109",
+  "lat": -24.1326817,
+  "lon": -46.6932194
 }

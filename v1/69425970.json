@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caapiranga",
   "uf": "AM",
-  "ibge": "1300839"
+  "ibge": "1300839",
+  "lat": -3.3286359,
+  "lon": -61.211427
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pindorama II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4523579,
+  "lon": -54.639662
 }

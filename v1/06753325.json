@@ -5,5 +5,7 @@
   "bairro": "Jardim Taboão",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6002136,
+  "lon": -46.7593602
 }

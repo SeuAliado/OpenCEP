@@ -5,5 +5,7 @@
   "bairro": "Realengo",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1855012,
+  "lon": -44.906172
 }

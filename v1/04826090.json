@@ -5,5 +5,7 @@
   "bairro": "Jardim Represa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.721435,
+  "lon": -46.7081923
 }

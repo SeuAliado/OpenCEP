@@ -5,5 +5,7 @@
   "bairro": "Vila Costa",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5421862,
+  "lon": -46.3073073
 }

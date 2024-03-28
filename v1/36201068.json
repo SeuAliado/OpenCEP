@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza I",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.229123,
+  "lon": -43.7859823
 }

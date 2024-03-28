@@ -5,5 +5,7 @@
   "bairro": "Barroco (Itaipuaçu)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9634696,
+  "lon": -42.9837656
 }

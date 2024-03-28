@@ -5,5 +5,7 @@
   "bairro": "Jardim Luanda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.669992,
+  "lon": -46.6809409
 }

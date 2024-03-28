@@ -5,5 +5,7 @@
   "bairro": "Vila Virginia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.596805,
+  "lon": -46.5297416
 }

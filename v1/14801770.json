@@ -5,5 +5,7 @@
   "bairro": "Jardim das Flores",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7890004,
+  "lon": -48.2032364
 }

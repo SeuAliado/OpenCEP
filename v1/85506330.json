@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.2430624,
+  "lon": -52.6731035
 }

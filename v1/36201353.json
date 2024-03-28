@@ -5,5 +5,7 @@
   "bairro": "São Vicente de Paula",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2254586,
+  "lon": -43.8050642
 }

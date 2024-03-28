@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buerarema",
   "uf": "BA",
-  "ibge": "2904704"
+  "ibge": "2904704",
+  "lat": -15.0144051,
+  "lon": -39.299866
 }

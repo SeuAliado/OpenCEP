@@ -5,5 +5,7 @@
   "bairro": "Vila do Colégio",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5522268,
+  "lon": -51.4494948
 }

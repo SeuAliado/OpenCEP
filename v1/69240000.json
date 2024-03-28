@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Autazes",
   "uf": "AM",
-  "ibge": "1300300"
+  "ibge": "1300300",
+  "lat": -3.7225517,
+  "lon": -59.5642369
 }

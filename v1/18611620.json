@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Serra Negra",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8648533,
+  "lon": -48.4337492
 }

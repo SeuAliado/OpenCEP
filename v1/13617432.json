@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Granada",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1886652,
+  "lon": -47.3745075
 }

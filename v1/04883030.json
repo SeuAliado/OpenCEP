@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Álamos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8108112,
+  "lon": -46.7376689
 }

@@ -5,5 +5,7 @@
   "bairro": "Murupé",
   "localidade": "Vicência",
   "uf": "PE",
-  "ibge": "2616308"
+  "ibge": "2616308",
+  "lat": -7.6661263,
+  "lon": -35.4141298
 }

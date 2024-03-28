@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Luciano Cavalcante",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7745734,
+  "lon": -38.4849853
 }

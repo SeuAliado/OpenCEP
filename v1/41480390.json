@@ -5,5 +5,7 @@
   "bairro": "Mussurunga II",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.921573,
+  "lon": -38.3662045
 }

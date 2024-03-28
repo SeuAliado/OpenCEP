@@ -5,5 +5,7 @@
   "bairro": "Sítio Paecara (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9468661,
+  "lon": -46.295313
 }

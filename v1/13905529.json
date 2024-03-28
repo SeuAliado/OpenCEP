@@ -5,5 +5,7 @@
   "bairro": "Parque Modelo",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7115574,
+  "lon": -46.8233782
 }

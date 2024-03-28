@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rosa",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6379454,
+  "lon": -40.4871007
 }

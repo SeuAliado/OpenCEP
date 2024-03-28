@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo II",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4064645,
+  "lon": -47.5847885
 }

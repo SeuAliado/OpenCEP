@@ -5,5 +5,7 @@
   "bairro": "Parque Xangrilá",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7992065,
+  "lon": -47.027281
 }

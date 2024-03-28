@@ -5,5 +5,7 @@
   "bairro": "Chácara Palmeirinha",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4448061,
+  "lon": -46.9966657
 }

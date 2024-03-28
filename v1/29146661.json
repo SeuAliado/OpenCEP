@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3413136,
+  "lon": -40.3809132
 }

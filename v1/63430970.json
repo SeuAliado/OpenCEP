@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Icó",
   "uf": "CE",
-  "ibge": "2305407"
+  "ibge": "2305407",
+  "lat": -6.3989454,
+  "lon": -38.8595656
 }

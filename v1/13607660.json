@@ -5,5 +5,7 @@
   "bairro": "Campinho",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3602017,
+  "lon": -47.3621055
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mostardas",
   "uf": "RS",
-  "ibge": "4312500"
+  "ibge": "4312500",
+  "lat": -31.104185,
+  "lon": -50.914265
 }

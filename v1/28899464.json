@@ -5,5 +5,7 @@
   "bairro": "Residencial Praia Âncora",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4896882,
+  "lon": -41.9184237
 }

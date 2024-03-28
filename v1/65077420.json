@@ -5,5 +5,7 @@
   "bairro": "Ponta D'Areia",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.500546,
+  "lon": -44.3098593
 }

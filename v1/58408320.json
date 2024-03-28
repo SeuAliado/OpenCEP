@@ -5,5 +5,7 @@
   "bairro": "Vila Cabral",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2490506,
+  "lon": -35.8701796
 }

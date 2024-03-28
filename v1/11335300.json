@@ -5,5 +5,7 @@
   "bairro": "Vila Mateo Bei",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9639666,
+  "lon": -46.4072984
 }

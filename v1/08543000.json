@@ -5,5 +5,7 @@
   "bairro": "Jardim Amalfi",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5185865,
+  "lon": -46.3700679
 }

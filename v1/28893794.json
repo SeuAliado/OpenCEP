@@ -5,5 +5,7 @@
   "bairro": "Village Sol e Mar",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5158363,
+  "lon": -41.9467136
 }

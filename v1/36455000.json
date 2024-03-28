@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lamim",
   "uf": "MG",
-  "ibge": "3137908"
+  "ibge": "3137908",
+  "lat": -20.7904859,
+  "lon": -43.4710264
 }

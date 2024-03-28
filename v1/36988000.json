@@ -5,5 +5,7 @@
   "bairro": "Professor Sperber",
   "localidade": "Chalé",
   "uf": "MG",
-  "ibge": "3116001"
+  "ibge": "3116001",
+  "lat": -20.0027867,
+  "lon": -41.7476293
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6356505,
+  "lon": -47.7577427
 }

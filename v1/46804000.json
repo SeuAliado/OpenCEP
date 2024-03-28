@@ -5,5 +5,7 @@
   "bairro": "Tapiraípe",
   "localidade": "Ruy Barbosa",
   "uf": "BA",
-  "ibge": "2927200"
+  "ibge": "2927200",
+  "lat": -12.3355554,
+  "lon": -40.7380155
 }

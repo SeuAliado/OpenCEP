@@ -5,5 +5,7 @@
   "bairro": "Memória",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.8202179,
+  "lon": -53.5498089
 }

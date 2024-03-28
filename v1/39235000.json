@@ -5,5 +5,7 @@
   "bairro": "Curimataí",
   "localidade": "Buenópolis",
   "uf": "MG",
-  "ibge": "3109204"
+  "ibge": "3109204",
+  "lat": -17.8760017,
+  "lon": -43.9559275
 }

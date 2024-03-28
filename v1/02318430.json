@@ -5,5 +5,7 @@
   "bairro": "Jardim Jaçanã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.451861,
+  "lon": -46.5874752
 }

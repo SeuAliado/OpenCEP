@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Violim",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.25927,
+  "lon": -51.1493016
 }

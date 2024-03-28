@@ -5,5 +5,7 @@
   "bairro": "Itaipava",
   "localidade": "Itapemirim",
   "uf": "ES",
-  "ibge": "3202801"
+  "ibge": "3202801",
+  "lat": -20.890256,
+  "lon": -40.775395
 }

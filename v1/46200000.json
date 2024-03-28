@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Condeúba",
   "uf": "BA",
-  "ibge": "2908705"
+  "ibge": "2908705",
+  "lat": -14.9026831,
+  "lon": -41.9722144
 }

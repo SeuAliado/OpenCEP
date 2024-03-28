@@ -5,5 +5,7 @@
   "bairro": "Antônio Conselheiro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4359474,
+  "lon": -40.4906723
 }

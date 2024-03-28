@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cururupu",
   "uf": "MA",
-  "ibge": "2103703"
+  "ibge": "2103703",
+  "lat": -1.8867371,
+  "lon": -44.813111
 }

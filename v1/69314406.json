@@ -5,5 +5,7 @@
   "bairro": "Nova Canaã",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8155247,
+  "lon": -60.7374905
 }

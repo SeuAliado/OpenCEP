@@ -5,5 +5,7 @@
   "bairro": "dos Abreus",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5472472,
+  "lon": -46.928356
 }

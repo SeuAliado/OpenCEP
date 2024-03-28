@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Rita",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.514918,
+  "lon": -46.412001
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Sabará",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.012689,
+  "lon": -47.8626499
 }

@@ -5,5 +5,7 @@
   "bairro": "Vitorino Braga",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7497509,
+  "lon": -43.3393845
 }

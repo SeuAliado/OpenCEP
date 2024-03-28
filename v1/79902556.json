@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Ponta Porã",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5082378,
+  "lon": -55.7116205
 }

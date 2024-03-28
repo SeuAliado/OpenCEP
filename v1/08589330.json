@@ -5,5 +5,7 @@
   "bairro": "Jardim Nicea",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4344918,
+  "lon": -46.3022926
 }

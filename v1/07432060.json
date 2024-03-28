@@ -5,5 +5,7 @@
   "bairro": "Jardim Emília",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4179784,
+  "lon": -46.3644583
 }

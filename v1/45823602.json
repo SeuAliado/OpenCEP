@@ -5,5 +5,7 @@
   "bairro": "Sapucaeira",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3265319,
+  "lon": -39.5761703
 }

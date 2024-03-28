@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sandovalina",
   "uf": "SP",
-  "ibge": "3545506"
+  "ibge": "3545506",
+  "lat": -22.4810055,
+  "lon": -51.8311441
 }

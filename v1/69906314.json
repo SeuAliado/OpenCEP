@@ -5,5 +5,7 @@
   "bairro": "Comara",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9977016,
+  "lon": -67.8058938
 }

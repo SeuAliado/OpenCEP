@@ -5,5 +5,7 @@
   "bairro": "Jardim Nilópolis",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.852539,
+  "lon": -47.0388703
 }

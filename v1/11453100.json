@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.939212,
+  "lon": -46.2841044
 }

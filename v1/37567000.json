@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião da Bela Vista",
   "uf": "MG",
-  "ibge": "3164407"
+  "ibge": "3164407",
+  "lat": -22.1581934,
+  "lon": -45.7548351
 }

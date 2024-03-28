@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porteirinha",
   "uf": "MG",
-  "ibge": "3152204"
+  "ibge": "3152204",
+  "lat": -15.741151,
+  "lon": -43.0280584
 }

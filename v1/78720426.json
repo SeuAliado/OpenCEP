@@ -5,5 +5,7 @@
   "bairro": "Vila Clarion",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4305583,
+  "lon": -54.6224678
 }

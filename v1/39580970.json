@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Francisco Sá",
   "uf": "MG",
-  "ibge": "3126703"
+  "ibge": "3126703",
+  "lat": -16.476688,
+  "lon": -43.496663
 }

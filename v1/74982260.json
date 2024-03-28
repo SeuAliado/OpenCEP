@@ -5,5 +5,7 @@
   "bairro": "Jardim Cristal",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7994752,
+  "lon": -49.2432387
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0966466,
+  "lon": -48.9329816
 }

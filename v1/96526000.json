@@ -5,5 +5,7 @@
   "bairro": "Barro Vermelho",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.3116321,
+  "lon": -53.2101837
 }

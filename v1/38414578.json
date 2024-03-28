@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9361257,
+  "lon": -48.3411443
 }

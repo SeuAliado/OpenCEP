@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itacambira",
   "uf": "MG",
-  "ibge": "3132008"
+  "ibge": "3132008",
+  "lat": -17.0629356,
+  "lon": -43.307334
 }

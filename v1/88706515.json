@@ -5,5 +5,7 @@
   "bairro": "Passagem",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4725209,
+  "lon": -48.9786119
 }

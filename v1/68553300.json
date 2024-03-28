@@ -5,5 +5,7 @@
   "bairro": "Vale da Serra",
   "localidade": "Redenção",
   "uf": "PA",
-  "ibge": "1506138"
+  "ibge": "1506138",
+  "lat": -8.0530361,
+  "lon": -50.0220307
 }

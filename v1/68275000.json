@@ -5,5 +5,7 @@
   "bairro": "Porto Trombetas",
   "localidade": "Oriximiná",
   "uf": "PA",
-  "ibge": "1505304"
+  "ibge": "1505304",
+  "lat": -2.0945793,
+  "lon": -56.4853548
 }

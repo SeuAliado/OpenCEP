@@ -5,5 +5,7 @@
   "bairro": "Jardim Guapituba",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6911173,
+  "lon": -46.4539028
 }

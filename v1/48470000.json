@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Olindina",
   "uf": "BA",
-  "ibge": "2923100"
+  "ibge": "2923100",
+  "lat": -11.4040468,
+  "lon": -38.3587174
 }

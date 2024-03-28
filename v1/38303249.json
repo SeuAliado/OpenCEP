@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal dos Ipês",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -22.5318601,
+  "lon": -44.1275126
 }

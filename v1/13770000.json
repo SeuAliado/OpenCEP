@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caconde",
   "uf": "SP",
-  "ibge": "3508702"
+  "ibge": "3508702",
+  "lat": -21.5288756,
+  "lon": -46.6436425
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "lat": -4.9239594,
+  "lon": -37.802264
 }

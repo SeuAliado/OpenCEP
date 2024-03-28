@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Jaguaré",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.545301,
+  "lon": -46.7426898
 }

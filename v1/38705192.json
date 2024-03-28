@@ -5,5 +5,7 @@
   "bairro": "Antônio Caixeta",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5915544,
+  "lon": -46.5080432
 }

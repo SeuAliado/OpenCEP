@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Monte do Carmo",
   "uf": "TO",
-  "ibge": "1713601"
+  "ibge": "1713601",
+  "lat": -10.7643744,
+  "lon": -48.1105035
 }

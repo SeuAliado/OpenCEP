@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Ocara",
   "uf": "CE",
-  "ibge": "2309458"
+  "ibge": "2309458",
+  "lat": -4.4738574,
+  "lon": -38.5796762
 }

@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.941044,
+  "lon": -47.0051905
 }

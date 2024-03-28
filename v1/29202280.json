@@ -5,5 +5,7 @@
   "bairro": "Olaria",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6778177,
+  "lon": -40.5132262
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matina",
   "uf": "BA",
-  "ibge": "2921054"
+  "ibge": "2921054",
+  "lat": -13.8252502,
+  "lon": -42.9027576
 }

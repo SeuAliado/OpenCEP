@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3713369,
+  "lon": -39.6039037
 }

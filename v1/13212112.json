@@ -5,5 +5,7 @@
   "bairro": "Jardim Ermida I",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1872752,
+  "lon": -46.9670111
 }

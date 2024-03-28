@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Lourdes",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.7009276,
+  "lon": -53.8013006
 }

@@ -5,5 +5,7 @@
   "bairro": "Consolação",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.3078223,
+  "lon": -40.311584
 }

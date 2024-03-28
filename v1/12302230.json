@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Paula",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.265217,
+  "lon": -45.924812
 }

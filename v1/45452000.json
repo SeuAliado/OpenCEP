@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Ibiá",
   "uf": "BA",
-  "ibge": "2922755"
+  "ibge": "2922755",
+  "lat": -13.8124477,
+  "lon": -39.6185372
 }

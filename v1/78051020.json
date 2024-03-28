@@ -5,5 +5,7 @@
   "bairro": "Residencial São Carlos",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.584469,
+  "lon": -56.0503437
 }

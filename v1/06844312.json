@@ -5,5 +5,7 @@
   "bairro": "Votorantim",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6674782,
+  "lon": -46.8813677
 }

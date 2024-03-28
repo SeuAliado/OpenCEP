@@ -5,5 +5,7 @@
   "bairro": "Araturi (Jurema)",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.764259,
+  "lon": -38.6405106
 }

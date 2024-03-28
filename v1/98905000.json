@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alegria",
   "uf": "RS",
-  "ibge": "4300455"
+  "ibge": "4300455",
+  "lat": -27.8349502,
+  "lon": -54.0562555
 }

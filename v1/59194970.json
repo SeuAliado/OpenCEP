@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Baía Formosa",
   "uf": "RN",
-  "ibge": "2401404"
+  "ibge": "2401404",
+  "lat": -6.3689376,
+  "lon": -35.0073094
 }

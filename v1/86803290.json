@@ -5,5 +5,7 @@
   "bairro": "Mutirão Projeto Bóia Fria",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5331887,
+  "lon": -51.4631655
 }

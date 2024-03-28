@@ -5,5 +5,7 @@
   "bairro": "Avaré Golf Country",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0705161,
+  "lon": -48.9566042
 }

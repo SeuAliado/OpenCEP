@@ -5,5 +5,7 @@
   "bairro": "Jardim Triângulo",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7316307,
+  "lon": -47.9073974
 }

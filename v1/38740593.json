@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9592859,
+  "lon": -47.0026783
 }

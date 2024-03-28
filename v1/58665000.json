@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tenório",
   "uf": "PB",
-  "ibge": "2516755"
+  "ibge": "2516755",
+  "lat": -6.9385901,
+  "lon": -36.6296349
 }

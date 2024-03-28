@@ -5,5 +5,7 @@
   "bairro": "José de Abreu",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8160966,
+  "lon": -55.8175227
 }

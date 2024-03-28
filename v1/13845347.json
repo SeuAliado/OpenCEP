@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora das Graças",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3624042,
+  "lon": -46.9532139
 }

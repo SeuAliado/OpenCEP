@@ -5,5 +5,7 @@
   "bairro": "Outeiro de Passárgada",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6113099,
+  "lon": -46.9539664
 }

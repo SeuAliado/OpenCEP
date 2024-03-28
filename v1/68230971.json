@@ -5,5 +5,7 @@
   "bairro": "Vila de Munguba",
   "localidade": "Almeirim",
   "uf": "PA",
-  "ibge": "1500503"
+  "ibge": "1500503",
+  "lat": -0.9087895,
+  "lon": -52.4278554
 }

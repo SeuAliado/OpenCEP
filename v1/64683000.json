@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Francisco Macedo",
   "uf": "PI",
-  "ibge": "2204154"
+  "ibge": "2204154",
+  "lat": -7.3182877,
+  "lon": -40.7639614
 }

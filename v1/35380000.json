@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Urucânia",
   "uf": "MG",
-  "ibge": "3170503"
+  "ibge": "3170503",
+  "lat": -20.3525743,
+  "lon": -42.7373928
 }

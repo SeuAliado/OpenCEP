@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1233468,
+  "lon": -51.387646
 }

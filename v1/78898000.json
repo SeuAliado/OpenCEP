@@ -5,5 +5,7 @@
   "bairro": "São Mateus",
   "localidade": "Sorriso",
   "uf": "MT",
-  "ibge": "5107925"
+  "ibge": "5107925",
+  "lat": -12.8588982,
+  "lon": -55.8338858
 }

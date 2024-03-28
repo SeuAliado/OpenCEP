@@ -5,5 +5,7 @@
   "bairro": "Hidráulica",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4585516,
+  "lon": -51.9508675
 }

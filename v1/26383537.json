@@ -5,5 +5,7 @@
   "bairro": "Fanchem",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7022788,
+  "lon": -43.5679718
 }

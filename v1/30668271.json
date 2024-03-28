@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial do Jatobá (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9995542,
+  "lon": -44.0300578
 }

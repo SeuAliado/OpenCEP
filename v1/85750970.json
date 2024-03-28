@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Planalto",
   "uf": "PR",
-  "ibge": "4119806"
+  "ibge": "4119806",
+  "lat": -25.7282939,
+  "lon": -53.758797
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Esmeraldina",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9360115,
+  "lon": -47.0135212
 }

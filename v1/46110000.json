@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Malhada de Pedras",
   "uf": "BA",
-  "ibge": "2920304"
+  "ibge": "2920304",
+  "lat": -14.3572929,
+  "lon": -41.8004409
 }

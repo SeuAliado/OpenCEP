@@ -5,5 +5,7 @@
   "bairro": "Chácara Alvorada",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0691524,
+  "lon": -47.1738994
 }

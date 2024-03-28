@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiara",
   "uf": "PB",
-  "ibge": "2506608"
+  "ibge": "2506608",
+  "lat": -7.5000481,
+  "lon": -38.4042618
 }

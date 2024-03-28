@@ -5,5 +5,7 @@
   "bairro": "Comercial",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -16.6416114,
+  "lon": -49.3205816
 }

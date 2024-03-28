@@ -5,5 +5,7 @@
   "bairro": "Vila Califórnia",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9649623,
+  "lon": -49.8648209
 }

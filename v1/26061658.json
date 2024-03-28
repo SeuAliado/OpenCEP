@@ -5,5 +5,7 @@
   "bairro": "Geneciano",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6929761,
+  "lon": -43.423459
 }

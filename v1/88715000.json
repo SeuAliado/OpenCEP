@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguaruna",
   "uf": "SC",
-  "ibge": "4208807"
+  "ibge": "4208807",
+  "lat": -28.6188549,
+  "lon": -49.0250549
 }

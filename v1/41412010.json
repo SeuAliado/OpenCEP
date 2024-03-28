@@ -5,5 +5,7 @@
   "bairro": "Areia Branca",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8546122,
+  "lon": -38.3592072
 }

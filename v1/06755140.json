@@ -5,5 +5,7 @@
   "bairro": "Jardim Guayana",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.5964802,
+  "lon": -46.7610937
 }

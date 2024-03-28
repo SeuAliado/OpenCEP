@@ -5,5 +5,7 @@
   "bairro": "Vila do Carmo do Tocantins",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "lat": -2.4389838,
+  "lon": -49.4371804
 }

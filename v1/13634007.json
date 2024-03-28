@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0071455,
+  "lon": -47.4320526
 }

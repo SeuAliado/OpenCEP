@@ -5,5 +5,7 @@
   "bairro": "Povoado de Nova Brasília",
   "localidade": "Imbituba",
   "uf": "SC",
-  "ibge": "4207304"
+  "ibge": "4207304",
+  "lat": -28.2119918,
+  "lon": -48.7158736
 }

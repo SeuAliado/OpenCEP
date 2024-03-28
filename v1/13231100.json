@@ -5,5 +5,7 @@
   "bairro": "Jardim São Conrado",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.2054009,
+  "lon": -46.7759787
 }

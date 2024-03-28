@@ -5,5 +5,7 @@
   "bairro": "Setor Morada do Sol (Taquaralto)",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.3487247,
+  "lon": -48.2845708
 }

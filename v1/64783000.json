@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Braz do Piauí",
   "uf": "PI",
-  "ibge": "2209559"
+  "ibge": "2209559",
+  "lat": -8.9949871,
+  "lon": -42.9806087
 }

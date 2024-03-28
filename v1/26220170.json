@@ -5,5 +5,7 @@
   "bairro": "Maria da Luz",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7567795,
+  "lon": -43.4386044
 }

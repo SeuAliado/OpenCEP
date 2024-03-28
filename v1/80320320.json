@@ -5,5 +5,7 @@
   "bairro": "Vila Izabel",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.461057,
+  "lon": -49.2989963
 }

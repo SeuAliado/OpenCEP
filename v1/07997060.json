@@ -5,5 +5,7 @@
   "bairro": "Jardim Luíza",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.3005834,
+  "lon": -46.7200869
 }

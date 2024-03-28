@@ -5,5 +5,7 @@
   "bairro": "Deodoro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8494457,
+  "lon": -43.3813467
 }

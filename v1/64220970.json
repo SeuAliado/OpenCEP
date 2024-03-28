@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Luís Correia",
   "uf": "PI",
-  "ibge": "2205706"
+  "ibge": "2205706",
+  "lat": -2.880676,
+  "lon": -41.6621311
 }

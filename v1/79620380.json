@@ -5,5 +5,7 @@
   "bairro": "Nova Três Lagoas",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7744722,
+  "lon": -51.6808076
 }

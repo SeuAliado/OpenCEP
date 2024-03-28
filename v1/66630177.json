@@ -5,5 +5,7 @@
   "bairro": "Bengui",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3815593,
+  "lon": -48.4545027
 }

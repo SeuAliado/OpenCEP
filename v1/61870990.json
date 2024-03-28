@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pacatuba",
   "uf": "CE",
-  "ibge": "2309706"
+  "ibge": "2309706",
+  "lat": -3.9149511,
+  "lon": -38.5937397
 }

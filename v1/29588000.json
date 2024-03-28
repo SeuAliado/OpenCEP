@@ -5,5 +5,7 @@
   "bairro": "São Raimundo da Pedra Menina",
   "localidade": "Dores do Rio Preto",
   "uf": "ES",
-  "ibge": "3202009"
+  "ibge": "3202009",
+  "lat": -20.5532614,
+  "lon": -41.8171459
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Beija-Flor",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9767711,
+  "lon": -48.8632835
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila do Tinguá",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6702892,
+  "lon": -43.4480318
 }

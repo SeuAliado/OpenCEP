@@ -5,5 +5,7 @@
   "bairro": "Recife",
   "localidade": "Jussara",
   "uf": "BA",
-  "ibge": "2918506"
+  "ibge": "2918506",
+  "lat": -11.0155091,
+  "lon": -41.8986688
 }

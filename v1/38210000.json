@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pirajuba",
   "uf": "MG",
-  "ibge": "3150703"
+  "ibge": "3150703",
+  "lat": -19.9096755,
+  "lon": -48.7031422
 }

@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3580282,
+  "lon": -48.9835582
 }

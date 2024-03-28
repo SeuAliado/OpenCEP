@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.3551783,
+  "lon": -40.302568
 }

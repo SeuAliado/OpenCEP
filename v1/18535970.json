@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jumirim",
   "uf": "SP",
-  "ibge": "3525854"
+  "ibge": "3525854",
+  "lat": -23.0844384,
+  "lon": -47.7892201
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Pastor",
   "localidade": "Resplendor",
   "uf": "MG",
-  "ibge": "3154309"
+  "ibge": "3154309",
+  "lat": -20.1193294,
+  "lon": -44.8881173
 }

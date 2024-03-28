@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapema",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4537241,
+  "lon": -46.809591
 }

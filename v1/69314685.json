@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": -9.9678496,
+  "lon": -67.8074666
 }

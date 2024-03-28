@@ -5,5 +5,7 @@
   "bairro": "Loteamento Pontal Norte",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1697183,
+  "lon": -47.915038
 }

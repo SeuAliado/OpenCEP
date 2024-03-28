@@ -5,5 +5,7 @@
   "bairro": "Ouroana",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -18.1318603,
+  "lon": -50.6177242
 }

@@ -5,5 +5,7 @@
   "bairro": "Portal das Alamedas",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3086823,
+  "lon": -46.7424483
 }

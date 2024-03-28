@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nossa Senhora dos Remédios",
   "uf": "PI",
-  "ibge": "2206803"
+  "ibge": "2206803",
+  "lat": -4.0694669,
+  "lon": -42.5901672
 }

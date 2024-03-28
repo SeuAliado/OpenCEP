@@ -5,5 +5,7 @@
   "bairro": "Vila Pedroso",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.577673,
+  "lon": -47.4635612
 }

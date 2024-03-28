@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Formoso",
   "uf": "BA",
-  "ibge": "2906006"
+  "ibge": "2906006",
+  "lat": -10.5083803,
+  "lon": -40.3210247
 }

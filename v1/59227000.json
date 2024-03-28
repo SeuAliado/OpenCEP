@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa D'Anta",
   "uf": "RN",
-  "ibge": "2406205"
+  "ibge": "2406205",
+  "lat": -6.3953282,
+  "lon": -35.5952236
 }

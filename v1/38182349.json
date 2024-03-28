@@ -5,5 +5,7 @@
   "bairro": "Arasol",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6055227,
+  "lon": -46.9305846
 }

@@ -5,5 +5,7 @@
   "bairro": "Lívia",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -23.6078859,
+  "lon": -46.6300456
 }

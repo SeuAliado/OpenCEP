@@ -5,5 +5,7 @@
   "bairro": "Vila Santucci",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.180496,
+  "lon": -47.3926101
 }

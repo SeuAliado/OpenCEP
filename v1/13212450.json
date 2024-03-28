@@ -5,5 +5,7 @@
   "bairro": "Jardim Tereza Cristina",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.182763,
+  "lon": -47.0047786
 }

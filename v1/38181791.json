@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -21.7505917,
+  "lon": -43.3326809
 }

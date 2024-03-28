@@ -5,5 +5,7 @@
   "bairro": "Bandeirantes",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3648387,
+  "lon": -40.3677939
 }

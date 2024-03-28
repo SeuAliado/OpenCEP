@@ -5,5 +5,7 @@
   "bairro": "Cidade de Deus",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9487046,
+  "lon": -43.360462
 }

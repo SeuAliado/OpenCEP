@@ -5,5 +5,7 @@
   "bairro": "Vieira Machado",
   "localidade": "Muniz Freire",
   "uf": "ES",
-  "ibge": "3203700"
+  "ibge": "3203700",
+  "lat": -20.4656769,
+  "lon": -41.4160225
 }

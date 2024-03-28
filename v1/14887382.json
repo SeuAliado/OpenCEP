@@ -5,5 +5,7 @@
   "bairro": "Colina Verde",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2577358,
+  "lon": -48.3027232
 }

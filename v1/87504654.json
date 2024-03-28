@@ -5,5 +5,7 @@
   "bairro": "Jardim Alphavile",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7508833,
+  "lon": -53.2865229
 }

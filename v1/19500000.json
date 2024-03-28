@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Martinópolis",
   "uf": "SP",
-  "ibge": "3529203"
+  "ibge": "3529203",
+  "lat": -22.1468812,
+  "lon": -51.1376317
 }

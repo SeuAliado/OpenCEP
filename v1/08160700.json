@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Fernando",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4943241,
+  "lon": -46.4116707
 }

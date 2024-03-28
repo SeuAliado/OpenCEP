@@ -5,5 +5,7 @@
   "bairro": "Sarinha Alcântara",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8221785,
+  "lon": -39.2820309
 }

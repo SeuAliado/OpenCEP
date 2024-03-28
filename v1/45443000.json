@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igrapiúna",
   "uf": "BA",
-  "ibge": "2913457"
+  "ibge": "2913457",
+  "lat": -13.8448064,
+  "lon": -39.1127352
 }

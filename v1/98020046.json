@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6242268,
+  "lon": -53.610339
 }

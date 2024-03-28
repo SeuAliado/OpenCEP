@@ -5,5 +5,7 @@
   "bairro": "Jardim Colibri",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6136064,
+  "lon": -46.8510428
 }

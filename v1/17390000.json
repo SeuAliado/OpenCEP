@@ -5,5 +5,7 @@
   "bairro": "São Sebastião da Serra",
   "localidade": "Brotas",
   "uf": "SP",
-  "ibge": "3507902"
+  "ibge": "3507902",
+  "lat": -22.4418641,
+  "lon": -48.0179044
 }

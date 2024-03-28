@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8804458,
+  "lon": -44.0460851
 }

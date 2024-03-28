@@ -5,5 +5,7 @@
   "bairro": "Centro (Padre Nóbrega)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1563793,
+  "lon": -50.0040612
 }

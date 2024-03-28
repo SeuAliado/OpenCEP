@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Russas",
   "uf": "CE",
-  "ibge": "2311801"
+  "ibge": "2311801",
+  "lat": -4.9372376,
+  "lon": -37.9719738
 }

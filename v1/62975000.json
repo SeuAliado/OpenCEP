@@ -5,5 +5,7 @@
   "bairro": "Castanhão",
   "localidade": "Alto Santo",
   "uf": "CE",
-  "ibge": "2300705"
+  "ibge": "2300705",
+  "lat": -5.467199,
+  "lon": -38.407465
 }

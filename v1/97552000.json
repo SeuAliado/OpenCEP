@@ -5,5 +5,7 @@
   "bairro": "Inhanduí",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.9165827,
+  "lon": -56.0491761
 }

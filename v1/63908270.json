@@ -5,5 +5,7 @@
   "bairro": "Alto São Francisco",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.9639261,
+  "lon": -39.0030453
 }

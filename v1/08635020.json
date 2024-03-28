@@ -5,5 +5,7 @@
   "bairro": "Chácaras Virginia",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6709425,
+  "lon": -46.3353107
 }

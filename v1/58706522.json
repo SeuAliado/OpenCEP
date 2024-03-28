@@ -5,5 +5,7 @@
   "bairro": "Salgadinho",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.0233257,
+  "lon": -37.2664142
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Portal",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3098832,
+  "lon": -46.0049569
 }

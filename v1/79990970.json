@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amambaí",
   "uf": "MS",
-  "ibge": "5000609"
+  "ibge": "5000609",
+  "lat": -23.10714,
+  "lon": -55.2291117
 }

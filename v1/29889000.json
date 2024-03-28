@@ -5,5 +5,7 @@
   "bairro": "Itamira",
   "localidade": "Ponto Belo",
   "uf": "ES",
-  "ibge": "3204252"
+  "ibge": "3204252",
+  "lat": -18.1276155,
+  "lon": -40.5414015
 }

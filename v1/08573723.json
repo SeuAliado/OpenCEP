@@ -5,5 +5,7 @@
   "bairro": "Morro Branco",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4943447,
+  "lon": -46.3454733
 }

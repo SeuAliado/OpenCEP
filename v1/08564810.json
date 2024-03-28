@@ -5,5 +5,7 @@
   "bairro": "Jardim Madre Ângela",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5454687,
+  "lon": -46.3538916
 }

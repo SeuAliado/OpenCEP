@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Cumbica",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4526274,
+  "lon": -46.4579261
 }

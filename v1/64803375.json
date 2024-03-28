@@ -5,5 +5,7 @@
   "bairro": "Juá",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7596133,
+  "lon": -43.0025521
 }

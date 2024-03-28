@@ -5,5 +5,7 @@
   "bairro": "Vila Bissoto",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9770009,
+  "lon": -47.000129
 }

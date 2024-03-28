@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus da Penha",
   "uf": "MG",
-  "ibge": "3107604"
+  "ibge": "3107604",
+  "lat": -21.0225465,
+  "lon": -46.5355198
 }

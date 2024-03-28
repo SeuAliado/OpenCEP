@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Mauro Antônio Bento",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8539846,
+  "lon": -51.7251046
 }

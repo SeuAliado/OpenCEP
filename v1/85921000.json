@@ -5,5 +5,7 @@
   "bairro": "São Luiz do Oeste",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7350409,
+  "lon": -53.5707749
 }

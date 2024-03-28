@@ -5,5 +5,7 @@
   "bairro": "Água Fria",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -8.0172821,
+  "lon": -34.8950308
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anamã",
   "uf": "AM",
-  "ibge": "1300086"
+  "ibge": "1300086",
+  "lat": -3.5769008,
+  "lon": -61.4061434
 }

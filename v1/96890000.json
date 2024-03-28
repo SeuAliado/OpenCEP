@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sinimbu",
   "uf": "RS",
-  "ibge": "4320677"
+  "ibge": "4320677",
+  "lat": -29.4035691,
+  "lon": -52.5532048
 }

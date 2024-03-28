@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Genebra II (Barão Geraldo)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8325723,
+  "lon": -47.0784437
 }

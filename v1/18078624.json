@@ -5,5 +5,7 @@
   "bairro": "Parque das Paineiras",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4400641,
+  "lon": -47.4731899
 }

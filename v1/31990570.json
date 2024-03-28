@@ -5,5 +5,7 @@
   "bairro": "Vista do Sol",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8481698,
+  "lon": -43.8911325
 }

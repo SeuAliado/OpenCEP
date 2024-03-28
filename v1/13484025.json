@@ -5,5 +5,7 @@
   "bairro": "Vila Fascina",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5550959,
+  "lon": -47.4012571
 }

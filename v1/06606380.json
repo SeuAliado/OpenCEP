@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5323352,
+  "lon": -46.9095517
 }

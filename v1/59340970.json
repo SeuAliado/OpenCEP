@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Vicente",
   "uf": "RN",
-  "ibge": "2413003"
+  "ibge": "2413003",
+  "lat": -6.2170459,
+  "lon": -36.6828349
 }

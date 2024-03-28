@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Amália",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7738477,
+  "lon": -46.7145091
 }

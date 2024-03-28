@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -26.9104803,
+  "lon": -48.6628253
 }

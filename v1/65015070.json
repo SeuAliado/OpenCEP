@@ -5,5 +5,7 @@
   "bairro": "Vila Bessa",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.535258,
+  "lon": -44.3004609
 }

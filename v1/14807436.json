@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Júlia III",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7954033,
+  "lon": -48.1501775
 }

@@ -5,5 +5,7 @@
   "bairro": "Antenor Viana",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "lat": -4.8403931,
+  "lon": -43.346774
 }

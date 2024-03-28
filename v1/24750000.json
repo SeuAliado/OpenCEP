@@ -5,5 +5,7 @@
   "bairro": "Arsenal",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8694711,
+  "lon": -43.0135438
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palestina",
   "uf": "AL",
-  "ibge": "2706208"
+  "ibge": "2706208",
+  "lat": -9.6753543,
+  "lon": -37.3393749
 }

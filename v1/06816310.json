@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora de Fátima",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6435804,
+  "lon": -46.8183175
 }

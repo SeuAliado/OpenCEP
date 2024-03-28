@@ -5,5 +5,7 @@
   "bairro": "Vila Fátima",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4569985,
+  "lon": -46.5106249
 }

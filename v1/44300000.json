@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira",
   "uf": "BA",
-  "ibge": "2904902"
+  "ibge": "2904902",
+  "lat": -12.6010371,
+  "lon": -38.965934
 }

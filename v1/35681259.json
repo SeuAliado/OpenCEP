@@ -5,5 +5,7 @@
   "bairro": "Itaunense II",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0944,
+  "lon": -44.6147708
 }

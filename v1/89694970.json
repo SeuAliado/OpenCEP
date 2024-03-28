@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Faxinal dos Guedes",
   "uf": "SC",
-  "ibge": "4205308"
+  "ibge": "4205308",
+  "lat": -26.8543461,
+  "lon": -52.2624733
 }

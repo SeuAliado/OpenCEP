@@ -5,5 +5,7 @@
   "bairro": "Vila Irmãos Arnoni",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4567049,
+  "lon": -46.6256614
 }

@@ -5,5 +5,7 @@
   "bairro": "Cariacica Sede",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2678994,
+  "lon": -40.4185948
 }

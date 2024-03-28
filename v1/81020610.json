@@ -5,5 +5,7 @@
   "bairro": "Capão Raso",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4959758,
+  "lon": -49.2769766
 }

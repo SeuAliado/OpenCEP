@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Floriano Peixoto",
   "uf": "RS",
-  "ibge": "4308250"
+  "ibge": "4308250",
+  "lat": -27.8618817,
+  "lon": -52.0842833
 }

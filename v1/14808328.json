@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8180262,
+  "lon": -48.1455869
 }

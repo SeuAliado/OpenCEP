@@ -5,5 +5,7 @@
   "bairro": "Humaitá",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9574095,
+  "lon": -43.1936854
 }

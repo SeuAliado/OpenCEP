@@ -5,5 +5,7 @@
   "bairro": "Adriana Parque",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2783445,
+  "lon": -48.9828607
 }

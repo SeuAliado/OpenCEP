@@ -5,5 +5,7 @@
   "bairro": "Loteamento Bosque dos Ipês",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.541777,
+  "lon": -47.0193776
 }

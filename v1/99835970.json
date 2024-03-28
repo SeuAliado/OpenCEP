@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Áurea",
   "uf": "RS",
-  "ibge": "4301552"
+  "ibge": "4301552",
+  "lat": -27.6966645,
+  "lon": -52.0523749
 }

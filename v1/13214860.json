@@ -5,5 +5,7 @@
   "bairro": "Bairro dos Fernandes",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1170664,
+  "lon": -46.9548096
 }

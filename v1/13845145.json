@@ -5,5 +5,7 @@
   "bairro": "Vila Champion",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3609893,
+  "lon": -46.9676904
 }

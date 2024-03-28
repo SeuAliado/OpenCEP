@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Conceição",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.920718,
+  "lon": -43.922536
 }

@@ -5,5 +5,7 @@
   "bairro": "Gardênia",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9529989,
+  "lon": -49.4582335
 }

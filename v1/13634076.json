@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosim",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0053358,
+  "lon": -47.4324521
 }

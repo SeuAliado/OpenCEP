@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "José Gonçalves de Minas",
   "uf": "MG",
-  "ibge": "3136520"
+  "ibge": "3136520",
+  "lat": -16.920689,
+  "lon": -42.6684924
 }

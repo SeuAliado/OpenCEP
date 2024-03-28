@@ -5,5 +5,7 @@
   "bairro": "Parque São João",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.8979693,
+  "lon": -38.6714628
 }

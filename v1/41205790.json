@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.950372,
+  "lon": -38.4533197
 }

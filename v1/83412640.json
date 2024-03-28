@@ -5,5 +5,7 @@
   "bairro": "Colônia Faria",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3494221,
+  "lon": -49.1323633
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Soubhie",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6721186,
+  "lon": -50.4330341
 }

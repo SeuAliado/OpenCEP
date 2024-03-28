@@ -5,5 +5,7 @@
   "bairro": "Ilda",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7537928,
+  "lon": -49.2933615
 }

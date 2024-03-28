@@ -5,5 +5,7 @@
   "bairro": "Metzler",
   "localidade": "Campo Bom",
   "uf": "RS",
-  "ibge": "4303905"
+  "ibge": "4303905",
+  "lat": -29.6748479,
+  "lon": -51.0622069
 }

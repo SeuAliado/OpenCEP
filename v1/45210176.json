@@ -5,5 +5,7 @@
   "bairro": "Mandacaru",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "lat": -13.8653071,
+  "lon": -40.0985448
 }

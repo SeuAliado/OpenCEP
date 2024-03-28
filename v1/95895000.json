@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colinas",
   "uf": "RS",
-  "ibge": "4305587"
+  "ibge": "4305587",
+  "lat": -29.3829601,
+  "lon": -51.8576227
 }

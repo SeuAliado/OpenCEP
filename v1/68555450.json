@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Xinguara",
   "uf": "PA",
-  "ibge": "1508407"
+  "ibge": "1508407",
+  "lat": -7.1070142,
+  "lon": -49.9475328
 }

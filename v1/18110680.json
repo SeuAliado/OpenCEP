@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria José",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5389546,
+  "lon": -47.4637604
 }

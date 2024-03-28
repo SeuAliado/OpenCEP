@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Resende",
   "uf": "MG",
-  "ibge": "3145109"
+  "ibge": "3145109",
+  "lat": -21.1290933,
+  "lon": -46.4161692
 }

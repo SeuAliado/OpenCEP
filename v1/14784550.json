@@ -5,5 +5,7 @@
   "bairro": "Residencial Grande Horizonte",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5870991,
+  "lon": -48.5557793
 }

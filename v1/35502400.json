@@ -5,5 +5,7 @@
   "bairro": "São Simão",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1474753,
+  "lon": -44.8365211
 }

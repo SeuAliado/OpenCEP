@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Alegre",
   "uf": "RS",
-  "ibge": "4300554"
+  "ibge": "4300554",
+  "lat": -28.7970636,
+  "lon": -52.9921768
 }

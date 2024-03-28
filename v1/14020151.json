@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1924596,
+  "lon": -47.8004234
 }

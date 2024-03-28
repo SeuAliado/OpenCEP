@@ -5,5 +5,7 @@
   "bairro": "Cidade SOIMCO",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4436954,
+  "lon": -46.4582671
 }

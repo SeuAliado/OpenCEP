@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosália II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8738802,
+  "lon": -47.1401602
 }

@@ -5,5 +5,7 @@
   "bairro": "Tomás Gonzaga",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "lat": -18.5360622,
+  "lon": -44.6014582
 }

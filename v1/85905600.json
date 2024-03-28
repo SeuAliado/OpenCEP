@@ -5,5 +5,7 @@
   "bairro": "Jardim Gisela",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.70718,
+  "lon": -53.7337081
 }

@@ -5,5 +5,7 @@
   "bairro": "Francisco Duarte",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5746128,
+  "lon": -46.9406727
 }

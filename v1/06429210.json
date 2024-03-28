@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada dos Lagos",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4884173,
+  "lon": -46.9552579
 }

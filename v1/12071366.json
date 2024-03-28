@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Hércules Augusto Masson",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -22.995504,
+  "lon": -45.5321611
 }

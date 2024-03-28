@@ -5,5 +5,7 @@
   "bairro": "Country Ville",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9471952,
+  "lon": -47.0939727
 }

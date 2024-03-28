@@ -5,5 +5,7 @@
   "bairro": "Córrego Alto",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5165122,
+  "lon": -42.6367688
 }

@@ -5,5 +5,7 @@
   "bairro": "Arapiranga",
   "localidade": "Rio de Contas",
   "uf": "BA",
-  "ibge": "2926707"
+  "ibge": "2926707",
+  "lat": -13.4845823,
+  "lon": -41.765281
 }

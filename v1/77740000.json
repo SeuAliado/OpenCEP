@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaporã do Tocantins",
   "uf": "TO",
-  "ibge": "1711100"
+  "ibge": "1711100",
+  "lat": -8.4739165,
+  "lon": -48.7593128
 }

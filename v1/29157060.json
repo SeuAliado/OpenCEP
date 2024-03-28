@@ -5,5 +5,7 @@
   "bairro": "Padre Mathias",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.271463,
+  "lon": -40.3809228
 }

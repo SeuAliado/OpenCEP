@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Dirceu Gomes Cervilha",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6665724,
+  "lon": -50.446223
 }

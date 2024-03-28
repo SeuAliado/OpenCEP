@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piedade",
   "uf": "SP",
-  "ibge": "3537800"
+  "ibge": "3537800",
+  "lat": -23.7140852,
+  "lon": -47.4153007
 }

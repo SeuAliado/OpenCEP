@@ -5,5 +5,7 @@
   "bairro": "Marudá",
   "localidade": "Marapanim",
   "uf": "PA",
-  "ibge": "1504406"
+  "ibge": "1504406",
+  "lat": -0.6280223,
+  "lon": -47.6455501
 }

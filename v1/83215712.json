@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Fino",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5796691,
+  "lon": -48.5689592
 }

@@ -5,5 +5,7 @@
   "bairro": "José de Alencar",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8198596,
+  "lon": -43.1650986
 }

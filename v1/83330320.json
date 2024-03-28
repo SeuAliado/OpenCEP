@@ -5,5 +5,7 @@
   "bairro": "Jardim Amélia",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4343397,
+  "lon": -49.1594667
 }

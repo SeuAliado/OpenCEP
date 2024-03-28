@@ -5,5 +5,7 @@
   "bairro": "Vila Pinheirinho",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6773249,
+  "lon": -46.5416093
 }

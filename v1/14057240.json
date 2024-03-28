@@ -5,5 +5,7 @@
   "bairro": "Dom Bernardo José Mielle",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1332748,
+  "lon": -47.8489701
 }

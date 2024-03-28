@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Preto",
   "uf": "MG",
-  "ibge": "3155900"
+  "ibge": "3155900",
+  "lat": -22.0600209,
+  "lon": -43.8864226
 }

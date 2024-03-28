@@ -5,5 +5,7 @@
   "bairro": "Vila Marajó",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4881516,
+  "lon": -46.546185
 }

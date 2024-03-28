@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jerônimo Monteiro",
   "uf": "ES",
-  "ibge": "3203106"
+  "ibge": "3203106",
+  "lat": -20.7897498,
+  "lon": -41.3965768
 }

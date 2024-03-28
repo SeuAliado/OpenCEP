@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sebastião Laranjeiras",
   "uf": "BA",
-  "ibge": "2930006"
+  "ibge": "2930006",
+  "lat": -14.5735132,
+  "lon": -42.9407796
 }

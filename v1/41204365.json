@@ -5,5 +5,7 @@
   "bairro": "Arraial do Retiro",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9454766,
+  "lon": -38.4676422
 }

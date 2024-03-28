@@ -5,5 +5,7 @@
   "bairro": "Porto da Roça II (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.9042912,
+  "lon": -42.4716769
 }

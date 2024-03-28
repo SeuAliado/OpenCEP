@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gouvelândia",
   "uf": "GO",
-  "ibge": "5209150"
+  "ibge": "5209150",
+  "lat": -18.4433546,
+  "lon": -50.1357072
 }

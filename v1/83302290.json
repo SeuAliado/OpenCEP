@@ -5,5 +5,7 @@
   "bairro": "Planta O Recanto",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4508424,
+  "lon": -49.1122083
 }

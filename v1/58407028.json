@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2159287,
+  "lon": -35.8676504
 }

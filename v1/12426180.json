@@ -5,5 +5,7 @@
   "bairro": "Residencial Arco-Íris",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9414524,
+  "lon": -45.3776989
 }

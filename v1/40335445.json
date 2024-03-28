@@ -5,5 +5,7 @@
   "bairro": "Pero Vaz",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9505939,
+  "lon": -38.4867435
 }

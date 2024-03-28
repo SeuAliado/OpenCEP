@@ -5,5 +5,7 @@
   "bairro": "Glória",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.0044742,
+  "lon": -46.434811
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Florely (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.79905,
+  "lon": -47.2039685
 }

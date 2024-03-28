@@ -5,5 +5,7 @@
   "bairro": "Braga",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.9035908,
+  "lon": -42.033108
 }

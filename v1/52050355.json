@@ -5,5 +5,7 @@
   "bairro": "Aflitos",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0447132,
+  "lon": -34.8901033
 }

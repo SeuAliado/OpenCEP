@@ -5,5 +5,7 @@
   "bairro": "Madressilva (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.902579,
+  "lon": -42.4923912
 }

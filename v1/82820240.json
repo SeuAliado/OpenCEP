@@ -5,5 +5,7 @@
   "bairro": "Bairro Alto",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4203148,
+  "lon": -49.2019377
 }

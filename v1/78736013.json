@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4641761,
+  "lon": -54.6160016
 }

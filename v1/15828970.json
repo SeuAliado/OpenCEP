@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmares Paulista",
   "uf": "SP",
-  "ibge": "3535101"
+  "ibge": "3535101",
+  "lat": -21.0853101,
+  "lon": -48.8022518
 }

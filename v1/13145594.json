@@ -5,5 +5,7 @@
   "bairro": "Saltinho",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7214729,
+  "lon": -47.2051336
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Cristo",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7876205,
+  "lon": -39.286679
 }

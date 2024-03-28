@@ -5,5 +5,7 @@
   "bairro": "Chácara Planalto",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8633763,
+  "lon": -44.0490596
 }

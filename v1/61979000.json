@@ -5,5 +5,7 @@
   "bairro": "Amanari",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -22.6644621,
+  "lon": -43.2781584
 }

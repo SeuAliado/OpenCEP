@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Jardim Bela Vista",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2134251,
+  "lon": -49.9659405
 }

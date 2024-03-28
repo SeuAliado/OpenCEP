@@ -5,5 +5,7 @@
   "bairro": "Termas de Ibirá",
   "localidade": "Ibirá",
   "uf": "SP",
-  "ibge": "3519402"
+  "ibge": "3519402",
+  "lat": -21.0995868,
+  "lon": -49.1941786
 }

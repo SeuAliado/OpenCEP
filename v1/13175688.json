@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Bosco I",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8105838,
+  "lon": -47.2307643
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Remanso",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.2183679,
+  "lon": -59.0258503
 }

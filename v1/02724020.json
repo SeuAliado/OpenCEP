@@ -5,5 +5,7 @@
   "bairro": "Vila Carolina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4969321,
+  "lon": -46.6810979
 }

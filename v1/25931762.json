@@ -5,5 +5,7 @@
   "bairro": "Piabetá (Inhomirim)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6105089,
+  "lon": -43.1777655
 }

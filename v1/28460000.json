@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Miracema",
   "uf": "RJ",
-  "ibge": "3303005"
+  "ibge": "3303005",
+  "lat": -21.4153412,
+  "lon": -42.1942339
 }

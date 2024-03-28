@@ -5,5 +5,7 @@
   "bairro": "Jardim Universal",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7949807,
+  "lon": -48.2091195
 }

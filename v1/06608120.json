@@ -5,5 +5,7 @@
   "bairro": "Vila Popi",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5369986,
+  "lon": -46.9145907
 }

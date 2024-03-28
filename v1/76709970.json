@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Mozarlândia",
   "uf": "GO",
-  "ibge": "5214002"
+  "ibge": "5214002",
+  "lat": -14.7456694,
+  "lon": -50.576624
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jatobá do Piauí",
   "uf": "PI",
-  "ibge": "2205276"
+  "ibge": "2205276",
+  "lat": -4.8116227,
+  "lon": -41.8799408
 }

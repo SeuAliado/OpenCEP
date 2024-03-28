@@ -5,5 +5,7 @@
   "bairro": "Pomarosa",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.176414,
+  "lon": -51.5215181
 }

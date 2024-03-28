@@ -5,5 +5,7 @@
   "bairro": "Urciano Lemos",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5750768,
+  "lon": -46.9361901
 }

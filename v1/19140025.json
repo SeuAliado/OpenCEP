@@ -5,5 +5,7 @@
   "bairro": "Centro (Ameliópolis)",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -21.8024948,
+  "lon": -51.3002051
 }

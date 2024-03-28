@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amarante do Maranhão",
   "uf": "MA",
-  "ibge": "2100600"
+  "ibge": "2100600",
+  "lat": -5.2982689,
+  "lon": -46.670534
 }

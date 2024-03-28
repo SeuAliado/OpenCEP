@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Nipônica",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3414639,
+  "lon": -49.094907
 }

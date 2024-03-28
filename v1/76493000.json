@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amaralina",
   "uf": "GO",
-  "ibge": "5200829"
+  "ibge": "5200829",
+  "lat": -13.9240574,
+  "lon": -49.2966837
 }

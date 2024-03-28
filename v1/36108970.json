@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ewbank da Câmara",
   "uf": "MG",
-  "ibge": "3125002"
+  "ibge": "3125002",
+  "lat": -21.5515424,
+  "lon": -43.5092767
 }

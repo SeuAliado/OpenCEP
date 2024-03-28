@@ -5,5 +5,7 @@
   "bairro": "Vila São Benedito",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8901388,
+  "lon": -45.3863413
 }

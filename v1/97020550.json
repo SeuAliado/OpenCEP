@@ -5,5 +5,7 @@
   "bairro": "Patronato",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.6956167,
+  "lon": -53.8326116
 }

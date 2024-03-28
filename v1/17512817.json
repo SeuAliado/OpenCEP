@@ -5,5 +5,7 @@
   "bairro": "Jardim Edisom da Silva Lima",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1569465,
+  "lon": -49.9693696
 }

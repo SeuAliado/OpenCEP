@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.082953,
+  "lon": -42.8493318
 }

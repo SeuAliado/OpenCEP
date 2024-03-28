@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora de Fátima",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0982559,
+  "lon": -52.4597812
 }

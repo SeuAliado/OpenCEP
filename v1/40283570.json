@@ -5,5 +5,7 @@
   "bairro": "Daniel Lisboa",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9862115,
+  "lon": -38.4870963
 }

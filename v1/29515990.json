@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "lat": -20.8700022,
+  "lon": -41.5716491
 }

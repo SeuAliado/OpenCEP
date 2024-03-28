@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Lourenço da Mata",
   "uf": "PE",
-  "ibge": "2613701"
+  "ibge": "2613701",
+  "lat": -7.9961969,
+  "lon": -35.0336841
 }

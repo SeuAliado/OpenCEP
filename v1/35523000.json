@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "lat": -20.2600407,
+  "lon": -44.3101448
 }

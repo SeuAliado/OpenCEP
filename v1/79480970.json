@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Verde de Mato Grosso",
   "uf": "MS",
-  "ibge": "5007406"
+  "ibge": "5007406",
+  "lat": -18.9183678,
+  "lon": -54.8448705
 }

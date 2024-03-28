@@ -5,5 +5,7 @@
   "bairro": "Bálsamos",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.666179,
+  "lon": -43.2379255
 }

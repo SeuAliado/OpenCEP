@@ -5,5 +5,7 @@
   "bairro": "Setor Estrela Dalva",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.9185752,
+  "lon": -51.7230523
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Acorizal",
   "uf": "MT",
-  "ibge": "5100102"
+  "ibge": "5100102",
+  "lat": -15.1334049,
+  "lon": -56.3376699
 }

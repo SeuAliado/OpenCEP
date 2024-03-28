@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Itacajá",
   "uf": "TO",
-  "ibge": "1710508"
+  "ibge": "1710508",
+  "lat": -8.3968819,
+  "lon": -47.7722664
 }

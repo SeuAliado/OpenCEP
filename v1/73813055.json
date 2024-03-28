@@ -5,5 +5,7 @@
   "bairro": "Formosinha",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5424235,
+  "lon": -47.3323189
 }

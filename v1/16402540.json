@@ -5,5 +5,7 @@
   "bairro": "Jardim São Roque",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6844582,
+  "lon": -49.7281657
 }

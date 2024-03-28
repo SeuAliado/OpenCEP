@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição das Pedras",
   "uf": "MG",
-  "ibge": "3117207"
+  "ibge": "3117207",
+  "lat": -22.1598488,
+  "lon": -45.4550434
 }

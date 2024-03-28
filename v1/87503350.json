@@ -5,5 +5,7 @@
   "bairro": "Jardim Paineiras",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7760434,
+  "lon": -53.3196294
 }

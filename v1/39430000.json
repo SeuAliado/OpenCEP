@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João da Ponte",
   "uf": "MG",
-  "ibge": "3162401"
+  "ibge": "3162401",
+  "lat": -15.9084105,
+  "lon": -43.8673222
 }

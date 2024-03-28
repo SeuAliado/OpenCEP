@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Acari",
   "uf": "RN",
-  "ibge": "2400109"
+  "ibge": "2400109",
+  "lat": -6.4286029,
+  "lon": -36.635048
 }

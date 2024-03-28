@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6188344,
+  "lon": -40.4527776
 }

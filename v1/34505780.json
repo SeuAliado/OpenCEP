@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Conceição",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8823696,
+  "lon": -43.7994721
 }

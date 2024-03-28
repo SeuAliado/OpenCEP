@@ -5,5 +5,7 @@
   "bairro": "Morrotes",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

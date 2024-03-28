@@ -5,5 +5,7 @@
   "bairro": "Parque União",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.084261,
+  "lon": -42.843456
 }

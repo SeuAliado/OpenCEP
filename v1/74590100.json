@@ -5,5 +5,7 @@
   "bairro": "Jardim Balneário Meia Ponte",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6168695,
+  "lon": -49.2966843
 }

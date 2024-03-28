@@ -5,5 +5,7 @@
   "bairro": "Guilhermina Vieira Chaer",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6018398,
+  "lon": -46.9513335
 }

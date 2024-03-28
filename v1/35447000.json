@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra Longa",
   "uf": "MG",
-  "ibge": "3105707"
+  "ibge": "3105707",
+  "lat": -20.2687434,
+  "lon": -43.0777555
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Jaguaré",
   "uf": "ES",
-  "ibge": "3203056"
+  "ibge": "3203056",
+  "lat": -18.9074899,
+  "lon": -40.0762769
 }

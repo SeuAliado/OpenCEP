@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus do Madeira",
   "localidade": "Fervedouro",
   "uf": "MG",
-  "ibge": "3125952"
+  "ibge": "3125952",
+  "lat": -20.717821,
+  "lon": -42.421813
 }

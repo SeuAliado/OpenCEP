@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Rica - Tiradentes",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.545807,
+  "lon": -44.0712528
 }

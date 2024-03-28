@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nazaré do Piauí",
   "uf": "PI",
-  "ibge": "2206704"
+  "ibge": "2206704",
+  "lat": -7.101291,
+  "lon": -42.7857583
 }

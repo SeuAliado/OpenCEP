@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.0965789,
+  "lon": -52.5825582
 }

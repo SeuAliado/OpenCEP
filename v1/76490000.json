@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mara Rosa",
   "uf": "GO",
-  "ibge": "5212808"
+  "ibge": "5212808",
+  "lat": -14.0688486,
+  "lon": -49.3247147
 }

@@ -5,5 +5,7 @@
   "bairro": "Cerqueira Lima",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0793326,
+  "lon": -44.5859752
 }

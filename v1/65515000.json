@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buriti",
   "uf": "MA",
-  "ibge": "2102200"
+  "ibge": "2102200",
+  "lat": -3.8925237,
+  "lon": -42.941698
 }

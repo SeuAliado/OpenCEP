@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Presidente Geisel",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3332301,
+  "lon": -49.0333429
 }

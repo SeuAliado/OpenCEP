@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulista",
   "uf": "PB",
-  "ibge": "2510907"
+  "ibge": "2510907",
+  "lat": -6.5981985,
+  "lon": -37.6238463
 }

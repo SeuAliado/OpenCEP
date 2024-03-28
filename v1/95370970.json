@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barracão",
   "uf": "RS",
-  "ibge": "4301800"
+  "ibge": "4301800",
+  "lat": -28.1876767,
+  "lon": -51.5244027
 }

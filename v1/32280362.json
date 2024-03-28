@@ -5,5 +5,7 @@
   "bairro": "Parque Riacho das Pedras 2ª Seção",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9540477,
+  "lon": -44.0562619
 }

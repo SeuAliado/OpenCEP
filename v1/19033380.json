@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1016758,
+  "lon": -51.3875267
 }

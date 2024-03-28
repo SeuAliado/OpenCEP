@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -22.8817993,
+  "lon": -47.0452415
 }

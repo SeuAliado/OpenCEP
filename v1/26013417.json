@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7546496,
+  "lon": -43.4699924
 }

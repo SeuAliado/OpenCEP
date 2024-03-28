@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4367749,
+  "lon": -54.6396947
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Evelyn",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9062707,
+  "lon": -48.4883697
 }

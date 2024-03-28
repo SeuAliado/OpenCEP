@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5808085,
+  "lon": -49.4206619
 }

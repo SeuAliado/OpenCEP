@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marmeleiro",
   "uf": "PR",
-  "ibge": "4115408"
+  "ibge": "4115408",
+  "lat": -26.1477584,
+  "lon": -53.0255718
 }

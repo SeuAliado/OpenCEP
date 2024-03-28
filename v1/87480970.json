@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maria Helena",
   "uf": "PR",
-  "ibge": "4114708"
+  "ibge": "4114708",
+  "lat": -23.6112343,
+  "lon": -53.205863
 }

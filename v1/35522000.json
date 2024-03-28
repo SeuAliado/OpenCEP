@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "lat": -20.3178884,
+  "lon": -44.1972787
 }

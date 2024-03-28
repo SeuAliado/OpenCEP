@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Silveirânia",
   "uf": "MG",
-  "ibge": "3167301"
+  "ibge": "3167301",
+  "lat": -21.1619694,
+  "lon": -43.2132531
 }

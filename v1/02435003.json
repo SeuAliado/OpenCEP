@@ -5,5 +5,7 @@
   "bairro": "Lauzane Paulista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4809572,
+  "lon": -46.6410342
 }

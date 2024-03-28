@@ -5,5 +5,7 @@
   "bairro": "Granjas Betânia",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.708665,
+  "lon": -43.3642217
 }

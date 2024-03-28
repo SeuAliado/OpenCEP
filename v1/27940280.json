@@ -5,5 +5,7 @@
   "bairro": "Sol e Mar",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3903685,
+  "lon": -41.7837904
 }

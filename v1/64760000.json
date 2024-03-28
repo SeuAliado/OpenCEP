@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Piauí",
   "uf": "PI",
-  "ibge": "2210003"
+  "ibge": "2210003",
+  "lat": -8.3898869,
+  "lon": -42.1572702
 }

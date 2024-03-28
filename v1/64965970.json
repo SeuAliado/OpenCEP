@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Avelino Lopes",
   "uf": "PI",
-  "ibge": "2201101"
+  "ibge": "2201101",
+  "lat": -10.135735,
+  "lon": -43.9413382
 }

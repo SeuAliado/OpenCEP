@@ -5,5 +5,7 @@
   "bairro": "Patriarca",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.593056,
+  "lon": -40.271111
 }

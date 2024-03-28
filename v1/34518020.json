@@ -5,5 +5,7 @@
   "bairro": "Pompeu",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8682506,
+  "lon": -43.773469
 }

@@ -5,5 +5,7 @@
   "bairro": "Industrial São Luiz",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.925179,
+  "lon": -44.128918
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Holambra",
   "uf": "SP",
-  "ibge": "3519055"
+  "ibge": "3519055",
+  "lat": -22.6409997,
+  "lon": -47.0491411
 }

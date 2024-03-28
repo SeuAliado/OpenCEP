@@ -5,5 +5,7 @@
   "bairro": "Ramos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8578893,
+  "lon": -43.264431
 }

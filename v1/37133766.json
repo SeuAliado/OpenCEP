@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale Verde",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4265413,
+  "lon": -45.9764274
 }

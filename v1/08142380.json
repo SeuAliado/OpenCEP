@@ -5,5 +5,7 @@
   "bairro": "Jardim Miriam",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5219825,
+  "lon": -46.389112
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Orleans",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7231792,
+  "lon": -60.098317
 }

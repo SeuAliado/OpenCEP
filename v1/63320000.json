@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Baixio",
   "uf": "CE",
-  "ibge": "2301802"
+  "ibge": "2301802",
+  "lat": -6.7252817,
+  "lon": -38.7158702
 }

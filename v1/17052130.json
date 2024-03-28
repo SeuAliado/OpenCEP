@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3380546,
+  "lon": -49.0925644
 }

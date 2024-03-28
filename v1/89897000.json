@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Oeste",
   "uf": "SC",
-  "ibge": "4216255"
+  "ibge": "4216255",
+  "lat": -27.0751346,
+  "lon": -53.5852111
 }

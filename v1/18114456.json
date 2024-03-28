@@ -5,5 +5,7 @@
   "bairro": "Jardim Araújo",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5410927,
+  "lon": -47.4260759
 }

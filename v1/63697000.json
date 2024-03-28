@@ -5,5 +5,7 @@
   "bairro": "Oiticica",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "lat": -6.2021727,
+  "lon": -40.7007345
 }

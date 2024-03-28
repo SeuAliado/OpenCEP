@@ -5,5 +5,7 @@
   "bairro": "Castelo Branco",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.075332,
+  "lon": -52.1804133
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tatuapé",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7518221,
+  "lon": -47.6622099
 }

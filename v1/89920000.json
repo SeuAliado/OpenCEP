@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaraciaba",
   "uf": "SC",
-  "ibge": "4206405"
+  "ibge": "4206405",
+  "lat": -26.6046804,
+  "lon": -53.5248307
 }

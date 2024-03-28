@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Imbuia",
   "uf": "SC",
-  "ibge": "4207403"
+  "ibge": "4207403",
+  "lat": -27.4920242,
+  "lon": -49.4224324
 }

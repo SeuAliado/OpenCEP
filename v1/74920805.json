@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bela Vista",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7415401,
+  "lon": -49.2276682
 }

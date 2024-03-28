@@ -5,5 +5,7 @@
   "bairro": "Condomínio Satélite",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.802656,
+  "lon": -48.1170112
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1754387,
+  "lon": -47.9533302
 }

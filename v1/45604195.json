@@ -5,5 +5,7 @@
   "bairro": "Califórnia",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7715115,
+  "lon": -39.2647258
 }

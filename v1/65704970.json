@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Lugar",
   "uf": "MA",
-  "ibge": "2102077"
+  "ibge": "2102077",
+  "lat": -4.3716709,
+  "lon": -45.0321342
 }

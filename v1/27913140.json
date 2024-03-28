@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3776199,
+  "lon": -41.7735736
 }

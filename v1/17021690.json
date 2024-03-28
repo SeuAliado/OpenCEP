@@ -5,5 +5,7 @@
   "bairro": "Vila Garcia",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.29413,
+  "lon": -49.0835384
 }

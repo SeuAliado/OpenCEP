@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.236302,
+  "lon": -39.3406857
 }

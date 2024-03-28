@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sete Barras",
   "uf": "SP",
-  "ibge": "3551801"
+  "ibge": "3551801",
+  "lat": -15.902881,
+  "lon": -52.3001604
 }

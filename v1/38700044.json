@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.587222,
+  "lon": -46.5116058
 }

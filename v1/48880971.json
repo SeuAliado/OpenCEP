@@ -5,5 +5,7 @@
   "bairro": "Pereira",
   "localidade": "Santaluz",
   "uf": "BA",
-  "ibge": "2928000"
+  "ibge": "2928000",
+  "lat": -11.2394127,
+  "lon": -39.4155257
 }

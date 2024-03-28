@@ -5,5 +5,7 @@
   "bairro": "São Domingos",
   "localidade": "Cruzmaltina",
   "uf": "PR",
-  "ibge": "4106852"
+  "ibge": "4106852",
+  "lat": -23.9941384,
+  "lon": -51.442467
 }

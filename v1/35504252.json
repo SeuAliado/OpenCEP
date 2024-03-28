@@ -5,5 +5,7 @@
   "bairro": "Pacaembu",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1729341,
+  "lon": -44.9017666
 }

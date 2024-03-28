@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu V",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1097713,
+  "lon": -48.9361075
 }

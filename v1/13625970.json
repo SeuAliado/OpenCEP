@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz da Conceição",
   "uf": "SP",
-  "ibge": "3546207"
+  "ibge": "3546207",
+  "lat": -22.137874,
+  "lon": -47.4518497
 }

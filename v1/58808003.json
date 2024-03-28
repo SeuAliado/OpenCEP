@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7755136,
+  "lon": -38.2452287
 }

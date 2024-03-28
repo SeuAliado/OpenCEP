@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4298732,
+  "lon": -46.9467579
 }

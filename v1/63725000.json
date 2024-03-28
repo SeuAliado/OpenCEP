@@ -5,5 +5,7 @@
   "bairro": "Ibiapaba",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "lat": -5.052043,
+  "lon": -40.9220764
 }

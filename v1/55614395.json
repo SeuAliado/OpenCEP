@@ -5,5 +5,7 @@
   "bairro": "Mário Bezerra",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.123729,
+  "lon": -35.3353258
 }

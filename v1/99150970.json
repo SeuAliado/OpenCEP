@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marau",
   "uf": "RS",
-  "ibge": "4311809"
+  "ibge": "4311809",
+  "lat": -28.4500735,
+  "lon": -52.1994147
 }

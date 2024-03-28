@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5237674,
+  "lon": -46.9008057
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Guilhermino",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4522981,
+  "lon": -46.423196
 }

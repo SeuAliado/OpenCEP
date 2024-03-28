@@ -5,5 +5,7 @@
   "bairro": "Parque dos Pinheiros",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9265788,
+  "lon": -48.4291128
 }

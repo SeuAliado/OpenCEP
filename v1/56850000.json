@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Flores",
   "uf": "PE",
-  "ibge": "2605608"
+  "ibge": "2605608",
+  "lat": -7.858832,
+  "lon": -37.9718528
 }

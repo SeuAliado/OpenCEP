@@ -5,5 +5,7 @@
   "bairro": "Parque Paulista",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.3016811,
+  "lon": -46.7323783
 }

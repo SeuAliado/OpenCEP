@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uruana",
   "uf": "GO",
-  "ibge": "5221700"
+  "ibge": "5221700",
+  "lat": -15.5040677,
+  "lon": -49.6815627
 }

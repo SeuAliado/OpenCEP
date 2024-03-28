@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Assis IV",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6419047,
+  "lon": -50.4121884
 }

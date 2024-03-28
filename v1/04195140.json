@@ -5,5 +5,7 @@
   "bairro": "Jardim Celeste",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6567693,
+  "lon": -46.6117112
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dom Basílio",
   "uf": "BA",
-  "ibge": "2910107"
+  "ibge": "2910107",
+  "lat": -13.8545436,
+  "lon": -41.7208243
 }

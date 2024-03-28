@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cumaru",
   "uf": "PE",
-  "ibge": "2604908"
+  "ibge": "2604908",
+  "lat": -8.0481587,
+  "lon": -35.7188463
 }

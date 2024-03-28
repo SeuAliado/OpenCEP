@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Siriri",
   "uf": "SE",
-  "ibge": "2807204"
+  "ibge": "2807204",
+  "lat": -10.5969214,
+  "lon": -37.1134048
 }

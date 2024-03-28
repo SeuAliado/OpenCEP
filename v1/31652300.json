@@ -5,5 +5,7 @@
   "bairro": "Mantiqueira",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.784926,
+  "lon": -43.9815903
 }

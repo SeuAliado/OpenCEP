@@ -5,5 +5,7 @@
   "bairro": "Guarani",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.8947899,
+  "lon": -42.046248
 }

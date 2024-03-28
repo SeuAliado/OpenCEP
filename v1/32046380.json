@@ -5,5 +5,7 @@
   "bairro": "Monsenhor Horta",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9204434,
+  "lon": -44.0983457
 }

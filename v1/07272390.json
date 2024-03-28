@@ -5,5 +5,7 @@
   "bairro": "Vila Itai",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4699802,
+  "lon": -46.4185183
 }

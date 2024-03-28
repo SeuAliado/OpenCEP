@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Abdon Batista",
   "uf": "SC",
-  "ibge": "4200051"
+  "ibge": "4200051",
+  "lat": -27.5926789,
+  "lon": -51.0331933
 }

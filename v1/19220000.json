@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Narandiba",
   "uf": "SP",
-  "ibge": "3532207"
+  "ibge": "3532207",
+  "lat": -22.5591203,
+  "lon": -51.5360368
 }

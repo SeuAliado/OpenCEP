@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jordânia",
   "uf": "MG",
-  "ibge": "3136504"
+  "ibge": "3136504",
+  "lat": -15.9013894,
+  "lon": -40.1844227
 }

@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4852965,
+  "lon": -44.5076896
 }

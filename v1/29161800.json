@@ -5,5 +5,7 @@
   "bairro": "André Carloni",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.2277961,
+  "lon": -40.2796652
 }

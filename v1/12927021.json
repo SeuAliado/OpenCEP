@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Bragança Paulista F II",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9830821,
+  "lon": -46.511997
 }

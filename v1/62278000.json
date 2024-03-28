@@ -5,5 +5,7 @@
   "bairro": "Irajá",
   "localidade": "Hidrolândia",
   "uf": "CE",
-  "ibge": "2305209"
+  "ibge": "2305209",
+  "lat": -4.3680266,
+  "lon": -40.4671855
 }

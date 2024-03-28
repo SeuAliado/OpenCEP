@@ -5,5 +5,7 @@
   "bairro": "Nova Carapina I",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1584389,
+  "lon": -40.2663271
 }

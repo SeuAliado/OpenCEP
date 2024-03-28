@@ -5,5 +5,7 @@
   "bairro": "Parque Sabará",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0043487,
+  "lon": -45.5604201
 }

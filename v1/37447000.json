@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Minduri",
   "uf": "MG",
-  "ibge": "3141900"
+  "ibge": "3141900",
+  "lat": -21.6668426,
+  "lon": -44.6066578
 }

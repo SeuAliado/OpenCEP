@@ -5,5 +5,7 @@
   "bairro": "Parque Jaçatuba",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6501152,
+  "lon": -46.5159859
 }

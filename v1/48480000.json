@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Crisópolis",
   "uf": "BA",
-  "ibge": "2909604"
+  "ibge": "2909604",
+  "lat": -11.5048979,
+  "lon": -38.1899782
 }

@@ -5,5 +5,7 @@
   "bairro": "Lagoa do Meio",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3750681,
+  "lon": -40.064848
 }

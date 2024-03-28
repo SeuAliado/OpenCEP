@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ijaci",
   "uf": "MG",
-  "ibge": "3130408"
+  "ibge": "3130408",
+  "lat": -21.1698273,
+  "lon": -44.9272032
 }

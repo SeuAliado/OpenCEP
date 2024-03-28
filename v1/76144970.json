@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Amorinópolis",
   "uf": "GO",
-  "ibge": "5200902"
+  "ibge": "5200902",
+  "lat": -16.6124454,
+  "lon": -51.096062
 }

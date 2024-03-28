@@ -5,5 +5,7 @@
   "bairro": "São Jacinto",
   "localidade": "São Roque do Canaã",
   "uf": "ES",
-  "ibge": "3204955"
+  "ibge": "3204955",
+  "lat": -19.7180614,
+  "lon": -40.611908
 }

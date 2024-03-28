@@ -5,5 +5,7 @@
   "bairro": "Jardim Sinki",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.2952421,
+  "lon": -46.6503235
 }

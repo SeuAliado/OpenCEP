@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Planaltino",
   "uf": "BA",
-  "ibge": "2924900"
+  "ibge": "2924900",
+  "lat": -13.1738947,
+  "lon": -40.2680075
 }

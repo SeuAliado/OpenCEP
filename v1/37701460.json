@@ -5,5 +5,7 @@
   "bairro": "Jardim Gama Cruz",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7801926,
+  "lon": -46.5897698
 }

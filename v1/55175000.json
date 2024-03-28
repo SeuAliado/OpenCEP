@@ -5,5 +5,7 @@
   "bairro": "Fazenda Nova",
   "localidade": "Brejo da Madre de Deus",
   "uf": "PE",
-  "ibge": "2602605"
+  "ibge": "2602605",
+  "lat": -8.170924,
+  "lon": -36.1951533
 }

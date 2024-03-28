@@ -5,5 +5,7 @@
   "bairro": "Jardim Ivone 1ª Seção",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.4853155,
+  "lon": -55.7287106
 }

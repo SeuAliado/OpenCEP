@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serranópolis do Iguaçu",
   "uf": "PR",
-  "ibge": "4126355"
+  "ibge": "4126355",
+  "lat": -25.3857808,
+  "lon": -54.0525879
 }

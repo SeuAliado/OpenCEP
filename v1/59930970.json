@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coronel João Pessoa",
   "uf": "RN",
-  "ibge": "2402907"
+  "ibge": "2402907",
+  "lat": -6.261128,
+  "lon": -38.443247
 }

@@ -5,5 +5,7 @@
   "bairro": "Juliânia",
   "localidade": "Herculândia",
   "uf": "SP",
-  "ibge": "3519006"
+  "ibge": "3519006",
+  "lat": -21.9024037,
+  "lon": -50.3681825
 }

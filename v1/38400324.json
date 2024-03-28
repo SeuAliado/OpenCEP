@@ -5,5 +5,7 @@
   "bairro": "Daniel Fonseca",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9176255,
+  "lon": -48.2997312
 }

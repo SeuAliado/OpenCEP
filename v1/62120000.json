@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alcântaras",
   "uf": "CE",
-  "ibge": "2300507"
+  "ibge": "2300507",
+  "lat": -3.6124621,
+  "lon": -40.5330604
 }

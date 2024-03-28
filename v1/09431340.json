@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.6927303,
+  "lon": -46.3815071
 }

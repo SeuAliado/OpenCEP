@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Major Gercino",
   "uf": "SC",
-  "ibge": "4210209"
+  "ibge": "4210209",
+  "lat": -27.4178395,
+  "lon": -48.9529058
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Carlu",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4668809,
+  "lon": -46.6356647
 }

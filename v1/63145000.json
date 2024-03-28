@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tarrafas",
   "uf": "CE",
-  "ibge": "2313252"
+  "ibge": "2313252",
+  "lat": -6.7186195,
+  "lon": -39.6930912
 }

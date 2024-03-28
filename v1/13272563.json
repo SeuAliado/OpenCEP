@@ -5,5 +5,7 @@
   "bairro": "Chácara Flora",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9520726,
+  "lon": -47.0075167
 }

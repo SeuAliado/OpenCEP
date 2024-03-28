@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7169801,
+  "lon": -39.8482941
 }

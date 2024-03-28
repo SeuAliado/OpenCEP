@@ -5,5 +5,7 @@
   "bairro": "Penitenciária",
   "localidade": "Riolândia",
   "uf": "SP",
-  "ibge": "3544202"
+  "ibge": "3544202",
+  "lat": -19.9818546,
+  "lon": -49.6800955
 }

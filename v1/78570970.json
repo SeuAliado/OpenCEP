@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Horizonte do Norte",
   "uf": "MT",
-  "ibge": "5106273"
+  "ibge": "5106273",
+  "lat": -11.3925843,
+  "lon": -57.3172668
 }

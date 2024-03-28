@@ -5,5 +5,7 @@
   "bairro": "Arenoso",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9519212,
+  "lon": -38.443042
 }

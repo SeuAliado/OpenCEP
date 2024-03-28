@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipaumirim",
   "uf": "CE",
-  "ibge": "2305704"
+  "ibge": "2305704",
+  "lat": -6.7886929,
+  "lon": -38.7191579
 }

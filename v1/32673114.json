@@ -5,5 +5,7 @@
   "bairro": "Jardim das Alterosas - 2ª Seção",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.944429,
+  "lon": -44.1695396
 }

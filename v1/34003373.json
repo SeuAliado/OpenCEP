@@ -5,5 +5,7 @@
   "bairro": "Vila Maria do Carmo",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9863847,
+  "lon": -43.8666102
 }

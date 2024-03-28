@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barão de Antonina",
   "uf": "SP",
-  "ibge": "3505005"
+  "ibge": "3505005",
+  "lat": -23.6289027,
+  "lon": -49.563837
 }

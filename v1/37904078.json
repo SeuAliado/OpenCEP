@@ -5,5 +5,7 @@
   "bairro": "Califórnia",
   "localidade": "Passos",
   "uf": "MG",
-  "ibge": "3147907"
+  "ibge": "3147907",
+  "lat": -20.7068984,
+  "lon": -46.6188698
 }

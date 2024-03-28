@@ -5,5 +5,7 @@
   "bairro": "Vila Zilda Natel",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.814788,
+  "lon": -47.2817135
 }

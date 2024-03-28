@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8024233,
+  "lon": -48.1957125
 }

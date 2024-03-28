@@ -5,5 +5,7 @@
   "bairro": "Polo Empresarial Goiás",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7911164,
+  "lon": -49.252617
 }

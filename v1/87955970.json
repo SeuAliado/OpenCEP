@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro do Paraná",
   "uf": "PR",
-  "ibge": "4125902"
+  "ibge": "4125902",
+  "lat": -26.2325724,
+  "lon": -51.0909018
 }

@@ -5,5 +5,7 @@
   "bairro": "Conde",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9967788,
+  "lon": -43.9505513
 }

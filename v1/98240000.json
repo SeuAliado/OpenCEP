@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Bárbara do Sul",
   "uf": "RS",
-  "ibge": "4316709"
+  "ibge": "4316709",
+  "lat": -28.3672078,
+  "lon": -53.25173
 }

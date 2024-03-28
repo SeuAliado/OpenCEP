@@ -5,5 +5,7 @@
   "bairro": "Jardim José Justi",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4516042,
+  "lon": -47.0246971
 }

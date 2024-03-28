@@ -5,5 +5,7 @@
   "bairro": "Jaraguá",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7402726,
+  "lon": -47.665568
 }

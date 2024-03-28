@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial das Flores",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2868943,
+  "lon": -48.9223052
 }

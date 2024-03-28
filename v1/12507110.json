@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Luzia",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.8062074,
+  "lon": -45.2409605
 }

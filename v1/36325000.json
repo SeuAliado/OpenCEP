@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tiradentes",
   "uf": "MG",
-  "ibge": "3168804"
+  "ibge": "3168804",
+  "lat": -21.1100035,
+  "lon": -44.1733017
 }

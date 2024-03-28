@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Paula",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1375177,
+  "lon": -47.9733809
 }

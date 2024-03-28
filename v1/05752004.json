@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora Aparecida",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5385987,
+  "lon": -46.8469761
 }

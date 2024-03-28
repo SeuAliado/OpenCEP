@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5754541,
+  "lon": -46.4850916
 }

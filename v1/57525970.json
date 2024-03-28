@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Branco",
   "uf": "AL",
-  "ibge": "2706109"
+  "ibge": "2706109",
+  "lat": -9.1608301,
+  "lon": -37.3561432
 }

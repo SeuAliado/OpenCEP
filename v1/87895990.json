@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Terra Rica",
   "uf": "PR",
-  "ibge": "4127304"
+  "ibge": "4127304",
+  "lat": -22.6915629,
+  "lon": -52.7363424
 }

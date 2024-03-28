@@ -5,5 +5,7 @@
   "bairro": "Selectas",
   "localidade": "Xinguara",
   "uf": "PA",
-  "ibge": "1508407"
+  "ibge": "1508407",
+  "lat": -7.0997757,
+  "lon": -49.9391188
 }

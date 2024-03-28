@@ -5,5 +5,7 @@
   "bairro": "Dona Otília",
   "localidade": "Roque Gonzales",
   "uf": "RS",
-  "ibge": "4316303"
+  "ibge": "4316303",
+  "lat": -28.0985066,
+  "lon": -54.9401224
 }

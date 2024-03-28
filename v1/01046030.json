@@ -5,5 +5,7 @@
   "bairro": "República",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.546527,
+  "lon": -46.6442369
 }

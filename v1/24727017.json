@@ -5,5 +5,7 @@
   "bairro": "Gebara",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8121301,
+  "lon": -42.941492
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Líbano",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2892305,
+  "lon": -50.3139559
 }

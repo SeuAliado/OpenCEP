@@ -5,5 +5,7 @@
   "bairro": "Cidade Satélite São Luiz",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7586079,
+  "lon": -49.2786406
 }

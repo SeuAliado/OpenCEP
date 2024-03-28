@@ -5,5 +5,7 @@
   "bairro": "Jardim Odécio Degan",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6145202,
+  "lon": -47.4162557
 }

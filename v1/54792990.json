@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -7.9672529,
+  "lon": -34.9953433
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Padre Piva",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.8099222,
+  "lon": -49.9994686
 }

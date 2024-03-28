@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sananduva",
   "uf": "RS",
-  "ibge": "4316600"
+  "ibge": "4316600",
+  "lat": -27.9486566,
+  "lon": -51.8082483
 }

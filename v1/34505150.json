@@ -5,5 +5,7 @@
   "bairro": "Morro São Francisco",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8901664,
+  "lon": -43.8141459
 }

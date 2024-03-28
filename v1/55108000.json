@@ -5,5 +5,7 @@
   "bairro": "Lajedo do Cedro",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.2867234,
+  "lon": -35.9217585
 }

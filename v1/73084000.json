@@ -5,5 +5,7 @@
   "bairro": "Condomínio Mansões Sobradinho (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.9110219,
+  "lon": -47.7784289
 }

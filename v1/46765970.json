@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piatã",
   "uf": "BA",
-  "ibge": "2924306"
+  "ibge": "2924306",
+  "lat": -13.1514116,
+  "lon": -41.7739811
 }

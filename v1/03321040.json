@@ -5,5 +5,7 @@
   "bairro": "Vila Gomes Cardim",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5474836,
+  "lon": -46.5620773
 }

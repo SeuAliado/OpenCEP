@@ -5,5 +5,7 @@
   "bairro": "Bandeirantes II",
   "localidade": "Tanguá",
   "uf": "RJ",
-  "ibge": "3305752"
+  "ibge": "3305752",
+  "lat": -22.737111,
+  "lon": -42.752115
 }

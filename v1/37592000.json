@@ -5,5 +5,7 @@
   "bairro": "São Sebastião dos Robertos",
   "localidade": "Jacutinga",
   "uf": "MG",
-  "ibge": "3134905"
+  "ibge": "3134905",
+  "lat": -22.2156331,
+  "lon": -46.5421396
 }

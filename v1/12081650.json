@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Silvia Maria",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0279202,
+  "lon": -45.5362379
 }

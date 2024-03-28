@@ -5,5 +5,7 @@
   "bairro": "Chácara Alvorada",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.4514653,
+  "lon": -55.7360446
 }

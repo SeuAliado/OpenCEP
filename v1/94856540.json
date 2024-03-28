@@ -5,5 +5,7 @@
   "bairro": "Jardim Algarve",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "lat": -30.0269176,
+  "lon": -51.0713271
 }

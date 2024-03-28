@@ -5,5 +5,7 @@
   "bairro": "Moinhos D'Água",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4501448,
+  "lon": -51.9981401
 }

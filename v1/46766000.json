@@ -5,5 +5,7 @@
   "bairro": "Inúbia",
   "localidade": "Piatã",
   "uf": "BA",
-  "ibge": "2924306"
+  "ibge": "2924306",
+  "lat": -13.1079641,
+  "lon": -42.0103514
 }

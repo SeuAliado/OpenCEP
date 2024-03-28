@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Darcinópolis",
   "uf": "TO",
-  "ibge": "1706506"
+  "ibge": "1706506",
+  "lat": -6.7163076,
+  "lon": -47.7601302
 }

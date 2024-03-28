@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caridade",
   "uf": "CE",
-  "ibge": "2303006"
+  "ibge": "2303006",
+  "lat": -4.2313458,
+  "lon": -39.1941073
 }

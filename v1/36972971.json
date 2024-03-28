@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Martins Soares",
   "uf": "MG",
-  "ibge": "3140530"
+  "ibge": "3140530",
+  "lat": -20.7509029,
+  "lon": -42.8246699
 }

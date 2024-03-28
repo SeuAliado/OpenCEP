@@ -5,5 +5,7 @@
   "bairro": "Vila Magnólia",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9750979,
+  "lon": -46.8033486
 }

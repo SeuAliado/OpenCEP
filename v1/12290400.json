@@ -5,5 +5,7 @@
   "bairro": "Chácara Ipês",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0478432,
+  "lon": -45.7190281
 }

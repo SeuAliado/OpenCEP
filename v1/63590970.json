@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Saboeiro",
   "uf": "CE",
-  "ibge": "2311900"
+  "ibge": "2311900",
+  "lat": -6.5392101,
+  "lon": -39.9052693
 }

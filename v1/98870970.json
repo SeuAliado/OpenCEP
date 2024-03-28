@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Giruá",
   "uf": "RS",
-  "ibge": "4309001"
+  "ibge": "4309001",
+  "lat": -28.026077,
+  "lon": -54.351005
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Casca",
   "uf": "MG",
-  "ibge": "3154903"
+  "ibge": "3154903",
+  "lat": -20.2290278,
+  "lon": -42.6466117
 }

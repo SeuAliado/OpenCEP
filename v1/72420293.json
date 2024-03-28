@@ -5,5 +5,7 @@
   "bairro": "Setor Oeste (Gama)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -16.0162025,
+  "lon": -48.0795679
 }

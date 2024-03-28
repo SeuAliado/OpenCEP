@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Benedito do Sul",
   "uf": "PE",
-  "ibge": "2612901"
+  "ibge": "2612901",
+  "lat": -8.8170241,
+  "lon": -35.9456706
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Leandro Ferreira",
   "uf": "MG",
-  "ibge": "3138302"
+  "ibge": "3138302",
+  "lat": -19.7172326,
+  "lon": -45.0229158
 }

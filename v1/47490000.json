@@ -5,5 +5,7 @@
   "bairro": "Santo Inácio",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "lat": -11.099043,
+  "lon": -42.7247772
 }

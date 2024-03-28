@@ -5,5 +5,7 @@
   "bairro": "Brejo da Serra",
   "localidade": "Pilão Arcado",
   "uf": "BA",
-  "ibge": "2924405"
+  "ibge": "2924405",
+  "lat": -10.1391062,
+  "lon": -43.2886836
 }

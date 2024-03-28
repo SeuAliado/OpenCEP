@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -20.4199599,
+  "lon": -42.8896251
 }

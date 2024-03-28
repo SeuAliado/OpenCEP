@@ -5,5 +5,7 @@
   "bairro": "Itatinga",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.814554,
+  "lon": -45.421456
 }

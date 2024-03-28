@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaraci",
   "uf": "SP",
-  "ibge": "3517901"
+  "ibge": "3517901",
+  "lat": -20.4996203,
+  "lon": -48.9440534
 }

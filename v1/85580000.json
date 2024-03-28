@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapejara d'Oeste",
   "uf": "PR",
-  "ibge": "4111209"
+  "ibge": "4111209",
+  "lat": -25.9660986,
+  "lon": -52.8146778
 }

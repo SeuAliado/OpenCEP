@@ -5,5 +5,7 @@
   "bairro": "Maria Imaculada",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6742998,
+  "lon": -46.8700503
 }

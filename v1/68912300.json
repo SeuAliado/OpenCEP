@@ -5,5 +5,7 @@
   "bairro": "Curiaú",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "lat": 0.0279298,
+  "lon": -51.1141886
 }

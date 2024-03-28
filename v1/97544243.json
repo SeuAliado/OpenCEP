@@ -5,5 +5,7 @@
   "bairro": "Sepé Tiaraju",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7942822,
+  "lon": -55.7971372
 }

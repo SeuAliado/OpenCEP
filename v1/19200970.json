@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirapozinho",
   "uf": "SP",
-  "ibge": "3539202"
+  "ibge": "3539202",
+  "lat": -22.2759685,
+  "lon": -51.4976123
 }

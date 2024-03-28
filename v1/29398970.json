@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Irupi",
   "uf": "ES",
-  "ibge": "3202652"
+  "ibge": "3202652",
+  "lat": -20.3450544,
+  "lon": -41.6408349
 }

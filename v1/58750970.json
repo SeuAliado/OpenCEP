@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juru",
   "uf": "PB",
-  "ibge": "2508000"
+  "ibge": "2508000",
+  "lat": -7.5349216,
+  "lon": -37.8186845
 }

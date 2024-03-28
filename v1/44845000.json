@@ -5,5 +5,7 @@
   "bairro": "Volta Grande",
   "localidade": "Tapiramutá",
   "uf": "BA",
-  "ibge": "2931301"
+  "ibge": "2931301",
+  "lat": -11.893778,
+  "lon": -40.8813623
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guidoval",
   "uf": "MG",
-  "ibge": "3128808"
+  "ibge": "3128808",
+  "lat": -21.1555244,
+  "lon": -42.7891524
 }

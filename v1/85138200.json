@@ -5,5 +5,7 @@
   "bairro": "Curucaca",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.5370933,
+  "lon": -51.8173389
 }

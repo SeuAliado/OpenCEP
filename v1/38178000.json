@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedrinópolis",
   "uf": "MG",
-  "ibge": "3149200"
+  "ibge": "3149200",
+  "lat": -19.2245673,
+  "lon": -47.4583284
 }

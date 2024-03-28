@@ -5,5 +5,7 @@
   "bairro": "Itauninhas",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7175354,
+  "lon": -39.8899171
 }

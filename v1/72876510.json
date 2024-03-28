@@ -5,5 +5,7 @@
   "bairro": "Valparaiso I - Etapa E",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0561009,
+  "lon": -47.9728971
 }

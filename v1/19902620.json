@@ -5,5 +5,7 @@
   "bairro": "Vila Vilar",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9979294,
+  "lon": -49.8663894
 }

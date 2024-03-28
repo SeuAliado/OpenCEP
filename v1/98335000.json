@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Vista das Missões",
   "uf": "RS",
-  "ibge": "4302154"
+  "ibge": "4302154",
+  "lat": -27.7250779,
+  "lon": -53.3258513
 }

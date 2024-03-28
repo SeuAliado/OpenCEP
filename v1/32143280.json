@@ -5,5 +5,7 @@
   "bairro": "Colorado",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9101053,
+  "lon": -44.0318541
 }

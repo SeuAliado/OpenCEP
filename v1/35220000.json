@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itueta",
   "uf": "MG",
-  "ibge": "3134103"
+  "ibge": "3134103",
+  "lat": -19.4004195,
+  "lon": -41.1750068
 }

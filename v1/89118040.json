@@ -5,5 +5,7 @@
   "bairro": "Belchior Alto",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "lat": -26.8283011,
+  "lon": -49.0327019
 }

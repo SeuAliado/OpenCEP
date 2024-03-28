@@ -5,5 +5,7 @@
   "bairro": "Jardim Buru",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1452899,
+  "lon": -47.3159011
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Constantina",
   "uf": "RS",
-  "ibge": "4305801"
+  "ibge": "4305801",
+  "lat": -27.7308176,
+  "lon": -52.9940706
 }

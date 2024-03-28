@@ -5,5 +5,7 @@
   "bairro": "Residencial Boa Vista II",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.676236,
+  "lon": -49.1118575
 }

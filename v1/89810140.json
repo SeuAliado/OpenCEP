@@ -5,5 +5,7 @@
   "bairro": "Cristo Rei",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.0714815,
+  "lon": -52.6319473
 }

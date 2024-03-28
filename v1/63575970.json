@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aiuaba",
   "uf": "CE",
-  "ibge": "2300408"
+  "ibge": "2300408",
+  "lat": -6.5726673,
+  "lon": -40.1222075
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3685351,
+  "lon": -40.3092726
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1007902,
+  "lon": -52.6368955
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Sílvia (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5147211,
+  "lon": -46.3952188
 }

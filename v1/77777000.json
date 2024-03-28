@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campos Lindos",
   "uf": "TO",
-  "ibge": "1703842"
+  "ibge": "1703842",
+  "lat": -8.1677815,
+  "lon": -46.670534
 }

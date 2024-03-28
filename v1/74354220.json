@@ -5,5 +5,7 @@
   "bairro": "Setor Garavelo",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7099664,
+  "lon": -49.365298
 }

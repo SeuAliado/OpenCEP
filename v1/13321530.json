@@ -5,5 +5,7 @@
   "bairro": "Jardim Donalísio",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1878769,
+  "lon": -47.2836965
 }

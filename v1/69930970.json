@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Xapuri",
   "uf": "AC",
-  "ibge": "1200708"
+  "ibge": "1200708",
+  "lat": -22.8326243,
+  "lon": -43.388462
 }

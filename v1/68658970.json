@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aurora do Pará",
   "uf": "PA",
-  "ibge": "1500958"
+  "ibge": "1500958",
+  "lat": -2.1382859,
+  "lon": -47.5604939
 }

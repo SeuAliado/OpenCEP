@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1085675,
+  "lon": -52.5966164
 }

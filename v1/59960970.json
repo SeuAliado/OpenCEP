@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pilões",
   "uf": "RN",
-  "ibge": "2410009"
+  "ibge": "2410009",
+  "lat": -6.26851,
+  "lon": -38.042821
 }

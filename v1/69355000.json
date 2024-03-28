@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Normandia",
   "uf": "RR",
-  "ibge": "1400407"
+  "ibge": "1400407",
+  "lat": 3.8849797,
+  "lon": -59.6209015
 }

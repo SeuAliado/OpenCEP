@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaciara",
   "uf": "MT",
-  "ibge": "5104807"
+  "ibge": "5104807",
+  "lat": -15.9559696,
+  "lon": -54.9751847
 }

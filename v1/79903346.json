@@ -5,5 +5,7 @@
   "bairro": "Jardim São João 2ª Seção",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5206587,
+  "lon": -55.7119131
 }

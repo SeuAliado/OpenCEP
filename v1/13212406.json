@@ -5,5 +5,7 @@
   "bairro": "Fazenda Grande",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1753613,
+  "lon": -46.9673423
 }

@@ -5,5 +5,7 @@
   "bairro": "Engenho Nogueira",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8927587,
+  "lon": -43.982881
 }

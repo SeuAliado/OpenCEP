@@ -5,5 +5,7 @@
   "bairro": "Jubuti",
   "localidade": "Itaitinga",
   "uf": "CE",
-  "ibge": "2306256"
+  "ibge": "2306256",
+  "lat": -3.9250184,
+  "lon": -38.5142692
 }

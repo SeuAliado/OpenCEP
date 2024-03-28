@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Maior",
   "uf": "PI",
-  "ibge": "2202208"
+  "ibge": "2202208",
+  "lat": -4.8220831,
+  "lon": -42.1644994
 }

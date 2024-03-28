@@ -5,5 +5,7 @@
   "bairro": "General Neto",
   "localidade": "Barão",
   "uf": "RS",
-  "ibge": "4301651"
+  "ibge": "4301651",
+  "lat": -29.3906993,
+  "lon": -51.4251026
 }

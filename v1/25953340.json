@@ -5,5 +5,7 @@
   "bairro": "Parque São Luiz",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4126988,
+  "lon": -42.959999
 }

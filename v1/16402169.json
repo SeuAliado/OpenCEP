@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Ulisses Guimarães",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6716675,
+  "lon": -49.7336766
 }

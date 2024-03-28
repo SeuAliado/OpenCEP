@@ -5,5 +5,7 @@
   "bairro": "Jardim Kátia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4581688,
+  "lon": -46.4417084
 }

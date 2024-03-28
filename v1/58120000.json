@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Massaranduba",
   "uf": "PB",
-  "ibge": "2509206"
+  "ibge": "2509206",
+  "lat": -7.2076232,
+  "lon": -35.7625241
 }

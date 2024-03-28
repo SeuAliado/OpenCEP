@@ -5,5 +5,7 @@
   "bairro": "São Victor COHAB",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1941466,
+  "lon": -51.1628028
 }

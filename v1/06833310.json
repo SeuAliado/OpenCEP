@@ -5,5 +5,7 @@
   "bairro": "Embu Mirim",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6549303,
+  "lon": -46.8745031
 }

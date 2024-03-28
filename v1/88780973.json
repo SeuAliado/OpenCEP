@@ -5,5 +5,7 @@
   "bairro": "Ibiraquera",
   "localidade": "Imbituba",
   "uf": "SC",
-  "ibge": "4207304"
+  "ibge": "4207304",
+  "lat": -28.1366545,
+  "lon": -48.6490273
 }

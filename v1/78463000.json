@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Nobres",
   "uf": "MT",
-  "ibge": "5105903"
+  "ibge": "5105903",
+  "lat": -15.6219252,
+  "lon": -56.0917532
 }

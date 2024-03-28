@@ -5,5 +5,7 @@
   "bairro": "Ocidental Parque",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "lat": -16.1075576,
+  "lon": -47.9262828
 }

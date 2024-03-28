@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matias Cardoso",
   "uf": "MG",
-  "ibge": "3140852"
+  "ibge": "3140852",
+  "lat": -14.752901,
+  "lon": -43.9401959
 }

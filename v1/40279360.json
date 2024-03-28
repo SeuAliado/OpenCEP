@@ -5,5 +5,7 @@
   "bairro": "Parque Bela Vista",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9868175,
+  "lon": -38.471051
 }

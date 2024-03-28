@@ -5,5 +5,7 @@
   "bairro": "Jardim Florestal",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1620487,
+  "lon": -46.8996977
 }

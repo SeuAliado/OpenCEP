@@ -5,5 +5,7 @@
   "bairro": "Barreiros",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5675031,
+  "lon": -48.6098455
 }

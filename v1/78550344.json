@@ -5,5 +5,7 @@
   "bairro": "Setor Residencial Norte",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8515934,
+  "lon": -55.501291
 }

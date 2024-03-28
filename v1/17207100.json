@@ -5,5 +5,7 @@
   "bairro": "Jardim Regina",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2869662,
+  "lon": -48.5491677
 }

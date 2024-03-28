@@ -5,5 +5,7 @@
   "bairro": "Vila Zamataro",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.5047867,
+  "lon": -46.5526264
 }

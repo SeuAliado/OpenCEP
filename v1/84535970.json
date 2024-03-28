@@ -5,5 +5,7 @@
   "bairro": "Angaí",
   "localidade": "Fernandes Pinheiro",
   "uf": "PR",
-  "ibge": "4107736"
+  "ibge": "4107736",
+  "lat": -25.4123666,
+  "lon": -50.5481805
 }

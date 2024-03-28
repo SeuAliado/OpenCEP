@@ -5,5 +5,7 @@
   "bairro": "Peró",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.8707529,
+  "lon": -42.0228593
 }

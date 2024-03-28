@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Afonso",
   "uf": "MT",
-  "ibge": "5107263"
+  "ibge": "5107263",
+  "lat": -14.4950612,
+  "lon": -57.0001417
 }

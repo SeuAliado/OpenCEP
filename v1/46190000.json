@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paramirim",
   "uf": "BA",
-  "ibge": "2923605"
+  "ibge": "2923605",
+  "lat": -13.5185907,
+  "lon": -42.2756861
 }

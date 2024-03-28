@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Céu Azul",
   "uf": "PR",
-  "ibge": "4105300"
+  "ibge": "4105300",
+  "lat": -25.4185893,
+  "lon": -49.1714339
 }

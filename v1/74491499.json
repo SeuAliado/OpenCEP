@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardins do Cerrado 4",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6670424,
+  "lon": -49.4275923
 }

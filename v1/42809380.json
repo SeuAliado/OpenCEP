@@ -5,5 +5,7 @@
   "bairro": "Parque Florestal",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "lat": -12.7157252,
+  "lon": -38.3189578
 }

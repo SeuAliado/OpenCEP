@@ -5,5 +5,7 @@
   "bairro": "Chorão",
   "localidade": "Ijuí",
   "uf": "RS",
-  "ibge": "4310207"
+  "ibge": "4310207",
+  "lat": -28.296493,
+  "lon": -53.891825
 }

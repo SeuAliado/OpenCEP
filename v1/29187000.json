@@ -5,5 +5,7 @@
   "bairro": "Praia Grande",
   "localidade": "Fundão",
   "uf": "ES",
-  "ibge": "3202207"
+  "ibge": "3202207",
+  "lat": -20.0390817,
+  "lon": -40.1874918
 }

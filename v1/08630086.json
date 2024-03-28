@@ -5,5 +5,7 @@
   "bairro": "Chácaras São Judas Tadeu",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6595851,
+  "lon": -46.3203423
 }

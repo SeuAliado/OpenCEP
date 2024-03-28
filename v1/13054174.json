@@ -5,5 +5,7 @@
   "bairro": "Vila Aero Aeroporto",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9702507,
+  "lon": -47.1229639
 }

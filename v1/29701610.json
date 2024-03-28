@@ -5,5 +5,7 @@
   "bairro": "Moacyr Brotas",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.544802,
+  "lon": -40.6301461
 }

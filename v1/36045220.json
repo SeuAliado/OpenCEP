@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7410644,
+  "lon": -43.3566959
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora das Graças",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6327899,
+  "lon": -46.9417148
 }

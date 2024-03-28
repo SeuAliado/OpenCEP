@@ -5,5 +5,7 @@
   "bairro": "Jardim Valquiria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6538243,
+  "lon": -46.7795763
 }

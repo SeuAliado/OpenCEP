@@ -5,5 +5,7 @@
   "bairro": "Vila Alexandria",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1328967,
+  "lon": -48.9571934
 }

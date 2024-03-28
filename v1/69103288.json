@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1278438,
+  "lon": -58.4327644
 }

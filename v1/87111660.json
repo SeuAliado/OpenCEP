@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4532528,
+  "lon": -51.8543845
 }

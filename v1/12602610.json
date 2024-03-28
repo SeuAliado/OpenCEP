@@ -5,5 +5,7 @@
   "bairro": "Nova Lorena",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "lat": -22.7292387,
+  "lon": -45.1223032
 }

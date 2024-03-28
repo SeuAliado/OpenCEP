@@ -5,5 +5,7 @@
   "bairro": "Cristalina",
   "localidade": "Caarapó",
   "uf": "MS",
-  "ibge": "5002407"
+  "ibge": "5002407",
+  "lat": -22.6277523,
+  "lon": -54.8300513
 }

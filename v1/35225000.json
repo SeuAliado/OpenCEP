@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rita do Itueto",
   "uf": "MG",
-  "ibge": "3159506"
+  "ibge": "3159506",
+  "lat": -19.3937878,
+  "lon": -41.401196
 }

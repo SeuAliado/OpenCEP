@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Perdões",
   "uf": "MG",
-  "ibge": "3149903"
+  "ibge": "3149903",
+  "lat": -21.0961105,
+  "lon": -45.085652
 }

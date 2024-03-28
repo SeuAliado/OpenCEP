@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Patrício",
   "uf": "GO",
-  "ibge": "5220280"
+  "ibge": "5220280",
+  "lat": -15.3434801,
+  "lon": -49.8331886
 }

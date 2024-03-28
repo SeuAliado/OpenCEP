@@ -5,5 +5,7 @@
   "bairro": "Vila São Domingos",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5087643,
+  "lon": -47.141397
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Castelo Branco",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0285613,
+  "lon": -47.8702749
 }

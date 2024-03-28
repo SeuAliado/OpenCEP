@@ -5,5 +5,7 @@
   "bairro": "Colinas Park II",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.3040991,
+  "lon": -50.3787323
 }

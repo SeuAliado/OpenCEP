@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5251681,
+  "lon": -47.4955522
 }

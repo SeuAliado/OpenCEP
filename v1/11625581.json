@@ -5,5 +5,7 @@
   "bairro": "Juréia",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7562638,
+  "lon": -45.7924423
 }

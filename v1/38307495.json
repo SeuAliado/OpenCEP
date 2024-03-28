@@ -5,5 +5,7 @@
   "bairro": "Guimarães",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9835567,
+  "lon": -49.4842261
 }

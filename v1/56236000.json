@@ -5,5 +5,7 @@
   "bairro": "Viração",
   "localidade": "Exu",
   "uf": "PE",
-  "ibge": "2605301"
+  "ibge": "2605301",
+  "lat": -7.5111343,
+  "lon": -39.7238969
 }

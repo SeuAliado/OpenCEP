@@ -5,5 +5,7 @@
   "bairro": "Americana",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "lat": -29.9908048,
+  "lon": -51.0672043
 }

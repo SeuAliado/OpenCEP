@@ -5,5 +5,7 @@
   "bairro": "Cordeiro",
   "localidade": "Cristal",
   "uf": "RS",
-  "ibge": "4306056"
+  "ibge": "4306056",
+  "lat": -30.924353,
+  "lon": -51.978973
 }

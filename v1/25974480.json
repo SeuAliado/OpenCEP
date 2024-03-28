@@ -5,5 +5,7 @@
   "bairro": "Jardim Salaco",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.3728379,
+  "lon": -42.9717121
 }

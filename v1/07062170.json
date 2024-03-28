@@ -5,5 +5,7 @@
   "bairro": "Jardim Artidoro",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4566995,
+  "lon": -46.555411
 }

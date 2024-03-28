@@ -5,5 +5,7 @@
   "bairro": "Conjunto Brasil Novo",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1283004,
+  "lon": -48.9330278
 }

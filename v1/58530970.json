@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Camalaú",
   "uf": "PB",
-  "ibge": "2503902"
+  "ibge": "2503902",
+  "lat": -7.8880685,
+  "lon": -36.8227729
 }

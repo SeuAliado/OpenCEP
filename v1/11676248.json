@@ -5,5 +5,7 @@
   "bairro": "Recanto Som do Mar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6081604,
+  "lon": -45.3501563
 }

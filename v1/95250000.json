@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antônio Prado",
   "uf": "RS",
-  "ibge": "4300802"
+  "ibge": "4300802",
+  "lat": -28.8570464,
+  "lon": -51.2821314
 }

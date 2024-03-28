@@ -5,5 +5,7 @@
   "bairro": "Barroso",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4460443,
+  "lon": -42.9755623
 }

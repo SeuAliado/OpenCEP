@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacinto",
   "uf": "MG",
-  "ibge": "3134707"
+  "ibge": "3134707",
+  "lat": -16.1432227,
+  "lon": -40.2953641
 }

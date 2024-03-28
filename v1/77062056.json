@@ -5,5 +5,7 @@
   "bairro": "Jardim Aureny III",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.2559874,
+  "lon": -48.3188617
 }

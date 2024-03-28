@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.5405618,
+  "lon": -39.7576534
 }

@@ -5,5 +5,7 @@
   "bairro": "Barra do Aririú",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

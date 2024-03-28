@@ -5,5 +5,7 @@
   "bairro": "Rio da Luz",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "lat": -26.5376148,
+  "lon": -49.1491239
 }

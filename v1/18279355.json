@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Adelia",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3379598,
+  "lon": -47.8519404
 }

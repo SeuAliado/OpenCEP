@@ -5,5 +5,7 @@
   "bairro": "Vidigal",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9937113,
+  "lon": -43.2376788
 }

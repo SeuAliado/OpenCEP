@@ -5,5 +5,7 @@
   "bairro": "Residencial Tapajós",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.0835258,
+  "lon": -51.3794313
 }

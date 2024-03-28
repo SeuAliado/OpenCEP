@@ -5,5 +5,7 @@
   "bairro": "Chácara Alegria",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4761505,
+  "lon": -54.5821289
 }

@@ -5,5 +5,7 @@
   "bairro": "Água Viva",
   "localidade": "Estrela Dalva",
   "uf": "MG",
-  "ibge": "3124609"
+  "ibge": "3124609",
+  "lat": -21.6820498,
+  "lon": -42.5405447
 }

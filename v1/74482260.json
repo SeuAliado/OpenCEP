@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio dos Bandeirantes",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6043305,
+  "lon": -49.3860483
 }

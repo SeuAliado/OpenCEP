@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "José da Penha",
   "uf": "RN",
-  "ibge": "2406007"
+  "ibge": "2406007",
+  "lat": -6.3483229,
+  "lon": -38.29549
 }

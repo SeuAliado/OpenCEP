@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Balduíno",
   "localidade": "Monte Aprazível",
   "uf": "SP",
-  "ibge": "3531407"
+  "ibge": "3531407",
+  "lat": -23.8973816,
+  "lon": -46.4256847
 }

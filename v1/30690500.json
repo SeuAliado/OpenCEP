@@ -5,5 +5,7 @@
   "bairro": "Lindéia (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.973408,
+  "lon": -44.0504896
 }

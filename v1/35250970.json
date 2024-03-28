@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Galiléia",
   "uf": "MG",
-  "ibge": "3127305"
+  "ibge": "3127305",
+  "lat": -19.0046926,
+  "lon": -41.5399824
 }

@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9045381,
+  "lon": -43.9477619
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Vista",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8832624,
+  "lon": -43.9043271
 }

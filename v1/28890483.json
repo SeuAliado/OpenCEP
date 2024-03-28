@@ -5,5 +5,7 @@
   "bairro": "Recanto",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5289875,
+  "lon": -41.9636732
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Marchesi",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.2042437,
+  "lon": -47.8469267
 }

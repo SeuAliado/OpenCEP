@@ -5,5 +5,7 @@
   "bairro": "Chácara Recreio Alvorada",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8405227,
+  "lon": -47.2318009
 }

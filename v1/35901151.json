@@ -5,5 +5,7 @@
   "bairro": "Abóboras",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6524109,
+  "lon": -43.2441622
 }

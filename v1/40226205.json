@@ -5,5 +5,7 @@
   "bairro": "Alto das Pombas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9998509,
+  "lon": -38.5132655
 }

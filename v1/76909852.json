@@ -5,5 +5,7 @@
   "bairro": "Habitar Brasil",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "lat": -10.8851325,
+  "lon": -61.920883
 }

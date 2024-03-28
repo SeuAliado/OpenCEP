@@ -5,5 +5,7 @@
   "bairro": "Victória I",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6581604,
+  "lon": -52.2755866
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro do Sul",
   "uf": "RS",
-  "ibge": "4319406"
+  "ibge": "4319406",
+  "lat": -29.6267316,
+  "lon": -54.1831
 }

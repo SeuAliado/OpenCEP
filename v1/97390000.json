@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lavras do Sul",
   "uf": "RS",
-  "ibge": "4311502"
+  "ibge": "4311502",
+  "lat": -30.8107825,
+  "lon": -53.8995784
 }

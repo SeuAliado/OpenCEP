@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Mary Dota",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2930769,
+  "lon": -49.0417478
 }

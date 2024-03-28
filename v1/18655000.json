@@ -5,5 +5,7 @@
   "bairro": "Aparecida de São Manuel",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "lat": -22.7353345,
+  "lon": -48.6142426
 }

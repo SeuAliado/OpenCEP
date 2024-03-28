@@ -5,5 +5,7 @@
   "bairro": "Vila Betânia",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4153025,
+  "lon": -45.9517693
 }

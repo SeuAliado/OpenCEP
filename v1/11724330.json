@@ -5,5 +5,7 @@
   "bairro": "Sítio do Campo",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -23.9998607,
+  "lon": -46.4308055
 }

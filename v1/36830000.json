@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Espera Feliz",
   "uf": "MG",
-  "ibge": "3124203"
+  "ibge": "3124203",
+  "lat": -20.652053,
+  "lon": -41.9091561
 }

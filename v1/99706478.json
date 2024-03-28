@@ -5,5 +5,7 @@
   "bairro": "Estevam Carraro",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6519827,
+  "lon": -52.2540641
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canguaretama",
   "uf": "RN",
-  "ibge": "2402204"
+  "ibge": "2402204",
+  "lat": -6.3810573,
+  "lon": -35.1301043
 }

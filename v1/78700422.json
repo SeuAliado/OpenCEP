@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4705117,
+  "lon": -54.6264561
 }

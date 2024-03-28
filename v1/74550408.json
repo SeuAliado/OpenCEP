@@ -5,5 +5,7 @@
   "bairro": "Vila Abajá",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6647993,
+  "lon": -49.2929848
 }

@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5077913,
+  "lon": -48.5328892
 }

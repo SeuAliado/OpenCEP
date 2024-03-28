@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Campos Sales",
   "uf": "CE",
-  "ibge": "2302701"
+  "ibge": "2302701",
+  "lat": -3.7308238,
+  "lon": -38.5449887
 }

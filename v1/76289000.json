@@ -5,5 +5,7 @@
   "bairro": "Novo Goiás",
   "localidade": "Novo Brasil",
   "uf": "GO",
-  "ibge": "5215207"
+  "ibge": "5215207",
+  "lat": -16.0313091,
+  "lon": -50.7150458
 }

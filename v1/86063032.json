@@ -5,5 +5,7 @@
   "bairro": "Jardim Tókio",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3163332,
+  "lon": -51.1931414
 }

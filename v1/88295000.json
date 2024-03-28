@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Botuverá",
   "uf": "SC",
-  "ibge": "4202701"
+  "ibge": "4202701",
+  "lat": -27.2249516,
+  "lon": -49.1571295
 }

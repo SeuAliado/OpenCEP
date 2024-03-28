@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Andaraí",
   "uf": "BA",
-  "ibge": "2901304"
+  "ibge": "2901304",
+  "lat": -12.8053595,
+  "lon": -41.3300345
 }

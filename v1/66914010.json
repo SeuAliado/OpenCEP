@@ -5,5 +5,7 @@
   "bairro": "Praia Grande (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.152518,
+  "lon": -48.4689357
 }

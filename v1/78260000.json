@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araputanga",
   "uf": "MT",
-  "ibge": "5101258"
+  "ibge": "5101258",
+  "lat": -15.4706525,
+  "lon": -58.3457056
 }

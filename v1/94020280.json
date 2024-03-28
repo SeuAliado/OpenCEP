@@ -5,5 +5,7 @@
   "bairro": "Salgado Filho",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9352082,
+  "lon": -51.0079605
 }

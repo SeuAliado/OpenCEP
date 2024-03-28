@@ -5,5 +5,7 @@
   "bairro": "Vila Humaitá",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6772185,
+  "lon": -46.5018384
 }

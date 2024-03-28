@@ -5,5 +5,7 @@
   "bairro": "Vila Antonina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5533699,
+  "lon": -46.5502371
 }

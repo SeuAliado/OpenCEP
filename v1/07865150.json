@@ -5,5 +5,7 @@
   "bairro": "Vila dos Comerciários",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3052141,
+  "lon": -46.718996
 }

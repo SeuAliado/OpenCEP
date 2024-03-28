@@ -5,5 +5,7 @@
   "bairro": "Sevilha (1ª Seção)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7507975,
+  "lon": -44.0732685
 }

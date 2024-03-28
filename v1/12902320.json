@@ -5,5 +5,7 @@
   "bairro": "Jardim Estancia Santana",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9644113,
+  "lon": -46.5481792
 }

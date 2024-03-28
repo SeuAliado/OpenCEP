@@ -5,5 +5,7 @@
   "bairro": "Copacabana",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.833383,
+  "lon": -43.9880257
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cacimba de Dentro",
   "uf": "PB",
-  "ibge": "2503506"
+  "ibge": "2503506",
+  "lat": -6.5818422,
+  "lon": -35.8464843
 }

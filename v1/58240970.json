@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tacima",
   "uf": "PB",
-  "ibge": "2516409"
+  "ibge": "2516409",
+  "lat": -6.4879245,
+  "lon": -35.6377652
 }

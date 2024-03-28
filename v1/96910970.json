@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Segredo",
   "uf": "RS",
-  "ibge": "4320263"
+  "ibge": "4320263",
+  "lat": -29.3417116,
+  "lon": -52.9783791
 }

@@ -5,5 +5,7 @@
   "bairro": "Horto Florestal",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -22.7452258,
+  "lon": -47.3813382
 }

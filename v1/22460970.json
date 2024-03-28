@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9658746,
+  "lon": -43.2191664
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Araguaia",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -15.6311222,
+  "lon": -47.6626668
 }

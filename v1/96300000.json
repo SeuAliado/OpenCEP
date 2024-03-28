@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguarão",
   "uf": "RS",
-  "ibge": "4311007"
+  "ibge": "4311007",
+  "lat": -32.5608765,
+  "lon": -53.3775707
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bandeirantes",
   "uf": "PR",
-  "ibge": "4102406"
+  "ibge": "4102406",
+  "lat": -23.1087262,
+  "lon": -50.3675124
 }

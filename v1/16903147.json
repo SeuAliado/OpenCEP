@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9058806,
+  "lon": -51.3926551
 }

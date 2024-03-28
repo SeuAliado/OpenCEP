@@ -5,5 +5,7 @@
   "bairro": "Jardim Comunitário",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6229623,
+  "lon": -46.8101643
 }

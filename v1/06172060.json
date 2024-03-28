@@ -5,5 +5,7 @@
   "bairro": "Jardim Roberto",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5485356,
+  "lon": -46.8072831
 }

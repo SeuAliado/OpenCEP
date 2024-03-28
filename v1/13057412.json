@@ -5,5 +5,7 @@
   "bairro": "Conjunto Mauro Marcondes",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9714776,
+  "lon": -47.1681594
 }

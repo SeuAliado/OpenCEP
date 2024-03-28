@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Delfinópolis",
   "uf": "MG",
-  "ibge": "3121209"
+  "ibge": "3121209",
+  "lat": -20.3463875,
+  "lon": -46.8458245
 }

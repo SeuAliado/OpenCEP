@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Olivedos",
   "uf": "PB",
-  "ibge": "2510501"
+  "ibge": "2510501",
+  "lat": -6.9853365,
+  "lon": -36.241388
 }

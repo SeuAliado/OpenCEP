@@ -5,5 +5,7 @@
   "bairro": "Jardim Quarto Centenário",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6804029,
+  "lon": -46.4174842
 }

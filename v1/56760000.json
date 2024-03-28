@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tuparetama",
   "uf": "PE",
-  "ibge": "2615904"
+  "ibge": "2615904",
+  "lat": -7.6027643,
+  "lon": -37.3117068
 }

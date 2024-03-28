@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cambuquira",
   "uf": "MG",
-  "ibge": "3110707"
+  "ibge": "3110707",
+  "lat": -21.852137,
+  "lon": -45.2942613
 }

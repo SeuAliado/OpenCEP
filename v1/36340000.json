@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Resende Costa",
   "uf": "MG",
-  "ibge": "3154200"
+  "ibge": "3154200",
+  "lat": -20.9233351,
+  "lon": -44.2378882
 }

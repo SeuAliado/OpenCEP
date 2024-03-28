@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capivari de Baixo",
   "uf": "SC",
-  "ibge": "4203956"
+  "ibge": "4203956",
+  "lat": -28.4412408,
+  "lon": -48.9505159
 }

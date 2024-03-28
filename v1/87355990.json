@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juranda",
   "uf": "PR",
-  "ibge": "4112959"
+  "ibge": "4112959",
+  "lat": -24.4289948,
+  "lon": -52.8429994
 }

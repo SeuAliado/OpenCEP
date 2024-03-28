@@ -5,5 +5,7 @@
   "bairro": "Guajiru",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8317868,
+  "lon": -38.4929503
 }

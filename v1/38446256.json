@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6775275,
+  "lon": -48.1719994
 }

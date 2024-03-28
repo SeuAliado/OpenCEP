@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.3618823,
+  "lon": -49.1614551
 }

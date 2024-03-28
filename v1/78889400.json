@@ -5,5 +5,7 @@
   "bairro": "Parque Água Limpa",
   "localidade": "Nova Ubiratã",
   "uf": "MT",
-  "ibge": "5106240"
+  "ibge": "5106240",
+  "lat": -13.4088047,
+  "lon": -54.8398263
 }

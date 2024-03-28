@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8673514,
+  "lon": -51.7204575
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "lat": -29.6148016,
+  "lon": -52.1936768
 }

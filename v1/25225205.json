@@ -5,5 +5,7 @@
   "bairro": "Jardim Piratininga",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7026998,
+  "lon": -43.2622675
 }

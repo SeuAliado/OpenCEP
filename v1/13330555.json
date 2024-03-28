@@ -5,5 +5,7 @@
   "bairro": "Parque São Tomaz de Aquino",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0823066,
+  "lon": -47.2086406
 }

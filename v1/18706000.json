@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Izabel",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0822752,
+  "lon": -48.9284329
 }

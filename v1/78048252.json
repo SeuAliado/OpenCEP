@@ -5,5 +5,7 @@
   "bairro": "Residencial Paiaguás",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5604667,
+  "lon": -56.0829445
 }

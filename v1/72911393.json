@@ -5,5 +5,7 @@
   "bairro": "Jardim das Laranjeiras I",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.751214,
+  "lon": -48.2977656
 }

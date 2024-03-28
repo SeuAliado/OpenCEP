@@ -5,5 +5,7 @@
   "bairro": "Campos Elíseos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5371284,
+  "lon": -46.6467053
 }

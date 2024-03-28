@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3166766,
+  "lon": -48.9601626
 }

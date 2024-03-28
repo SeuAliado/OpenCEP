@@ -5,5 +5,7 @@
   "bairro": "Poço de Santana",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -8.018109,
+  "lon": -34.924195
 }

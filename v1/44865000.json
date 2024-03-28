@@ -5,5 +5,7 @@
   "bairro": "Duas Barras do Morro",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "lat": -11.5492393,
+  "lon": -41.1568342
 }

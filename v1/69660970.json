@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jutaí",
   "uf": "AM",
-  "ibge": "1302306"
+  "ibge": "1302306",
+  "lat": -6.6702041,
+  "lon": -69.8601143
 }

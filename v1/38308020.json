@@ -5,5 +5,7 @@
   "bairro": "Satélite Andradina",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9595858,
+  "lon": -49.453579
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piracanjuba",
   "uf": "GO",
-  "ibge": "5217104"
+  "ibge": "5217104",
+  "lat": -17.3050562,
+  "lon": -49.0205285
 }

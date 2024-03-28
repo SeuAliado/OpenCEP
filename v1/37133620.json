@@ -5,5 +5,7 @@
   "bairro": "Jardim da Colina",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4364655,
+  "lon": -45.9589081
 }

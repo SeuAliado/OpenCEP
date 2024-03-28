@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9868168,
+  "lon": -46.2686439
 }

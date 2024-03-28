@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.1106487,
+  "lon": -42.7815072
 }

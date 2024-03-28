@@ -5,5 +5,7 @@
   "bairro": "Vila Angélica",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1096846,
+  "lon": -42.8471648
 }

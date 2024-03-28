@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2725105,
+  "lon": -50.5312445
 }

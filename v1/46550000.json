@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio do Pires",
   "uf": "BA",
-  "ibge": "2926905"
+  "ibge": "2926905",
+  "lat": -13.1844084,
+  "lon": -42.1177396
 }

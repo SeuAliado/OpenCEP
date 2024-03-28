@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Antonio Caparroz Bogaz",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2488184,
+  "lon": -50.5566333
 }

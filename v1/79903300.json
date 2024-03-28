@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5195722,
+  "lon": -55.7093021
 }

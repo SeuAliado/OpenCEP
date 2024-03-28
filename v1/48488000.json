@@ -5,5 +5,7 @@
   "bairro": "Mimoso",
   "localidade": "Sátiro Dias",
   "uf": "BA",
-  "ibge": "2929701"
+  "ibge": "2929701",
+  "lat": -11.661406,
+  "lon": -38.4974497
 }

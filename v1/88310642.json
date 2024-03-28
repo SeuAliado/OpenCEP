@@ -5,5 +5,7 @@
   "bairro": "Cordeiros",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -26.8896132,
+  "lon": -48.7021479
 }

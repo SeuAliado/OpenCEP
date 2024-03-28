@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "União da Serra",
   "uf": "RS",
-  "ibge": "4322350"
+  "ibge": "4322350",
+  "lat": -28.7547189,
+  "lon": -52.0152359
 }

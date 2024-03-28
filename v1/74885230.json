@@ -5,5 +5,7 @@
   "bairro": "Jardim Mariliza",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7374282,
+  "lon": -49.2043641
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nenê Gomes",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7223665,
+  "lon": -47.9367724
 }

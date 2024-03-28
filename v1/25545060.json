@@ -5,5 +5,7 @@
   "bairro": "Vila Zulmira",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.790016,
+  "lon": -43.3968981
 }

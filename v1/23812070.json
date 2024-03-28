@@ -5,5 +5,7 @@
   "bairro": "Estrela do Céu",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.856024,
+  "lon": -43.7731137
 }

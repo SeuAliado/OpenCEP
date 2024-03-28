@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1425546,
+  "lon": -46.5563028
 }

@@ -5,5 +5,7 @@
   "bairro": "Lagoa Nova",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.8281586,
+  "lon": -35.2071328
 }

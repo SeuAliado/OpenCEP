@@ -5,5 +5,7 @@
   "bairro": "Esplanada do Anicuns",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6645224,
+  "lon": -49.3097273
 }

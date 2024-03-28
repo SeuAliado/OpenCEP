@@ -5,5 +5,7 @@
   "bairro": "Caldeirão",
   "localidade": "Uauá",
   "uf": "BA",
-  "ibge": "2932002"
+  "ibge": "2932002",
+  "lat": -10.0535447,
+  "lon": -39.6093611
 }

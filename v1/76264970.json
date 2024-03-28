@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Diorama",
   "uf": "GO",
-  "ibge": "5207105"
+  "ibge": "5207105",
+  "lat": -16.2351707,
+  "lon": -51.2555548
 }

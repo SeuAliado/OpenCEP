@@ -5,5 +5,7 @@
   "bairro": "Cidade Dutra",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7149896,
+  "lon": -46.706001
 }

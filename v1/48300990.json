@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conde",
   "uf": "BA",
-  "ibge": "2908606"
+  "ibge": "2908606",
+  "lat": -11.8529811,
+  "lon": -37.5660943
 }

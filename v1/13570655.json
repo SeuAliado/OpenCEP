@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Silvio Vilari",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0298051,
+  "lon": -47.8915064
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Rússia",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "lat": -25.0868617,
+  "lon": -50.1915749
 }

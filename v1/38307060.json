@@ -5,5 +5,7 @@
   "bairro": "Platina",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9790958,
+  "lon": -49.4746333
 }

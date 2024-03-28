@@ -5,5 +5,7 @@
   "bairro": "Vila Angélica",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3285112,
+  "lon": -47.8641781
 }

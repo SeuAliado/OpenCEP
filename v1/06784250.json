@@ -5,5 +5,7 @@
   "bairro": "Sítio das Madres",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6355539,
+  "lon": -46.8007499
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "lat": -8.0898475,
+  "lon": -36.5661908
 }

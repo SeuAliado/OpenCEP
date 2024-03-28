@@ -5,5 +5,7 @@
   "bairro": "Sambaíba Nova",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.774848,
+  "lon": -43.0077681
 }

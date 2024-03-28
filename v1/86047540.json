@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Vivendas do Arvoredo",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3508856,
+  "lon": -51.1683452
 }

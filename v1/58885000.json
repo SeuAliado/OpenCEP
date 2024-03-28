@@ -5,5 +5,7 @@
   "bairro": "Coronel Maia",
   "localidade": "Catolé do Rocha",
   "uf": "PB",
-  "ibge": "2504306"
+  "ibge": "2504306",
+  "lat": -6.3419587,
+  "lon": -37.7477451
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Zaniboni II",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3396556,
+  "lon": -46.9299101
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Jardim do Mirante",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8635881,
+  "lon": -48.4544357
 }

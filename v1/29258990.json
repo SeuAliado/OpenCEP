@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marechal Floriano",
   "uf": "ES",
-  "ibge": "3203346"
+  "ibge": "3203346",
+  "lat": -20.4934671,
+  "lon": -40.7718814
 }

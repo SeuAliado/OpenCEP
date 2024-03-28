@@ -5,5 +5,7 @@
   "bairro": "Vila Primavera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4879774,
+  "lon": -46.694533
 }

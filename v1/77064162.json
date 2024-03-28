@@ -5,5 +5,7 @@
   "bairro": "Setor Santa Fé 2 (Taquaralto)",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.3260748,
+  "lon": -48.2863005
 }

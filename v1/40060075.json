@@ -5,5 +5,7 @@
   "bairro": "Dois de Julho",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.984029,
+  "lon": -38.5208678
 }

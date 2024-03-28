@@ -5,5 +5,7 @@
   "bairro": "Jardim Igaçaba",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3554989,
+  "lon": -46.9605432
 }

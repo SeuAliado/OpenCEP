@@ -5,5 +5,7 @@
   "bairro": "Bosque Residencial do Jambreiro",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9952907,
+  "lon": -43.9036
 }

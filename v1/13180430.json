@@ -5,5 +5,7 @@
   "bairro": "Parque General Osório (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8439566,
+  "lon": -47.1621613
 }

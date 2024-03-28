@@ -5,5 +5,7 @@
   "bairro": "Vila Lourdes",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9612225,
+  "lon": -47.0915101
 }

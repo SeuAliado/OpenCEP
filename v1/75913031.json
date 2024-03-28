@@ -5,5 +5,7 @@
   "bairro": "Vila Miafiori",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.8152746,
+  "lon": -50.9460029
 }

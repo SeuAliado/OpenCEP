@@ -5,5 +5,7 @@
   "bairro": "Pitangueiras",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.8236561,
+  "lon": -45.4220047
 }

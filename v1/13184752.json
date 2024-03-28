@@ -5,5 +5,7 @@
   "bairro": "Jardim São Camilo",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8655831,
+  "lon": -47.1932754
 }

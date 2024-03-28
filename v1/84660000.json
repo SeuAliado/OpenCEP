@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "General Carneiro",
   "uf": "PR",
-  "ibge": "4108502"
+  "ibge": "4108502",
+  "lat": -26.4254626,
+  "lon": -51.3177199
 }

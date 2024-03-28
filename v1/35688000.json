@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha de Minas",
   "localidade": "Itatiaiuçu",
   "uf": "MG",
-  "ibge": "3133709"
+  "ibge": "3133709",
+  "lat": -20.2253745,
+  "lon": -44.3976006
 }

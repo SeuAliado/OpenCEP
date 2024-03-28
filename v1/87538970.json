@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Perobal",
   "uf": "PR",
-  "ibge": "4118857"
+  "ibge": "4118857",
+  "lat": -23.8953336,
+  "lon": -53.4103396
 }

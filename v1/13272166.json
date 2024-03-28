@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Mirante do Lenheiro",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9571782,
+  "lon": -47.0129961
 }

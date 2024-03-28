@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa Dourada",
   "uf": "MG",
-  "ibge": "3137403"
+  "ibge": "3137403",
+  "lat": -20.8894314,
+  "lon": -44.0579882
 }

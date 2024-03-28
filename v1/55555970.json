@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Xexéu",
   "uf": "PE",
-  "ibge": "2616506"
+  "ibge": "2616506",
+  "lat": -8.80591,
+  "lon": -35.6264168
 }

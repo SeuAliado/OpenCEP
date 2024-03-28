@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4117252,
+  "lon": -47.4209336
 }

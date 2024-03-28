@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rosa",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.9733358,
+  "lon": -48.8754122
 }

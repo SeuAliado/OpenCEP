@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mucajaí",
   "uf": "RR",
-  "ibge": "1400308"
+  "ibge": "1400308",
+  "lat": 2.4470316,
+  "lon": -60.9189461
 }

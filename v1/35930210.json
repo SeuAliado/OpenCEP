@@ -5,5 +5,7 @@
   "bairro": "José Elói",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8017375,
+  "lon": -43.1697784
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camutanga",
   "uf": "PE",
-  "ibge": "2603603"
+  "ibge": "2603603",
+  "lat": -7.4086997,
+  "lon": -35.2748844
 }

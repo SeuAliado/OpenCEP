@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2312564,
+  "lon": -54.8241134
 }

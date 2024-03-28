@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Olivas",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4730653,
+  "lon": -46.403019
 }

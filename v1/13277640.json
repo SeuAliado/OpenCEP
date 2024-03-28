@@ -5,5 +5,7 @@
   "bairro": "Jardim Lorena",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9931048,
+  "lon": -46.9926527
 }

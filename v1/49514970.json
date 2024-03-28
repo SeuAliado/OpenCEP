@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Frei Paulo",
   "uf": "SE",
-  "ibge": "2802304"
+  "ibge": "2802304",
+  "lat": -10.5517743,
+  "lon": -37.5301153
 }

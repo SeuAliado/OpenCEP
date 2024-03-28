@@ -5,5 +5,7 @@
   "bairro": "Amazonas",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5727125,
+  "lon": -46.9555484
 }

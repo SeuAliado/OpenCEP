@@ -5,5 +5,7 @@
   "bairro": "Parque Taquaral",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8642526,
+  "lon": -47.0653836
 }

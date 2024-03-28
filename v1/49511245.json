@@ -5,5 +5,7 @@
   "bairro": "Queimadas",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "lat": -10.676569,
+  "lon": -37.4319377
 }

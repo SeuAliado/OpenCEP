@@ -5,5 +5,7 @@
   "bairro": "Quidé",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4254587,
+  "lon": -40.5213719
 }

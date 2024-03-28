@@ -5,5 +5,7 @@
   "bairro": "Vila Orozimbo Maia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9220818,
+  "lon": -47.0306162
 }

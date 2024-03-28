@@ -5,5 +5,7 @@
   "bairro": "Residencial Professora Marieta",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2552202,
+  "lon": -51.1635449
 }

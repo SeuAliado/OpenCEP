@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Mena",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4467643,
+  "lon": -46.5386492
 }

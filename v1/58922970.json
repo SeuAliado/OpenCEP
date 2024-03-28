@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bernardino Batista",
   "uf": "PB",
-  "ibge": "2502052"
+  "ibge": "2502052",
+  "lat": -6.4718445,
+  "lon": -38.5585415
 }

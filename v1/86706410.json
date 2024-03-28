@@ -5,5 +5,7 @@
   "bairro": "Conjunto Padre Bernardo Merckel",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4490706,
+  "lon": -51.4272483
 }

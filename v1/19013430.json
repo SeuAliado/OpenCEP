@@ -5,5 +5,7 @@
   "bairro": "Vila Aristarcho",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1385895,
+  "lon": -51.3890932
 }

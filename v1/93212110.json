@@ -5,5 +5,7 @@
   "bairro": "Colonial",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8148722,
+  "lon": -51.1721257
 }

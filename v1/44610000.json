@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pintadas",
   "uf": "BA",
-  "ibge": "2924652"
+  "ibge": "2924652",
+  "lat": -11.8127723,
+  "lon": -39.9078934
 }

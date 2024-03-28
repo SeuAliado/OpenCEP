@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Horizonte",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4614367,
+  "lon": -47.491458
 }

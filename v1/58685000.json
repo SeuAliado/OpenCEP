@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Assunção",
   "uf": "PB",
-  "ibge": "2501351"
+  "ibge": "2501351",
+  "lat": -7.0748836,
+  "lon": -36.7301875
 }

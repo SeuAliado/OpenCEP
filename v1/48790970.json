@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tucano",
   "uf": "BA",
-  "ibge": "2931905"
+  "ibge": "2931905",
+  "lat": -10.9699712,
+  "lon": -38.789509
 }

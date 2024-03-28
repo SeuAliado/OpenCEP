@@ -5,5 +5,7 @@
   "bairro": "Jardim da Mamãe",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4363728,
+  "lon": -46.5233053
 }

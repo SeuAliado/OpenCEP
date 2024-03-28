@@ -5,5 +5,7 @@
   "bairro": "Vila Arriete",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6809869,
+  "lon": -46.6854116
 }

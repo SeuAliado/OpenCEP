@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmeirina",
   "uf": "PE",
-  "ibge": "2610103"
+  "ibge": "2610103",
+  "lat": -9.002759,
+  "lon": -36.327056
 }

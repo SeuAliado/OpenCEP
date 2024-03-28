@@ -5,5 +5,7 @@
   "bairro": "Imperial",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7649608,
+  "lon": -43.8227177
 }

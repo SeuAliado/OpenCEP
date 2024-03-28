@@ -5,5 +5,7 @@
   "bairro": "Recife",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4849866,
+  "lon": -48.9943342
 }

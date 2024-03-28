@@ -5,5 +5,7 @@
   "bairro": "Cachoeira Alegre",
   "localidade": "Barão de Monte Alto",
   "uf": "MG",
-  "ibge": "3105509"
+  "ibge": "3105509",
+  "lat": -21.25,
+  "lon": -42.3
 }

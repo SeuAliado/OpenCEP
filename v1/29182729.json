@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Nova Almeida",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.0500388,
+  "lon": -40.2212273
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Recreio",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9356388,
+  "lon": -46.5300373
 }

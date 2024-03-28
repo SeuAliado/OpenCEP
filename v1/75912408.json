@@ -5,5 +5,7 @@
   "bairro": "Jardim Floresta",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.8371895,
+  "lon": -50.9637501
 }

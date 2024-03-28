@@ -5,5 +5,7 @@
   "bairro": "Sonho Azul",
   "localidade": "Mirassol D'Oeste",
   "uf": "MT",
-  "ibge": "5105622"
+  "ibge": "5105622",
+  "lat": -15.7706825,
+  "lon": -58.12289
 }

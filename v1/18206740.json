@@ -5,5 +5,7 @@
   "bairro": "Vila São Gonçalo",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.6284909,
+  "lon": -48.0435556
 }

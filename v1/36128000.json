@@ -5,5 +5,7 @@
   "bairro": "Porto das Flores",
   "localidade": "Belmiro Braga",
   "uf": "MG",
-  "ibge": "3106101"
+  "ibge": "3106101",
+  "lat": -22.0325544,
+  "lon": -43.4853674
 }

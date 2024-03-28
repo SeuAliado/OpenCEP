@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mulungu",
   "uf": "PB",
-  "ibge": "2509800"
+  "ibge": "2509800",
+  "lat": -7.0301513,
+  "lon": -35.4634585
 }

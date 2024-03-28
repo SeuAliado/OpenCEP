@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.33804,
+  "lon": -40.3510292
 }

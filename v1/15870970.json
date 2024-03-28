@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catiguá",
   "uf": "SP",
-  "ibge": "3511201"
+  "ibge": "3511201",
+  "lat": -21.0505639,
+  "lon": -49.0586613
 }

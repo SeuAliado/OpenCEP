@@ -5,5 +5,7 @@
   "bairro": "Serra Dourada",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7342758,
+  "lon": -47.965075
 }

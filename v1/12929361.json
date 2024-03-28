@@ -5,5 +5,7 @@
   "bairro": "Jardim Paturi",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.934723,
+  "lon": -46.5204397
 }

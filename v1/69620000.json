@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amaturá",
   "uf": "AM",
-  "ibge": "1300060"
+  "ibge": "1300060",
+  "lat": -3.3749094,
+  "lon": -68.2010001
 }

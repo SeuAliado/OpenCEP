@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "lat": -23.2823424,
+  "lon": -47.6655286
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piaçabuçu",
   "uf": "AL",
-  "ibge": "2706802"
+  "ibge": "2706802",
+  "lat": -10.3995066,
+  "lon": -36.4167194
 }

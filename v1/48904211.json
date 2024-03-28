@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.426443,
+  "lon": -40.5247927
 }

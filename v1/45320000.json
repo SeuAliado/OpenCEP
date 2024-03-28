@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Inês",
   "uf": "BA",
-  "ibge": "2927903"
+  "ibge": "2927903",
+  "lat": -13.2732707,
+  "lon": -39.8373336
 }

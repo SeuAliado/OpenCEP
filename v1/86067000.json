@@ -5,5 +5,7 @@
   "bairro": "Jardim Jóquei Club",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2981868,
+  "lon": -51.2113157
 }

@@ -5,5 +5,7 @@
   "bairro": "Morin",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.5234525,
+  "lon": -43.1603803
 }

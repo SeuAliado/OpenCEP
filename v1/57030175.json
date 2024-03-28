@@ -5,5 +5,7 @@
   "bairro": "Pajuçara",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6705894,
+  "lon": -35.7154725
 }

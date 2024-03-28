@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco do Oeste",
   "uf": "RN",
-  "ibge": "2411908"
+  "ibge": "2411908",
+  "lat": -5.9992976,
+  "lon": -38.170792
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Cristóvão",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3386503,
+  "lon": -47.8549096
 }

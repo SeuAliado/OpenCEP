@@ -5,5 +5,7 @@
   "bairro": "Morada dos Pássaros",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4983476,
+  "lon": -46.9572603
 }

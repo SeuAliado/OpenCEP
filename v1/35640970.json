@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pompéu",
   "uf": "MG",
-  "ibge": "3152006"
+  "ibge": "3152006",
+  "lat": -19.2176293,
+  "lon": -45.0019437
 }

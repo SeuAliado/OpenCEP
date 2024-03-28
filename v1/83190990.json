@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tijucas do Sul",
   "uf": "PR",
-  "ibge": "4127601"
+  "ibge": "4127601",
+  "lat": -25.9342269,
+  "lon": -49.1873007
 }

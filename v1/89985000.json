@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palma Sola",
   "uf": "SC",
-  "ibge": "4212007"
+  "ibge": "4212007",
+  "lat": -26.3893395,
+  "lon": -53.3258513
 }

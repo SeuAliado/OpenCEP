@@ -5,5 +5,7 @@
   "bairro": "Sítio Nova Esperança",
   "localidade": "Açu",
   "uf": "RN",
-  "ibge": "2400208"
+  "ibge": "2400208",
+  "lat": -5.5688769,
+  "lon": -36.9222549
 }

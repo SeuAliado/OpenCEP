@@ -5,5 +5,7 @@
   "bairro": "Parque das Amoras",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8629586,
+  "lon": -49.317513
 }

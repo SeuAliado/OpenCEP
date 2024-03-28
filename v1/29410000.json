@@ -5,5 +5,7 @@
   "bairro": "Conceição do Muqui",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "lat": -21.035749,
+  "lon": -41.4189858
 }

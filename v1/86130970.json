@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bela Vista do Paraíso",
   "uf": "PR",
-  "ibge": "4102802"
+  "ibge": "4102802",
+  "lat": -23.0002862,
+  "lon": -51.1922789
 }

@@ -5,5 +5,7 @@
   "bairro": "Norma Gibaldi",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.41161,
+  "lon": -49.2754027
 }

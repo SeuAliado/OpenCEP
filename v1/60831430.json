@@ -5,5 +5,7 @@
   "bairro": "Lagoa Redonda",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8314756,
+  "lon": -38.4642359
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Murutinga do Sul",
   "uf": "SP",
-  "ibge": "3532108"
+  "ibge": "3532108",
+  "lat": -20.9892446,
+  "lon": -51.2792236
 }

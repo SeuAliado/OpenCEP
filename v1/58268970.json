@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sertãozinho",
   "uf": "PB",
-  "ibge": "2515930"
+  "ibge": "2515930",
+  "lat": -6.7502575,
+  "lon": -35.441719
 }

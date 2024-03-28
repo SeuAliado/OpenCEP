@@ -5,5 +5,7 @@
   "bairro": "Setor Habitacional Vicente Pires",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8215701,
+  "lon": -47.9946738
 }

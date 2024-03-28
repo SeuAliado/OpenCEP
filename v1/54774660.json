@@ -5,5 +5,7 @@
   "bairro": "Céu Azul",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.0185573,
+  "lon": -34.9774104
 }

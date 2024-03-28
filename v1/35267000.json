@@ -5,5 +5,7 @@
   "bairro": "Central de Santa Helena",
   "localidade": "Divino das Laranjeiras",
   "uf": "MG",
-  "ibge": "3122108"
+  "ibge": "3122108",
+  "lat": -18.7759713,
+  "lon": -41.47847
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Granito",
   "uf": "PE",
-  "ibge": "2606309"
+  "ibge": "2606309",
+  "lat": -7.716979,
+  "lon": -39.6146315
 }

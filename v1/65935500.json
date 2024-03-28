@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buritirana",
   "uf": "MA",
-  "ibge": "2102358"
+  "ibge": "2102358",
+  "lat": -5.5904348,
+  "lon": -47.0175872
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião da Vargem Alegre",
   "uf": "MG",
-  "ibge": "3164431"
+  "ibge": "3164431",
+  "lat": -21.0741464,
+  "lon": -42.6350769
 }

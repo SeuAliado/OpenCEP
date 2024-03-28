@@ -5,5 +5,7 @@
   "bairro": "COHAB IV",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0814959,
+  "lon": -52.1866261
 }

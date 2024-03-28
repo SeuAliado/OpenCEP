@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.3917217,
+  "lon": -40.4815049
 }

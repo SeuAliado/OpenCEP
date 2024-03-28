@@ -5,5 +5,7 @@
   "bairro": "Jardim Calegari (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8457475,
+  "lon": -47.1992998
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial São José",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.465321,
+  "lon": -54.615149
 }

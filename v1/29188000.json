@@ -5,5 +5,7 @@
   "bairro": "Timbuí",
   "localidade": "Fundão",
   "uf": "ES",
-  "ibge": "3202207"
+  "ibge": "3202207",
+  "lat": -20.0032915,
+  "lon": -40.4119742
 }

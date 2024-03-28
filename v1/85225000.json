@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Ventura de São Roque",
   "uf": "PR",
-  "ibge": "4103040"
+  "ibge": "4103040",
+  "lat": -24.8798945,
+  "lon": -51.543446
 }

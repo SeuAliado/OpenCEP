@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosa",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6303343,
+  "lon": -43.2226868
 }

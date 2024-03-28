@@ -5,5 +5,7 @@
   "bairro": "Residencial Mantiqueira",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8855475,
+  "lon": -45.3652117
 }

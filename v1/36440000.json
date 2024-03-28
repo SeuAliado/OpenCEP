@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaverava",
   "uf": "MG",
-  "ibge": "3133907"
+  "ibge": "3133907",
+  "lat": -20.6773389,
+  "lon": -43.6145183
 }

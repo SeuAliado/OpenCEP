@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Marechal Rondon",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4347769,
+  "lon": -54.6388816
 }

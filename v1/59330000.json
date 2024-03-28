@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jucurutu",
   "uf": "RN",
-  "ibge": "2406106"
+  "ibge": "2406106",
+  "lat": -6.0349454,
+  "lon": -37.0183655
 }

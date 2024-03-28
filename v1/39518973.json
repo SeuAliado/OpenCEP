@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serranópolis de Minas",
   "uf": "MG",
-  "ibge": "3166956"
+  "ibge": "3166956",
+  "lat": -15.8110604,
+  "lon": -42.8714402
 }

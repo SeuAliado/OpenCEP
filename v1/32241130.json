@@ -5,5 +5,7 @@
   "bairro": "Flamengo",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9670656,
+  "lon": -44.0562944
 }

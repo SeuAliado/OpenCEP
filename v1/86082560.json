@@ -5,5 +5,7 @@
   "bairro": "Newton Guimarães",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2548977,
+  "lon": -51.1834672
 }

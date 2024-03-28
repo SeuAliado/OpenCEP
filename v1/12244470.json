@@ -5,5 +5,7 @@
   "bairro": "Loteamento Urbanova II",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1987581,
+  "lon": -45.9451335
 }

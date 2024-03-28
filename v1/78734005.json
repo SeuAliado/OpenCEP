@@ -5,5 +5,7 @@
   "bairro": "Residencial Paraíso",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4758391,
+  "lon": -54.5836142
 }

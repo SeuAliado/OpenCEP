@@ -5,5 +5,7 @@
   "bairro": "Constantino",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9409867,
+  "lon": -46.9893195
 }

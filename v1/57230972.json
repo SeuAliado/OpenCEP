@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "lat": -10.1315654,
+  "lon": -36.1642062
 }

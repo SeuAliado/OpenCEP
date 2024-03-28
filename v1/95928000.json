@@ -5,5 +5,7 @@
   "bairro": "Constantino",
   "localidade": "Progresso",
   "uf": "RS",
-  "ibge": "4315156"
+  "ibge": "4315156",
+  "lat": -29.2413334,
+  "lon": -52.311213
 }

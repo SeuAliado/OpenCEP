@@ -5,5 +5,7 @@
   "bairro": "Cancela Preta",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3963181,
+  "lon": -41.7959567
 }

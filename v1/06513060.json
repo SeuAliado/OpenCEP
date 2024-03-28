@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirantes",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.456265,
+  "lon": -46.9249766
 }

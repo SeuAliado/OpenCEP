@@ -5,5 +5,7 @@
   "bairro": "Vila Bionde",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5632766,
+  "lon": -44.9420951
 }

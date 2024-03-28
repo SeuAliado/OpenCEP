@@ -5,5 +5,7 @@
   "bairro": "Chácaras São Martinho",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9462827,
+  "lon": -47.0739686
 }

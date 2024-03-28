@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Medicilândia",
   "uf": "PA",
-  "ibge": "1504455"
+  "ibge": "1504455",
+  "lat": -3.4529773,
+  "lon": -52.8890328
 }

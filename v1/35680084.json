@@ -5,5 +5,7 @@
   "bairro": "Antunes",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0635657,
+  "lon": -44.5682794
 }

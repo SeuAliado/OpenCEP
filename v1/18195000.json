@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capela do Alto",
   "uf": "SP",
-  "ibge": "3510302"
+  "ibge": "3510302",
+  "lat": -23.4689594,
+  "lon": -47.7392896
 }

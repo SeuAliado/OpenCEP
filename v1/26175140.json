@@ -5,5 +5,7 @@
   "bairro": "Parque União",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7209434,
+  "lon": -43.343186
 }

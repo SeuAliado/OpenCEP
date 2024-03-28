@@ -5,5 +5,7 @@
   "bairro": "Jardim Esmeralda",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5646907,
+  "lon": -47.436315
 }

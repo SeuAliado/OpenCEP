@@ -5,5 +5,7 @@
   "bairro": "Joaçuba",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "lat": -18.4907578,
+  "lon": -40.8079144
 }

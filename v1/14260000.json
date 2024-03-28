@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cássia dos Coqueiros",
   "uf": "SP",
-  "ibge": "3510906"
+  "ibge": "3510906",
+  "lat": -21.2818916,
+  "lon": -47.1687458
 }

@@ -5,5 +5,7 @@
   "bairro": "Satélite",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8172869,
+  "lon": -43.1696248
 }

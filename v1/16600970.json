@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirajuí",
   "uf": "SP",
-  "ibge": "3538907"
+  "ibge": "3538907",
+  "lat": -21.9911331,
+  "lon": -49.4569414
 }

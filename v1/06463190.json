@@ -5,5 +5,7 @@
   "bairro": "Jardim Mutinga",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.499601,
+  "lon": -46.8135098
 }

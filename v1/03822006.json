@@ -5,5 +5,7 @@
   "bairro": "Vila Cisper",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4968323,
+  "lon": -46.4960938
 }

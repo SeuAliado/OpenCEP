@@ -5,5 +5,7 @@
   "bairro": "Vila Missionária",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.690949,
+  "lon": -46.6500856
 }

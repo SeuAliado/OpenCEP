@@ -5,5 +5,7 @@
   "bairro": "Vila São Judas Thadeu",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -23.9997008,
+  "lon": -48.352772
 }

@@ -5,5 +5,7 @@
   "bairro": "Brilhante II",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -27.0556491,
+  "lon": -48.8065342
 }

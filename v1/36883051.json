@@ -5,5 +5,7 @@
   "bairro": "Safira",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.1339006,
+  "lon": -42.3762478
 }

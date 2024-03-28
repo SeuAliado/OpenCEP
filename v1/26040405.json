@@ -5,5 +5,7 @@
   "bairro": "Ambaí",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7085223,
+  "lon": -43.445902
 }

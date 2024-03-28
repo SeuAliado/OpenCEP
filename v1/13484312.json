@@ -5,5 +5,7 @@
   "bairro": "Vila Mathias",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5603374,
+  "lon": -47.4112956
 }

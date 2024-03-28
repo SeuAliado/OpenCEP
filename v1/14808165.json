@@ -5,5 +5,7 @@
   "bairro": "8º Distrito Industrial",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8148812,
+  "lon": -48.1546571
 }

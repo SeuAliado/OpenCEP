@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Envira",
   "uf": "AM",
-  "ibge": "1301506"
+  "ibge": "1301506",
+  "lat": -7.4382645,
+  "lon": -70.0286988
 }

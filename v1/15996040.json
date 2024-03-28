@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "lat": -21.5896292,
+  "lon": -48.3753088
 }

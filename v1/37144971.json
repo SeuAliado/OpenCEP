@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fama",
   "uf": "MG",
-  "ibge": "3125200"
+  "ibge": "3125200",
+  "lat": -21.4070298,
+  "lon": -45.8292216
 }

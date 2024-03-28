@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição do Lago-Açu",
   "uf": "MA",
-  "ibge": "2103554"
+  "ibge": "2103554",
+  "lat": -3.802312,
+  "lon": -44.813111
 }

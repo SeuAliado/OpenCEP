@@ -5,5 +5,7 @@
   "bairro": "Angelim",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.1378874,
+  "lon": -42.8054026
 }

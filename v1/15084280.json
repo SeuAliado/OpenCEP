@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Verde",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8368723,
+  "lon": -49.3751197
 }

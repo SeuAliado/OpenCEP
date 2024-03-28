@@ -5,5 +5,7 @@
   "bairro": "Jardim Corumbá",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7068937,
+  "lon": -43.4682588
 }

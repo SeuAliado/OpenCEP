@@ -5,5 +5,7 @@
   "bairro": "Loteamento Solar Campinas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7926063,
+  "lon": -47.0969166
 }

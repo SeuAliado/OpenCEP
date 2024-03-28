@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jucati",
   "uf": "PE",
-  "ibge": "2608255"
+  "ibge": "2608255",
+  "lat": -8.7410774,
+  "lon": -36.4580775
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "lat": -19.531999,
+  "lon": -42.5706779
 }

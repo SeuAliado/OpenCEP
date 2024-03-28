@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "União dos Palmares",
   "uf": "AL",
-  "ibge": "2709301"
+  "ibge": "2709301",
+  "lat": -9.1113278,
+  "lon": -35.958777
 }

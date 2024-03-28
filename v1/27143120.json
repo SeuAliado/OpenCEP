@@ -5,5 +5,7 @@
   "bairro": "Parque Santana",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.5166278,
+  "lon": -43.8037921
 }

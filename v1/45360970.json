@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maracás",
   "uf": "BA",
-  "ibge": "2920502"
+  "ibge": "2920502",
+  "lat": -13.435917,
+  "lon": -40.4327027
 }

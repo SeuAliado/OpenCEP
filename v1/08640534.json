@@ -5,5 +5,7 @@
   "bairro": "Vila Nova das Lavras",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6866934,
+  "lon": -46.2879527
 }

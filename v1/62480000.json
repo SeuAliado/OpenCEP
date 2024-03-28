@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Moraújo",
   "uf": "CE",
-  "ibge": "2308807"
+  "ibge": "2308807",
+  "lat": -3.4634883,
+  "lon": -40.6779394
 }

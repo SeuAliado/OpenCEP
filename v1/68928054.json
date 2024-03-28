@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -0.0527353,
+  "lon": -51.1776601
 }

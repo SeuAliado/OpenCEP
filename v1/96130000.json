@@ -5,5 +5,7 @@
   "bairro": "Colônia Z-3",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "lat": -31.4218767,
+  "lon": -52.1774425
 }

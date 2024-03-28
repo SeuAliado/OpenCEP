@@ -5,5 +5,7 @@
   "bairro": "Jardim Javaes",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5360574,
+  "lon": -46.9124239
 }

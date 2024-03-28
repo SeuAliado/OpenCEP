@@ -5,5 +5,7 @@
   "bairro": "City Areal",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7128155,
+  "lon": -42.8686491
 }

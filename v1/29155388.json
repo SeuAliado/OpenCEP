@@ -5,5 +5,7 @@
   "bairro": "Porto Novo",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3007817,
+  "lon": -40.3665836
 }

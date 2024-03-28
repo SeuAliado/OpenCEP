@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3620501,
+  "lon": -47.3635253
 }

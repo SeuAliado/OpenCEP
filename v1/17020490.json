@@ -5,5 +5,7 @@
   "bairro": "Madureira",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3045988,
+  "lon": -49.064026
 }

@@ -5,5 +5,7 @@
   "bairro": "Anatólia",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1515548,
+  "lon": -34.8424901
 }

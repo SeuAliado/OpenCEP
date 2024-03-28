@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Newton Siqueira Sopa",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5804048,
+  "lon": -48.5569039
 }

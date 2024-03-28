@@ -5,5 +5,7 @@
   "bairro": "Camping Clube",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7665713,
+  "lon": -48.245159
 }

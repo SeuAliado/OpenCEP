@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Engenheiro Caldas",
   "uf": "MG",
-  "ibge": "3123700"
+  "ibge": "3123700",
+  "lat": -19.1330036,
+  "lon": -42.0286885
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Leoberto Leal",
   "uf": "SC",
-  "ibge": "4209805"
+  "ibge": "4209805",
+  "lat": -27.5103517,
+  "lon": -49.2861109
 }

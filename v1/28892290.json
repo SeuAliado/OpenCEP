@@ -5,5 +5,7 @@
   "bairro": "Rocha Leão",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4273371,
+  "lon": -42.0093498
 }

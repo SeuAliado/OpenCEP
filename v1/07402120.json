@@ -5,5 +5,7 @@
   "bairro": "Vila Lima",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.39513,
+  "lon": -46.3204741
 }

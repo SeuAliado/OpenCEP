@@ -5,5 +5,7 @@
   "bairro": "Borralho",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -7.965565,
+  "lon": -34.9934174
 }

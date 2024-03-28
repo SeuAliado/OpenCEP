@@ -5,5 +5,7 @@
   "bairro": "Borba Gato",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8516897,
+  "lon": -43.8844135
 }

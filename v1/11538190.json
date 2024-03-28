@@ -5,5 +5,7 @@
   "bairro": "Vila Natal",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "lat": -23.9004668,
+  "lon": -46.4294042
 }

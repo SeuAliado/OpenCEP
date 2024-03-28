@@ -5,5 +5,7 @@
   "bairro": "Barro Preto",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.5713777,
+  "lon": -49.1740955
 }

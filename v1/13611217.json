@@ -5,5 +5,7 @@
   "bairro": "Jardim Serelepe",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.2093262,
+  "lon": -47.3893608
 }

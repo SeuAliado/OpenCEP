@@ -5,5 +5,7 @@
   "bairro": "Vila São Judas Tadeu",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.9876165,
+  "lon": -47.4287981
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Carlo",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0479427,
+  "lon": -47.8975705
 }

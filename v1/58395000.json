@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serraria",
   "uf": "PB",
-  "ibge": "2515906"
+  "ibge": "2515906",
+  "lat": -6.8311955,
+  "lon": -35.6423527
 }

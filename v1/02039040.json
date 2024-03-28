@@ -5,5 +5,7 @@
   "bairro": "Vila Matias",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4922119,
+  "lon": -46.6225762
 }

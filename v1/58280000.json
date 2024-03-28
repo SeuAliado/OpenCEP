@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mamanguape",
   "uf": "PB",
-  "ibge": "2508901"
+  "ibge": "2508901",
+  "lat": -6.8386981,
+  "lon": -35.1366303
 }

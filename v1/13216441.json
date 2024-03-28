@@ -5,5 +5,7 @@
   "bairro": "Jardim São Camilo Novo",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1756585,
+  "lon": -46.8672269
 }

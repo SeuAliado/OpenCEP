@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirantes",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.872331,
+  "lon": -38.5866399
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Manoel Emídio",
   "uf": "PI",
-  "ibge": "2205904"
+  "ibge": "2205904",
+  "lat": -8.0127479,
+  "lon": -43.8758818
 }

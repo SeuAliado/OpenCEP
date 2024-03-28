@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rancho Queimado",
   "uf": "SC",
-  "ibge": "4214300"
+  "ibge": "4214300",
+  "lat": -27.6735003,
+  "lon": -49.0124253
 }

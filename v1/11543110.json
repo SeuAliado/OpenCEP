@@ -5,5 +5,7 @@
   "bairro": "Fabril",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "lat": -23.8824216,
+  "lon": -46.420052
 }

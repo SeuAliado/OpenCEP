@@ -5,5 +5,7 @@
   "bairro": "Mutirão",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1041762,
+  "lon": -42.8354728
 }

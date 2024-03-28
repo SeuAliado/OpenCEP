@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibirubá",
   "uf": "RS",
-  "ibge": "4310009"
+  "ibge": "4310009",
+  "lat": -28.6307855,
+  "lon": -53.0955785
 }

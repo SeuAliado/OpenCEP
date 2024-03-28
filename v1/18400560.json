@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9837558,
+  "lon": -48.8772038
 }

@@ -5,5 +5,7 @@
   "bairro": "Coopharádio",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.5061436,
+  "lon": -54.5932062
 }

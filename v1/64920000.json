@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cristino Castro",
   "uf": "PI",
-  "ibge": "2203107"
+  "ibge": "2203107",
+  "lat": -8.8231442,
+  "lon": -44.2233674
 }

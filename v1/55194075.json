@@ -5,5 +5,7 @@
   "bairro": "São Cristovão",
   "localidade": "Santa Cruz do Capibaribe",
   "uf": "PE",
-  "ibge": "2612505"
+  "ibge": "2612505",
+  "lat": -7.9567634,
+  "lon": -36.2062869
 }

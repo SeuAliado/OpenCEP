@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio (Roça Grande)",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8976329,
+  "lon": -43.8372004
 }

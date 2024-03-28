@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Esperança",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -23.9962221,
+  "lon": -48.3613253
 }

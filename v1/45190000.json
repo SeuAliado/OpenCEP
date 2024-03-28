@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Planalto",
   "uf": "BA",
-  "ibge": "2925006"
+  "ibge": "2925006",
+  "lat": -14.6684362,
+  "lon": -40.4722492
 }

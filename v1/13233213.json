@@ -5,5 +5,7 @@
   "bairro": "Parque Iramaia",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.2099527,
+  "lon": -46.7545999
 }

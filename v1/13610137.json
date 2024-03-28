@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -23.5719624,
+  "lon": -46.5497116
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "União do Sul",
   "uf": "MT",
-  "ibge": "5108303"
+  "ibge": "5108303",
+  "lat": -11.5332005,
+  "lon": -54.3662407
 }

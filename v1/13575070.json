@@ -5,5 +5,7 @@
   "bairro": "Jardim Beatriz",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0357143,
+  "lon": -47.9062823
 }

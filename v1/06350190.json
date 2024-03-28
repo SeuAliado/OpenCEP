@@ -5,5 +5,7 @@
   "bairro": "Recanto Impla",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5768385,
+  "lon": -46.8570591
 }

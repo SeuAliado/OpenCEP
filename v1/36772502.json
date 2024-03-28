@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -19.4367619,
+  "lon": -44.2204434
 }

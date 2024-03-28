@@ -5,5 +5,7 @@
   "bairro": "Distrito Macuje",
   "localidade": "Aliança",
   "uf": "PE",
-  "ibge": "2600708"
+  "ibge": "2600708",
+  "lat": -7.496087,
+  "lon": -35.126227
 }

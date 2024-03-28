@@ -5,5 +5,7 @@
   "bairro": "Manuel Sátiro",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7967069,
+  "lon": -38.5742818
 }

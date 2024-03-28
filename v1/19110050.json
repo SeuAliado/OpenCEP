@@ -5,5 +5,7 @@
   "bairro": "Montalvão",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.0530438,
+  "lon": -51.3435656
 }

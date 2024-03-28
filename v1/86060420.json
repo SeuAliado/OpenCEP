@@ -5,5 +5,7 @@
   "bairro": "Aurora",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3078256,
+  "lon": -51.1775671
 }

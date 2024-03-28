@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3466302,
+  "lon": -40.4016474
 }

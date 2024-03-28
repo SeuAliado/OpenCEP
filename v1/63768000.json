@@ -5,5 +5,7 @@
   "bairro": "Carvalho",
   "localidade": "Tamboril",
   "uf": "CE",
-  "ibge": "2313203"
+  "ibge": "2313203",
+  "lat": -4.8317511,
+  "lon": -40.319953
 }

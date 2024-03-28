@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mar Vermelho",
   "uf": "AL",
-  "ibge": "2704906"
+  "ibge": "2704906",
+  "lat": -9.4478185,
+  "lon": -36.3884052
 }

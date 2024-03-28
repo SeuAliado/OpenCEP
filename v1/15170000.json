@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tanabi",
   "uf": "SP",
-  "ibge": "3553401"
+  "ibge": "3553401",
+  "lat": -20.6286479,
+  "lon": -49.6546435
 }

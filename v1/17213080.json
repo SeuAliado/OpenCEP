@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Ivo",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3064398,
+  "lon": -48.5544999
 }

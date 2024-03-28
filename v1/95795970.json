@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Vendelino",
   "uf": "RS",
-  "ibge": "4319752"
+  "ibge": "4319752",
+  "lat": -29.3674784,
+  "lon": -51.378441
 }

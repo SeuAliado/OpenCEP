@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -15.8307877,
+  "lon": -54.3934146
 }

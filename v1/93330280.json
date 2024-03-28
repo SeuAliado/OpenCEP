@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.7202838,
+  "lon": -51.1423963
 }

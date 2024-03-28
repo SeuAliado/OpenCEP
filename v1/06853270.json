@@ -5,5 +5,7 @@
   "bairro": "Vila Geni",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.6939111,
+  "lon": -46.8610115
 }

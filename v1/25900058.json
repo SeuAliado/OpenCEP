@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6575668,
+  "lon": -43.0383763
 }

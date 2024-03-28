@@ -5,5 +5,7 @@
   "bairro": "Ceilândia Sul (Ceilândia)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8267859,
+  "lon": -48.1145958
 }

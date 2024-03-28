@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miguelópolis",
   "uf": "SP",
-  "ibge": "3529708"
+  "ibge": "3529708",
+  "lat": -20.1773868,
+  "lon": -48.0324205
 }

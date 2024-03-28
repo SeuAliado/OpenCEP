@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Vinte e Quatro de Maio",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9239949,
+  "lon": -48.4467649
 }

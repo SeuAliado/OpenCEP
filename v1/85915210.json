@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7628595,
+  "lon": -53.7424212
 }

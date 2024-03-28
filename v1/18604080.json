@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8766225,
+  "lon": -48.4241986
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Michelin",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.361531,
+  "lon": -47.3806801
 }

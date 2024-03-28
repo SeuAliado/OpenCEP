@@ -5,5 +5,7 @@
   "bairro": "Taboão",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.664173,
+  "lon": -46.6164077
 }

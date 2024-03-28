@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.2096604,
+  "lon": -52.2132198
 }

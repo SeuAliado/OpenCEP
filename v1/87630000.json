@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Atalaia",
   "uf": "PR",
-  "ibge": "4102208"
+  "ibge": "4102208",
+  "lat": -23.1521951,
+  "lon": -52.0555847
 }

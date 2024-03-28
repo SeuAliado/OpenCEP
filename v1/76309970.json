@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Nova Glória",
   "uf": "GO",
-  "ibge": "5214861"
+  "ibge": "5214861",
+  "lat": -15.1506717,
+  "lon": -49.5752108
 }

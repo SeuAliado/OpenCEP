@@ -5,5 +5,7 @@
   "bairro": "Parque Juriti",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.8030748,
+  "lon": -43.3458971
 }

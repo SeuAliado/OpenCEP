@@ -5,5 +5,7 @@
   "bairro": "Novo Delfino",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7401945,
+  "lon": -43.8312573
 }

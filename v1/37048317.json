@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Sion II",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5682501,
+  "lon": -45.4157669
 }

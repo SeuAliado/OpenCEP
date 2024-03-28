@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmeiras do Tocantins",
   "uf": "TO",
-  "ibge": "1713809"
+  "ibge": "1713809",
+  "lat": -6.5864212,
+  "lon": -47.6455169
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Ruy Barbosa",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9309314,
+  "lon": -38.4960162
 }

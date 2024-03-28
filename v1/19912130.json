@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Esperança",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9799218,
+  "lon": -49.8605251
 }

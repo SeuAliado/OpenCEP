@@ -5,5 +5,7 @@
   "bairro": "Formosa",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1085685,
+  "lon": -42.8288224
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Diogo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.430345,
+  "lon": -46.5304412
 }

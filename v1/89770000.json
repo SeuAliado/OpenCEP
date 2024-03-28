@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Seara",
   "uf": "SC",
-  "ibge": "4217501"
+  "ibge": "4217501",
+  "lat": -27.1569196,
+  "lon": -52.2995518
 }

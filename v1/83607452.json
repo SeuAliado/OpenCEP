@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4497732,
+  "lon": -49.513963
 }

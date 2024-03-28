@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itobi",
   "uf": "SP",
-  "ibge": "3523800"
+  "ibge": "3523800",
+  "lat": -21.7313357,
+  "lon": -46.9747437
 }

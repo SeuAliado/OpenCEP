@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Valença do Piauí",
   "uf": "PI",
-  "ibge": "2211308"
+  "ibge": "2211308",
+  "lat": -6.4039467,
+  "lon": -41.7388638
 }

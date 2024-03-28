@@ -5,5 +5,7 @@
   "bairro": "Vila São José (São Sebastião)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.9126528,
+  "lon": -47.7591372
 }

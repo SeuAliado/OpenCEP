@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Governador Jorge Teixeira",
   "uf": "RO",
-  "ibge": "1101005"
+  "ibge": "1101005",
+  "lat": -9.927762,
+  "lon": -63.0760068
 }

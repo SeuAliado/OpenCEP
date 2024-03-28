@@ -5,5 +5,7 @@
   "bairro": "Nova Betânia",
   "localidade": "Farias Brito",
   "uf": "CE",
-  "ibge": "2304301"
+  "ibge": "2304301",
+  "lat": -6.895636,
+  "lon": -39.560329
 }

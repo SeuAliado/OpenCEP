@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Apiacá",
   "uf": "ES",
-  "ibge": "3200508"
+  "ibge": "3200508",
+  "lat": -21.1563107,
+  "lon": -41.5650321
 }

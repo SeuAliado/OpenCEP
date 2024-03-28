@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5559463,
+  "lon": -46.3235735
 }

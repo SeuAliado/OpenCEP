@@ -5,5 +5,7 @@
   "bairro": "Cláudio Manuel",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "lat": -18.6383887,
+  "lon": -48.1879079
 }

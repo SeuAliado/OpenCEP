@@ -5,5 +5,7 @@
   "bairro": "América",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "lat": -10.9161461,
+  "lon": -37.080803
 }

@@ -5,5 +5,7 @@
   "bairro": "Brasilândia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4716837,
+  "lon": -46.6883317
 }

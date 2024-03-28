@@ -5,5 +5,7 @@
   "bairro": "Parque Esmeralda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.621168,
+  "lon": -46.7623616
 }

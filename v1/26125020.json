@@ -5,5 +5,7 @@
   "bairro": "Vila Heliopolis",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7362381,
+  "lon": -43.4026722
 }

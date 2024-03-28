@@ -5,5 +5,7 @@
   "bairro": "Porta Florada",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "lat": -15.6311222,
+  "lon": -47.6626668
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel das Matas",
   "uf": "BA",
-  "ibge": "2929404"
+  "ibge": "2929404",
+  "lat": -13.0545599,
+  "lon": -39.4543969
 }

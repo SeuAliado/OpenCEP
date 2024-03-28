@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6548122,
+  "lon": -43.2186105
 }

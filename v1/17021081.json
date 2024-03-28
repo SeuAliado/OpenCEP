@@ -5,5 +5,7 @@
   "bairro": "Parque São Geraldo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2998098,
+  "lon": -49.076256
 }

@@ -5,5 +5,7 @@
   "bairro": "Campinas",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.5497171,
+  "lon": -49.1903736
 }

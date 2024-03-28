@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chã Preta",
   "uf": "AL",
-  "ibge": "2701902"
+  "ibge": "2701902",
+  "lat": -9.2579928,
+  "lon": -36.299919
 }

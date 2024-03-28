@@ -5,5 +5,7 @@
   "bairro": "Pau Pombo",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0010321,
+  "lon": -43.8936253
 }

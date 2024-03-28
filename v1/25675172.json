@@ -5,5 +5,7 @@
   "bairro": "Mosela",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.4894388,
+  "lon": -43.2062241
 }

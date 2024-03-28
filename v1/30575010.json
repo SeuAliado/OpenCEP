@@ -5,5 +5,7 @@
   "bairro": "Havaí",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.964049,
+  "lon": -43.9667255
 }

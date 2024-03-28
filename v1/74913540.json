@@ -5,5 +5,7 @@
   "bairro": "Vila Real",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7545992,
+  "lon": -49.2500951
 }

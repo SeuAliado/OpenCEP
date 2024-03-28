@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Varzedo",
   "uf": "BA",
-  "ibge": "2933174"
+  "ibge": "2933174",
+  "lat": -12.9710785,
+  "lon": -39.3949401
 }

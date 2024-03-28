@@ -5,5 +5,7 @@
   "bairro": "Colméia Park",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8558889,
+  "lon": -51.7268334
 }

@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.7258082,
+  "lon": -47.0433554
 }

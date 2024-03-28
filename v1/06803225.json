@@ -5,5 +5,7 @@
   "bairro": "Água Morna",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6417412,
+  "lon": -46.8430246
 }

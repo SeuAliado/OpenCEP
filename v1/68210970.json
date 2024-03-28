@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Curuá",
   "uf": "PA",
-  "ibge": "1502855"
+  "ibge": "1502855",
+  "lat": -1.8882789,
+  "lon": -55.1565333
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Izabel",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5856876,
+  "lon": -46.8208681
 }

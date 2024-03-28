@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carneirinho",
   "uf": "MG",
-  "ibge": "3114550"
+  "ibge": "3114550",
+  "lat": -19.6991558,
+  "lon": -50.7624493
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Arco-Íris (Cecap)",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.3943892,
+  "lon": -47.5530435
 }

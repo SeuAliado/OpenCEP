@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chupinguaia",
   "uf": "RO",
-  "ibge": "1100924"
+  "ibge": "1100924",
+  "lat": -12.5476531,
+  "lon": -60.8987251
 }

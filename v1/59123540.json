@@ -5,5 +5,7 @@
   "bairro": "Pajuçara",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.7377015,
+  "lon": -35.2456012
 }

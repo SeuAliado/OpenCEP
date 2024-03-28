@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Icapuí",
   "uf": "CE",
-  "ibge": "2305357"
+  "ibge": "2305357",
+  "lat": -4.720803,
+  "lon": -37.3483409
 }

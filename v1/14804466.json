@@ -5,5 +5,7 @@
   "bairro": "Residencial Village Damha",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -22.1292962,
+  "lon": -51.3962705
 }

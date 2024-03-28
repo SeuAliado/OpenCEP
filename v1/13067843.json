@@ -5,5 +5,7 @@
   "bairro": "Parque Maria Helena",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8682946,
+  "lon": -47.1487142
 }

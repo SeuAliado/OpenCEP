@@ -5,5 +5,7 @@
   "bairro": "Veredas da Cidade",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6059174,
+  "lon": -46.917905
 }

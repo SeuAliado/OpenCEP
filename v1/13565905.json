@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9785244,
+  "lon": -47.8812177
 }

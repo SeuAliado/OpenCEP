@@ -5,5 +5,7 @@
   "bairro": "Vila dos Nobres",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.545845,
+  "lon": -44.2524012
 }

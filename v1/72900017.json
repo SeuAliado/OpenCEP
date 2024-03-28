@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Conceição Gomes Rabelo",
   "localidade": "Santo Antônio do Descoberto",
   "uf": "GO",
-  "ibge": "5219753"
+  "ibge": "5219753",
+  "lat": -15.9429758,
+  "lon": -48.2528058
 }

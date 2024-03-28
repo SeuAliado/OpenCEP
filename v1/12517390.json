@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Beira Rio",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7925938,
+  "lon": -45.1826546
 }

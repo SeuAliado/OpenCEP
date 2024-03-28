@@ -5,5 +5,7 @@
   "bairro": "Mãe dos Homens",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.8944239,
+  "lon": -46.6020936
 }

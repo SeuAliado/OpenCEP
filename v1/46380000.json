@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Candiba",
   "uf": "BA",
-  "ibge": "2906600"
+  "ibge": "2906600",
+  "lat": -14.4101895,
+  "lon": -42.8670861
 }

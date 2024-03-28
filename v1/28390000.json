@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porciúncula",
   "uf": "RJ",
-  "ibge": "3304102"
+  "ibge": "3304102",
+  "lat": -20.9678604,
+  "lon": -42.0410655
 }

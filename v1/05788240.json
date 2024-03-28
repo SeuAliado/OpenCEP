@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Refúgio",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6320565,
+  "lon": -46.7747734
 }

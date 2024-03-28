@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tenente Ananias",
   "uf": "RN",
-  "ibge": "2414100"
+  "ibge": "2414100",
+  "lat": -6.4439718,
+  "lon": -38.1899782
 }

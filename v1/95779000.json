@@ -5,5 +5,7 @@
   "bairro": "Arroio do Ouro",
   "localidade": "Vale Real",
   "uf": "RS",
-  "ibge": "4322541"
+  "ibge": "4322541",
+  "lat": -29.356409,
+  "lon": -51.2138229
 }

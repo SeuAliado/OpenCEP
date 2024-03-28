@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Benevides",
   "uf": "PA",
-  "ibge": "1501501"
+  "ibge": "1501501",
+  "lat": -1.3524989,
+  "lon": -48.2592606
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Fonte São Miguel",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.693264,
+  "lon": -43.4140666
 }

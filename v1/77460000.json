@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Peixe",
   "uf": "TO",
-  "ibge": "1716604"
+  "ibge": "1716604",
+  "lat": -12.0208306,
+  "lon": -48.4787258
 }

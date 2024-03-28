@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barreiras do Piauí",
   "uf": "PI",
-  "ibge": "2201309"
+  "ibge": "2201309",
+  "lat": -9.9300241,
+  "lon": -45.4705787
 }

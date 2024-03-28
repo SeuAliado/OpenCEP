@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Grajaú",
   "uf": "MA",
-  "ibge": "2104800"
+  "ibge": "2104800",
+  "lat": -5.8172371,
+  "lon": -46.1426073
 }

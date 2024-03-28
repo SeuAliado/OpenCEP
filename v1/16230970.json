@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piacatu",
   "uf": "SP",
-  "ibge": "3537701"
+  "ibge": "3537701",
+  "lat": -21.5942334,
+  "lon": -50.6000464
 }

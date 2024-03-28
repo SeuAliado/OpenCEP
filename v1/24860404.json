@@ -5,5 +5,7 @@
   "bairro": "Granjas Cabuçu (Manilha)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7851361,
+  "lon": -42.9169254
 }

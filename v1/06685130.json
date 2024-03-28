@@ -5,5 +5,7 @@
   "bairro": "Chácaras Monte Serrat",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5349609,
+  "lon": -46.9923819
 }

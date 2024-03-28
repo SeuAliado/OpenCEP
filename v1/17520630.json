@@ -5,5 +5,7 @@
   "bairro": "Jardim Guarujá",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.23552,
+  "lon": -49.9307522
 }

@@ -5,5 +5,7 @@
   "bairro": "Paiol Grande",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.640996,
+  "lon": -52.3174026
 }

@@ -5,5 +5,7 @@
   "bairro": "Umuarama",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5546426,
+  "lon": -46.779153
 }

@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9515299,
+  "lon": -46.9866555
 }

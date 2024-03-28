@@ -5,5 +5,7 @@
   "bairro": "Luiz Pires de Minas",
   "localidade": "Coração de Jesus",
   "uf": "MG",
-  "ibge": "3118809"
+  "ibge": "3118809",
+  "lat": -16.4953969,
+  "lon": -44.2696248
 }

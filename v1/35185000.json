@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marliéria",
   "uf": "MG",
-  "ibge": "3140308"
+  "ibge": "3140308",
+  "lat": -19.7471902,
+  "lon": -42.5901672
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -4.2358809,
+  "lon": -56.0105139
 }

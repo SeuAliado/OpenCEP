@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre (Monte Alegre)",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "lat": -27.0030736,
+  "lon": -48.673022
 }

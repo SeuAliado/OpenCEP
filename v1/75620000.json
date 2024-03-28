@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pontalina",
   "uf": "GO",
-  "ibge": "5217708"
+  "ibge": "5217708",
+  "lat": -17.5229691,
+  "lon": -49.4493917
 }

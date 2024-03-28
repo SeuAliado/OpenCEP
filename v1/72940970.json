@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Abadiânia",
   "uf": "GO",
-  "ibge": "5200100"
+  "ibge": "5200100",
+  "lat": -16.1963414,
+  "lon": -48.7061322
 }

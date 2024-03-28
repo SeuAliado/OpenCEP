@@ -5,5 +5,7 @@
   "bairro": "Porto Salvo",
   "localidade": "Vigia",
   "uf": "PA",
-  "ibge": "1508209"
+  "ibge": "1508209",
+  "lat": -0.9354498,
+  "lon": -48.1612775
 }

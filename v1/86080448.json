@@ -5,5 +5,7 @@
   "bairro": "Residencial Moradias Tibagi",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2811915,
+  "lon": -51.1830954
 }

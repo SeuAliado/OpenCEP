@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaporã",
   "uf": "MS",
-  "ibge": "5004502"
+  "ibge": "5004502",
+  "lat": -22.0804966,
+  "lon": -54.793886
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Líbano",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7607254,
+  "lon": -47.6541859
 }

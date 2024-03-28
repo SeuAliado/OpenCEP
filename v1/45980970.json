@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Prado",
   "uf": "BA",
-  "ibge": "2925501"
+  "ibge": "2925501",
+  "lat": -17.3393499,
+  "lon": -39.2222949
 }

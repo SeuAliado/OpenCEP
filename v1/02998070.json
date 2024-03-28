@@ -5,5 +5,7 @@
   "bairro": "Loteamento City Jaragua",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4405468,
+  "lon": -46.7226817
 }

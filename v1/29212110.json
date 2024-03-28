@@ -5,5 +5,7 @@
   "bairro": "Fátima Cidade Jardim",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6332543,
+  "lon": -40.5126475
 }

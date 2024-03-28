@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Helena",
   "uf": "PR",
-  "ibge": "4123501"
+  "ibge": "4123501",
+  "lat": -24.8584188,
+  "lon": -54.3364348
 }

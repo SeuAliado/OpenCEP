@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ubiratã",
   "uf": "PR",
-  "ibge": "4128005"
+  "ibge": "4128005",
+  "lat": -24.5429905,
+  "lon": -52.989492
 }

@@ -5,5 +5,7 @@
   "bairro": "Coutos",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8560415,
+  "lon": -38.4703453
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Manibura",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7927994,
+  "lon": -38.4909966
 }

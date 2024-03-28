@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4967726,
+  "lon": -44.0996089
 }

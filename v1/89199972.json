@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Terezinha",
   "uf": "SC",
-  "ibge": "4215679"
+  "ibge": "4215679",
+  "lat": -21.739844,
+  "lon": -43.3632484
 }

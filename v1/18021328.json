@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosália Alcolea",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4850847,
+  "lon": -47.4138584
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Pasin",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8885369,
+  "lon": -45.3743667
 }

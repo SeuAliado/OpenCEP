@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.463503,
+  "lon": -46.5424169
 }

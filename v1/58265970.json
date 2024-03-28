@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Duas Estradas",
   "uf": "PB",
-  "ibge": "2505808"
+  "ibge": "2505808",
+  "lat": -6.686394,
+  "lon": -35.4182346
 }

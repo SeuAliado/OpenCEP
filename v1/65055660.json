@@ -5,5 +5,7 @@
   "bairro": "Jardim São Cristóvão",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5688016,
+  "lon": -44.2309168
 }

@@ -5,5 +5,7 @@
   "bairro": "São Lourenço (Guia de Pacobaíba)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6915261,
+  "lon": -43.13289
 }

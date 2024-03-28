@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quinze de Novembro",
   "uf": "RS",
-  "ibge": "4315354"
+  "ibge": "4315354",
+  "lat": -28.7470415,
+  "lon": -53.1016166
 }

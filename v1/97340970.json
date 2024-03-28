@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Sepé",
   "uf": "RS",
-  "ibge": "4319604"
+  "ibge": "4319604",
+  "lat": -30.1682408,
+  "lon": -53.5673246
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Aripuanã",
   "uf": "AM",
-  "ibge": "1303304"
+  "ibge": "1303304",
+  "lat": -5.1191636,
+  "lon": -60.3746435
 }

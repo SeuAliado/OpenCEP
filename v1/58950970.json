@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Horebe",
   "uf": "PB",
-  "ibge": "2509602"
+  "ibge": "2509602",
+  "lat": -7.2138446,
+  "lon": -38.5878154
 }

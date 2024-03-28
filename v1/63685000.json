@@ -5,5 +5,7 @@
   "bairro": "Cococi",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "lat": -6.4329424,
+  "lon": -40.4924306
 }

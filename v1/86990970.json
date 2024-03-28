@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marialva",
   "uf": "PR",
-  "ibge": "4114807"
+  "ibge": "4114807",
+  "lat": -23.4890489,
+  "lon": -51.7944577
 }

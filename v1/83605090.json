@@ -5,5 +5,7 @@
   "bairro": "Loteamento Itaboa",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4576002,
+  "lon": -49.568053
 }

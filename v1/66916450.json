@@ -5,5 +5,7 @@
   "bairro": "Farol (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3782508,
+  "lon": -48.4497779
 }

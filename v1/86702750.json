@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pássaros",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.3925711,
+  "lon": -51.4554588
 }

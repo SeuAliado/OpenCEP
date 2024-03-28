@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Baía da Traição",
   "uf": "PB",
-  "ibge": "2501401"
+  "ibge": "2501401",
+  "lat": -6.6698961,
+  "lon": -34.983731
 }

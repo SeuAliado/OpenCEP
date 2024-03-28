@@ -5,5 +5,7 @@
   "bairro": "Distrito Empresarial Prefeito Luiz Roberto Jábali",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.0945966,
+  "lon": -47.7969557
 }

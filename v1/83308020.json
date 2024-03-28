@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Estados 2",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4896367,
+  "lon": -49.119946
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Rita de Cássia",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4413646,
+  "lon": -45.4379785
 }

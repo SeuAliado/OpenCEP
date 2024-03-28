@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "lat": -4.1815664,
+  "lon": -38.1278356
 }

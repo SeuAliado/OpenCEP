@@ -5,5 +5,7 @@
   "bairro": "Jardim Guarnieri",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4535923,
+  "lon": -46.9780857
 }

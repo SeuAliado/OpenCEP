@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Clara",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5260957,
+  "lon": -47.4448663
 }

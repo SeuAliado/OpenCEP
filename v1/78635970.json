@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Boa",
   "uf": "MT",
-  "ibge": "5100201"
+  "ibge": "5100201",
+  "lat": -14.048827,
+  "lon": -52.1580069
 }

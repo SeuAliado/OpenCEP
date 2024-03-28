@@ -5,5 +5,7 @@
   "bairro": "Jardim Sbeghen",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4431331,
+  "lon": -46.9398064
 }

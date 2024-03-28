@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matutina",
   "uf": "MG",
-  "ibge": "3141207"
+  "ibge": "3141207",
+  "lat": -19.2224624,
+  "lon": -45.9715473
 }

@@ -5,5 +5,7 @@
   "bairro": "Ubiraitá",
   "localidade": "Andaraí",
   "uf": "BA",
-  "ibge": "2901304"
+  "ibge": "2901304",
+  "lat": -12.589317,
+  "lon": -41.0099978
 }

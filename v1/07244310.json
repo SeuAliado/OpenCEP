@@ -5,5 +5,7 @@
   "bairro": "Jardim Carvalho",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4460853,
+  "lon": -46.4103991
 }

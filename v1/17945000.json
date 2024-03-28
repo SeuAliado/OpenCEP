@@ -5,5 +5,7 @@
   "bairro": "Terra Nova D'Oeste",
   "localidade": "Santa Mercedes",
   "uf": "SP",
-  "ibge": "3547106"
+  "ibge": "3547106",
+  "lat": -21.3015947,
+  "lon": -51.6865615
 }

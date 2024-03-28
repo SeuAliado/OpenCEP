@@ -5,5 +5,7 @@
   "bairro": "Ponta da Praia",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9804518,
+  "lon": -46.3024114
 }

@@ -5,5 +5,7 @@
   "bairro": "Serra Verde",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2098482,
+  "lon": -43.7709729
 }

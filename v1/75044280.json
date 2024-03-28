@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3208071,
+  "lon": -48.9612911
 }

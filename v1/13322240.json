@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1890161,
+  "lon": -47.2777548
 }

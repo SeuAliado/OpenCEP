@@ -5,5 +5,7 @@
   "bairro": "Jardim Modelo",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "lat": -22.4465998,
+  "lon": -48.7787177
 }

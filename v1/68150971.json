@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aveiro",
   "uf": "PA",
-  "ibge": "1501006"
+  "ibge": "1501006",
+  "lat": -1.3340842,
+  "lon": -48.384357
 }

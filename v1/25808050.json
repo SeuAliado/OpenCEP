@@ -5,5 +5,7 @@
   "bairro": "Portão Vermelho",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -22.1064599,
+  "lon": -43.2094738
 }

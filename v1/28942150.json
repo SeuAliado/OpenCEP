@@ -5,5 +5,7 @@
   "bairro": "Campo Redondo",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "lat": -22.8290741,
+  "lon": -42.0699512
 }

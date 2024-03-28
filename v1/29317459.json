@@ -5,5 +5,7 @@
   "bairro": "São Francisco de Assis",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8490231,
+  "lon": -41.1393702
 }

@@ -5,5 +5,7 @@
   "bairro": "Dolearina",
   "localidade": "Estrela do Sul",
   "uf": "MG",
-  "ibge": "3124807"
+  "ibge": "3124807",
+  "lat": -18.6949792,
+  "lon": -47.7980426
 }

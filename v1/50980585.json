@@ -5,5 +5,7 @@
   "bairro": "Caxangá",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0242055,
+  "lon": -34.9535268
 }

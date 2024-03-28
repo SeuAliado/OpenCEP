@@ -5,5 +5,7 @@
   "bairro": "Planalto do Bosque",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.26133,
+  "lon": -48.3298826
 }

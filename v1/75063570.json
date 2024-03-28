@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2848721,
+  "lon": -48.9602952
 }

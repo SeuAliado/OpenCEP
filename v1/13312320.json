@@ -5,5 +5,7 @@
   "bairro": "Chácara Flórida",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2612267,
+  "lon": -47.3503773
 }

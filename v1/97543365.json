@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7957003,
+  "lon": -55.8067018
 }

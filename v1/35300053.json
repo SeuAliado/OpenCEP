@@ -5,5 +5,7 @@
   "bairro": "Manoel Ribeiro Sobrino",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7930896,
+  "lon": -42.1432803
 }

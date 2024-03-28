@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santa Rosa II",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7376132,
+  "lon": -47.3621453
 }

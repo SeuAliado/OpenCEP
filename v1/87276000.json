@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Engenheiro Beltrão",
   "uf": "PR",
-  "ibge": "4107504"
+  "ibge": "4107504",
+  "lat": -23.6630135,
+  "lon": -52.2160934
 }

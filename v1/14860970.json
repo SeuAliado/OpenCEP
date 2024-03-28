@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barrinha",
   "uf": "SP",
-  "ibge": "3505609"
+  "ibge": "3505609",
+  "lat": -21.1925016,
+  "lon": -48.1641743
 }

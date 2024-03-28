@@ -5,5 +5,7 @@
   "bairro": "Parque São Paulo (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7845288,
+  "lon": -48.132865
 }

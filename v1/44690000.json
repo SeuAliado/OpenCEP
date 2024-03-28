@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Várzea Nova",
   "uf": "BA",
-  "ibge": "2933158"
+  "ibge": "2933158",
+  "lat": -11.1313677,
+  "lon": -40.9990597
 }

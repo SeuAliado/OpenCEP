@@ -5,5 +5,7 @@
   "bairro": "Salto de São José",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.213296,
+  "lon": -47.3108766
 }

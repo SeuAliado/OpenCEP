@@ -5,5 +5,7 @@
   "bairro": "Flamengo",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2437485,
+  "lon": -52.051864
 }

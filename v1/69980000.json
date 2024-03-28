@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cruzeiro do Sul",
   "uf": "AC",
-  "ibge": "1200203"
+  "ibge": "1200203",
+  "lat": -7.6279977,
+  "lon": -72.6761487
 }

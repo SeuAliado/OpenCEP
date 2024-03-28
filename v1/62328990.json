@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tianguá",
   "uf": "CE",
-  "ibge": "2313401"
+  "ibge": "2313401",
+  "lat": -3.4755296,
+  "lon": -40.8302758
 }

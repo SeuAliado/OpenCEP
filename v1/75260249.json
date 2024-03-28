@@ -5,5 +5,7 @@
   "bairro": "Residencial Paraíso",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -22.5318601,
+  "lon": -44.1275126
 }

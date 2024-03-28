@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguaribara",
   "uf": "CE",
-  "ibge": "2306801"
+  "ibge": "2306801",
+  "lat": -5.6616015,
+  "lon": -38.5270305
 }

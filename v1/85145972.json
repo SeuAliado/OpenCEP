@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Foz do Jordão",
   "uf": "PR",
-  "ibge": "4108452"
+  "ibge": "4108452",
+  "lat": -25.7315398,
+  "lon": -52.1160492
 }

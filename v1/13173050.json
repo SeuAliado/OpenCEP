@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8148697,
+  "lon": -47.2675637
 }

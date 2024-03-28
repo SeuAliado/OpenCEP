@@ -5,5 +5,7 @@
   "bairro": "Ipanema",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9844817,
+  "lon": -43.197821
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Alverne",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.5672649,
+  "lon": -52.3365677
 }

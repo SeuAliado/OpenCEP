@@ -5,5 +5,7 @@
   "bairro": "Monte Cristo",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.563827,
+  "lon": -44.170663
 }

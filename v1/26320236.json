@@ -5,5 +5,7 @@
   "bairro": "Parque Ipanema",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7062661,
+  "lon": -43.5978453
 }

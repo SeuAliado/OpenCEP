@@ -5,5 +5,7 @@
   "bairro": "Jardim Velho Sanazar",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5458455,
+  "lon": -46.894939
 }

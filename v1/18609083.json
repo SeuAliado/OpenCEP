@@ -5,5 +5,7 @@
   "bairro": "Vila dos Lavradores",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8698958,
+  "lon": -48.4491518
 }

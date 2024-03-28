@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jucás",
   "uf": "CE",
-  "ibge": "2307403"
+  "ibge": "2307403",
+  "lat": -6.524313,
+  "lon": -39.5268565
 }

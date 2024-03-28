@@ -5,5 +5,7 @@
   "bairro": "Vila de Laranja da Terra",
   "localidade": "Laranja da Terra",
   "uf": "ES",
-  "ibge": "3203163"
+  "ibge": "3203163",
+  "lat": -19.8985956,
+  "lon": -41.0573759
 }

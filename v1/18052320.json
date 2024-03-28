@@ -5,5 +5,7 @@
   "bairro": "Jardim Capitão",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5339234,
+  "lon": -47.5031542
 }

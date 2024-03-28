@@ -5,5 +5,7 @@
   "bairro": "Santa Cecília",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "lat": -15.3313575,
+  "lon": -49.1307071
 }

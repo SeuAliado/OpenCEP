@@ -5,5 +5,7 @@
   "bairro": "Jardim Zélia",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4990437,
+  "lon": -46.3642606
 }

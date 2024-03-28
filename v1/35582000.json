@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pains",
   "uf": "MG",
-  "ibge": "3146503"
+  "ibge": "3146503",
+  "lat": -20.3734781,
+  "lon": -45.6618213
 }

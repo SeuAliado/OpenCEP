@@ -5,5 +5,7 @@
   "bairro": "Residencial Petrópolis",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.960463,
+  "lon": -67.8459504
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Lavras Mirim",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6399033,
+  "lon": -46.3297018
 }

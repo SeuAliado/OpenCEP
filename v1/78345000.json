@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Castanheira",
   "uf": "MT",
-  "ibge": "5102850"
+  "ibge": "5102850",
+  "lat": -11.1372693,
+  "lon": -58.6086747
 }

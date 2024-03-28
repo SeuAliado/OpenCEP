@@ -5,5 +5,7 @@
   "bairro": "Parque Ortolândia",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8664435,
+  "lon": -47.2230436
 }

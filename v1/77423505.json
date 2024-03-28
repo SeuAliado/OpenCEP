@@ -5,5 +5,7 @@
   "bairro": "Vila Guaracy",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7484556,
+  "lon": -49.0601802
 }

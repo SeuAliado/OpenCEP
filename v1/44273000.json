@@ -5,5 +5,7 @@
   "bairro": "Jacu",
   "localidade": "Terra Nova",
   "uf": "BA",
-  "ibge": "2931707"
+  "ibge": "2931707",
+  "lat": -12.3332768,
+  "lon": -38.6087544
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Espírito Santo",
   "uf": "RN",
-  "ibge": "2403509"
+  "ibge": "2403509",
+  "lat": -6.3320944,
+  "lon": -35.3107133
 }

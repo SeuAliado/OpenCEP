@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Água Branca",
   "uf": "AL",
-  "ibge": "2700102"
+  "ibge": "2700102",
+  "lat": -9.2620894,
+  "lon": -37.9356349
 }

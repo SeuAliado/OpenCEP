@@ -5,5 +5,7 @@
   "bairro": "Coronel Siqueira Campos",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "lat": -8.4273657,
+  "lon": -37.0577543
 }

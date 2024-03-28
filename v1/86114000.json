@@ -5,5 +5,7 @@
   "bairro": "Guairacá",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -25.4136043,
+  "lon": -49.1879959
 }

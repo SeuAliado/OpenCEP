@@ -5,5 +5,7 @@
   "bairro": "Condomínio Chácaras Ana Maria (Santa Maria)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -16.0407545,
+  "lon": -47.9899439
 }

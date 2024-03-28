@@ -5,5 +5,7 @@
   "bairro": "Conceição de Itaguá",
   "localidade": "Brumadinho",
   "uf": "MG",
-  "ibge": "3109006"
+  "ibge": "3109006",
+  "lat": -20.1507528,
+  "lon": -44.2222239
 }

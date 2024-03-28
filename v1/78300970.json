@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tangará da Serra",
   "uf": "MT",
-  "ibge": "5107958"
+  "ibge": "5107958",
+  "lat": -14.6189686,
+  "lon": -57.4863497
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9507783,
+  "lon": -43.942824
 }

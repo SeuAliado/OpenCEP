@@ -5,5 +5,7 @@
   "bairro": "Jardim Suíça Paulista",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5406496,
+  "lon": -47.1502296
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cabaceiras do Paraguaçu",
   "uf": "BA",
-  "ibge": "2904852"
+  "ibge": "2904852",
+  "lat": -12.534304,
+  "lon": -39.1925373
 }

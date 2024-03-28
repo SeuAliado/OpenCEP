@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4407225,
+  "lon": -45.9545426
 }

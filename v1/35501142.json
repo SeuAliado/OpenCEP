@@ -5,5 +5,7 @@
   "bairro": "Quinta das Palmeiras",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1817109,
+  "lon": -44.882292
 }

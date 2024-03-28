@@ -5,5 +5,7 @@
   "bairro": "Vila dos Comerciários",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5711277,
+  "lon": -48.564756
 }

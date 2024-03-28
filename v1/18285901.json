@@ -5,5 +5,7 @@
   "bairro": "Turvo",
   "localidade": "Cesário Lange",
   "uf": "SP",
-  "ibge": "3511607"
+  "ibge": "3511607",
+  "lat": -23.2700793,
+  "lon": -47.9351418
 }

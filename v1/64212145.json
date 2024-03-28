@@ -5,5 +5,7 @@
   "bairro": "Rodoviária",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9288485,
+  "lon": -41.7591809
 }

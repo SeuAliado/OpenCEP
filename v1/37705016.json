@@ -5,5 +5,7 @@
   "bairro": "Jardim das Hortênsias",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.8087098,
+  "lon": -46.5436043
 }

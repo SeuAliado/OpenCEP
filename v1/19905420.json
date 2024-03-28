@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -23.0025136,
+  "lon": -49.8795771
 }

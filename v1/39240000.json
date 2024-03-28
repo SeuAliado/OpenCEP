@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joaquim Felício",
   "uf": "MG",
-  "ibge": "3136405"
+  "ibge": "3136405",
+  "lat": -17.7220432,
+  "lon": -44.1340439
 }

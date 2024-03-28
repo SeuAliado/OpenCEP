@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rita do Novo Destino",
   "uf": "GO",
-  "ibge": "5219456"
+  "ibge": "5219456",
+  "lat": -14.8290503,
+  "lon": -49.0009403
 }

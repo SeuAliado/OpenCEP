@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Esperança",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.940988,
+  "lon": -47.180243
 }

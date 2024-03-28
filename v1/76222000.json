@@ -5,5 +5,7 @@
   "bairro": "Bacilândia",
   "localidade": "Fazenda Nova",
   "uf": "GO",
-  "ibge": "5207600"
+  "ibge": "5207600",
+  "lat": -16.1322119,
+  "lon": -50.8650677
 }

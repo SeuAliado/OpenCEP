@@ -5,5 +5,7 @@
   "bairro": "São Sebastião do Pontal",
   "localidade": "Carneirinho",
   "uf": "MG",
-  "ibge": "3114550"
+  "ibge": "3114550",
+  "lat": -19.7510246,
+  "lon": -50.9132575
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Engenho Novo",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4874944,
+  "lon": -46.8901034
 }

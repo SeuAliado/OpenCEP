@@ -5,5 +5,7 @@
   "bairro": "Loteamento Menino Jesus II",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8995667,
+  "lon": -55.5033856
 }

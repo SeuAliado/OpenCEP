@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4007511,
+  "lon": -47.5670666
 }

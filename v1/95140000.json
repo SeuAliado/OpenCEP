@@ -5,5 +5,7 @@
   "bairro": "Vila Seca",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1822429,
+  "lon": -51.1691619
 }

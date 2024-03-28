@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Crisólita",
   "uf": "MG",
-  "ibge": "3120151"
+  "ibge": "3120151",
+  "lat": -17.2374773,
+  "lon": -40.911678
 }

@@ -5,5 +5,7 @@
   "bairro": "Maria Helena (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7857021,
+  "lon": -43.9917815
 }

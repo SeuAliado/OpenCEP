@@ -5,5 +5,7 @@
   "bairro": "Vila Giordano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4998062,
+  "lon": -46.4375214
 }

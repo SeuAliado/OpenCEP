@@ -5,5 +5,7 @@
   "bairro": "Jardim Capitólio",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.2015634,
+  "lon": -47.3940015
 }

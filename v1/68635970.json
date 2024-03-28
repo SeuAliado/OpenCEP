@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Domingos do Capim",
   "uf": "PA",
-  "ibge": "1507201"
+  "ibge": "1507201",
+  "lat": -1.6848931,
+  "lon": -47.7668558
 }

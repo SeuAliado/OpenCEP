@@ -5,5 +5,7 @@
   "bairro": "Salgados",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.439829,
+  "lon": -46.8349298
 }

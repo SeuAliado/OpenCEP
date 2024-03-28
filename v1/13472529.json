@@ -5,5 +5,7 @@
   "bairro": "Vila Cordenonsi",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7308999,
+  "lon": -47.3198132
 }

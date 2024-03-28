@@ -5,5 +5,7 @@
   "bairro": "Ori",
   "localidade": "Serrita",
   "uf": "PE",
-  "ibge": "2614006"
+  "ibge": "2614006",
+  "lat": -7.6925397,
+  "lon": -39.3623995
 }

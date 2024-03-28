@@ -5,5 +5,7 @@
   "bairro": "Parque São Joaquim",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4581754,
+  "lon": -43.8067508
 }

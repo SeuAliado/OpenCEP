@@ -5,5 +5,7 @@
   "bairro": "Alto São João",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7114288,
+  "lon": -43.8528209
 }

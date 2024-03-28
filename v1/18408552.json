@@ -5,5 +5,7 @@
   "bairro": "Vila dos Comerciários",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9912817,
+  "lon": -48.9001558
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Jardim América",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8791981,
+  "lon": -51.7106424
 }

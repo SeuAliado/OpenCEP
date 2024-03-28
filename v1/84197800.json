@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -25.4526898,
+  "lon": -49.2896505
 }

@@ -5,5 +5,7 @@
   "bairro": "Baroni",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.56797,
+  "lon": -48.5666032
 }

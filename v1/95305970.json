@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiraiaras",
   "uf": "RS",
-  "ibge": "4309902"
+  "ibge": "4309902",
+  "lat": -28.3721456,
+  "lon": -51.6351991
 }

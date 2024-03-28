@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Tereza de Goiás",
   "uf": "GO",
-  "ibge": "5219605"
+  "ibge": "5219605",
+  "lat": -13.5551953,
+  "lon": -49.0009403
 }

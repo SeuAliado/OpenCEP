@@ -5,5 +5,7 @@
   "bairro": "Nhô Quim",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7045978,
+  "lon": -47.6678924
 }

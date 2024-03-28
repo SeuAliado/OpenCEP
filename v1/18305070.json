@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -24.0163806,
+  "lon": -48.3406228
 }

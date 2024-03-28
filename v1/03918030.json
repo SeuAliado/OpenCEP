@@ -5,5 +5,7 @@
   "bairro": "Vila Bancária",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5912892,
+  "lon": -46.520233
 }

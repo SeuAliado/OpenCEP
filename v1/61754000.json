@@ -5,5 +5,7 @@
   "bairro": "Caponga da Bernarda",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "lat": -4.0521473,
+  "lon": -38.3638828
 }

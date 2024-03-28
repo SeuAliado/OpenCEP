@@ -5,5 +5,7 @@
   "bairro": "Ferradas",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8508553,
+  "lon": -39.3456142
 }

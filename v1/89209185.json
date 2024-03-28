@@ -5,5 +5,7 @@
   "bairro": "Parque Guarani",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "lat": -26.3516057,
+  "lon": -48.8100987
 }

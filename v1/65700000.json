@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bacabal",
   "uf": "MA",
-  "ibge": "2101202"
+  "ibge": "2101202",
+  "lat": -4.2221443,
+  "lon": -44.7855844
 }

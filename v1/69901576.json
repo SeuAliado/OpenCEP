@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -23.2661906,
+  "lon": -51.0310776
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião do Passé",
   "uf": "BA",
-  "ibge": "2929503"
+  "ibge": "2929503",
+  "lat": -12.5209356,
+  "lon": -38.4972301
 }

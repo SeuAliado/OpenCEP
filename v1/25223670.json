@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -29.8326035,
+  "lon": -51.143968
 }

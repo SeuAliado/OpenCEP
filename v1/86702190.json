@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Martinha",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.3958389,
+  "lon": -51.4552767
 }

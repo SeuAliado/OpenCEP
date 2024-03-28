@@ -5,5 +5,7 @@
   "bairro": "Jardim Gioia",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5952341,
+  "lon": -47.0294134
 }

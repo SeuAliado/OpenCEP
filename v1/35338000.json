@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ubaporanga",
   "uf": "MG",
-  "ibge": "3170057"
+  "ibge": "3170057",
+  "lat": -19.6355348,
+  "lon": -42.1063215
 }

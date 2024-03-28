@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jardim Alegre",
   "uf": "PR",
-  "ibge": "4112504"
+  "ibge": "4112504",
+  "lat": -24.1978475,
+  "lon": -51.7889062
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Minas Gerais",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9697118,
+  "lon": -49.8770525
 }

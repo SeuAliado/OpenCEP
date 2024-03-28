@@ -5,5 +5,7 @@
   "bairro": "Residencial III Milênio",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.075527,
+  "lon": -51.4115748
 }

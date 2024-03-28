@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0382626,
+  "lon": -34.9108319
 }

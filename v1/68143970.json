@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belterra",
   "uf": "PA",
-  "ibge": "1501451"
+  "ibge": "1501451",
+  "lat": -2.6367779,
+  "lon": -54.9325119
 }

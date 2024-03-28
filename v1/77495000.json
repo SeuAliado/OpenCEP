@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Rosalândia",
   "uf": "TO",
-  "ibge": "1715002"
+  "ibge": "1715002",
+  "lat": -10.5682623,
+  "lon": -48.9115512
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Marina",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.476378,
+  "lon": -54.6090798
 }

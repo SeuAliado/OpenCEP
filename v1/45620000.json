@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José da Vitória",
   "uf": "BA",
-  "ibge": "2929354"
+  "ibge": "2929354",
+  "lat": -15.0667827,
+  "lon": -39.3724892
 }

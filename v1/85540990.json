@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mangueirinha",
   "uf": "PR",
-  "ibge": "4114401"
+  "ibge": "4114401",
+  "lat": -25.9428004,
+  "lon": -52.1827679
 }

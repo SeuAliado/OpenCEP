@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jambalaia II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4697628,
+  "lon": -54.6273114
 }

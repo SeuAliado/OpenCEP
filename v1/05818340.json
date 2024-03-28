@@ -5,5 +5,7 @@
   "bairro": "Jardim Leni",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6627007,
+  "lon": -46.7318762
 }

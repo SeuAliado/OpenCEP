@@ -5,5 +5,7 @@
   "bairro": "Galeão",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4546829,
+  "lon": -51.9196098
 }

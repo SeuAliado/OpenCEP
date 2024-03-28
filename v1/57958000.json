@@ -5,5 +5,7 @@
   "bairro": "Barra Grande",
   "localidade": "Maragogi",
   "uf": "AL",
-  "ibge": "2704500"
+  "ibge": "2704500",
+  "lat": -8.9851097,
+  "lon": -35.1970757
 }

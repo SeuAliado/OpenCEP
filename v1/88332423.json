@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Balneário Camboriú",
   "uf": "SC",
-  "ibge": "4202008"
+  "ibge": "4202008",
+  "lat": -27.0241399,
+  "lon": -48.6031845
 }

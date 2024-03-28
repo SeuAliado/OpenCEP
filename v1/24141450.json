@@ -5,5 +5,7 @@
   "bairro": "Santa Bárbara",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8762586,
+  "lon": -43.0472821
 }

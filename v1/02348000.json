@@ -5,5 +5,7 @@
   "bairro": "Jardim Leonor Mendes de Barros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4612147,
+  "lon": -46.6088196
 }

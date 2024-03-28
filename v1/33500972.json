@@ -5,5 +5,7 @@
   "bairro": "Aeroporto Confins",
   "localidade": "Confins",
   "uf": "MG",
-  "ibge": "3117876"
+  "ibge": "3117876",
+  "lat": -19.6268913,
+  "lon": -43.9692217
 }

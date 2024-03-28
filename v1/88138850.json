@@ -5,5 +5,7 @@
   "bairro": "Enseada do Brito (Ens Brito)",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.7465925,
+  "lon": -48.6270931
 }

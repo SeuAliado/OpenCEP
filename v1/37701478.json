@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7961452,
+  "lon": -46.5760242
 }

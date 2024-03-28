@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pereiras",
   "uf": "SP",
-  "ibge": "3537503"
+  "ibge": "3537503",
+  "lat": -23.080856,
+  "lon": -47.9724612
 }

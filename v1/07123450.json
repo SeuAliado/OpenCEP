@@ -5,5 +5,7 @@
   "bairro": "Jardim Luciara",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4397537,
+  "lon": -46.5311985
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Castelo",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4473898,
+  "lon": -51.8875444
 }

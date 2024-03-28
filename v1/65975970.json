@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Estreito",
   "uf": "MA",
-  "ibge": "2104057"
+  "ibge": "2104057",
+  "lat": -6.5580049,
+  "lon": -47.44688
 }

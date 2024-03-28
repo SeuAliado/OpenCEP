@@ -5,5 +5,7 @@
   "bairro": "Conjunto Alfredo Freire",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7328258,
+  "lon": -47.9886972
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Miguel do Guaporé",
   "uf": "RO",
-  "ibge": "1100320"
+  "ibge": "1100320",
+  "lat": -11.6703396,
+  "lon": -62.7323884
 }

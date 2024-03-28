@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Selbach",
   "uf": "RS",
-  "ibge": "4320305"
+  "ibge": "4320305",
+  "lat": -28.3192179,
+  "lon": -52.797232
 }

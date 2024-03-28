@@ -5,5 +5,7 @@
   "bairro": "Jardim Country Club",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3106381,
+  "lon": -48.9910962
 }

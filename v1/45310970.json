@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubaíra",
   "uf": "BA",
-  "ibge": "2932101"
+  "ibge": "2932101",
+  "lat": -13.1037111,
+  "lon": -39.7929084
 }

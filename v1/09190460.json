@@ -5,5 +5,7 @@
   "bairro": "Vila Gilda",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6749334,
+  "lon": -46.537576
 }

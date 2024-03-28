@@ -5,5 +5,7 @@
   "bairro": "Dos Estados",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.391336,
+  "lon": -51.484261
 }

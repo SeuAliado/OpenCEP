@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vargem Grande do Rio Pardo",
   "uf": "MG",
-  "ibge": "3170651"
+  "ibge": "3170651",
+  "lat": -15.3686424,
+  "lon": -42.2756861
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7944334,
+  "lon": -47.1991507
 }

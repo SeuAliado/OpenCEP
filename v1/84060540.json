@@ -5,5 +5,7 @@
   "bairro": "Contorno",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "lat": -25.1091938,
+  "lon": -50.2171901
 }

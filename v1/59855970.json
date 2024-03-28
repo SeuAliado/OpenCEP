@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaú",
   "uf": "RN",
-  "ibge": "2404903"
+  "ibge": "2404903",
+  "lat": -5.8403828,
+  "lon": -37.9929512
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial União",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9659521,
+  "lon": -48.4679977
 }

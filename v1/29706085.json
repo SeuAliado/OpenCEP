@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Penha",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.520729,
+  "lon": -40.6524967
 }

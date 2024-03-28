@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bonanza",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6736121,
+  "lon": -46.3318154
 }

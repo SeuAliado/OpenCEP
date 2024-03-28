@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1460485,
+  "lon": -51.3815639
 }

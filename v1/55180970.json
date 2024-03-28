@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "lat": -7.986747,
+  "lon": -36.4956763
 }

@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -5.5552792,
+  "lon": -42.6118799
 }

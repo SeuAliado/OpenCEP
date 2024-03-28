@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Geraldo da Piedade",
   "uf": "MG",
-  "ibge": "3161601"
+  "ibge": "3161601",
+  "lat": -18.8415979,
+  "lon": -42.2870612
 }

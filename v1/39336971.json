@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Luislândia",
   "uf": "MG",
-  "ibge": "3138682"
+  "ibge": "3138682",
+  "lat": -16.4151299,
+  "lon": -44.2195492
 }

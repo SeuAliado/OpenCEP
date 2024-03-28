@@ -5,5 +5,7 @@
   "bairro": "Canaã",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -3.6565454,
+  "lon": -45.3844985
 }

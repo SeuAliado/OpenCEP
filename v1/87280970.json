@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iretama",
   "uf": "PR",
-  "ibge": "4110805"
+  "ibge": "4110805",
+  "lat": -24.4212894,
+  "lon": -52.103114
 }

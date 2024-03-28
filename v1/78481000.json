@@ -5,5 +5,7 @@
   "bairro": "Baús",
   "localidade": "Acorizal",
   "uf": "MT",
-  "ibge": "5100102"
+  "ibge": "5100102",
+  "lat": -15.5825245,
+  "lon": -56.0803236
 }

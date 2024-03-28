@@ -5,5 +5,7 @@
   "bairro": "Jardim Caiubi",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4385965,
+  "lon": -46.3192826
 }

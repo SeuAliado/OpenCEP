@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel das Missões",
   "uf": "RS",
-  "ibge": "4319158"
+  "ibge": "4319158",
+  "lat": -28.5456469,
+  "lon": -54.5505734
 }

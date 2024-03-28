@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.169984,
+  "lon": -37.3466706
 }

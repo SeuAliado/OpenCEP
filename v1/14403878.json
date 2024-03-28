@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Colinas",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5607159,
+  "lon": -47.3680434
 }

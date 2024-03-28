@@ -5,5 +5,7 @@
   "bairro": "Vila Rolândia",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4890474,
+  "lon": -46.3397043
 }

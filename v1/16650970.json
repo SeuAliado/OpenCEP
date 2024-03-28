@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uru",
   "uf": "SP",
-  "ibge": "3555901"
+  "ibge": "3555901",
+  "lat": -21.7853466,
+  "lon": -49.2800263
 }

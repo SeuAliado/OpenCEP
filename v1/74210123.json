@@ -5,5 +5,7 @@
   "bairro": "Vila Teófilo Neto",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6844694,
+  "lon": -49.2903013
 }

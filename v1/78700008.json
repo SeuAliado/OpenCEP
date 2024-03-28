@@ -5,5 +5,7 @@
   "bairro": "Vila Canaã",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4553714,
+  "lon": -54.6107316
 }

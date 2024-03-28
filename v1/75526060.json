@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.425361,
+  "lon": -49.220787
 }

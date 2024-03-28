@@ -5,5 +5,7 @@
   "bairro": "Vila das Palmeiras",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8600338,
+  "lon": -51.7162494
 }

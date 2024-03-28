@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Balneário Rincão",
   "uf": "SC",
-  "ibge": "4220000"
+  "ibge": "4220000",
+  "lat": -28.8247338,
+  "lon": -49.2294901
 }

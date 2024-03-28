@@ -5,5 +5,7 @@
   "bairro": "Parangaba",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8102791,
+  "lon": -38.5446737
 }

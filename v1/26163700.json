@@ -5,5 +5,7 @@
   "bairro": "Núcleo Colonial São Bento",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7025351,
+  "lon": -43.3800707
 }

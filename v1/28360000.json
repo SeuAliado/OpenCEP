@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus do Itabapoana",
   "uf": "RJ",
-  "ibge": "3300605"
+  "ibge": "3300605",
+  "lat": -21.145344,
+  "lon": -41.6826186
 }

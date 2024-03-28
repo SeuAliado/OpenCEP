@@ -5,5 +5,7 @@
   "bairro": "Parque Jambeiro",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9613988,
+  "lon": -47.0502015
 }

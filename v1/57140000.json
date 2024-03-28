@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coqueiro Seco",
   "uf": "AL",
-  "ibge": "2702207"
+  "ibge": "2702207",
+  "lat": -9.6438854,
+  "lon": -35.7952667
 }

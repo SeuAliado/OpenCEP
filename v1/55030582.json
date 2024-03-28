@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.3009736,
+  "lon": -35.9714686
 }

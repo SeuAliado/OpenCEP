@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8354044,
+  "lon": -55.5191819
 }

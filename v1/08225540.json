@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional A E Carvalho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5258976,
+  "lon": -46.4594391
 }

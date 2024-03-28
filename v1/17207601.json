@@ -5,5 +5,7 @@
   "bairro": "Vila São Judas Tadeu",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2778161,
+  "lon": -48.562491
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salinas",
   "uf": "MG",
-  "ibge": "3157005"
+  "ibge": "3157005",
+  "lat": -16.167456,
+  "lon": -42.2978984
 }

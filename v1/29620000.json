@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itarana",
   "uf": "ES",
-  "ibge": "3202900"
+  "ibge": "3202900",
+  "lat": -19.872623,
+  "lon": -40.8752658
 }

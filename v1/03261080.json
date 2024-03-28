@@ -5,5 +5,7 @@
   "bairro": "Jardim Teresa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5861559,
+  "lon": -46.5502959
 }

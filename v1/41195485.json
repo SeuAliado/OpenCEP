@@ -5,5 +5,7 @@
   "bairro": "Barreiras",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.94317,
+  "lon": -38.4590226
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila das Mangueiras",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.6951248,
+  "lon": -43.5474167
 }

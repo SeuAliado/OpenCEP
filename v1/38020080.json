@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Helena",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7535353,
+  "lon": -47.9441068
 }

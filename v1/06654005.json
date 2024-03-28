@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5406176,
+  "lon": -46.923526
 }

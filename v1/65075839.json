@@ -5,5 +5,7 @@
   "bairro": "Ponta do Farol",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.4909871,
+  "lon": -44.2918405
 }

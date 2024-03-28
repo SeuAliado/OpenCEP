@@ -5,5 +5,7 @@
   "bairro": "Retiro da Mantiqueira",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5590535,
+  "lon": -44.959994
 }

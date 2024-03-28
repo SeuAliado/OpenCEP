@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.2090074,
+  "lon": -48.1983355
 }

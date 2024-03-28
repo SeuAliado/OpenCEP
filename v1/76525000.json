@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uirapuru",
   "uf": "GO",
-  "ibge": "5221577"
+  "ibge": "5221577",
+  "lat": -14.124475,
+  "lon": -49.9777136
 }

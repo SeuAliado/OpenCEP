@@ -5,5 +5,7 @@
   "bairro": "Imperatriz",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.7157096,
+  "lon": -49.4454411
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Agudo",
   "uf": "RS",
-  "ibge": "4300109"
+  "ibge": "4300109",
+  "lat": -29.6429337,
+  "lon": -53.2505184
 }

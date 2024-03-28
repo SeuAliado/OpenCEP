@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaoca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6620689,
+  "lon": -46.7707365
 }

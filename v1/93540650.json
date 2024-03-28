@@ -5,5 +5,7 @@
   "bairro": "Hamburgo Velho",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.6830312,
+  "lon": -51.107109
 }

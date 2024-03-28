@@ -5,5 +5,7 @@
   "bairro": "Copacabana",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9188023,
+  "lon": -43.6359565
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jardim do Mulato",
   "uf": "PI",
-  "ibge": "2205250"
+  "ibge": "2205250",
+  "lat": -6.1847153,
+  "lon": -42.4331624
 }

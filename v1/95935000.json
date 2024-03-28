@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capitão",
   "uf": "RS",
-  "ibge": "4304697"
+  "ibge": "4304697",
+  "lat": -29.2703611,
+  "lon": -51.9875223
 }

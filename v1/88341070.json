@@ -5,5 +5,7 @@
   "bairro": "Lídia Duarte",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "lat": -27.0312826,
+  "lon": -48.6523594
 }

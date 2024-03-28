@@ -5,5 +5,7 @@
   "bairro": "Arajara",
   "localidade": "Barbalha",
   "uf": "CE",
-  "ibge": "2301901"
+  "ibge": "2301901",
+  "lat": -7.3337422,
+  "lon": -39.4107645
 }

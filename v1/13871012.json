@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9767061,
+  "lon": -46.8036664
 }

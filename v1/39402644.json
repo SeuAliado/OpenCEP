@@ -5,5 +5,7 @@
   "bairro": "Santo Inácio II",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7588325,
+  "lon": -43.8579157
 }

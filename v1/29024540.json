@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.296781,
+  "lon": -40.3411754
 }

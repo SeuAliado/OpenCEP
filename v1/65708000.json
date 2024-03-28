@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Luís Gonzaga do Maranhão",
   "uf": "MA",
-  "ibge": "2111409"
+  "ibge": "2111409",
+  "lat": -4.3774495,
+  "lon": -44.6698526
 }

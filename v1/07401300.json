@@ -5,5 +5,7 @@
   "bairro": "Jardim Modelo",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3941719,
+  "lon": -46.3223118
 }

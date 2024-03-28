@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Saboeiro",
   "uf": "CE",
-  "ibge": "2311900"
+  "ibge": "2311900",
+  "lat": -6.4605786,
+  "lon": -39.8990473
 }

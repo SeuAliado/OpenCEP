@@ -5,5 +5,7 @@
   "bairro": "Vila Pereira Jordão",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9123685,
+  "lon": -51.3865762
 }

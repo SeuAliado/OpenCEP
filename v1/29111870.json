@@ -5,5 +5,7 @@
   "bairro": "Nova América",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3469663,
+  "lon": -40.3566019
 }

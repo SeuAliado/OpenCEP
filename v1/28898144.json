@@ -5,5 +5,7 @@
   "bairro": "Mar do Norte",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4424741,
+  "lon": -41.8516988
 }

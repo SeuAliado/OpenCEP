@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gonçalo do Piauí",
   "uf": "PI",
-  "ibge": "2209807"
+  "ibge": "2209807",
+  "lat": -5.9980874,
+  "lon": -42.7032968
 }

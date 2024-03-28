@@ -5,5 +5,7 @@
   "bairro": "Primeiro de Maio",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3577534,
+  "lon": -40.3448915
 }

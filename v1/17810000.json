@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mariápolis",
   "uf": "SP",
-  "ibge": "3528908"
+  "ibge": "3528908",
+  "lat": -21.7963912,
+  "lon": -51.1829113
 }

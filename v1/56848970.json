@@ -5,5 +5,7 @@
   "bairro": "Jabitacá",
   "localidade": "Iguaraci",
   "uf": "PE",
-  "ibge": "2606903"
+  "ibge": "2606903",
+  "lat": -7.8275313,
+  "lon": -37.3717505
 }

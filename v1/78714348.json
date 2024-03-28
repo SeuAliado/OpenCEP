@@ -5,5 +5,7 @@
   "bairro": "Vila Itamaraty",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4382374,
+  "lon": -54.6215412
 }

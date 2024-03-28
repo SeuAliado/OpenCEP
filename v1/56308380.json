@@ -5,5 +5,7 @@
   "bairro": "Palhinhas",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3914635,
+  "lon": -40.5211972
 }

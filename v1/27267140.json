@@ -5,5 +5,7 @@
   "bairro": "Duzentos e Quarenta e Nove",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5343163,
+  "lon": -44.1267803
 }

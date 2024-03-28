@@ -5,5 +5,7 @@
   "bairro": "Vila União",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.6778229,
+  "lon": -40.370861
 }

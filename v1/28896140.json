@@ -5,5 +5,7 @@
   "bairro": "Chácara Mariléa",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4982674,
+  "lon": -41.9340002
 }

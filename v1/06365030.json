@@ -5,5 +5,7 @@
   "bairro": "Jardim Tonato",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5614694,
+  "lon": -46.8676614
 }

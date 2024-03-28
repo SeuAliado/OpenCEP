@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Palmeira das Missões",
   "uf": "RS",
-  "ibge": "4313706"
+  "ibge": "4313706",
+  "lat": -29.6658968,
+  "lon": -50.7725982
 }

@@ -5,5 +5,7 @@
   "bairro": "Capela Velha",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -23.36717,
+  "lon": -51.1586562
 }

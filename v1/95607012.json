@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "lat": -29.6537778,
+  "lon": -50.7750293
 }

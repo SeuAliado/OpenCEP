@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "José Bonifácio",
   "uf": "SP",
-  "ibge": "3525706"
+  "ibge": "3525706",
+  "lat": -21.0554245,
+  "lon": -49.6879972
 }

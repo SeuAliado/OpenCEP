@@ -5,5 +5,7 @@
   "bairro": "Vila Santa",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7436595,
+  "lon": -49.2397147
 }

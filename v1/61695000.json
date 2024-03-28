@@ -5,5 +5,7 @@
   "bairro": "Sítios Novos",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.7506031,
+  "lon": -38.9539367
 }

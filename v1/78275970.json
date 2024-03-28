@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Branco",
   "uf": "MT",
-  "ibge": "5107206"
+  "ibge": "5107206",
+  "lat": -15.2402314,
+  "lon": -58.1159017
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3268027,
+  "lon": -49.035347
 }

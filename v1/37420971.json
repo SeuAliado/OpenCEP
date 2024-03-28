@@ -5,5 +5,7 @@
   "bairro": "Congonhal",
   "localidade": "Cambuquira",
   "uf": "MG",
-  "ibge": "3110707"
+  "ibge": "3110707",
+  "lat": -21.8544727,
+  "lon": -45.290002
 }

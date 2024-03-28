@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vera Cruz",
   "uf": "SP",
-  "ibge": "3556602"
+  "ibge": "3556602",
+  "lat": -22.2185279,
+  "lon": -49.8237275
 }

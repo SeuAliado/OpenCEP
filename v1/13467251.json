@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Lírios",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7612131,
+  "lon": -47.3260202
 }

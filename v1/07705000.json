@@ -5,5 +5,7 @@
   "bairro": "Melhoramentos",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3656293,
+  "lon": -46.7509661
 }

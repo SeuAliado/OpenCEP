@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tabatinga",
   "uf": "AM",
-  "ibge": "1304062"
+  "ibge": "1304062",
+  "lat": -4.2262365,
+  "lon": -69.9367958
 }

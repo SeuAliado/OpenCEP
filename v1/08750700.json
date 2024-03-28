@@ -5,5 +5,7 @@
   "bairro": "Jundiapeba",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5498366,
+  "lon": -46.2559067
 }

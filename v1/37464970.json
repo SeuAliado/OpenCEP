@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itanhandu",
   "uf": "MG",
-  "ibge": "3133105"
+  "ibge": "3133105",
+  "lat": -22.2980494,
+  "lon": -44.936971
 }

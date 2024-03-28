@@ -5,5 +5,7 @@
   "bairro": "Ipaguaçú",
   "localidade": "Massapê",
   "uf": "CE",
-  "ibge": "2308005"
+  "ibge": "2308005",
+  "lat": -3.5240219,
+  "lon": -40.3426306
 }

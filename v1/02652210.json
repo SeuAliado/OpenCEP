@@ -5,5 +5,7 @@
   "bairro": "Jardim Antártica",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4615157,
+  "lon": -46.6593897
 }

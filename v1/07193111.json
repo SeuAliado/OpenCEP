@@ -5,5 +5,7 @@
   "bairro": "Vila Barros",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4473456,
+  "lon": -46.5004546
 }

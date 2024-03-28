@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1338756,
+  "lon": -58.4392839
 }

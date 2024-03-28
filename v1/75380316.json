@@ -5,5 +5,7 @@
   "bairro": "Setor Maysa",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6358775,
+  "lon": -49.3908409
 }

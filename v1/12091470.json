@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Luzia",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0448847,
+  "lon": -45.5687821
 }

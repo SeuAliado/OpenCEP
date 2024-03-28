@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Nova do Sul",
   "uf": "RS",
-  "ibge": "4323457"
+  "ibge": "4323457",
+  "lat": -30.3466219,
+  "lon": -53.8765759
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Orizânia",
   "uf": "MG",
-  "ibge": "3145877"
+  "ibge": "3145877",
+  "lat": -20.5146504,
+  "lon": -42.1995236
 }

@@ -5,5 +5,7 @@
   "bairro": "Paz",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -19.8096344,
+  "lon": -43.9998179
 }

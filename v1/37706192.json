@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.8472607,
+  "lon": -46.5657876
 }

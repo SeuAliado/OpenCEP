@@ -5,5 +5,7 @@
   "bairro": "Sítio Recreio dos Cafezais",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -23.0216486,
+  "lon": -47.0243193
 }

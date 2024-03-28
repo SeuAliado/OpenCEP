@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pindaí",
   "uf": "BA",
-  "ibge": "2924504"
+  "ibge": "2924504",
+  "lat": -14.4817217,
+  "lon": -42.6789198
 }

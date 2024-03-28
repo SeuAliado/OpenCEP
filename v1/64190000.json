@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Batalha",
   "uf": "PI",
-  "ibge": "2201507"
+  "ibge": "2201507",
+  "lat": -4.0662852,
+  "lon": -42.1572702
 }

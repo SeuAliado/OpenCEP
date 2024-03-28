@@ -5,5 +5,7 @@
   "bairro": "Natal",
   "localidade": "Araguatins",
   "uf": "TO",
-  "ibge": "1702208"
+  "ibge": "1702208",
+  "lat": -5.8813803,
+  "lon": -48.1605525
 }

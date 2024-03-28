@@ -5,5 +5,7 @@
   "bairro": "São Francisco (São Sebastião)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.9161201,
+  "lon": -47.7598429
 }

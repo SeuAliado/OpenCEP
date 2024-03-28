@@ -5,5 +5,7 @@
   "bairro": "Mangueiras de Itu",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2464778,
+  "lon": -47.301148
 }

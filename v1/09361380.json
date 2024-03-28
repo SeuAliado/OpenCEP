@@ -5,5 +5,7 @@
   "bairro": "Vila Mercedes",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6986267,
+  "lon": -46.4491295
 }

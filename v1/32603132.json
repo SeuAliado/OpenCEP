@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9650487,
+  "lon": -44.2102164
 }

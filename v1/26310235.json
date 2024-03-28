@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.748585,
+  "lon": -43.5730632
 }

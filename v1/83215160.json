@@ -5,5 +5,7 @@
   "bairro": "Jardim Paranaguá",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5713512,
+  "lon": -48.5727402
 }

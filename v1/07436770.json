@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4178582,
+  "lon": -46.291088
 }

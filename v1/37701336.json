@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7900738,
+  "lon": -46.585806
 }

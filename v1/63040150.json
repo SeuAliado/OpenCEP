@@ -5,5 +5,7 @@
   "bairro": "Lagoa Seca",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.2490658,
+  "lon": -39.3240591
 }

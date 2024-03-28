@@ -5,5 +5,7 @@
   "bairro": "Pedra do Sino",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "lat": -20.9023341,
+  "lon": -43.8277221
 }

@@ -5,5 +5,7 @@
   "bairro": "Altos da Boa Vista",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0843154,
+  "lon": -48.9203754
 }

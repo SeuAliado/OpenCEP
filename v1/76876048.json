@@ -5,5 +5,7 @@
   "bairro": "Raio de Luz",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.9393923,
+  "lon": -63.0168199
 }

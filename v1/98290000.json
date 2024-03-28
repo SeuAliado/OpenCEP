@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Condor",
   "uf": "RS",
-  "ibge": "4305702"
+  "ibge": "4305702",
+  "lat": -28.1818047,
+  "lon": -53.4986586
 }

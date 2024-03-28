@@ -5,5 +5,7 @@
   "bairro": "Portal Mantiqueira",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0540755,
+  "lon": -45.7243301
 }

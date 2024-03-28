@@ -5,5 +5,7 @@
   "bairro": "Vila dos Ingás II",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3793668,
+  "lon": -40.4872699
 }

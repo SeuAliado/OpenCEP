@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5929096,
+  "lon": -46.523504
 }

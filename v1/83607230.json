@@ -5,5 +5,7 @@
   "bairro": "Vila Otto",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4519648,
+  "lon": -49.5164566
 }

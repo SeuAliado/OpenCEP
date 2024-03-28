@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sigefredo Pacheco",
   "uf": "PI",
-  "ibge": "2210656"
+  "ibge": "2210656",
+  "lat": -4.9149267,
+  "lon": -41.7338762
 }

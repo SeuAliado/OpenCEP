@@ -5,5 +5,7 @@
   "bairro": "Vila Melhado",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8065482,
+  "lon": -48.1658281
 }

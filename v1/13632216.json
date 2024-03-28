@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.008643,
+  "lon": -47.416272
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Ponta Porã I",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.509276,
+  "lon": -55.7302089
 }

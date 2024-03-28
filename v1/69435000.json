@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Manaquiri",
   "uf": "AM",
-  "ibge": "1302553"
+  "ibge": "1302553",
+  "lat": -3.9148823,
+  "lon": -60.8609358
 }

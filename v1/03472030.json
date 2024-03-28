@@ -5,5 +5,7 @@
   "bairro": "Jardim Haia do Carrão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5732696,
+  "lon": -46.5205756
 }

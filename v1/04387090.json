@@ -5,5 +5,7 @@
   "bairro": "Cidade Domitila",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6624233,
+  "lon": -46.6503107
 }

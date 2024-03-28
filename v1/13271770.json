@@ -5,5 +5,7 @@
   "bairro": "Colinas dos Álamos",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9451843,
+  "lon": -46.9935824
 }

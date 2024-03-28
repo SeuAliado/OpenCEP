@@ -5,5 +5,7 @@
   "bairro": "Jardim Almeida",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -21.9709463,
+  "lon": -46.7886657
 }

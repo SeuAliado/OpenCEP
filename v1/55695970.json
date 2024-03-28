@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sairé",
   "uf": "PE",
-  "ibge": "2612000"
+  "ibge": "2612000",
+  "lat": -8.2359309,
+  "lon": -35.7548652
 }

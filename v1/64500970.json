@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Oeiras",
   "uf": "PI",
-  "ibge": "2207009"
+  "ibge": "2207009",
+  "lat": -7.0175969,
+  "lon": -42.1317599
 }

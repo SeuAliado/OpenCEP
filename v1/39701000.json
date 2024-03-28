@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Peçanha",
   "uf": "MG",
-  "ibge": "3148608"
+  "ibge": "3148608",
+  "lat": -18.5445557,
+  "lon": -42.5586738
 }

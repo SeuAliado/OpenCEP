@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bento",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7127368,
+  "lon": -43.3479306
 }

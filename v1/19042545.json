@@ -5,5 +5,7 @@
   "bairro": "Residencial Itapuã",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1350559,
+  "lon": -51.3679128
 }

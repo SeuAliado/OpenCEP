@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tibagi",
   "uf": "PR",
-  "ibge": "4127502"
+  "ibge": "4127502",
+  "lat": -24.515282,
+  "lon": -50.4121699
 }

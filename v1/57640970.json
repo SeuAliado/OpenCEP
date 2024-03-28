@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taquarana",
   "uf": "AL",
-  "ibge": "2709103"
+  "ibge": "2709103",
+  "lat": -9.6458538,
+  "lon": -36.493535
 }

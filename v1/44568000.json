@@ -5,5 +5,7 @@
   "bairro": "Taboleiro do Castro",
   "localidade": "Varzedo",
   "uf": "BA",
-  "ibge": "2933174"
+  "ibge": "2933174",
+  "lat": -12.9347526,
+  "lon": -39.39999
 }

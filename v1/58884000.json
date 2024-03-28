@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Catolé do Rocha",
   "uf": "PB",
-  "ibge": "2504306"
+  "ibge": "2504306",
+  "lat": -6.3478413,
+  "lon": -37.7459981
 }

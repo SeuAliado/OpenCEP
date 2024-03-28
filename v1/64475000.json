@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Francisco Ayres",
   "uf": "PI",
-  "ibge": "2204105"
+  "ibge": "2204105",
+  "lat": -6.6767651,
+  "lon": -42.7466993
 }

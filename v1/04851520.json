@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Verde",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.7542962,
+  "lon": -47.6407837
 }

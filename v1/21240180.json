@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8099361,
+  "lon": -43.3282068
 }

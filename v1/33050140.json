@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7433038,
+  "lon": -43.8774558
 }

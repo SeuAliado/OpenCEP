@@ -5,5 +5,7 @@
   "bairro": "Vila São José Bassa",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5629042,
+  "lon": -51.4513671
 }

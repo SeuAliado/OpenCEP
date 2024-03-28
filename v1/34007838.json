@@ -5,5 +5,7 @@
   "bairro": "Serra dos Manacás",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0838706,
+  "lon": -43.9870799
 }

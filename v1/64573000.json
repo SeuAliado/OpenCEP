@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Massapê do Piauí",
   "uf": "PI",
-  "ibge": "2206050"
+  "ibge": "2206050",
+  "lat": -7.4629672,
+  "lon": -41.1260303
 }

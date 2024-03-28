@@ -5,5 +5,7 @@
   "bairro": "Pedras de Una",
   "localidade": "Una",
   "uf": "BA",
-  "ibge": "2932507"
+  "ibge": "2932507",
+  "lat": -15.2823064,
+  "lon": -39.0209977
 }

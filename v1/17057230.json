@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Presidente Eurico Gaspar Dutra",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3244098,
+  "lon": -49.1251966
 }

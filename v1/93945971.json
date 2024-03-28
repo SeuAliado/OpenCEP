@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Lucena",
   "uf": "RS",
-  "ibge": "4315149"
+  "ibge": "4315149",
+  "lat": -29.5817835,
+  "lon": -51.1627363
 }

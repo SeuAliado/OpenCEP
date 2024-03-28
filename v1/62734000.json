@@ -5,5 +5,7 @@
   "bairro": "Campos Belos",
   "localidade": "Caridade",
   "uf": "CE",
-  "ibge": "2303006"
+  "ibge": "2303006",
+  "lat": -4.0904302,
+  "lon": -39.0487683
 }

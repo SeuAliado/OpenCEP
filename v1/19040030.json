@@ -5,5 +5,7 @@
   "bairro": "Vila Iti",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1302675,
+  "lon": -51.3850901
 }

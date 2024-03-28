@@ -5,5 +5,7 @@
   "bairro": "Piraporinha",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.6861385,
+  "lon": -46.5897689
 }

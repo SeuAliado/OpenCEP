@@ -5,5 +5,7 @@
   "bairro": "Jardim Faria Lima",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6329012,
+  "lon": -46.7651332
 }

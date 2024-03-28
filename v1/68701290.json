@@ -5,5 +5,7 @@
   "bairro": "Dom João VI",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1977925,
+  "lon": -47.1818526
 }

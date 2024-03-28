@@ -5,5 +5,7 @@
   "bairro": "Karina",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9128916,
+  "lon": -45.3612547
 }

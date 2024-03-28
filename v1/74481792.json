@@ -5,5 +5,7 @@
   "bairro": "Residencial Fonte das Águas",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -15.9063186,
+  "lon": -50.2365008
 }

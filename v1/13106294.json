@@ -5,5 +5,7 @@
   "bairro": "Jardim Atibaia (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8814254,
+  "lon": -46.9644094
 }

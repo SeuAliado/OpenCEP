@@ -5,5 +5,7 @@
   "bairro": "Tabocas",
   "localidade": "Exu",
   "uf": "PE",
-  "ibge": "2605301"
+  "ibge": "2605301",
+  "lat": -7.4321513,
+  "lon": -39.8372476
 }

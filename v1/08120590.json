@@ -5,5 +5,7 @@
   "bairro": "Jardim Virginia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4981887,
+  "lon": -46.3907121
 }

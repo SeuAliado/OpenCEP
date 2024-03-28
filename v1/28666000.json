@@ -5,5 +5,7 @@
   "bairro": "Barra Alegre",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "lat": -22.528963,
+  "lon": -44.1538241
 }

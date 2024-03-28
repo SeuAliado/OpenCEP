@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4545123,
+  "lon": -54.6351891
 }

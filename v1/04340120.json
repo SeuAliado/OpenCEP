@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Clima",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -20.4101304,
+  "lon": -49.9814739
 }

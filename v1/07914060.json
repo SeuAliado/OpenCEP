@@ -5,5 +5,7 @@
   "bairro": "Jardim Magalhães",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2787729,
+  "lon": -46.7547097
 }

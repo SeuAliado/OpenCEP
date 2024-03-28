@@ -5,5 +5,7 @@
   "bairro": "Jardim Fim de Semana",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6977086,
+  "lon": -43.2602115
 }

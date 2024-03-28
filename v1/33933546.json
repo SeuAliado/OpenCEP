@@ -5,5 +5,7 @@
   "bairro": "Urca (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7833388,
+  "lon": -44.0263009
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cabral",
   "localidade": "Registro",
   "uf": "SP",
-  "ibge": "3542602"
+  "ibge": "3542602",
+  "lat": -24.4971752,
+  "lon": -47.840311
 }

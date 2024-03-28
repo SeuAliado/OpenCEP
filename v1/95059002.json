@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1176565,
+  "lon": -51.1217177
 }

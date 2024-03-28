@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1953068,
+  "lon": -48.2040884
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto da Colina",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9532509,
+  "lon": -47.0003231
 }

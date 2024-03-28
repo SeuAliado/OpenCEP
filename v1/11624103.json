@@ -5,5 +5,7 @@
   "bairro": "Barra do Una",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.763036,
+  "lon": -45.760385
 }

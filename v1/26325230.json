@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7186334,
+  "lon": -43.5547658
 }

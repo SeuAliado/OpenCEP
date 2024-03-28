@@ -5,5 +5,7 @@
   "bairro": "Vargem das Flores",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.928506,
+  "lon": -44.1781703
 }

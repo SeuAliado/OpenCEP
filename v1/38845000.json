@@ -5,5 +5,7 @@
   "bairro": "Quintinos",
   "localidade": "Carmo do Paranaíba",
   "uf": "MG",
-  "ibge": "3114303"
+  "ibge": "3114303",
+  "lat": -18.8583987,
+  "lon": -46.0861303
 }

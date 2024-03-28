@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Desterro",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2926146,
+  "lon": -51.1699871
 }

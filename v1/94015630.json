@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jardim Timbaúva",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9234969,
+  "lon": -50.9886752
 }

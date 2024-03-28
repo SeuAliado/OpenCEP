@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cubati",
   "uf": "PB",
-  "ibge": "2505006"
+  "ibge": "2505006",
+  "lat": -6.8666797,
+  "lon": -36.3530918
 }

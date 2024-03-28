@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Assaré",
   "uf": "CE",
-  "ibge": "2301604"
+  "ibge": "2301604",
+  "lat": -6.8673,
+  "lon": -39.8692294
 }

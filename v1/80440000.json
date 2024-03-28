@@ -5,5 +5,7 @@
   "bairro": "Seminário",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4494063,
+  "lon": -49.3015337
 }

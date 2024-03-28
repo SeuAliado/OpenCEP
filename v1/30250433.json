@@ -5,5 +5,7 @@
   "bairro": "Fazendinha",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.930321,
+  "lon": -43.9042568
 }

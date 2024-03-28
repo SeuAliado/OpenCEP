@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itinga do Maranhão",
   "uf": "MA",
-  "ibge": "2105427"
+  "ibge": "2105427",
+  "lat": -4.5748073,
+  "lon": -47.4882762
 }

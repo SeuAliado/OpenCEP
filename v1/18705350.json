@@ -5,5 +5,7 @@
   "bairro": "Vila São Felipe",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1008566,
+  "lon": -48.9330682
 }

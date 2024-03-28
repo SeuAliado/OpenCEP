@@ -5,5 +5,7 @@
   "bairro": "Vila Moura",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3708126,
+  "lon": -39.2848831
 }

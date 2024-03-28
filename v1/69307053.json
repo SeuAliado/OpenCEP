@@ -5,5 +5,7 @@
   "bairro": "Paraviana",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8617389,
+  "lon": -60.6564467
 }

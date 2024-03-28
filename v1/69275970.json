@@ -5,5 +5,7 @@
   "bairro": "Sucunduri",
   "localidade": "Apuí",
   "uf": "AM",
-  "ibge": "1300144"
+  "ibge": "1300144",
+  "lat": -6.7921009,
+  "lon": -59.0384604
 }

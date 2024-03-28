@@ -5,5 +5,7 @@
   "bairro": "Serra Azul",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.905129,
+  "lon": -51.7381409
 }

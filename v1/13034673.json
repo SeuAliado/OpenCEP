@@ -5,5 +5,7 @@
   "bairro": "Vila São Bento",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9141053,
+  "lon": -47.0959009
 }

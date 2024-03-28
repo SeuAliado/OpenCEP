@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Planalto",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1381118,
+  "lon": -51.3804895
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "lat": -16.1026779,
+  "lon": -47.9481988
 }

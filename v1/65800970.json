@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Balsas",
   "uf": "MA",
-  "ibge": "2101400"
+  "ibge": "2101400",
+  "lat": -7.5312178,
+  "lon": -46.0356316
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Marialva",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4527055,
+  "lon": -54.6243929
 }

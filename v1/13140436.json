@@ -5,5 +5,7 @@
   "bairro": "Vila José Paulino Nogueira",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7730883,
+  "lon": -47.1619467
 }

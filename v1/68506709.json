@@ -5,5 +5,7 @@
   "bairro": "Morada Nova",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "lat": -8.2874357,
+  "lon": -49.2752269
 }

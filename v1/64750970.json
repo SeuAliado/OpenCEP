@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulistana",
   "uf": "PI",
-  "ibge": "2207801"
+  "ibge": "2207801",
+  "lat": -8.1396008,
+  "lon": -41.1470572
 }

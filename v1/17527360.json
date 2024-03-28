@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2191515,
+  "lon": -49.9774702
 }

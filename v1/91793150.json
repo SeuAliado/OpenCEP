@@ -5,5 +5,7 @@
   "bairro": "Restinga",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.1487034,
+  "lon": -51.147881
 }

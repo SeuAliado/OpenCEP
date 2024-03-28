@@ -5,5 +5,7 @@
   "bairro": "Praia Comprida",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -19.7507469,
+  "lon": -40.3799317
 }

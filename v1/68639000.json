@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goianésia do Pará",
   "uf": "PA",
-  "ibge": "1503093"
+  "ibge": "1503093",
+  "lat": -3.9421515,
+  "lon": -48.8799972
 }

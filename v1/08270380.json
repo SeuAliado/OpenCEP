@@ -5,5 +5,7 @@
   "bairro": "Vila Chuca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5620746,
+  "lon": -46.454488
 }

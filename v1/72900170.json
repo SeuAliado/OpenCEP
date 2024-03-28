@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Descoberto",
   "uf": "GO",
-  "ibge": "5219753"
+  "ibge": "5219753",
+  "lat": -15.9419741,
+  "lon": -48.260836
 }

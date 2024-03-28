@@ -5,5 +5,7 @@
   "bairro": "Jardim Senice",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5150882,
+  "lon": -46.4093186
 }

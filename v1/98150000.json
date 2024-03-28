@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pinhal Grande",
   "uf": "RS",
-  "ibge": "4314472"
+  "ibge": "4314472",
+  "lat": -29.2936875,
+  "lon": -53.3258513
 }

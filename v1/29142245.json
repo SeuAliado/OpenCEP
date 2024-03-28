@@ -5,5 +5,7 @@
   "bairro": "Formate",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3639609,
+  "lon": -40.394947
 }

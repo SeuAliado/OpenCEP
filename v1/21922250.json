@@ -5,5 +5,7 @@
   "bairro": "Dendê",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8892051,
+  "lon": -43.4404856
 }

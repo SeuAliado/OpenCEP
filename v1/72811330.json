@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Jofre Parada",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2422686,
+  "lon": -47.9625764
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista I",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1989286,
+  "lon": -46.895109
 }

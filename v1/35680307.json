@@ -5,5 +5,7 @@
   "bairro": "Morada Nova",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0933057,
+  "lon": -44.5887853
 }

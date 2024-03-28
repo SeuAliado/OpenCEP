@@ -5,5 +5,7 @@
   "bairro": "Serra do Curral",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0311132,
+  "lon": -43.9699169
 }

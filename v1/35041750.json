@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8990604,
+  "lon": -41.9560673
 }

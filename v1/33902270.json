@@ -5,5 +5,7 @@
   "bairro": "Botafogo (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7923355,
+  "lon": -44.0178038
 }

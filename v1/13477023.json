@@ -5,5 +5,7 @@
   "bairro": "Campo Limpo",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7371194,
+  "lon": -47.3089261
 }

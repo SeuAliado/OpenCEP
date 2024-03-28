@@ -5,5 +5,7 @@
   "bairro": "Santo Hipólito",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8472977,
+  "lon": -43.1948102
 }

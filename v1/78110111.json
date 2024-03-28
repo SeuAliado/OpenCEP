@@ -5,5 +5,7 @@
   "bairro": "Centro-Sul",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

@@ -5,5 +5,7 @@
   "bairro": "Espinheiros",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -26.893687,
+  "lon": -48.742915
 }

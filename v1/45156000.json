@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Ribeirão do Largo",
   "uf": "BA",
-  "ibge": "2926657"
+  "ibge": "2926657",
+  "lat": -15.5141627,
+  "lon": -40.6192203
 }

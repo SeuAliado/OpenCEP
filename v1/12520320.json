@@ -5,5 +5,7 @@
   "bairro": "Vila Brasil",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7932262,
+  "lon": -45.1726721
 }

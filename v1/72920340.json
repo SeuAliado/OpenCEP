@@ -5,5 +5,7 @@
   "bairro": "Jardim da Barragem IV",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7338192,
+  "lon": -48.2889543
 }

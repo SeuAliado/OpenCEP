@@ -5,5 +5,7 @@
   "bairro": "Morobá",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8263813,
+  "lon": -40.2571192
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Prata do Piauí",
   "uf": "PI",
-  "ibge": "2208601"
+  "ibge": "2208601",
+  "lat": -5.6730454,
+  "lon": -42.2050202
 }

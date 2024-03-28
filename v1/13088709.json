@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Gênesis",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8507979,
+  "lon": -47.0314229
 }

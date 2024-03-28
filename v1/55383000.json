@@ -5,5 +5,7 @@
   "bairro": "Cabanas",
   "localidade": "Cachoeirinha",
   "uf": "PE",
-  "ibge": "2603108"
+  "ibge": "2603108",
+  "lat": -8.4200174,
+  "lon": -36.3316515
 }

@@ -5,5 +5,7 @@
   "bairro": "Campina de Feira",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8263609,
+  "lon": -34.911189
 }

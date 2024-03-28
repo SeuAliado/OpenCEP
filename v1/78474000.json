@@ -5,5 +5,7 @@
   "bairro": "Bauxi",
   "localidade": "Rosário Oeste",
   "uf": "MT",
-  "ibge": "5107701"
+  "ibge": "5107701",
+  "lat": -8.128379,
+  "lon": -34.9419779
 }

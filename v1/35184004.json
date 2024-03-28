@@ -5,5 +5,7 @@
   "bairro": "Cachoeira do Vale",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.529912,
+  "lon": -42.6665527
 }

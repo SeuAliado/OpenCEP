@@ -5,5 +5,7 @@
   "bairro": "Vila Itaqui",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4636281,
+  "lon": -49.5727616
 }

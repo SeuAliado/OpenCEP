@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Luzia do Norte",
   "uf": "AL",
-  "ibge": "2707909"
+  "ibge": "2707909",
+  "lat": -9.6041272,
+  "lon": -35.8235202
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ocara",
   "uf": "CE",
-  "ibge": "2309458"
+  "ibge": "2309458",
+  "lat": -4.4907031,
+  "lon": -38.5991084
 }

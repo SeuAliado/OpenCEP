@@ -5,5 +5,7 @@
   "bairro": "São João de Cortes",
   "localidade": "Alcântara",
   "uf": "MA",
-  "ibge": "2100204"
+  "ibge": "2100204",
+  "lat": -2.4067803,
+  "lon": -44.4151741
 }

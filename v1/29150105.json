@@ -5,5 +5,7 @@
   "bairro": "Itacibá",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.332556,
+  "lon": -40.374448
 }

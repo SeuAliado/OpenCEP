@@ -5,5 +5,7 @@
   "bairro": "Estrela Vera",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2499352,
+  "lon": -54.7425637
 }

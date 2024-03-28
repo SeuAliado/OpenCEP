@@ -5,5 +5,7 @@
   "bairro": "Barão Ataliba Nogueira",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.3924414,
+  "lon": -46.7387578
 }

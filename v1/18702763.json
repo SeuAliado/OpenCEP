@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Egydio Martins da Costa",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1200626,
+  "lon": -48.9103643
 }

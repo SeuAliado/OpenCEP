@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Descalvado",
   "uf": "SP",
-  "ibge": "3513702"
+  "ibge": "3513702",
+  "lat": -21.9039442,
+  "lon": -47.6202806
 }

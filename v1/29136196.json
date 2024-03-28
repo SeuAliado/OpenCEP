@@ -5,5 +5,7 @@
   "bairro": "Arlindo Villaschi",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.3526762,
+  "lon": -40.4291301
 }

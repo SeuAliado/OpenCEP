@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -16.0029098,
+  "lon": -48.0522945
 }

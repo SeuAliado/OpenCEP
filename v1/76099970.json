@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Palminópolis",
   "uf": "GO",
-  "ibge": "5215900"
+  "ibge": "5215900",
+  "lat": -16.7960505,
+  "lon": -50.1674727
 }

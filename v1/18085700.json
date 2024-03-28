@@ -5,5 +5,7 @@
   "bairro": "Jardim São Judas Tadeu",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4657288,
+  "lon": -47.4325816
 }

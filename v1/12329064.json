@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedra Mar",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3210378,
+  "lon": -46.0306099
 }

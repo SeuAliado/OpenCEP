@@ -5,5 +5,7 @@
   "bairro": "Parque Urupês",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -22.9995305,
+  "lon": -45.5343744
 }

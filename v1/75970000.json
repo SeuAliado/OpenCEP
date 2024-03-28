@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Turvelândia",
   "uf": "GO",
-  "ibge": "5221551"
+  "ibge": "5221551",
+  "lat": -17.8494208,
+  "lon": -50.3044324
 }

@@ -5,5 +5,7 @@
   "bairro": "Tupinambá",
   "localidade": "Astorga",
   "uf": "PR",
-  "ibge": "4102109"
+  "ibge": "4102109",
+  "lat": -23.2279129,
+  "lon": -51.6604609
 }

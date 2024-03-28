@@ -5,5 +5,7 @@
   "bairro": "Vila Roriz",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2581557,
+  "lon": -47.9597834
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matinhas",
   "uf": "PB",
-  "ibge": "2509339"
+  "ibge": "2509339",
+  "lat": -7.1227103,
+  "lon": -35.7710682
 }

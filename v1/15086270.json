@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8467029,
+  "lon": -49.386073
 }

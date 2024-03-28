@@ -5,5 +5,7 @@
   "bairro": "Kennedy",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.2823264,
+  "lon": -35.998005
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capim Branco",
   "uf": "MG",
-  "ibge": "3112505"
+  "ibge": "3112505",
+  "lat": -19.5475458,
+  "lon": -44.1307647
 }

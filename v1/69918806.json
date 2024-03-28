@@ -5,5 +5,7 @@
   "bairro": "Conquista",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9255999,
+  "lon": -67.8363966
 }

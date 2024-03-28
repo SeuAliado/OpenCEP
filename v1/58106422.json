@@ -5,5 +5,7 @@
   "bairro": "Amazônia Park",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "lat": -7.0435867,
+  "lon": -34.8485953
 }

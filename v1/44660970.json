@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serra Preta",
   "uf": "BA",
-  "ibge": "2930402"
+  "ibge": "2930402",
+  "lat": -12.1576789,
+  "lon": -39.4589239
 }

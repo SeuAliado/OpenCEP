@@ -5,5 +5,7 @@
   "bairro": "Residencial Cléa Borges",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6961028,
+  "lon": -49.2031433
 }

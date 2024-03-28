@@ -5,5 +5,7 @@
   "bairro": "Doutor Pedro Pezzuti",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5964269,
+  "lon": -46.9308732
 }

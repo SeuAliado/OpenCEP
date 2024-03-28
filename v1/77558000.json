@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Oliveira de Fátima",
   "uf": "TO",
-  "ibge": "1715507"
+  "ibge": "1715507",
+  "lat": -10.7073755,
+  "lon": -48.9090444
 }

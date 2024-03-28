@@ -5,5 +5,7 @@
   "bairro": "Vila Horizonte",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5284355,
+  "lon": -48.5336595
 }

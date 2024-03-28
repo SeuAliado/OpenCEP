@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lamarão",
   "uf": "BA",
-  "ibge": "2919108"
+  "ibge": "2919108",
+  "lat": -11.7960249,
+  "lon": -38.8795077
 }

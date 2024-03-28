@@ -5,5 +5,7 @@
   "bairro": "Tietê",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -23.2957063,
+  "lon": -51.1633786
 }

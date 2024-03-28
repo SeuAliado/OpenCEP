@@ -5,5 +5,7 @@
   "bairro": "Pitangueiras",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9968696,
+  "lon": -46.2596187
 }

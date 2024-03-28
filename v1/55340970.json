@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Águas Belas",
   "uf": "PE",
-  "ibge": "2600500"
+  "ibge": "2600500",
+  "lat": -9.1123899,
+  "lon": -37.1213856
 }

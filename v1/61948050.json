@@ -5,5 +5,7 @@
   "bairro": "Aldeoma",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.9007364,
+  "lon": -38.6811866
 }

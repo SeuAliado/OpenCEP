@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itatiaia",
   "uf": "RJ",
-  "ibge": "3302254"
+  "ibge": "3302254",
+  "lat": -22.4902027,
+  "lon": -44.5679107
 }

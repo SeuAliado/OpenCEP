@@ -5,5 +5,7 @@
   "bairro": "Jardim Adélia",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7185882,
+  "lon": -46.774344
 }

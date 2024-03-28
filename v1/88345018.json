@@ -5,5 +5,7 @@
   "bairro": "Areias",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "lat": -26.9949769,
+  "lon": -48.6498971
 }

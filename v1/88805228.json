@@ -5,5 +5,7 @@
   "bairro": "Pinheirinho",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6954609,
+  "lon": -49.3986189
 }

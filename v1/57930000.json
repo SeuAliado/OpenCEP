@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Passo de Camaragibe",
   "uf": "AL",
-  "ibge": "2706505"
+  "ibge": "2706505",
+  "lat": -9.2429532,
+  "lon": -35.4899368
 }

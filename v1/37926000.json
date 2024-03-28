@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Doresópolis",
   "uf": "MG",
-  "ibge": "3123403"
+  "ibge": "3123403",
+  "lat": -20.2873064,
+  "lon": -45.9011556
 }

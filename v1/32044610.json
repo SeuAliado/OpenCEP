@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9052338,
+  "lon": -44.0821565
 }

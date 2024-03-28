@@ -5,5 +5,7 @@
   "bairro": "Jardim das Bandeiras",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0166185,
+  "lon": -45.5836955
 }

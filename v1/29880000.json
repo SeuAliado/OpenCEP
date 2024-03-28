@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mucurici",
   "uf": "ES",
-  "ibge": "3203601"
+  "ibge": "3203601",
+  "lat": -18.0027044,
+  "lon": -40.5127142
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.3753628,
+  "lon": -42.6866893
 }

@@ -5,5 +5,7 @@
   "bairro": "KM 1",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7606102,
+  "lon": -63.8946912
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Ana Rosa",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6674372,
+  "lon": -49.4816336
 }

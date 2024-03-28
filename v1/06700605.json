@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Rita de Cássia",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6094293,
+  "lon": -46.9462131
 }

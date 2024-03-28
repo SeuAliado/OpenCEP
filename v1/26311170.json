@@ -5,5 +5,7 @@
   "bairro": "Valdariosa",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7285918,
+  "lon": -43.576175
 }

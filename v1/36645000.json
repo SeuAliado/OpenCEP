@@ -5,5 +5,7 @@
   "bairro": "Saudade",
   "localidade": "Mar de Espanha",
   "uf": "MG",
-  "ibge": "3139805"
+  "ibge": "3139805",
+  "lat": -21.865658,
+  "lon": -43.0195171
 }

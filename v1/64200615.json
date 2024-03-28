@@ -5,5 +5,7 @@
   "bairro": "Mendonça Clark",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9055239,
+  "lon": -41.7852685
 }

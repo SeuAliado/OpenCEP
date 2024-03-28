@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Castanheiras",
   "uf": "RO",
-  "ibge": "1100908"
+  "ibge": "1100908",
+  "lat": -18.8614633,
+  "lon": -41.9550667
 }

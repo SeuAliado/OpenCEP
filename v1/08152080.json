@@ -5,5 +5,7 @@
   "bairro": "Jardim Bartira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5128588,
+  "lon": -46.4068862
 }

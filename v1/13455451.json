@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa I",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7269993,
+  "lon": -47.3646656
 }

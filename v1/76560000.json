@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Horizonte",
   "uf": "GO",
-  "ibge": "5200555"
+  "ibge": "5200555",
+  "lat": -14.1834789,
+  "lon": -49.4262684
 }

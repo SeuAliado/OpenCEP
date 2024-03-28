@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Belmonte",
   "uf": "BA",
-  "ibge": "2903409"
+  "ibge": "2903409",
+  "lat": -15.8612314,
+  "lon": -38.8798207
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0114087,
+  "lon": -44.1194018
 }

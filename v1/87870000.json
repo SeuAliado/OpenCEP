@@ -5,5 +5,7 @@
   "bairro": "Comur",
   "localidade": "Planaltina do Paraná",
   "uf": "PR",
-  "ibge": "4119707"
+  "ibge": "4119707",
+  "lat": -23.0767898,
+  "lon": -52.9608382
 }

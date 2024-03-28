@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pontal",
   "uf": "SP",
-  "ibge": "3540200"
+  "ibge": "3540200",
+  "lat": -21.0272962,
+  "lon": -48.0352471
 }

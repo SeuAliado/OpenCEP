@@ -5,5 +5,7 @@
   "bairro": "Setor Marajoara II",
   "localidade": "Xinguara",
   "uf": "PA",
-  "ibge": "1508407"
+  "ibge": "1508407",
+  "lat": -7.111378,
+  "lon": -49.9308773
 }

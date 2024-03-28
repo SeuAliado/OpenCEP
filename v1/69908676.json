@@ -5,5 +5,7 @@
   "bairro": "Loteamento Santa Helena",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9851377,
+  "lon": -67.8295888
 }

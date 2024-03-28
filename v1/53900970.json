@@ -5,5 +5,7 @@
   "bairro": "Baixa Verde",
   "localidade": "Ilha de Itamaracá",
   "uf": "PE",
-  "ibge": "2607604"
+  "ibge": "2607604",
+  "lat": -7.7504792,
+  "lon": -34.8251227
 }

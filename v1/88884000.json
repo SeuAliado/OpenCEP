@@ -5,5 +5,7 @@
   "bairro": "Guatá",
   "localidade": "Lauro Müller",
   "uf": "SC",
-  "ibge": "4209607"
+  "ibge": "4209607",
+  "lat": -28.3811403,
+  "lon": -49.4379088
 }

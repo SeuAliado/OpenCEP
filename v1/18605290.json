@@ -5,5 +5,7 @@
   "bairro": "Jardim Reflorenda",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9111028,
+  "lon": -48.4369966
 }

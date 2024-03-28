@@ -5,5 +5,7 @@
   "bairro": "Arrastão",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8501108,
+  "lon": -42.9976202
 }

@@ -5,5 +5,7 @@
   "bairro": "Nonoai",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.6800282,
+  "lon": -53.8153234
 }

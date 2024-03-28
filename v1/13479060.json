@@ -5,5 +5,7 @@
   "bairro": "Jardim Thelja",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7608246,
+  "lon": -47.3110148
 }

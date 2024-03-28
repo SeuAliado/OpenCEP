@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canhotinho",
   "uf": "PE",
-  "ibge": "2603702"
+  "ibge": "2603702",
+  "lat": -8.8854391,
+  "lon": -36.1545404
 }

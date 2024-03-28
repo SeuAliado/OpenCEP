@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Nova",
   "uf": "RN",
-  "ibge": "2400406"
+  "ibge": "2400406",
+  "lat": -6.2074437,
+  "lon": -38.2930951
 }

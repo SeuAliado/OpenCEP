@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Tururu",
   "uf": "CE",
-  "ibge": "2313559"
+  "ibge": "2313559",
+  "lat": -3.5996803,
+  "lon": -39.4351771
 }

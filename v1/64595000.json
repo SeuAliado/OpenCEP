@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Curral Novo do Piauí",
   "uf": "PI",
-  "ibge": "2203271"
+  "ibge": "2203271",
+  "lat": -7.9107967,
+  "lon": -40.7564002
 }

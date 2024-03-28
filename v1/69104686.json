@@ -5,5 +5,7 @@
   "bairro": "Da Paz",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1315727,
+  "lon": -58.4357595
 }

@@ -5,5 +5,7 @@
   "bairro": "Popular",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3108509,
+  "lon": -54.1143187
 }

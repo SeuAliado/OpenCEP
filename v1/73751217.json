@@ -5,5 +5,7 @@
   "bairro": "Setor Norte",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "lat": -15.4482637,
+  "lon": -47.5910272
 }

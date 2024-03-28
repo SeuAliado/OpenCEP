@@ -5,5 +5,7 @@
   "bairro": "Centro (Cabuçu)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.8196968,
+  "lon": -42.890917
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Terezinha do Progresso",
   "uf": "SC",
-  "ibge": "4215687"
+  "ibge": "4215687",
+  "lat": -26.5940066,
+  "lon": -53.1965079
 }

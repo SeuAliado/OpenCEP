@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cacaulândia",
   "uf": "RO",
-  "ibge": "1100601"
+  "ibge": "1100601",
+  "lat": -10.3402523,
+  "lon": -62.9000981
 }

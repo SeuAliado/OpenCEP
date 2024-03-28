@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chaval",
   "uf": "CE",
-  "ibge": "2303907"
+  "ibge": "2303907",
+  "lat": -3.0360807,
+  "lon": -41.243827
 }

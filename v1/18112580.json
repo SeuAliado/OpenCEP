@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Claudia",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5312339,
+  "lon": -47.4321433
 }

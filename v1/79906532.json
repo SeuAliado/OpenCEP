@@ -5,5 +5,7 @@
   "bairro": "Vila Deputado Aral Moreira",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5573531,
+  "lon": -55.692696
 }

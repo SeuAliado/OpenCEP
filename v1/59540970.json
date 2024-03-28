@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caiçara do Rio do Vento",
   "uf": "RN",
-  "ibge": "2401909"
+  "ibge": "2401909",
+  "lat": -5.7587635,
+  "lon": -35.9992283
 }

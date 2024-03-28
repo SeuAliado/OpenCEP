@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quixabeira",
   "uf": "BA",
-  "ibge": "2925931"
+  "ibge": "2925931",
+  "lat": -11.41213,
+  "lon": -40.1276166
 }

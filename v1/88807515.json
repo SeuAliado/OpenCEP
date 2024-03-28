@@ -5,5 +5,7 @@
   "bairro": "Primeira Linha Pontilhão",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.725739,
+  "lon": -49.4021443
 }

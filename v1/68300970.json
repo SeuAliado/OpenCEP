@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gurupá",
   "uf": "PA",
-  "ibge": "1503101"
+  "ibge": "1503101",
+  "lat": -1.4033484,
+  "lon": -51.6433216
 }

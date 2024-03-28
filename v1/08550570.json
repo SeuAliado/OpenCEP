@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5227325,
+  "lon": -46.3398691
 }

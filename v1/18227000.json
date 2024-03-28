@@ -5,5 +5,7 @@
   "bairro": "Cocaes",
   "localidade": "Sarapuí",
   "uf": "SP",
-  "ibge": "3551108"
+  "ibge": "3551108",
+  "lat": -23.70225,
+  "lon": -47.7933577
 }

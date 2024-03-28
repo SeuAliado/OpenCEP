@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Margarida Raymundo Berchieri",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2719791,
+  "lon": -48.3166066
 }

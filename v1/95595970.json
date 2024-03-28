@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cidreira",
   "uf": "RS",
-  "ibge": "4305454"
+  "ibge": "4305454",
+  "lat": -30.1814316,
+  "lon": -50.2060753
 }

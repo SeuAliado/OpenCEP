@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Santana",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.46312,
+  "lon": -43.827596
 }

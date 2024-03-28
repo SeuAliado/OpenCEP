@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Machados",
   "uf": "PE",
-  "ibge": "2609105"
+  "ibge": "2609105",
+  "lat": -7.6872155,
+  "lon": -35.5091051
 }

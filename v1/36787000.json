@@ -5,5 +5,7 @@
   "bairro": "São Manoel do Guaiaçu",
   "localidade": "Dona Euzébia",
   "uf": "MG",
-  "ibge": "3122900"
+  "ibge": "3122900",
+  "lat": -21.3459762,
+  "lon": -42.8327946
 }

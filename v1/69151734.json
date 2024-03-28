@@ -5,5 +5,7 @@
   "bairro": "Vitória Régia",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6455091,
+  "lon": -56.7385639
 }

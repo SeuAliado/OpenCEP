@@ -5,5 +5,7 @@
   "bairro": "Parque das Gemas",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.9193337,
+  "lon": -63.0157695
 }

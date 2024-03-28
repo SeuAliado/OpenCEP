@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Corações",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7674442,
+  "lon": -46.6845742
 }

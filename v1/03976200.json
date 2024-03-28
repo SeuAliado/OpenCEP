@@ -5,5 +5,7 @@
   "bairro": "Jardim Sapopemba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6120626,
+  "lon": -46.5033579
 }

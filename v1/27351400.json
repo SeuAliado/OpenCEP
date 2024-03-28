@@ -5,5 +5,7 @@
   "bairro": "Morada da Colonia I",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5357697,
+  "lon": -44.2012637
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Natal",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7331508,
+  "lon": -43.3982356
 }

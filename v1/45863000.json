@@ -5,5 +5,7 @@
   "bairro": "Ouricana",
   "localidade": "Canavieiras",
   "uf": "BA",
-  "ibge": "2906303"
+  "ibge": "2906303",
+  "lat": -15.7287939,
+  "lon": -39.0650477
 }

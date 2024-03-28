@@ -5,5 +5,7 @@
   "bairro": "Vista da Serra I",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1433261,
+  "lon": -40.2998254
 }

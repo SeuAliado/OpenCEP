@@ -5,5 +5,7 @@
   "bairro": "Indaiá",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.852193,
+  "lon": -41.5161119
 }

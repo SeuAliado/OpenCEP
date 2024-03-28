@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7399795,
+  "lon": -53.7412824
 }

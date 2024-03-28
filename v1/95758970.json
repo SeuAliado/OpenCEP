@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro da Serra",
   "uf": "RS",
-  "ibge": "4319356"
+  "ibge": "4319356",
+  "lat": -29.4209892,
+  "lon": -51.5061637
 }

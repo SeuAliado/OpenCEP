@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dores de Campos",
   "uf": "MG",
-  "ibge": "3123007"
+  "ibge": "3123007",
+  "lat": -21.1094506,
+  "lon": -44.0206193
 }

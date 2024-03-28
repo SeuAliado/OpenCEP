@@ -5,5 +5,7 @@
   "bairro": "Jardim Camila",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5407798,
+  "lon": -46.181856
 }

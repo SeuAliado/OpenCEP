@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperador",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4493548,
+  "lon": -46.5478254
 }

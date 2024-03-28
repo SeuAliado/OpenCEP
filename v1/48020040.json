@@ -5,5 +5,7 @@
   "bairro": "Kennedy",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1310528,
+  "lon": -38.41663
 }

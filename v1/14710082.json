@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial IV",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9297881,
+  "lon": -48.4661412
 }

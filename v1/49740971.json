@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carmópolis",
   "uf": "SE",
-  "ibge": "2801504"
+  "ibge": "2801504",
+  "lat": -10.6950077,
+  "lon": -37.0354727
 }

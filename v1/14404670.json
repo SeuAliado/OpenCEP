@@ -5,5 +5,7 @@
   "bairro": "Villa Toscana",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -23.6196361,
+  "lon": -46.7367062
 }

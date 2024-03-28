@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "lat": -29.64501,
+  "lon": -51.014796
 }

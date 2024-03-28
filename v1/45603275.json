@@ -5,5 +5,7 @@
   "bairro": "Alto Maron",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7833587,
+  "lon": -39.2702129
 }

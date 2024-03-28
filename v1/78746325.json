@@ -5,5 +5,7 @@
   "bairro": "Vila Estrela Dalva",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4655497,
+  "lon": -54.6441744
 }

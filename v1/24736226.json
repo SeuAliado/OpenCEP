@@ -5,5 +5,7 @@
   "bairro": "Pacheco",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.822603,
+  "lon": -42.9718138
 }

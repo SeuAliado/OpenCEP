@@ -5,5 +5,7 @@
   "bairro": "Indusville",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2831521,
+  "lon": -51.1142206
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Aruanã",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.695953,
+  "lon": -49.1960524
 }

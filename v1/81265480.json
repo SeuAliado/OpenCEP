@@ -5,5 +5,7 @@
   "bairro": "Augusta",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.490457,
+  "lon": -49.3562894
 }

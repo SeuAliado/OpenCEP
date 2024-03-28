@@ -5,5 +5,7 @@
   "bairro": "Jardim HD",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4336035,
+  "lon": -54.650339
 }

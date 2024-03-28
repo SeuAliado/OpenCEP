@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "São Gotardo",
   "uf": "MG",
-  "ibge": "3162104"
+  "ibge": "3162104",
+  "lat": -19.315031,
+  "lon": -46.0483354
 }

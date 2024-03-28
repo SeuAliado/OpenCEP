@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosa",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9941791,
+  "lon": -46.277086
 }

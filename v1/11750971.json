@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "lat": -24.3172558,
+  "lon": -47.0014154
 }

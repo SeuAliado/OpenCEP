@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Bonifácio",
   "uf": "SC",
-  "ibge": "4215901"
+  "ibge": "4215901",
+  "lat": -27.6062693,
+  "lon": -48.6439341
 }

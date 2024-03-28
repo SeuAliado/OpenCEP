@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Silves",
   "uf": "AM",
-  "ibge": "1304005"
+  "ibge": "1304005",
+  "lat": -2.8338242,
+  "lon": -58.2186363
 }

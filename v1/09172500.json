@@ -5,5 +5,7 @@
   "bairro": "Vila Mazzei",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6961454,
+  "lon": -46.5077632
 }

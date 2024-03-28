@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jangada",
   "uf": "MT",
-  "ibge": "5104906"
+  "ibge": "5104906",
+  "lat": -15.236225,
+  "lon": -56.4855769
 }

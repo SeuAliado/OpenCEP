@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6842722,
+  "lon": -49.3616748
 }

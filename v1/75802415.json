@@ -5,5 +5,7 @@
   "bairro": "Setor Fabriny",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.9131039,
+  "lon": -51.7394416
 }

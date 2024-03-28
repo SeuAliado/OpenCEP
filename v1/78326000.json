@@ -5,5 +5,7 @@
   "bairro": "Cidade Morena",
   "localidade": "Aripuanã",
   "uf": "MT",
-  "ibge": "5101407"
+  "ibge": "5101407",
+  "lat": -20.4068745,
+  "lon": -54.6272512
 }

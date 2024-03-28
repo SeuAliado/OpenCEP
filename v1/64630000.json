@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bocaina",
   "uf": "PI",
-  "ibge": "2201804"
+  "ibge": "2201804",
+  "lat": -6.9416385,
+  "lon": -41.3171218
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre",
   "localidade": "Colorado",
   "uf": "PR",
-  "ibge": "4105904"
+  "ibge": "4105904",
+  "lat": -22.8972267,
+  "lon": -51.8868061
 }

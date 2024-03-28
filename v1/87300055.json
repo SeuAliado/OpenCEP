@@ -5,5 +5,7 @@
   "bairro": "Jardim Flórida",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "lat": -24.0425648,
+  "lon": -52.3683448
 }

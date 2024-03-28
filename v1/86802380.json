@@ -5,5 +5,7 @@
   "bairro": "Loteamento Santa Cândida",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5690096,
+  "lon": -51.4603596
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7572154,
+  "lon": -53.7340612
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1983777,
+  "lon": -48.2323948
 }

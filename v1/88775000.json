@@ -5,5 +5,7 @@
   "bairro": "Rio D'Una",
   "localidade": "Imaruí",
   "uf": "SC",
-  "ibge": "4207205"
+  "ibge": "4207205",
+  "lat": -28.1415787,
+  "lon": -48.7742956
 }

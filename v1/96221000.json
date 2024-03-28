@@ -5,5 +5,7 @@
   "bairro": "Taim",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.5387539,
+  "lon": -52.5388489
 }

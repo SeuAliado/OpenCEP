@@ -5,5 +5,7 @@
   "bairro": "Campos",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "lat": -4.3520019,
+  "lon": -39.3158562
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alagoinha",
   "uf": "PB",
-  "ibge": "2500502"
+  "ibge": "2500502",
+  "lat": -6.9502133,
+  "lon": -35.546154
 }

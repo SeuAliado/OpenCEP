@@ -5,5 +5,7 @@
   "bairro": "Alto do Coqueirinho",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9418568,
+  "lon": -38.370786
 }

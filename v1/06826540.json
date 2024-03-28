@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Campo Limpo",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6627633,
+  "lon": -46.804007
 }

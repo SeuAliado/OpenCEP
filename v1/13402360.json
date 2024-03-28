@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Reserva do Engenho",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7353379,
+  "lon": -47.6691073
 }

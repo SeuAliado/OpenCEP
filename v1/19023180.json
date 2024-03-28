@@ -5,5 +5,7 @@
   "bairro": "Vila do Estádio",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1188069,
+  "lon": -51.3871323
 }

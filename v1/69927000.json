@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Acre",
   "uf": "AC",
-  "ibge": "1200807"
+  "ibge": "1200807",
+  "lat": -30.0962925,
+  "lon": -51.1274774
 }

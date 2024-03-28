@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9107344,
+  "lon": -51.3554936
 }

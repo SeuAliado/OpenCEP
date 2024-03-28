@@ -5,5 +5,7 @@
   "bairro": "Sandra Regina",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1278925,
+  "lon": -45.0108308
 }

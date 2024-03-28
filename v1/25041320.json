@@ -5,5 +5,7 @@
   "bairro": "Vila Rosário",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7324605,
+  "lon": -43.3250269
 }

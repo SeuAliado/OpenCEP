@@ -5,5 +5,7 @@
   "bairro": "Lomba do Pinheiro",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0873455,
+  "lon": -51.1253185
 }

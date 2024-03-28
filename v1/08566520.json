@@ -5,5 +5,7 @@
   "bairro": "Jardim Débora",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5446261,
+  "lon": -46.3495405
 }

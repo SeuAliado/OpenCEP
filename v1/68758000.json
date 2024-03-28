@@ -5,5 +5,7 @@
   "bairro": "Ponta de Ramos",
   "localidade": "Curuçá",
   "uf": "PA",
-  "ibge": "1502905"
+  "ibge": "1502905",
+  "lat": -0.7395156,
+  "lon": -47.8148309
 }

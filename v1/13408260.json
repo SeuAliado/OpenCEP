@@ -5,5 +5,7 @@
   "bairro": "Parque Orlanda III",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.6642291,
+  "lon": -47.6912652
 }

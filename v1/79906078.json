@@ -5,5 +5,7 @@
   "bairro": "Flanboyant Residencial Park",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5554229,
+  "lon": -55.7004961
 }

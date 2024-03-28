@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1681157,
+  "lon": -44.9090594
 }

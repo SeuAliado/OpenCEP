@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Governador Edison Lobão",
   "uf": "MA",
-  "ibge": "2104552"
+  "ibge": "2104552",
+  "lat": -5.6538015,
+  "lon": -47.3934275
 }

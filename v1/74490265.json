@@ -5,5 +5,7 @@
   "bairro": "Parque Eldorado Oeste",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6865,
+  "lon": -49.4039224
 }

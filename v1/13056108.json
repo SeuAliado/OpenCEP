@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto de Campinas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.955703,
+  "lon": -47.1370921
 }

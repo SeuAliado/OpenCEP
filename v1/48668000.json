@@ -5,5 +5,7 @@
   "bairro": "Barra do Tarrachil",
   "localidade": "Chorrochó",
   "uf": "BA",
-  "ibge": "2907707"
+  "ibge": "2907707",
+  "lat": -8.8246086,
+  "lon": -38.9793461
 }

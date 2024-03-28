@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Marta",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1347295,
+  "lon": -51.3809059
 }

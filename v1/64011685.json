@@ -5,5 +5,7 @@
   "bairro": "Aroeiras",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0057247,
+  "lon": -42.786969
 }

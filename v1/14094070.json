@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Jardim das Palmeiras",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1909118,
+  "lon": -47.7386629
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taciba",
   "uf": "SP",
-  "ibge": "3552908"
+  "ibge": "3552908",
+  "lat": -22.39183,
+  "lon": -51.293297
 }

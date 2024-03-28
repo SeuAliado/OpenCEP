@@ -5,5 +5,7 @@
   "bairro": "Vila Almeida",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.437606,
+  "lon": -54.6564035
 }

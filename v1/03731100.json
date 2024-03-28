@@ -5,5 +5,7 @@
   "bairro": "Vila Londrina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.510011,
+  "lon": -46.539176
 }

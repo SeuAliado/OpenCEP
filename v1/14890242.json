@@ -5,5 +5,7 @@
   "bairro": "Jardim Morumbi",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2730581,
+  "lon": -48.3138353
 }

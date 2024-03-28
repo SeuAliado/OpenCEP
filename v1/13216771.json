@@ -5,5 +5,7 @@
   "bairro": "Terras de São Carlos",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1513394,
+  "lon": -46.8694311
 }

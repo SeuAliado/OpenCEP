@@ -5,5 +5,7 @@
   "bairro": "Lisboa",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7531013,
+  "lon": -43.4204495
 }

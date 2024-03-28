@@ -5,5 +5,7 @@
   "bairro": "Residencial Morumbi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6146004,
+  "lon": -46.754218
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quebrangulo",
   "uf": "AL",
-  "ibge": "2707602"
+  "ibge": "2707602",
+  "lat": -9.3204345,
+  "lon": -36.4695688
 }

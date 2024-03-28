@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Esperança",
   "uf": "ES",
-  "ibge": "3201001"
+  "ibge": "3201001",
+  "lat": -18.5395669,
+  "lon": -40.2974862
 }

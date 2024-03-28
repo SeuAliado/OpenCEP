@@ -5,5 +5,7 @@
   "bairro": "Vila Arbame",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5282933,
+  "lon": -46.3668585
 }

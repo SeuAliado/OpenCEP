@@ -5,5 +5,7 @@
   "bairro": "Parque Boneville",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6489364,
+  "lon": -43.0878893
 }

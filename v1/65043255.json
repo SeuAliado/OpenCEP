@@ -5,5 +5,7 @@
   "bairro": "Túnel do Sacavém",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5522367,
+  "lon": -44.2587789
 }

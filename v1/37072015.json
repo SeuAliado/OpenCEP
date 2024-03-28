@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Miguel de Luca",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5649002,
+  "lon": -45.4500414
 }

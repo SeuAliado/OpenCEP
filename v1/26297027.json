@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.8131298,
+  "lon": -43.5927059
 }

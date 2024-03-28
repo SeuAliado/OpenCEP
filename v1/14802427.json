@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7713105,
+  "lon": -48.1757366
 }

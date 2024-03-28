@@ -5,5 +5,7 @@
   "bairro": "Conjunto Dorival de Carvalho",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8708282,
+  "lon": -51.7162453
 }

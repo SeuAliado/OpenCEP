@@ -5,5 +5,7 @@
   "bairro": "Jardim Elizabeth",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1934987,
+  "lon": -47.3086529
 }

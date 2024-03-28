@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Hidrolândia",
   "uf": "CE",
-  "ibge": "2305209"
+  "ibge": "2305209",
+  "lat": -4.5254462,
+  "lon": -40.5910324
 }

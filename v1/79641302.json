@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Lourdes",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7640681,
+  "lon": -51.7019809
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Olívia II",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3786163,
+  "lon": -47.3763727
 }

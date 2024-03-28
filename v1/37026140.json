@@ -5,5 +5,7 @@
   "bairro": "Jardim Canaã",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5689621,
+  "lon": -45.4418513
 }

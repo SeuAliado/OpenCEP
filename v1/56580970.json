@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibimirim",
   "uf": "PE",
-  "ibge": "2606606"
+  "ibge": "2606606",
+  "lat": -8.5369381,
+  "lon": -37.6902308
 }

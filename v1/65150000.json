@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rosário",
   "uf": "MA",
-  "ibge": "2109601"
+  "ibge": "2109601",
+  "lat": -2.9410162,
+  "lon": -44.2494085
 }

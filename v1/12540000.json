@@ -5,5 +5,7 @@
   "bairro": "Campos de Cunha",
   "localidade": "Cunha",
   "uf": "SP",
-  "ibge": "3513603"
+  "ibge": "3513603",
+  "lat": -22.9201771,
+  "lon": -44.8240293
 }

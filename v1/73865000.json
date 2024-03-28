@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Divinópolis de Goiás",
   "uf": "GO",
-  "ibge": "5208301"
+  "ibge": "5208301",
+  "lat": -13.2857528,
+  "lon": -46.400298
 }

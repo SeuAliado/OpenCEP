@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Vida",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.277703,
+  "lon": -50.5419429
 }

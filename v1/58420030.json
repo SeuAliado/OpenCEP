@@ -5,5 +5,7 @@
   "bairro": "Velame",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2680091,
+  "lon": -35.9152741
 }

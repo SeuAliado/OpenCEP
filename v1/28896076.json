@@ -5,5 +5,7 @@
   "bairro": "Jardim Mariléa",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5118361,
+  "lon": -41.9361115
 }

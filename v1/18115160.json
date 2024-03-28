@@ -5,5 +5,7 @@
   "bairro": "Vila Amorim",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5549887,
+  "lon": -47.4440022
 }

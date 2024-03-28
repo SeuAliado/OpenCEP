@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araci",
   "uf": "BA",
-  "ibge": "2902104"
+  "ibge": "2902104",
+  "lat": -11.3356154,
+  "lon": -38.9618334
 }

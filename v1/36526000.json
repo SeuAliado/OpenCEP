@@ -5,5 +5,7 @@
   "bairro": "Vilas Boas",
   "localidade": "Guiricema",
   "uf": "MG",
-  "ibge": "3129004"
+  "ibge": "3129004",
+  "lat": -20.9307664,
+  "lon": -42.6668747
 }

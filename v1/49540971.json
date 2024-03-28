@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nossa Senhora Aparecida",
   "uf": "SE",
-  "ibge": "2804458"
+  "ibge": "2804458",
+  "lat": -23.2865926,
+  "lon": -47.292342
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Canaã",
   "uf": "BA",
-  "ibge": "2922706"
+  "ibge": "2922706",
+  "lat": -14.7922243,
+  "lon": -40.14372
 }

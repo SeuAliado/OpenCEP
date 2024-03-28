@@ -5,5 +5,7 @@
   "bairro": "Residencial Goiabeiras",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.508568,
+  "lon": -42.5977745
 }

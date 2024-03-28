@@ -5,5 +5,7 @@
   "bairro": "Japerica",
   "localidade": "Primavera",
   "uf": "PA",
-  "ibge": "1506104"
+  "ibge": "1506104",
+  "lat": -0.8398884,
+  "lon": -47.1032212
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cajueiro da Praia",
   "uf": "PI",
-  "ibge": "2202083"
+  "ibge": "2202083",
+  "lat": -2.9314859,
+  "lon": -41.3411687
 }

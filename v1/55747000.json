@@ -5,5 +5,7 @@
   "bairro": "Matinada",
   "localidade": "Orobó",
   "uf": "PE",
-  "ibge": "2609709"
+  "ibge": "2609709",
+  "lat": -7.6903505,
+  "lon": -35.6411266
 }

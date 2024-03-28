@@ -5,5 +5,7 @@
   "bairro": "Santa Nely",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4406856,
+  "lon": -49.4494394
 }

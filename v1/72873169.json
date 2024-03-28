@@ -5,5 +5,7 @@
   "bairro": "Residencial Florais do Planalto",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -15.6311222,
+  "lon": -47.6626668
 }

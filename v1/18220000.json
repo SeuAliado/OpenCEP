@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alambari",
   "uf": "SP",
-  "ibge": "3500758"
+  "ibge": "3500758",
+  "lat": -23.5508263,
+  "lon": -47.8984282
 }

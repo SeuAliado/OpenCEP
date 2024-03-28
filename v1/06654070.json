@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5413885,
+  "lon": -46.9306114
 }

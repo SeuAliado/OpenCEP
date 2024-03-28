@@ -5,5 +5,7 @@
   "bairro": "Vila São Silvestre",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9934978,
+  "lon": -49.8608181
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Sol",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.2054999,
+  "lon": -47.3906809
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Papa João Paulo II",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.9143647,
+  "lon": -50.4937603
 }

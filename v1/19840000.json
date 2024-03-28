@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maracaí",
   "uf": "SP",
-  "ibge": "3528809"
+  "ibge": "3528809",
+  "lat": -22.6154961,
+  "lon": -50.6682701
 }

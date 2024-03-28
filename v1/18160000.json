@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salto de Pirapora",
   "uf": "SP",
-  "ibge": "3545308"
+  "ibge": "3545308",
+  "lat": -23.6443472,
+  "lon": -47.5720968
 }

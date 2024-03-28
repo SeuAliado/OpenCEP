@@ -5,5 +5,7 @@
   "bairro": "Jardim Corcetti I",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5265178,
+  "lon": -45.4495097
 }

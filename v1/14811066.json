@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvânia (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7859422,
+  "lon": -48.1568452
 }

@@ -5,5 +5,7 @@
   "bairro": "Recreio Campestre",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.6876258,
+  "lon": -46.816654
 }

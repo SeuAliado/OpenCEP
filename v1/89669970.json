@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipira",
   "uf": "SC",
-  "ibge": "4207601"
+  "ibge": "4207601",
+  "lat": -27.404498,
+  "lon": -51.7775398
 }

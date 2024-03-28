@@ -5,5 +5,7 @@
   "bairro": "Carajás",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9388702,
+  "lon": -46.9703683
 }

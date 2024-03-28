@@ -5,5 +5,7 @@
   "bairro": "Loteamento Rei de Ouro",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.9966684,
+  "lon": -46.8208725
 }

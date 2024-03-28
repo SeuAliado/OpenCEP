@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Domingos Giomi",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1323317,
+  "lon": -47.2321793
 }

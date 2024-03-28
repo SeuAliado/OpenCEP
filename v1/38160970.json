@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Ponte",
   "uf": "MG",
-  "ibge": "3145000"
+  "ibge": "3145000",
+  "lat": -19.1685263,
+  "lon": -47.6737684
 }

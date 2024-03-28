@@ -5,5 +5,7 @@
   "bairro": "Praia Grande",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8697599,
+  "lon": -38.4657687
 }

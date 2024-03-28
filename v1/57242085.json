@@ -5,5 +5,7 @@
   "bairro": "Humberto Alves",
   "localidade": "São Miguel dos Campos",
   "uf": "AL",
-  "ibge": "2708600"
+  "ibge": "2708600",
+  "lat": -9.7847471,
+  "lon": -36.0931933
 }

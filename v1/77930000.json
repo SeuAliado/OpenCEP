@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Axixá do Tocantins",
   "uf": "TO",
-  "ibge": "1702901"
+  "ibge": "1702901",
+  "lat": -5.6359054,
+  "lon": -47.7834888
 }

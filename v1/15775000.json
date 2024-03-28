@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Fé do Sul",
   "uf": "SP",
-  "ibge": "3546603"
+  "ibge": "3546603",
+  "lat": -20.2114344,
+  "lon": -50.9271748
 }

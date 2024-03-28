@@ -5,5 +5,7 @@
   "bairro": "Santa Maria do Gurupá",
   "localidade": "Promissão",
   "uf": "SP",
-  "ibge": "3541604"
+  "ibge": "3541604",
+  "lat": -21.6580666,
+  "lon": -50.0087871
 }

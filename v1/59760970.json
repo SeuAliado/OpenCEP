@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Almino Afonso",
   "uf": "RN",
-  "ibge": "2400604"
+  "ibge": "2400604",
+  "lat": -6.1531277,
+  "lon": -37.7662655
 }

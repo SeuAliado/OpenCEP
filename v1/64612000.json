@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aroeiras do Itaim",
   "uf": "PI",
-  "ibge": "2200954"
+  "ibge": "2200954",
+  "lat": -7.2439591,
+  "lon": -41.5255643
 }

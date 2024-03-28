@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Celso Ramos",
   "uf": "SC",
-  "ibge": "4204152"
+  "ibge": "4204152",
+  "lat": -27.6618869,
+  "lon": -51.2422395
 }

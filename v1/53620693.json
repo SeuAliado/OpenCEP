@@ -5,5 +5,7 @@
   "bairro": "Posto de Monta",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8451824,
+  "lon": -34.9066771
 }

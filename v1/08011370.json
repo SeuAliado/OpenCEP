@@ -5,5 +5,7 @@
   "bairro": "São Miguel Paulista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4955238,
+  "lon": -46.443708
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedroso",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6731648,
+  "lon": -46.4650293
 }

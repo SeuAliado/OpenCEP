@@ -5,5 +5,7 @@
   "bairro": "Leblon",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5776424,
+  "lon": -46.9457033
 }

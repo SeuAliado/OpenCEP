@@ -5,5 +5,7 @@
   "bairro": "Swiss Park",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9574079,
+  "lon": -47.0656612
 }

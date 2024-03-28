@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fortuna",
   "uf": "MA",
-  "ibge": "2104206"
+  "ibge": "2104206",
+  "lat": -5.7060482,
+  "lon": -44.0579882
 }

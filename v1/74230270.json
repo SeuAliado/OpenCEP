@@ -5,5 +5,7 @@
   "bairro": "Vila Americano do Brasil",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6578715,
+  "lon": -49.2616539
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Neves Paulista",
   "uf": "SP",
-  "ibge": "3532504"
+  "ibge": "3532504",
+  "lat": -20.8423893,
+  "lon": -49.6313976
 }

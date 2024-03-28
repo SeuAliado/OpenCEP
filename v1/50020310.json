@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0691001,
+  "lon": -34.8782979
 }

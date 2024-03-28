@@ -5,5 +5,7 @@
   "bairro": "Residencial Norte Sul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7790626,
+  "lon": -49.3478944
 }

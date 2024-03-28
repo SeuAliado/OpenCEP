@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Wanderlândia",
   "uf": "TO",
-  "ibge": "1722081"
+  "ibge": "1722081",
+  "lat": -6.9224595,
+  "lon": -48.0010282
 }

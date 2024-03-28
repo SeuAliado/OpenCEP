@@ -5,5 +5,7 @@
   "bairro": "Garcia",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.992177,
+  "lon": -38.5103362
 }

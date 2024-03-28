@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aracatu",
   "uf": "BA",
-  "ibge": "2902005"
+  "ibge": "2902005",
+  "lat": -14.4293498,
+  "lon": -41.4599954
 }

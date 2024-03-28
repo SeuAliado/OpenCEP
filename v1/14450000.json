@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jeriquara",
   "uf": "SP",
-  "ibge": "3525409"
+  "ibge": "3525409",
+  "lat": -20.3120413,
+  "lon": -47.5922795
 }

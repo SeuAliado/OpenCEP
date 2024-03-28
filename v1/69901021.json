@@ -5,5 +5,7 @@
   "bairro": "Conjunto Jardim São Francisco",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9641996,
+  "lon": -67.7987653
 }

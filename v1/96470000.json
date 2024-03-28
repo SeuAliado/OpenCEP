@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pinheiro Machado",
   "uf": "RS",
-  "ibge": "4314506"
+  "ibge": "4314506",
+  "lat": -31.575874,
+  "lon": -53.3806553
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4606349,
+  "lon": -49.5172934
 }

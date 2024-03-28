@@ -5,5 +5,7 @@
   "bairro": "Vila Blanche",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.88032,
+  "lon": -42.0282175
 }

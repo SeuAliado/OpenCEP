@@ -5,5 +5,7 @@
   "bairro": "Jardim Trianon",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2771466,
+  "lon": -50.5412986
 }

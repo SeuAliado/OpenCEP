@@ -5,5 +5,7 @@
   "bairro": "Vila Talma",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2842914,
+  "lon": -50.5473639
 }

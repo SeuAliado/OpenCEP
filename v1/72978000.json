@@ -5,5 +5,7 @@
   "bairro": "Edilândia",
   "localidade": "Cocalzinho de Goiás",
   "uf": "GO",
-  "ibge": "5205513"
+  "ibge": "5205513",
+  "lat": -15.7776757,
+  "lon": -48.537544
 }

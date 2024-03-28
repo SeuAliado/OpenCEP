@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Carmo",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9004093,
+  "lon": -41.7800792
 }

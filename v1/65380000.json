@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jardim",
   "uf": "MA",
-  "ibge": "2102002"
+  "ibge": "2102002",
+  "lat": -3.7876441,
+  "lon": -46.3624686
 }

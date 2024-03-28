@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cantá",
   "uf": "RR",
-  "ibge": "1400175"
+  "ibge": "1400175",
+  "lat": 2.8475384,
+  "lon": -60.6663433
 }

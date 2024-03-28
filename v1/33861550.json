@@ -5,5 +5,7 @@
   "bairro": "Nova União",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.776469,
+  "lon": -44.0727394
 }

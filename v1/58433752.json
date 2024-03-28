@@ -5,5 +5,7 @@
   "bairro": "Ramadinha",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2196978,
+  "lon": -35.9296116
 }

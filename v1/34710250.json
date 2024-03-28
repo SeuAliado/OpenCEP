@@ -5,5 +5,7 @@
   "bairro": "Vila Bom Retiro",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8774801,
+  "lon": -43.9023096
 }

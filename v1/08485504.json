@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Santa Etelvina III",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5845929,
+  "lon": -46.4110903
 }

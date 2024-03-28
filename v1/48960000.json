@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguarari",
   "uf": "BA",
-  "ibge": "2917706"
+  "ibge": "2917706",
+  "lat": -10.257993,
+  "lon": -40.1945298
 }

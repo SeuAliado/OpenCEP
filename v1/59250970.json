@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Elói de Souza",
   "uf": "RN",
-  "ibge": "2413102"
+  "ibge": "2413102",
+  "lat": -6.0349654,
+  "lon": -35.6921241
 }

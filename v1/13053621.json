@@ -5,5 +5,7 @@
   "bairro": "Jardim Fernanda",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -23.0450277,
+  "lon": -47.1300966
 }

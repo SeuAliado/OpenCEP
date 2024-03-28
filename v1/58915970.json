@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uiraúna",
   "uf": "PB",
-  "ibge": "2516904"
+  "ibge": "2516904",
+  "lat": -6.520442,
+  "lon": -38.4129696
 }

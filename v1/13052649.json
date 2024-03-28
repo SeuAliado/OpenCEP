@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Bandeirante",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9871739,
+  "lon": -47.0994193
 }

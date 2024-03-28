@@ -5,5 +5,7 @@
   "bairro": "Santana do Campestre",
   "localidade": "Astolfo Dutra",
   "uf": "MG",
-  "ibge": "3104601"
+  "ibge": "3104601",
+  "lat": -21.2686571,
+  "lon": -42.9367596
 }

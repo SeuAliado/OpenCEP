@@ -5,5 +5,7 @@
   "bairro": "Açude dos Pinheiros",
   "localidade": "Ibicuitinga",
   "uf": "CE",
-  "ibge": "2305332"
+  "ibge": "2305332",
+  "lat": -4.9214567,
+  "lon": -38.6052723
 }

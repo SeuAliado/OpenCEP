@@ -5,5 +5,7 @@
   "bairro": "Rancho Alegre",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1258887,
+  "lon": -44.9271164
 }

@@ -5,5 +5,7 @@
   "bairro": "Bananeiras",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "lat": -10.6794339,
+  "lon": -37.4177785
 }

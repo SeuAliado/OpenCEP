@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Garambéu",
   "uf": "MG",
-  "ibge": "3158706"
+  "ibge": "3158706",
+  "lat": -21.5988335,
+  "lon": -44.1054631
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7463342,
+  "lon": -52.4165734
 }

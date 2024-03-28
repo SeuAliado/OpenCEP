@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3537988,
+  "lon": -47.8445797
 }

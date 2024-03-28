@@ -5,5 +5,7 @@
   "bairro": "Ponte Preta",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4570547,
+  "lon": -43.8396955
 }

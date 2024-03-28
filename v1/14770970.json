@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Colina",
   "uf": "SP",
-  "ibge": "3512001"
+  "ibge": "3512001",
+  "lat": -20.715871,
+  "lon": -48.537044
 }

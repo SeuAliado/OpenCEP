@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.682775,
+  "lon": -43.2130767
 }

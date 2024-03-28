@@ -5,5 +5,7 @@
   "bairro": "Chácara Bom Retiro",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0039932,
+  "lon": -43.8576184
 }

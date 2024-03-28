@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Manacapuru",
   "uf": "AM",
-  "ibge": "1302504"
+  "ibge": "1302504",
+  "lat": -3.2862695,
+  "lon": -60.6224789
 }

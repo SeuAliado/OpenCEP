@@ -5,5 +5,7 @@
   "bairro": "Piabeta",
   "localidade": "Nossa Senhora do Socorro",
   "uf": "SE",
-  "ibge": "2804805"
+  "ibge": "2804805",
+  "lat": -10.842667,
+  "lon": -37.065635
 }

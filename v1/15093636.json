@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque dos Pássaros",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.875753,
+  "lon": -49.4193128
 }

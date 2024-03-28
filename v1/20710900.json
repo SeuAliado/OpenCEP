@@ -5,5 +5,7 @@
   "bairro": "Lins de Vasconcelos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9050975,
+  "lon": -43.2726412
 }

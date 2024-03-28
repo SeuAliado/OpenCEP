@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7202965,
+  "lon": -36.6689298
 }

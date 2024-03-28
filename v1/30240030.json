@@ -5,5 +5,7 @@
   "bairro": "Serra",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9381434,
+  "lon": -43.918566
 }

@@ -5,5 +5,7 @@
   "bairro": "Mazomba",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8563983,
+  "lon": -43.8266818
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Marilu",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4375473,
+  "lon": -46.7214278
 }

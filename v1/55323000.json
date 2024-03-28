@@ -5,5 +5,7 @@
   "bairro": "Campo Alegre",
   "localidade": "Lagoa do Ouro",
   "uf": "PE",
-  "ibge": "2608602"
+  "ibge": "2608602",
+  "lat": -17.816794,
+  "lon": -50.6061969
 }

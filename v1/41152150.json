@@ -5,5 +5,7 @@
   "bairro": "Resgate",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9621817,
+  "lon": -38.4610538
 }

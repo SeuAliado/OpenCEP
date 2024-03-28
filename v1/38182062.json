@@ -5,5 +5,7 @@
   "bairro": "Odilon José Carneiro",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5966125,
+  "lon": -46.9253012
 }

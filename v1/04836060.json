@@ -5,5 +5,7 @@
   "bairro": "Jardim Floresta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7379325,
+  "lon": -46.710748
 }

@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

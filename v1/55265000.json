@@ -5,5 +5,7 @@
   "bairro": "Perpétuo Socorro",
   "localidade": "Alagoinha",
   "uf": "PE",
-  "ibge": "2600609"
+  "ibge": "2600609",
+  "lat": -8.5823041,
+  "lon": -36.7619069
 }

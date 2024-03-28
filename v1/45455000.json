@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itamari",
   "uf": "BA",
-  "ibge": "2915700"
+  "ibge": "2915700",
+  "lat": -13.7273486,
+  "lon": -39.6311688
 }

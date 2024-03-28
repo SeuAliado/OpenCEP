@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Biguaçu",
   "uf": "SC",
-  "ibge": "4202305"
+  "ibge": "4202305",
+  "lat": -27.5095748,
+  "lon": -48.6559513
 }

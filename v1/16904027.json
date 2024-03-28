@@ -5,5 +5,7 @@
   "bairro": "Vila Rondon",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8726621,
+  "lon": -51.3812294
 }

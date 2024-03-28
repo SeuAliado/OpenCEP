@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5903149,
+  "lon": -47.4059722
 }

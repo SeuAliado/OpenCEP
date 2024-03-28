@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1434815,
+  "lon": -46.5662021
 }

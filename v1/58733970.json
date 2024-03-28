@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quixabá",
   "uf": "PB",
-  "ibge": "2512606"
+  "ibge": "2512606",
+  "lat": -7.0308109,
+  "lon": -37.1472262
 }

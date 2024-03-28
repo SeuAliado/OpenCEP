@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio do Leste",
   "uf": "MT",
-  "ibge": "5107792"
+  "ibge": "5107792",
+  "lat": -14.8049987,
+  "lon": -53.6075251
 }

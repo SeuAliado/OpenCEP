@@ -5,5 +5,7 @@
   "bairro": "Chácara São Cosme",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.2615493,
+  "lon": -38.966908
 }

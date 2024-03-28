@@ -5,5 +5,7 @@
   "bairro": "Tabajara",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3067611,
+  "lon": -40.3923724
 }

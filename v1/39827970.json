@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poté",
   "uf": "MG",
-  "ibge": "3152402"
+  "ibge": "3152402",
+  "lat": -17.8072489,
+  "lon": -41.788854
 }

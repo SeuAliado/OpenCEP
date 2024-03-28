@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Tereza do Oeste",
   "uf": "PR",
-  "ibge": "4124020"
+  "ibge": "4124020",
+  "lat": -25.0522248,
+  "lon": -53.6200651
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipumirim",
   "uf": "SC",
-  "ibge": "4207700"
+  "ibge": "4207700",
+  "lat": -27.0443058,
+  "lon": -52.1699966
 }

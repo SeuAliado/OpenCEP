@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sítio Novo",
   "uf": "MA",
-  "ibge": "2111805"
+  "ibge": "2111805",
+  "lat": -5.8746329,
+  "lon": -46.7001252
 }

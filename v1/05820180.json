@@ -5,5 +5,7 @@
   "bairro": "Jardim Letícia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6668597,
+  "lon": -46.74295
 }

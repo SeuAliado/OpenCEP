@@ -5,5 +5,7 @@
   "bairro": "Capelinha",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9335567,
+  "lon": -38.4859142
 }

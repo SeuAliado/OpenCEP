@@ -5,5 +5,7 @@
   "bairro": "Mariante",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "lat": -29.694451,
+  "lon": -51.9698005
 }

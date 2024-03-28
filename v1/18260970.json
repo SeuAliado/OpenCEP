@@ -5,5 +5,7 @@
   "bairro": "Vila São Luiz",
   "localidade": "Porangaba",
   "uf": "SP",
-  "ibge": "3540507"
+  "ibge": "3540507",
+  "lat": -23.1808947,
+  "lon": -48.1215389
 }

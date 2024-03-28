@@ -5,5 +5,7 @@
   "bairro": "Codozinho",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5257159,
+  "lon": -44.2960205
 }

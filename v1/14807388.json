@@ -5,5 +5,7 @@
   "bairro": "Yolanda Opice",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7969555,
+  "lon": -48.1494881
 }

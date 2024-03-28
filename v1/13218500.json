@@ -5,5 +5,7 @@
   "bairro": "Jardim Ângela",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1786578,
+  "lon": -46.8662036
 }

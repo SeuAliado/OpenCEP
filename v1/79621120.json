@@ -5,5 +5,7 @@
   "bairro": "Parque São Carlos",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.8050361,
+  "lon": -51.7140159
 }

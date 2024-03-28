@@ -5,5 +5,7 @@
   "bairro": "Jardim São Marcos",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5340698,
+  "lon": -46.3481168
 }

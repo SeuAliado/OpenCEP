@@ -5,5 +5,7 @@
   "bairro": "Parque Amazônia",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7430625,
+  "lon": -49.2726082
 }

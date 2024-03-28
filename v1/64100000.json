@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barras",
   "uf": "PI",
-  "ibge": "2201200"
+  "ibge": "2201200",
+  "lat": -4.2450566,
+  "lon": -42.2925372
 }

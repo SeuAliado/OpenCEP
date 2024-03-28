@@ -5,5 +5,7 @@
   "bairro": "Água Branca",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.0982561,
+  "lon": -35.2814759
 }

@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9716612,
+  "lon": -44.0328602
 }

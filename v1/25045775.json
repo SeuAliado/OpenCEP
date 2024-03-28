@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora das Graças",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -19.951824,
+  "lon": -44.1884359
 }

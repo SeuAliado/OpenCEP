@@ -5,5 +5,7 @@
   "bairro": "Catucaba",
   "localidade": "São Luiz do Paraitinga",
   "uf": "SP",
-  "ibge": "3550001"
+  "ibge": "3550001",
+  "lat": -23.2448722,
+  "lon": -45.1364363
 }

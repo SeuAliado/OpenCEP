@@ -5,5 +5,7 @@
   "bairro": "Morada Nobre",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -8.3230853,
+  "lon": -36.4123904
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirãozinho",
   "uf": "MT",
-  "ibge": "5107198"
+  "ibge": "5107198",
+  "lat": -16.4880499,
+  "lon": -52.6912731
 }

@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.5968239,
+  "lon": -43.1992635
 }

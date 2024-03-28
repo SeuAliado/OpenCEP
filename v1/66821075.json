@@ -5,5 +5,7 @@
   "bairro": "Parque Guajará (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3353394,
+  "lon": -48.4584425
 }

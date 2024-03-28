@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paulo Bento",
   "uf": "RS",
-  "ibge": "4314134"
+  "ibge": "4314134",
+  "lat": -27.7032916,
+  "lon": -52.42195
 }

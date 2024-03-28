@@ -5,5 +5,7 @@
   "bairro": "Estâncias Vale do Paraíso",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.3673598,
+  "lon": -49.217009
 }

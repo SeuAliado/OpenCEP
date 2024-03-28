@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tambaú",
   "uf": "SP",
-  "ibge": "3553302"
+  "ibge": "3553302",
+  "lat": -21.7034017,
+  "lon": -47.27079
 }

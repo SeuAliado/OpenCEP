@@ -5,5 +5,7 @@
   "bairro": "Jardim Ferrarezzi",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.989107,
+  "lon": -47.41369
 }

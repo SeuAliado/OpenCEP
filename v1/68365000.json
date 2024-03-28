@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anapu",
   "uf": "PA",
-  "ibge": "1500859"
+  "ibge": "1500859",
+  "lat": -3.4706088,
+  "lon": -51.2010654
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Guilherme",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2962064,
+  "lon": -46.7284504
 }

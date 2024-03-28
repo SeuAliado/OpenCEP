@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tuparendi",
   "uf": "RS",
-  "ibge": "4322301"
+  "ibge": "4322301",
+  "lat": -27.7635331,
+  "lon": -54.4920008
 }

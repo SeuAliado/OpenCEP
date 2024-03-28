@@ -5,5 +5,7 @@
   "bairro": "Anchieta",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8253872,
+  "lon": -43.4138452
 }

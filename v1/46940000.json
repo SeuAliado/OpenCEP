@@ -5,5 +5,7 @@
   "bairro": "Caeté-Açu",
   "localidade": "Palmeiras",
   "uf": "BA",
-  "ibge": "2923506"
+  "ibge": "2923506",
+  "lat": -12.6183201,
+  "lon": -41.4862335
 }

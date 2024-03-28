@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.816687,
+  "lon": -43.2002018
 }

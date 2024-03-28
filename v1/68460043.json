@@ -5,5 +5,7 @@
   "bairro": "Beira Rio",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -6.0732777,
+  "lon": -49.8948985
 }

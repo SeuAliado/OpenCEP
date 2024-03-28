@@ -5,5 +5,7 @@
   "bairro": "Vila Sopreter",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5283468,
+  "lon": -46.3471488
 }

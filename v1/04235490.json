@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova Heliópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6178026,
+  "lon": -46.5924253
 }

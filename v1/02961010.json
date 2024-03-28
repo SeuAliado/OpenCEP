@@ -5,5 +5,7 @@
   "bairro": "Jardim Monjolo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4913336,
+  "lon": -46.6987865
 }

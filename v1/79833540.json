@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2167935,
+  "lon": -54.7665739
 }

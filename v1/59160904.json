@@ -5,5 +5,7 @@
   "bairro": "Pium (Distrito Litoral)",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "lat": -5.9430202,
+  "lon": -35.1722338
 }

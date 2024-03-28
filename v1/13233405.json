@@ -5,5 +5,7 @@
   "bairro": "Chácara Nova Essen",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.1868228,
+  "lon": -46.7684751
 }

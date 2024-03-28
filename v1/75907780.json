@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Bougainville",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.815892,
+  "lon": -50.9475958
 }

@@ -5,5 +5,7 @@
   "bairro": "Santíssima Trindade",
   "localidade": "Iúna",
   "uf": "ES",
-  "ibge": "3203007"
+  "ibge": "3203007",
+  "lat": -20.3517103,
+  "lon": -41.5327256
 }

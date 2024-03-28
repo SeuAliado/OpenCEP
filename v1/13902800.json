@@ -5,5 +5,7 @@
   "bairro": "Jardim Cachoeira",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.6814064,
+  "lon": -46.7416846
 }

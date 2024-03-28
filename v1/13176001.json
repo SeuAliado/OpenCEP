@@ -5,5 +5,7 @@
   "bairro": "Parque São Bento",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8491431,
+  "lon": -47.3006435
 }

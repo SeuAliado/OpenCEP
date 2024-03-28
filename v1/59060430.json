@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Nazaré",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.8188353,
+  "lon": -35.2294129
 }

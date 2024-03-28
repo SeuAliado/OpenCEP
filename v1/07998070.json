@@ -5,5 +5,7 @@
   "bairro": "Jardim Buenos Aires",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2955854,
+  "lon": -46.7343026
 }

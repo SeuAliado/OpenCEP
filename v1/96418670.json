@@ -5,5 +5,7 @@
   "bairro": "Balança",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3303818,
+  "lon": -54.0732844
 }

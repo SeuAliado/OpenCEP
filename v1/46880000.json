@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaberaba",
   "uf": "BA",
-  "ibge": "2914703"
+  "ibge": "2914703",
+  "lat": -12.5245795,
+  "lon": -40.3062038
 }

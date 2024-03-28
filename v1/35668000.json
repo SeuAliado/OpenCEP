@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição do Pará",
   "uf": "MG",
-  "ibge": "3117603"
+  "ibge": "3117603",
+  "lat": -19.7877348,
+  "lon": -44.8692573
 }

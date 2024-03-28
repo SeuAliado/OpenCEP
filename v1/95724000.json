@@ -5,5 +5,7 @@
   "bairro": "Daltro Filho",
   "localidade": "Garibaldi",
   "uf": "RS",
-  "ibge": "4308607"
+  "ibge": "4308607",
+  "lat": -29.7877042,
+  "lon": -55.8023513
 }

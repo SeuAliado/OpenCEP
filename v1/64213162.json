@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9268356,
+  "lon": -41.7700713
 }

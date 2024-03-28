@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional São Judas Tadeu",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2817068,
+  "lon": -47.2795372
 }

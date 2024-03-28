@@ -5,5 +5,7 @@
   "bairro": "Saboó",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9323829,
+  "lon": -46.3531886
 }

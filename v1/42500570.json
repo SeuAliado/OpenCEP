@@ -5,5 +5,7 @@
   "bairro": "Martelo (Ilha de Maré)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.743388,
+  "lon": -38.533298
 }

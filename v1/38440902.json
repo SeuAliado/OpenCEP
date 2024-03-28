@@ -5,5 +5,7 @@
   "bairro": "Parque Flamboyants",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6630944,
+  "lon": -48.1918289
 }

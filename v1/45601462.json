@@ -5,5 +5,7 @@
   "bairro": "Manoel Leão",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8207687,
+  "lon": -39.3103665
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapororoca",
   "uf": "PB",
-  "ibge": "2507101"
+  "ibge": "2507101",
+  "lat": -6.8286181,
+  "lon": -35.2457153
 }

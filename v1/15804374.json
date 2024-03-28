@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedro Borgoni",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1132112,
+  "lon": -48.9555483
 }

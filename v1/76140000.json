@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amorinópolis",
   "uf": "GO",
-  "ibge": "5200902"
+  "ibge": "5200902",
+  "lat": -16.6211171,
+  "lon": -51.0946681
 }

@@ -5,5 +5,7 @@
   "bairro": "Frei Serafim",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0888173,
+  "lon": -42.7947382
 }

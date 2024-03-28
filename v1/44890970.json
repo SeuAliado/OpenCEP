@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canarana",
   "uf": "BA",
-  "ibge": "2906204"
+  "ibge": "2906204",
+  "lat": -11.686436,
+  "lon": -41.767665
 }

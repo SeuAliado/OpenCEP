@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buritirama",
   "uf": "BA",
-  "ibge": "2904753"
+  "ibge": "2904753",
+  "lat": -10.7172177,
+  "lon": -43.6312012
 }

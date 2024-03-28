@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jerumenha",
   "uf": "PI",
-  "ibge": "2205300"
+  "ibge": "2205300",
+  "lat": -7.1436672,
+  "lon": -43.5606946
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sede Nova",
   "uf": "RS",
-  "ibge": "4320230"
+  "ibge": "4320230",
+  "lat": -27.635196,
+  "lon": -53.9488773
 }

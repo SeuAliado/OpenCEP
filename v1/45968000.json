@@ -5,5 +5,7 @@
   "bairro": "Itupeva",
   "localidade": "Medeiros Neto",
   "uf": "BA",
-  "ibge": "2921104"
+  "ibge": "2921104",
+  "lat": -17.3711504,
+  "lon": -40.2241509
 }

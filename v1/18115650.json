@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5669878,
+  "lon": -47.4533525
 }

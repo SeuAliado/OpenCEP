@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia do Azul",
   "localidade": "Água Doce do Norte",
   "uf": "ES",
-  "ibge": "3200169"
+  "ibge": "3200169",
+  "lat": -18.5487,
+  "lon": -40.9857951
 }

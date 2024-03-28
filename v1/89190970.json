@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taió",
   "uf": "SC",
-  "ibge": "4217808"
+  "ibge": "4217808",
+  "lat": -27.1147085,
+  "lon": -49.9903265
 }

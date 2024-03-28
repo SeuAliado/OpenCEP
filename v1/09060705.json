@@ -5,5 +5,7 @@
   "bairro": "Vila Sacadura Cabral",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6462284,
+  "lon": -46.543428
 }

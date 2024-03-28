@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Azul Paulista",
   "uf": "SP",
-  "ibge": "3531506"
+  "ibge": "3531506",
+  "lat": -20.9069644,
+  "lon": -48.6391716
 }

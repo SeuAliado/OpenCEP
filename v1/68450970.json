@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Moju",
   "uf": "PA",
-  "ibge": "1504703"
+  "ibge": "1504703",
+  "lat": -1.8847203,
+  "lon": -48.767346
 }

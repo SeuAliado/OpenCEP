@@ -5,5 +5,7 @@
   "bairro": "Campolide",
   "localidade": "Antônio Carlos",
   "uf": "MG",
-  "ibge": "3102902"
+  "ibge": "3102902",
+  "lat": -21.2842048,
+  "lon": -43.8277517
 }

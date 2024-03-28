@@ -5,5 +5,7 @@
   "bairro": "Tesouras",
   "localidade": "Chapada",
   "uf": "RS",
-  "ibge": "4305306"
+  "ibge": "4305306",
+  "lat": -28.1042485,
+  "lon": -53.0679295
 }

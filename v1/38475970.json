@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Alegre de Minas",
   "uf": "MG",
-  "ibge": "3142809"
+  "ibge": "3142809",
+  "lat": -18.8699291,
+  "lon": -48.8752992
 }

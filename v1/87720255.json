@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Sumaré (Sumaré)",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0704173,
+  "lon": -52.4180788
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9408893,
+  "lon": -48.480444
 }

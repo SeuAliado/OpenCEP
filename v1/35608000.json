@@ -5,5 +5,7 @@
   "bairro": "Alberto Isaacson",
   "localidade": "Martinho Campos",
   "uf": "MG",
-  "ibge": "3140506"
+  "ibge": "3140506",
+  "lat": -19.4976578,
+  "lon": -45.0605002
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Basilicata",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7957649,
+  "lon": -47.2794739
 }

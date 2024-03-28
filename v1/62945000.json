@@ -5,5 +5,7 @@
   "bairro": "Juazeiro de Baixo",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "lat": -5.1403606,
+  "lon": -38.5731533
 }

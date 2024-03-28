@@ -5,5 +5,7 @@
   "bairro": "Seridó",
   "localidade": "São Vicente do Seridó",
   "uf": "PB",
-  "ibge": "2515401"
+  "ibge": "2515401",
+  "lat": -6.934406,
+  "lon": -36.4025293
 }

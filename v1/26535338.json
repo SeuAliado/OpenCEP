@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nilópolis",
   "uf": "RJ",
-  "ibge": "3303203"
+  "ibge": "3303203",
+  "lat": -22.8004121,
+  "lon": -43.4087398
 }

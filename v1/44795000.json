@@ -5,5 +5,7 @@
   "bairro": "Delfino",
   "localidade": "Campo Formoso",
   "uf": "BA",
-  "ibge": "2906006"
+  "ibge": "2906006",
+  "lat": -10.4505877,
+  "lon": -41.2001181
 }

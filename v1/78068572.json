@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6062455,
+  "lon": -56.0550443
 }

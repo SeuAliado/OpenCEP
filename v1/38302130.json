@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9697611,
+  "lon": -49.4429684
 }

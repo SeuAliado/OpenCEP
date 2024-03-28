@@ -5,5 +5,7 @@
   "bairro": "Jacarecanga",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.744058,
+  "lon": -38.5276325
 }

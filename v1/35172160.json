@@ -5,5 +5,7 @@
   "bairro": "São Cristovão",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.477628,
+  "lon": -42.6353278
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara da Barra",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8834049,
+  "lon": -47.0399723
 }

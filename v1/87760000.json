@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tamboara",
   "uf": "PR",
-  "ibge": "4126702"
+  "ibge": "4126702",
+  "lat": -23.1980308,
+  "lon": -52.4980837
 }

@@ -5,5 +5,7 @@
   "bairro": "Agrovila 14",
   "localidade": "Serra do Ramalho",
   "uf": "BA",
-  "ibge": "2930154"
+  "ibge": "2930154",
+  "lat": -13.4796769,
+  "lon": -43.6274058
 }

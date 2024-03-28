@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedras de Maria da Cruz",
   "uf": "MG",
-  "ibge": "3149150"
+  "ibge": "3149150",
+  "lat": -15.6192904,
+  "lon": -44.2857937
 }

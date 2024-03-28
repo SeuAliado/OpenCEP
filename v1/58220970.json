@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bananeiras",
   "uf": "PB",
-  "ibge": "2501500"
+  "ibge": "2501500",
+  "lat": -6.7559986,
+  "lon": -35.6365092
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0032736,
+  "lon": -47.8709143
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Daci",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6340405,
+  "lon": -46.8070092
 }

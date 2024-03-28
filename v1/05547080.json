@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosa Maria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5905916,
+  "lon": -46.7708789
 }

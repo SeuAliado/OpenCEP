@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5463968,
+  "lon": -46.9505038
 }

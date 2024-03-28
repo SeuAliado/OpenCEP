@@ -5,5 +5,7 @@
   "bairro": "Jardim Wanderley",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3482484,
+  "lon": -47.8655839
 }

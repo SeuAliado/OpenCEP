@@ -5,5 +5,7 @@
   "bairro": "Jardim Sorirama (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8765032,
+  "lon": -46.9619472
 }

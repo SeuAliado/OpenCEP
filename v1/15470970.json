@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palestina",
   "uf": "SP",
-  "ibge": "3535002"
+  "ibge": "3535002",
+  "lat": -20.3958286,
+  "lon": -49.4325014
 }

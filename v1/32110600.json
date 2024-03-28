@@ -5,5 +5,7 @@
   "bairro": "São Gotardo",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8800779,
+  "lon": -44.014199
 }

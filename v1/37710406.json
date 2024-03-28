@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Clara",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.8020639,
+  "lon": -46.5168762
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim João Paulo II",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2308766,
+  "lon": -54.7683565
 }

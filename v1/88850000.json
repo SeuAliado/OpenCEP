@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Forquilhinha",
   "uf": "SC",
-  "ibge": "4205456"
+  "ibge": "4205456",
+  "lat": -28.7477963,
+  "lon": -49.4745059
 }

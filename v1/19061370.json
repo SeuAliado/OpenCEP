@@ -5,5 +5,7 @@
   "bairro": "Jardim João Paulo II",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.128685,
+  "lon": -51.408848
 }

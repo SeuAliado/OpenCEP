@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Ibiraiaras",
   "uf": "RS",
-  "ibge": "4309902"
+  "ibge": "4309902",
+  "lat": -28.4612383,
+  "lon": -51.6716887
 }

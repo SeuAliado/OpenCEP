@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Deputado Jamil Dualibi",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.916602,
+  "lon": -50.4913729
 }

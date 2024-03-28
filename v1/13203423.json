@@ -5,5 +5,7 @@
   "bairro": "Vila Didi",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.208089,
+  "lon": -46.8627873
 }

@@ -5,5 +5,7 @@
   "bairro": "Sampaio",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9013095,
+  "lon": -43.2632176
 }

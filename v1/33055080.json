@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7508751,
+  "lon": -43.8331067
 }

@@ -5,5 +5,7 @@
   "bairro": "São João de Itaguaçu",
   "localidade": "Urupês",
   "uf": "SP",
-  "ibge": "3556008"
+  "ibge": "3556008",
+  "lat": -20.4102903,
+  "lon": -49.978594
 }

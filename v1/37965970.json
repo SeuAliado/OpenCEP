@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacuí",
   "uf": "MG",
-  "ibge": "3134806"
+  "ibge": "3134806",
+  "lat": -21.0166986,
+  "lon": -46.7404141
 }

@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9847484,
+  "lon": -53.4432618
 }

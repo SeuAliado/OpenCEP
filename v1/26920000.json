@@ -5,5 +5,7 @@
   "bairro": "Conrado",
   "localidade": "Miguel Pereira",
   "uf": "RJ",
-  "ibge": "3302908"
+  "ibge": "3302908",
+  "lat": -22.536647,
+  "lon": -43.569915
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3317359,
+  "lon": -54.1136402
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tarumã",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1693418,
+  "lon": -46.8698173
 }

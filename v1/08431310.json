@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaianazes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.538927,
+  "lon": -46.4178183
 }

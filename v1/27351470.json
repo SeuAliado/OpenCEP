@@ -5,5 +5,7 @@
   "bairro": "Colônia Santo Antônio",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5344688,
+  "lon": -44.2107685
 }

@@ -5,5 +5,7 @@
   "bairro": "Alpes de Caieiras",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3705541,
+  "lon": -46.6813716
 }

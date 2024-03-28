@@ -5,5 +5,7 @@
   "bairro": "Vida Nova",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "lat": -5.8948335,
+  "lon": -35.27015
 }

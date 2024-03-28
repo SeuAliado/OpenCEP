@@ -5,5 +5,7 @@
   "bairro": "Barrocas",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.1627975,
+  "lon": -37.3341135
 }

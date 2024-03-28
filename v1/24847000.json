@@ -5,5 +5,7 @@
   "bairro": "Granjas Mirassol (Pachecos)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.8274149,
+  "lon": -42.7771138
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4482645,
+  "lon": -46.5130733
 }

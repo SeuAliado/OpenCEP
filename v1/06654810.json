@@ -5,5 +5,7 @@
   "bairro": "Itaparica",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5333552,
+  "lon": -46.9206449
 }

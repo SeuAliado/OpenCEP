@@ -5,5 +5,7 @@
   "bairro": "Vila Bela Cintra",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2100834,
+  "lon": -46.8269186
 }

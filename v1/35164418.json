@@ -5,5 +5,7 @@
   "bairro": "Parque das Águas",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.4654744,
+  "lon": -42.519744
 }

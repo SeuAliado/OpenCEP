@@ -5,5 +5,7 @@
   "bairro": "Novo Paraíso",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3775725,
+  "lon": -48.976869
 }

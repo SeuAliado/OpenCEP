@@ -5,5 +5,7 @@
   "bairro": "Jardim Cristina",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9418046,
+  "lon": -45.4578141
 }

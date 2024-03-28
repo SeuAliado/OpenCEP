@@ -5,5 +5,7 @@
   "bairro": "Vila Hortência",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5651797,
+  "lon": -46.4119801
 }

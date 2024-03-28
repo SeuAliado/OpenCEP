@@ -5,5 +5,7 @@
   "bairro": "Corrente",
   "localidade": "Jardim",
   "uf": "CE",
-  "ibge": "2307106"
+  "ibge": "2307106",
+  "lat": -7.671023,
+  "lon": -39.1518565
 }

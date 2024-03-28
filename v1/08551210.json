@@ -5,5 +5,7 @@
   "bairro": "Vila Júlia",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.525837,
+  "lon": -46.3499621
 }

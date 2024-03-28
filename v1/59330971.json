@@ -5,5 +5,7 @@
   "bairro": "Boi Selado",
   "localidade": "Jucurutu",
   "uf": "RN",
-  "ibge": "2406106"
+  "ibge": "2406106",
+  "lat": -6.0245812,
+  "lon": -36.9082167
 }

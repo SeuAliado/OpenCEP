@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tavares",
   "uf": "PB",
-  "ibge": "2516607"
+  "ibge": "2516607",
+  "lat": -7.6363282,
+  "lon": -37.8787855
 }

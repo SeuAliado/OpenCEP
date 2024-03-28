@@ -5,5 +5,7 @@
   "bairro": "São José do Itavo",
   "localidade": "Itaipulândia",
   "uf": "PR",
-  "ibge": "4110953"
+  "ibge": "4110953",
+  "lat": -25.1797321,
+  "lon": -54.3423322
 }

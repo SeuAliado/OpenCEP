@@ -5,5 +5,7 @@
   "bairro": "Bom Sucesso",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7232031,
+  "lon": -36.6657038
 }

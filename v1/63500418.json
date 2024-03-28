@@ -5,5 +5,7 @@
   "bairro": "Jardim Iguatu",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3538014,
+  "lon": -39.2974231
 }

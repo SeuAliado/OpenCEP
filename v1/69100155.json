@@ -5,5 +5,7 @@
   "bairro": "Colônia",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.144934,
+  "lon": -58.4524029
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiro",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0996953,
+  "lon": -48.9296939
 }

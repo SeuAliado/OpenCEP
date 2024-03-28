@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Messias Targino",
   "uf": "RN",
-  "ibge": "2407609"
+  "ibge": "2407609",
+  "lat": -6.0723335,
+  "lon": -37.5161535
 }

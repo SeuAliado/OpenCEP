@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio de Barcelona",
   "localidade": "Caravelas",
   "uf": "BA",
-  "ibge": "2906907"
+  "ibge": "2906907",
+  "lat": -17.512753,
+  "lon": -40.106854
 }

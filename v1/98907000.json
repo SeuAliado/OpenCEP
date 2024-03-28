@@ -5,5 +5,7 @@
   "bairro": "Espírito Santo",
   "localidade": "Alegria",
   "uf": "RS",
-  "ibge": "4300455"
+  "ibge": "4300455",
+  "lat": -27.8239049,
+  "lon": -54.0605201
 }

@@ -5,5 +5,7 @@
   "bairro": "Paraná d'Oeste",
   "localidade": "Moreira Sales",
   "uf": "PR",
-  "ibge": "4116109"
+  "ibge": "4116109",
+  "lat": -24.1097385,
+  "lon": -52.8895057
 }

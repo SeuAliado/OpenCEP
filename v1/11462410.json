@@ -5,5 +5,7 @@
   "bairro": "Jardim Monteiro da Cruz (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9552234,
+  "lon": -46.2769477
 }

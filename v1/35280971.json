@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itabirinha",
   "uf": "MG",
-  "ibge": "3131802"
+  "ibge": "3131802",
+  "lat": -18.5685605,
+  "lon": -41.234343
 }

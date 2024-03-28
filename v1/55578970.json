@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tamandaré",
   "uf": "PE",
-  "ibge": "2614857"
+  "ibge": "2614857",
+  "lat": -8.7544332,
+  "lon": -35.1005887
 }

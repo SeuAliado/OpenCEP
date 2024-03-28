@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Tereza",
   "uf": "RS",
-  "ibge": "4317251"
+  "ibge": "4317251",
+  "lat": -29.165963,
+  "lon": -51.7355778
 }

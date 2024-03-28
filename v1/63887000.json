@@ -5,5 +5,7 @@
   "bairro": "Águas Belas",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "lat": -4.9131435,
+  "lon": -39.8048974
 }

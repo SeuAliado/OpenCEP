@@ -5,5 +5,7 @@
   "bairro": "Bosque das Palmeiras",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7829575,
+  "lon": -47.0462067
 }

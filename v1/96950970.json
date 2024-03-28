@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arroio do Tigre",
   "uf": "RS",
-  "ibge": "4301206"
+  "ibge": "4301206",
+  "lat": -29.3379525,
+  "lon": -53.0912802
 }

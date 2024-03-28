@@ -5,5 +5,7 @@
   "bairro": "Coronel Teixeira",
   "localidade": "Marcelino Ramos",
   "uf": "RS",
-  "ibge": "4311908"
+  "ibge": "4311908",
+  "lat": -27.4175707,
+  "lon": -52.0343785
 }

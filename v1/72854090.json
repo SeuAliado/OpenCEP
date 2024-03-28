@@ -5,5 +5,7 @@
   "bairro": "Parque Belo Horizonte",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1640209,
+  "lon": -47.946737
 }

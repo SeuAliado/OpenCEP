@@ -5,5 +5,7 @@
   "bairro": "Mateuzinho",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1119797,
+  "lon": -42.8253024
 }

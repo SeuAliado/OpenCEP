@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.138982,
+  "lon": -47.7948585
 }

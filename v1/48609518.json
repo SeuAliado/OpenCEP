@@ -5,5 +5,7 @@
   "bairro": "Rodoviários",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.4370918,
+  "lon": -38.2009017
 }

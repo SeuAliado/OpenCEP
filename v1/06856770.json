@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.6903881,
+  "lon": -46.799741
 }

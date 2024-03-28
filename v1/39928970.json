@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria do Salto",
   "uf": "MG",
-  "ibge": "3158102"
+  "ibge": "3158102",
+  "lat": -16.2481947,
+  "lon": -40.146692
 }

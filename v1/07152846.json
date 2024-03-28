@@ -5,5 +5,7 @@
   "bairro": "Jardim Oliveira II",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.423959,
+  "lon": -46.4235069
 }

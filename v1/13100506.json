@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Branco",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.920779,
+  "lon": -47.0396904
 }

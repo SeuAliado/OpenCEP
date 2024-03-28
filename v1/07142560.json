@@ -5,5 +5,7 @@
   "bairro": "Parque Mikail",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4088858,
+  "lon": -46.499809
 }

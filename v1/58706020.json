@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.0325752,
+  "lon": -37.290028
 }

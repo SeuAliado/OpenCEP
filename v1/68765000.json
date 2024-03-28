@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre do Pará",
   "localidade": "Marapanim",
   "uf": "PA",
-  "ibge": "1504406"
+  "ibge": "1504406",
+  "lat": -0.8869956,
+  "lon": -47.8012013
 }

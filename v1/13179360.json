@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Verde",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -23.6173085,
+  "lon": -45.3972487
 }

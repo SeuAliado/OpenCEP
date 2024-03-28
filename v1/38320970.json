@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Vitória",
   "uf": "MG",
-  "ibge": "3159803"
+  "ibge": "3159803",
+  "lat": -18.8423872,
+  "lon": -50.1248264
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista do Fão",
   "localidade": "Marques de Souza",
   "uf": "RS",
-  "ibge": "4312054"
+  "ibge": "4312054",
+  "lat": -29.2025483,
+  "lon": -52.2437344
 }

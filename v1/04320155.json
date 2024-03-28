@@ -5,5 +5,7 @@
   "bairro": "Cidade Vargas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.650296,
+  "lon": -46.6366619
 }

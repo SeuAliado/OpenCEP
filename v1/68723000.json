@@ -5,5 +5,7 @@
   "bairro": "Cafezal",
   "localidade": "Magalhães Barata",
   "uf": "PA",
-  "ibge": "1504109"
+  "ibge": "1504109",
+  "lat": -1.5123032,
+  "lon": -48.6143033
 }

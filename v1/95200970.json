@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vacaria",
   "uf": "RS",
-  "ibge": "4322509"
+  "ibge": "4322509",
+  "lat": -28.5021953,
+  "lon": -50.938212
 }

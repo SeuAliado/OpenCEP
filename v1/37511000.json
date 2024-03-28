@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piranguçu",
   "uf": "MG",
-  "ibge": "3150901"
+  "ibge": "3150901",
+  "lat": -22.527733,
+  "lon": -45.4962207
 }

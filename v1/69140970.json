@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nhamundá",
   "uf": "AM",
-  "ibge": "1303007"
+  "ibge": "1303007",
+  "lat": -2.186468,
+  "lon": -56.7140945
 }

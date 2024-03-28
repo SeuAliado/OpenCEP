@@ -5,5 +5,7 @@
   "bairro": "Parque Estrela Dalva VII",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2582508,
+  "lon": -47.9104109
 }

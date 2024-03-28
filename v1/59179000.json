@@ -5,5 +5,7 @@
   "bairro": "Pipa",
   "localidade": "Tibau do Sul",
   "uf": "RN",
-  "ibge": "2414209"
+  "ibge": "2414209",
+  "lat": -6.233554,
+  "lon": -35.045155
 }

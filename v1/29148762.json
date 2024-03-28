@@ -5,5 +5,7 @@
   "bairro": "Operário",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.340452,
+  "lon": -40.415411
 }

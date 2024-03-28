@@ -5,5 +5,7 @@
   "bairro": "Green Valley",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5560873,
+  "lon": -47.4883359
 }

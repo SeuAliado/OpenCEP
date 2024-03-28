@@ -5,5 +5,7 @@
   "bairro": "Vila Rosali",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7950831,
+  "lon": -43.3724169
 }

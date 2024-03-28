@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedra do Anta",
   "uf": "MG",
-  "ibge": "3148806"
+  "ibge": "3148806",
+  "lat": -20.5972717,
+  "lon": -42.7126953
 }

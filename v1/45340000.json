@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaquara",
   "uf": "BA",
-  "ibge": "2916708"
+  "ibge": "2916708",
+  "lat": -13.4537425,
+  "lon": -39.8784831
 }

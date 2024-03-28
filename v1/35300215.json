@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7759954,
+  "lon": -42.152378
 }

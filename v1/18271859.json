@@ -5,5 +5,7 @@
   "bairro": "Bosques do Junqueira",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3382937,
+  "lon": -47.8420968
 }

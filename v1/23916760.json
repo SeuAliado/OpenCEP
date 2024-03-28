@@ -5,5 +5,7 @@
   "bairro": "Biscaia",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0281478,
+  "lon": -44.2339609
 }

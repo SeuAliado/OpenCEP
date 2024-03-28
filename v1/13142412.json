@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Alegre",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7708901,
+  "lon": -47.1661088
 }

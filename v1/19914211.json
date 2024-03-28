@@ -5,5 +5,7 @@
   "bairro": "Jardim São Domingos",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9704082,
+  "lon": -49.8543553
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Severiano de Almeida",
   "uf": "RS",
-  "ibge": "4320602"
+  "ibge": "4320602",
+  "lat": -27.4342121,
+  "lon": -52.116845
 }

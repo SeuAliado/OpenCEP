@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Alegre",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1136329,
+  "lon": -48.0234988
 }

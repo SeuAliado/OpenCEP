@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jitaúna",
   "uf": "BA",
-  "ibge": "2918308"
+  "ibge": "2918308",
+  "lat": -14.0195139,
+  "lon": -39.8919195
 }

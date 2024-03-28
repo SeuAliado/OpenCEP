@@ -5,5 +5,7 @@
   "bairro": "Tupã",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9736799,
+  "lon": -49.455904
 }

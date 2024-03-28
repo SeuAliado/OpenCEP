@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Baraúna",
   "uf": "RN",
-  "ibge": "2401453"
+  "ibge": "2401453",
+  "lat": -5.0802805,
+  "lon": -37.6155415
 }

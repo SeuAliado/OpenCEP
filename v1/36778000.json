@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.3811666,
+  "lon": -42.7066248
 }

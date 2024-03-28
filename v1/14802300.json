@@ -5,5 +5,7 @@
   "bairro": "Vila José Bonifácio",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7791098,
+  "lon": -48.1784426
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Afonso Bezerra",
   "uf": "RN",
-  "ibge": "2400307"
+  "ibge": "2400307",
+  "lat": -5.4643856,
+  "lon": -36.5661908
 }

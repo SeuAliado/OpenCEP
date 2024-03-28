@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Andirá",
   "uf": "PR",
-  "ibge": "4101101"
+  "ibge": "4101101",
+  "lat": -23.3187277,
+  "lon": -51.1627288
 }

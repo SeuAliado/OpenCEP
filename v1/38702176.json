@@ -5,5 +5,7 @@
   "bairro": "Caiçaras",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.573344,
+  "lon": -46.515421
 }

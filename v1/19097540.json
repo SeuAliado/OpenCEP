@@ -5,5 +5,7 @@
   "bairro": "Jardim Morada do Sol",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.0749519,
+  "lon": -51.360134
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "lat": -24.3276719,
+  "lon": -50.6284202
 }

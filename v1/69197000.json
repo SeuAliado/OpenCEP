@@ -5,5 +5,7 @@
   "bairro": "Massauari",
   "localidade": "Boa Vista do Ramos",
   "uf": "AM",
-  "ibge": "1300680"
+  "ibge": "1300680",
+  "lat": -2.9778677,
+  "lon": -57.5867182
 }

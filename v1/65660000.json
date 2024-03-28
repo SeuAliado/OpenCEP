@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barão de Grajaú",
   "uf": "MA",
-  "ibge": "2101509"
+  "ibge": "2101509",
+  "lat": -6.5248725,
+  "lon": -43.2521507
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Alboitt",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5078604,
+  "lon": -48.527138
 }

@@ -5,5 +5,7 @@
   "bairro": "Laranja Azeda",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1287034,
+  "lon": -46.4995013
 }

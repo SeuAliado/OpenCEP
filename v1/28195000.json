@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Cardoso Moreira",
   "uf": "RJ",
-  "ibge": "3301157"
+  "ibge": "3301157",
+  "lat": -21.4817257,
+  "lon": -41.4846387
 }

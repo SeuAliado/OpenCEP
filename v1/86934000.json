@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia da Alvorada",
   "localidade": "São João do Ivaí",
   "uf": "PR",
-  "ibge": "4125001"
+  "ibge": "4125001",
+  "lat": -24.0591317,
+  "lon": -51.8758919
 }

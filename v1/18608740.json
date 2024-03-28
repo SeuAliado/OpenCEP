@@ -5,5 +5,7 @@
   "bairro": "Chácara Recreio Vista Alegre",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8618926,
+  "lon": -48.4887335
 }

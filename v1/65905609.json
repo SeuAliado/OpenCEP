@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5270119,
+  "lon": -47.4623901
 }

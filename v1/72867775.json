@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Brasília",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.0974151,
+  "lon": -48.0754751
 }

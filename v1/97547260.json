@@ -5,5 +5,7 @@
   "bairro": "Capão do Angico",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7977442,
+  "lon": -55.753729
 }

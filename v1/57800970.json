@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "União dos Palmares",
   "uf": "AL",
-  "ibge": "2709301"
+  "ibge": "2709301",
+  "lat": -9.1596336,
+  "lon": -36.0225956
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Sebastião Rezende Braga",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7812312,
+  "lon": -47.9325664
 }

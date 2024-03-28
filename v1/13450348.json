@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Luzia",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7644709,
+  "lon": -47.4233785
 }

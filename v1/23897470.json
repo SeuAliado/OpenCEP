@@ -5,5 +5,7 @@
   "bairro": "Parque Jacimar",
   "localidade": "Seropédica",
   "uf": "RJ",
-  "ibge": "3305554"
+  "ibge": "3305554",
+  "lat": -22.7951401,
+  "lon": -43.6510428
 }

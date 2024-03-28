@@ -5,5 +5,7 @@
   "bairro": "Uraim",
   "localidade": "Paragominas",
   "uf": "PA",
-  "ibge": "1505502"
+  "ibge": "1505502",
+  "lat": -2.9962441,
+  "lon": -47.3610856
 }

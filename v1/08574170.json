@@ -5,5 +5,7 @@
   "bairro": "Jardim Aracaré",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.5053852,
+  "lon": -46.3510532
 }

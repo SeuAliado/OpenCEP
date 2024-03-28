@@ -5,5 +5,7 @@
   "bairro": "Condomínio Bosque Imperial",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2081051,
+  "lon": -45.9070868
 }

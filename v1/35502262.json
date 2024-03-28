@@ -5,5 +5,7 @@
   "bairro": "Icaraí",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1206285,
+  "lon": -44.8498872
 }

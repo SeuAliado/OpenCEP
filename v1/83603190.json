@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Rios",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4721642,
+  "lon": -49.5298692
 }

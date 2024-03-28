@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vera Cruz",
   "uf": "BA",
-  "ibge": "2933208"
+  "ibge": "2933208",
+  "lat": -12.957906,
+  "lon": -38.6092828
 }

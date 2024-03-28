@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joaquim Gomes",
   "uf": "AL",
-  "ibge": "2703809"
+  "ibge": "2703809",
+  "lat": -9.1332287,
+  "lon": -35.7477041
 }

@@ -5,5 +5,7 @@
   "bairro": "Castelarim",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -28.2935208,
+  "lon": -54.2579357
 }

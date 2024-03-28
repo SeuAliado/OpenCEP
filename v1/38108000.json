@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Delta",
   "uf": "MG",
-  "ibge": "3121258"
+  "ibge": "3121258",
+  "lat": -19.9719267,
+  "lon": -47.7757685
 }

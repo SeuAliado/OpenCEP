@@ -5,5 +5,7 @@
   "bairro": "Vila Guará",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.200074,
+  "lon": -47.9280861
 }

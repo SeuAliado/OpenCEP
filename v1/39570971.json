@@ -5,5 +5,7 @@
   "bairro": "Vale das Cancelas",
   "localidade": "Grão Mogol",
   "uf": "MG",
-  "ibge": "3127800"
+  "ibge": "3127800",
+  "lat": -16.5751092,
+  "lon": -42.8967787
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Lar Nacional",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.60264,
+  "lon": -46.5074941
 }

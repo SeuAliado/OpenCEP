@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araçaí",
   "uf": "MG",
-  "ibge": "3103207"
+  "ibge": "3103207",
+  "lat": -19.1992314,
+  "lon": -44.2491859
 }

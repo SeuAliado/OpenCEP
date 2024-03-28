@@ -5,5 +5,7 @@
   "bairro": "Portal de São Francisco",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6483031,
+  "lon": -50.4332879
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Tinto",
   "uf": "PB",
-  "ibge": "2512903"
+  "ibge": "2512903",
+  "lat": -6.8078347,
+  "lon": -35.0767469
 }

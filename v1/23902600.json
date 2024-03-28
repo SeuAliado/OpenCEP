@@ -5,5 +5,7 @@
   "bairro": "Morro do Santo Antônio",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0059918,
+  "lon": -44.3213394
 }

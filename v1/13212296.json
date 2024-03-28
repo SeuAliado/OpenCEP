@@ -5,5 +5,7 @@
   "bairro": "Vila Pires",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.189701,
+  "lon": -46.9947537
 }

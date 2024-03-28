@@ -5,5 +5,7 @@
   "bairro": "Campinal",
   "localidade": "Presidente Epitácio",
   "uf": "SP",
-  "ibge": "3541307"
+  "ibge": "3541307",
+  "lat": -21.571452,
+  "lon": -51.9751896
 }

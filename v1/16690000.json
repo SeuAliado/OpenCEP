@@ -5,5 +5,7 @@
   "bairro": "Nogueira",
   "localidade": "Avaí",
   "uf": "SP",
-  "ibge": "3504305"
+  "ibge": "3504305",
+  "lat": -22.875206,
+  "lon": -47.0682729
 }

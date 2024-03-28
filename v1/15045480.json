@@ -5,5 +5,7 @@
   "bairro": "Residencial Ana Célia",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7804137,
+  "lon": -49.3987857
 }

@@ -5,5 +5,7 @@
   "bairro": "Prolongamento Parque das Esmeraldas",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5430079,
+  "lon": -47.4569207
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Maria I",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.934439,
+  "lon": -48.4458619
 }

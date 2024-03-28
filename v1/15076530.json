@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Cristo Rei",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8355637,
+  "lon": -49.3489925
 }

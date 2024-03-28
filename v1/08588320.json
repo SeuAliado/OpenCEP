@@ -5,5 +5,7 @@
   "bairro": "Jardim Carolina",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4345221,
+  "lon": -46.3238352
 }

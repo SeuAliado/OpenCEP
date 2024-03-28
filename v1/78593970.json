@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Monte Verde",
   "uf": "MT",
-  "ibge": "5108956"
+  "ibge": "5108956",
+  "lat": -9.9795745,
+  "lon": -57.466761
 }

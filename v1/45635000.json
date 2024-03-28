@@ -5,5 +5,7 @@
   "bairro": "Bandeira do Almada",
   "localidade": "Itajuípe",
   "uf": "BA",
-  "ibge": "2915502"
+  "ibge": "2915502",
+  "lat": -14.6603124,
+  "lon": -39.5011959
 }

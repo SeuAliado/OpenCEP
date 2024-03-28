@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Três Barras",
   "uf": "SC",
-  "ibge": "4218301"
+  "ibge": "4218301",
+  "lat": -27.1654325,
+  "lon": -53.7067959
 }

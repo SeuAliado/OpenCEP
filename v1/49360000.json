@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boquim",
   "uf": "SE",
-  "ibge": "2800670"
+  "ibge": "2800670",
+  "lat": -11.1212756,
+  "lon": -37.6173695
 }

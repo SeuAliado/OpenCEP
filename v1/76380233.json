@@ -5,5 +5,7 @@
   "bairro": "Vila São Caetano",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "lat": -15.319418,
+  "lon": -49.1116805
 }

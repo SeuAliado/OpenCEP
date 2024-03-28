@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Isabel do Ivaí",
   "uf": "PR",
-  "ibge": "4123709"
+  "ibge": "4123709",
+  "lat": -23.13538,
+  "lon": -53.2825661
 }

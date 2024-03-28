@@ -5,5 +5,7 @@
   "bairro": "Riachão",
   "localidade": "Junqueiro",
   "uf": "AL",
-  "ibge": "2704005"
+  "ibge": "2704005",
+  "lat": -8.27461,
+  "lon": -35.9643372
 }

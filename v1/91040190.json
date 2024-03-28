@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0051451,
+  "lon": -51.1651987
 }

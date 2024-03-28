@@ -5,5 +5,7 @@
   "bairro": "Betânia",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "lat": -4.3672743,
+  "lon": -40.8368421
 }

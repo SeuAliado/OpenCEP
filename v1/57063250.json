@@ -5,5 +5,7 @@
   "bairro": "Santa Amélia",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.5855569,
+  "lon": -35.780273
 }

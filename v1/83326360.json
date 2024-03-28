@@ -5,5 +5,7 @@
   "bairro": "Jardim Cláudia",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4038702,
+  "lon": -49.1787044
 }

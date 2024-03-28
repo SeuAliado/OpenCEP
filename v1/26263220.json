@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora das Graças",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7398326,
+  "lon": -43.4549627
 }

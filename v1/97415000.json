@@ -5,5 +5,7 @@
   "bairro": "Clara",
   "localidade": "Mata",
   "uf": "RS",
-  "ibge": "4312104"
+  "ibge": "4312104",
+  "lat": -29.5560604,
+  "lon": -54.3444644
 }

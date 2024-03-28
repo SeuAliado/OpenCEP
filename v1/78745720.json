@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4715179,
+  "lon": -54.6611469
 }

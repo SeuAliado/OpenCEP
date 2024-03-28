@@ -5,5 +5,7 @@
   "bairro": "Jardim do Engenho",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6156457,
+  "lon": -46.8351432
 }

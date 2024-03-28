@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4941796,
+  "lon": -42.6304303
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coaraci",
   "uf": "BA",
-  "ibge": "2908002"
+  "ibge": "2908002",
+  "lat": -14.6486494,
+  "lon": -39.5898526
 }

@@ -5,5 +5,7 @@
   "bairro": "Vereda do Paraíso",
   "localidade": "São João do Paraíso",
   "uf": "MG",
-  "ibge": "3162708"
+  "ibge": "3162708",
+  "lat": -15.3155135,
+  "lon": -42.0166981
 }

@@ -5,5 +5,7 @@
   "bairro": "Governador Portela",
   "localidade": "Miguel Pereira",
   "uf": "RJ",
-  "ibge": "3302908"
+  "ibge": "3302908",
+  "lat": -22.477826,
+  "lon": -43.4999692
 }

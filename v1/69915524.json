@@ -5,5 +5,7 @@
   "bairro": "Jardim de Alah",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9755367,
+  "lon": -67.854729
 }

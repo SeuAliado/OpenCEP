@@ -5,5 +5,7 @@
   "bairro": "Jardim São Genaro",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2859014,
+  "lon": -50.3273738
 }

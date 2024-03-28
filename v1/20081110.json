@@ -5,5 +5,7 @@
   "bairro": "Saúde",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8973589,
+  "lon": -43.1812534
 }

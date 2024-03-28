@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nísia Floresta",
   "uf": "RN",
-  "ibge": "2408201"
+  "ibge": "2408201",
+  "lat": -6.093688,
+  "lon": -35.1994459
 }

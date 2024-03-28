@@ -5,5 +5,7 @@
   "bairro": "Park Amazonas",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "lat": -15.6311222,
+  "lon": -47.6626668
 }

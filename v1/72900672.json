@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso II",
   "localidade": "Santo Antônio do Descoberto",
   "uf": "GO",
-  "ibge": "5219753"
+  "ibge": "5219753",
+  "lat": -15.9562062,
+  "lon": -48.2657287
 }

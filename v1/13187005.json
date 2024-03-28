@@ -5,5 +5,7 @@
   "bairro": "Chácaras Acaraí",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8995996,
+  "lon": -47.227701
 }

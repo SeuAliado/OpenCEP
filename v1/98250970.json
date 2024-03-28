@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Saldanha Marinho",
   "uf": "RS",
-  "ibge": "4316436"
+  "ibge": "4316436",
+  "lat": -28.4022882,
+  "lon": -53.0927964
 }

@@ -5,5 +5,7 @@
   "bairro": "Louzeiro",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.1983094,
+  "lon": -35.8934404
 }

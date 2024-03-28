@@ -5,5 +5,7 @@
   "bairro": "Vila Nair",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6080756,
+  "lon": -46.6071806
 }

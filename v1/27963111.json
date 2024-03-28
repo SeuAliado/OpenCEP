@@ -5,5 +5,7 @@
   "bairro": "Parque Aeroporto",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

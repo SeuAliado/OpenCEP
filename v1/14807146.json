@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rosa",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8005209,
+  "lon": -48.1587331
 }

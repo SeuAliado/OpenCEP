@@ -5,5 +5,7 @@
   "bairro": "Setor Iracema",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8785175,
+  "lon": -51.7148282
 }

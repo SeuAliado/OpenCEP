@@ -5,5 +5,7 @@
   "bairro": "Industrial Mooca",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.679824,
+  "lon": -49.3207927
 }

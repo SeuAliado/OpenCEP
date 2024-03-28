@@ -5,5 +5,7 @@
   "bairro": "Pedra de Guaratiba",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9945518,
+  "lon": -43.6446142
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Dona Escolástica",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4575133,
+  "lon": -46.3564084
 }

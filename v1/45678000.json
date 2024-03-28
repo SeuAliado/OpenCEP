@@ -5,5 +5,7 @@
   "bairro": "Poço Central",
   "localidade": "Aurelino Leal",
   "uf": "BA",
-  "ibge": "2902401"
+  "ibge": "2902401",
+  "lat": -14.3547056,
+  "lon": -39.6173562
 }

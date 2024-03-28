@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Bosco",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.446082,
+  "lon": -51.8718322
 }

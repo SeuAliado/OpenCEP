@@ -5,5 +5,7 @@
   "bairro": "Palestina",
   "localidade": "Nossa Senhora do Socorro",
   "uf": "SE",
-  "ibge": "2804805"
+  "ibge": "2804805",
+  "lat": -10.8986803,
+  "lon": -37.061892
 }

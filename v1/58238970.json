@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Casserengue",
   "uf": "PB",
-  "ibge": "2504157"
+  "ibge": "2504157",
+  "lat": -6.7823461,
+  "lon": -35.8180203
 }

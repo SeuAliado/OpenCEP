@@ -5,5 +5,7 @@
   "bairro": "Jardim Oriental (Parelheiros)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8678602,
+  "lon": -46.7676347
 }

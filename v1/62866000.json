@@ -5,5 +5,7 @@
   "bairro": "Ema",
   "localidade": "Pindoretama",
   "uf": "CE",
-  "ibge": "2310852"
+  "ibge": "2310852",
+  "lat": -4.0496796,
+  "lon": -38.2979292
 }

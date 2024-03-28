@@ -5,5 +5,7 @@
   "bairro": "Pituba",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "lat": -11.672643,
+  "lon": -42.6265147
 }

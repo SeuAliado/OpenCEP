@@ -5,5 +5,7 @@
   "bairro": "Sede",
   "localidade": "Pereira Barreto",
   "uf": "SP",
-  "ibge": "3537404"
+  "ibge": "3537404",
+  "lat": -20.6372335,
+  "lon": -51.1127411
 }

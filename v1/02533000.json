@@ -5,5 +5,7 @@
   "bairro": "Parque Peruche",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4977119,
+  "lon": -46.654473
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arara",
   "uf": "PB",
-  "ibge": "2500908"
+  "ibge": "2500908",
+  "lat": -6.8398551,
+  "lon": -35.7516069
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palhano",
   "uf": "CE",
-  "ibge": "2310001"
+  "ibge": "2310001",
+  "lat": -4.7019543,
+  "lon": -38.0419836
 }

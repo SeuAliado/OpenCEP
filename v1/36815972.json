@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fervedouro",
   "uf": "MG",
-  "ibge": "3125952"
+  "ibge": "3125952",
+  "lat": -20.7272421,
+  "lon": -42.2787753
 }

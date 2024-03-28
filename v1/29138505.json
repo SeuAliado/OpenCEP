@@ -5,5 +5,7 @@
   "bairro": "Campo Verde",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.3366156,
+  "lon": -40.3921109
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boca da Mata",
   "uf": "AL",
-  "ibge": "2701001"
+  "ibge": "2701001",
+  "lat": -9.6610722,
+  "lon": -36.1979764
 }

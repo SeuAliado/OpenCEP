@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Montadas",
   "uf": "PB",
-  "ibge": "2509503"
+  "ibge": "2509503",
+  "lat": -7.0873639,
+  "lon": -35.9588958
 }

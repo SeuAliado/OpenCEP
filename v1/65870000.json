@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pastos Bons",
   "uf": "MA",
-  "ibge": "2108009"
+  "ibge": "2108009",
+  "lat": -6.6033558,
+  "lon": -44.0749322
 }

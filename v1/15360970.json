@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sud Mennucci",
   "uf": "SP",
-  "ibge": "3552304"
+  "ibge": "3552304",
+  "lat": -20.6912884,
+  "lon": -50.9235852
 }

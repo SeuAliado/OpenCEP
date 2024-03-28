@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fruta de Leite",
   "uf": "MG",
-  "ibge": "3127073"
+  "ibge": "3127073",
+  "lat": -16.2884339,
+  "lon": -42.4294201
 }

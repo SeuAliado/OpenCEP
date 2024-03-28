@@ -5,5 +5,7 @@
   "bairro": "Fonte Grande",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.930972,
+  "lon": -44.0886849
 }

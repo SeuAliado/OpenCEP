@@ -5,5 +5,7 @@
   "bairro": "Sitio Novo Oriente",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7257027,
+  "lon": -43.4729433
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Suzano",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5578101,
+  "lon": -46.3151918
 }

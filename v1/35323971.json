@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Imbé de Minas",
   "uf": "MG",
-  "ibge": "3130556"
+  "ibge": "3130556",
+  "lat": -19.595411,
+  "lon": -41.9683837
 }

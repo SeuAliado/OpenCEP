@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Independência",
   "uf": "RS",
-  "ibge": "4310405"
+  "ibge": "4310405",
+  "lat": -27.8569748,
+  "lon": -54.1896258
 }

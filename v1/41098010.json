@@ -5,5 +5,7 @@
   "bairro": "Horto Bela Vista",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9692981,
+  "lon": -38.4723254
 }

@@ -5,5 +5,7 @@
   "bairro": "Vilar dos Teles",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7747109,
+  "lon": -43.3490632
 }

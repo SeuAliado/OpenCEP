@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maragogi",
   "uf": "AL",
-  "ibge": "2704500"
+  "ibge": "2704500",
+  "lat": -9.0136351,
+  "lon": -35.2219944
 }

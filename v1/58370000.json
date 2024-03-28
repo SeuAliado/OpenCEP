@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salgado de São Félix",
   "uf": "PB",
-  "ibge": "2513109"
+  "ibge": "2513109",
+  "lat": -7.3555209,
+  "lon": -35.4401442
 }

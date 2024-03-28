@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova União",
   "uf": "RO",
-  "ibge": "1101435"
+  "ibge": "1101435",
+  "lat": -10.9147652,
+  "lon": -62.557576
 }

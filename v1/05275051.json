@@ -5,5 +5,7 @@
   "bairro": "Chácara Maria Trindade",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4154211,
+  "lon": -46.8100723
 }

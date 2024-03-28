@@ -5,5 +5,7 @@
   "bairro": "Xucurus",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.4160873,
+  "lon": -36.6065351
 }

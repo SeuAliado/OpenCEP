@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salvaterra",
   "uf": "PA",
-  "ibge": "1506302"
+  "ibge": "1506302",
+  "lat": -0.7386256,
+  "lon": -48.515895
 }

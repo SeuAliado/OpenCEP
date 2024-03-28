@@ -5,5 +5,7 @@
   "bairro": "Jardim Almira",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3556618,
+  "lon": -46.9345876
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus da Cachoeira",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.2584383,
+  "lon": -42.4036651
 }

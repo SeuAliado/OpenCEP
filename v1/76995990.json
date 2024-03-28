@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Corumbiara",
   "uf": "RO",
-  "ibge": "1100072"
+  "ibge": "1100072",
+  "lat": -11.744198,
+  "lon": -61.7742276
 }

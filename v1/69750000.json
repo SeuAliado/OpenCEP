@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Gabriel da Cachoeira",
   "uf": "AM",
-  "ibge": "1303809"
+  "ibge": "1303809",
+  "lat": -0.1194389,
+  "lon": -67.08458
 }

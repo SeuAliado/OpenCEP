@@ -5,5 +5,7 @@
   "bairro": "Tarumã",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.04885,
+  "lon": -51.0280551
 }

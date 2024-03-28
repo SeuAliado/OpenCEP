@@ -5,5 +5,7 @@
   "bairro": "Bosque",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6539228,
+  "lon": -48.182301
 }

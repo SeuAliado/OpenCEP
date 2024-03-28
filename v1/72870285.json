@@ -5,5 +5,7 @@
   "bairro": "Jardim Oriente",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0749448,
+  "lon": -47.9979466
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Jayara",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2851134,
+  "lon": -48.97963
 }

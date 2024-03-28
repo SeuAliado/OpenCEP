@@ -5,5 +5,7 @@
   "bairro": "Camalaú",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "lat": -6.9849136,
+  "lon": -34.8296715
 }

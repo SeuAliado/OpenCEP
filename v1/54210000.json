@@ -5,5 +5,7 @@
   "bairro": "Cavaleiro",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "lat": -8.0948399,
+  "lon": -34.9727702
 }

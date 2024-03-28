@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3411905,
+  "lon": -49.2676367
 }

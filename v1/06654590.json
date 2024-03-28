@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio da Boa Vista",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5400326,
+  "lon": -46.9213508
 }

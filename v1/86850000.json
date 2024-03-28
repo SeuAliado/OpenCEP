@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rosário do Ivaí",
   "uf": "PR",
-  "ibge": "4122651"
+  "ibge": "4122651",
+  "lat": -24.2579595,
+  "lon": -51.2482166
 }

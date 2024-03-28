@@ -5,5 +5,7 @@
   "bairro": "Vila Totoli",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5136531,
+  "lon": -47.3922137
 }

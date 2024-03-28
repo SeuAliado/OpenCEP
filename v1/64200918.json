@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9015571,
+  "lon": -41.7796185
 }

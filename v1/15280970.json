@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Turiúba",
   "uf": "SP",
-  "ibge": "3555208"
+  "ibge": "3555208",
+  "lat": -20.9512171,
+  "lon": -50.1085285
 }

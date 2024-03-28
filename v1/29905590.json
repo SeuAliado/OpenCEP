@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3624998,
+  "lon": -40.0483003
 }

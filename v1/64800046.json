@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7697207,
+  "lon": -43.0188153
 }

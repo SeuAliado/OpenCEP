@@ -5,5 +5,7 @@
   "bairro": "Tarumã",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3104669,
+  "lon": -54.1300894
 }

@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7672325,
+  "lon": -50.9200941
 }

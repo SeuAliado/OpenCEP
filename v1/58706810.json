@@ -5,5 +5,7 @@
   "bairro": "Ana Leite",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.0190606,
+  "lon": -37.2519988
 }

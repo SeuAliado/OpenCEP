@@ -5,5 +5,7 @@
   "bairro": "Iolópolis",
   "localidade": "São Jorge D'Oeste",
   "uf": "PR",
-  "ibge": "4125209"
+  "ibge": "4125209",
+  "lat": -25.6531105,
+  "lon": -52.8845967
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Nossa Senhora Aparecida",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5472876,
+  "lon": -51.471204
 }

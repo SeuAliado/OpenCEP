@@ -5,5 +5,7 @@
   "bairro": "Sotema",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3262469,
+  "lon": -40.3658345
 }

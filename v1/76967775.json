@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Governador Jeronimo Santana",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4355618,
+  "lon": -61.4604149
 }

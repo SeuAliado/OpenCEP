@@ -5,5 +5,7 @@
   "bairro": "Jardim 31 de Março",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4281122,
+  "lon": -46.9485286
 }

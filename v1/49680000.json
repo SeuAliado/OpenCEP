@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nossa Senhora da Glória",
   "uf": "SE",
-  "ibge": "2804508"
+  "ibge": "2804508",
+  "lat": -10.2156554,
+  "lon": -37.4212807
 }

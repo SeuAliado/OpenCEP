@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.7986977,
+  "lon": -42.9738849
 }

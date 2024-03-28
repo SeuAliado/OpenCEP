@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapissuma",
   "uf": "PE",
-  "ibge": "2607752"
+  "ibge": "2607752",
+  "lat": -7.7733754,
+  "lon": -34.8951734
 }

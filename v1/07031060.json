@@ -5,5 +5,7 @@
   "bairro": "Vila Venditti",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.49028,
+  "lon": -46.5441301
 }

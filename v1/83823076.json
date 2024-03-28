@@ -5,5 +5,7 @@
   "bairro": "Nações",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "lat": -25.6525712,
+  "lon": -49.3063989
 }

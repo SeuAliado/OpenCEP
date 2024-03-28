@@ -5,5 +5,7 @@
   "bairro": "Capão da Imbuia",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4373703,
+  "lon": -49.231167
 }

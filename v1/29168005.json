@@ -5,5 +5,7 @@
   "bairro": "Civit I",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1811393,
+  "lon": -40.2442924
 }

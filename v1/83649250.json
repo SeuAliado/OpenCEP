@@ -5,5 +5,7 @@
   "bairro": "Vista Bonita",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -23.3607063,
+  "lon": -51.1440085
 }

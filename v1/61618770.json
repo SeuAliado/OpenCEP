@@ -5,5 +5,7 @@
   "bairro": "Tabuba",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.6406908,
+  "lon": -38.7019092
 }

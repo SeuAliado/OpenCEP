@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Liberdade",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2738113,
+  "lon": -51.1652618
 }

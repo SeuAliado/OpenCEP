@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Carlo II",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.3815112,
+  "lon": -51.4159928
 }

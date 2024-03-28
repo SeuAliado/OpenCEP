@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro Afonso",
   "uf": "TO",
-  "ibge": "1716505"
+  "ibge": "1716505",
+  "lat": -8.9707508,
+  "lon": -48.1733686
 }

@@ -5,5 +5,7 @@
   "bairro": "Status",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7803708,
+  "lon": -44.0793493
 }

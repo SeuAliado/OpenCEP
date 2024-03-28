@@ -5,5 +5,7 @@
   "bairro": "Triângulo Novo",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9941964,
+  "lon": -67.8093218
 }

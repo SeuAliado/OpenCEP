@@ -5,5 +5,7 @@
   "bairro": "Km 32",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.8492435,
+  "lon": -43.6122536
 }

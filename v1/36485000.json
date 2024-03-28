@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Pirapetinga",
   "localidade": "Piranga",
   "uf": "MG",
-  "ibge": "3150802"
+  "ibge": "3150802",
+  "lat": -20.6062098,
+  "lon": -43.3328112
 }

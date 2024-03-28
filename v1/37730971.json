@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campestre",
   "uf": "MG",
-  "ibge": "3111002"
+  "ibge": "3111002",
+  "lat": -21.238945,
+  "lon": -45.003113
 }

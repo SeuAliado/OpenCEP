@@ -5,5 +5,7 @@
   "bairro": "Realengo",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8910329,
+  "lon": -43.4188404
 }

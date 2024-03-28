@@ -5,5 +5,7 @@
   "bairro": "Cascavel",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -24.9699314,
+  "lon": -53.4639561
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio Verde",
   "localidade": "Parauapebas",
   "uf": "PA",
-  "ibge": "1505536"
+  "ibge": "1505536",
+  "lat": -6.0852161,
+  "lon": -49.8854327
 }

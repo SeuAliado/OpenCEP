@@ -5,5 +5,7 @@
   "bairro": "Varadouro",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "lat": -7.9582104,
+  "lon": -34.8542883
 }

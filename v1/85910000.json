@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7487608,
+  "lon": -53.7218522
 }

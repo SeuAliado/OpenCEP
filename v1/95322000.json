@@ -5,5 +5,7 @@
   "bairro": "Rio Branco",
   "localidade": "Nova Prata",
   "uf": "RS",
-  "ibge": "4313300"
+  "ibge": "4313300",
+  "lat": -28.7923499,
+  "lon": -51.6013814
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Veríssimo",
   "uf": "MG",
-  "ibge": "3171105"
+  "ibge": "3171105",
+  "lat": -19.6357006,
+  "lon": -48.3589086
 }

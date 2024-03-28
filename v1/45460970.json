@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Wenceslau Guimarães",
   "uf": "BA",
-  "ibge": "2933505"
+  "ibge": "2933505",
+  "lat": -13.6861198,
+  "lon": -39.478155
 }

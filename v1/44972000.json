@@ -5,5 +5,7 @@
   "bairro": "Lagoa Grande",
   "localidade": "Ibipeba",
   "uf": "BA",
-  "ibge": "2912400"
+  "ibge": "2912400",
+  "lat": -11.6133004,
+  "lon": -42.1050167
 }

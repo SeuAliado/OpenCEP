@@ -5,5 +5,7 @@
   "bairro": "Setor Colinas",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8733176,
+  "lon": -51.7069786
 }

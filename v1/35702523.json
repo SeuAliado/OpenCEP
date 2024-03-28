@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4160843,
+  "lon": -44.2233935
 }

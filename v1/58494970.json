@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Natuba",
   "uf": "PB",
-  "ibge": "2509909"
+  "ibge": "2509909",
+  "lat": -7.6414463,
+  "lon": -35.5522848
 }

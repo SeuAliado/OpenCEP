@@ -5,5 +5,7 @@
   "bairro": "Jardim Itamarati",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5605878,
+  "lon": -46.5237249
 }

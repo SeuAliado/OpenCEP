@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Patrocínio do Muriaé",
   "uf": "MG",
-  "ibge": "3148202"
+  "ibge": "3148202",
+  "lat": -21.1548788,
+  "lon": -42.2128924
 }

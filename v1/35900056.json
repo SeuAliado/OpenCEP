@@ -5,5 +5,7 @@
   "bairro": "Vila Nações Unidas",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6168446,
+  "lon": -43.2321189
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Continental",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.1974232,
+  "lon": -35.8919525
 }

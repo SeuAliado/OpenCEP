@@ -5,5 +5,7 @@
   "bairro": "Vila Zanardi",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4691447,
+  "lon": -46.5354984
 }

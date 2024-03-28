@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Atalaia do Norte",
   "uf": "AM",
-  "ibge": "1300201"
+  "ibge": "1300201",
+  "lat": -4.3634247,
+  "lon": -70.1930619
 }

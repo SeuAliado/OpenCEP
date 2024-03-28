@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5831069,
+  "lon": -46.4991709
 }

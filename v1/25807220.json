@@ -5,5 +5,7 @@
   "bairro": "Caixa D'Água",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -22.1062817,
+  "lon": -43.2082152
 }

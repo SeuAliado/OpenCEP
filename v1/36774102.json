@@ -5,5 +5,7 @@
   "bairro": "Haidee",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.3805488,
+  "lon": -42.69386
 }

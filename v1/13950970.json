@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lindóia",
   "uf": "SP",
-  "ibge": "3527009"
+  "ibge": "3527009",
+  "lat": -22.5216147,
+  "lon": -46.6471686
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6071249,
+  "lon": -46.7542292
 }

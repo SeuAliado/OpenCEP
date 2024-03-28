@@ -5,5 +5,7 @@
   "bairro": "Parque Pramorar",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -3.6682555,
+  "lon": -45.3944606
 }

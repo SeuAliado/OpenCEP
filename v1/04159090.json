@@ -5,5 +5,7 @@
   "bairro": "Vila das Mercês",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6222175,
+  "lon": -46.6061937
 }

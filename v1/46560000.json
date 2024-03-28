@@ -5,5 +5,7 @@
   "bairro": "Ibiajara",
   "localidade": "Rio do Pires",
   "uf": "BA",
-  "ibge": "2926905"
+  "ibge": "2926905",
+  "lat": -13.1221273,
+  "lon": -42.149788
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piedade de Ponte Nova",
   "uf": "MG",
-  "ibge": "3150208"
+  "ibge": "3150208",
+  "lat": -20.2345623,
+  "lon": -42.7173856
 }

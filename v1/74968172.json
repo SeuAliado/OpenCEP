@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipiranga - Continuação",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.819193,
+  "lon": -49.2742216
 }

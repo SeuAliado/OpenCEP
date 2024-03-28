@@ -5,5 +5,7 @@
   "bairro": "Jardim das Primaveras",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6158086,
+  "lon": -46.9260459
 }

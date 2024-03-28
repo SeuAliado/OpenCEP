@@ -5,5 +5,7 @@
   "bairro": "Vila São Pedro",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8816467,
+  "lon": -51.701965
 }

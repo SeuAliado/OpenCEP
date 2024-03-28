@@ -5,5 +5,7 @@
   "bairro": "Santana do Araçuaí",
   "localidade": "Ponto dos Volantes",
   "uf": "MG",
-  "ibge": "3152170"
+  "ibge": "3152170",
+  "lat": -16.7477822,
+  "lon": -41.5028618
 }

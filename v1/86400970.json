@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacarezinho",
   "uf": "PR",
-  "ibge": "4111803"
+  "ibge": "4111803",
+  "lat": -23.1613286,
+  "lon": -49.977044
 }

@@ -5,5 +5,7 @@
   "bairro": "Pituba",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9905239,
+  "lon": -38.4523855
 }

@@ -5,5 +5,7 @@
   "bairro": "Dom João Batista",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3354777,
+  "lon": -40.3193823
 }

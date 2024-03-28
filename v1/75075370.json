@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3046631,
+  "lon": -48.9369391
 }

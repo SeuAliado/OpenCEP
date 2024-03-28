@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Miracema do Tocantins",
   "uf": "TO",
-  "ibge": "1713205"
+  "ibge": "1713205",
+  "lat": -9.5659692,
+  "lon": -48.393409
 }

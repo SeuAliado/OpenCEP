@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maraial",
   "uf": "PE",
-  "ibge": "2609204"
+  "ibge": "2609204",
+  "lat": -8.7846895,
+  "lon": -35.8106998
 }

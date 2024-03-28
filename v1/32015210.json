@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9253248,
+  "lon": -44.0971709
 }

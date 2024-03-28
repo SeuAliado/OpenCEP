@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz do Xingu",
   "uf": "MT",
-  "ibge": "5107743"
+  "ibge": "5107743",
+  "lat": -10.1553158,
+  "lon": -52.3919119
 }

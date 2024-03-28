@@ -5,5 +5,7 @@
   "bairro": "Jardim Vera Cruz",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0868434,
+  "lon": -48.9127619
 }

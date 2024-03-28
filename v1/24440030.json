@@ -5,5 +5,7 @@
   "bairro": "Zé Garoto",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8729596,
+  "lon": -42.9803847
 }

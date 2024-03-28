@@ -5,5 +5,7 @@
   "bairro": "Parque Imperial",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6242712,
+  "lon": -46.6317313
 }

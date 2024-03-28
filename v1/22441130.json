@@ -5,5 +5,7 @@
   "bairro": "Leblon",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.987322,
+  "lon": -43.2281956
 }

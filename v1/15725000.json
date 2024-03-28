@@ -5,5 +5,7 @@
   "bairro": "Dalas",
   "localidade": "Palmeira D'Oeste",
   "uf": "SP",
-  "ibge": "3535200"
+  "ibge": "3535200",
+  "lat": -20.4105236,
+  "lon": -50.7681893
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Áurea",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5645169,
+  "lon": -46.4182473
 }

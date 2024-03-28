@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rosário do Sul",
   "uf": "RS",
-  "ibge": "4316402"
+  "ibge": "4316402",
+  "lat": -30.2585119,
+  "lon": -54.8984781
 }

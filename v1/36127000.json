@@ -5,5 +5,7 @@
   "bairro": "Três Ilhas",
   "localidade": "Belmiro Braga",
   "uf": "MG",
-  "ibge": "3106101"
+  "ibge": "3106101",
+  "lat": -22.0619461,
+  "lon": -43.4644196
 }

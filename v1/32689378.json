@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Jardim Piemont Norte",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9471075,
+  "lon": -44.099325
 }

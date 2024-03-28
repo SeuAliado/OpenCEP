@@ -5,5 +5,7 @@
   "bairro": "Parque da Felicidade II",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4431424,
+  "lon": -46.8039719
 }

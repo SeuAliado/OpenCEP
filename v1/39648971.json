@@ -5,5 +5,7 @@
   "bairro": "Cachoeira do Norte",
   "localidade": "Chapada do Norte",
   "uf": "MG",
-  "ibge": "3116100"
+  "ibge": "3116100",
+  "lat": -17.0535811,
+  "lon": -42.6510612
 }

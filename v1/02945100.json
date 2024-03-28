@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Pirituba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4830088,
+  "lon": -46.7263804
 }

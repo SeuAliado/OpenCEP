@@ -5,5 +5,7 @@
   "bairro": "Peixoto",
   "localidade": "Ressaquinha",
   "uf": "MG",
-  "ibge": "3154408"
+  "ibge": "3154408",
+  "lat": -21.0942664,
+  "lon": -43.7068993
 }

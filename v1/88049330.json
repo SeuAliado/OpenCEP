@@ -5,5 +5,7 @@
   "bairro": "Tapera da Base",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.6867741,
+  "lon": -48.5590567
 }

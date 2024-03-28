@@ -5,5 +5,7 @@
   "bairro": "Village da Praia",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6533817,
+  "lon": -40.4731404
 }

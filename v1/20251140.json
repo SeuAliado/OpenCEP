@@ -5,5 +5,7 @@
   "bairro": "Santa Teresa",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9317923,
+  "lon": -43.1981026
 }

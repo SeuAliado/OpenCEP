@@ -5,5 +5,7 @@
   "bairro": "Santa Cecilia",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

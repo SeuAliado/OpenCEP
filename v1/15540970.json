@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Álvares Florence",
   "uf": "SP",
-  "ibge": "3501202"
+  "ibge": "3501202",
+  "lat": -20.3189309,
+  "lon": -49.9096601
 }

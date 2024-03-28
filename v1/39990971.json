@@ -5,5 +5,7 @@
   "bairro": "Campo Novo",
   "localidade": "Águas Vermelhas",
   "uf": "MG",
-  "ibge": "3101003"
+  "ibge": "3101003",
+  "lat": -15.5499269,
+  "lon": -41.5412299
 }

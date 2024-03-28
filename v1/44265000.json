@@ -5,5 +5,7 @@
   "bairro": "Boa Espera",
   "localidade": "Santanópolis",
   "uf": "BA",
-  "ibge": "2928307"
+  "ibge": "2928307",
+  "lat": -11.9995255,
+  "lon": -38.865627
 }

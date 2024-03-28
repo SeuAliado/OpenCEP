@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -22.3461561,
+  "lon": -47.380596
 }

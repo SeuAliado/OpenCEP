@@ -5,5 +5,7 @@
   "bairro": "Glória",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.6269697,
+  "lon": -56.1537577
 }

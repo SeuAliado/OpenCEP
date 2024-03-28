@@ -5,5 +5,7 @@
   "bairro": "Residencial e Comercial Portal dos Eucaliptos",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8944935,
+  "lon": -45.3849873
 }

@@ -5,5 +5,7 @@
   "bairro": "Mauá",
   "localidade": "São Caetano do Sul",
   "uf": "SP",
-  "ibge": "3548807"
+  "ibge": "3548807",
+  "lat": -23.6467734,
+  "lon": -46.5704228
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouroeste",
   "uf": "SP",
-  "ibge": "3534757"
+  "ibge": "3534757",
+  "lat": -20.0010887,
+  "lon": -50.3741963
 }

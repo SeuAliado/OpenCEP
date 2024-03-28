@@ -5,5 +5,7 @@
   "bairro": "Industrial Santo Antônio",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7942013,
+  "lon": -49.2684612
 }

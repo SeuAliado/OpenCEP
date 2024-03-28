@@ -5,5 +5,7 @@
   "bairro": "Antares",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.5656128,
+  "lon": -35.7420107
 }

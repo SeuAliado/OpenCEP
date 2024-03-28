@@ -5,5 +5,7 @@
   "bairro": "Jardim Lavínia",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.477374,
+  "lon": -47.0072653
 }

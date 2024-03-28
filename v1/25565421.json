@@ -5,5 +5,7 @@
   "bairro": "Jardim José Bonifácio",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7911989,
+  "lon": -43.3631627
 }

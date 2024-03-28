@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alagoinha",
   "uf": "PE",
-  "ibge": "2600609"
+  "ibge": "2600609",
+  "lat": -8.4880247,
+  "lon": -36.7604027
 }

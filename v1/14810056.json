@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7937605,
+  "lon": -48.1594275
 }

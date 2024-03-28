@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João das Missões",
   "uf": "MG",
-  "ibge": "3162450"
+  "ibge": "3162450",
+  "lat": -14.8863043,
+  "lon": -44.0926042
 }

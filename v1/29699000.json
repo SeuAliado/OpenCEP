@@ -5,5 +5,7 @@
   "bairro": "Palmeira",
   "localidade": "Itaguaçu",
   "uf": "ES",
-  "ibge": "3202702"
+  "ibge": "3202702",
+  "lat": -19.6940135,
+  "lon": -40.8345937
 }

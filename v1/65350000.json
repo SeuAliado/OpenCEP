@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vitória do Mearim",
   "uf": "MA",
-  "ibge": "2112902"
+  "ibge": "2112902",
+  "lat": -3.4604085,
+  "lon": -44.8722032
 }

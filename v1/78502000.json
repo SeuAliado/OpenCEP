@@ -5,5 +5,7 @@
   "bairro": "Nonoai do Norte",
   "localidade": "Colíder",
   "uf": "MT",
-  "ibge": "5103205"
+  "ibge": "5103205",
+  "lat": -10.8083355,
+  "lon": -55.4443928
 }

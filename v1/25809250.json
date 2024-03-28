@@ -5,5 +5,7 @@
   "bairro": "Boa União",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -22.099851,
+  "lon": -43.216265
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Doutor Aniz Badra",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1695558,
+  "lon": -49.9543211
 }

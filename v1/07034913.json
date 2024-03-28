@@ -5,5 +5,7 @@
   "bairro": "Porto da Igreja",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4864402,
+  "lon": -46.5422735
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Morada do Sol",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7241745,
+  "lon": -47.9202764
 }

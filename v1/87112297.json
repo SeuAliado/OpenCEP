@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Elisa",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4560029,
+  "lon": -51.8726766
 }

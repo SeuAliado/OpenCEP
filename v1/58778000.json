@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aguiar",
   "uf": "PB",
-  "ibge": "2500205"
+  "ibge": "2500205",
+  "lat": -7.0915319,
+  "lon": -38.1716957
 }

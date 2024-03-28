@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9341238,
+  "lon": -44.085398
 }

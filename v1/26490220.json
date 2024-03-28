@@ -5,5 +5,7 @@
   "bairro": "Austin",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.7039613,
+  "lon": -43.5299027
 }

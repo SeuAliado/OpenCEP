@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joselândia",
   "uf": "MA",
-  "ibge": "2105609"
+  "ibge": "2105609",
+  "lat": -4.9806179,
+  "lon": -44.6930727
 }

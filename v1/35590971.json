@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa da Prata",
   "uf": "MG",
-  "ibge": "3137205"
+  "ibge": "3137205",
+  "lat": -20.023403,
+  "lon": -45.5438753
 }

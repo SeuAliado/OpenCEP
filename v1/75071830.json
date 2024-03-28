@@ -5,5 +5,7 @@
   "bairro": "Residencial Veneza",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2759255,
+  "lon": -48.960383
 }

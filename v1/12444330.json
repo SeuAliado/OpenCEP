@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Terra dos Ipês II (Fase I)",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8962742,
+  "lon": -45.3793477
 }

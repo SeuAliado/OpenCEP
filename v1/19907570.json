@@ -5,5 +5,7 @@
   "bairro": "Loteamento Royal Park",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9723036,
+  "lon": -49.8929929
 }

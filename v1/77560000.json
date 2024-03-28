@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejinho de Nazaré",
   "uf": "TO",
-  "ibge": "1703701"
+  "ibge": "1703701",
+  "lat": -11.0355349,
+  "lon": -48.6388879
 }

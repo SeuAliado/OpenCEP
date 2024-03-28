@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itatiaiuçu",
   "uf": "MG",
-  "ibge": "3133709"
+  "ibge": "3133709",
+  "lat": -20.1987385,
+  "lon": -44.4214989
 }

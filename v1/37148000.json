@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição da Aparecida",
   "uf": "MG",
-  "ibge": "3117108"
+  "ibge": "3117108",
+  "lat": -21.096699,
+  "lon": -46.2016174
 }

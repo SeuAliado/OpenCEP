@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.522096,
+  "lon": -48.5241233
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Praia Grande",
   "uf": "SC",
-  "ibge": "4213807"
+  "ibge": "4213807",
+  "lat": -29.1952209,
+  "lon": -49.9476345
 }

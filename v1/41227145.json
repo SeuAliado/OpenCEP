@@ -5,5 +5,7 @@
   "bairro": "Calabetão",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9326283,
+  "lon": -38.4681966
 }

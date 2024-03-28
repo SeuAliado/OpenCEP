@@ -5,5 +5,7 @@
   "bairro": "São Marcos",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4788286,
+  "lon": -49.5483523
 }

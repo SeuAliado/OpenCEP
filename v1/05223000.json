@@ -5,5 +5,7 @@
   "bairro": "Jardim Adelfiore",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4070657,
+  "lon": -46.735179
 }

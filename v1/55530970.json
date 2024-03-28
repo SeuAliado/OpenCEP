@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gameleira",
   "uf": "PE",
-  "ibge": "2605905"
+  "ibge": "2605905",
+  "lat": -8.5822453,
+  "lon": -35.3875786
 }

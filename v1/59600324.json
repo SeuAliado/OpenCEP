@@ -5,5 +5,7 @@
   "bairro": "Alto da Conceição",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.2020196,
+  "lon": -37.348083
 }

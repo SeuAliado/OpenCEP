@@ -5,5 +5,7 @@
   "bairro": "Chácara Japonesa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6378219,
+  "lon": -46.7124881
 }

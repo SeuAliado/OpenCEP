@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Palmeirópolis",
   "uf": "TO",
-  "ibge": "1715754"
+  "ibge": "1715754",
+  "lat": -13.044657,
+  "lon": -48.4062173
 }

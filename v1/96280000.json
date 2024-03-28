@@ -5,5 +5,7 @@
   "bairro": "Doutor Edgardo Pereira Velho",
   "localidade": "Mostardas",
   "uf": "RS",
-  "ibge": "4312500"
+  "ibge": "4312500",
+  "lat": -31.1044199,
+  "lon": -50.9156507
 }

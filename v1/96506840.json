@@ -5,5 +5,7 @@
   "bairro": "Barcelos",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0446416,
+  "lon": -52.8642609
 }

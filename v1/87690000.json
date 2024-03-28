@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jardim Olinda",
   "uf": "PR",
-  "ibge": "4112603"
+  "ibge": "4112603",
+  "lat": -22.5916175,
+  "lon": -52.0851258
 }

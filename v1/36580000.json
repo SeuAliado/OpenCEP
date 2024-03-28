@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teixeiras",
   "uf": "MG",
-  "ibge": "3168507"
+  "ibge": "3168507",
+  "lat": -20.6565706,
+  "lon": -42.8568007
 }

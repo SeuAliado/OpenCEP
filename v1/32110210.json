@@ -5,5 +5,7 @@
   "bairro": "Jardim Balneário",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8835017,
+  "lon": -44.021427
 }

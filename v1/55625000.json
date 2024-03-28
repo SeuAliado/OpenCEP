@@ -5,5 +5,7 @@
   "bairro": "Apoti",
   "localidade": "Glória do Goitá",
   "uf": "PE",
-  "ibge": "2606101"
+  "ibge": "2606101",
+  "lat": -8.0561088,
+  "lon": -35.387894
 }

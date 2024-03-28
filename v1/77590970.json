@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Ponte Alta do Tocantins",
   "uf": "TO",
-  "ibge": "1717909"
+  "ibge": "1717909",
+  "lat": -7.1913771,
+  "lon": -48.2234467
 }

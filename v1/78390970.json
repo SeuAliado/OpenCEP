@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Bugres",
   "uf": "MT",
-  "ibge": "5101704"
+  "ibge": "5101704",
+  "lat": -15.0671274,
+  "lon": -57.1799733
 }

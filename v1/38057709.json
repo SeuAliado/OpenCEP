@@ -5,5 +5,7 @@
   "bairro": "Jardim Canadá",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.74276,
+  "lon": -47.9692438
 }

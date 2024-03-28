@@ -5,5 +5,7 @@
   "bairro": "Jardim Luciana",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4985899,
+  "lon": -46.3564663
 }

@@ -5,5 +5,7 @@
   "bairro": "Montanhês",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9235374,
+  "lon": -67.8334043
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Prestes de Barros",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

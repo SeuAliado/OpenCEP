@@ -5,5 +5,7 @@
   "bairro": "Crisólia",
   "localidade": "Ouro Fino",
   "uf": "MG",
-  "ibge": "3146008"
+  "ibge": "3146008",
+  "lat": -22.247893,
+  "lon": -46.4094238
 }

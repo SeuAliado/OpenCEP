@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Porto Seguro",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0288636,
+  "lon": -46.8533459
 }

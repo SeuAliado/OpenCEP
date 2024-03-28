@@ -5,5 +5,7 @@
   "bairro": "Residencial Terras do Barão",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7774667,
+  "lon": -47.089925
 }

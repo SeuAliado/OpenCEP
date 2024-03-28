@@ -5,5 +5,7 @@
   "bairro": "Jardim Tamandaré",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.8240842,
+  "lon": -45.1956164
 }

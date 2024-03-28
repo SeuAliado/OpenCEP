@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itatuba",
   "uf": "PB",
-  "ibge": "2507200"
+  "ibge": "2507200",
+  "lat": -7.3767679,
+  "lon": -35.628843
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2945243,
+  "lon": -48.5711435
 }

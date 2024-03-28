@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ponte Alta do Bom Jesus",
   "uf": "TO",
-  "ibge": "1717800"
+  "ibge": "1717800",
+  "lat": -12.0568102,
+  "lon": -46.5547852
 }

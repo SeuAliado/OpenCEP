@@ -5,5 +5,7 @@
   "bairro": "Jardim das Orquídeas",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8048362,
+  "lon": -47.2701236
 }

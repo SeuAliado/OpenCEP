@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Prata",
   "uf": "PB",
-  "ibge": "2512200"
+  "ibge": "2512200",
+  "lat": -7.6925249,
+  "lon": -37.0814149
 }

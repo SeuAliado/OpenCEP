@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Três Arroios",
   "uf": "RS",
-  "ibge": "4321634"
+  "ibge": "4321634",
+  "lat": -27.5007623,
+  "lon": -52.1452601
 }

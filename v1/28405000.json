@@ -5,5 +5,7 @@
   "bairro": "Ipuca",
   "localidade": "São Fidélis",
   "uf": "RJ",
-  "ibge": "3304805"
+  "ibge": "3304805",
+  "lat": -21.6459454,
+  "lon": -41.7248749
 }

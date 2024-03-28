@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Farol",
   "uf": "PR",
-  "ibge": "4107553"
+  "ibge": "4107553",
+  "lat": -24.1211056,
+  "lon": -52.6386467
 }

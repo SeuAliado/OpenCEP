@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Mutum",
   "uf": "MG",
-  "ibge": "3144003"
+  "ibge": "3144003",
+  "lat": -19.7043812,
+  "lon": -41.467853
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caririaçu",
   "uf": "CE",
-  "ibge": "2303204"
+  "ibge": "2303204",
+  "lat": -7.0418117,
+  "lon": -39.2855389
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urucurituba",
   "uf": "AM",
-  "ibge": "1304401"
+  "ibge": "1304401",
+  "lat": -3.1301569,
+  "lon": -58.1582011
 }

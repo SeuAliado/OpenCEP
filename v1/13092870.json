@@ -5,5 +5,7 @@
   "bairro": "Chácara Bela Vista",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8927106,
+  "lon": -46.9963465
 }

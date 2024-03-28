@@ -5,5 +5,7 @@
   "bairro": "Jardim São Crispim",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2696221,
+  "lon": -48.5511842
 }

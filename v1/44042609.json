@@ -5,5 +5,7 @@
   "bairro": "Campo do Gado Novo",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.2169668,
+  "lon": -39.0019986
 }

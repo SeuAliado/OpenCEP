@@ -5,5 +5,7 @@
   "bairro": "Ivaitinga",
   "localidade": "Nova Esperança",
   "uf": "PR",
-  "ibge": "4116901"
+  "ibge": "4116901",
+  "lat": -23.2222366,
+  "lon": -52.3441919
 }

@@ -5,5 +5,7 @@
   "bairro": "17 de Março",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "lat": -11.002263,
+  "lon": -37.103505
 }

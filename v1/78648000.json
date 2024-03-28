@@ -5,5 +5,7 @@
   "bairro": "Santaninha",
   "localidade": "Vila Rica",
   "uf": "MT",
-  "ibge": "5108600"
+  "ibge": "5108600",
+  "lat": -23.4696016,
+  "lon": -46.6730027
 }

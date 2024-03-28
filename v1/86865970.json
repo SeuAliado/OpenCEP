@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lidianópolis",
   "uf": "PR",
-  "ibge": "4113429"
+  "ibge": "4113429",
+  "lat": -24.1093117,
+  "lon": -51.6559389
 }

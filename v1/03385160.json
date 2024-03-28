@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Antônio (Aricanduva)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5802371,
+  "lon": -46.5239318
 }

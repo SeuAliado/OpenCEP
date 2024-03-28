@@ -5,5 +5,7 @@
   "bairro": "Canabrava",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9225438,
+  "lon": -38.4230291
 }

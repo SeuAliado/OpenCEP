@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0843183,
+  "lon": -47.9875174
 }

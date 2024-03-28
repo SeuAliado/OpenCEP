@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chã de Alegria",
   "uf": "PE",
-  "ibge": "2604403"
+  "ibge": "2604403",
+  "lat": -8.0072104,
+  "lon": -35.2043192
 }

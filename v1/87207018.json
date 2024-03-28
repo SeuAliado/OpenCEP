@@ -5,5 +5,7 @@
   "bairro": "Zona de Armazém",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "lat": -23.6661893,
+  "lon": -52.6155816
 }

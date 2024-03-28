@@ -5,5 +5,7 @@
   "bairro": "Portal do Paraíso I",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1499385,
+  "lon": -46.9161648
 }

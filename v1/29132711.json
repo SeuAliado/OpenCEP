@@ -5,5 +5,7 @@
   "bairro": "Ribeira",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.378642,
+  "lon": -40.4559584
 }

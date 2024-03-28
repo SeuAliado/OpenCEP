@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.6980874,
+  "lon": -47.2906118
 }

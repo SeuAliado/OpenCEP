@@ -5,5 +5,7 @@
   "bairro": "José Cirilo",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.1354697,
+  "lon": -42.399124
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Francisco Dumont",
   "uf": "MG",
-  "ibge": "3126604"
+  "ibge": "3126604",
+  "lat": -17.4096104,
+  "lon": -44.3236557
 }

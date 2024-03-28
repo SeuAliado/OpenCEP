@@ -5,5 +5,7 @@
   "bairro": "Schulz",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7250415,
+  "lon": -52.4405922
 }

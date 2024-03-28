@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Mateus do Maranhão",
   "uf": "MA",
-  "ibge": "2111508"
+  "ibge": "2111508",
+  "lat": -4.0380094,
+  "lon": -44.4678375
 }

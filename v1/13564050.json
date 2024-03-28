@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Paula",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9998999,
+  "lon": -47.9030982
 }

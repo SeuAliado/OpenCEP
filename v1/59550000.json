@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "João Câmara",
   "uf": "RN",
-  "ibge": "2405801"
+  "ibge": "2405801",
+  "lat": -5.5347926,
+  "lon": -35.8150578
 }

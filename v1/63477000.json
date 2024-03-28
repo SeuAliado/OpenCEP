@@ -5,5 +5,7 @@
   "bairro": "Feiticeiro",
   "localidade": "Jaguaribe",
   "uf": "CE",
-  "ibge": "2306900"
+  "ibge": "2306900",
+  "lat": -5.9503528,
+  "lon": -38.8262026
 }

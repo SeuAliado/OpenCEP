@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sapeaçu",
   "uf": "BA",
-  "ibge": "2929602"
+  "ibge": "2929602",
+  "lat": -12.7279559,
+  "lon": -39.1881939
 }

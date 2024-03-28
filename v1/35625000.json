@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quartel Geral",
   "uf": "MG",
-  "ibge": "3153707"
+  "ibge": "3153707",
+  "lat": -19.270633,
+  "lon": -45.5629394
 }

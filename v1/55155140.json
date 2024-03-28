@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -8.3315674,
+  "lon": -36.4243025
 }

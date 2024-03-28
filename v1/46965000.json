@@ -5,5 +5,7 @@
   "bairro": "Afrânio Peixoto",
   "localidade": "Lençóis",
   "uf": "BA",
-  "ibge": "2919306"
+  "ibge": "2919306",
+  "lat": -12.563819,
+  "lon": -41.3893163
 }

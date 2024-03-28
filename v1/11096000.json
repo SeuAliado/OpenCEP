@@ -5,5 +5,7 @@
   "bairro": "Vale do Quilombo",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.8574783,
+  "lon": -46.3673913
 }

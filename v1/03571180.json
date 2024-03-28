@@ -5,5 +5,7 @@
   "bairro": "Parque Savoy City",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5734642,
+  "lon": -46.4888383
 }

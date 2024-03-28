@@ -5,5 +5,7 @@
   "bairro": "União da Floresta",
   "localidade": "Medicilândia",
   "uf": "PA",
-  "ibge": "1504455"
+  "ibge": "1504455",
+  "lat": -3.5213153,
+  "lon": -53.1476036
 }

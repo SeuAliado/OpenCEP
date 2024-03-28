@@ -5,5 +5,7 @@
   "bairro": "Oliveira",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.75829,
+  "lon": -43.4956927
 }

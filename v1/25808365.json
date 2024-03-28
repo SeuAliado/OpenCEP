@@ -5,5 +5,7 @@
   "bairro": "Purys",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -22.0927436,
+  "lon": -43.2103604
 }

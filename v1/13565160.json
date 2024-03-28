@@ -5,5 +5,7 @@
   "bairro": "Jardim Jockey Clube",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9823936,
+  "lon": -47.8963028
 }

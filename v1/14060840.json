@@ -5,5 +5,7 @@
   "bairro": "Jardim Herculano Fernandes",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1271267,
+  "lon": -47.819878
 }

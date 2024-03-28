@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.5346346,
+  "lon": -49.0502442
 }

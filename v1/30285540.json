@@ -5,5 +5,7 @@
   "bairro": "Alto Vera Cruz",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9164175,
+  "lon": -43.8907008
 }

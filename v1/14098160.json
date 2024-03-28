@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.225316,
+  "lon": -47.7673603
 }

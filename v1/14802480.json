@@ -5,5 +5,7 @@
   "bairro": "Vila Harmonia",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7647873,
+  "lon": -48.1753786
 }

@@ -5,5 +5,7 @@
   "bairro": "Praia da Costa",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3257654,
+  "lon": -40.268839
 }

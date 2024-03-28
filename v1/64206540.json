@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9027623,
+  "lon": -41.7667688
 }

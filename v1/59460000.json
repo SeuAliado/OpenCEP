@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Paulo do Potengi",
   "uf": "RN",
-  "ibge": "2412609"
+  "ibge": "2412609",
+  "lat": -5.8924864,
+  "lon": -35.7660228
 }

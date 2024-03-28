@@ -5,5 +5,7 @@
   "bairro": "Parque do Otero",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.664524,
+  "lon": -46.7465102
 }

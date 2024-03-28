@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Branca",
   "uf": "PB",
-  "ibge": "2515500"
+  "ibge": "2515500",
+  "lat": -7.4807541,
+  "lon": -36.666333
 }

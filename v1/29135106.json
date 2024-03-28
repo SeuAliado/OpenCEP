@@ -5,5 +5,7 @@
   "bairro": "Canaã",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.357279,
+  "lon": -40.4341474
 }

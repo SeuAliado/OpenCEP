@@ -5,5 +5,7 @@
   "bairro": "Parque Ayrton Senna",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8977596,
+  "lon": -44.0331534
 }

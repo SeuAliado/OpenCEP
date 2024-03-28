@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8890059,
+  "lon": -51.7142532
 }

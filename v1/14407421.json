@@ -5,5 +5,7 @@
   "bairro": "Jardim Vera Cruz III",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.4935787,
+  "lon": -47.409354
 }

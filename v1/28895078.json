@@ -5,5 +5,7 @@
   "bairro": "Costazul",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5291516,
+  "lon": -41.9290762
 }

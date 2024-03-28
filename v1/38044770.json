@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial III",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7571757,
+  "lon": -47.9555458
 }

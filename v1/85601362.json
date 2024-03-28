@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.100785,
+  "lon": -53.0496484
 }

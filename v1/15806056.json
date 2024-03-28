@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -23.5416981,
+  "lon": -46.8828821
 }

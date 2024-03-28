@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião do Alto",
   "uf": "RJ",
-  "ibge": "3305307"
+  "ibge": "3305307",
+  "lat": -21.9540434,
+  "lon": -42.1313315
 }

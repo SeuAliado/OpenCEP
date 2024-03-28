@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista - Continuação",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7361684,
+  "lon": -49.2331433
 }

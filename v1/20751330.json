@@ -5,5 +5,7 @@
   "bairro": "Pilares",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8781227,
+  "lon": -43.3013261
 }

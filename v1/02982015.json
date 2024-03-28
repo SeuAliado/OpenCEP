@@ -5,5 +5,7 @@
   "bairro": "Jardim Sydney",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4528222,
+  "lon": -46.7166966
 }

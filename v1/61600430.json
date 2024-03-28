@@ -5,5 +5,7 @@
   "bairro": "Grilo",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.727426,
+  "lon": -38.6691941
 }

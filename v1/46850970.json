@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Vista do Tupim",
   "uf": "BA",
-  "ibge": "2903805"
+  "ibge": "2903805",
+  "lat": -12.7854297,
+  "lon": -40.5533995
 }

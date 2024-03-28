@@ -5,5 +5,7 @@
   "bairro": "São Miguel Arcanjo (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.8040378,
+  "lon": -44.0143087
 }

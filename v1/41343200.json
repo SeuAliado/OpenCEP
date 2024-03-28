@@ -5,5 +5,7 @@
   "bairro": "Boca da Mata",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8994696,
+  "lon": -38.3895392
 }

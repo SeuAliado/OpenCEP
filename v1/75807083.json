@@ -5,5 +5,7 @@
   "bairro": "Vila Campo Neutro",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8778059,
+  "lon": -51.7086305
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piranhas",
   "uf": "AL",
-  "ibge": "2707107"
+  "ibge": "2707107",
+  "lat": -9.5436059,
+  "lon": -37.745028
 }

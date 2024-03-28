@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "lat": -5.9314186,
+  "lon": -35.2770976
 }

@@ -5,5 +5,7 @@
   "bairro": "Praia Linda",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "lat": -22.8370458,
+  "lon": -42.1710785
 }

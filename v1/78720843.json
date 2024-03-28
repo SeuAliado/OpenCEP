@@ -5,5 +5,7 @@
   "bairro": "Vila Padre Rodolfo Lunkenbein",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4443858,
+  "lon": -54.6374765
 }

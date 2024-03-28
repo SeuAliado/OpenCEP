@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibema",
   "uf": "PR",
-  "ibge": "4109757"
+  "ibge": "4109757",
+  "lat": -25.1195913,
+  "lon": -53.0238669
 }

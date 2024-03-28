@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipaporanga",
   "uf": "CE",
-  "ibge": "2305654"
+  "ibge": "2305654",
+  "lat": -4.8998213,
+  "lon": -40.7585476
 }

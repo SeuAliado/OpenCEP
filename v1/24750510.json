@@ -5,5 +5,7 @@
   "bairro": "Tribobó",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.864599,
+  "lon": -43.0352868
 }

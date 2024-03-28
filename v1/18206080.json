@@ -5,5 +5,7 @@
   "bairro": "Estância Conceição",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.6225424,
+  "lon": -48.0495073
 }

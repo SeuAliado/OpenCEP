@@ -5,5 +5,7 @@
   "bairro": "Jardim São Sebastião",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6983237,
+  "lon": -45.4431451
 }

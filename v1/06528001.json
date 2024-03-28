@@ -5,5 +5,7 @@
   "bairro": "Chácaras Santa Cruz",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.4064805,
+  "lon": -46.862561
 }

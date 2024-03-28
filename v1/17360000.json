@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Torrinha",
   "uf": "SP",
-  "ibge": "3554706"
+  "ibge": "3554706",
+  "lat": -22.4242036,
+  "lon": -48.1735956
 }

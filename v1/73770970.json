@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Paraíso de Goiás",
   "uf": "GO",
-  "ibge": "5200605"
+  "ibge": "5200605",
+  "lat": -14.1358068,
+  "lon": -47.51598
 }

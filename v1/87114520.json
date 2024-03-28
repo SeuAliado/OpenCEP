@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Bom Pastor",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4337582,
+  "lon": -51.8615711
 }

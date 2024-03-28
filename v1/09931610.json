@@ -5,5 +5,7 @@
   "bairro": "Campanário",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.6766576,
+  "lon": -46.6184167
 }

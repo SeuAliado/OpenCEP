@@ -5,5 +5,7 @@
   "bairro": "Jardim Piratininga",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1902714,
+  "lon": -47.8366563
 }

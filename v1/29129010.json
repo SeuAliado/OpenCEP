@@ -5,5 +5,7 @@
   "bairro": "Ponta da Fruta",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.4955018,
+  "lon": -40.3546414
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial e Comercial Cidade Jardim",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.960295,
+  "lon": -45.4902059
 }

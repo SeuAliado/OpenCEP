@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mata Roma",
   "uf": "MA",
-  "ibge": "2106409"
+  "ibge": "2106409",
+  "lat": -3.6224458,
+  "lon": -43.1113435
 }

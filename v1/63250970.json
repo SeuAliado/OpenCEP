@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Milagres",
   "uf": "CE",
-  "ibge": "2308302"
+  "ibge": "2308302",
+  "lat": -7.3135554,
+  "lon": -38.9435772
 }

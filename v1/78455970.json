@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lucas do Rio Verde",
   "uf": "MT",
-  "ibge": "5105259"
+  "ibge": "5105259",
+  "lat": -13.0626375,
+  "lon": -55.9186091
 }

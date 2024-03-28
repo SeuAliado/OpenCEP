@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juara",
   "uf": "MT",
-  "ibge": "5105101"
+  "ibge": "5105101",
+  "lat": -11.2535221,
+  "lon": -57.5082303
 }

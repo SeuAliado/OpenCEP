@@ -5,5 +5,7 @@
   "bairro": "Arruda",
   "localidade": "Rosário Oeste",
   "uf": "MT",
-  "ibge": "5107701"
+  "ibge": "5107701",
+  "lat": -14.8351995,
+  "lon": -56.4269239
 }

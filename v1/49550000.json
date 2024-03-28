@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carira",
   "uf": "SE",
-  "ibge": "2801405"
+  "ibge": "2801405",
+  "lat": -10.3833506,
+  "lon": -37.681228
 }

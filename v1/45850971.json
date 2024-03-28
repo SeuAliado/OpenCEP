@@ -5,5 +5,7 @@
   "bairro": "União Baiana",
   "localidade": "Itagimirim",
   "uf": "BA",
-  "ibge": "2915304"
+  "ibge": "2915304",
+  "lat": -16.2327988,
+  "lon": -39.8918385
 }

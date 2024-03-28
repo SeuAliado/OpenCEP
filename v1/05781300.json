@@ -5,5 +5,7 @@
   "bairro": "Jardim Heloisa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6523455,
+  "lon": -46.760653
 }

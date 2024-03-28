@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Potengi",
   "uf": "CE",
-  "ibge": "2311207"
+  "ibge": "2311207",
+  "lat": -7.0903448,
+  "lon": -40.0253807
 }

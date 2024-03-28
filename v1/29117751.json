@@ -5,5 +5,7 @@
   "bairro": "Cobi de Cima",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3350524,
+  "lon": -40.352682
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "lat": -21.6771569,
+  "lon": -49.7606808
 }

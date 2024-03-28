@@ -5,5 +5,7 @@
   "bairro": "Miranda",
   "localidade": "Capela",
   "uf": "SE",
-  "ibge": "2801306"
+  "ibge": "2801306",
+  "lat": -19.9710064,
+  "lon": -41.0592995
 }

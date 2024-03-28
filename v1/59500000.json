@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Macau",
   "uf": "RN",
-  "ibge": "2407203"
+  "ibge": "2407203",
+  "lat": -5.1942574,
+  "lon": -36.4797126
 }

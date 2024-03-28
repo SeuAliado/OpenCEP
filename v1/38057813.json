@@ -5,5 +5,7 @@
   "bairro": "Villaggio Di Fiori",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7487006,
+  "lon": -47.9717439
 }

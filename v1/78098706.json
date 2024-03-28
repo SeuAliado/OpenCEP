@@ -5,5 +5,7 @@
   "bairro": "Jardim Industriário",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6481745,
+  "lon": -55.97706
 }

@@ -5,5 +5,7 @@
   "bairro": "Abner Afonso",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5734817,
+  "lon": -46.5086377
 }

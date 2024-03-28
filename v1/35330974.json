@@ -5,5 +5,7 @@
   "bairro": "Macadame",
   "localidade": "Inhapim",
   "uf": "MG",
-  "ibge": "3130903"
+  "ibge": "3130903",
+  "lat": -19.4703009,
+  "lon": -42.0358032
 }

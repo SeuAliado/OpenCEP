@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Roma",
   "uf": "GO",
-  "ibge": "5214903"
+  "ibge": "5214903",
+  "lat": -13.7392217,
+  "lon": -46.8737926
 }

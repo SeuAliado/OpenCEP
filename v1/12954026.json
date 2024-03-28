@@ -5,5 +5,7 @@
   "bairro": "Condomínio Parque das Garças II",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1170687,
+  "lon": -46.5821363
 }

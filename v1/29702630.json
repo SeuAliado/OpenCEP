@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5417246,
+  "lon": -40.6545723
 }

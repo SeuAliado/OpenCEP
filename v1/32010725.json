@@ -5,5 +5,7 @@
   "bairro": "Bernardo Monteiro",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9331574,
+  "lon": -44.0896644
 }

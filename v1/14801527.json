@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Manacás",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7863675,
+  "lon": -48.1968081
 }

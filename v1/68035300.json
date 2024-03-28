@@ -5,5 +5,7 @@
   "bairro": "Santarenzinho",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4541565,
+  "lon": -54.7382419
 }

@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9569645,
+  "lon": -48.2238698
 }

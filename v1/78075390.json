@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Pássaros",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6296113,
+  "lon": -56.0259418
 }

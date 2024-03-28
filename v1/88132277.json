@@ -5,5 +5,7 @@
   "bairro": "Pagani",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.6394715,
+  "lon": -48.680911
 }

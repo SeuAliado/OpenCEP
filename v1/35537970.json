@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passa Tempo",
   "uf": "MG",
-  "ibge": "3147709"
+  "ibge": "3147709",
+  "lat": -20.650937,
+  "lon": -44.4969014
 }

@@ -5,5 +5,7 @@
   "bairro": "Bendegó",
   "localidade": "Canudos",
   "uf": "BA",
-  "ibge": "2906824"
+  "ibge": "2906824",
+  "lat": -9.9595711,
+  "lon": -39.1847653
 }

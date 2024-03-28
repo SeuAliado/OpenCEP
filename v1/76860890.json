@@ -5,5 +5,7 @@
   "bairro": "Triunfo",
   "localidade": "Candeias do Jamari",
   "uf": "RO",
-  "ibge": "1100809"
+  "ibge": "1100809",
+  "lat": -9.2834023,
+  "lon": -63.4610498
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iraquara",
   "uf": "BA",
-  "ibge": "2914406"
+  "ibge": "2914406",
+  "lat": -12.2416439,
+  "lon": -41.6178029
 }

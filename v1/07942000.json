@@ -5,5 +5,7 @@
   "bairro": "Parque Belém",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2720489,
+  "lon": -46.7446464
 }

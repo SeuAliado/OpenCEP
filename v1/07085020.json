@@ -5,5 +5,7 @@
   "bairro": "Parque Continental II",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4243089,
+  "lon": -46.5508522
 }

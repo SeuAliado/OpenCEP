@@ -5,5 +5,7 @@
   "bairro": "Jardim São Matheus",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5416247,
+  "lon": -47.4075122
 }

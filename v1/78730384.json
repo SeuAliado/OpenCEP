@@ -5,5 +5,7 @@
   "bairro": "Jardim Iguassu II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4501135,
+  "lon": -54.6076372
 }

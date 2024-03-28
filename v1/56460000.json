@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Petrolândia",
   "uf": "PE",
-  "ibge": "2611002"
+  "ibge": "2611002",
+  "lat": -8.96186,
+  "lon": -38.2215796
 }

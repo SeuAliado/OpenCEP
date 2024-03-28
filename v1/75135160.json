@@ -5,5 +5,7 @@
   "bairro": "Parque Calixtópolis",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.4000349,
+  "lon": -48.9801799
 }

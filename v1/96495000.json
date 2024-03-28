@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Candiota",
   "uf": "RS",
-  "ibge": "4304358"
+  "ibge": "4304358",
+  "lat": -31.5036813,
+  "lon": -53.6935405
 }

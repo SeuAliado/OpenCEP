@@ -5,5 +5,7 @@
   "bairro": "Vila Sofia",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.918975,
+  "lon": -51.731684
 }

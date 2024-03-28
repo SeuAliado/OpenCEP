@@ -5,5 +5,7 @@
   "bairro": "Jardim Renata",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6970562,
+  "lon": -46.5070389
 }

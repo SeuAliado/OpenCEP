@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Inhacorá",
   "uf": "RS",
-  "ibge": "4318499"
+  "ibge": "4318499",
+  "lat": -27.7227075,
+  "lon": -54.1372981
 }

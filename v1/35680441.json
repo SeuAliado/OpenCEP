@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0902633,
+  "lon": -44.5929086
 }

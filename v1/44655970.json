@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pé de Serra",
   "uf": "BA",
-  "ibge": "2924058"
+  "ibge": "2924058",
+  "lat": -11.8341519,
+  "lon": -39.6132299
 }

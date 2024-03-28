@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cruz (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4603956,
+  "lon": -46.6688409
 }

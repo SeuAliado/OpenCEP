@@ -5,5 +5,7 @@
   "bairro": "Panorama (Polvilho)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.416021,
+  "lon": -46.848737
 }

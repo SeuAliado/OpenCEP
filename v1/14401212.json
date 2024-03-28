@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5227245,
+  "lon": -47.3812262
 }

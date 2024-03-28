@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ortigueira",
   "uf": "PR",
-  "ibge": "4117305"
+  "ibge": "4117305",
+  "lat": -25.4137636,
+  "lon": -49.1753516
 }

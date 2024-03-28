@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Padre Carvalho",
   "uf": "MG",
-  "ibge": "3146255"
+  "ibge": "3146255",
+  "lat": -16.3651081,
+  "lon": -42.5091517
 }

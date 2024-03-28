@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Turvo",
   "uf": "PR",
-  "ibge": "4127965"
+  "ibge": "4127965",
+  "lat": -25.0430487,
+  "lon": -51.5393735
 }

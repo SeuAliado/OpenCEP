@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Martinho",
   "uf": "SC",
-  "ibge": "4217105"
+  "ibge": "4217105",
+  "lat": -28.1613858,
+  "lon": -48.9872085
 }

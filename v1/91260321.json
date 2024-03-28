@@ -5,5 +5,7 @@
   "bairro": "Mário Quintana",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0087147,
+  "lon": -51.112847
 }

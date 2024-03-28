@@ -5,5 +5,7 @@
   "bairro": "Residencial Bosque de Versalles",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3832802,
+  "lon": -47.3833498
 }

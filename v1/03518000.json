@@ -5,5 +5,7 @@
   "bairro": "Vila Euthalia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5449544,
+  "lon": -46.5249922
 }

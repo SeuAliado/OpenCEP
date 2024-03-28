@@ -5,5 +5,7 @@
   "bairro": "Porto de Cariacica",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2709769,
+  "lon": -40.3924578
 }

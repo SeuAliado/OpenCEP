@@ -5,5 +5,7 @@
   "bairro": "Tapúia",
   "localidade": "Camamu",
   "uf": "BA",
-  "ibge": "2905800"
+  "ibge": "2905800",
+  "lat": -14.0741577,
+  "lon": -39.0807593
 }

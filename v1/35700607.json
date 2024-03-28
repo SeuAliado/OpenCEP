@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Carmo",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4434195,
+  "lon": -44.254316
 }

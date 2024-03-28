@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Groairas",
   "uf": "CE",
-  "ibge": "2304905"
+  "ibge": "2304905",
+  "lat": -3.9069704,
+  "lon": -40.3700923
 }

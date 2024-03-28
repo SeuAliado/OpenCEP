@@ -5,5 +5,7 @@
   "bairro": "Passo das Pedras",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9520018,
+  "lon": -51.0018214
 }

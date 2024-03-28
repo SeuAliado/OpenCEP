@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.027464,
+  "lon": -37.2785175
 }

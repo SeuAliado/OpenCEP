@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5520485,
+  "lon": -44.109718
 }

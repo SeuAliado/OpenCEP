@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "lat": -4.999023,
+  "lon": -39.0067379
 }

@@ -5,5 +5,7 @@
   "bairro": "Marquês de Maricá",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9073554,
+  "lon": -42.7938264
 }

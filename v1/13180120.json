@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Aurora (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8331416,
+  "lon": -47.1622938
 }

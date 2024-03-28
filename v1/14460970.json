@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristais Paulista",
   "uf": "SP",
-  "ibge": "3513207"
+  "ibge": "3513207",
+  "lat": -20.4052478,
+  "lon": -47.418544
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tapejara",
   "uf": "RS",
-  "ibge": "4320909"
+  "ibge": "4320909",
+  "lat": -28.0648729,
+  "lon": -52.0061737
 }

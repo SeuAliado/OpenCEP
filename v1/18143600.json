@@ -5,5 +5,7 @@
   "bairro": "Jardim Caparelli (Mailasqui)",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.561007,
+  "lon": -47.0886888
 }

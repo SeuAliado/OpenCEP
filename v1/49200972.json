@@ -5,5 +5,7 @@
   "bairro": "Alagoas",
   "localidade": "Estância",
   "uf": "SE",
-  "ibge": "2802106"
+  "ibge": "2802106",
+  "lat": -11.2551262,
+  "lon": -37.4387653
 }

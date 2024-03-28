@@ -5,5 +5,7 @@
   "bairro": "Jardim Normandia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4479905,
+  "lon": -46.4018163
 }

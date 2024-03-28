@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1596062,
+  "lon": -47.930841
 }

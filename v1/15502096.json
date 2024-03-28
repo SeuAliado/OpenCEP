@@ -5,5 +5,7 @@
   "bairro": "Loteamento Bandeirantes",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4219235,
+  "lon": -49.9817333
 }

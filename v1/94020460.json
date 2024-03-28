@@ -5,5 +5,7 @@
   "bairro": "Castelo Branco",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9288314,
+  "lon": -51.0086848
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bandeirantes",
   "uf": "MS",
-  "ibge": "5001508"
+  "ibge": "5001508",
+  "lat": -19.9279445,
+  "lon": -54.3589527
 }

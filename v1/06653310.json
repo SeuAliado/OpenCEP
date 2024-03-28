@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Clara",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.54471,
+  "lon": -46.9297494
 }

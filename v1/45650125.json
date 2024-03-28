@@ -5,5 +5,7 @@
   "bairro": "Conquista",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7964994,
+  "lon": -39.0383047
 }

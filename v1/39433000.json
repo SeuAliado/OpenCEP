@@ -5,5 +5,7 @@
   "bairro": "Olímpio Campos",
   "localidade": "São João da Ponte",
   "uf": "MG",
-  "ibge": "3162401"
+  "ibge": "3162401",
+  "lat": -15.9262929,
+  "lon": -44.0093693
 }

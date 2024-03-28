@@ -5,5 +5,7 @@
   "bairro": "Estância Vila Verde",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9212911,
+  "lon": -48.5135089
 }

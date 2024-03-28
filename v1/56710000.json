@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "São José do Egito",
   "uf": "PE",
-  "ibge": "2613602"
+  "ibge": "2613602",
+  "lat": -7.4777234,
+  "lon": -37.2758633
 }

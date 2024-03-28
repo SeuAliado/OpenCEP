@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Careiro",
   "uf": "AM",
-  "ibge": "1301100"
+  "ibge": "1301100",
+  "lat": -3.8194444,
+  "lon": -60.3612225
 }

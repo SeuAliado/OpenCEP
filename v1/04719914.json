@@ -5,5 +5,7 @@
   "bairro": "Chácara Santo Antônio (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6323012,
+  "lon": -46.7075601
 }

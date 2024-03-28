@@ -5,5 +5,7 @@
   "bairro": "Lajeado Grande",
   "localidade": "São Francisco de Paula",
   "uf": "RS",
-  "ibge": "4318200"
+  "ibge": "4318200",
+  "lat": -29.0954099,
+  "lon": -50.6268319
 }

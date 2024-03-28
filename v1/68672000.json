@@ -5,5 +5,7 @@
   "bairro": "Guajará-Açú",
   "localidade": "Bujaru",
   "uf": "PA",
-  "ibge": "1501907"
+  "ibge": "1501907",
+  "lat": -1.7103468,
+  "lon": -48.1377193
 }

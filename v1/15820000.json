@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pirangi",
   "uf": "SP",
-  "ibge": "3539004"
+  "ibge": "3539004",
+  "lat": -21.0897494,
+  "lon": -48.660702
 }

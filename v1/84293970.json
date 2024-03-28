@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sapopema",
   "uf": "PR",
-  "ibge": "4126207"
+  "ibge": "4126207",
+  "lat": -23.9135989,
+  "lon": -50.4502901
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Luciana",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4299466,
+  "lon": -46.9589085
 }

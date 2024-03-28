@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "lat": -10.8866173,
+  "lon": -61.9194913
 }

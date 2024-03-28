@@ -5,5 +5,7 @@
   "bairro": "Baixa do Palmeira",
   "localidade": "Sapeaçu",
   "uf": "BA",
-  "ibge": "2929602"
+  "ibge": "2929602",
+  "lat": -12.72121,
+  "lon": -39.1827838
 }

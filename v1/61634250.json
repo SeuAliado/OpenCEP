@@ -5,5 +5,7 @@
   "bairro": "Tabapuá Brasília",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.7605466,
+  "lon": -38.6508922
 }

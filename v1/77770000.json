@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goiatins",
   "uf": "TO",
-  "ibge": "1709005"
+  "ibge": "1709005",
+  "lat": -7.7151826,
+  "lon": -47.3256078
 }

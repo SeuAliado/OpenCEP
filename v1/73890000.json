@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Flores de Goiás",
   "uf": "GO",
-  "ibge": "5207907"
+  "ibge": "5207907",
+  "lat": -14.4573659,
+  "lon": -47.0388238
 }

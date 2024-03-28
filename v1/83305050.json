@@ -5,5 +5,7 @@
   "bairro": "Vila Franca",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4383026,
+  "lon": -49.0497925
 }

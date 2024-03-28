@@ -5,5 +5,7 @@
   "bairro": "Parque Tietê",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4608639,
+  "lon": -46.67765
 }

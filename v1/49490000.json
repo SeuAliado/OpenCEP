@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Poço Verde",
   "uf": "SE",
-  "ibge": "2805505"
+  "ibge": "2805505",
+  "lat": -10.8323027,
+  "lon": -38.1899782
 }

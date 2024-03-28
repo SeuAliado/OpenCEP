@@ -5,5 +5,7 @@
   "bairro": "Carvoeira",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.5980169,
+  "lon": -48.5252481
 }

@@ -5,5 +5,7 @@
   "bairro": "Engordadouro",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1542606,
+  "lon": -46.9130549
 }

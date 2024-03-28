@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8379619,
+  "lon": -44.154677
 }

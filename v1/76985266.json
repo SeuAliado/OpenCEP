@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7296556,
+  "lon": -60.1145767
 }

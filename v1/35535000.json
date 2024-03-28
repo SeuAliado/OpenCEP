@@ -5,5 +5,7 @@
   "bairro": "Bom Jardim das Pedras",
   "localidade": "Carmópolis de Minas",
   "uf": "MG",
-  "ibge": "3114501"
+  "ibge": "3114501",
+  "lat": -20.5602311,
+  "lon": -44.6436922
 }

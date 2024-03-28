@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0550757,
+  "lon": -34.8822585
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piripá",
   "uf": "BA",
-  "ibge": "2924702"
+  "ibge": "2924702",
+  "lat": -14.9441567,
+  "lon": -41.7138991
 }

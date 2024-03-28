@@ -5,5 +5,7 @@
   "bairro": "Parque Independência",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.6844512,
+  "lon": -43.3583499
 }

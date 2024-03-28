@@ -5,5 +5,7 @@
   "bairro": "Vila Europa",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.5782641,
+  "lon": -47.1782705
 }

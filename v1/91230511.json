@@ -5,5 +5,7 @@
   "bairro": "Passo das Pedras",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0220108,
+  "lon": -51.1238142
 }

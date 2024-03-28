@@ -5,5 +5,7 @@
   "bairro": "Somel",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8952813,
+  "lon": -43.8442641
 }

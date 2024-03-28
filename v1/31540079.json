@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Mônica (Venda Nova)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8003222,
+  "lon": -44.0111924
 }

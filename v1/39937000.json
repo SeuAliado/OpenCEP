@@ -5,5 +5,7 @@
   "bairro": "Catajás",
   "localidade": "Santo Antônio do Jacinto",
   "uf": "MG",
-  "ibge": "3160306"
+  "ibge": "3160306",
+  "lat": -16.5336753,
+  "lon": -40.1821139
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila do Castelo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6753839,
+  "lon": -46.6727645
 }

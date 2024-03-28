@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira do Piriá",
   "uf": "PA",
-  "ibge": "1501956"
+  "ibge": "1501956",
+  "lat": -1.9560586,
+  "lon": -46.4393054
 }

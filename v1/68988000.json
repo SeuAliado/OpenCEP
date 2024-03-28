@@ -5,5 +5,7 @@
   "bairro": "Vila Velha",
   "localidade": "Oiapoque",
   "uf": "AP",
-  "ibge": "1600501"
+  "ibge": "1600501",
+  "lat": 3.2277226,
+  "lon": -51.2307534
 }

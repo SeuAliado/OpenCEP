@@ -5,5 +5,7 @@
   "bairro": "Taguá",
   "localidade": "Cotegipe",
   "uf": "BA",
-  "ibge": "2909406"
+  "ibge": "2909406",
+  "lat": -12.0231953,
+  "lon": -44.2569588
 }

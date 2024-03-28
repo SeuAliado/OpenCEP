@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3951223,
+  "lon": -46.9436299
 }

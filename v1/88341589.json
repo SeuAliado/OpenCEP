@@ -5,5 +5,7 @@
   "bairro": "Cedro",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "lat": -27.0392455,
+  "lon": -48.6462697
 }

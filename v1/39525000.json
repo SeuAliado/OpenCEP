@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Porteirinha",
   "uf": "MG",
-  "ibge": "3145059"
+  "ibge": "3145059",
+  "lat": -15.7997502,
+  "lon": -43.2945463
 }

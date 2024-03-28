@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Tocantinópolis",
   "uf": "TO",
-  "ibge": "1721208"
+  "ibge": "1721208",
+  "lat": -6.3303451,
+  "lon": -47.4178252
 }

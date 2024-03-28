@@ -5,5 +5,7 @@
   "bairro": "Jereissati I",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8768336,
+  "lon": -38.6223708
 }

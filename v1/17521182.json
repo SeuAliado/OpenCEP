@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2417741,
+  "lon": -49.9176886
 }

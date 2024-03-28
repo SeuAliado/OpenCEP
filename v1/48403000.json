@@ -5,5 +5,7 @@
   "bairro": "Curral Falso",
   "localidade": "Ribeira do Pombal",
   "uf": "BA",
-  "ibge": "2926608"
+  "ibge": "2926608",
+  "lat": -10.6759804,
+  "lon": -38.5806538
 }

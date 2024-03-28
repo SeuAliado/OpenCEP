@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Queimada Nova",
   "uf": "PI",
-  "ibge": "2208650"
+  "ibge": "2208650",
+  "lat": -8.5831993,
+  "lon": -41.4174457
 }

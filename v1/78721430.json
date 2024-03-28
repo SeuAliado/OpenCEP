@@ -5,5 +5,7 @@
   "bairro": "Loteamento Padre João Bosco Burnier",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4238768,
+  "lon": -54.6283906
 }

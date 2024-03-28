@@ -5,5 +5,7 @@
   "bairro": "Kobrasol",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5962325,
+  "lon": -48.6139634
 }

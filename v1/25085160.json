@@ -5,5 +5,7 @@
   "bairro": "Parque Beira Mar",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.79436,
+  "lon": -43.2902428
 }

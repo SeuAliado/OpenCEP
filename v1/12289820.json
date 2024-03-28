@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Mantiqueira",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0543512,
+  "lon": -45.7225077
 }

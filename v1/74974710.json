@@ -5,5 +5,7 @@
   "bairro": "Virgínia Parque",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8386267,
+  "lon": -49.2949922
 }

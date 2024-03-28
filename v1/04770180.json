@@ -5,5 +5,7 @@
   "bairro": "Jardim Guarapiranga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -21.1023767,
+  "lon": -48.9442325
 }

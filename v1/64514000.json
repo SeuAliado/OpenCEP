@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cajazeiras do Piauí",
   "uf": "PI",
-  "ibge": "2202075"
+  "ibge": "2202075",
+  "lat": -6.7970676,
+  "lon": -42.3906566
 }

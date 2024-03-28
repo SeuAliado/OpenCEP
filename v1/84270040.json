@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "lat": -24.3165396,
+  "lon": -50.6475681
 }

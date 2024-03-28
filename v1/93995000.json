@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Maria do Herval",
   "uf": "RS",
-  "ibge": "4316956"
+  "ibge": "4316956",
+  "lat": -29.4969372,
+  "lon": -50.9935044
 }

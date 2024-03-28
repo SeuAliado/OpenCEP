@@ -5,5 +5,7 @@
   "bairro": "Jardim Arujá",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3806585,
+  "lon": -46.3079455
 }

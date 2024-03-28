@@ -5,5 +5,7 @@
   "bairro": "Vila Elias Nigri",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4742851,
+  "lon": -46.6749553
 }

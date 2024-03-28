@@ -5,5 +5,7 @@
   "bairro": "Distrito Riacho do Meio",
   "localidade": "São José do Egito",
   "uf": "PE",
-  "ibge": "2613602"
+  "ibge": "2613602",
+  "lat": -7.5312103,
+  "lon": -37.3765568
 }

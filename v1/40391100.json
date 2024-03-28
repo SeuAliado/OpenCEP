@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9294723,
+  "lon": -38.4794394
 }

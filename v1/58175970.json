@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cuité",
   "uf": "PB",
-  "ibge": "2505105"
+  "ibge": "2505105",
+  "lat": -6.4826223,
+  "lon": -36.1546436
 }

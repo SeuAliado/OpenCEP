@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico",
   "localidade": "Paragominas",
   "uf": "PA",
-  "ibge": "1505502"
+  "ibge": "1505502",
+  "lat": -3.0177482,
+  "lon": -47.3587123
 }

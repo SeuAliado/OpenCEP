@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.747378,
+  "lon": -43.4833439
 }

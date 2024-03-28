@@ -5,5 +5,7 @@
   "bairro": "Serra do Mimo",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1437289,
+  "lon": -44.9677518
 }

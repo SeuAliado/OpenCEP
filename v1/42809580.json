@@ -5,5 +5,7 @@
   "bairro": "Parque Satélite",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "lat": -12.6971459,
+  "lon": -38.3332163
 }

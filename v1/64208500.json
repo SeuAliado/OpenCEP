@@ -5,5 +5,7 @@
   "bairro": "Piauí",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9236483,
+  "lon": -41.7461648
 }

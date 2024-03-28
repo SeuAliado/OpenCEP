@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Real",
   "uf": "BA",
-  "ibge": "2918753"
+  "ibge": "2918753",
+  "lat": -14.0316457,
+  "lon": -42.139956
 }

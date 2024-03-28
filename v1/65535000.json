@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Belágua",
   "uf": "MA",
-  "ibge": "2101731"
+  "ibge": "2101731",
+  "lat": -3.1552268,
+  "lon": -43.5125387
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rita",
   "uf": "MA",
-  "ibge": "2110203"
+  "ibge": "2110203",
+  "lat": -3.1422873,
+  "lon": -44.3253459
 }

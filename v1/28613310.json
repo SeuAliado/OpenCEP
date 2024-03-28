@@ -5,5 +5,7 @@
   "bairro": "Perissê",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.2965712,
+  "lon": -42.5317538
 }

@@ -5,5 +5,7 @@
   "bairro": "Xaxim",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.5179994,
+  "lon": -49.2665851
 }

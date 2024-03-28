@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rosa de Viterbo",
   "uf": "SP",
-  "ibge": "3547601"
+  "ibge": "3547601",
+  "lat": -21.4909206,
+  "lon": -47.37045
 }

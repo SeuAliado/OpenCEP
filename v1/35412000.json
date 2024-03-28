@@ -5,5 +5,7 @@
   "bairro": "Amarantina",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "lat": -20.3145019,
+  "lon": -43.7060762
 }

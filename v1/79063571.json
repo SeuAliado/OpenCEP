@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Eugênio",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.5291354,
+  "lon": -54.5894049
 }

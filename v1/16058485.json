@@ -5,5 +5,7 @@
   "bairro": "Chácaras Versalhes",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1669209,
+  "lon": -50.4493209
 }

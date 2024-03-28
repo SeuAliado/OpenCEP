@@ -5,5 +5,7 @@
   "bairro": "Brusque",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8249296,
+  "lon": -50.3313031
 }

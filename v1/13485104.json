@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Catarina",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5486451,
+  "lon": -47.3954799
 }

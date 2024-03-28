@@ -5,5 +5,7 @@
   "bairro": "Vila Dona Paulina",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5414357,
+  "lon": -46.9233236
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Rio das Ostras",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5244449,
+  "lon": -41.975263
 }

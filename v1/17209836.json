@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Horizonte",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2654702,
+  "lon": -48.5449223
 }

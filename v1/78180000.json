@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio do Leverger",
   "uf": "MT",
-  "ibge": "5107800"
+  "ibge": "5107800",
+  "lat": -15.8628421,
+  "lon": -56.0792473
 }

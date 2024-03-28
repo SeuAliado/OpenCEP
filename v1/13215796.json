@@ -5,5 +5,7 @@
   "bairro": "Champirra",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.101603,
+  "lon": -46.8672329
 }

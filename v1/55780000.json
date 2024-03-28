@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Frei Miguelinho",
   "uf": "PE",
-  "ibge": "2605806"
+  "ibge": "2605806",
+  "lat": -7.9395933,
+  "lon": -35.9116066
 }

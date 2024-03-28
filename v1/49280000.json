@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tomar do Geru",
   "uf": "SE",
-  "ibge": "2807501"
+  "ibge": "2807501",
+  "lat": -11.3694382,
+  "lon": -37.8428174
 }

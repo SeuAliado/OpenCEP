@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7943368,
+  "lon": -48.1816145
 }

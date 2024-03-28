@@ -5,5 +5,7 @@
   "bairro": "Parque São Luis",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "lat": -23.9268749,
+  "lon": -46.4119159
 }

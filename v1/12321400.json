@@ -5,5 +5,7 @@
   "bairro": "Jardim Emília",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.2950582,
+  "lon": -45.9882147
 }

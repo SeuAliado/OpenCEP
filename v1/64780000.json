@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anísio de Abreu",
   "uf": "PI",
-  "ibge": "2200707"
+  "ibge": "2200707",
+  "lat": -9.186288,
+  "lon": -43.0497275
 }

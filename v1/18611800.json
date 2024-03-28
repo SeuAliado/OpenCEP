@@ -5,5 +5,7 @@
   "bairro": "Jardim Peabiru",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8735289,
+  "lon": -48.4305042
 }

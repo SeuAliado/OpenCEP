@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carvalhos",
   "uf": "MG",
-  "ibge": "3114808"
+  "ibge": "3114808",
+  "lat": -22.0004936,
+  "lon": -44.4635873
 }

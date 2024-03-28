@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7760947,
+  "lon": -55.788685
 }

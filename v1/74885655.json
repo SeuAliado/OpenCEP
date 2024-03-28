@@ -5,5 +5,7 @@
   "bairro": "Jardins Paris",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.3422873,
+  "lon": -48.9669706
 }

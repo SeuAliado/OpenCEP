@@ -5,5 +5,7 @@
   "bairro": "Cocobó",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3705801,
+  "lon": -39.302859
 }

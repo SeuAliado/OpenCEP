@@ -5,5 +5,7 @@
   "bairro": "Cedro",
   "localidade": "Perobal",
   "uf": "PR",
-  "ibge": "4118857"
+  "ibge": "4118857",
+  "lat": -23.9013243,
+  "lon": -53.4122738
 }

@@ -5,5 +5,7 @@
   "bairro": "Cambuci",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5621154,
+  "lon": -46.6233412
 }

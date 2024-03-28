@@ -5,5 +5,7 @@
   "bairro": "Vila Jacobucci",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0060972,
+  "lon": -47.8715051
 }

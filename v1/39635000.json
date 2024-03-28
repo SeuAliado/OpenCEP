@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coronel Murta",
   "uf": "MG",
-  "ibge": "3119500"
+  "ibge": "3119500",
+  "lat": -16.588013,
+  "lon": -42.1967716
 }

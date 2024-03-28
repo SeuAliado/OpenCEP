@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Portalegre",
   "uf": "RN",
-  "ibge": "2410207"
+  "ibge": "2410207",
+  "lat": -6.025197,
+  "lon": -37.9870862
 }

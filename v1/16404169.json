@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Monte Verde",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -15.6311222,
+  "lon": -47.6626668
 }

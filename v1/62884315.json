@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "lat": -4.1050096,
+  "lon": -38.4668397
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.9101237,
+  "lon": -41.9894469
 }

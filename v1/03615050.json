@@ -5,5 +5,7 @@
   "bairro": "Vila Salete",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5198103,
+  "lon": -46.5292095
 }

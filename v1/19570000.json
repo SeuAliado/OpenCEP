@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Regente Feijó",
   "uf": "SP",
-  "ibge": "3542404"
+  "ibge": "3542404",
+  "lat": -22.2188934,
+  "lon": -51.3064462
 }

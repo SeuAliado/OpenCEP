@@ -5,5 +5,7 @@
   "bairro": "Sabbak",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -3.6637906,
+  "lon": -45.392061
 }

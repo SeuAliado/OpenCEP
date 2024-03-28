@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gonçalo do Rio Abaixo",
   "uf": "MG",
-  "ibge": "3161908"
+  "ibge": "3161908",
+  "lat": -19.82587,
+  "lon": -43.3593414
 }

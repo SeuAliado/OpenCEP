@@ -5,5 +5,7 @@
   "bairro": "Parque Tropical",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7543898,
+  "lon": -48.2073171
 }

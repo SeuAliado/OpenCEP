@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipiaçu",
   "uf": "MG",
-  "ibge": "3131406"
+  "ibge": "3131406",
+  "lat": -18.6930314,
+  "lon": -49.9441344
 }

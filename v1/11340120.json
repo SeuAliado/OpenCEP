@@ -5,5 +5,7 @@
   "bairro": "Esplanada dos Barreiros",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9596252,
+  "lon": -46.4046106
 }

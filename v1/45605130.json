@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7887423,
+  "lon": -39.2620768
 }

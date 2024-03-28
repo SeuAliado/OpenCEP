@@ -5,5 +5,7 @@
   "bairro": "Parque Nova Veneza/Inocoop (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8129782,
+  "lon": -47.2314027
 }

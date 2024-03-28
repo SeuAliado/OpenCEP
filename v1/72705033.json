@@ -5,5 +5,7 @@
   "bairro": "Setor Norte (Brazlândia)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6773141,
+  "lon": -48.1954351
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Bertaville",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.2903951,
+  "lon": -48.3150948
 }

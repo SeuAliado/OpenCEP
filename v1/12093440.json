@@ -5,5 +5,7 @@
   "bairro": "Chácaras Cataguá",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0717502,
+  "lon": -45.565225
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedranópolis",
   "uf": "SP",
-  "ibge": "3536901"
+  "ibge": "3536901",
+  "lat": -20.2477513,
+  "lon": -50.1098891
 }

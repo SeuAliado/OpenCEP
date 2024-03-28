@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tramandaí",
   "uf": "RS",
-  "ibge": "4321600"
+  "ibge": "4321600",
+  "lat": -29.9846393,
+  "lon": -50.132682
 }

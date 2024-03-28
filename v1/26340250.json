@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7066103,
+  "lon": -43.5371617
 }

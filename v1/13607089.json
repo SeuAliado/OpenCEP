@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Suissa",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.365182,
+  "lon": -47.3674011
 }

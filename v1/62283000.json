@@ -5,5 +5,7 @@
   "bairro": "Trapiá",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "lat": -4.1850621,
+  "lon": -40.3086186
 }

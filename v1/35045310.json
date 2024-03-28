@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8816516,
+  "lon": -41.9667962
 }

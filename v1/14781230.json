@@ -5,5 +5,7 @@
   "bairro": "Zequinha Amêndola",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5307579,
+  "lon": -48.5559678
 }

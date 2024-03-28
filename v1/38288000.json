@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "União de Minas",
   "uf": "MG",
-  "ibge": "3170438"
+  "ibge": "3170438",
+  "lat": -19.5303246,
+  "lon": -50.3384829
 }

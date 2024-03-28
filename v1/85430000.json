@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Braganey",
   "uf": "PR",
-  "ibge": "4103354"
+  "ibge": "4103354",
+  "lat": -24.8178168,
+  "lon": -53.1222901
 }

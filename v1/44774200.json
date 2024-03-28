@@ -5,5 +5,7 @@
   "bairro": "Bananeiras",
   "localidade": "Pindobaçu",
   "uf": "BA",
-  "ibge": "2924603"
+  "ibge": "2924603",
+  "lat": -10.7437688,
+  "lon": -40.3678375
 }

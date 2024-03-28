@@ -5,5 +5,7 @@
   "bairro": "Jardim da Lagoa",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3496389,
+  "lon": -46.9383147
 }

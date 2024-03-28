@@ -5,5 +5,7 @@
   "bairro": "Parque do Cerrado",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.6733748,
+  "lon": -49.2127849
 }

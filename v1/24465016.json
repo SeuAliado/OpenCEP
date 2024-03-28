@@ -5,5 +5,7 @@
   "bairro": "Vila Iara",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8229014,
+  "lon": -43.049277
 }

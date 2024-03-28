@@ -5,5 +5,7 @@
   "bairro": "Sauaçu",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8380157,
+  "lon": -40.2661194
 }

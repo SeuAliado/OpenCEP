@@ -5,5 +5,7 @@
   "bairro": "Condado de Bacaxá (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8885515,
+  "lon": -42.4588991
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Colina Santa Bárbara",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7426198,
+  "lon": -47.4177067
 }

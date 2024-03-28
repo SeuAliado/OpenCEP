@@ -5,5 +5,7 @@
   "bairro": "Bom Sucesso",
   "localidade": "Barra Longa",
   "uf": "MG",
-  "ibge": "3105707"
+  "ibge": "3105707",
+  "lat": -20.1835719,
+  "lon": -43.148492
 }

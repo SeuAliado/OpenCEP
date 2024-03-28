@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Mundo",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1769973,
+  "lon": -47.7744735
 }

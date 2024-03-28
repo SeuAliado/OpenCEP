@@ -5,5 +5,7 @@
   "bairro": "Vitória",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -23.607161,
+  "lon": -46.4796462
 }

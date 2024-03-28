@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rosário do Catete",
   "uf": "SE",
-  "ibge": "2806107"
+  "ibge": "2806107",
+  "lat": -10.6877825,
+  "lon": -37.0292986
 }

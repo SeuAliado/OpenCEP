@@ -5,5 +5,7 @@
   "bairro": "Saudade",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9182688,
+  "lon": -43.9005988
 }

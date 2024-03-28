@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Passos",
   "uf": "RS",
-  "ibge": "4321907"
+  "ibge": "4321907",
+  "lat": -27.4571043,
+  "lon": -53.928486
 }

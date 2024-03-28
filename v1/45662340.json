@@ -5,5 +5,7 @@
   "bairro": "Salobrinho",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.8018372,
+  "lon": -39.1748196
 }

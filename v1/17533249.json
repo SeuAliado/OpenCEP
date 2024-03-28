@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Shangrilá (Padre Nóbrega)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.5318601,
+  "lon": -44.1275126
 }

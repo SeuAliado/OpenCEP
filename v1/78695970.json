@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Torixoréu",
   "uf": "MT",
-  "ibge": "5108204"
+  "ibge": "5108204",
+  "lat": -15.6124211,
+  "lon": -56.1170727
 }

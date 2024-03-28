@@ -5,5 +5,7 @@
   "bairro": "Marambainha",
   "localidade": "Caraí",
   "uf": "MG",
-  "ibge": "3113008"
+  "ibge": "3113008",
+  "lat": -17.1960415,
+  "lon": -41.6570236
 }

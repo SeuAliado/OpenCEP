@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taparuba",
   "uf": "MG",
-  "ibge": "3168051"
+  "ibge": "3168051",
+  "lat": -19.7377695,
+  "lon": -41.62114
 }

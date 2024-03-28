@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riachão do Dantas",
   "uf": "SE",
-  "ibge": "2805802"
+  "ibge": "2805802",
+  "lat": -11.0696142,
+  "lon": -37.7254198
 }

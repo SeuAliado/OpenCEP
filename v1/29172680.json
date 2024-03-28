@@ -5,5 +5,7 @@
   "bairro": "Praia da Baleia",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1763827,
+  "lon": -40.1929209
 }

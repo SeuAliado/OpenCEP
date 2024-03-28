@@ -5,5 +5,7 @@
   "bairro": "Jardim Iguaçu",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7668332,
+  "lon": -43.4310365
 }

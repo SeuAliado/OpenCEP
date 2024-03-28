@@ -5,5 +5,7 @@
   "bairro": "Nenê Graeff",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2529363,
+  "lon": -52.442608
 }

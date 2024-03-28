@@ -5,5 +5,7 @@
   "bairro": "Parque São Jorge",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8944532,
+  "lon": -47.1584857
 }

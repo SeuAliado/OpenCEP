@@ -5,5 +5,7 @@
   "bairro": "Jardim Ottawa",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4501906,
+  "lon": -46.452357
 }

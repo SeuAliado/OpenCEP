@@ -5,5 +5,7 @@
   "bairro": "Jardim Neide",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6697683,
+  "lon": -46.7433088
 }

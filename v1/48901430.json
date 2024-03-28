@@ -5,5 +5,7 @@
   "bairro": "Pedra do Lord",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4273599,
+  "lon": -40.5306212
 }

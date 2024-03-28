@@ -5,5 +5,7 @@
   "bairro": "Mauá",
   "localidade": "Arroio Grande",
   "uf": "RS",
-  "ibge": "4301305"
+  "ibge": "4301305",
+  "lat": -32.2393311,
+  "lon": -53.0785248
 }

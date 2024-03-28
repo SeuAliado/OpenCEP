@@ -5,5 +5,7 @@
   "bairro": "Cajueiros (Itaipuaçu)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9515142,
+  "lon": -42.9635152
 }

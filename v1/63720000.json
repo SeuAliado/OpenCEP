@@ -5,5 +5,7 @@
   "bairro": "Poti",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "lat": -5.1742138,
+  "lon": -40.6665584
 }

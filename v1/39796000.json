@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio dos Araújos",
   "localidade": "São Sebastião do Maranhão",
   "uf": "MG",
-  "ibge": "3164506"
+  "ibge": "3164506",
+  "lat": -18.0877261,
+  "lon": -42.5662499
 }

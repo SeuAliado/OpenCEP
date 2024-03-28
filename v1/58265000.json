@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Duas Estradas",
   "uf": "PB",
-  "ibge": "2505808"
+  "ibge": "2505808",
+  "lat": -6.7405282,
+  "lon": -35.385021
 }

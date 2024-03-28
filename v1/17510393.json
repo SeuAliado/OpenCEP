@@ -5,5 +5,7 @@
   "bairro": "Barros",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1982369,
+  "lon": -49.9513149
 }

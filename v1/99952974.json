@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cecília do Sul",
   "uf": "RS",
-  "ibge": "4316733"
+  "ibge": "4316733",
+  "lat": -28.1649355,
+  "lon": -51.9300062
 }

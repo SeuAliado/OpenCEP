@@ -5,5 +5,7 @@
   "bairro": "Caladinho",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7972373,
+  "lon": -63.8801616
 }

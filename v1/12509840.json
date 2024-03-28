@@ -5,5 +5,7 @@
   "bairro": "Vila Municipal I",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7966287,
+  "lon": -45.2311025
 }

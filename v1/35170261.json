@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4848622,
+  "lon": -42.6224129
 }

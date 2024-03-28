@@ -5,5 +5,7 @@
   "bairro": "Fundação Educacional Manoel Guedes",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.364297,
+  "lon": -47.8707508
 }

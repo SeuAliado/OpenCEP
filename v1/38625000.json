@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cabeceira Grande",
   "uf": "MG",
-  "ibge": "3109451"
+  "ibge": "3109451",
+  "lat": -16.0297276,
+  "lon": -47.0869404
 }

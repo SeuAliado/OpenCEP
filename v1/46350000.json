@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Urandi",
   "uf": "BA",
-  "ibge": "2932606"
+  "ibge": "2932606",
+  "lat": -14.7585823,
+  "lon": -42.6684924
 }

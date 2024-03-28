@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Perolândia",
   "uf": "GO",
-  "ibge": "5216452"
+  "ibge": "5216452",
+  "lat": -17.5537421,
+  "lon": -52.2337184
 }

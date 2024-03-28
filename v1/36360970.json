@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conceição da Barra de Minas",
   "uf": "MG",
-  "ibge": "3115201"
+  "ibge": "3115201",
+  "lat": -21.128671,
+  "lon": -44.4728432
 }

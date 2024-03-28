@@ -5,5 +5,7 @@
   "bairro": "Setor Araguaia",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.81595,
+  "lon": -49.24171
 }

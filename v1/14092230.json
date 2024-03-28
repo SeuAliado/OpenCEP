@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaporã",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1827043,
+  "lon": -47.7728714
 }

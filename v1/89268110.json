@@ -5,5 +5,7 @@
   "bairro": "Águas Claras",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "lat": -26.500126,
+  "lon": -49.0529037
 }

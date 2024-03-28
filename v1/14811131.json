@@ -5,5 +5,7 @@
   "bairro": "Vila Vieira (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7831649,
+  "lon": -48.1494236
 }

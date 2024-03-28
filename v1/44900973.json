@@ -5,5 +5,7 @@
   "bairro": "Mamoeiro",
   "localidade": "Irecê",
   "uf": "BA",
-  "ibge": "2914604"
+  "ibge": "2914604",
+  "lat": -11.3086653,
+  "lon": -41.8605226
 }

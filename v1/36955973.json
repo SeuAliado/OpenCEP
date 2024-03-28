@@ -5,5 +5,7 @@
   "bairro": "Imbiruçu",
   "localidade": "Mutum",
   "uf": "MG",
-  "ibge": "3144003"
+  "ibge": "3144003",
+  "lat": -20.1299358,
+  "lon": -41.4063299
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4118924,
+  "lon": -49.2077092
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Florença",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.36635,
+  "lon": -47.529725
 }

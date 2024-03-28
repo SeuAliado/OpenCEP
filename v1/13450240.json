@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7530422,
+  "lon": -47.420958
 }

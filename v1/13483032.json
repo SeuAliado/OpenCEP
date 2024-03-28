@@ -5,5 +5,7 @@
   "bairro": "Parque Nossa Senhora das Dores",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5662706,
+  "lon": -47.4451071
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mendes",
   "uf": "RJ",
-  "ibge": "3302809"
+  "ibge": "3302809",
+  "lat": -22.5254727,
+  "lon": -43.73121
 }

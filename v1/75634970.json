@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Mairipotaba",
   "uf": "GO",
-  "ibge": "5212600"
+  "ibge": "5212600",
+  "lat": -17.2974686,
+  "lon": -49.4903786
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aguiarnópolis",
   "uf": "TO",
-  "ibge": "1700301"
+  "ibge": "1700301",
+  "lat": -6.5544818,
+  "lon": -47.4706408
 }

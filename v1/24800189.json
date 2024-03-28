@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -21.764246,
+  "lon": -41.3250689
 }

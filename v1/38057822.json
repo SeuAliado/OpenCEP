@@ -5,5 +5,7 @@
   "bairro": "Dom Eduardo",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7473703,
+  "lon": -47.971325
 }

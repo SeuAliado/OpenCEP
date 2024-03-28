@@ -5,5 +5,7 @@
   "bairro": "Centro (Suruí)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6636954,
+  "lon": -43.1206843
 }

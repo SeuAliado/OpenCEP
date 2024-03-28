@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Olinda Nova do Maranhão",
   "uf": "MA",
-  "ibge": "2107456"
+  "ibge": "2107456",
+  "lat": -2.9933201,
+  "lon": -44.9901454
 }

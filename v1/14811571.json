@@ -5,5 +5,7 @@
   "bairro": "Condomínio Parque dos Sabiás",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7851584,
+  "lon": -48.1261305
 }

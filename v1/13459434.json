@@ -5,5 +5,7 @@
   "bairro": "Chácara Recreio Cruzeiro do Sul",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7344279,
+  "lon": -47.4898882
 }

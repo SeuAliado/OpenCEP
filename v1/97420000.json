@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Vicente do Sul",
   "uf": "RS",
-  "ibge": "4319802"
+  "ibge": "4319802",
+  "lat": -29.6919933,
+  "lon": -54.6767765
 }

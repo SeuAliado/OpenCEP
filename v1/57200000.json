@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Penedo",
   "uf": "AL",
-  "ibge": "2706703"
+  "ibge": "2706703",
+  "lat": -10.2889626,
+  "lon": -36.5839256
 }

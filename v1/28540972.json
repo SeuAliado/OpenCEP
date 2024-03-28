@@ -5,5 +5,7 @@
   "bairro": "Lavrinhas",
   "localidade": "Cordeiro",
   "uf": "RJ",
-  "ibge": "3301504"
+  "ibge": "3301504",
+  "lat": -22.0095496,
+  "lon": -42.3663631
 }

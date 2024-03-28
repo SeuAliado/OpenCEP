@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Lourdes",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.8271989,
+  "lon": -53.6466529
 }

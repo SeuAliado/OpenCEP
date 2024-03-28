@@ -5,5 +5,7 @@
   "bairro": "Pista",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0013662,
+  "lon": -67.7921093
 }

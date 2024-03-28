@@ -5,5 +5,7 @@
   "bairro": "Vila São Caetano",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.9946142,
+  "lon": -46.8471505
 }

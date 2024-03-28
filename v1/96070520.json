@@ -5,5 +5,7 @@
   "bairro": "Três Vendas",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "lat": -31.704404,
+  "lon": -52.3299038
 }

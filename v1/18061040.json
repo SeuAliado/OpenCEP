@@ -5,5 +5,7 @@
   "bairro": "Jardim Zulmira",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4993101,
+  "lon": -47.4823806
 }

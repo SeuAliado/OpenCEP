@@ -5,5 +5,7 @@
   "bairro": "Contrato",
   "localidade": "Itamarandiba",
   "uf": "MG",
-  "ibge": "3132503"
+  "ibge": "3132503",
+  "lat": -17.7767788,
+  "lon": -42.6735086
 }

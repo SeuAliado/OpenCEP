@@ -5,5 +5,7 @@
   "bairro": "Panacuí",
   "localidade": "Marco",
   "uf": "CE",
-  "ibge": "2307809"
+  "ibge": "2307809",
+  "lat": -3.2234035,
+  "lon": -40.407994
 }

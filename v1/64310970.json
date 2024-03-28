@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aroazes",
   "uf": "PI",
-  "ibge": "2200905"
+  "ibge": "2200905",
+  "lat": -6.1117237,
+  "lon": -41.7885794
 }

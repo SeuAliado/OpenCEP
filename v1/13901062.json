@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7051127,
+  "lon": -46.7741551
 }

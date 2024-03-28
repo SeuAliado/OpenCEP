@@ -5,5 +5,7 @@
   "bairro": "Morro do Perez",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0023365,
+  "lon": -44.311207
 }

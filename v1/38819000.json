@@ -5,5 +5,7 @@
   "bairro": "Chaves",
   "localidade": "Rio Paranaíba",
   "uf": "MG",
-  "ibge": "3155504"
+  "ibge": "3155504",
+  "lat": -19.1866099,
+  "lon": -46.2459125
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0316572,
+  "lon": -52.9132548
 }

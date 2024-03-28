@@ -5,5 +5,7 @@
   "bairro": "Jacarezinho",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.891566,
+  "lon": -43.2575587
 }

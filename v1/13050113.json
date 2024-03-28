@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Amália",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9391687,
+  "lon": -47.0946588
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Ulisses Guimarães",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4185152,
+  "lon": -51.4194855
 }

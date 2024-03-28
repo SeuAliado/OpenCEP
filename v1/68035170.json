@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4480191,
+  "lon": -54.7525586
 }

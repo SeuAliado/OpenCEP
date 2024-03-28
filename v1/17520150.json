@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2407976,
+  "lon": -49.9213496
 }

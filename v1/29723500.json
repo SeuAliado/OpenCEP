@@ -5,5 +5,7 @@
   "bairro": "Córrego Moacyr Ávidos",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "lat": -19.2358591,
+  "lon": -40.5114619
 }

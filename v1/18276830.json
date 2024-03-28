@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3634784,
+  "lon": -47.8861146
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Sebastião do Uatumã",
   "uf": "AM",
-  "ibge": "1303957"
+  "ibge": "1303957",
+  "lat": -2.5691795,
+  "lon": -57.874918
 }

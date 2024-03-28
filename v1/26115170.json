@@ -5,5 +5,7 @@
   "bairro": "Nova Piam",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7387301,
+  "lon": -43.3905166
 }

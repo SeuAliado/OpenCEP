@@ -5,5 +5,7 @@
   "bairro": "Presidente Costa e Silva",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.1999572,
+  "lon": -37.3158959
 }

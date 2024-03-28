@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Vicente de Minas",
   "uf": "MG",
-  "ibge": "3165305"
+  "ibge": "3165305",
+  "lat": -18.9528785,
+  "lon": -46.9883549
 }

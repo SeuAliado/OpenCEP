@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Benjamin Constant",
   "uf": "AM",
-  "ibge": "1300607"
+  "ibge": "1300607",
+  "lat": -4.5204349,
+  "lon": -69.9550338
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guapirama",
   "uf": "PR",
-  "ibge": "4109005"
+  "ibge": "4109005",
+  "lat": -23.5208318,
+  "lon": -50.0411734
 }

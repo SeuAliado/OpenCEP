@@ -5,5 +5,7 @@
   "bairro": "Três Capões",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.4264732,
+  "lon": -49.2423218
 }

@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3341179,
+  "lon": -40.3893883
 }

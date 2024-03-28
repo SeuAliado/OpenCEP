@@ -5,5 +5,7 @@
   "bairro": "Extrema",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -9.774299,
+  "lon": -66.361334
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8524078,
+  "lon": -48.2806892
 }

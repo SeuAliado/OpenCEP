@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vista Alegre do Prata",
   "uf": "RS",
-  "ibge": "4323606"
+  "ibge": "4323606",
+  "lat": -28.8057127,
+  "lon": -51.7951605
 }

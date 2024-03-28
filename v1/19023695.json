@@ -5,5 +5,7 @@
   "bairro": "Residencial São Marcos",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1055134,
+  "lon": -51.4023622
 }

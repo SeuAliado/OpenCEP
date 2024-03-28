@@ -5,5 +5,7 @@
   "bairro": "Vila Vera Cruz",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3304292,
+  "lon": -46.727919
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taipas do Tocantins",
   "uf": "TO",
-  "ibge": "1720937"
+  "ibge": "1720937",
+  "lat": -12.193852,
+  "lon": -46.9925355
 }

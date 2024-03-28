@@ -5,5 +5,7 @@
   "bairro": "Estádio",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4243118,
+  "lon": -47.5643476
 }

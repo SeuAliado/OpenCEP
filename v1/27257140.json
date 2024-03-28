@@ -5,5 +5,7 @@
   "bairro": "Siderópolis",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5398792,
+  "lon": -44.0868679
 }

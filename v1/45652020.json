@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7846245,
+  "lon": -39.0351211
 }

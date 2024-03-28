@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Parque Itajaí",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.955128,
+  "lon": -47.1910371
 }

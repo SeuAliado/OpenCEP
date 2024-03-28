@@ -5,5 +5,7 @@
   "bairro": "Bom Lugar",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7658451,
+  "lon": -42.9995363
 }

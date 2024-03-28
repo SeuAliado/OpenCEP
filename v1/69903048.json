@@ -5,5 +5,7 @@
   "bairro": "Xavier Maia",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9943123,
+  "lon": -67.8241911
 }

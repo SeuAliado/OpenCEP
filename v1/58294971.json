@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marcação",
   "uf": "PB",
-  "ibge": "2509057"
+  "ibge": "2509057",
+  "lat": -6.7692652,
+  "lon": -35.0089414
 }

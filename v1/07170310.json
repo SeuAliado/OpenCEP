@@ -5,5 +5,7 @@
   "bairro": "Vila Aeroporto",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4336062,
+  "lon": -46.4558223
 }

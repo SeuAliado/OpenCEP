@@ -5,5 +5,7 @@
   "bairro": "Quitaiús",
   "localidade": "Lavras da Mangabeira",
   "uf": "CE",
-  "ibge": "2307502"
+  "ibge": "2307502",
+  "lat": -6.8943722,
+  "lon": -39.0646765
 }

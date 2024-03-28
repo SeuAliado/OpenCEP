@@ -5,5 +5,7 @@
   "bairro": "Jardim Barão",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7293331,
+  "lon": -47.4031923
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Edealina",
   "uf": "GO",
-  "ibge": "5207352"
+  "ibge": "5207352",
+  "lat": -17.4243971,
+  "lon": -49.6648541
 }

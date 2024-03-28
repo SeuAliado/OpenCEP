@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.8963187,
+  "lon": -38.6816454
 }

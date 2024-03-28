@@ -5,5 +5,7 @@
   "bairro": "Quinta da Boa Vista (Industrial)",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4533862,
+  "lon": -46.3554272
 }

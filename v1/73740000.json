@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colinas do Sul",
   "uf": "GO",
-  "ibge": "5205521"
+  "ibge": "5205521",
+  "lat": -13.9694325,
+  "lon": -48.1200592
 }

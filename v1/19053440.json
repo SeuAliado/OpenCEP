@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto da Boa Vista",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.145482,
+  "lon": -51.411455
 }

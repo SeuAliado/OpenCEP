@@ -5,5 +5,7 @@
   "bairro": "Santa Rita de Cássia",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6297832,
+  "lon": -56.7239089
 }

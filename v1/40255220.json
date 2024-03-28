@@ -5,5 +5,7 @@
   "bairro": "Matatu",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9512784,
+  "lon": -38.4928073
 }

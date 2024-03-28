@@ -5,5 +5,7 @@
   "bairro": "Olhos D'Água do Oeste",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "lat": -19.9522838,
+  "lon": -43.9727268
 }

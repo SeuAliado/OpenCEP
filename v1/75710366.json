@@ -5,5 +5,7 @@
   "bairro": "Loteamento Bela Vista",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -16.8306777,
+  "lon": -49.5339384
 }

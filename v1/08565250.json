@@ -5,5 +5,7 @@
   "bairro": "Jardim Itamarati",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.537978,
+  "lon": -46.340797
 }

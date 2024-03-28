@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buritizal",
   "uf": "SP",
-  "ibge": "3508207"
+  "ibge": "3508207",
+  "lat": -20.1911476,
+  "lon": -47.7077733
 }

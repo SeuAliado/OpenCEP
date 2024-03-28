@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Terezinha",
   "uf": "PE",
-  "ibge": "2612802"
+  "ibge": "2612802",
+  "lat": -7.3763894,
+  "lon": -37.4796786
 }

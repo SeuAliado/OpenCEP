@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Condado",
   "uf": "PB",
-  "ibge": "2504504"
+  "ibge": "2504504",
+  "lat": -6.9104011,
+  "lon": -37.6005909
 }

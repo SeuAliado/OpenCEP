@@ -5,5 +5,7 @@
   "bairro": "Parque Aliança",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5540923,
+  "lon": -47.1342869
 }

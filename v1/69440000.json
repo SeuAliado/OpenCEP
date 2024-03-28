@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anori",
   "uf": "AM",
-  "ibge": "1300102"
+  "ibge": "1300102",
+  "lat": -3.7488199,
+  "lon": -61.6590871
 }

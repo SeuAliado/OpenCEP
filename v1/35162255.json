@@ -5,5 +5,7 @@
   "bairro": "Bom Jardim",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.4810076,
+  "lon": -42.5790381
 }

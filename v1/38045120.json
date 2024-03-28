@@ -5,5 +5,7 @@
   "bairro": "Parque das Américas",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7718047,
+  "lon": -47.9511621
 }

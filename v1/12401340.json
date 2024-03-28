@@ -5,5 +5,7 @@
   "bairro": "Loteamento Santa Clara",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9191325,
+  "lon": -45.4607966
 }

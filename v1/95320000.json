@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Prata",
   "uf": "RS",
-  "ibge": "4313300"
+  "ibge": "4313300",
+  "lat": -28.7840394,
+  "lon": -51.6077771
 }

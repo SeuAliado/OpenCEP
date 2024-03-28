@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Helena",
   "uf": "PR",
-  "ibge": "4123501"
+  "ibge": "4123501",
+  "lat": -23.401038,
+  "lon": -51.9375937
 }

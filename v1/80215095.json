@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4382403,
+  "lon": -49.2537695
 }

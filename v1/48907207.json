@@ -5,5 +5,7 @@
   "bairro": "Itaberaba",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.433514,
+  "lon": -40.4866013
 }

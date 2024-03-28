@@ -5,5 +5,7 @@
   "bairro": "Jardim Ibiratiba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4464797,
+  "lon": -46.6193386
 }

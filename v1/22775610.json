@@ -5,5 +5,7 @@
   "bairro": "Jacarepaguá",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9538681,
+  "lon": -43.3709119
 }

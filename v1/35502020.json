@@ -5,5 +5,7 @@
   "bairro": "Parque Jardim Capitão Silva",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.136405,
+  "lon": -44.8956439
 }

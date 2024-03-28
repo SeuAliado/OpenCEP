@@ -5,5 +5,7 @@
   "bairro": "Rio Branco",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3650534,
+  "lon": -40.3904993
 }

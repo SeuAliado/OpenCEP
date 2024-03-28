@@ -5,5 +5,7 @@
   "bairro": "Vila Zita",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.550546,
+  "lon": -46.3851357
 }

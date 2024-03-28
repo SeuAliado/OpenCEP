@@ -5,5 +5,7 @@
   "bairro": "Maria Auxiliadora",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3896741,
+  "lon": -40.4913569
 }

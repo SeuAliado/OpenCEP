@@ -5,5 +5,7 @@
   "bairro": "Boa Vista do Sul",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.2522015,
+  "lon": -51.1368255
 }

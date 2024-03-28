@@ -5,5 +5,7 @@
   "bairro": "Jaguaribe",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1293348,
+  "lon": -34.876435
 }

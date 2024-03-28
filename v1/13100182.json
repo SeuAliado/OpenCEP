@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Paranapanema",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9060503,
+  "lon": -47.0468981
 }

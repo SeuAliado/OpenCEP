@@ -5,5 +5,7 @@
   "bairro": "Parque Bela Vista",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5354105,
+  "lon": -47.4628492
 }

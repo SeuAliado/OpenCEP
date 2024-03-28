@@ -5,5 +5,7 @@
   "bairro": "Minas do Espírito Santo",
   "localidade": "Barra do Mendes",
   "uf": "BA",
-  "ibge": "2903003"
+  "ibge": "2903003",
+  "lat": -12.0330646,
+  "lon": -42.1679852
 }

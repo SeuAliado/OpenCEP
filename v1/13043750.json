@@ -5,5 +5,7 @@
   "bairro": "Vila Georgina",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9353659,
+  "lon": -47.0405285
 }

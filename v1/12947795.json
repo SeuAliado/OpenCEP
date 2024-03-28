@@ -5,5 +5,7 @@
   "bairro": "Parque Arco Iris",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1509918,
+  "lon": -46.5379784
 }

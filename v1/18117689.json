@@ -5,5 +5,7 @@
   "bairro": "Jardim São Lucas",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5798929,
+  "lon": -47.4701642
 }

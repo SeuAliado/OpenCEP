@@ -5,5 +5,7 @@
   "bairro": "Malu",
   "localidade": "Terra Boa",
   "uf": "PR",
-  "ibge": "4127205"
+  "ibge": "4127205",
+  "lat": -23.7688797,
+  "lon": -52.4449633
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Participação",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4614419,
+  "lon": -54.609859
 }

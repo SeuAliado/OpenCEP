@@ -5,5 +5,7 @@
   "bairro": "São Romão",
   "localidade": "Altaneira",
   "uf": "CE",
-  "ibge": "2300606"
+  "ibge": "2300606",
+  "lat": -6.9953087,
+  "lon": -39.732258
 }

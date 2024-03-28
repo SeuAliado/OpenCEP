@@ -5,5 +5,7 @@
   "bairro": "Novo Marotinho",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.915936,
+  "lon": -38.4279957
 }

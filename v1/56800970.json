@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Afogados da Ingazeira",
   "uf": "PE",
-  "ibge": "2600104"
+  "ibge": "2600104",
+  "lat": -7.7496027,
+  "lon": -37.6370051
 }

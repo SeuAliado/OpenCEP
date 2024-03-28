@@ -5,5 +5,7 @@
   "bairro": "São João da Serra Negra",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.8349669,
+  "lon": -46.8202227
 }

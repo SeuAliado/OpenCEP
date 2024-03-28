@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nhandeara",
   "uf": "SP",
-  "ibge": "3532603"
+  "ibge": "3532603",
+  "lat": -20.6927869,
+  "lon": -50.0404368
 }

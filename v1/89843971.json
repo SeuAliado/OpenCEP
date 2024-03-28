@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Águas Frias",
   "uf": "SC",
-  "ibge": "4200556"
+  "ibge": "4200556",
+  "lat": -26.8823233,
+  "lon": -52.8612966
 }

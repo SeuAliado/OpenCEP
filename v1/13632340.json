@@ -5,5 +5,7 @@
   "bairro": "Loteamento Verona",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0154681,
+  "lon": -47.4182895
 }

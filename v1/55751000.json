@@ -5,5 +5,7 @@
   "bairro": "Mimoso",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "lat": -7.8351388,
+  "lon": -35.7466426
 }

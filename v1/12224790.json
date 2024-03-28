@@ -5,5 +5,7 @@
   "bairro": "Jardim Pararangaba",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1717874,
+  "lon": -45.8109326
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Angicos",
   "uf": "RN",
-  "ibge": "2400802"
+  "ibge": "2400802",
+  "lat": -5.6583157,
+  "lon": -36.6097623
 }

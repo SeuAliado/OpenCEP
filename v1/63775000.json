@@ -5,5 +5,7 @@
   "bairro": "Oliveiras",
   "localidade": "Tamboril",
   "uf": "CE",
-  "ibge": "2313203"
+  "ibge": "2313203",
+  "lat": -5.0632509,
+  "lon": -40.2937559
 }

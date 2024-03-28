@@ -5,5 +5,7 @@
   "bairro": "Chácaras Anhangüera",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0642614,
+  "lon": -48.0119503
 }

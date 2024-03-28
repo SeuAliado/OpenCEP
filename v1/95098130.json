@@ -5,5 +5,7 @@
   "bairro": "Salgado Filho",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1894802,
+  "lon": -51.1921931
 }

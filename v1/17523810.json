@@ -5,5 +5,7 @@
   "bairro": "Jardim Teotônio Vilela",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2508144,
+  "lon": -49.9430897
 }

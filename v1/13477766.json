@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Jardim Esperança",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7444093,
+  "lon": -47.2822552
 }

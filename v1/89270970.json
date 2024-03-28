@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaramirim",
   "uf": "SC",
-  "ibge": "4206504"
+  "ibge": "4206504",
+  "lat": -26.4737288,
+  "lon": -48.9975881
 }

@@ -5,5 +5,7 @@
   "bairro": "Irmãos Auler",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0642883,
+  "lon": -44.5614299
 }

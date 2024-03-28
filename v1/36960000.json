@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pocrane",
   "uf": "MG",
-  "ibge": "3151909"
+  "ibge": "3151909",
+  "lat": -19.6212797,
+  "lon": -41.6338173
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Pátria",
   "localidade": "Presidente Bernardes",
   "uf": "SP",
-  "ibge": "3541208"
+  "ibge": "3541208",
+  "lat": -22.2188842,
+  "lon": -51.6416805
 }

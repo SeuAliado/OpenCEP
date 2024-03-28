@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Oscar Bressane",
   "uf": "SP",
-  "ibge": "3534500"
+  "ibge": "3534500",
+  "lat": -22.31535,
+  "lon": -50.2815901
 }

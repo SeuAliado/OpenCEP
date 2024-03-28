@@ -5,5 +5,7 @@
   "bairro": "Caieira Velha",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4824001,
+  "lon": -43.8234332
 }

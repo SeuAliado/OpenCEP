@@ -5,5 +5,7 @@
   "bairro": "Nova Piracicaba",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7241567,
+  "lon": -47.6641626
 }

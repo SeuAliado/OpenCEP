@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "lat": -4.8605025,
+  "lon": -43.3593323
 }

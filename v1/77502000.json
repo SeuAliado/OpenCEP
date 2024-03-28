@@ -5,5 +5,7 @@
   "bairro": "Luzimangues",
   "localidade": "Porto Nacional",
   "uf": "TO",
-  "ibge": "1718204"
+  "ibge": "1718204",
+  "lat": -10.7031252,
+  "lon": -48.4084386
 }

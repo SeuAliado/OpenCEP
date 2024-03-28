@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4267902,
+  "lon": -49.2627442
 }

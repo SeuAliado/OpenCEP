@@ -5,5 +5,7 @@
   "bairro": "Residencial Léo Gomes de Moraes",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1242258,
+  "lon": -47.7623777
 }

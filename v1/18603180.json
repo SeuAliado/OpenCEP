@@ -5,5 +5,7 @@
   "bairro": "Vila Sorocabana",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8783166,
+  "lon": -48.4543084
 }

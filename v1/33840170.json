@@ -5,5 +5,7 @@
   "bairro": "Rosaneves",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7439795,
+  "lon": -44.0902419
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Áurea",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5200653,
+  "lon": -46.3515438
 }

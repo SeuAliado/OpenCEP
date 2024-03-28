@@ -5,5 +5,7 @@
   "bairro": "Setor Mandu II",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.25161,
+  "lon": -47.9312527
 }

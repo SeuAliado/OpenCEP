@@ -5,5 +5,7 @@
   "bairro": "Jardim Arco Íris",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -13.4570472,
+  "lon": -56.7279154
 }

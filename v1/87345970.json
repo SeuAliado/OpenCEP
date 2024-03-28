@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campina da Lagoa",
   "uf": "PR",
-  "ibge": "4103909"
+  "ibge": "4103909",
+  "lat": -24.5938036,
+  "lon": -52.8075827
 }

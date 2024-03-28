@@ -5,5 +5,7 @@
   "bairro": "Jardim Liberdade",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4433507,
+  "lon": -54.653664
 }

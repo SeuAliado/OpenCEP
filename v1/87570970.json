@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Francisco Alves",
   "uf": "PR",
-  "ibge": "4108320"
+  "ibge": "4108320",
+  "lat": -24.0679192,
+  "lon": -53.8463121
 }

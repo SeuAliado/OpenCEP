@@ -5,5 +5,7 @@
   "bairro": "Loteamento Recreio Juqueriquerê",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6937647,
+  "lon": -45.4406636
 }

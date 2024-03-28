@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quixeré",
   "uf": "CE",
-  "ibge": "2311504"
+  "ibge": "2311504",
+  "lat": -5.1013386,
+  "lon": -37.8512309
 }

@@ -5,5 +5,7 @@
   "bairro": "Junco",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -7.0822015,
+  "lon": -41.429515
 }

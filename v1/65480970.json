@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arari",
   "uf": "MA",
-  "ibge": "2101004"
+  "ibge": "2101004",
+  "lat": -3.4515492,
+  "lon": -44.7807793
 }

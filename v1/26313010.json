@@ -5,5 +5,7 @@
   "bairro": "Jardim Magnólia",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7282744,
+  "lon": -43.5658159
 }

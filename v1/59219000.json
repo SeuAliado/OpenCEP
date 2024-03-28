@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejinho",
   "uf": "RN",
-  "ibge": "2401800"
+  "ibge": "2401800",
+  "lat": -6.2253084,
+  "lon": -35.4014708
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Areal",
   "uf": "RJ",
-  "ibge": "3300225"
+  "ibge": "3300225",
+  "lat": -22.2318862,
+  "lon": -43.1141413
 }

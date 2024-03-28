@@ -5,5 +5,7 @@
   "bairro": "Setor Oeste (Vila Estrutural)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7791298,
+  "lon": -47.9947302
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9699076,
+  "lon": -44.0495101
 }

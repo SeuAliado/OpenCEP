@@ -5,5 +5,7 @@
   "bairro": "Vila Carmelina Gonçalves",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6406932,
+  "lon": -46.7977844
 }

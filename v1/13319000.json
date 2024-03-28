@@ -5,5 +5,7 @@
   "bairro": "Bom Fim do Bom Jesus",
   "localidade": "Cabreúva",
   "uf": "SP",
-  "ibge": "3508405"
+  "ibge": "3508405",
+  "lat": -23.2883833,
+  "lon": -47.0569211
 }

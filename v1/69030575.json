@@ -5,5 +5,7 @@
   "bairro": "Vila da Prata",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.1060824,
+  "lon": -60.0493663
 }

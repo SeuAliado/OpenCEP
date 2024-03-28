@@ -5,5 +5,7 @@
   "bairro": "Jardim Sevilha",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9626611,
+  "lon": -46.5294432
 }

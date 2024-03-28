@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5478788,
+  "lon": -44.2477278
 }

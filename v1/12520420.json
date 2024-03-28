@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7961863,
+  "lon": -45.1787849
 }

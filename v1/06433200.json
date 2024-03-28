@@ -5,5 +5,7 @@
   "bairro": "Jardim Alberto/Silveira",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5211916,
+  "lon": -46.8905731
 }

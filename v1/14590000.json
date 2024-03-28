@@ -5,5 +5,7 @@
   "bairro": "Pioneiros",
   "localidade": "Guará",
   "uf": "SP",
-  "ibge": "3517703"
+  "ibge": "3517703",
+  "lat": -20.5078225,
+  "lon": -47.8327059
 }

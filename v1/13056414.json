@@ -5,5 +5,7 @@
   "bairro": "Parque Dom Pedro II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9760286,
+  "lon": -47.1493573
 }

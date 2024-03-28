@@ -5,5 +5,7 @@
   "bairro": "Indaiá",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.868158,
+  "lon": -43.9525206
 }

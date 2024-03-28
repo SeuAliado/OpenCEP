@@ -5,5 +5,7 @@
   "bairro": "Gato Preto",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7565918,
+  "lon": -38.2223707
 }

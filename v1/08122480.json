@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Amélia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5014061,
+  "lon": -46.3750112
 }

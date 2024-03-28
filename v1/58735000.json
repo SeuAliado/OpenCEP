@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teixeira",
   "uf": "PB",
-  "ibge": "2516706"
+  "ibge": "2516706",
+  "lat": -7.2212062,
+  "lon": -37.2523026
 }

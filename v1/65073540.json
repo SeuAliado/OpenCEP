@@ -5,5 +5,7 @@
   "bairro": "Recanto Fialho",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5073537,
+  "lon": -44.2433061
 }

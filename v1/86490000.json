@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeirão do Pinhal",
   "uf": "PR",
-  "ibge": "4121901"
+  "ibge": "4121901",
+  "lat": -23.4050471,
+  "lon": -50.3569012
 }

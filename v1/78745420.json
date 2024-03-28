@@ -5,5 +5,7 @@
   "bairro": "Vila Goulart",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.488525,
+  "lon": -54.6407864
 }

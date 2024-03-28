@@ -5,5 +5,7 @@
   "bairro": "Vila Mariza",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.7954336,
+  "lon": -50.279346
 }

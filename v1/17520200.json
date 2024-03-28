@@ -5,5 +5,7 @@
   "bairro": "Parque São Jorge",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2362905,
+  "lon": -49.9255595
 }

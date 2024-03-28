@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ministro Andreazza",
   "uf": "RO",
-  "ibge": "1101203"
+  "ibge": "1101203",
+  "lat": -11.2025147,
+  "lon": -61.5175885
 }

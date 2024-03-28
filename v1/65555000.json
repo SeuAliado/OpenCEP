@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Maranhão",
   "uf": "MA",
-  "ibge": "2110237"
+  "ibge": "2110237",
+  "lat": -3.1145207,
+  "lon": -42.412604
 }

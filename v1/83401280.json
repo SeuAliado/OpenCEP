@@ -5,5 +5,7 @@
   "bairro": "Arruda",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3159643,
+  "lon": -49.2345157
 }

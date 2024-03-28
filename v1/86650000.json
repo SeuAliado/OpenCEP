@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Inácio",
   "uf": "PR",
-  "ibge": "4124509"
+  "ibge": "4124509",
+  "lat": -22.6961391,
+  "lon": -51.7974221
 }

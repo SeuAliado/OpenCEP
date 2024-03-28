@@ -5,5 +5,7 @@
   "bairro": "Caluge",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7581685,
+  "lon": -42.8947079
 }

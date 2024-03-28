@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canaã dos Carajás",
   "uf": "PA",
-  "ibge": "1502152"
+  "ibge": "1502152",
+  "lat": -6.5320872,
+  "lon": -49.8512188
 }

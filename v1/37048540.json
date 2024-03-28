@@ -5,5 +5,7 @@
   "bairro": "Vila do Pontal",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5656773,
+  "lon": -45.427275
 }

@@ -5,5 +5,7 @@
   "bairro": "Amaral",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "lat": -20.2670521,
+  "lon": -44.3072841
 }

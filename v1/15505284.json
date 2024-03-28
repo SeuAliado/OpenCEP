@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Portal do Sol",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4278549,
+  "lon": -49.9477533
 }

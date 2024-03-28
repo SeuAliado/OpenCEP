@@ -5,5 +5,7 @@
   "bairro": "Vila Residencial Isabela",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5606846,
+  "lon": -51.4264532
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Ponte Alta",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.3963671,
+  "lon": -46.4250909
 }

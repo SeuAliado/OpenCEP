@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boninal",
   "uf": "BA",
-  "ibge": "2904001"
+  "ibge": "2904001",
+  "lat": -12.8231347,
+  "lon": -41.7208243
 }

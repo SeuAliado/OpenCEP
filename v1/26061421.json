@@ -5,5 +5,7 @@
   "bairro": "Vila Gaúcha",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6990144,
+  "lon": -43.4190835
 }

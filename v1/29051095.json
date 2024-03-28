@@ -5,5 +5,7 @@
   "bairro": "Ilha de Santa Maria",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.3149306,
+  "lon": -40.3168943
 }

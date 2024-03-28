@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Carvalho de Moura",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9558333,
+  "lon": -47.078874
 }

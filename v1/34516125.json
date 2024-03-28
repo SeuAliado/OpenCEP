@@ -5,5 +5,7 @@
   "bairro": "Mangueiras",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8731836,
+  "lon": -43.7917556
 }

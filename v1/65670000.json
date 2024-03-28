@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraibano",
   "uf": "MA",
-  "ibge": "2107704"
+  "ibge": "2107704",
+  "lat": -6.4267997,
+  "lon": -43.9796343
 }

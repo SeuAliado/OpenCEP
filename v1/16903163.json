@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Belmiro Brunello",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9065266,
+  "lon": -51.3945126
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Boa Vista",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5035235,
+  "lon": -46.307233
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Mira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6514569,
+  "lon": -46.6504295
 }

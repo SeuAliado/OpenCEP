@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosinha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4373993,
+  "lon": -46.8036127
 }

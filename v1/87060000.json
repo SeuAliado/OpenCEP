@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Inocente Vila Nova Júnior",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4480341,
+  "lon": -51.9545865
 }

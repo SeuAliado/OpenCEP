@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão Corrente",
   "uf": "SP",
-  "ibge": "3543105"
+  "ibge": "3543105",
+  "lat": -23.664101,
+  "lon": -46.4651
 }

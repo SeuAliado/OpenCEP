@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.5007347,
+  "lon": -42.6327862
 }

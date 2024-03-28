@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cabrobó",
   "uf": "PE",
-  "ibge": "2603009"
+  "ibge": "2603009",
+  "lat": -8.455768,
+  "lon": -39.4035876
 }

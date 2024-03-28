@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joca Marques",
   "uf": "PI",
-  "ibge": "2205458"
+  "ibge": "2205458",
+  "lat": -3.5400957,
+  "lon": -42.4135036
 }

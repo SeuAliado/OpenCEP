@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vida Nova",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9767883,
+  "lon": -47.172923
 }

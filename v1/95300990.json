@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa Vermelha",
   "uf": "RS",
-  "ibge": "4311304"
+  "ibge": "4311304",
+  "lat": -28.2045947,
+  "lon": -51.5310396
 }

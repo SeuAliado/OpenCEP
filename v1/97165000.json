@@ -5,5 +5,7 @@
   "bairro": "Arroio do Só",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.7599288,
+  "lon": -53.5549452
 }

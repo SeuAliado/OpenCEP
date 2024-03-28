@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serra da Raiz",
   "uf": "PB",
-  "ibge": "2515609"
+  "ibge": "2515609",
+  "lat": -6.6868943,
+  "lon": -35.4436084
 }

@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.921849,
+  "lon": -43.901753
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rafael Jambeiro",
   "uf": "BA",
-  "ibge": "2925956"
+  "ibge": "2925956",
+  "lat": -12.4705207,
+  "lon": -39.6105142
 }

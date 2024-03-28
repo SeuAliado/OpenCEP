@@ -5,5 +5,7 @@
   "bairro": "Barro Preto",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9180772,
+  "lon": -43.937031
 }

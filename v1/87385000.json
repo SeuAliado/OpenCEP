@@ -5,5 +5,7 @@
   "bairro": "Arapuan",
   "localidade": "Janiópolis",
   "uf": "PR",
-  "ibge": "4112207"
+  "ibge": "4112207",
+  "lat": -24.2559928,
+  "lon": -52.8513997
 }

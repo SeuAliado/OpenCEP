@@ -5,5 +5,7 @@
   "bairro": "Chácara Iracema",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6846639,
+  "lon": -49.7260932
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igreja Nova",
   "uf": "AL",
-  "ibge": "2703205"
+  "ibge": "2703205",
+  "lat": -10.0830464,
+  "lon": -36.5661908
 }

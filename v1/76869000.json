@@ -5,5 +5,7 @@
   "bairro": "Tabajara",
   "localidade": "Machadinho D'Oeste",
   "uf": "RO",
-  "ibge": "1100130"
+  "ibge": "1100130",
+  "lat": -8.9106735,
+  "lon": -62.1733828
 }

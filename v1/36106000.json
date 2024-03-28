@@ -5,5 +5,7 @@
   "bairro": "Rosário de Minas",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7696207,
+  "lon": -43.3517045
 }

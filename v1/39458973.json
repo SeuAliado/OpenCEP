@@ -5,5 +5,7 @@
   "bairro": "Cachoeirinha",
   "localidade": "Verdelândia",
   "uf": "MG",
-  "ibge": "3171030"
+  "ibge": "3171030",
+  "lat": -15.5914849,
+  "lon": -43.6096267
 }

@@ -5,5 +5,7 @@
   "bairro": "LBA Vila Betel ll",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9795867,
+  "lon": -67.8446432
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Alpina",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.915423,
+  "lon": -51.3698752
 }

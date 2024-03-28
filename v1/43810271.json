@@ -5,5 +5,7 @@
   "bairro": "Pitanga",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -12.6641991,
+  "lon": -38.5440854
 }

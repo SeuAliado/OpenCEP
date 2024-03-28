@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade de Florianópolis",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5705973,
+  "lon": -48.6290423
 }

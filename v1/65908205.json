@@ -5,5 +5,7 @@
   "bairro": "Vila Zenira",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.4864081,
+  "lon": -47.4540539
 }

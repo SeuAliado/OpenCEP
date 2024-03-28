@@ -5,5 +5,7 @@
   "bairro": "Granja Rosalina",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7154583,
+  "lon": -43.5852937
 }

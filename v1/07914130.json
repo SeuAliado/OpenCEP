@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Sucesso",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2830847,
+  "lon": -46.7564113
 }

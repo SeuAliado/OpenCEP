@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Ana",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.6141382,
+  "lon": -47.0070991
 }

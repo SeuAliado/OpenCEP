@@ -5,5 +5,7 @@
   "bairro": "Cristina Vontobel",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -28.307226,
+  "lon": -54.2579203
 }

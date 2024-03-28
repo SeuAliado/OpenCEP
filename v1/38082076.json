@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7431305,
+  "lon": -47.9026083
 }

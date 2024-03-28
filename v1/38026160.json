@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora Aparecida",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7618655,
+  "lon": -47.9214402
 }

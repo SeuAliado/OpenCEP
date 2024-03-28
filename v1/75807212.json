@@ -5,5 +5,7 @@
   "bairro": "Setor Jacutinga",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8707467,
+  "lon": -51.6975676
 }

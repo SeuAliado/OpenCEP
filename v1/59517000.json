@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fernando Pedroza",
   "uf": "RN",
-  "ibge": "2403756"
+  "ibge": "2403756",
+  "lat": -5.6967568,
+  "lon": -36.5310843
 }

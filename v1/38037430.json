@@ -5,5 +5,7 @@
   "bairro": "Jardim Metrópole",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7794167,
+  "lon": -47.9194427
 }

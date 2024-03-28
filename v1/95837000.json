@@ -5,5 +5,7 @@
   "bairro": "Sampaio",
   "localidade": "Mato Leitão",
   "uf": "RS",
-  "ibge": "4312153"
+  "ibge": "4312153",
+  "lat": -29.4827975,
+  "lon": -52.1498324
 }

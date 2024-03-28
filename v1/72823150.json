@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília Sul",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.249374,
+  "lon": -47.8954649
 }

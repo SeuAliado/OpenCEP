@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Bárbara",
   "uf": "MG",
-  "ibge": "3157203"
+  "ibge": "3157203",
+  "lat": -19.9606127,
+  "lon": -43.4086121
 }

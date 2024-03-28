@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiro",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3872998,
+  "lon": -46.2980948
 }

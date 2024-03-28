@@ -5,5 +5,7 @@
   "bairro": "Imbaú",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "lat": -22.6190806,
+  "lon": -42.4738084
 }

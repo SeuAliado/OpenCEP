@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jeremoabo",
   "uf": "BA",
-  "ibge": "2918100"
+  "ibge": "2918100",
+  "lat": -10.0689082,
+  "lon": -38.3474442
 }

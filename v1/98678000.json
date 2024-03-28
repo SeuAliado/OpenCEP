@@ -5,5 +5,7 @@
   "bairro": "Monte Belo",
   "localidade": "Sede Nova",
   "uf": "RS",
-  "ibge": "4320230"
+  "ibge": "4320230",
+  "lat": -27.5758301,
+  "lon": -53.9690809
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1238881,
+  "lon": -45.0082907
 }

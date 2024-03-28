@@ -5,5 +5,7 @@
   "bairro": "Alto do Alencar",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.436545,
+  "lon": -40.4956037
 }

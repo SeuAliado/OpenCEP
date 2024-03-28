@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Aeroporto",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6078443,
+  "lon": -47.4156463
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Venécia",
   "uf": "ES",
-  "ibge": "3203908"
+  "ibge": "3203908",
+  "lat": -18.7123745,
+  "lon": -40.6485339
 }

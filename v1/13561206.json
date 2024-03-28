@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Mônica",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0123251,
+  "lon": -47.8973329
 }

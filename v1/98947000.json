@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Mauá",
   "uf": "RS",
-  "ibge": "4315057"
+  "ibge": "4315057",
+  "lat": -27.5800591,
+  "lon": -54.6662658
 }

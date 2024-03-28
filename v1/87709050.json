@@ -5,5 +5,7 @@
   "bairro": "Vila City",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0830864,
+  "lon": -52.4785161
 }

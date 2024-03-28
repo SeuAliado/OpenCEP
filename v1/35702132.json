@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.486166,
+  "lon": -44.2734827
 }

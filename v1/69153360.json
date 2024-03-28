@@ -5,5 +5,7 @@
   "bairro": "Emílio Moreira",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6373992,
+  "lon": -56.74007
 }

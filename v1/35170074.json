@@ -5,5 +5,7 @@
   "bairro": "Todos os Santos",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5189794,
+  "lon": -42.6144931
 }

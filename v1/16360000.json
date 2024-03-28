@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Avanhandava",
   "uf": "SP",
-  "ibge": "3504404"
+  "ibge": "3504404",
+  "lat": -21.4616744,
+  "lon": -49.9481578
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4580063,
+  "lon": -54.642719
 }

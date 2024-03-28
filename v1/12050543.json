@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Isabel",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0153342,
+  "lon": -45.5708734
 }

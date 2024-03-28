@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Feliz Natal",
   "uf": "MT",
-  "ibge": "5103700"
+  "ibge": "5103700",
+  "lat": -11.7814177,
+  "lon": -53.9106594
 }

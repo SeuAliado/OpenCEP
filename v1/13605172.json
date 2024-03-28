@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3422114,
+  "lon": -47.3697647
 }

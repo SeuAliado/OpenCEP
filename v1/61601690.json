@@ -5,5 +5,7 @@
   "bairro": "Curicaca",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.7158631,
+  "lon": -38.662356
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cruzeiro do Oeste",
   "uf": "PR",
-  "ibge": "4106605"
+  "ibge": "4106605",
+  "lat": -23.7834562,
+  "lon": -53.0762805
 }

@@ -5,5 +5,7 @@
   "bairro": "Jaguaré",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -20.7873842,
+  "lon": -49.3460312
 }

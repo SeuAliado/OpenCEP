@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juscimeira",
   "uf": "MT",
-  "ibge": "5105200"
+  "ibge": "5105200",
+  "lat": -16.0514298,
+  "lon": -54.8858164
 }

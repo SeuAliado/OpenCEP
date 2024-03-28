@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7743092,
+  "lon": -47.1500271
 }

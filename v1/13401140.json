@@ -5,5 +5,7 @@
   "bairro": "Paulista",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7381076,
+  "lon": -47.6600654
 }

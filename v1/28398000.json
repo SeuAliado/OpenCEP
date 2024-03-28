@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Porciúncula",
   "uf": "RJ",
-  "ibge": "3304102"
+  "ibge": "3304102",
+  "lat": -20.8215337,
+  "lon": -41.9107286
 }

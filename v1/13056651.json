@@ -5,5 +5,7 @@
   "bairro": "Jardim Shangai",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9646331,
+  "lon": -47.1418402
 }

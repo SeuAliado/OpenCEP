@@ -5,5 +5,7 @@
   "bairro": "Frei Higino",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9115266,
+  "lon": -41.7526909
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque da Vila Prudente",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5867735,
+  "lon": -46.5759116
 }

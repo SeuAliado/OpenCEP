@@ -5,5 +5,7 @@
   "bairro": "Chácara Flora",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2954072,
+  "lon": -48.5787226
 }

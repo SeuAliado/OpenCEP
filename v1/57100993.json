@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Largo",
   "uf": "AL",
-  "ibge": "2707701"
+  "ibge": "2707701",
+  "lat": -14.2036942,
+  "lon": -41.6760089
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque São Francisco",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5554627,
+  "lon": -46.3853018
 }

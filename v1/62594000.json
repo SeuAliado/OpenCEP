@@ -5,5 +5,7 @@
   "bairro": "Carvoeiro",
   "localidade": "Itarema",
   "uf": "CE",
-  "ibge": "2306553"
+  "ibge": "2306553",
+  "lat": -3.1841044,
+  "lon": -39.9903655
 }

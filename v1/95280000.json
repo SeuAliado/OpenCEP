@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José dos Ausentes",
   "uf": "RS",
-  "ibge": "4318622"
+  "ibge": "4318622",
+  "lat": -28.748844,
+  "lon": -50.0653313
 }

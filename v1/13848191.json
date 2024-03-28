@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3342831,
+  "lon": -46.933242
 }

@@ -5,5 +5,7 @@
   "bairro": "Barequeçaba",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.8214317,
+  "lon": -45.4406721
 }

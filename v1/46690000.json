@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Abaíra",
   "uf": "BA",
-  "ibge": "2900108"
+  "ibge": "2900108",
+  "lat": -13.249276,
+  "lon": -41.662249
 }

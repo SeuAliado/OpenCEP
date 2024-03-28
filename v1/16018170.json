@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Yorque",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.223121,
+  "lon": -50.4494025
 }

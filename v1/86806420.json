@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Zona Norte",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.520792,
+  "lon": -51.4357577
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pirajussara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6291447,
+  "lon": -46.7639284
 }

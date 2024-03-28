@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jardim Por do Sol",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5420441,
+  "lon": -51.4644485
 }

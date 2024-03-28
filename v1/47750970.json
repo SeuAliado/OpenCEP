@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejolândia",
   "uf": "BA",
-  "ibge": "2904407"
+  "ibge": "2904407",
+  "lat": -12.4857903,
+  "lon": -43.9611413
 }

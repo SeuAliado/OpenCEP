@@ -5,5 +5,7 @@
   "bairro": "Araquém",
   "localidade": "Coreaú",
   "uf": "CE",
-  "ibge": "2304004"
+  "ibge": "2304004",
+  "lat": -3.5948919,
+  "lon": -40.8167789
 }

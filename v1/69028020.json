@@ -5,5 +5,7 @@
   "bairro": "Flores",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.0526457,
+  "lon": -60.0057422
 }

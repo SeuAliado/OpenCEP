@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.0938585,
+  "lon": -42.4332754
 }

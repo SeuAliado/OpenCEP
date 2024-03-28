@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7799189,
+  "lon": -55.8092884
 }

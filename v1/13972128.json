@@ -5,5 +5,7 @@
   "bairro": "Vila Ilze",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4290288,
+  "lon": -46.815357
 }

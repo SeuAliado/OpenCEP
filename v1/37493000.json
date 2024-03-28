@@ -5,5 +5,7 @@
   "bairro": "Ferreiras",
   "localidade": "São Gonçalo do Sapucaí",
   "uf": "MG",
-  "ibge": "3162005"
+  "ibge": "3162005",
+  "lat": -21.9000656,
+  "lon": -45.5931259
 }

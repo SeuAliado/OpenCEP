@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caldazinha",
   "uf": "GO",
-  "ibge": "5204557"
+  "ibge": "5204557",
+  "lat": -16.7327461,
+  "lon": -48.9404364
 }

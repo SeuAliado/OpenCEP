@@ -5,5 +5,7 @@
   "bairro": "Granja do Torto",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6963098,
+  "lon": -47.9165319
 }

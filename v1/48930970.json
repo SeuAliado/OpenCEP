@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Curaçá",
   "uf": "BA",
-  "ibge": "2909901"
+  "ibge": "2909901",
+  "lat": -8.9894198,
+  "lon": -39.9081132
 }

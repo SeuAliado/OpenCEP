@@ -5,5 +5,7 @@
   "bairro": "Jardim Belo Horizonte",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4460063,
+  "lon": -54.6165353
 }

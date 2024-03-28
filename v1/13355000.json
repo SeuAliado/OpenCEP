@@ -5,5 +5,7 @@
   "bairro": "Cardeal",
   "localidade": "Elias Fausto",
   "uf": "SP",
-  "ibge": "3514908"
+  "ibge": "3514908",
+  "lat": -23.0568918,
+  "lon": -47.3104937
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8885905,
+  "lon": -45.3788503
 }

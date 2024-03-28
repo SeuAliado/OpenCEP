@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guamaré",
   "uf": "RN",
-  "ibge": "2404507"
+  "ibge": "2404507",
+  "lat": -5.1098537,
+  "lon": -36.324054
 }

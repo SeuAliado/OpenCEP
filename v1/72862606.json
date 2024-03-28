@@ -5,5 +5,7 @@
   "bairro": "Loteamento Lunabel 3C",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.083061,
+  "lon": -48.0663422
 }

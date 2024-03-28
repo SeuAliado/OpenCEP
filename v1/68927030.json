@@ -5,5 +5,7 @@
   "bairro": "Remedios",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -0.0567651,
+  "lon": -51.1785382
 }

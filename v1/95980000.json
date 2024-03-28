@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anta Gorda",
   "uf": "RS",
-  "ibge": "4300703"
+  "ibge": "4300703",
+  "lat": -28.9832106,
+  "lon": -52.0003599
 }

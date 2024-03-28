@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Penha",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3571954,
+  "lon": -40.3217948
 }

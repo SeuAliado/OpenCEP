@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional João Batista Botelho",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.2096585,
+  "lon": -50.4061727
 }

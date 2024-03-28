@@ -5,5 +5,7 @@
   "bairro": "Vale Verde de Minas",
   "localidade": "Ipaba",
   "uf": "MG",
-  "ibge": "3131158"
+  "ibge": "3131158",
+  "lat": -19.5852625,
+  "lon": -42.6383318
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3187065,
+  "lon": -49.0772914
 }

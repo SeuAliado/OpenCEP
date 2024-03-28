@@ -5,5 +5,7 @@
   "bairro": "Dom Giocondo",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0084241,
+  "lon": -67.8291727
 }

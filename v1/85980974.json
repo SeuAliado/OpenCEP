@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaíra",
   "uf": "PR",
-  "ibge": "4108809"
+  "ibge": "4108809",
+  "lat": -25.9198847,
+  "lon": -53.4745702
 }

@@ -5,5 +5,7 @@
   "bairro": "Plataforma",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8897383,
+  "lon": -38.4790858
 }

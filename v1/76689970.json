@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Itapuranga",
   "uf": "GO",
-  "ibge": "5211206"
+  "ibge": "5211206",
+  "lat": -15.5515302,
+  "lon": -49.9411544
 }

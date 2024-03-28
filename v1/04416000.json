@@ -5,5 +5,7 @@
   "bairro": "Jardim Vilas Boas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6772041,
+  "lon": -46.6389439
 }

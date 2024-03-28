@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carmo da Cachoeira",
   "uf": "MG",
-  "ibge": "3113909"
+  "ibge": "3113909",
+  "lat": -21.4612439,
+  "lon": -45.2202356
 }

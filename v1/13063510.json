@@ -5,5 +5,7 @@
   "bairro": "Jardim Eulina",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8941351,
+  "lon": -47.1038279
 }

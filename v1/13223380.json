@@ -5,5 +5,7 @@
   "bairro": "Jardim das Acácias",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2135465,
+  "lon": -46.8073492
 }

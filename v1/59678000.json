@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tibau",
   "uf": "RN",
-  "ibge": "2411056"
+  "ibge": "2411056",
+  "lat": -4.8376808,
+  "lon": -37.2556915
 }

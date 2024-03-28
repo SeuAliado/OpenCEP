@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Muritiba",
   "uf": "BA",
-  "ibge": "2922300"
+  "ibge": "2922300",
+  "lat": -12.6333466,
+  "lon": -38.992408
 }

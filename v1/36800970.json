@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carangola",
   "uf": "MG",
-  "ibge": "3113305"
+  "ibge": "3113305",
+  "lat": -20.7352539,
+  "lon": -42.0304805
 }

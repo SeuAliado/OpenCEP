@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arroio Grande",
   "uf": "RS",
-  "ibge": "4301305"
+  "ibge": "4301305",
+  "lat": -32.2331559,
+  "lon": -53.0866944
 }

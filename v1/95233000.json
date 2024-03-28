@@ -5,5 +5,7 @@
   "bairro": "Morro Grande",
   "localidade": "Muitos Capões",
   "uf": "RS",
-  "ibge": "4312617"
+  "ibge": "4312617",
+  "lat": -28.5477213,
+  "lon": -51.2546061
 }

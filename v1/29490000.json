@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Atílio Vivácqua",
   "uf": "ES",
-  "ibge": "3200706"
+  "ibge": "3200706",
+  "lat": -20.9170915,
+  "lon": -41.1953222
 }

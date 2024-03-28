@@ -5,5 +5,7 @@
   "bairro": "Vila Pompéia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5389125,
+  "lon": -46.6839615
 }

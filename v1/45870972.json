@@ -5,5 +5,7 @@
   "bairro": "Teixeira do Progresso",
   "localidade": "Mascote",
   "uf": "BA",
-  "ibge": "2920908"
+  "ibge": "2920908",
+  "lat": -15.7237363,
+  "lon": -39.458836
 }

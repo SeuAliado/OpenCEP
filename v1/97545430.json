@@ -5,5 +5,7 @@
   "bairro": "Piola",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8142076,
+  "lon": -55.8079678
 }

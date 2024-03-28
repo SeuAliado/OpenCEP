@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeira do Amparo",
   "uf": "BA",
-  "ibge": "2926509"
+  "ibge": "2926509",
+  "lat": -10.8342511,
+  "lon": -38.2935724
 }

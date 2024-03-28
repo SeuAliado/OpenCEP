@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidente Dutra",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5750405,
+  "lon": -47.3769637
 }

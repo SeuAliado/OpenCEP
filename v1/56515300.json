@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "lat": -8.4164197,
+  "lon": -37.0437046
 }

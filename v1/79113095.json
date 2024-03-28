@@ -5,5 +5,7 @@
   "bairro": "Portal do Panamá",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.438761,
+  "lon": -54.6698198
 }

@@ -5,5 +5,7 @@
   "bairro": "Catuné",
   "localidade": "Tombos",
   "uf": "MG",
-  "ibge": "3169208"
+  "ibge": "3169208",
+  "lat": -20.9210459,
+  "lon": -42.1473178
 }

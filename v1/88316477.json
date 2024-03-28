@@ -5,5 +5,7 @@
   "bairro": "Itaipava",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -26.948523,
+  "lon": -48.7377269
 }

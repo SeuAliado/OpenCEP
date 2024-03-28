@@ -5,5 +5,7 @@
   "bairro": "Vila Julio Cesar",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4873839,
+  "lon": -46.6947294
 }

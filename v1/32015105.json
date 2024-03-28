@@ -5,5 +5,7 @@
   "bairro": "Vila Belém",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.913901,
+  "lon": -44.0827085
 }

@@ -5,5 +5,7 @@
   "bairro": "Real",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.065273,
+  "lon": -46.5618883
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Maranata",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7758984,
+  "lon": -50.9095191
 }

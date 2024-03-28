@@ -5,5 +5,7 @@
   "bairro": "Botafogo",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.178986,
+  "lon": -51.506598
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Carvalho",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0598243,
+  "lon": -51.1453222
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itabela",
   "uf": "BA",
-  "ibge": "2914653"
+  "ibge": "2914653",
+  "lat": -16.5739806,
+  "lon": -39.5588635
 }

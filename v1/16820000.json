@@ -5,5 +5,7 @@
   "bairro": "Amandaba",
   "localidade": "Mirandópolis",
   "uf": "SP",
-  "ibge": "3530102"
+  "ibge": "3530102",
+  "lat": -21.1002194,
+  "lon": -51.1625059
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila das Palmeiras",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4709014,
+  "lon": -46.5216553
 }

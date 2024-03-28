@@ -5,5 +5,7 @@
   "bairro": "Jardim Barbosa",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4662345,
+  "lon": -46.5236492
 }

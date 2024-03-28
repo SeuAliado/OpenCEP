@@ -5,5 +5,7 @@
   "bairro": "Sapucaia II",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9166938,
+  "lon": -44.1299275
 }

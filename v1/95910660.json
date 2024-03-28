@@ -5,5 +5,7 @@
   "bairro": "Igrejinha",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.425689,
+  "lon": -51.9926925
 }

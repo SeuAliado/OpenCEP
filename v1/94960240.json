@@ -5,5 +5,7 @@
   "bairro": "Parque Granja Esperança",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.900915,
+  "lon": -51.0766758
 }

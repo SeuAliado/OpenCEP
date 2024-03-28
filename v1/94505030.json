@@ -5,5 +5,7 @@
   "bairro": "Lomba do Pinheiro",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.1382493,
+  "lon": -51.0766679
 }

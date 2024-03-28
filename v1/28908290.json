@@ -5,5 +5,7 @@
   "bairro": "Juscelino Kubitschek de Oliveira",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.8974911,
+  "lon": -42.0397762
 }

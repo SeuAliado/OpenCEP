@@ -5,5 +5,7 @@
   "bairro": "Distrito Salobro",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "lat": -8.3515829,
+  "lon": -36.6805609
 }

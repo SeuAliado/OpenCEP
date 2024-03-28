@@ -5,5 +5,7 @@
   "bairro": "Jardim Paiva",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.0761609,
+  "lon": -48.0553069
 }

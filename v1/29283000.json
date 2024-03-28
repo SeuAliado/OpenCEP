@@ -5,5 +5,7 @@
   "bairro": "Duas Barras",
   "localidade": "Iconha",
   "uf": "ES",
-  "ibge": "3202603"
+  "ibge": "3202603",
+  "lat": -20.7276646,
+  "lon": -40.8879785
 }

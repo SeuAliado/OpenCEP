@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Butiá",
   "uf": "RS",
-  "ibge": "4302709"
+  "ibge": "4302709",
+  "lat": -30.1188081,
+  "lon": -51.9669609
 }

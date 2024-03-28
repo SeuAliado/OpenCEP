@@ -5,5 +5,7 @@
   "bairro": "Stiep",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.987775,
+  "lon": -38.4467926
 }

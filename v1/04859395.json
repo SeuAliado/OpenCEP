@@ -5,5 +5,7 @@
   "bairro": "Chácara do Conde",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.9425721,
+  "lon": -47.1740571
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro (Marechal Bormann)",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1570669,
+  "lon": -52.6126772
 }

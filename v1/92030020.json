@@ -5,5 +5,7 @@
   "bairro": "Estância Velha",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "lat": -29.9265882,
+  "lon": -51.1351956
 }

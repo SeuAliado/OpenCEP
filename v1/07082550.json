@@ -5,5 +5,7 @@
   "bairro": "Jardim City",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.430178,
+  "lon": -46.5406806
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Márcia",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.9524435,
+  "lon": -51.1085136
 }

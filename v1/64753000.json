@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Betânia do Piauí",
   "uf": "PI",
-  "ibge": "2201739"
+  "ibge": "2201739",
+  "lat": -8.1441727,
+  "lon": -40.7992764
 }

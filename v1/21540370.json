@@ -5,5 +5,7 @@
   "bairro": "Rocha Miranda",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.857039,
+  "lon": -43.3448379
 }

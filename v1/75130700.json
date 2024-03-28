@@ -5,5 +5,7 @@
   "bairro": "Polocentro 2ª Etapa",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.37524,
+  "lon": -48.9695565
 }

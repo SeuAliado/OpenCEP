@@ -5,5 +5,7 @@
   "bairro": "Jardim Miramar",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5387824,
+  "lon": -41.9873637
 }

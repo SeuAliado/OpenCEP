@@ -5,5 +5,7 @@
   "bairro": "Sítio Portal Vila Rica",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1391084,
+  "lon": -45.7300274
 }

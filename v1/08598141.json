@@ -5,5 +5,7 @@
   "bairro": "Jardim Odete",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4667951,
+  "lon": -46.3277376
 }

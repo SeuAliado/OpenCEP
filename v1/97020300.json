@@ -5,5 +5,7 @@
   "bairro": "Noal",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.6907962,
+  "lon": -53.8220096
 }

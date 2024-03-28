@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaberaí",
   "uf": "GO",
-  "ibge": "5210406"
+  "ibge": "5210406",
+  "lat": -16.0222492,
+  "lon": -49.8004866
 }

@@ -5,5 +5,7 @@
   "bairro": "Largo",
   "localidade": "Piritiba",
   "uf": "BA",
-  "ibge": "2924801"
+  "ibge": "2924801",
+  "lat": -11.7275684,
+  "lon": -40.5530916
 }

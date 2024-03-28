@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Franco",
   "uf": "MA",
-  "ibge": "2109007"
+  "ibge": "2109007",
+  "lat": -6.3413816,
+  "lon": -47.1752123
 }

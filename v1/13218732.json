@@ -5,5 +5,7 @@
   "bairro": "Terras de Santa Cruz",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1605367,
+  "lon": -46.7885651
 }

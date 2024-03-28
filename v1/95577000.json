@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morrinhos do Sul",
   "uf": "RS",
-  "ibge": "4312443"
+  "ibge": "4312443",
+  "lat": -29.3582594,
+  "lon": -49.933314
 }

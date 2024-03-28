@@ -5,5 +5,7 @@
   "bairro": "Santa Rita (Cachoeira do Vale)",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5430873,
+  "lon": -42.6817185
 }

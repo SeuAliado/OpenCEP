@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Catarina",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2940414,
+  "lon": -46.7286405
 }

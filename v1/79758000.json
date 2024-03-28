@@ -5,5 +5,7 @@
   "bairro": "Nova Casa Verde",
   "localidade": "Nova Andradina",
   "uf": "MS",
-  "ibge": "5006200"
+  "ibge": "5006200",
+  "lat": -21.7628266,
+  "lon": -53.272553
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Fino",
   "uf": "MG",
-  "ibge": "3146008"
+  "ibge": "3146008",
+  "lat": -22.3065821,
+  "lon": -46.3967275
 }

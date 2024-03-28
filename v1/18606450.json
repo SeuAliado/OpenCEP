@@ -5,5 +5,7 @@
   "bairro": "Parque Marajoara",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9143591,
+  "lon": -48.457857
 }

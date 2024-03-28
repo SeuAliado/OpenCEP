@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Novo do Sul",
   "uf": "ES",
-  "ibge": "3204401"
+  "ibge": "3204401",
+  "lat": -20.865751,
+  "lon": -40.9396333
 }

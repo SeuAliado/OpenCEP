@@ -5,5 +5,7 @@
   "bairro": "Três Marias",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7769628,
+  "lon": -63.8574805
 }

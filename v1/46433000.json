@@ -5,5 +5,7 @@
   "bairro": "Ceraima",
   "localidade": "Guanambi",
   "uf": "BA",
-  "ibge": "2911709"
+  "ibge": "2911709",
+  "lat": -14.280698,
+  "lon": -42.6909184
 }

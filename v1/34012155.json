@@ -5,5 +5,7 @@
   "bairro": "Vila do Ouro",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9834891,
+  "lon": -43.865214
 }

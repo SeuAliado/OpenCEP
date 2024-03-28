@@ -5,5 +5,7 @@
   "bairro": "Jardim Cocaia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4406809,
+  "lon": -46.5205782
 }

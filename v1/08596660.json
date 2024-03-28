@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4869532,
+  "lon": -46.3073419
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conceição de Ipanema",
   "uf": "MG",
-  "ibge": "3117405"
+  "ibge": "3117405",
+  "lat": -19.9271992,
+  "lon": -41.6931452
 }

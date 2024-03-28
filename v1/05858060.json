@@ -5,5 +5,7 @@
   "bairro": "Cidade Auxiliadora",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6602646,
+  "lon": -46.7700344
 }

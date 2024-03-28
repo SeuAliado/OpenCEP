@@ -5,5 +5,7 @@
   "bairro": "Olinda",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7457721,
+  "lon": -47.9648773
 }

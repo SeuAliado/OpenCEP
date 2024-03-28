@@ -5,5 +5,7 @@
   "bairro": "Parque das Chácaras",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6696828,
+  "lon": -46.797047
 }

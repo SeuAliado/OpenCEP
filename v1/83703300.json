@@ -5,5 +5,7 @@
   "bairro": "Fazenda Velha",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.580945,
+  "lon": -49.4045072
 }

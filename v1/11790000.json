@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro de Toledo",
   "uf": "SP",
-  "ibge": "3537206"
+  "ibge": "3537206",
+  "lat": -24.2767555,
+  "lon": -47.2336005
 }

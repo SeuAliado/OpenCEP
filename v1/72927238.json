@@ -5,5 +5,7 @@
   "bairro": "Royal Parque",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7583397,
+  "lon": -48.3231589
 }

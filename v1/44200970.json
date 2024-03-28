@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Amaro",
   "uf": "BA",
-  "ibge": "2928604"
+  "ibge": "2928604",
+  "lat": -12.5497425,
+  "lon": -38.7088717
 }

@@ -5,5 +5,7 @@
   "bairro": "Lucilândia",
   "localidade": "Montes Claros de Goiás",
   "uf": "GO",
-  "ibge": "5213707"
+  "ibge": "5213707",
+  "lat": -16.0442892,
+  "lon": -51.2662605
 }

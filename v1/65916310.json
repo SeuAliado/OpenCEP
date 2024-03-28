@@ -5,5 +5,7 @@
   "bairro": "Parque Buriti",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5391663,
+  "lon": -47.4720428
 }

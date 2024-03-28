@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -28.2929507,
+  "lon": -54.2310692
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9357505,
+  "lon": -46.9760379
 }

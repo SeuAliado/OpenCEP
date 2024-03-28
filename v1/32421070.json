@@ -5,5 +5,7 @@
   "bairro": "Bela Vista (Parque Durval de Barros)",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -19.9774093,
+  "lon": -44.0666167
 }

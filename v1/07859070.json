@@ -5,5 +5,7 @@
   "bairro": "Vila Carmela de Túlio",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3302564,
+  "lon": -46.7329634
 }

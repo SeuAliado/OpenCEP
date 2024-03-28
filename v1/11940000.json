@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacupiranga",
   "uf": "SP",
-  "ibge": "3524600"
+  "ibge": "3524600",
+  "lat": -24.7023134,
+  "lon": -48.0076188
 }

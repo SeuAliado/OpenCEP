@@ -5,5 +5,7 @@
   "bairro": "Eduardo Braga II",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1220528,
+  "lon": -58.425983
 }

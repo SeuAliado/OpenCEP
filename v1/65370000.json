@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pindaré Mirim",
   "uf": "MA",
-  "ibge": "2108504"
+  "ibge": "2108504",
+  "lat": -3.6102265,
+  "lon": -45.3423884
 }

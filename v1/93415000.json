@@ -5,5 +5,7 @@
   "bairro": "Rondônia",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.7033071,
+  "lon": -51.1234416
 }

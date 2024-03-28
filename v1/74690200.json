@@ -5,5 +5,7 @@
   "bairro": "Vila Jardim Pompéia",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6123911,
+  "lon": -49.2431857
 }

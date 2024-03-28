@@ -5,5 +5,7 @@
   "bairro": "Vila Miranda",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8254485,
+  "lon": -47.272477
 }

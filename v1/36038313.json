@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7830667,
+  "lon": -43.379336
 }

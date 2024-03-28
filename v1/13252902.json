@@ -5,5 +5,7 @@
   "bairro": "Jardim Leonor",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.9514406,
+  "lon": -46.8187812
 }

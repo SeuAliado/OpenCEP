@@ -5,5 +5,7 @@
   "bairro": "Nova América",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.5240561,
+  "lon": -39.7031667
 }

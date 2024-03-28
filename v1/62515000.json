@@ -5,5 +5,7 @@
   "bairro": "Barrento",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "lat": -3.6053084,
+  "lon": -39.4367559
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Recanto dos Pássaros II",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9547671,
+  "lon": -46.9955049
 }

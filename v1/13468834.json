@@ -5,5 +5,7 @@
   "bairro": "Jardim Terramérica I",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7661378,
+  "lon": -47.3584548
 }

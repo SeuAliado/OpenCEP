@@ -5,5 +5,7 @@
   "bairro": "Setor Recreativo",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.9016042,
+  "lon": -63.018935
 }

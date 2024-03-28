@@ -5,5 +5,7 @@
   "bairro": "Maravilha",
   "localidade": "Custódia",
   "uf": "PE",
-  "ibge": "2605103"
+  "ibge": "2605103",
+  "lat": -8.2757398,
+  "lon": -37.8446974
 }

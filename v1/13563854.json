@@ -5,5 +5,7 @@
   "bairro": "Jardim Embaré",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9896699,
+  "lon": -47.903036
 }

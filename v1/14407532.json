@@ -5,5 +5,7 @@
   "bairro": "Jardim Luiza",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.4898474,
+  "lon": -47.4248666
 }

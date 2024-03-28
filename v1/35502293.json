@@ -5,5 +5,7 @@
   "bairro": "Floramar",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1204466,
+  "lon": -44.8309721
 }

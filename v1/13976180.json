@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora Aparecida",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4280057,
+  "lon": -46.8349762
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Almirante Tamandaré do Sul",
   "uf": "RS",
-  "ibge": "4300471"
+  "ibge": "4300471",
+  "lat": -28.1139253,
+  "lon": -52.911279
 }

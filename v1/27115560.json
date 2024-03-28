@@ -5,5 +5,7 @@
   "bairro": "Arthur Cataldi",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4475432,
+  "lon": -43.797715
 }

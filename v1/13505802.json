@@ -5,5 +5,7 @@
   "bairro": "Parque dos Eucalíptos",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.3668445,
+  "lon": -47.5501485
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vargem Grande",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.602747,
+  "lon": -47.0026236
 }

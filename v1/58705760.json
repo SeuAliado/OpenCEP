@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -5.2585369,
+  "lon": -49.3249009
 }

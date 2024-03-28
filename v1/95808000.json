@@ -5,5 +5,7 @@
   "bairro": "Centro Linha Brasil",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "lat": -29.6071867,
+  "lon": -52.1924934
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.4031963,
+  "lon": -42.6743929
 }

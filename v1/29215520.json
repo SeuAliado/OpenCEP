@@ -5,5 +5,7 @@
   "bairro": "Pontal de Santa Mônica",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6630229,
+  "lon": -40.502892
 }

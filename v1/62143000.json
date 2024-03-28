@@ -5,5 +5,7 @@
   "bairro": "Aiuá",
   "localidade": "Massapê",
   "uf": "CE",
-  "ibge": "2308005"
+  "ibge": "2308005",
+  "lat": -3.472573,
+  "lon": -40.4683932
 }

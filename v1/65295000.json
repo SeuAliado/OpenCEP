@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carutapera",
   "uf": "MA",
-  "ibge": "2102903"
+  "ibge": "2102903",
+  "lat": -1.2902596,
+  "lon": -46.018188
 }

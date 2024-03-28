@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vanini",
   "uf": "RS",
-  "ibge": "4322558"
+  "ibge": "4322558",
+  "lat": -28.4767627,
+  "lon": -51.8461393
 }

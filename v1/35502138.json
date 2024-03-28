@@ -5,5 +5,7 @@
   "bairro": "Serra Verde",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1076913,
+  "lon": -44.9065856
 }

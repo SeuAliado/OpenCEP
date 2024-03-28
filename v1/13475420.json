@@ -5,5 +5,7 @@
   "bairro": "Chácara Lucília",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7064613,
+  "lon": -47.2730421
 }

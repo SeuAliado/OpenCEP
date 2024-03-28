@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Damolândia",
   "uf": "GO",
-  "ibge": "5206800"
+  "ibge": "5206800",
+  "lat": -16.2548218,
+  "lon": -49.363546
 }

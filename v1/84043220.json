@@ -5,5 +5,7 @@
   "bairro": "Colônia Dona Luíza",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "lat": -25.1504683,
+  "lon": -50.1656034
 }

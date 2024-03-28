@@ -5,5 +5,7 @@
   "bairro": "Vila Pioneiro",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7397102,
+  "lon": -53.7183372
 }

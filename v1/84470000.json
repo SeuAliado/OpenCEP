@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cândido de Abreu",
   "uf": "PR",
-  "ibge": "4104402"
+  "ibge": "4104402",
+  "lat": -24.6489553,
+  "lon": -51.2213044
 }

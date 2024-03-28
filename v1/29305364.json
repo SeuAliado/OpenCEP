@@ -5,5 +5,7 @@
   "bairro": "Campo da Leopoldina",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8512127,
+  "lon": -41.1259298
 }

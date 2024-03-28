@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Moema",
   "uf": "MG",
-  "ibge": "3142403"
+  "ibge": "3142403",
+  "lat": -19.8392083,
+  "lon": -45.4131123
 }

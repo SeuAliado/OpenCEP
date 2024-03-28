@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Novo de Rondônia",
   "uf": "RO",
-  "ibge": "1100700"
+  "ibge": "1100700",
+  "lat": -10.5694467,
+  "lon": -63.6194338
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boquira",
   "uf": "BA",
-  "ibge": "2904100"
+  "ibge": "2904100",
+  "lat": -12.8209776,
+  "lon": -42.7327424
 }

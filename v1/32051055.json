@@ -5,5 +5,7 @@
   "bairro": "Vila Ipê Amarelo",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8118696,
+  "lon": -44.1421373
 }

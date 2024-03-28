@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9185667,
+  "lon": -53.4251566
 }

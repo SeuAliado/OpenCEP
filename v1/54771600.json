@@ -5,5 +5,7 @@
   "bairro": "Alberto Maia",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.0223301,
+  "lon": -34.9771859
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cajazeiras",
   "uf": "PB",
-  "ibge": "2503704"
+  "ibge": "2503704",
+  "lat": -6.8880404,
+  "lon": -38.5567388
 }

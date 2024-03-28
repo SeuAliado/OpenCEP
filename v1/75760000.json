@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cumari",
   "uf": "GO",
-  "ibge": "5206602"
+  "ibge": "5206602",
+  "lat": -18.3271725,
+  "lon": -48.1399232
 }

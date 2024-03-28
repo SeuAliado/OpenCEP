@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Olegário",
   "uf": "MG",
-  "ibge": "3153400"
+  "ibge": "3153400",
+  "lat": -18.1759901,
+  "lon": -46.2857516
 }

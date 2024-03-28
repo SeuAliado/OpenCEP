@@ -5,5 +5,7 @@
   "bairro": "Itaúna",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.9292453,
+  "lon": -42.4851426
 }

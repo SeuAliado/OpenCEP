@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibituruna",
   "uf": "MG",
-  "ibge": "3130002"
+  "ibge": "3130002",
+  "lat": -21.1522427,
+  "lon": -44.7488651
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7612336,
+  "lon": -43.5966651
 }

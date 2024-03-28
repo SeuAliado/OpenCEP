@@ -5,5 +5,7 @@
   "bairro": "Suíço",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.2787522,
+  "lon": -42.526495
 }

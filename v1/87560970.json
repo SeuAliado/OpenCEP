@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iporã",
   "uf": "PR",
-  "ibge": "4110607"
+  "ibge": "4110607",
+  "lat": -24.0058976,
+  "lon": -53.7113246
 }

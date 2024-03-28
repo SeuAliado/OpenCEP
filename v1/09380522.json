@@ -5,5 +5,7 @@
   "bairro": "Jardim Oratório",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -14.235004,
+  "lon": -51.92528
 }

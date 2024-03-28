@@ -5,5 +5,7 @@
   "bairro": "Catolé",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "lat": -4.0728639,
+  "lon": -38.5038515
 }

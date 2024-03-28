@@ -5,5 +5,7 @@
   "bairro": "Picadas do Sul",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.6107215,
+  "lon": -48.647921
 }

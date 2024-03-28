@@ -5,5 +5,7 @@
   "bairro": "Sucupira",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "lat": -8.422515,
+  "lon": -37.0546854
 }

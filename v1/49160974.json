@@ -5,5 +5,7 @@
   "bairro": "Taiçoca de Fora",
   "localidade": "Nossa Senhora do Socorro",
   "uf": "SE",
-  "ibge": "2804805"
+  "ibge": "2804805",
+  "lat": -10.8472572,
+  "lon": -37.1234502
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Líbano",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7533746,
+  "lon": -43.4284788
 }

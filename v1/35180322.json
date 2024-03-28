@@ -5,5 +5,7 @@
   "bairro": "Timirim",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5530666,
+  "lon": -42.6427584
 }

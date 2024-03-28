@@ -5,5 +5,7 @@
   "bairro": "Chácara São Joaquim",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0733769,
+  "lon": -45.7129589
 }

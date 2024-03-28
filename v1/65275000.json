@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Apicum-Açu",
   "uf": "MA",
-  "ibge": "2100832"
+  "ibge": "2100832",
+  "lat": -1.5056652,
+  "lon": -45.0933497
 }

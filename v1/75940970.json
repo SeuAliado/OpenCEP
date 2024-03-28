@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Edéia",
   "uf": "GO",
-  "ibge": "5207402"
+  "ibge": "5207402",
+  "lat": -17.3399457,
+  "lon": -49.9308415
 }

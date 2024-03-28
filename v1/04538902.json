@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Conceição",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5853091,
+  "lon": -46.6803135
 }

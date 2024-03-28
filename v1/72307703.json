@@ -5,5 +5,7 @@
   "bairro": "Samambaia Sul (Samambaia)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8920958,
+  "lon": -48.1114926
 }

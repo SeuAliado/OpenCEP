@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Senador Alexandre Costa",
   "uf": "MA",
-  "ibge": "2111748"
+  "ibge": "2111748",
+  "lat": -5.2726495,
+  "lon": -43.981812
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carmolândia",
   "uf": "TO",
-  "ibge": "1703883"
+  "ibge": "1703883",
+  "lat": -7.0330131,
+  "lon": -48.3982353
 }

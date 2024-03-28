@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Julião",
   "uf": "PI",
-  "ibge": "2210300"
+  "ibge": "2210300",
+  "lat": -7.0837031,
+  "lon": -40.8375066
 }

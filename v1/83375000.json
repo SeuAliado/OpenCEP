@@ -5,5 +5,7 @@
   "bairro": "Cacatu",
   "localidade": "Antonina",
   "uf": "PR",
-  "ibge": "4101200"
+  "ibge": "4101200",
+  "lat": -25.4345106,
+  "lon": -48.7585953
 }

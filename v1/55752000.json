@@ -5,5 +5,7 @@
   "bairro": "Lério de Cima",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "lat": -7.8269378,
+  "lon": -35.7603986
 }

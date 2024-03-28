@@ -5,5 +5,7 @@
   "bairro": "Jardim Pires de Campos",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2774453,
+  "lon": -48.523226
 }

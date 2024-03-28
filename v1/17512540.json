@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1473538,
+  "lon": -49.9614842
 }

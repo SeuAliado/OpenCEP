@@ -5,5 +5,7 @@
   "bairro": "Boa Sorte",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -23.6856385,
+  "lon": -46.3730557
 }

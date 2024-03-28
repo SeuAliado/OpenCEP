@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.7046792,
+  "lon": -46.5649049
 }

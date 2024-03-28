@@ -5,5 +5,7 @@
   "bairro": "Aliança",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7240239,
+  "lon": -43.5783843
 }

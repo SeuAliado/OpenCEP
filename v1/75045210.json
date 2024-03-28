@@ -5,5 +5,7 @@
   "bairro": "Bom Sucesso",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3096793,
+  "lon": -48.9655726
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.835083,
+  "lon": -44.0399803
 }

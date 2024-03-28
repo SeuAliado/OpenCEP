@@ -5,5 +5,7 @@
   "bairro": "Bairro das Bandeiras",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -23.557006,
+  "lon": -46.8360331
 }

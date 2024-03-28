@@ -5,5 +5,7 @@
   "bairro": "Shell",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3933717,
+  "lon": -40.0627993
 }

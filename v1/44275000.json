@@ -5,5 +5,7 @@
   "bairro": "Rio Fundo",
   "localidade": "Terra Nova",
   "uf": "BA",
-  "ibge": "2931707"
+  "ibge": "2931707",
+  "lat": -12.4495672,
+  "lon": -38.6190586
 }

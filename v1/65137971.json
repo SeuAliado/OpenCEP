@@ -5,5 +5,7 @@
   "bairro": "Conjunto Maiobão",
   "localidade": "Paço do Lumiar",
   "uf": "MA",
-  "ibge": "2107506"
+  "ibge": "2107506",
+  "lat": -2.5302672,
+  "lon": -44.1425359
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedrina",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9127081,
+  "lon": -51.3902059
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor Antônio Francisco Inocêncio",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0808892,
+  "lon": -48.9113094
 }

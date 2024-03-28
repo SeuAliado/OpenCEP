@@ -5,5 +5,7 @@
   "bairro": "Rancho Novo",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7465113,
+  "lon": -43.4401475
 }

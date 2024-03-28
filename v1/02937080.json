@@ -5,5 +5,7 @@
   "bairro": "Vila Barreto",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.485237,
+  "lon": -46.7209736
 }

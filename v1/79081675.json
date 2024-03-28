@@ -5,5 +5,7 @@
   "bairro": "Loteamento Alto da Boa Vista",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.505527,
+  "lon": -54.6301354
 }

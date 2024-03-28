@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4762274,
+  "lon": -46.5777209
 }

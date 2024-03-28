@@ -5,5 +5,7 @@
   "bairro": "Vila São Tiago",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4576986,
+  "lon": -49.0628671
 }

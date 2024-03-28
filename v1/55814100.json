@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "lat": -7.84845,
+  "lon": -35.2696033
 }

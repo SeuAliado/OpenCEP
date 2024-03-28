@@ -5,5 +5,7 @@
   "bairro": "Parque Vista Alegre",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.970948,
+  "lon": -48.8726702
 }

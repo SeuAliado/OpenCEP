@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Japurá",
   "uf": "PR",
-  "ibge": "4112405"
+  "ibge": "4112405",
+  "lat": -23.4668445,
+  "lon": -52.5490651
 }

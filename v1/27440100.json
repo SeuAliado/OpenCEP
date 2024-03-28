@@ -5,5 +5,7 @@
   "bairro": "Falcão",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.2937341,
+  "lon": -44.2586693
 }

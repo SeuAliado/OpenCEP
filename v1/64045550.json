@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0896779,
+  "lon": -42.7743463
 }

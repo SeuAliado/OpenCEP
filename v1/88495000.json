@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Garopaba",
   "uf": "SC",
-  "ibge": "4205704"
+  "ibge": "4205704",
+  "lat": -28.0549258,
+  "lon": -48.6589406
 }

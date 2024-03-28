@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana de Pirapama",
   "uf": "MG",
-  "ibge": "3158508"
+  "ibge": "3158508",
+  "lat": -18.9069152,
+  "lon": -43.9055155
 }

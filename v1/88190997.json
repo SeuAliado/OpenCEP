@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Celso Ramos",
   "uf": "SC",
-  "ibge": "4206009"
+  "ibge": "4206009",
+  "lat": -27.2657392,
+  "lon": -48.7653351
 }

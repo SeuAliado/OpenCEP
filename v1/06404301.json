@@ -5,5 +5,7 @@
   "bairro": "Bethaville I",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5059008,
+  "lon": -46.869399
 }

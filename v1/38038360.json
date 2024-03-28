@@ -5,5 +5,7 @@
   "bairro": "Residencial 2000",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7714257,
+  "lon": -47.885107
 }

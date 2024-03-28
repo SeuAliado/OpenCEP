@@ -5,5 +5,7 @@
   "bairro": "Vila Hercília",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4193355,
+  "lon": -49.9673986
 }

@@ -5,5 +5,7 @@
   "bairro": "Arlindo",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "lat": -28.4529232,
+  "lon": -52.8215858
 }

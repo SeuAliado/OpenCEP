@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Carlos do Ivaí",
   "uf": "PR",
-  "ibge": "4124608"
+  "ibge": "4124608",
+  "lat": -23.3173864,
+  "lon": -52.4752281
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morpará",
   "uf": "BA",
-  "ibge": "2921609"
+  "ibge": "2921609",
+  "lat": -11.5573246,
+  "lon": -43.276957
 }

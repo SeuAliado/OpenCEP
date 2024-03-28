@@ -5,5 +5,7 @@
   "bairro": "Chapéu Virado (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.1260077,
+  "lon": -48.4408606
 }

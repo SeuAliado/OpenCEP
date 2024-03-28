@@ -5,5 +5,7 @@
   "bairro": "Missi",
   "localidade": "Irauçuba",
   "uf": "CE",
-  "ibge": "2306108"
+  "ibge": "2306108",
+  "lat": -3.6229205,
+  "lon": -39.8217948
 }

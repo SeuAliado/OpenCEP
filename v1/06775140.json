@@ -5,5 +5,7 @@
   "bairro": "Jardim Roberto",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6364233,
+  "lon": -46.7946405
 }

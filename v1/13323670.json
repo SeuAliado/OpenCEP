@@ -5,5 +5,7 @@
   "bairro": "Condomínio Monte Belo",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2279843,
+  "lon": -47.2595946
 }

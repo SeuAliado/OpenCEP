@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "lat": -7.0648903,
+  "lon": -34.8501287
 }

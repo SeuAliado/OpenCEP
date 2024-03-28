@@ -5,5 +5,7 @@
   "bairro": "Chácaras Helou",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6117732,
+  "lon": -49.3141752
 }

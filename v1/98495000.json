@@ -5,5 +5,7 @@
   "bairro": "Volta Grande",
   "localidade": "Alpestre",
   "uf": "RS",
-  "ibge": "4300505"
+  "ibge": "4300505",
+  "lat": -29.2107835,
+  "lon": -51.3472925
 }

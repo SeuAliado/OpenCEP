@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Massapê",
   "uf": "CE",
-  "ibge": "2308005"
+  "ibge": "2308005",
+  "lat": -3.5224956,
+  "lon": -40.344286
 }

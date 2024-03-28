@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra de São Miguel",
   "uf": "PB",
-  "ibge": "2501708"
+  "ibge": "2501708",
+  "lat": -7.6807866,
+  "lon": -36.3064595
 }

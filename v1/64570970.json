@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Isaías Coelho",
   "uf": "PI",
-  "ibge": "2204907"
+  "ibge": "2204907",
+  "lat": -7.7360875,
+  "lon": -41.6790757
 }

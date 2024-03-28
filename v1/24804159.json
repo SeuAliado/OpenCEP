@@ -5,5 +5,7 @@
   "bairro": "Nova Cidade",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7514108,
+  "lon": -42.8535876
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salmourão",
   "uf": "SP",
-  "ibge": "3545100"
+  "ibge": "3545100",
+  "lat": -21.6249529,
+  "lon": -50.8611051
 }

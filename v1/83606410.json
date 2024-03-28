@@ -5,5 +5,7 @@
   "bairro": "Loteamento São Francisco de Assis",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4480611,
+  "lon": -49.5185447
 }

@@ -5,5 +5,7 @@
   "bairro": "Sítio das Paineiras/California",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4954074,
+  "lon": -46.9031931
 }

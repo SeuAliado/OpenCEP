@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3471218,
+  "lon": -46.9202389
 }

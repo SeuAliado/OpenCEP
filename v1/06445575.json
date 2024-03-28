@@ -5,5 +5,7 @@
   "bairro": "Vila do Conde",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5335443,
+  "lon": -46.864551
 }

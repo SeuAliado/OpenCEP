@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muribeca",
   "uf": "SE",
-  "ibge": "2804300"
+  "ibge": "2804300",
+  "lat": -8.1179302,
+  "lon": -35.100032
 }

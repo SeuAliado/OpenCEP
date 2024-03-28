@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cedro",
   "uf": "CE",
-  "ibge": "2303808"
+  "ibge": "2303808",
+  "lat": -6.567794,
+  "lon": -39.1127352
 }

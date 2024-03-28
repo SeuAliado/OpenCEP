@@ -5,5 +5,7 @@
   "bairro": "Vila Fortuna",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6717114,
+  "lon": -50.4316185
 }

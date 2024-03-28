@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9316659,
+  "lon": -44.0749164
 }

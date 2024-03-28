@@ -5,5 +5,7 @@
   "bairro": "Tabuazeiro",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.2943872,
+  "lon": -40.3217496
 }

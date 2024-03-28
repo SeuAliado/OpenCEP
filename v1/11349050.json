@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Humaitá",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9485105,
+  "lon": -46.456105
 }

@@ -5,5 +5,7 @@
   "bairro": "Itapoã",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7492505,
+  "lon": -36.6441666
 }

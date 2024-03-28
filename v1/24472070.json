@@ -5,5 +5,7 @@
   "bairro": "Porto do Rosa",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.793262,
+  "lon": -43.0391548
 }

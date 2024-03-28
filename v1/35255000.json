@@ -5,5 +5,7 @@
   "bairro": "Sapucaia do Norte",
   "localidade": "Galiléia",
   "uf": "MG",
-  "ibge": "3127305"
+  "ibge": "3127305",
+  "lat": -19.0009454,
+  "lon": -41.539043
 }

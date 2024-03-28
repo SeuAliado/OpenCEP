@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Nilópolis",
   "uf": "RJ",
-  "ibge": "3303203"
+  "ibge": "3303203",
+  "lat": -22.8030115,
+  "lon": -43.4216947
 }

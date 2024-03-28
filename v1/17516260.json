@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Izabel",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2149951,
+  "lon": -49.9338295
 }

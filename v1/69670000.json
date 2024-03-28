@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fonte Boa",
   "uf": "AM",
-  "ibge": "1301605"
+  "ibge": "1301605",
+  "lat": -2.4681009,
+  "lon": -66.1415263
 }

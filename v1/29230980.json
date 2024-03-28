@@ -5,5 +5,7 @@
   "bairro": "Iriri",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "lat": -20.8299843,
+  "lon": -40.6943374
 }

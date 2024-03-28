@@ -5,5 +5,7 @@
   "bairro": "Chácaras Tubalina e Quartel",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9270712,
+  "lon": -48.3253193
 }

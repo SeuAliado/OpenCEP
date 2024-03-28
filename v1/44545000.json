@@ -5,5 +5,7 @@
   "bairro": "Comércio",
   "localidade": "Conceição do Almeida",
   "uf": "BA",
-  "ibge": "2908309"
+  "ibge": "2908309",
+  "lat": -12.9399246,
+  "lon": -38.4800835
 }

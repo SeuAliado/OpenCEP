@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Balbinos",
   "uf": "SP",
-  "ibge": "3504701"
+  "ibge": "3504701",
+  "lat": -21.9032343,
+  "lon": -49.3568654
 }

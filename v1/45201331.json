@@ -5,5 +5,7 @@
   "bairro": "Cansanção",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "lat": -13.8577283,
+  "lon": -40.1148903
 }

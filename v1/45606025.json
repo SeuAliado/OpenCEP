@@ -5,5 +5,7 @@
   "bairro": "Zizo",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.807761,
+  "lon": -39.2663625
 }

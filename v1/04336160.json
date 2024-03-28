@@ -5,5 +5,7 @@
   "bairro": "Americanópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6651017,
+  "lon": -46.6435162
 }

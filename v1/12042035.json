@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Willy Conrado Bohlen",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0486462,
+  "lon": -45.6198438
 }

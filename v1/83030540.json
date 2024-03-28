@@ -5,5 +5,7 @@
   "bairro": "Silveira da Motta",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.5327361,
+  "lon": -49.2171026
 }

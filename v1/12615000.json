@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canas",
   "uf": "SP",
-  "ibge": "3509957"
+  "ibge": "3509957",
+  "lat": -22.717285,
+  "lon": -45.0466511
 }

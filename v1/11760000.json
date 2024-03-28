@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itariri",
   "uf": "SP",
-  "ibge": "3523305"
+  "ibge": "3523305",
+  "lat": -24.2895753,
+  "lon": -47.174264
 }

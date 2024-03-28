@@ -5,5 +5,7 @@
   "bairro": "Conjunto Ceará II",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7682731,
+  "lon": -38.6079738
 }

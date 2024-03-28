@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale Verde",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.204028,
+  "lon": -49.9498418
 }

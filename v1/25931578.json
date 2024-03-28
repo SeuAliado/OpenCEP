@@ -5,5 +5,7 @@
   "bairro": "Cidade Horácio (Vila Inhomirim)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.5777377,
+  "lon": -43.191336
 }

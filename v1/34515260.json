@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Ó",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8849775,
+  "lon": -43.7947572
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Guarani",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.2942617,
+  "lon": -42.526061
 }

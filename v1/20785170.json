@@ -5,5 +5,7 @@
   "bairro": "Cachambi",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8905662,
+  "lon": -43.2666333
 }

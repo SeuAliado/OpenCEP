@@ -5,5 +5,7 @@
   "bairro": "Serrinha",
   "localidade": "Redenção",
   "uf": "PA",
-  "ibge": "1506138"
+  "ibge": "1506138",
+  "lat": -8.0266851,
+  "lon": -50.0184676
 }

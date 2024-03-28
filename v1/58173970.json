@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Damião",
   "uf": "PB",
-  "ibge": "2505352"
+  "ibge": "2505352",
+  "lat": -6.6317236,
+  "lon": -35.9063609
 }

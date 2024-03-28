@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poço de José de Moura",
   "uf": "PB",
-  "ibge": "2512077"
+  "ibge": "2512077",
+  "lat": -6.5738205,
+  "lon": -38.5119312
 }

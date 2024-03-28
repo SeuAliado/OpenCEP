@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Vista do Gurupi",
   "uf": "MA",
-  "ibge": "2101970"
+  "ibge": "2101970",
+  "lat": -1.7764986,
+  "lon": -46.3006303
 }

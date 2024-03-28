@@ -5,5 +5,7 @@
   "bairro": "São Luiz Gonzaga",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8497699,
+  "lon": -41.0919122
 }

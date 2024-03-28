@@ -5,5 +5,7 @@
   "bairro": "Setor Universitário",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1584142,
+  "lon": -48.1882709
 }

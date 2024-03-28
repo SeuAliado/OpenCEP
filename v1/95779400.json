@@ -5,5 +5,7 @@
   "bairro": "Morro Gaúcho",
   "localidade": "Vale Real",
   "uf": "RS",
-  "ibge": "4322541"
+  "ibge": "4322541",
+  "lat": -29.363567,
+  "lon": -51.2217928
 }

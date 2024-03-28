@@ -5,5 +5,7 @@
   "bairro": "Quimami",
   "localidade": "Missão Velha",
   "uf": "CE",
-  "ibge": "2308401"
+  "ibge": "2308401",
+  "lat": -7.2356253,
+  "lon": -39.1433975
 }

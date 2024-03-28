@@ -5,5 +5,7 @@
   "bairro": "Coronel Goulart",
   "localidade": "Álvares Machado",
   "uf": "SP",
-  "ibge": "3501301"
+  "ibge": "3501301",
+  "lat": -22.2129303,
+  "lon": -51.5437486
 }

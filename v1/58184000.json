@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Palmeira",
   "uf": "PB",
-  "ibge": "2510303"
+  "ibge": "2510303",
+  "lat": -6.6852341,
+  "lon": -36.4147889
 }

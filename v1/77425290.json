@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7344355,
+  "lon": -49.1020598
 }

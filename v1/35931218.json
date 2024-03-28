@@ -5,5 +5,7 @@
   "bairro": "Sion",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8333471,
+  "lon": -43.1960009
 }

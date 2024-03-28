@@ -5,5 +5,7 @@
   "bairro": "Estância de Embuarama",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6398853,
+  "lon": -46.8461417
 }

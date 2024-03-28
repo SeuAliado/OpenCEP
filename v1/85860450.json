@@ -5,5 +5,7 @@
   "bairro": "Itaipu A",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "lat": -25.500089,
+  "lon": -54.5682902
 }

@@ -5,5 +5,7 @@
   "bairro": "Álvaro Tavares",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8623592,
+  "lon": -41.09762
 }

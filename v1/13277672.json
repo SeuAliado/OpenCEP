@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cecília",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -23.0022543,
+  "lon": -46.9946705
 }

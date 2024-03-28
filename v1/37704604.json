@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7971725,
+  "lon": -46.5339373
 }

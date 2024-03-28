@@ -5,5 +5,7 @@
   "bairro": "Vila Dutra",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3222187,
+  "lon": -49.1257035
 }

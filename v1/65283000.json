@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maranhãozinho",
   "uf": "MA",
-  "ibge": "2106375"
+  "ibge": "2106375",
+  "lat": -2.3717684,
+  "lon": -45.9420118
 }

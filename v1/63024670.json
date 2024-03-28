@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.2207738,
+  "lon": -39.343425
 }

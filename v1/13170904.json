@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8247275,
+  "lon": -47.2663188
 }

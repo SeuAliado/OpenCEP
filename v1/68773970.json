@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Terra Alta",
   "uf": "PA",
-  "ibge": "1507961"
+  "ibge": "1507961",
+  "lat": -1.0389051,
+  "lon": -47.9067544
 }

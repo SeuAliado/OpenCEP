@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Terezinha (Parelheiros)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8546927,
+  "lon": -46.7080114
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora de Fátima",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8986939,
+  "lon": -47.1674011
 }

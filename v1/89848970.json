@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jardinópolis",
   "uf": "SC",
-  "ibge": "4208955"
+  "ibge": "4208955",
+  "lat": -23.5596716,
+  "lon": -46.7943354
 }

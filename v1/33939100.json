@@ -5,5 +5,7 @@
   "bairro": "Soares",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.8288907,
+  "lon": -44.0326833
 }

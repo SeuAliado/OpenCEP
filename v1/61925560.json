@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8370403,
+  "lon": -38.5916108
 }

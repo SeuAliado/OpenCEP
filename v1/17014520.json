@@ -5,5 +5,7 @@
   "bairro": "Vila Samaritana",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3341731,
+  "lon": -49.0692508
 }

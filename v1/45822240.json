@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3908731,
+  "lon": -39.5696677
 }

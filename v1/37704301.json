@@ -5,5 +5,7 @@
   "bairro": "Jardim Country Club",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7945361,
+  "lon": -46.6012619
 }

@@ -5,5 +5,7 @@
   "bairro": "Presidente Vargas",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.119679,
+  "lon": -60.027522
 }

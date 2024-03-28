@@ -5,5 +5,7 @@
   "bairro": "Maicá",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4768877,
+  "lon": -54.6825868
 }

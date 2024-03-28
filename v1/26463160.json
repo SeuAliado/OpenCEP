@@ -5,5 +5,7 @@
   "bairro": "Jardim Willis",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6777218,
+  "lon": -43.5948629
 }

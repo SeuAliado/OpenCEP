@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Osvaldo Del Fiol",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3845593,
+  "lon": -47.8506766
 }

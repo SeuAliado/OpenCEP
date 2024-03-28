@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Bandeirantes",
   "uf": "MT",
-  "ibge": "5106158"
+  "ibge": "5106158",
+  "lat": -9.8498005,
+  "lon": -57.8141756
 }

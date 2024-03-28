@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Jandaia do Sul",
   "uf": "PR",
-  "ibge": "4112108"
+  "ibge": "4112108",
+  "lat": -23.6020976,
+  "lon": -51.6266806
 }

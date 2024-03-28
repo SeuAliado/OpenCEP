@@ -5,5 +5,7 @@
   "bairro": "Pinheiro de Minas",
   "localidade": "Martins Soares",
   "uf": "MG",
-  "ibge": "3140530"
+  "ibge": "3140530",
+  "lat": -19.957655,
+  "lon": -43.9981959
 }

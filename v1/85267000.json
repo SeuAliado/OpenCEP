@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Manoel Ribas",
   "uf": "PR",
-  "ibge": "4114500"
+  "ibge": "4114500",
+  "lat": -24.0377289,
+  "lon": -52.3758554
 }

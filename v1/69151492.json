@@ -5,5 +5,7 @@
   "bairro": "Francesa",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6304427,
+  "lon": -56.7307744
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Giampietro",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2875708,
+  "lon": -50.348937
 }

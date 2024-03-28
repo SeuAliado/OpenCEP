@@ -5,5 +5,7 @@
   "bairro": "Centro Comercial",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7925151,
+  "lon": -39.2853524
 }

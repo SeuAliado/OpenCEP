@@ -5,5 +5,7 @@
   "bairro": "Vila São Luiz",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8799047,
+  "lon": -48.4560588
 }

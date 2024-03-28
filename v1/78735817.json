@@ -5,5 +5,7 @@
   "bairro": "Parque São Jorge",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4685458,
+  "lon": -54.6123335
 }

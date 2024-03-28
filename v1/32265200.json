@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9553466,
+  "lon": -44.0444704
 }

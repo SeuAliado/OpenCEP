@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Juscelino",
   "uf": "MA",
-  "ibge": "2109205"
+  "ibge": "2109205",
+  "lat": -2.9190948,
+  "lon": -44.0718701
 }

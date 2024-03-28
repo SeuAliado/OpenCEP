@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4479907,
+  "lon": -61.4393409
 }

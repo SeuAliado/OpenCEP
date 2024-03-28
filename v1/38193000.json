@@ -5,5 +5,7 @@
   "bairro": "Desemboque",
   "localidade": "Sacramento",
   "uf": "MG",
-  "ibge": "3156908"
+  "ibge": "3156908",
+  "lat": -20.064324,
+  "lon": -47.0246389
 }

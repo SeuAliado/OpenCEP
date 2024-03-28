@@ -5,5 +5,7 @@
   "bairro": "Vila Maia",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7320183,
+  "lon": -43.3960674
 }

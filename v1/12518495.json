@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.784325,
+  "lon": -45.1803119
 }

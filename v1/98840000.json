@@ -5,5 +5,7 @@
   "bairro": "União",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -29.6679864,
+  "lon": -51.1555148
 }

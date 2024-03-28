@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Padre Emílio Immos",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0833569,
+  "lon": -48.9118642
 }

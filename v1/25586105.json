@@ -5,5 +5,7 @@
   "bairro": "Parque Santana",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7896481,
+  "lon": -43.341378
 }

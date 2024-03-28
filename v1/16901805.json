@@ -5,5 +5,7 @@
   "bairro": "Vila Botega",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8842065,
+  "lon": -51.3801172
 }

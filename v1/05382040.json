@@ -5,5 +5,7 @@
   "bairro": "Jardim Sarah",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.57395,
+  "lon": -46.7618297
 }

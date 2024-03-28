@@ -5,5 +5,7 @@
   "bairro": "Vila 2 de Julho",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9249129,
+  "lon": -38.4072419
 }

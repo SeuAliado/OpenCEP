@@ -5,5 +5,7 @@
   "bairro": "São Damião",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4213882,
+  "lon": -49.9460891
 }

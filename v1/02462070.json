@@ -5,5 +5,7 @@
   "bairro": "Chora Menino",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4884987,
+  "lon": -46.6429841
 }

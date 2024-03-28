@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pinhalão",
   "uf": "PR",
-  "ibge": "4119202"
+  "ibge": "4119202",
+  "lat": -23.7986588,
+  "lon": -50.0540465
 }

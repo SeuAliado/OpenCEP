@@ -5,5 +5,7 @@
   "bairro": "Padronal",
   "localidade": "Comodoro",
   "uf": "MT",
-  "ibge": "5103304"
+  "ibge": "5103304",
+  "lat": -15.6641919,
+  "lon": -56.091571
 }

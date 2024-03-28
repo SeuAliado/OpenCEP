@@ -5,5 +5,7 @@
   "bairro": "Vila Bom Pastor",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.467426,
+  "lon": -54.629643
 }

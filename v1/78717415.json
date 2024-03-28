@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Carlos Bezerra I",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4626352,
+  "lon": -54.6122393
 }

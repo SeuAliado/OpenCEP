@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Costa Marques",
   "uf": "RO",
-  "ibge": "1100080"
+  "ibge": "1100080",
+  "lat": -12.4380274,
+  "lon": -64.2266862
 }

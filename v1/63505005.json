@@ -5,5 +5,7 @@
   "bairro": "Esplanada II",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3718315,
+  "lon": -39.302164
 }

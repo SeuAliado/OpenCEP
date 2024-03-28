@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Laguna I",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -23.2105422,
+  "lon": -47.2715222
 }

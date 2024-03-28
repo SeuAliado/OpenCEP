@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.007485,
+  "lon": -52.9565915
 }

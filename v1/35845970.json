@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana do Riacho",
   "uf": "MG",
-  "ibge": "3159001"
+  "ibge": "3159001",
+  "lat": -19.1706228,
+  "lon": -43.7162103
 }

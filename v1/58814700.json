@@ -5,5 +5,7 @@
   "bairro": "Pereiros",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7598185,
+  "lon": -37.7904023
 }

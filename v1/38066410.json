@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bento",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7322083,
+  "lon": -47.9463508
 }

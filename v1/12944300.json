@@ -5,5 +5,7 @@
   "bairro": "Ponte",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1075435,
+  "lon": -46.5581447
 }

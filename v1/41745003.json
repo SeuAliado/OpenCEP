@@ -5,5 +5,7 @@
   "bairro": "Centro Administrativo da Bahia",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.951974,
+  "lon": -38.4302542
 }

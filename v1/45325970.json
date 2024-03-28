@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejões",
   "uf": "BA",
-  "ibge": "2904308"
+  "ibge": "2904308",
+  "lat": -13.0989415,
+  "lon": -39.7954011
 }

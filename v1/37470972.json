@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Lourenço",
   "uf": "MG",
-  "ibge": "3163706"
+  "ibge": "3163706",
+  "lat": -22.1160863,
+  "lon": -45.0569617
 }

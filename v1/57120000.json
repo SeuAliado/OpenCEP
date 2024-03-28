@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Satuba",
   "uf": "AL",
-  "ibge": "2708907"
+  "ibge": "2708907",
+  "lat": -9.5715864,
+  "lon": -35.825415
 }

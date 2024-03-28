@@ -5,5 +5,7 @@
   "bairro": "Dom João Bosco",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5286029,
+  "lon": -48.5656682
 }

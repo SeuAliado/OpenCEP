@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manfrinópolis",
   "uf": "PR",
-  "ibge": "4114351"
+  "ibge": "4114351",
+  "lat": -26.1450835,
+  "lon": -53.3130616
 }

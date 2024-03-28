@@ -5,5 +5,7 @@
   "bairro": "Monte Verde",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.8009134,
+  "lon": -44.0566681
 }

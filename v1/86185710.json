@@ -5,5 +5,7 @@
   "bairro": "Parque Maracanã",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -23.2842843,
+  "lon": -51.2482064
 }

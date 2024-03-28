@@ -5,5 +5,7 @@
   "bairro": "Jardim Oásis",
   "localidade": "Itanhaém",
   "uf": "SP",
-  "ibge": "3522109"
+  "ibge": "3522109",
+  "lat": -24.1632626,
+  "lon": -46.7924543
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9074731,
+  "lon": -51.3802854
 }

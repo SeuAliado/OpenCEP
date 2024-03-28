@@ -5,5 +5,7 @@
   "bairro": "Penápolis",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.6905974,
+  "lon": -43.5634322
 }

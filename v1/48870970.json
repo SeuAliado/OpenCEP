@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nordestina",
   "uf": "BA",
-  "ibge": "2922656"
+  "ibge": "2922656",
+  "lat": -10.8248593,
+  "lon": -39.4294059
 }

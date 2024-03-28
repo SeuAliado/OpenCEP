@@ -5,5 +5,7 @@
   "bairro": "Santo Afonso",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9158178,
+  "lon": -44.2725771
 }

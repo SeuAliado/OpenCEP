@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amajari",
   "uf": "RR",
-  "ibge": "1400027"
+  "ibge": "1400027",
+  "lat": 3.6563932,
+  "lon": -61.4214674
 }

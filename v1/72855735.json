@@ -5,5 +5,7 @@
   "bairro": "Cidade Industrial Fracaroli",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1745372,
+  "lon": -47.9248925
 }

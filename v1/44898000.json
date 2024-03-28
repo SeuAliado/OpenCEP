@@ -5,5 +5,7 @@
   "bairro": "Lagoa do Boi",
   "localidade": "Barro Alto",
   "uf": "BA",
-  "ibge": "2903235"
+  "ibge": "2903235",
+  "lat": -11.2323236,
+  "lon": -39.3631042
 }

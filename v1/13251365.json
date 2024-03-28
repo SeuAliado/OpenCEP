@@ -5,5 +5,7 @@
   "bairro": "Vila Prudente de Moraes",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0024575,
+  "lon": -46.8372767
 }

@@ -5,5 +5,7 @@
   "bairro": "Duque de Caxias",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7298922,
+  "lon": -43.8582478
 }

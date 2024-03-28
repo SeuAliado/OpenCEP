@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Henrique",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8743337,
+  "lon": -48.4577261
 }

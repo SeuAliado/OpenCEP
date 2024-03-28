@@ -5,5 +5,7 @@
   "bairro": "Residencial Furlan",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7418298,
+  "lon": -47.4189555
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Manchester",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5435255,
+  "lon": -46.5333206
 }

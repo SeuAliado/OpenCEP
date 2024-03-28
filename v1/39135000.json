@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Kubitschek",
   "uf": "MG",
-  "ibge": "3153301"
+  "ibge": "3153301",
+  "lat": -18.619727,
+  "lon": -43.5631806
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Doutor Ricardo",
   "uf": "RS",
-  "ibge": "4306759"
+  "ibge": "4306759",
+  "lat": -28.8124859,
+  "lon": -52.3582067
 }

@@ -5,5 +5,7 @@
   "bairro": "Jacutinga",
   "localidade": "Ivaiporã",
   "uf": "PR",
-  "ibge": "4111506"
+  "ibge": "4111506",
+  "lat": -24.2264682,
+  "lon": -51.649058
 }

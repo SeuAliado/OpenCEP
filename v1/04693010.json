@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Grande",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6759986,
+  "lon": -46.68647
 }

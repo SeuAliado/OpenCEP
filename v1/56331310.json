@@ -5,5 +5,7 @@
   "bairro": "Vila Eulália",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3748533,
+  "lon": -40.5012387
 }

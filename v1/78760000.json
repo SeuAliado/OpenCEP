@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guiratinga",
   "uf": "MT",
-  "ibge": "5104203"
+  "ibge": "5104203",
+  "lat": -16.3760849,
+  "lon": -53.6501903
 }

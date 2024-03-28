@@ -5,5 +5,7 @@
   "bairro": "Chácara Ouro Preto",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3067784,
+  "lon": -46.9170774
 }

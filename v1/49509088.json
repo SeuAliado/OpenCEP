@@ -5,5 +5,7 @@
   "bairro": "Mamede Paes Mendonça",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "lat": -10.6797894,
+  "lon": -37.427634
 }

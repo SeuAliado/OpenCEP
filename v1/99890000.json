@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maximiliano de Almeida",
   "uf": "RS",
-  "ibge": "4312203"
+  "ibge": "4312203",
+  "lat": -27.633009,
+  "lon": -51.802554
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Cabuçu",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4094334,
+  "lon": -46.5222253
 }

@@ -5,5 +5,7 @@
   "bairro": "Trevo da Guarany",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.2244473,
+  "lon": -52.6751002
 }

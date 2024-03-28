@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Figueiredo",
   "uf": "AM",
-  "ibge": "1303536"
+  "ibge": "1303536",
+  "lat": -1.4520011,
+  "lon": -60.0259466
 }

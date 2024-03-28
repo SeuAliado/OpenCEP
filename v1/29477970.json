@@ -5,5 +5,7 @@
   "bairro": "Airituba",
   "localidade": "São José do Calçado",
   "uf": "ES",
-  "ibge": "3204807"
+  "ibge": "3204807",
+  "lat": -20.9616117,
+  "lon": -41.6968153
 }

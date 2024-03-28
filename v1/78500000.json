@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colíder",
   "uf": "MT",
-  "ibge": "5103205"
+  "ibge": "5103205",
+  "lat": -10.8040961,
+  "lon": -55.4554688
 }

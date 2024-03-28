@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Alfredo de Castro Araújo",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -15.5609201,
+  "lon": -56.0534907
 }

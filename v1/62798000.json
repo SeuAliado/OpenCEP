@@ -5,5 +5,7 @@
   "bairro": "Lagoa do Barro",
   "localidade": "Barreira",
   "uf": "CE",
-  "ibge": "2301950"
+  "ibge": "2301950",
+  "lat": -4.3528664,
+  "lon": -38.5495194
 }

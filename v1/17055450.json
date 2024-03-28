@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3265943,
+  "lon": -49.1139098
 }

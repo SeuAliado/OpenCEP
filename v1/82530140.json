@@ -5,5 +5,7 @@
   "bairro": "Jardim Social",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4202555,
+  "lon": -49.2375283
 }

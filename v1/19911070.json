@@ -5,5 +5,7 @@
   "bairro": "Loteamento Maria Christoni",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9691419,
+  "lon": -49.8748492
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Gerson França",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3159775,
+  "lon": -49.0919582
 }

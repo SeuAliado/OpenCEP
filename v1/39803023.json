@@ -5,5 +5,7 @@
   "bairro": "São Diogo",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8686438,
+  "lon": -41.5151529
 }

@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "São João",
   "uf": "PR",
-  "ibge": "4124806"
+  "ibge": "4124806",
+  "lat": -23.8373127,
+  "lon": -53.8027486
 }

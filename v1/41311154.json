@@ -5,5 +5,7 @@
   "bairro": "Águas Claras",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.894237,
+  "lon": -38.4416567
 }

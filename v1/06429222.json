@@ -5,5 +5,7 @@
   "bairro": "Praça da Aldeia da Serra 1- Aldeia da Serra",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4953968,
+  "lon": -46.9646158
 }

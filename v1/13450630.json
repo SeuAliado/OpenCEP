@@ -5,5 +5,7 @@
   "bairro": "Jardim Flamboyant",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7624016,
+  "lon": -47.4309952
 }

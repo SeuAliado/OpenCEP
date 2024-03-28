@@ -5,5 +5,7 @@
   "bairro": "Vila Eunice",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4285618,
+  "lon": -46.956727
 }

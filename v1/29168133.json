@@ -5,5 +5,7 @@
   "bairro": "Mata da Serra",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1566668,
+  "lon": -40.2463053
 }

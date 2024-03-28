@@ -5,5 +5,7 @@
   "bairro": "Vila Padre Eterno",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6540819,
+  "lon": -49.4898433
 }

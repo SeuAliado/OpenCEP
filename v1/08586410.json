@@ -5,5 +5,7 @@
   "bairro": "Jardim Nascente",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4357145,
+  "lon": -46.32978
 }

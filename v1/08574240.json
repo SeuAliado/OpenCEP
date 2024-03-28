@@ -5,5 +5,7 @@
   "bairro": "Jardim Miray",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.5039737,
+  "lon": -46.3542954
 }

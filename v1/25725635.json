@@ -5,5 +5,7 @@
   "bairro": "Fazenda Inglesa",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.5076253,
+  "lon": -43.2330074
 }

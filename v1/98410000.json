@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taquaruçu do Sul",
   "uf": "RS",
-  "ibge": "4321329"
+  "ibge": "4321329",
+  "lat": -27.4004591,
+  "lon": -53.4878465
 }

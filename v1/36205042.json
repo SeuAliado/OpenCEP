@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2231767,
+  "lon": -43.7661528
 }

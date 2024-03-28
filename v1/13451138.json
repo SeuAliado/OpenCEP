@@ -5,5 +5,7 @@
   "bairro": "Vila Grego II",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7421331,
+  "lon": -47.4149526
 }

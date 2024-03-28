@@ -5,5 +5,7 @@
   "bairro": "Getúlio Vargas",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5292252,
+  "lon": -44.1539626
 }

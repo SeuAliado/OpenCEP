@@ -5,5 +5,7 @@
   "bairro": "Parque Munhos",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.331572,
+  "lon": -46.7097979
 }

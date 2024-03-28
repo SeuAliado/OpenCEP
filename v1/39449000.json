@@ -5,5 +5,7 @@
   "bairro": "Vila Nova dos Poções",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "lat": -16.1213683,
+  "lon": -43.6910552
 }

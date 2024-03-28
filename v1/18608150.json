@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora de Fátima",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8698869,
+  "lon": -48.4540114
 }

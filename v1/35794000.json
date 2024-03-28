@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "lat": -18.7135827,
+  "lon": -44.9253354
 }

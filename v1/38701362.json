@@ -5,5 +5,7 @@
   "bairro": "Padre Eustáquio",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5698628,
+  "lon": -46.5300766
 }

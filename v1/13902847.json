@@ -5,5 +5,7 @@
   "bairro": "Planalto da Serra",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.6921654,
+  "lon": -46.7383361
 }

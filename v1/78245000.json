@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Bela da Santíssima Trindade",
   "uf": "MT",
-  "ibge": "5105507"
+  "ibge": "5105507",
+  "lat": -15.2583412,
+  "lon": -60.0259466
 }

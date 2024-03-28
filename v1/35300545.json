@@ -5,5 +5,7 @@
   "bairro": "Salatiel",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7807013,
+  "lon": -42.1328454
 }

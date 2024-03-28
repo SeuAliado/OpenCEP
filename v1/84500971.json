@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Irati",
   "uf": "PR",
-  "ibge": "4110706"
+  "ibge": "4110706",
+  "lat": -25.4881263,
+  "lon": -50.6496293
 }

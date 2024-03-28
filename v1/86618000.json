@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Prado Ferreira",
   "uf": "PR",
-  "ibge": "4120333"
+  "ibge": "4120333",
+  "lat": -23.0361735,
+  "lon": -51.4433666
 }

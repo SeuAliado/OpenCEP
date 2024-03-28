@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Margarida",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7858798,
+  "lon": -47.0735357
 }

@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9353918,
+  "lon": -51.0678263
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -22.8765261,
+  "lon": -47.0416514
 }

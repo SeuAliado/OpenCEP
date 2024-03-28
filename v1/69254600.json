@@ -5,5 +5,7 @@
   "bairro": "Careiro Parauá",
   "localidade": "Careiro",
   "uf": "AM",
-  "ibge": "1301100"
+  "ibge": "1301100",
+  "lat": -3.197345,
+  "lon": -59.7968901
 }

@@ -5,5 +5,7 @@
   "bairro": "Maravista",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9468761,
+  "lon": -43.0311301
 }

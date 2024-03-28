@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Marta",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5767206,
+  "lon": -56.0999751
 }

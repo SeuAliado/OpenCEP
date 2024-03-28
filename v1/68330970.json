@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto de Moz",
   "uf": "PA",
-  "ibge": "1505908"
+  "ibge": "1505908",
+  "lat": -1.7549923,
+  "lon": -52.2371732
 }

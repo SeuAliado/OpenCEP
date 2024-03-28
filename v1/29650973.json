@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Canaã",
   "localidade": "Santa Teresa",
   "uf": "ES",
-  "ibge": "3204609"
+  "ibge": "3204609",
+  "lat": -19.9318168,
+  "lon": -40.6008848
 }

@@ -5,5 +5,7 @@
   "bairro": "Coophalis",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4780778,
+  "lon": -54.6124639
 }

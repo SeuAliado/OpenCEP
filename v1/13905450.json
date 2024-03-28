@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvestre I",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7154827,
+  "lon": -46.7991553
 }

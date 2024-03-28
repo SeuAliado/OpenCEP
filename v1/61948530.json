@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.9053671,
+  "lon": -38.6879711
 }

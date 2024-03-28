@@ -5,5 +5,7 @@
   "bairro": "Jardim Canadá",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6696825,
+  "lon": -50.4082681
 }

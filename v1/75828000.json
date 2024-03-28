@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chapadão do Céu",
   "uf": "GO",
-  "ibge": "5205471"
+  "ibge": "5205471",
+  "lat": -18.394909,
+  "lon": -52.6653684
 }

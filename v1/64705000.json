@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bela Vista do Piauí",
   "uf": "PI",
-  "ibge": "2201556"
+  "ibge": "2201556",
+  "lat": -7.9885006,
+  "lon": -41.8678973
 }

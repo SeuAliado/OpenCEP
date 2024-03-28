@@ -5,5 +5,7 @@
   "bairro": "Residencial São Gabriel",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1781863,
+  "lon": -47.3024686
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim América",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7155235,
+  "lon": -49.0755221
 }

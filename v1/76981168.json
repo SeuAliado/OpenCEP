@@ -5,5 +5,7 @@
   "bairro": "Marcos Freire",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7331158,
+  "lon": -60.1591625
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Nova Morada",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3408308,
+  "lon": -49.2482691
 }

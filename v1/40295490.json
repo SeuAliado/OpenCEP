@@ -5,5 +5,7 @@
   "bairro": "Horto Florestal",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0050115,
+  "lon": -38.4909472
 }

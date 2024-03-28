@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9250168,
+  "lon": -41.7547673
 }

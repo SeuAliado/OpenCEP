@@ -5,5 +5,7 @@
   "bairro": "Residencial Gente Feliz",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8679352,
+  "lon": -55.4920334
 }

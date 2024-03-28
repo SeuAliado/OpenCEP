@@ -5,5 +5,7 @@
   "bairro": "Flesmam",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7159554,
+  "lon": -43.547119
 }

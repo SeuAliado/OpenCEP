@@ -5,5 +5,7 @@
   "bairro": "Arumanduba",
   "localidade": "Almeirim",
   "uf": "PA",
-  "ibge": "1500503"
+  "ibge": "1500503",
+  "lat": -1.5259071,
+  "lon": -52.5814507
 }

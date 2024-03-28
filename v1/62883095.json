@@ -5,5 +5,7 @@
   "bairro": "Olho D'Água",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "lat": -4.0880433,
+  "lon": -38.4734729
 }

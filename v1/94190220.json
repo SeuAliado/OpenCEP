@@ -5,5 +5,7 @@
   "bairro": "Parque dos Anjos",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9603113,
+  "lon": -50.9794246
 }

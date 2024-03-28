@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Manhuaçu",
   "uf": "MG",
-  "ibge": "3158904"
+  "ibge": "3158904",
+  "lat": -20.106944,
+  "lon": -41.9259791
 }

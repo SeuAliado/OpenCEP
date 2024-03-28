@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monteirópolis",
   "uf": "AL",
-  "ibge": "2705408"
+  "ibge": "2705408",
+  "lat": -9.6059019,
+  "lon": -37.2486524
 }

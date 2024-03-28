@@ -5,5 +5,7 @@
   "bairro": "Residencial Daniela",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7564983,
+  "lon": -49.1007775
 }

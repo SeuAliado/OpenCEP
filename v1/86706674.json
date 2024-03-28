@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Grande",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4172719,
+  "lon": -51.4127352
 }

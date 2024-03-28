@@ -5,5 +5,7 @@
   "bairro": "Vila Graciosa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.578876,
+  "lon": -46.564413
 }

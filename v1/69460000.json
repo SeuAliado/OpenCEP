@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coari",
   "uf": "AM",
-  "ibge": "1301209"
+  "ibge": "1301209",
+  "lat": -4.8798602,
+  "lon": -64.7162415
 }

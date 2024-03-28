@@ -5,5 +5,7 @@
   "bairro": "Fazenda Santo Antônio",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.6197039,
+  "lon": -48.6380552
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Olho D'Água Grande",
   "uf": "AL",
-  "ibge": "2705903"
+  "ibge": "2705903",
+  "lat": -10.0567691,
+  "lon": -36.8147134
 }

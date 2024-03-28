@@ -5,5 +5,7 @@
   "bairro": "Arco-Íris",
   "localidade": "Erval Seco",
   "uf": "RS",
-  "ibge": "4307302"
+  "ibge": "4307302",
+  "lat": -27.5141817,
+  "lon": -53.4771481
 }

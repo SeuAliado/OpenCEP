@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Águia Branca",
   "uf": "ES",
-  "ibge": "3200136"
+  "ibge": "3200136",
+  "lat": -18.9848567,
+  "lon": -40.738062
 }

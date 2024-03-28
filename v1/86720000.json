@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sabáudia",
   "uf": "PR",
-  "ibge": "4122701"
+  "ibge": "4122701",
+  "lat": -23.3159883,
+  "lon": -51.5554904
 }

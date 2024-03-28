@@ -5,5 +5,7 @@
   "bairro": "São Bartolomeu (São Sebastião)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8914891,
+  "lon": -47.7800663
 }

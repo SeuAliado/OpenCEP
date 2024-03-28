@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.7883541,
+  "lon": -50.0122516
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Clara do Sul",
   "uf": "RS",
-  "ibge": "4316758"
+  "ibge": "4316758",
+  "lat": -29.468915,
+  "lon": -52.0827653
 }

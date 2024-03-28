@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Novo Mundo",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9556376,
+  "lon": -47.1715407
 }

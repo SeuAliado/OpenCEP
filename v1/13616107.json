@@ -5,5 +5,7 @@
   "bairro": "Residencial Rocco Lenci",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1749383,
+  "lon": -47.3741965
 }

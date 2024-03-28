@@ -5,5 +5,7 @@
   "bairro": "Gabirobal",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.2917294,
+  "lon": -49.2380029
 }

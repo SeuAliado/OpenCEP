@@ -5,5 +5,7 @@
   "bairro": "Distrito de Batateiras",
   "localidade": "Belém de Maria",
   "uf": "PE",
-  "ibge": "2601508"
+  "ibge": "2601508",
+  "lat": -8.562104,
+  "lon": -35.8244848
 }

@@ -5,5 +5,7 @@
   "bairro": "American Park",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7900203,
+  "lon": -49.2891208
 }

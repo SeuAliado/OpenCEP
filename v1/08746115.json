@@ -5,5 +5,7 @@
   "bairro": "Parque Olimpico",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5624824,
+  "lon": -46.2158486
 }

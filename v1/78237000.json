@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Curvelândia",
   "uf": "MT",
-  "ibge": "5103437"
+  "ibge": "5103437",
+  "lat": -15.6096313,
+  "lon": -57.9193917
 }

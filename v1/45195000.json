@@ -5,5 +5,7 @@
   "bairro": "Lucaia",
   "localidade": "Planalto",
   "uf": "BA",
-  "ibge": "2925006"
+  "ibge": "2925006",
+  "lat": -14.7480163,
+  "lon": -40.5084438
 }

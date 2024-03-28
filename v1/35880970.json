@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Rio Abaixo",
   "uf": "MG",
-  "ibge": "3160504"
+  "ibge": "3160504",
+  "lat": -19.22821,
+  "lon": -43.252711
 }

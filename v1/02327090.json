@@ -5,5 +5,7 @@
   "bairro": "Jardim Portal I e II",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4340551,
+  "lon": -46.5575719
 }

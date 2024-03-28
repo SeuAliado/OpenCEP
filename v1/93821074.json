@@ -5,5 +5,7 @@
   "bairro": "Amaral Ribeiro",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "lat": -29.635131,
+  "lon": -50.977224
 }

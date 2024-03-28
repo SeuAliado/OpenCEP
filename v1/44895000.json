@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barro Alto",
   "uf": "BA",
-  "ibge": "2903235"
+  "ibge": "2903235",
+  "lat": -11.8329231,
+  "lon": -41.8600768
 }

@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -2.6361911,
+  "lon": -56.7299906
 }

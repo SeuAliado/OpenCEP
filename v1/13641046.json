@@ -5,5 +5,7 @@
   "bairro": "Jardim Limoeiro",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.923044,
+  "lon": -47.3634868
 }

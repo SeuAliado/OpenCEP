@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubiretama",
   "uf": "RS",
-  "ibge": "4322343"
+  "ibge": "4322343",
+  "lat": -28.0424783,
+  "lon": -54.6812141
 }

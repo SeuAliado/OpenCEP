@@ -5,5 +5,7 @@
   "bairro": "Florália",
   "localidade": "Santa Bárbara",
   "uf": "MG",
-  "ibge": "3157203"
+  "ibge": "3157203",
+  "lat": -19.8266105,
+  "lon": -43.1634916
 }

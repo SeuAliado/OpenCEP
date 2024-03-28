@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itirapina",
   "uf": "SP",
-  "ibge": "3523602"
+  "ibge": "3523602",
+  "lat": -22.2567218,
+  "lon": -47.8170462
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Munhoz",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6499486,
+  "lon": -46.765118
 }

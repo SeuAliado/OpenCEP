@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4297964,
+  "lon": -46.8117948
 }

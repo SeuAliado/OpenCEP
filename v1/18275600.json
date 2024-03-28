@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosa Garcia",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.361146,
+  "lon": -47.854745
 }

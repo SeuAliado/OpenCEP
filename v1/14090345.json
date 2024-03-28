@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1749228,
+  "lon": -47.7925079
 }

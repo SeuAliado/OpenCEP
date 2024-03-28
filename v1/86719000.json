@@ -5,5 +5,7 @@
   "bairro": "Aricanduva",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4133817,
+  "lon": -51.4325029
 }

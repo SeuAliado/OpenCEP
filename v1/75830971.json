@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "lat": -17.5636848,
+  "lon": -52.5531216
 }

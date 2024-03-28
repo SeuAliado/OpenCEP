@@ -5,5 +5,7 @@
   "bairro": "Camacho",
   "localidade": "Jaguaruna",
   "uf": "SC",
-  "ibge": "4208807"
+  "ibge": "4208807",
+  "lat": -28.6125335,
+  "lon": -48.8642115
 }

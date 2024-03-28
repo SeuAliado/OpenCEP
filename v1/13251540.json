@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto de Santa Cruz",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.9918274,
+  "lon": -46.8269114
 }

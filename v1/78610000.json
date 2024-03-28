@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ponte Branca",
   "uf": "MT",
-  "ibge": "5106703"
+  "ibge": "5106703",
+  "lat": -16.6661467,
+  "lon": -52.9170407
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4371856,
+  "lon": -46.4100153
 }

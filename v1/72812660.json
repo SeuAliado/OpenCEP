@@ -5,5 +5,7 @@
   "bairro": "Setor Norte Maravilha",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2472706,
+  "lon": -47.949628
 }

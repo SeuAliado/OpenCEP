@@ -5,5 +5,7 @@
   "bairro": "Jardim São Sebastião",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6673495,
+  "lon": -46.411786
 }

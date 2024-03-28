@@ -5,5 +5,7 @@
   "bairro": "Barra Feliz",
   "localidade": "Santa Bárbara",
   "uf": "MG",
-  "ibge": "3157203"
+  "ibge": "3157203",
+  "lat": -19.9625918,
+  "lon": -43.4611818
 }

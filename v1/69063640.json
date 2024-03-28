@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.1105309,
+  "lon": -59.9957713
 }

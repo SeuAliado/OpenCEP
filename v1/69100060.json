@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1492833,
+  "lon": -58.4454685
 }

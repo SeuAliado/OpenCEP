@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Umbuzeiro",
   "uf": "PB",
-  "ibge": "2517001"
+  "ibge": "2517001",
+  "lat": -8.1506769,
+  "lon": -37.0095139
 }

@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Alvorada",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.864789,
+  "lon": -51.7090461
 }

@@ -5,5 +5,7 @@
   "bairro": "Belo Vale",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7817511,
+  "lon": -43.9152377
 }

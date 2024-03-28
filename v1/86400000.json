@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacarezinho",
   "uf": "PR",
-  "ibge": "4111803"
+  "ibge": "4111803",
+  "lat": -23.157939,
+  "lon": -49.9777202
 }

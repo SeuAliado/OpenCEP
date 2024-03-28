@@ -5,5 +5,7 @@
   "bairro": "Cemoaba",
   "localidade": "Tururu",
   "uf": "CE",
-  "ibge": "2313559"
+  "ibge": "2313559",
+  "lat": -3.5951189,
+  "lon": -39.4340188
 }

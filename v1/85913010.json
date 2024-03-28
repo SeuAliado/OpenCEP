@@ -5,5 +5,7 @@
   "bairro": "Jardim Bressan",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7498018,
+  "lon": -53.7373632
 }

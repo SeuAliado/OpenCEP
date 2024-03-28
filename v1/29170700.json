@@ -5,5 +5,7 @@
   "bairro": "Barro Branco",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1648698,
+  "lon": -40.2704292
 }

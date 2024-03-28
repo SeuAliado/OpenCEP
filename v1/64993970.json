@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gonçalo do Gurguéia",
   "uf": "PI",
-  "ibge": "2209757"
+  "ibge": "2209757",
+  "lat": -10.0288858,
+  "lon": -45.3048452
 }

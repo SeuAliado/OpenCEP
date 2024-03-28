@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coronel Martins",
   "uf": "SC",
-  "ibge": "4204459"
+  "ibge": "4204459",
+  "lat": -26.5115271,
+  "lon": -52.6698678
 }

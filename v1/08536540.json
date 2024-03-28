@@ -5,5 +5,7 @@
   "bairro": "Jardim Angelina",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.536064,
+  "lon": -46.3856594
 }

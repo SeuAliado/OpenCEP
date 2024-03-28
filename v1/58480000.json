@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cabaceiras",
   "uf": "PB",
-  "ibge": "2503100"
+  "ibge": "2503100",
+  "lat": -7.4904985,
+  "lon": -36.2877792
 }

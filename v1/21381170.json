@@ -5,5 +5,7 @@
   "bairro": "Tomás Coelho",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8736087,
+  "lon": -43.3061626
 }

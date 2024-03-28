@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salgado Filho",
   "uf": "PR",
-  "ibge": "4122800"
+  "ibge": "4122800",
+  "lat": -26.1781446,
+  "lon": -53.3636266
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juquitiba",
   "uf": "SP",
-  "ibge": "3526209"
+  "ibge": "3526209",
+  "lat": -23.9289154,
+  "lon": -47.0714922
 }

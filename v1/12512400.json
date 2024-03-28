@@ -5,5 +5,7 @@
   "bairro": "Jardim São Manoel",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7791864,
+  "lon": -45.208842
 }

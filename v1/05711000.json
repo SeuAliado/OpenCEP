@@ -5,5 +5,7 @@
   "bairro": "Jardim Vazani",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6118655,
+  "lon": -46.7436484
 }

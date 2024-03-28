@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejo Grande do Araguaia",
   "uf": "PA",
-  "ibge": "1501758"
+  "ibge": "1501758",
+  "lat": -5.6772888,
+  "lon": -48.4387577
 }

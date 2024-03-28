@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Passa Vinte",
   "uf": "MG",
-  "ibge": "3147808"
+  "ibge": "3147808",
+  "lat": -22.2070752,
+  "lon": -44.236992
 }

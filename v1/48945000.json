@@ -5,5 +5,7 @@
   "bairro": "Patamuté",
   "localidade": "Curaçá",
   "uf": "BA",
-  "ibge": "2909901"
+  "ibge": "2909901",
+  "lat": -9.3726876,
+  "lon": -39.4935401
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial II",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.3856373,
+  "lon": -51.4252044
 }

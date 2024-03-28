@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipiranga do Sul",
   "uf": "RS",
-  "ibge": "4310462"
+  "ibge": "4310462",
+  "lat": -27.9388731,
+  "lon": -52.4235235
 }

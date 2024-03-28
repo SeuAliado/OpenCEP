@@ -5,5 +5,7 @@
   "bairro": "Conjunto Nilson Neves",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5661489,
+  "lon": -48.5622953
 }

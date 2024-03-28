@@ -5,5 +5,7 @@
   "bairro": "Parque Araguaia",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "lat": -15.3091169,
+  "lon": -49.1174372
 }

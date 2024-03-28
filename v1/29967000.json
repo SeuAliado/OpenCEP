@@ -5,5 +5,7 @@
   "bairro": "Braço do Rio",
   "localidade": "Conceição da Barra",
   "uf": "ES",
-  "ibge": "3201605"
+  "ibge": "3201605",
+  "lat": -18.4341024,
+  "lon": -39.9316265
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Faculdade",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5142583,
+  "lon": -47.4634573
 }

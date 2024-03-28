@@ -5,5 +5,7 @@
   "bairro": "Vila Santos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6171712,
+  "lon": -46.5348658
 }

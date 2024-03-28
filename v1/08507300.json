@@ -5,5 +5,7 @@
   "bairro": "Vila São Paulo",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5629597,
+  "lon": -46.367652
 }

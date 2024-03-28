@@ -5,5 +5,7 @@
   "bairro": "Loteamento Tupinambá dos Reis",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6529424,
+  "lon": -49.1804773
 }

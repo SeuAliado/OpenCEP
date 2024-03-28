@@ -5,5 +5,7 @@
   "bairro": "Terra Prometida",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.758834,
+  "lon": -49.677032
 }

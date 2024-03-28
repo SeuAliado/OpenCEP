@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campina do Simão",
   "uf": "PR",
-  "ibge": "4103958"
+  "ibge": "4103958",
+  "lat": -25.1085903,
+  "lon": -51.807913
 }

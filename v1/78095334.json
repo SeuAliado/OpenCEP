@@ -5,5 +5,7 @@
   "bairro": "Parque Cuiabá",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.65921,
+  "lon": -56.0445028
 }

@@ -5,5 +5,7 @@
   "bairro": "Mangueiras",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5312132,
+  "lon": -42.596965
 }

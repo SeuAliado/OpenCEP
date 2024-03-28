@@ -5,5 +5,7 @@
   "bairro": "Jardim Adalgisa",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7592906,
+  "lon": -48.1639741
 }

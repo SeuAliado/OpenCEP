@@ -5,5 +5,7 @@
   "bairro": "Vila Bortoletto",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7613063,
+  "lon": -47.4162483
 }

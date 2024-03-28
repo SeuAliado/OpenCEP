@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.1151747,
+  "lon": -35.2983524
 }

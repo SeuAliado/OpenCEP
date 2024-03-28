@@ -5,5 +5,7 @@
   "bairro": "Cruz",
   "localidade": "Itapajé",
   "uf": "CE",
-  "ibge": "2306306"
+  "ibge": "2306306",
+  "lat": -3.6762434,
+  "lon": -39.5813723
 }

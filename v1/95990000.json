@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ilópolis",
   "uf": "RS",
-  "ibge": "4310306"
+  "ibge": "4310306",
+  "lat": -28.9394101,
+  "lon": -52.1381578
 }

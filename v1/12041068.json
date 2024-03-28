@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial e Comercial Bosque Flamboyant",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0267168,
+  "lon": -45.575467
 }

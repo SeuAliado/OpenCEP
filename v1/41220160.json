@@ -5,5 +5,7 @@
   "bairro": "Mata Escura",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9351959,
+  "lon": -38.4645536
 }

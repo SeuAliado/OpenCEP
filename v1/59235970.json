@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lajes Pintadas",
   "uf": "RN",
-  "ibge": "2406809"
+  "ibge": "2406809",
+  "lat": -6.1500203,
+  "lon": -36.1167863
 }

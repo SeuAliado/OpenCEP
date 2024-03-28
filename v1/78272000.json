@@ -5,5 +5,7 @@
   "bairro": "Cristinópolis",
   "localidade": "Salto do Céu",
   "uf": "MT",
-  "ibge": "5107750"
+  "ibge": "5107750",
+  "lat": -15.1803855,
+  "lon": -57.9912434
 }

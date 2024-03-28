@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -23.1498176,
+  "lon": -45.8981848
 }

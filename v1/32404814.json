@@ -5,5 +5,7 @@
   "bairro": "Marilândia - 2ª Seção",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0006385,
+  "lon": -44.0484345
 }

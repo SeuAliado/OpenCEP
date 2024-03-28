@@ -5,5 +5,7 @@
   "bairro": "Nova Candeias",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -12.668949,
+  "lon": -38.5389733
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Mussahiro",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3592364,
+  "lon": -51.1436796
 }

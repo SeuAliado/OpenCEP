@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ingaí",
   "uf": "MG",
-  "ibge": "3130804"
+  "ibge": "3130804",
+  "lat": -21.4017277,
+  "lon": -44.9187212
 }

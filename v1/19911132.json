@@ -5,5 +5,7 @@
   "bairro": "Jardim do Sol II",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9644461,
+  "lon": -49.8770034
 }

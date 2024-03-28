@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Buriti",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4244225,
+  "lon": -54.624504
 }

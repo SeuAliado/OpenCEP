@@ -5,5 +5,7 @@
   "bairro": "Bacaxá (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8956382,
+  "lon": -42.4638877
 }

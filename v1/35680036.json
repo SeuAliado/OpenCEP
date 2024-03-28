@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0777724,
+  "lon": -44.5781624
 }

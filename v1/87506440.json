@@ -5,5 +5,7 @@
   "bairro": "Parque Danielle",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7858011,
+  "lon": -53.3196078
 }

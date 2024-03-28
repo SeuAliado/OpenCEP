@@ -5,5 +5,7 @@
   "bairro": "Parque das Oliveiras",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1199476,
+  "lon": -47.838511
 }

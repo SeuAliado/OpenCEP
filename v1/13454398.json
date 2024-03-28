@@ -5,5 +5,7 @@
   "bairro": "Loteamento Planalto do Sol",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7348389,
+  "lon": -47.3908472
 }

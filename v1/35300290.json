@@ -5,5 +5,7 @@
   "bairro": "Santa Zita",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7898844,
+  "lon": -42.1316524
 }

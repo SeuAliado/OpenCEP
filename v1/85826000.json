@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lindoeste",
   "uf": "PR",
-  "ibge": "4113452"
+  "ibge": "4113452",
+  "lat": -25.2600928,
+  "lon": -53.5738063
 }

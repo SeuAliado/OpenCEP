@@ -5,5 +5,7 @@
   "bairro": "Jardim Sônia Inga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6767498,
+  "lon": -46.7684677
 }

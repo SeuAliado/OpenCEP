@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Mundo",
   "uf": "MT",
-  "ibge": "5106265"
+  "ibge": "5106265",
+  "lat": -9.9616709,
+  "lon": -55.2075349
 }

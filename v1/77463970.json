@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Crixás do Tocantins",
   "uf": "TO",
-  "ibge": "1706258"
+  "ibge": "1706258",
+  "lat": -11.1043992,
+  "lon": -48.9163836
 }

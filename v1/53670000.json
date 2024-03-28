@@ -5,5 +5,7 @@
   "bairro": "Três Ladeiras",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8652692,
+  "lon": -34.8996847
 }

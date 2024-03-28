@@ -5,5 +5,7 @@
   "bairro": "Asa Norte",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7685793,
+  "lon": -47.8879376
 }

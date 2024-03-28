@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1834723,
+  "lon": -47.4070559
 }

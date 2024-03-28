@@ -5,5 +5,7 @@
   "bairro": "Solar dos Lusitanos",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.4938567,
+  "lon": -44.231052
 }

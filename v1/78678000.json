@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus do Araguaia",
   "uf": "MT",
-  "ibge": "5101852"
+  "ibge": "5101852",
+  "lat": -12.289816,
+  "lon": -51.7677972
 }

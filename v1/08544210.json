@@ -5,5 +5,7 @@
   "bairro": "Jardim Temporim",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5327009,
+  "lon": -46.3650361
 }

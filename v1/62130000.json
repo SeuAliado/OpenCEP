@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "lat": -3.540118,
+  "lon": -40.4534665
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Vitória",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7621487,
+  "lon": -43.3557844
 }

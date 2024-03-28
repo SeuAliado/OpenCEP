@@ -5,5 +5,7 @@
   "bairro": "Três Poços",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4868892,
+  "lon": -44.0570407
 }

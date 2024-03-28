@@ -5,5 +5,7 @@
   "bairro": "São Conrado",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3430202,
+  "lon": -40.3743049
 }

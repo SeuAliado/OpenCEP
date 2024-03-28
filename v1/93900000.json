@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ivoti",
   "uf": "RS",
-  "ibge": "4310801"
+  "ibge": "4310801",
+  "lat": -29.5999626,
+  "lon": -51.1538353
 }

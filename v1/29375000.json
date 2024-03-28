@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Venda Nova do Imigrante",
   "uf": "ES",
-  "ibge": "3205069"
+  "ibge": "3205069",
+  "lat": -20.3275068,
+  "lon": -41.1359347
 }

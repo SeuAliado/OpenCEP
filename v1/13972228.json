@@ -5,5 +5,7 @@
   "bairro": "Jardim Itamaracá",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4247181,
+  "lon": -46.8096381
 }

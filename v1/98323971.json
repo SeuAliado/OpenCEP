@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro das Missões",
   "uf": "RS",
-  "ibge": "4319364"
+  "ibge": "4319364",
+  "lat": -28.3000473,
+  "lon": -54.2659493
 }

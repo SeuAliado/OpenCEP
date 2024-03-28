@@ -5,5 +5,7 @@
   "bairro": "Asa Branca",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8178888,
+  "lon": -60.7242046
 }

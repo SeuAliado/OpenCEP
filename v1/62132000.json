@@ -5,5 +5,7 @@
   "bairro": "Camilos",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "lat": -3.6142616,
+  "lon": -40.484377
 }

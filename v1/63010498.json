@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.204847,
+  "lon": -39.3046986
 }

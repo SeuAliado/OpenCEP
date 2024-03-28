@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.014734,
+  "lon": -34.9808426
 }

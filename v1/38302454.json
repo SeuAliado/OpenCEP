@@ -5,5 +5,7 @@
   "bairro": "Residencial Buritis",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9793516,
+  "lon": -49.4360624
 }

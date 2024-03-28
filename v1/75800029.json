@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8753307,
+  "lon": -51.7161466
 }

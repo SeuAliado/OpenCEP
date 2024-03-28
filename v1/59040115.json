@@ -5,5 +5,7 @@
   "bairro": "Alecrim",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.8096691,
+  "lon": -35.2409483
 }

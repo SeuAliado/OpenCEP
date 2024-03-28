@@ -5,5 +5,7 @@
   "bairro": "Jardim Maravilha",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3840292,
+  "lon": -40.5160587
 }

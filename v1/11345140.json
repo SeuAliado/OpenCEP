@@ -5,5 +5,7 @@
   "bairro": "Jardim Sorocabanos",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9922255,
+  "lon": -46.4848806
 }

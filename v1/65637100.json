@@ -5,5 +5,7 @@
   "bairro": "Marimar",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.0898099,
+  "lon": -42.8432127
 }

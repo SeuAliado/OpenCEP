@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Santo Antônio",
   "uf": "PI",
-  "ibge": "2206951"
+  "ibge": "2206951",
+  "lat": -5.2878767,
+  "lon": -41.9329068
 }

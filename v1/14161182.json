@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1252588,
+  "lon": -47.997898
 }

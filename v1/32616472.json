@@ -5,5 +5,7 @@
   "bairro": "Quintas do Godoy",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9357324,
+  "lon": -44.2109366
 }

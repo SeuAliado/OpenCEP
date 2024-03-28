@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Deolinda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5198594,
+  "lon": -46.4276313
 }

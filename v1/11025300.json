@@ -5,5 +5,7 @@
   "bairro": "Estuário",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9786168,
+  "lon": -46.2954792
 }

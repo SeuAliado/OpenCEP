@@ -5,5 +5,7 @@
   "bairro": "Alto Pongal",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "lat": -20.7045459,
+  "lon": -40.6714385
 }

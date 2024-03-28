@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Terezinha",
   "uf": "MT",
-  "ibge": "5107776"
+  "ibge": "5107776",
+  "lat": -15.5434786,
+  "lon": -55.1610205
 }

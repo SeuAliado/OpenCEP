@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dois Lajeados",
   "uf": "RS",
-  "ibge": "4306452"
+  "ibge": "4306452",
+  "lat": -28.9835908,
+  "lon": -51.8366021
 }

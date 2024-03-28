@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9028165,
+  "lon": -48.3067655
 }

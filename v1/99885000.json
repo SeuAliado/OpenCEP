@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Machadinho",
   "uf": "RS",
-  "ibge": "4311700"
+  "ibge": "4311700",
+  "lat": -29.2379127,
+  "lon": -51.3565079
 }

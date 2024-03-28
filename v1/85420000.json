@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Corbélia",
   "uf": "PR",
-  "ibge": "4106308"
+  "ibge": "4106308",
+  "lat": -24.795383,
+  "lon": -53.2960968
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Valparaíba",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1748354,
+  "lon": -45.840309
 }

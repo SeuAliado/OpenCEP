@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus do Itabapoana",
   "uf": "RJ",
-  "ibge": "3300605"
+  "ibge": "3300605",
+  "lat": -21.1366869,
+  "lon": -41.675937
 }

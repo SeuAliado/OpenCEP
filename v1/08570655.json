@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.478032,
+  "lon": -46.3576837
 }

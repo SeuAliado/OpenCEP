@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5425699,
+  "lon": -46.944977
 }

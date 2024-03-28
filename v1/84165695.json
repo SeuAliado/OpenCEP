@@ -5,5 +5,7 @@
   "bairro": "Lacustre",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.7948423,
+  "lon": -50.0045338
 }

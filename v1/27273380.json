@@ -5,5 +5,7 @@
   "bairro": "Padre Josino",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5027965,
+  "lon": -44.1181907
 }

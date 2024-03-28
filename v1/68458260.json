@@ -5,5 +5,7 @@
   "bairro": "Jaqueira",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.7641377,
+  "lon": -49.6673259
 }

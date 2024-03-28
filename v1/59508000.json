@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipanguaçu",
   "uf": "RN",
-  "ibge": "2404705"
+  "ibge": "2404705",
+  "lat": -5.5151271,
+  "lon": -36.8250274
 }

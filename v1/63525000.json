@@ -5,5 +5,7 @@
   "bairro": "Palestina",
   "localidade": "Orós",
   "uf": "CE",
-  "ibge": "2309508"
+  "ibge": "2309508",
+  "lat": -6.3298146,
+  "lon": -39.031035
 }

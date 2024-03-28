@@ -5,5 +5,7 @@
   "bairro": "Arruda",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0245304,
+  "lon": -34.8952879
 }

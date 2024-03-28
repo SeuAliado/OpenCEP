@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Alto Alegre",
   "uf": "RS",
-  "ibge": "4300554"
+  "ibge": "4300554",
+  "lat": -30.0460767,
+  "lon": -51.185557
 }

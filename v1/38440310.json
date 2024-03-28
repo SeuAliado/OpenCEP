@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6650268,
+  "lon": -48.2023911
 }

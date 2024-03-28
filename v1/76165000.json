@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Americano do Brasil",
   "uf": "GO",
-  "ibge": "5200852"
+  "ibge": "5200852",
+  "lat": -16.2518975,
+  "lon": -49.9835817
 }

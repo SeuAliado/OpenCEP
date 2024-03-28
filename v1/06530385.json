@@ -5,5 +5,7 @@
   "bairro": "Jardim Bahia (Fazendinha)",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.4105672,
+  "lon": -46.8837966
 }

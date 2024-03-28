@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Manari",
   "uf": "PE",
-  "ibge": "2609154"
+  "ibge": "2609154",
+  "lat": -8.9653217,
+  "lon": -37.6316378
 }

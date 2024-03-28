@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cecília",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9690239,
+  "lon": -49.8885261
 }

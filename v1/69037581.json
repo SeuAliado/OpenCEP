@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.1033965,
+  "lon": -60.0620156
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paquetá (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6899756,
+  "lon": -46.706407
 }

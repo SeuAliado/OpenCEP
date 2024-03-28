@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra da Estiva",
   "uf": "BA",
-  "ibge": "2902807"
+  "ibge": "2902807",
+  "lat": -13.6241479,
+  "lon": -41.3350748
 }

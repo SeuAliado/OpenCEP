@@ -5,5 +5,7 @@
   "bairro": "Parque Atenas do Sul",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5945422,
+  "lon": -48.0669084
 }

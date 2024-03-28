@@ -5,5 +5,7 @@
   "bairro": "Tauá",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.795678,
+  "lon": -43.2095867
 }

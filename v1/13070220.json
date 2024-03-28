@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Botafogo",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8958891,
+  "lon": -47.0722418
 }

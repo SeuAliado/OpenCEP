@@ -5,5 +5,7 @@
   "bairro": "Jardim Ivete",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5471124,
+  "lon": -46.1992492
 }

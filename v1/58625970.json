@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Mamede",
   "uf": "PB",
-  "ibge": "2514909"
+  "ibge": "2514909",
+  "lat": -6.9274491,
+  "lon": -37.0961162
 }

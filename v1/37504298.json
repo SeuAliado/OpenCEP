@@ -5,5 +5,7 @@
   "bairro": "Açude",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4273163,
+  "lon": -45.4948986
 }

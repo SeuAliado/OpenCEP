@@ -5,5 +5,7 @@
   "bairro": "Residencial Park dos Buritis",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7457845,
+  "lon": -49.0670376
 }

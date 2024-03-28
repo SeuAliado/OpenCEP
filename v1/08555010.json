@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Luiza",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5123405,
+  "lon": -46.3596327
 }

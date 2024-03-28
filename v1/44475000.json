@@ -5,5 +5,7 @@
   "bairro": "Jiribatuba",
   "localidade": "Vera Cruz",
   "uf": "BA",
-  "ibge": "2933208"
+  "ibge": "2933208",
+  "lat": -13.0606837,
+  "lon": -38.7962299
 }

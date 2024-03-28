@@ -5,5 +5,7 @@
   "bairro": "7º Distrito Industrial (Antonio Zanin)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8187721,
+  "lon": -48.1726156
 }

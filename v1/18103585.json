@@ -5,5 +5,7 @@
   "bairro": "Jardim Alegria",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4112932,
+  "lon": -47.4091338
 }

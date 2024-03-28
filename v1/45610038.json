@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Clara",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8203955,
+  "lon": -39.2959101
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Euclides",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.6986123,
+  "lon": -46.5599425
 }

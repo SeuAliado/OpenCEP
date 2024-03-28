@@ -5,5 +5,7 @@
   "bairro": "América",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5696797,
+  "lon": -48.5757464
 }

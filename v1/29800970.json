@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "lat": -18.755527,
+  "lon": -40.8925483
 }

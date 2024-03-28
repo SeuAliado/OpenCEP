@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa de Dentro",
   "uf": "PB",
-  "ibge": "2508208"
+  "ibge": "2508208",
+  "lat": -6.6735889,
+  "lon": -35.3701119
 }

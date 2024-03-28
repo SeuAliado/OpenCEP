@@ -5,5 +5,7 @@
   "bairro": "Imburana",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "lat": -18.1883377,
+  "lon": -40.7158097
 }

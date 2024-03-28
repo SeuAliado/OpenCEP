@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Cerro Largo",
   "uf": "RS",
-  "ibge": "4305207"
+  "ibge": "4305207",
+  "lat": -28.1485664,
+  "lon": -54.7217928
 }

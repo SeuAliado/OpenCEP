@@ -5,5 +5,7 @@
   "bairro": "Cidade Santa Cruz",
   "localidade": "Luís Eduardo Magalhães",
   "uf": "BA",
-  "ibge": "2919553"
+  "ibge": "2919553",
+  "lat": -11.8348855,
+  "lon": -39.6051963
 }

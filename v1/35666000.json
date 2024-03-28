@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maravilhas",
   "uf": "MG",
-  "ibge": "3139706"
+  "ibge": "3139706",
+  "lat": -19.5118239,
+  "lon": -44.6818377
 }

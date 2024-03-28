@@ -5,5 +5,7 @@
   "bairro": "Jardim Copaíba",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4149212,
+  "lon": -47.4180585
 }

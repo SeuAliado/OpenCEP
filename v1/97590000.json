@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rosário do Sul",
   "uf": "RS",
-  "ibge": "4316402"
+  "ibge": "4316402",
+  "lat": -30.2488032,
+  "lon": -54.9226452
 }

@@ -5,5 +5,7 @@
   "bairro": "Estrela da Vitória",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7743473,
+  "lon": -47.9719013
 }

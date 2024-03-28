@@ -5,5 +5,7 @@
   "bairro": "Jardim Dinar",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6582215,
+  "lon": -46.7372484
 }

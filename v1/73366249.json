@@ -5,5 +5,7 @@
   "bairro": "Residencial Flamboyant (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -22.5318601,
+  "lon": -44.1275126
 }

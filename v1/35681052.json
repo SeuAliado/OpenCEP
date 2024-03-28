@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.1015203,
+  "lon": -44.5940752
 }

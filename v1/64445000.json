@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Miguel Leão",
   "uf": "PI",
-  "ibge": "2206308"
+  "ibge": "2206308",
+  "lat": -5.6811621,
+  "lon": -42.7439747
 }

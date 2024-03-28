@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagamar",
   "uf": "MG",
-  "ibge": "3137106"
+  "ibge": "3137106",
+  "lat": -18.1763834,
+  "lon": -46.8067755
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Esperança Nova",
   "uf": "PR",
-  "ibge": "4107520"
+  "ibge": "4107520",
+  "lat": -23.7253493,
+  "lon": -53.8113597
 }

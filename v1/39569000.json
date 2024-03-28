@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Curral de Dentro",
   "uf": "MG",
-  "ibge": "3120870"
+  "ibge": "3120870",
+  "lat": -15.9331716,
+  "lon": -41.8560703
 }

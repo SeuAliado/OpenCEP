@@ -5,5 +5,7 @@
   "bairro": "Doutor Sílvio Botelho",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8007558,
+  "lon": -60.7403912
 }

@@ -5,5 +5,7 @@
   "bairro": "Gávea",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9752656,
+  "lon": -43.2261513
 }

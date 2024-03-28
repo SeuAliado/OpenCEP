@@ -5,5 +5,7 @@
   "bairro": "Carlos Alves",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "lat": -21.5313363,
+  "lon": -43.0152204
 }

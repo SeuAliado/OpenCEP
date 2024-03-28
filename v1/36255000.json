@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aracitaba",
   "uf": "MG",
-  "ibge": "3103306"
+  "ibge": "3103306",
+  "lat": -21.345109,
+  "lon": -43.374032
 }

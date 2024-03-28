@@ -5,5 +5,7 @@
   "bairro": "Laranjeiras",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9341493,
+  "lon": -43.1807075
 }

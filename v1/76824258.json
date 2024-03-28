@@ -5,5 +5,7 @@
   "bairro": "Igarapé",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7441636,
+  "lon": -63.8583515
 }

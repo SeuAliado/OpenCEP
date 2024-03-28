@@ -5,5 +5,7 @@
   "bairro": "Boca da Mata de Valéria",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8593943,
+  "lon": -38.452887
 }

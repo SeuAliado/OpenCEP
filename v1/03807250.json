@@ -5,5 +5,7 @@
   "bairro": "Vila Paranaguá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4975018,
+  "lon": -46.4715886
 }

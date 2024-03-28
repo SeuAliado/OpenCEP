@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto de Pedras",
   "uf": "AL",
-  "ibge": "2707404"
+  "ibge": "2707404",
+  "lat": -9.1604893,
+  "lon": -35.3052331
 }

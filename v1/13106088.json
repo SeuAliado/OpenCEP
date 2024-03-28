@@ -5,5 +5,7 @@
   "bairro": "Jardim Martinelli (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8830049,
+  "lon": -46.9639002
 }

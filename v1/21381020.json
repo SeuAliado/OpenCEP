@@ -5,5 +5,7 @@
   "bairro": "Quintino Bocaiúva",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.883842,
+  "lon": -43.3121416
 }

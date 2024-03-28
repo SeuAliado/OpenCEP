@@ -5,5 +5,7 @@
   "bairro": "Várzea da Cruz",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7582829,
+  "lon": -38.2358724
 }

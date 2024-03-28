@@ -5,5 +5,7 @@
   "bairro": "Residencial Acapulco",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1188461,
+  "lon": -48.9798909
 }

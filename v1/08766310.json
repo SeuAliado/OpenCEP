@@ -5,5 +5,7 @@
   "bairro": "Conjunto Oropó",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5712001,
+  "lon": -46.1958069
 }

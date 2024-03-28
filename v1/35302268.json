@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7822668,
+  "lon": -42.1287968
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Roberto Selmi Dei",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7296032,
+  "lon": -48.1514197
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9763723,
+  "lon": -49.444871
 }

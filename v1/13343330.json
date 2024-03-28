@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0955425,
+  "lon": -47.2017534
 }

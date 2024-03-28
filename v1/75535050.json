@@ -5,5 +5,7 @@
   "bairro": "Dona Marolina",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.409876,
+  "lon": -49.2684634
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nelo Cariola",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8844522,
+  "lon": -48.4483839
 }

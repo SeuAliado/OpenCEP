@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristais",
   "uf": "MG",
-  "ibge": "3120201"
+  "ibge": "3120201",
+  "lat": -20.8751401,
+  "lon": -45.5187819
 }

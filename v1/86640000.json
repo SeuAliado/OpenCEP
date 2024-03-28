@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cafeara",
   "uf": "PR",
-  "ibge": "4103404"
+  "ibge": "4103404",
+  "lat": -22.7895237,
+  "lon": -51.7146798
 }

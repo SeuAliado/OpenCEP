@@ -5,5 +5,7 @@
   "bairro": "Jutaí",
   "localidade": "Santa Maria da Boa Vista",
   "uf": "PE",
-  "ibge": "2612604"
+  "ibge": "2612604",
+  "lat": -8.8026217,
+  "lon": -39.8274439
 }

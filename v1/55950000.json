@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaquitinga",
   "uf": "PE",
-  "ibge": "2607802"
+  "ibge": "2607802",
+  "lat": -7.6680214,
+  "lon": -35.1009135
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim 8 de Abril",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.373186,
+  "lon": -47.3762293
 }

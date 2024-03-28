@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mulungu",
   "uf": "CE",
-  "ibge": "2309102"
+  "ibge": "2309102",
+  "lat": -4.3130998,
+  "lon": -39.0005254
 }

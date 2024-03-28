@@ -5,5 +5,7 @@
   "bairro": "Morada da Montanha",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4913545,
+  "lon": -44.5018121
 }

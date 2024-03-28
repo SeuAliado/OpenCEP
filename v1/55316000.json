@@ -5,5 +5,7 @@
   "bairro": "Pau Amarelo",
   "localidade": "Correntes",
   "uf": "PE",
-  "ibge": "2604700"
+  "ibge": "2604700",
+  "lat": -7.9291575,
+  "lon": -34.827563
 }

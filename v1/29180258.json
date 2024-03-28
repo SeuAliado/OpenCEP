@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova da Serra",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.0547521,
+  "lon": -40.197799
 }

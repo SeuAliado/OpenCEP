@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Rio Pardo",
   "uf": "SP",
-  "ibge": "3549706"
+  "ibge": "3549706",
+  "lat": -21.5977884,
+  "lon": -46.8903807
 }

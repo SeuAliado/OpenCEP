@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muniz Ferreira",
   "uf": "BA",
-  "ibge": "2922201"
+  "ibge": "2922201",
+  "lat": -13.0009671,
+  "lon": -39.1066083
 }

@@ -5,5 +5,7 @@
   "bairro": "Itaim Paulista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5097941,
+  "lon": -46.3791313
 }

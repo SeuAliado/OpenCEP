@@ -5,5 +5,7 @@
   "bairro": "Parque dos Artistas (Rio do Ouro)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.5318601,
+  "lon": -44.1275126
 }

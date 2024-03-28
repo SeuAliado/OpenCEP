@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José da Safira",
   "uf": "MG",
-  "ibge": "3163003"
+  "ibge": "3163003",
+  "lat": -18.3289875,
+  "lon": -42.1375086
 }

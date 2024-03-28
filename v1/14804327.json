@@ -5,5 +5,7 @@
   "bairro": "Centro Empresarial e Industrial Omar Maksoud",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7764192,
+  "lon": -48.2286508
 }

@@ -5,5 +5,7 @@
   "bairro": "Itapuã",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3512264,
+  "lon": -40.283753
 }

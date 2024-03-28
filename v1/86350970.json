@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Mariana",
   "uf": "PR",
-  "ibge": "4123907"
+  "ibge": "4123907",
+  "lat": -23.1466969,
+  "lon": -50.516217
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Caetano",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5063034,
+  "lon": -47.4858771
 }

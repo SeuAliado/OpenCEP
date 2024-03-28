@@ -5,5 +5,7 @@
   "bairro": "Parada XV de Novembro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.529158,
+  "lon": -46.4328348
 }

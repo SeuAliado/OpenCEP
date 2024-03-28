@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aral Moreira",
   "uf": "MS",
-  "ibge": "5001243"
+  "ibge": "5001243",
+  "lat": -22.9512844,
+  "lon": -55.6304788
 }

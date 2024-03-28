@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bocaina",
   "uf": "SP",
-  "ibge": "3506805"
+  "ibge": "3506805",
+  "lat": -22.7003463,
+  "lon": -46.7661399
 }

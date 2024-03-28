@@ -5,5 +5,7 @@
   "bairro": "Quietude",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.0139444,
+  "lon": -46.4758512
 }

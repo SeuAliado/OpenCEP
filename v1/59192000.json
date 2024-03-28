@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Flor",
   "uf": "RN",
-  "ibge": "2415008"
+  "ibge": "2415008",
+  "lat": -6.3132699,
+  "lon": -35.0673378
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brasileira",
   "uf": "PI",
-  "ibge": "2201960"
+  "ibge": "2201960",
+  "lat": -4.1308552,
+  "lon": -41.7834069
 }

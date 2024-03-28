@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3524118,
+  "lon": -51.2089809
 }

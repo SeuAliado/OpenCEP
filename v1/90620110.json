@@ -5,5 +5,7 @@
   "bairro": "Rio Branco",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0448816,
+  "lon": -51.2042437
 }

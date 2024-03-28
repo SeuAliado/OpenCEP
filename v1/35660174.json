@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Lourdes",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8555865,
+  "lon": -44.6139348
 }

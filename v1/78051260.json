@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Inês",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5877122,
+  "lon": -56.0548962
 }

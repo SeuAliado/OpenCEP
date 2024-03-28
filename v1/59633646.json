@@ -5,5 +5,7 @@
   "bairro": "Alto do Sumaré",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.2278065,
+  "lon": -37.3349179
 }

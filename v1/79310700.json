@@ -5,5 +5,7 @@
   "bairro": "Popular Velha",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "lat": -19.017224,
+  "lon": -57.6444623
 }

@@ -5,5 +5,7 @@
   "bairro": "Paulicéia",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.6685283,
+  "lon": -46.5944966
 }

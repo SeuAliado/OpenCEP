@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João da Baliza",
   "uf": "RR",
-  "ibge": "1400506"
+  "ibge": "1400506",
+  "lat": 0.9489857,
+  "lon": -59.9119413
 }

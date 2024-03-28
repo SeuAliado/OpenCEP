@@ -5,5 +5,7 @@
   "bairro": "Maria Luiza",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9708741,
+  "lon": -53.4457819
 }

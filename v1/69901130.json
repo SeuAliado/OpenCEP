@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.963744,
+  "lon": -67.790365
 }

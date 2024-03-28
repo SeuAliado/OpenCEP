@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Codajás",
   "uf": "AM",
-  "ibge": "1301308"
+  "ibge": "1301308",
+  "lat": -3.8402855,
+  "lon": -62.0607409
 }

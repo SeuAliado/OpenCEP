@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.792747,
+  "lon": -47.9282703
 }

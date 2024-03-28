@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio do Tauá",
   "uf": "PA",
-  "ibge": "1507003"
+  "ibge": "1507003",
+  "lat": -1.1528451,
+  "lon": -48.1332106
 }

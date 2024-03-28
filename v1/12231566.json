@@ -5,5 +5,7 @@
   "bairro": "Vila Luchetti",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1505507,
+  "lon": -45.9023632
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araçagi",
   "uf": "PB",
-  "ibge": "2500809"
+  "ibge": "2500809",
+  "lat": -6.8527094,
+  "lon": -35.380508
 }

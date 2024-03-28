@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz de Goiás",
   "uf": "GO",
-  "ibge": "5219209"
+  "ibge": "5219209",
+  "lat": -17.3943798,
+  "lon": -48.598804
 }

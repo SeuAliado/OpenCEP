@@ -5,5 +5,7 @@
   "bairro": "Jardim Auri Verde",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3316126,
+  "lon": -49.0455801
 }

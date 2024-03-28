@@ -5,5 +5,7 @@
   "bairro": "Derby Clube",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5335897,
+  "lon": -48.5732571
 }

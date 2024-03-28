@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedro Teixeira",
   "uf": "MG",
-  "ibge": "3149408"
+  "ibge": "3149408",
+  "lat": -21.7065338,
+  "lon": -43.7465833
 }

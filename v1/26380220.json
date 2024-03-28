@@ -5,5 +5,7 @@
   "bairro": "Vila das Porteiras",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7093624,
+  "lon": -43.5541442
 }

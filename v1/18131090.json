@@ -5,5 +5,7 @@
   "bairro": "Jardim Esther",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5315188,
+  "lon": -47.1417341
 }

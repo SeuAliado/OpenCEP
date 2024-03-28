@@ -5,5 +5,7 @@
   "bairro": "Messejana",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.85055,
+  "lon": -38.5020418
 }

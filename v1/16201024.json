@@ -5,5 +5,7 @@
   "bairro": "Vila Silvares",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2780987,
+  "lon": -50.3349049
 }

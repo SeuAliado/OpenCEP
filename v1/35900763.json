@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6324361,
+  "lon": -43.2163356
 }

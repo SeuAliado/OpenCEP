@@ -5,5 +5,7 @@
   "bairro": "Sítio Areião",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.413574,
+  "lon": -46.7389318
 }

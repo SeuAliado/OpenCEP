@@ -5,5 +5,7 @@
   "bairro": "Saramandaia",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8397009,
+  "lon": -34.9085051
 }

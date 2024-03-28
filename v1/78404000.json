@@ -5,5 +5,7 @@
   "bairro": "Sumidouro",
   "localidade": "Diamantino",
   "uf": "MT",
-  "ibge": "5103502"
+  "ibge": "5103502",
+  "lat": -13.8154264,
+  "lon": -56.6929554
 }

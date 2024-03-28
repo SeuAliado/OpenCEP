@@ -5,5 +5,7 @@
   "bairro": "Três Bandeiras",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "lat": -25.4852172,
+  "lon": -54.5324792
 }

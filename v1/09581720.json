@@ -5,5 +5,7 @@
   "bairro": "Jardim São Caetano",
   "localidade": "São Caetano do Sul",
   "uf": "SP",
-  "ibge": "3548807"
+  "ibge": "3548807",
+  "lat": -23.6392295,
+  "lon": -46.5789227
 }

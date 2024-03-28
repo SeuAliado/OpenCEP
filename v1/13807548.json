@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto Mirim",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4018493,
+  "lon": -46.9687387
 }

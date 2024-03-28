@@ -5,5 +5,7 @@
   "bairro": "Chácara Nova Odessa",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3539012,
+  "lon": -46.9304083
 }

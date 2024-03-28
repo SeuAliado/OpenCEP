@@ -5,5 +5,7 @@
   "bairro": "Porto Novo",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8226617,
+  "lon": -43.0784025
 }

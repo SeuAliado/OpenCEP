@@ -5,5 +5,7 @@
   "bairro": "Jardim Rodolfo Pirani",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.632347,
+  "lon": -46.4530751
 }

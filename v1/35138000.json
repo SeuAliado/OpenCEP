@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alpercata",
   "uf": "MG",
-  "ibge": "3101805"
+  "ibge": "3101805",
+  "lat": -18.9729324,
+  "lon": -42.0187848
 }

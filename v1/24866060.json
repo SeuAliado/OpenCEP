@@ -5,5 +5,7 @@
   "bairro": "Grande Rio (Itambi)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7262578,
+  "lon": -42.9255967
 }

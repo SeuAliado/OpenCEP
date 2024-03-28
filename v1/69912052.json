@@ -5,5 +5,7 @@
   "bairro": "João Paulo",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9790326,
+  "lon": -67.8572595
 }

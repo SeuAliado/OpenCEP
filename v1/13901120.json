@@ -5,5 +5,7 @@
   "bairro": "Jardim São Roberto",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.701557,
+  "lon": -46.7777086
 }

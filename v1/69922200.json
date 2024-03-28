@@ -5,5 +5,7 @@
   "bairro": "Irineu Serra",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.964025,
+  "lon": -67.8078054
 }

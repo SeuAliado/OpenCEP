@@ -5,5 +5,7 @@
   "bairro": "Araguaia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9917655,
+  "lon": -44.005905
 }

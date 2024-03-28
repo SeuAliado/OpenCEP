@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Acaiaca",
   "uf": "MG",
-  "ibge": "3100401"
+  "ibge": "3100401",
+  "lat": -20.3595194,
+  "lon": -43.1442744
 }

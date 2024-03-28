@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ponte Alta do Tocantins",
   "uf": "TO",
-  "ibge": "1717909"
+  "ibge": "1717909",
+  "lat": -10.7485397,
+  "lon": -47.5280009
 }

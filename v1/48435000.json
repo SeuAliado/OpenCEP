@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Adustina",
   "uf": "BA",
-  "ibge": "2900355"
+  "ibge": "2900355",
+  "lat": -10.5441219,
+  "lon": -38.1116106
 }

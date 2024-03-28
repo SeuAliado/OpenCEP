@@ -5,5 +5,7 @@
   "bairro": "Vila Izinha",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4860676,
+  "lon": -46.5569065
 }

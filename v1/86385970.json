@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Jacaré",
   "uf": "PR",
-  "ibge": "4102703"
+  "ibge": "4102703",
+  "lat": -23.1126794,
+  "lon": -50.1791561
 }

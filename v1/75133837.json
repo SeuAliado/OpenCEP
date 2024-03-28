@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Industrial",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.36203,
+  "lon": -48.9597595
 }

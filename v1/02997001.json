@@ -5,5 +5,7 @@
   "bairro": "Estância Jaraguá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4326058,
+  "lon": -46.710501
 }

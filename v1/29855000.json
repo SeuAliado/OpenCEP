@@ -5,5 +5,7 @@
   "bairro": "Cotaxé",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "lat": -18.3707467,
+  "lon": -40.8363696
 }

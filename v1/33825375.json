@@ -5,5 +5,7 @@
   "bairro": "San Genaro",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.764413,
+  "lon": -44.1588302
 }

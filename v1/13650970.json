@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz das Palmeiras",
   "uf": "SP",
-  "ibge": "3546306"
+  "ibge": "3546306",
+  "lat": -21.8296001,
+  "lon": -47.2498328
 }

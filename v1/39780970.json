@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria do Suaçuí",
   "uf": "MG",
-  "ibge": "3158201"
+  "ibge": "3158201",
+  "lat": -18.1905588,
+  "lon": -42.416036
 }

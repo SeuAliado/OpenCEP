@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.777004,
+  "lon": -53.294517
 }

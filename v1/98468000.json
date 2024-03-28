@@ -5,5 +5,7 @@
   "bairro": "São Valentin da Gruta",
   "localidade": "Ametista do Sul",
   "uf": "RS",
-  "ibge": "4300646"
+  "ibge": "4300646",
+  "lat": -27.3894119,
+  "lon": -53.1536291
 }

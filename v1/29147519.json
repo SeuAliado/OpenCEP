@@ -5,5 +5,7 @@
   "bairro": "Santa Cecília",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3392461,
+  "lon": -40.3831912
 }

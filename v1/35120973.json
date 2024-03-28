@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itanhomi",
   "uf": "MG",
-  "ibge": "3133204"
+  "ibge": "3133204",
+  "lat": -19.1738119,
+  "lon": -41.8594407
 }

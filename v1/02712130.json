@@ -5,5 +5,7 @@
   "bairro": "Jardim Pereira Leite",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5093288,
+  "lon": -46.6833493
 }

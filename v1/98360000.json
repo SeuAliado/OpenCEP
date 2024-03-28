@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rodeio Bonito",
   "uf": "RS",
-  "ibge": "4315909"
+  "ibge": "4315909",
+  "lat": -27.4746884,
+  "lon": -53.171098
 }

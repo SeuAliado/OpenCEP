@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Cruz",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5531715,
+  "lon": -45.4419124
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Viradouro",
   "uf": "SP",
-  "ibge": "3556800"
+  "ibge": "3556800",
+  "lat": -20.873908,
+  "lon": -48.2965534
 }

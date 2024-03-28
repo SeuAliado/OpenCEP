@@ -5,5 +5,7 @@
   "bairro": "Portal da Cidade",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3766931,
+  "lon": -40.5436885
 }

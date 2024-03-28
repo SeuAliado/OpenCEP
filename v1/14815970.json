@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "lat": -21.9558128,
+  "lon": -47.9971735
 }

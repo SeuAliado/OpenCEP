@@ -5,5 +5,7 @@
   "bairro": "Casa Branca",
   "localidade": "Xambrê",
   "uf": "PR",
-  "ibge": "4128807"
+  "ibge": "4128807",
+  "lat": -23.7200515,
+  "lon": -53.5976493
 }

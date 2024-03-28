@@ -5,5 +5,7 @@
   "bairro": "Vila Norma",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1819087,
+  "lon": -47.3125331
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "lat": -11.8608155,
+  "lon": -40.4714942
 }

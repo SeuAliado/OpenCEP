@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sandolândia",
   "uf": "TO",
-  "ibge": "1718840"
+  "ibge": "1718840",
+  "lat": -12.428274,
+  "lon": -49.9366899
 }

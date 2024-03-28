@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Barro Alto",
   "uf": "GO",
-  "ibge": "5203203"
+  "ibge": "5203203",
+  "lat": -14.9718641,
+  "lon": -48.9165991
 }

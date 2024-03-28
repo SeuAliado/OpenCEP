@@ -5,5 +5,7 @@
   "bairro": "Lagoa",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.4085651,
+  "lon": -41.8390057
 }

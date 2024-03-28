@@ -5,5 +5,7 @@
   "bairro": "Vila Valdemar",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.504546,
+  "lon": -46.3973591
 }

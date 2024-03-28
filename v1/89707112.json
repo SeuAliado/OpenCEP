@@ -5,5 +5,7 @@
   "bairro": "Itaíba",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2450796,
+  "lon": -52.0443084
 }

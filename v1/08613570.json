@@ -5,5 +5,7 @@
   "bairro": "Vila Maneira",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5395017,
+  "lon": -46.279447
 }

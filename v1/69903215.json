@@ -5,5 +5,7 @@
   "bairro": "Conjunto Ouricurí",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9363758,
+  "lon": -67.805637
 }

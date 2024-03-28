@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.548813,
+  "lon": -47.412175
 }

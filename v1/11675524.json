@@ -5,5 +5,7 @@
   "bairro": "Vila Ponte Seca",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6342184,
+  "lon": -45.4204935
 }

@@ -5,5 +5,7 @@
   "bairro": "Fazenda da Grama",
   "localidade": "Rio Claro",
   "uf": "RJ",
-  "ibge": "3304409"
+  "ibge": "3304409",
+  "lat": -22.6527418,
+  "lon": -44.0368622
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Eulália",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0400165,
+  "lon": -45.5595043
 }

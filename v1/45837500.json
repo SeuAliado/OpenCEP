@@ -5,5 +5,7 @@
   "bairro": "Piragi",
   "localidade": "Itamaraju",
   "uf": "BA",
-  "ibge": "2915601"
+  "ibge": "2915601",
+  "lat": -17.0382936,
+  "lon": -39.5389371
 }

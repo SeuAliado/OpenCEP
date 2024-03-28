@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Paulo de Olivença",
   "uf": "AM",
-  "ibge": "1303908"
+  "ibge": "1303908",
+  "lat": -3.4732814,
+  "lon": -68.9651285
 }

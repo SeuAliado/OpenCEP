@@ -5,5 +5,7 @@
   "bairro": "Vila Vera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6183739,
+  "lon": -46.6055364
 }

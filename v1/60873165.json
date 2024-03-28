@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Maria",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8543312,
+  "lon": -38.4998361
 }

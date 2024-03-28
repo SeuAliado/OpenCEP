@@ -5,5 +5,7 @@
   "bairro": "Jardim Renata",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5322341,
+  "lon": -46.3932832
 }

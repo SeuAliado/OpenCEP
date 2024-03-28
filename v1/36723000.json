@@ -5,5 +5,7 @@
   "bairro": "Trimonte",
   "localidade": "Volta Grande",
   "uf": "MG",
-  "ibge": "3172103"
+  "ibge": "3172103",
+  "lat": -21.7113498,
+  "lon": -42.5893192
 }

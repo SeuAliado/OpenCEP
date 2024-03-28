@@ -5,5 +5,7 @@
   "bairro": "Independência (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -20.0195909,
+  "lon": -44.031388
 }

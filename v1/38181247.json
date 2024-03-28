@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.7625968,
+  "lon": -47.9487604
 }

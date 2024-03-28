@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapetinga",
   "uf": "BA",
-  "ibge": "2916401"
+  "ibge": "2916401",
+  "lat": -15.2469784,
+  "lon": -40.2479445
 }

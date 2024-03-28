@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Estados",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.6347684,
+  "lon": -56.1261435
 }

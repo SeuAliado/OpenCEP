@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu (Parque Durval de Barros)",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0022931,
+  "lon": -44.0493324
 }

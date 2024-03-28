@@ -5,5 +5,7 @@
   "bairro": "Parada Ideal",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.535199,
+  "lon": -42.9899491
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nove de Julho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5891675,
+  "lon": -46.4846386
 }

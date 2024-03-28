@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1518821,
+  "lon": -46.963687
 }

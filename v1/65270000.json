@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bacuri",
   "uf": "MA",
-  "ibge": "2101301"
+  "ibge": "2101301",
+  "lat": -1.7178968,
+  "lon": -45.186889
 }

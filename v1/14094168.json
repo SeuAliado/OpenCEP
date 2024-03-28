@@ -5,5 +5,7 @@
   "bairro": "Parque dos Lagos",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1974519,
+  "lon": -47.7462255
 }

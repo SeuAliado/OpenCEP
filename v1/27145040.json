@@ -5,5 +5,7 @@
   "bairro": "Santo Cristo",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4756632,
+  "lon": -43.8230203
 }

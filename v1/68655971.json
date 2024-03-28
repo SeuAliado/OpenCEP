@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Irituia",
   "uf": "PA",
-  "ibge": "1503507"
+  "ibge": "1503507",
+  "lat": -8.4768153,
+  "lon": -47.7891987
 }

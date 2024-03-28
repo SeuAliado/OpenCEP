@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alcantil",
   "uf": "PB",
-  "ibge": "2500536"
+  "ibge": "2500536",
+  "lat": -7.743,
+  "lon": -36.0564034
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Prata",
   "uf": "MG",
-  "ibge": "3152808"
+  "ibge": "3152808",
+  "lat": -19.3098497,
+  "lon": -48.9268049
 }

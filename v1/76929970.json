@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urupá",
   "uf": "RO",
-  "ibge": "1101708"
+  "ibge": "1101708",
+  "lat": -11.1256369,
+  "lon": -62.3680367
 }

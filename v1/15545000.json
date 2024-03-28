@@ -5,5 +5,7 @@
   "bairro": "Boa Vista dos Andradas",
   "localidade": "Álvares Florence",
   "uf": "SP",
-  "ibge": "3501202"
+  "ibge": "3501202",
+  "lat": -22.5650885,
+  "lon": -47.4037197
 }

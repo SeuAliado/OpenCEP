@@ -5,5 +5,7 @@
   "bairro": "Residencial Paulo Cury",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7493382,
+  "lon": -47.9021872
 }

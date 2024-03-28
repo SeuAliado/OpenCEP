@@ -5,5 +5,7 @@
   "bairro": "Araçá",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.398136,
+  "lon": -40.0567716
 }

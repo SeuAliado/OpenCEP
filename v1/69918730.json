@@ -5,5 +5,7 @@
   "bairro": "Horto Florestal",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.946407,
+  "lon": -67.8253387
 }

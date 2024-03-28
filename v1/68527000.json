@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Abel Figueiredo",
   "uf": "PA",
-  "ibge": "1500131"
+  "ibge": "1500131",
+  "lat": -4.9537103,
+  "lon": -48.3937096
 }

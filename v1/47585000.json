@@ -5,5 +5,7 @@
   "bairro": "Quixabá",
   "localidade": "Morpará",
   "uf": "BA",
-  "ibge": "2921609"
+  "ibge": "2921609",
+  "lat": -11.5661507,
+  "lon": -43.2663244
 }

@@ -5,5 +5,7 @@
   "bairro": "Quatiguaba",
   "localidade": "Viçosa do Ceará",
   "uf": "CE",
-  "ibge": "2314102"
+  "ibge": "2314102",
+  "lat": -3.6792428,
+  "lon": -41.0701268
 }

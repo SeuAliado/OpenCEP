@@ -5,5 +5,7 @@
   "bairro": "Triunfo",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "lat": -31.7648071,
+  "lon": -52.2314872
 }

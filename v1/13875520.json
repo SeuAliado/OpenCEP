@@ -5,5 +5,7 @@
   "bairro": "Solário da Mantiqueira",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9839978,
+  "lon": -46.7614168
 }

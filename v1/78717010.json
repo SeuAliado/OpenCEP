@@ -5,5 +5,7 @@
   "bairro": "Loteamento Quitéria Teruel Lopes",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4440359,
+  "lon": -54.6479143
 }

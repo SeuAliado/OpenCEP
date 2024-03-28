@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Esperança",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9513144,
+  "lon": -44.1041635
 }

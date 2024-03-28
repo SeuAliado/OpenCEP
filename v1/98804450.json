@@ -5,5 +5,7 @@
   "bairro": "Sossego",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -28.3152631,
+  "lon": -54.2688132
 }

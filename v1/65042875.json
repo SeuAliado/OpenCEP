@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -4.4820155,
+  "lon": -46.8482468
 }

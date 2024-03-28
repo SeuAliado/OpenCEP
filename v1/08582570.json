@@ -5,5 +5,7 @@
   "bairro": "Jardim Coqueiro",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4507492,
+  "lon": -46.3651984
 }

@@ -5,5 +5,7 @@
   "bairro": "São José do Barreiro",
   "localidade": "São Roque de Minas",
   "uf": "MG",
-  "ibge": "3164308"
+  "ibge": "3164308",
+  "lat": -20.2494911,
+  "lon": -46.3643073
 }

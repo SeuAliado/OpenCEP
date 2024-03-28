@@ -5,5 +5,7 @@
   "bairro": "Cabula",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9574739,
+  "lon": -38.4745502
 }

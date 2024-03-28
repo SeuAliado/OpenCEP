@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Guarita",
   "uf": "RS",
-  "ibge": "4301859"
+  "ibge": "4301859",
+  "lat": -27.1924281,
+  "lon": -53.7080111
 }

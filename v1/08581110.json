@@ -5,5 +5,7 @@
   "bairro": "Jardim Paineira",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.45622,
+  "lon": -46.3540282
 }

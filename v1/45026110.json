@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "lat": -13.0089895,
+  "lon": -38.4902877
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Felício dos Santos",
   "uf": "MG",
-  "ibge": "3125408"
+  "ibge": "3125408",
+  "lat": -18.0779106,
+  "lon": -43.2503789
 }

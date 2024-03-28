@@ -5,5 +5,7 @@
   "bairro": "Sítio Canela Branca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8856191,
+  "lon": -46.755725
 }

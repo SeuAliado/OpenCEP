@@ -5,5 +5,7 @@
   "bairro": "Éden",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7868525,
+  "lon": -43.3960328
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Águas Mornas",
   "uf": "SC",
-  "ibge": "4200606"
+  "ibge": "4200606",
+  "lat": -27.6968268,
+  "lon": -48.8248281
 }

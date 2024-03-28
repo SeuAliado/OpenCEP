@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.0821081,
+  "lon": -51.023429
 }

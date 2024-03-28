@@ -5,5 +5,7 @@
   "bairro": "Eletronorte",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.797688,
+  "lon": -63.8954503
 }

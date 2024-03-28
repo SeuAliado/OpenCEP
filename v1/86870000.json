@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ivaiporã",
   "uf": "PR",
-  "ibge": "4111506"
+  "ibge": "4111506",
+  "lat": -24.2444396,
+  "lon": -51.6741201
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Alvorada",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.6648523,
+  "lon": -49.166022
 }

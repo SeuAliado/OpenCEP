@@ -5,5 +5,7 @@
   "bairro": "Jardim Araxá",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7521924,
+  "lon": -53.3242281
 }

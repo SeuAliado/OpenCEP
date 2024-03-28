@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chapada da Natividade",
   "uf": "TO",
-  "ibge": "1705102"
+  "ibge": "1705102",
+  "lat": -11.6179337,
+  "lon": -47.7490409
 }

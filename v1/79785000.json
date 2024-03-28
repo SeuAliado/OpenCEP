@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Angélica",
   "uf": "MS",
-  "ibge": "5000856"
+  "ibge": "5000856",
+  "lat": -22.0685311,
+  "lon": -53.8671868
 }

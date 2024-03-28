@@ -5,5 +5,7 @@
   "bairro": "Fazenda CHESF",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.408285,
+  "lon": -38.2215206
 }

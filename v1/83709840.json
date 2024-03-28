@@ -5,5 +5,7 @@
   "bairro": "Campina da Barra",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.6137805,
+  "lon": -49.3744348
 }

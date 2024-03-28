@@ -5,5 +5,7 @@
   "bairro": "Era Nova",
   "localidade": "Alpercata",
   "uf": "MG",
-  "ibge": "3101805"
+  "ibge": "3101805",
+  "lat": -18.9548684,
+  "lon": -41.9542471
 }

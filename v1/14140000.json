@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cravinhos",
   "uf": "SP",
-  "ibge": "3513108"
+  "ibge": "3513108",
+  "lat": -21.3407385,
+  "lon": -47.7352517
 }

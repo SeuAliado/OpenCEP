@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Irineópolis",
   "uf": "SC",
-  "ibge": "4207908"
+  "ibge": "4207908",
+  "lat": -26.2429228,
+  "lon": -50.795168
 }

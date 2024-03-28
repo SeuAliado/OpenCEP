@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pontes e Lacerda",
   "uf": "MT",
-  "ibge": "5106752"
+  "ibge": "5106752",
+  "lat": -15.2332271,
+  "lon": -59.328245
 }

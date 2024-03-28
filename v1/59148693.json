@@ -5,5 +5,7 @@
   "bairro": "Emaús",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "lat": -5.8819942,
+  "lon": -35.2384407
 }

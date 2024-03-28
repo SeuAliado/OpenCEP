@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "lat": -22.8448394,
+  "lon": -43.7650539
 }

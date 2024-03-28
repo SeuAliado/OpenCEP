@@ -5,5 +5,7 @@
   "bairro": "Vila Sirena",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4770616,
+  "lon": -46.5483902
 }

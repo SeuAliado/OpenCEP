@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Princípio do Piauí",
   "uf": "PI",
-  "ibge": "2201919"
+  "ibge": "2201919",
+  "lat": -3.1966878,
+  "lon": -41.6407033
 }

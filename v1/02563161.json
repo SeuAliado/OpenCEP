@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4978667,
+  "lon": -46.6439961
 }

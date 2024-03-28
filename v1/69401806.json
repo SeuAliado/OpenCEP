@@ -5,5 +5,7 @@
   "bairro": "Nova Manacá",
   "localidade": "Manacapuru",
   "uf": "AM",
-  "ibge": "1302504"
+  "ibge": "1302504",
+  "lat": -3.2921405,
+  "lon": -60.6279912
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Helena",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.554868,
+  "lon": -47.452218
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Helena",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5337403,
+  "lon": -46.8440282
 }

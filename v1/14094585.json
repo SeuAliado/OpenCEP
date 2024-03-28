@@ -5,5 +5,7 @@
   "bairro": "Recreio Internacional",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1840181,
+  "lon": -47.7022898
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América (Rubião Junior)",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8899769,
+  "lon": -48.5049712
 }

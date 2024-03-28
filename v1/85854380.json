@@ -5,5 +5,7 @@
   "bairro": "Porto Meira",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "lat": -25.5724866,
+  "lon": -54.5695023
 }

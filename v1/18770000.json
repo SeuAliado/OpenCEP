@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Águas de Santa Bárbara",
   "uf": "SP",
-  "ibge": "3500550"
+  "ibge": "3500550",
+  "lat": -22.8816675,
+  "lon": -49.2425988
 }

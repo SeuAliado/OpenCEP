@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Expedito",
   "uf": "SP",
-  "ibge": "3548302"
+  "ibge": "3548302",
+  "lat": -21.846262,
+  "lon": -51.3902852
 }

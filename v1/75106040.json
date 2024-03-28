@@ -5,5 +5,7 @@
   "bairro": "Residencial Shangrilá",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3601338,
+  "lon": -48.940904
 }

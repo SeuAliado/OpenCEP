@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "lat": -10.9040898,
+  "lon": -37.0515599
 }

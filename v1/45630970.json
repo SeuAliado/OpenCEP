@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itajuípe",
   "uf": "BA",
-  "ibge": "2915502"
+  "ibge": "2915502",
+  "lat": -14.6756796,
+  "lon": -39.3755853
 }

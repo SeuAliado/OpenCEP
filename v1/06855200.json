@@ -5,5 +5,7 @@
   "bairro": "Olaria",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.702846,
+  "lon": -46.8392115
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto do Fidalgo",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8939482,
+  "lon": -43.7982544
 }

@@ -5,5 +5,7 @@
   "bairro": "Castelo Branco",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -14.8617248,
+  "lon": -40.8264043
 }

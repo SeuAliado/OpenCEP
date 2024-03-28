@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.472506,
+  "lon": -46.9937598
 }

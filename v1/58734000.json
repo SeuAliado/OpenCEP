@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Passagem",
   "uf": "PB",
-  "ibge": "2510709"
+  "ibge": "2510709",
+  "lat": -7.1371096,
+  "lon": -37.0475249
 }

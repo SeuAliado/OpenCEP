@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial I José Marangoni",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4587574,
+  "lon": -46.9624364
 }

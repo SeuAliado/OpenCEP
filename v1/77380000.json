@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pindorama do Tocantins",
   "uf": "TO",
-  "ibge": "1717008"
+  "ibge": "1717008",
+  "lat": -11.1333561,
+  "lon": -47.5275422
 }

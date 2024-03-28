@@ -5,5 +5,7 @@
   "bairro": "Monte Celeste",
   "localidade": "São Geraldo",
   "uf": "MG",
-  "ibge": "3161502"
+  "ibge": "3161502",
+  "lat": -20.9152969,
+  "lon": -42.8368382
 }

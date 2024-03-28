@@ -5,5 +5,7 @@
   "bairro": "Morada Gaúcha",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9496228,
+  "lon": -50.9477528
 }

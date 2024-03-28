@@ -5,5 +5,7 @@
   "bairro": "Alto do Mandu",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0218224,
+  "lon": -34.9263429
 }

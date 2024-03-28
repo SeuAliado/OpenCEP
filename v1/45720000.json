@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Firmino Alves",
   "uf": "BA",
-  "ibge": "2910909"
+  "ibge": "2910909",
+  "lat": -14.9827939,
+  "lon": -39.9272268
 }

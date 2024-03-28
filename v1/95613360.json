@@ -5,5 +5,7 @@
   "bairro": "Picada Francesa",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "lat": -29.6425952,
+  "lon": -50.7952791
 }

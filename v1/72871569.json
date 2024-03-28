@@ -5,5 +5,7 @@
   "bairro": "Setor de Chácaras Anhangüera B",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0646675,
+  "lon": -48.017165
 }

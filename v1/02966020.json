@@ -5,5 +5,7 @@
   "bairro": "Vila Yara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4711424,
+  "lon": -46.7096341
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ferreira",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4806365,
+  "lon": -47.461127
 }

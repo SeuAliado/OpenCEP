@@ -5,5 +5,7 @@
   "bairro": "Jardim São Gabriel",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1138477,
+  "lon": -51.4290284
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Espera",
   "uf": "MG",
-  "ibge": "3155207"
+  "ibge": "3155207",
+  "lat": -20.8568226,
+  "lon": -43.4742371
 }

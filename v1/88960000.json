@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sombrio",
   "uf": "SC",
-  "ibge": "4217709"
+  "ibge": "4217709",
+  "lat": -29.0978736,
+  "lon": -49.6401083
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5657762,
+  "lon": -56.0546076
 }

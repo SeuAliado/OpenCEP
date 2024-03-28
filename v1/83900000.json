@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Mateus do Sul",
   "uf": "PR",
-  "ibge": "4125605"
+  "ibge": "4125605",
+  "lat": -25.8681839,
+  "lon": -50.3842316
 }

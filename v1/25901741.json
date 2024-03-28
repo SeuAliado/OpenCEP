@@ -5,5 +5,7 @@
   "bairro": "Saco",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6523083,
+  "lon": -43.023378
 }

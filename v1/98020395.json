@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6126618,
+  "lon": -53.6177639
 }

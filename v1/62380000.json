@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaraciaba do Norte",
   "uf": "CE",
-  "ibge": "2305001"
+  "ibge": "2305001",
+  "lat": -4.1632566,
+  "lon": -40.7504029
 }

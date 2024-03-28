@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dona Francisca",
   "uf": "RS",
-  "ibge": "4306700"
+  "ibge": "4306700",
+  "lat": -29.6245866,
+  "lon": -53.3559843
 }

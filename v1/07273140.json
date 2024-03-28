@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4545812,
+  "lon": -46.4228106
 }

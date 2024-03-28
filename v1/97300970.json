@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gabriel",
   "uf": "RS",
-  "ibge": "4318309"
+  "ibge": "4318309",
+  "lat": -30.3379167,
+  "lon": -54.319395
 }

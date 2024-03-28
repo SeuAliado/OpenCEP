@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9590122,
+  "lon": -43.9529132
 }

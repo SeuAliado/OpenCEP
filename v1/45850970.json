@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itagimirim",
   "uf": "BA",
-  "ibge": "2915304"
+  "ibge": "2915304",
+  "lat": -16.0906729,
+  "lon": -39.6164171
 }

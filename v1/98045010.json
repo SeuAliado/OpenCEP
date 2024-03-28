@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6819049,
+  "lon": -53.6081133
 }

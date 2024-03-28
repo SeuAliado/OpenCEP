@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paripueira",
   "uf": "AL",
-  "ibge": "2706448"
+  "ibge": "2706448",
+  "lat": -9.4635594,
+  "lon": -35.5522986
 }

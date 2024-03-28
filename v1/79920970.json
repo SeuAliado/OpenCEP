@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Laguna Carapã",
   "uf": "MS",
-  "ibge": "5005251"
+  "ibge": "5005251",
+  "lat": -22.5556621,
+  "lon": -55.151492
 }

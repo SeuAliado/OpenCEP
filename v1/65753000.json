@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Raimundo do Doca Bezerra",
   "uf": "MA",
-  "ibge": "2111631"
+  "ibge": "2111631",
+  "lat": -5.1061569,
+  "lon": -45.0779522
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "lat": -22.9011391,
+  "lon": -45.3091879
 }

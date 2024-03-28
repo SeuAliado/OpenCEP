@@ -5,5 +5,7 @@
   "bairro": "Itaputera",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.833931,
+  "lon": -40.2808112
 }

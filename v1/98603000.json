@@ -5,5 +5,7 @@
   "bairro": "Lara",
   "localidade": "Três Passos",
   "uf": "RS",
-  "ibge": "4321907"
+  "ibge": "4321907",
+  "lat": -28.278075,
+  "lon": -52.3842213
 }

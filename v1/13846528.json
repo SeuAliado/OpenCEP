@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3338733,
+  "lon": -46.951387
 }

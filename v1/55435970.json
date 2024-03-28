@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João",
   "uf": "PE",
-  "ibge": "2613206"
+  "ibge": "2613206",
+  "lat": -8.8757046,
+  "lon": -36.3670379
 }

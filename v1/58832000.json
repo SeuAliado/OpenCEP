@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mato Grosso",
   "uf": "PB",
-  "ibge": "2509370"
+  "ibge": "2509370",
+  "lat": -6.5447414,
+  "lon": -37.7343987
 }

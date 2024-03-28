@@ -5,5 +5,7 @@
   "bairro": "Vila Lemos",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3115548,
+  "lon": -49.0890276
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cruzeiro",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1349012,
+  "lon": -44.8912518
 }

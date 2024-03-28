@@ -5,5 +5,7 @@
   "bairro": "Ponta Porã",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6277024,
+  "lon": -46.874479
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taipu",
   "uf": "RN",
-  "ibge": "2413904"
+  "ibge": "2413904",
+  "lat": -5.5849335,
+  "lon": -35.5876697
 }

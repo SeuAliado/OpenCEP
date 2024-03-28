@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arraial",
   "uf": "PI",
-  "ibge": "2201002"
+  "ibge": "2201002",
+  "lat": -6.6528804,
+  "lon": -42.5370343
 }

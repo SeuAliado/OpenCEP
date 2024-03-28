@@ -5,5 +5,7 @@
   "bairro": "Canadá",
   "localidade": "Jussara",
   "uf": "GO",
-  "ibge": "5212204"
+  "ibge": "5212204",
+  "lat": -15.8738344,
+  "lon": -50.8652094
 }

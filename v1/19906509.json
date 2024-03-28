@@ -5,5 +5,7 @@
   "bairro": "Vila Soares",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9799432,
+  "lon": -49.8873217
 }

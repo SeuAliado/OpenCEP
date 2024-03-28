@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.0704189,
+  "lon": -48.0303208
 }

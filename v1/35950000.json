@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvinópolis",
   "uf": "MG",
-  "ibge": "3102308"
+  "ibge": "3102308",
+  "lat": -20.10761,
+  "lon": -43.0574762
 }

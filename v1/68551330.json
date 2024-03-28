@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Redenção",
   "uf": "PA",
-  "ibge": "1506138"
+  "ibge": "1506138",
+  "lat": -20.0239636,
+  "lon": -44.0439575
 }

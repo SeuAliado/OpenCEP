@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Franciscópolis",
   "uf": "MG",
-  "ibge": "3126752"
+  "ibge": "3126752",
+  "lat": -18.0143073,
+  "lon": -41.9593241
 }

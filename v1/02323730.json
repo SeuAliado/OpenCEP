@@ -5,5 +5,7 @@
   "bairro": "Furnas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4525408,
+  "lon": -46.6108739
 }

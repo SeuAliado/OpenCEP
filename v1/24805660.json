@@ -5,5 +5,7 @@
   "bairro": "Itaville",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.73561,
+  "lon": -42.8180462
 }

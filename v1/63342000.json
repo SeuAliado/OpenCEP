@@ -5,5 +5,7 @@
   "bairro": "Canaúna",
   "localidade": "Ipaumirim",
   "uf": "CE",
-  "ibge": "2305704"
+  "ibge": "2305704",
+  "lat": -6.7822324,
+  "lon": -38.7996726
 }

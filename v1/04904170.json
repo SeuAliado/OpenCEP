@@ -5,5 +5,7 @@
   "bairro": "Jardim das Flores",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6742281,
+  "lon": -46.7379691
 }

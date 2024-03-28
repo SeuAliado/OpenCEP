@@ -5,5 +5,7 @@
   "bairro": "Pinhalzinho",
   "localidade": "Liberato Salzano",
   "uf": "RS",
-  "ibge": "4311601"
+  "ibge": "4311601",
+  "lat": -27.5213325,
+  "lon": -53.0946454
 }

@@ -5,5 +5,7 @@
   "bairro": "São Silvestre",
   "localidade": "Cruzeiro do Oeste",
   "uf": "PR",
-  "ibge": "4106605"
+  "ibge": "4106605",
+  "lat": -23.7817924,
+  "lon": -53.0951734
 }

@@ -5,5 +5,7 @@
   "bairro": "Pirabeiraba (Pirabeiraba)",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "lat": -26.2048776,
+  "lon": -48.9138753
 }

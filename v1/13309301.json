@@ -5,5 +5,7 @@
   "bairro": "Jardim do Estádio",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2809164,
+  "lon": -47.2896527
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Vitória",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.9270766,
+  "lon": -50.5151483
 }

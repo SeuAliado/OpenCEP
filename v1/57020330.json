@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6610222,
+  "lon": -35.7407605
 }

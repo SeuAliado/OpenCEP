@@ -5,5 +5,7 @@
   "bairro": "Chácara Esperia",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7202701,
+  "lon": -47.690119
 }

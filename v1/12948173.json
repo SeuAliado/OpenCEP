@@ -5,5 +5,7 @@
   "bairro": "Estância Santa Maria do Portão",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.0828947,
+  "lon": -46.5644352
 }

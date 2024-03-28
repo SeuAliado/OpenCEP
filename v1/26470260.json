@@ -5,5 +5,7 @@
   "bairro": "Santa Sofia",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6874335,
+  "lon": -43.5928693
 }

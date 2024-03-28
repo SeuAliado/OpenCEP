@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riachuelo",
   "uf": "SE",
-  "ibge": "2805901"
+  "ibge": "2805901",
+  "lat": -10.7336106,
+  "lon": -37.1858728
 }

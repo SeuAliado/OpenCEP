@@ -5,5 +5,7 @@
   "bairro": "Pernambués",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9683367,
+  "lon": -38.4565316
 }

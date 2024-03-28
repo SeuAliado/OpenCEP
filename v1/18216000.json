@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5795137,
+  "lon": -47.9985512
 }

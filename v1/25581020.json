@@ -5,5 +5,7 @@
   "bairro": "Parque Tietê",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7885181,
+  "lon": -43.330606
 }

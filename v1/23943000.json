@@ -5,5 +5,7 @@
   "bairro": "Bracuí (Cunhambebe)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.944016,
+  "lon": -44.4277373
 }

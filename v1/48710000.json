@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Candeal",
   "uf": "BA",
-  "ibge": "2906402"
+  "ibge": "2906402",
+  "lat": -11.8687285,
+  "lon": -39.1959729
 }

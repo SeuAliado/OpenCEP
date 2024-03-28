@@ -5,5 +5,7 @@
   "bairro": "Roças Novas",
   "localidade": "Caeté",
   "uf": "MG",
-  "ibge": "3110004"
+  "ibge": "3110004",
+  "lat": -19.8944214,
+  "lon": -43.6727334
 }

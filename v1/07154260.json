@@ -5,5 +5,7 @@
   "bairro": "Jardim Fortaleza",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.372164,
+  "lon": -46.4437327
 }

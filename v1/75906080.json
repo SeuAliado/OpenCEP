@@ -5,5 +5,7 @@
   "bairro": "Vila Renovação",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7986582,
+  "lon": -50.9152478
 }

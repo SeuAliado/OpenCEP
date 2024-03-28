@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "lat": -6.2080784,
+  "lon": -40.6908879
 }

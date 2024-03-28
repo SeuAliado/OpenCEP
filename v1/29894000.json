@@ -5,5 +5,7 @@
   "bairro": "Vinhático",
   "localidade": "Montanha",
   "uf": "ES",
-  "ibge": "3203502"
+  "ibge": "3203502",
+  "lat": -18.1255725,
+  "lon": -40.3662673
 }

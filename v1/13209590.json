@@ -5,5 +5,7 @@
   "bairro": "Vila Viotto",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1807844,
+  "lon": -46.9092718
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvorada do Norte",
   "uf": "GO",
-  "ibge": "5200803"
+  "ibge": "5200803",
+  "lat": -14.4801336,
+  "lon": -46.4914579
 }

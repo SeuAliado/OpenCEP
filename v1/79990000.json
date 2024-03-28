@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amambaí",
   "uf": "MS",
-  "ibge": "5000609"
+  "ibge": "5000609",
+  "lat": -23.1083066,
+  "lon": -55.225667
 }

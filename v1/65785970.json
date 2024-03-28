@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Graça Aranha",
   "uf": "MA",
-  "ibge": "2104701"
+  "ibge": "2104701",
+  "lat": -2.5267939,
+  "lon": -44.304039
 }

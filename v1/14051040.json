@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Alegre",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1675778,
+  "lon": -47.8368778
 }

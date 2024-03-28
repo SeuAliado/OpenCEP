@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Borba",
   "uf": "AM",
-  "ibge": "1300805"
+  "ibge": "1300805",
+  "lat": -4.3919115,
+  "lon": -59.5878796
 }

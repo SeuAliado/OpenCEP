@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tumiritinga",
   "uf": "MG",
-  "ibge": "3169505"
+  "ibge": "3169505",
+  "lat": -18.9849271,
+  "lon": -41.653065
 }

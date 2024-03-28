@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Parecis",
   "uf": "RO",
-  "ibge": "1101450"
+  "ibge": "1101450",
+  "lat": -12.1911639,
+  "lon": -61.4202019
 }

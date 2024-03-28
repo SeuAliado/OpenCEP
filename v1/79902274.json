@@ -5,5 +5,7 @@
   "bairro": "Vila Renô",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.516924,
+  "lon": -55.7212619
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro (Bacuriti)",
   "localidade": "Cafelândia",
   "uf": "SP",
-  "ibge": "3508801"
+  "ibge": "3508801",
+  "lat": -21.586369,
+  "lon": -49.4417166
 }

@@ -5,5 +5,7 @@
   "bairro": "José Gonçalves",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "lat": -14.8404178,
+  "lon": -40.8429838
 }

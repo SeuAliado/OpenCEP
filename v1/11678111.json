@@ -5,5 +5,7 @@
   "bairro": "Park Imperial",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

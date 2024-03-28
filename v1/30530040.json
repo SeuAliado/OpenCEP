@@ -5,5 +5,7 @@
   "bairro": "Delta",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9241259,
+  "lon": -44.0032105
 }

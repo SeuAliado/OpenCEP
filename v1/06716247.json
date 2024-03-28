@@ -5,5 +5,7 @@
   "bairro": "Jardim Barro Branco",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6063183,
+  "lon": -46.896519
 }

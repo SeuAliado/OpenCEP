@@ -5,5 +5,7 @@
   "bairro": "Santa Isabel",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.6547781,
+  "lon": -56.1862068
 }

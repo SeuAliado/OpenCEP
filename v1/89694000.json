@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Faxinal dos Guedes",
   "uf": "SC",
-  "ibge": "4205308"
+  "ibge": "4205308",
+  "lat": -26.830328,
+  "lon": -52.254972
 }

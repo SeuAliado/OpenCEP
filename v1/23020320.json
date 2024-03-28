@@ -5,5 +5,7 @@
   "bairro": "Barra de Guaratiba",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9939716,
+  "lon": -43.6028008
 }

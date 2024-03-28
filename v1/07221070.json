@@ -5,5 +5,7 @@
   "bairro": "Cidade Industrial Satélite de São Paulo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4657424,
+  "lon": -46.4741163
 }

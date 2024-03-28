@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Peixe-Boi",
   "uf": "PA",
-  "ibge": "1505601"
+  "ibge": "1505601",
+  "lat": -1.1916396,
+  "lon": -47.3124199
 }

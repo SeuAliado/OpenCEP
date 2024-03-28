@@ -5,5 +5,7 @@
   "bairro": "Loteamento e Arruamento TELESP",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9730041,
+  "lon": -47.103802
 }

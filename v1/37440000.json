@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caxambu",
   "uf": "MG",
-  "ibge": "3115508"
+  "ibge": "3115508",
+  "lat": -21.9779538,
+  "lon": -44.933131
 }

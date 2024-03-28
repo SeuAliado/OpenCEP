@@ -5,5 +5,7 @@
   "bairro": "Santa Filomena",
   "localidade": "Santana do Manhuaçu",
   "uf": "MG",
-  "ibge": "3158904"
+  "ibge": "3158904",
+  "lat": -20.1035928,
+  "lon": -41.9282351
 }

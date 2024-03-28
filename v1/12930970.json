@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tuiuti",
   "uf": "SP",
-  "ibge": "3554953"
+  "ibge": "3554953",
+  "lat": -22.8160493,
+  "lon": -46.6938373
 }

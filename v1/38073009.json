@@ -5,5 +5,7 @@
   "bairro": "Josa Bernardino II",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.736471,
+  "lon": -47.9059028
 }

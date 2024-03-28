@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Conceição",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.890697,
+  "lon": -34.8320661
 }

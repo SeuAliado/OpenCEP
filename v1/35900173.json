@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora das Oliveiras",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6253092,
+  "lon": -43.2084437
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Sucesso",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9272774,
+  "lon": -51.0319096
 }

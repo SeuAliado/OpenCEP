@@ -5,5 +5,7 @@
   "bairro": "Geolândia",
   "localidade": "Cabaceiras do Paraguaçu",
   "uf": "BA",
-  "ibge": "2904852"
+  "ibge": "2904852",
+  "lat": -12.5257857,
+  "lon": -39.0966487
 }

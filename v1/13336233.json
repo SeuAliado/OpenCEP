@@ -5,5 +5,7 @@
   "bairro": "Recanto Campestre Viracopos Gleba 2",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0435377,
+  "lon": -47.1869936
 }

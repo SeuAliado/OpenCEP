@@ -5,5 +5,7 @@
   "bairro": "Loteamento Manoel Gomes da Cunha",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1894582,
+  "lon": -48.2229204
 }

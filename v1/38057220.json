@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Tutunas",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7361882,
+  "lon": -47.9621838
 }

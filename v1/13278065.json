@@ -5,5 +5,7 @@
   "bairro": "Chácaras São Bento",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -23.0102286,
+  "lon": -47.0140419
 }

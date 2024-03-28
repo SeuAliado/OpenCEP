@@ -5,5 +5,7 @@
   "bairro": "Barreira Cravo",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4924067,
+  "lon": -44.0914242
 }

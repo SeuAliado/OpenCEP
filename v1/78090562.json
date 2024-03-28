@@ -5,5 +5,7 @@
   "bairro": "Jardim Hawaí",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5767685,
+  "lon": -56.0388874
 }

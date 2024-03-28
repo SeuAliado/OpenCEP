@@ -5,5 +5,7 @@
   "bairro": "Franciscadriângela",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7993759,
+  "lon": -44.1033536
 }

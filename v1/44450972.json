@@ -5,5 +5,7 @@
   "bairro": "Encarnação",
   "localidade": "Salinas da Margarida",
   "uf": "BA",
-  "ibge": "2927309"
+  "ibge": "2927309",
+  "lat": -12.92961,
+  "lon": -38.7651852
 }

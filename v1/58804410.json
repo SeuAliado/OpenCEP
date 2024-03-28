@@ -5,5 +5,7 @@
   "bairro": "Doutor Zezé",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7676843,
+  "lon": -38.2262533
 }

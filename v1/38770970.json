@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "lat": -17.740928,
+  "lon": -46.1716761
 }

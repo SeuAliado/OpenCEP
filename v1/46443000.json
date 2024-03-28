@@ -5,5 +5,7 @@
   "bairro": "Parateca",
   "localidade": "Malhada",
   "uf": "BA",
-  "ibge": "2920205"
+  "ibge": "2920205",
+  "lat": -14.2785497,
+  "lon": -43.7499766
 }

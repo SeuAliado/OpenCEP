@@ -5,5 +5,7 @@
   "bairro": "Quebra Frascos",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

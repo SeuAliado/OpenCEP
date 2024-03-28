@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taquaral de Goiás",
   "uf": "GO",
-  "ibge": "5221007"
+  "ibge": "5221007",
+  "lat": -16.0525052,
+  "lon": -49.6043084
 }

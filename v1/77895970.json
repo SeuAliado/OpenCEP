@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Nazaré",
   "uf": "TO",
-  "ibge": "1714302"
+  "ibge": "1714302",
+  "lat": -6.3680091,
+  "lon": -47.6585515
 }

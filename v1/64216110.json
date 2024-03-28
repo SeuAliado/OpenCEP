@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.8943626,
+  "lon": -41.6711075
 }

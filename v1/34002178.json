@@ -5,5 +5,7 @@
   "bairro": "Vila São Luiz",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9873358,
+  "lon": -43.8460212
 }

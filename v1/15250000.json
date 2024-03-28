@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "União Paulista",
   "uf": "SP",
-  "ibge": "3555703"
+  "ibge": "3555703",
+  "lat": -20.8928965,
+  "lon": -49.8854497
 }

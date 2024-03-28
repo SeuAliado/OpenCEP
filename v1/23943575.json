@@ -5,5 +5,7 @@
   "bairro": "Santa Rita do Bracuí (Cunhambebe)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.9347282,
+  "lon": -44.4020545
 }

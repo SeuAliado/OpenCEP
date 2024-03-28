@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.0964604,
+  "lon": -52.6283261
 }

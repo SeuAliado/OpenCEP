@@ -5,5 +5,7 @@
   "bairro": "Chácaras de Recreio Paraíso",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7385658,
+  "lon": -47.4688559
 }

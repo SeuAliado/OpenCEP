@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.644801,
+  "lon": -49.4973168
 }

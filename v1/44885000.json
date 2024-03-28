@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mulungu do Morro",
   "uf": "BA",
-  "ibge": "2922052"
+  "ibge": "2922052",
+  "lat": -11.9772774,
+  "lon": -41.5612423
 }

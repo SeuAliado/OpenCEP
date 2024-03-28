@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1008586,
+  "lon": -52.6236982
 }

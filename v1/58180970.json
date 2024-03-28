@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedra Lavrada",
   "uf": "PB",
-  "ibge": "2511103"
+  "ibge": "2511103",
+  "lat": -6.7577767,
+  "lon": -36.4719461
 }

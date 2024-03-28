@@ -5,5 +5,7 @@
   "bairro": "Ipanema",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.1307001,
+  "lon": -51.2261229
 }

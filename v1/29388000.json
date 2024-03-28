@@ -5,5 +5,7 @@
   "bairro": "Itaicí",
   "localidade": "Muniz Freire",
   "uf": "ES",
-  "ibge": "3203700"
+  "ibge": "3203700",
+  "lat": -20.5291881,
+  "lon": -41.5124409
 }

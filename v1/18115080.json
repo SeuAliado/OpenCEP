@@ -5,5 +5,7 @@
   "bairro": "Chave",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5463979,
+  "lon": -47.4462428
 }

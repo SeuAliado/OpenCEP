@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Monte Rey",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.6753357,
+  "lon": -47.7000321
 }

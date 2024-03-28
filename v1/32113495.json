@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Doutor Hélio Pentagna Guimarães",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8839118,
+  "lon": -44.0343023
 }

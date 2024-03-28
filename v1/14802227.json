@@ -5,5 +5,7 @@
   "bairro": "Vila Independência",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7691952,
+  "lon": -48.1842416
 }

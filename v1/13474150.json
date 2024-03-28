@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7109598,
+  "lon": -47.2949982
 }

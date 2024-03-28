@@ -5,5 +5,7 @@
   "bairro": "Mocambo",
   "localidade": "Guaraciaba do Norte",
   "uf": "CE",
-  "ibge": "2305001"
+  "ibge": "2305001",
+  "lat": -4.1585177,
+  "lon": -40.7479513
 }

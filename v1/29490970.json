@@ -5,5 +5,7 @@
   "bairro": "Niterói",
   "localidade": "Atílio Vivácqua",
   "uf": "ES",
-  "ibge": "3200706"
+  "ibge": "3200706",
+  "lat": -20.9159999,
+  "lon": -41.1955143
 }

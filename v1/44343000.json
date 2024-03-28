@@ -5,5 +5,7 @@
   "bairro": "Itapora",
   "localidade": "Muritiba",
   "uf": "BA",
-  "ibge": "2922300"
+  "ibge": "2922300",
+  "lat": -12.6265247,
+  "lon": -39.1522687
 }

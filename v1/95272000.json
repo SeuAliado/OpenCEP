@@ -5,5 +5,7 @@
   "bairro": "Otávio Rocha",
   "localidade": "Flores da Cunha",
   "uf": "RS",
-  "ibge": "4308201"
+  "ibge": "4308201",
+  "lat": -29.0557827,
+  "lon": -51.199501
 }

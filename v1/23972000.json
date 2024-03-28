@@ -5,5 +5,7 @@
   "bairro": "Parati Mirim",
   "localidade": "Paraty",
   "uf": "RJ",
-  "ibge": "3303807"
+  "ibge": "3303807",
+  "lat": -23.2196686,
+  "lon": -44.7212379
 }

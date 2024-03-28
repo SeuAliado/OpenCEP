@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -14.8910086,
+  "lon": -40.8291581
 }

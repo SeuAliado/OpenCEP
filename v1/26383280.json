@@ -5,5 +5,7 @@
   "bairro": "Vila do Tinguá",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7038986,
+  "lon": -43.559574
 }

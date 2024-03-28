@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brumado",
   "uf": "BA",
-  "ibge": "2904605"
+  "ibge": "2904605",
+  "lat": -14.2025791,
+  "lon": -41.6699736
 }

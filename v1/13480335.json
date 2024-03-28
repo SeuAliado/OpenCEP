@@ -5,5 +5,7 @@
   "bairro": "Jardim São Roque",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5850759,
+  "lon": -47.3913632
 }

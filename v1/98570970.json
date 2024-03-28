@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Novo",
   "uf": "RS",
-  "ibge": "4304002"
+  "ibge": "4304002",
+  "lat": -27.6802704,
+  "lon": -53.8076223
 }

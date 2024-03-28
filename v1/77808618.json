@@ -5,5 +5,7 @@
   "bairro": "Vila Ribeiro",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.208295,
+  "lon": -48.1846738
 }

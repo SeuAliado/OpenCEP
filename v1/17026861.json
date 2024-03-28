@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Nobuji Nagasawa",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2926097,
+  "lon": -49.0540783
 }

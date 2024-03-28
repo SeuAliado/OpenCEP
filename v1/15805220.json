@@ -5,5 +5,7 @@
   "bairro": "Loteamento Colina do Sol",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1158455,
+  "lon": -48.9565414
 }

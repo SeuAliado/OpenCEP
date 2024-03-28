@@ -5,5 +5,7 @@
   "bairro": "Granjas do Norte",
   "localidade": "Chapada do Norte",
   "uf": "MG",
-  "ibge": "3116100"
+  "ibge": "3116100",
+  "lat": -17.2692416,
+  "lon": -42.1907129
 }

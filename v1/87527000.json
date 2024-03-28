@@ -5,5 +5,7 @@
   "bairro": "Herculândia",
   "localidade": "Ivaté",
   "uf": "PR",
-  "ibge": "4111555"
+  "ibge": "4111555",
+  "lat": -23.2626231,
+  "lon": -53.4041546
 }

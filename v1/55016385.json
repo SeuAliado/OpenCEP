@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.2730322,
+  "lon": -35.9665164
 }

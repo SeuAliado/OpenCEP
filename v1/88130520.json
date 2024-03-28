@@ -5,5 +5,7 @@
   "bairro": "Ponte do Imaruim",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.6288927,
+  "lon": -48.6487114
 }

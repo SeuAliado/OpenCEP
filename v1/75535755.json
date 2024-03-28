@@ -5,5 +5,7 @@
   "bairro": "Dom Veloso",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4109426,
+  "lon": -49.2555395
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Aurora (Itambi)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7548377,
+  "lon": -42.9401727
 }

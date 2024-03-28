@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Jacuri",
   "uf": "MG",
-  "ibge": "3163508"
+  "ibge": "3163508",
+  "lat": -18.2769806,
+  "lon": -42.6715577
 }

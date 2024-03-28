@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Marcos",
   "uf": "RS",
-  "ibge": "4319000"
+  "ibge": "4319000",
+  "lat": -28.9689486,
+  "lon": -51.0710634
 }

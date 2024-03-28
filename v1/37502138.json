@@ -5,5 +5,7 @@
   "bairro": "Medicina",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4349908,
+  "lon": -45.456975
 }

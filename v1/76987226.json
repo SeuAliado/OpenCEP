@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.734998,
+  "lon": -60.1203598
 }

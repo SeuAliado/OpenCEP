@@ -5,5 +5,7 @@
   "bairro": "Araúna",
   "localidade": "Guapé",
   "uf": "MG",
-  "ibge": "3128105"
+  "ibge": "3128105",
+  "lat": -20.7659192,
+  "lon": -45.9204899
 }

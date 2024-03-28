@@ -5,5 +5,7 @@
   "bairro": "Residencial dos Buritis",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7760873,
+  "lon": -50.9096772
 }

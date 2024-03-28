@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Coração de Maria",
   "uf": "BA",
-  "ibge": "2908903"
+  "ibge": "2908903",
+  "lat": -12.1238865,
+  "lon": -38.7890242
 }

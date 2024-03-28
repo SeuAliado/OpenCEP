@@ -5,5 +5,7 @@
   "bairro": "Alto da Aliança",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4516391,
+  "lon": -40.4985579
 }

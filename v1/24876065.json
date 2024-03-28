@@ -5,5 +5,7 @@
   "bairro": "Itamarati (Visconde de Itaboraí)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.72689,
+  "lon": -42.894198
 }

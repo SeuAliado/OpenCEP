@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bocaiúva",
   "uf": "MG",
-  "ibge": "3107307"
+  "ibge": "3107307",
+  "lat": -22.8681272,
+  "lon": -43.7773153
 }

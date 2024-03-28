@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paulino Neves",
   "uf": "MA",
-  "ibge": "2108058"
+  "ibge": "2108058",
+  "lat": -2.7238949,
+  "lon": -42.5354715
 }

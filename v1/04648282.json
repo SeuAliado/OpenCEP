@@ -5,5 +5,7 @@
   "bairro": "Jardim Los Angeles",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6556114,
+  "lon": -46.6714236
 }

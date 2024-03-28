@@ -5,5 +5,7 @@
   "bairro": "Haller",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -28.3322804,
+  "lon": -54.2787665
 }

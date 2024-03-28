@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Major Sales",
   "uf": "RN",
-  "ibge": "2407252"
+  "ibge": "2407252",
+  "lat": -6.3998855,
+  "lon": -38.3243628
 }

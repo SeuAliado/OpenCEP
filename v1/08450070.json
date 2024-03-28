@@ -5,5 +5,7 @@
   "bairro": "Lajeado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5422731,
+  "lon": -46.4085466
 }

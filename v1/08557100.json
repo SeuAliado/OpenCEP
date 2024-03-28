@@ -5,5 +5,7 @@
   "bairro": "Vila das Acácias",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5163286,
+  "lon": -46.3405937
 }

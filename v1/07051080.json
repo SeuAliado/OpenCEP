@@ -5,5 +5,7 @@
   "bairro": "Vila Iris",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4686537,
+  "lon": -46.54855
 }

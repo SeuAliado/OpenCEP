@@ -5,5 +5,7 @@
   "bairro": "Itaquari",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3287287,
+  "lon": -40.3634835
 }

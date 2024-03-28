@@ -5,5 +5,7 @@
   "bairro": "Água Quente",
   "localidade": "Iaciara",
   "uf": "GO",
-  "ibge": "5209903"
+  "ibge": "5209903",
+  "lat": -13.9344941,
+  "lon": -46.6420362
 }

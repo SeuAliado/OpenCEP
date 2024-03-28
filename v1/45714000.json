@@ -5,5 +5,7 @@
   "bairro": "Itati",
   "localidade": "Itororó",
   "uf": "BA",
-  "ibge": "2917102"
+  "ibge": "2917102",
+  "lat": -15.0219716,
+  "lon": -40.0698895
 }

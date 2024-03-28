@@ -5,5 +5,7 @@
   "bairro": "Sonho Verde",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.424627,
+  "lon": -36.640336
 }

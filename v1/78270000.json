@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salto do Céu",
   "uf": "MT",
-  "ibge": "5107750"
+  "ibge": "5107750",
+  "lat": -15.0697817,
+  "lon": -57.9617144
 }

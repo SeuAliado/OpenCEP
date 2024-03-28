@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serrano do Maranhão",
   "uf": "MA",
-  "ibge": "2111789"
+  "ibge": "2111789",
+  "lat": -1.8527364,
+  "lon": -45.1173086
 }

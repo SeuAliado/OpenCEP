@@ -5,5 +5,7 @@
   "bairro": "Parque das Acácias",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5809058,
+  "lon": -45.4262779
 }

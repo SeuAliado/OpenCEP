@@ -5,5 +5,7 @@
   "bairro": "Jardim Campos Prado",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.276381,
+  "lon": -48.5596902
 }

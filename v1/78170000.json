@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nossa Senhora do Livramento",
   "uf": "MT",
-  "ibge": "5106109"
+  "ibge": "5106109",
+  "lat": -15.7724561,
+  "lon": -56.3437388
 }

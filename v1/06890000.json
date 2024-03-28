@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Lourenço da Serra",
   "uf": "SP",
-  "ibge": "3549953"
+  "ibge": "3549953",
+  "lat": -23.8496264,
+  "lon": -46.9436103
 }

@@ -5,5 +5,7 @@
   "bairro": "Grota",
   "localidade": "Jequeri",
   "uf": "MG",
-  "ibge": "3135506"
+  "ibge": "3135506",
+  "lat": -16.95,
+  "lon": -40.866667
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Esmeralda",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4699211,
+  "lon": -49.559192
 }

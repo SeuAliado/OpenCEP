@@ -5,5 +5,7 @@
   "bairro": "Vila Alta",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6716357,
+  "lon": -49.7611512
 }

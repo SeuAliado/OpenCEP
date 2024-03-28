@@ -5,5 +5,7 @@
   "bairro": "Mundo Novo de Minas",
   "localidade": "Aimorés",
   "uf": "MG",
-  "ibge": "3101102"
+  "ibge": "3101102",
+  "lat": -19.7443177,
+  "lon": -41.3547063
 }

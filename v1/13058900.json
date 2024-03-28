@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.949056,
+  "lon": -47.1952857
 }

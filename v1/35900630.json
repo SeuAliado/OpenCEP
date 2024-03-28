@@ -5,5 +5,7 @@
   "bairro": "Santa Matilde",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.7562403,
+  "lon": -44.0771435
 }

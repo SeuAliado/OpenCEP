@@ -5,5 +5,7 @@
   "bairro": "Urussanguinha",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "lat": -28.940629,
+  "lon": -49.4792339
 }

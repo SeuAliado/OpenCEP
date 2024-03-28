@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sanclerlândia",
   "uf": "GO",
-  "ibge": "5219001"
+  "ibge": "5219001",
+  "lat": -16.2554215,
+  "lon": -50.3688312
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Eliza (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7958306,
+  "lon": -47.217481
 }

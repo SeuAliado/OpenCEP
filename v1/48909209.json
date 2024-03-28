@@ -5,5 +5,7 @@
   "bairro": "Vila Tiradentes",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4193292,
+  "lon": -40.4992091
 }

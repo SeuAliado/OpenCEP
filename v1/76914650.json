@@ -5,5 +5,7 @@
   "bairro": "Flórida",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "lat": -10.8744102,
+  "lon": -61.9520571
 }

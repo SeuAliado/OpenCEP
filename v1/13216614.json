@@ -5,5 +5,7 @@
   "bairro": "Loteamento Portal da Colina",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1666023,
+  "lon": -46.8721974
 }

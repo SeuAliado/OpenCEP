@@ -5,5 +5,7 @@
   "bairro": "Pedra Linda",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4814145,
+  "lon": -42.624643
 }

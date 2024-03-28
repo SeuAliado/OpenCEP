@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal da Mantiqueira",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -22.9973051,
+  "lon": -45.5776547
 }

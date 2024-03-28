@@ -5,5 +5,7 @@
   "bairro": "Cidade Popular",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5572083,
+  "lon": -46.3977002
 }

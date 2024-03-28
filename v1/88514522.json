@@ -5,5 +5,7 @@
   "bairro": "Santa Cândida",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8147119,
+  "lon": -50.3621242
 }

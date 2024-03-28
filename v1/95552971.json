@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capivari do Sul",
   "uf": "RS",
-  "ibge": "4304671"
+  "ibge": "4304671",
+  "lat": -30.1470603,
+  "lon": -50.5128158
 }

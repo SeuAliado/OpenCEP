@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana de Cataguases",
   "uf": "MG",
-  "ibge": "3158409"
+  "ibge": "3158409",
+  "lat": -21.2897687,
+  "lon": -42.5527617
 }

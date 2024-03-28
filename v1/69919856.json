@@ -5,5 +5,7 @@
   "bairro": "Conjunto Rui Lino",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -8.407168,
+  "lon": -52.03125
 }

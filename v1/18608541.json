@@ -5,5 +5,7 @@
   "bairro": "Vila Antártica",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8717105,
+  "lon": -48.4596562
 }

@@ -5,5 +5,7 @@
   "bairro": "Ana Nery",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7284874,
+  "lon": -52.4307524
 }

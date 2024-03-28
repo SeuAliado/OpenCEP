@@ -5,5 +5,7 @@
   "bairro": "Jardim Recanto dos Pássaros",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9533025,
+  "lon": -46.7983401
 }

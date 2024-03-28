@@ -5,5 +5,7 @@
   "bairro": "Loteamento Loanda",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1085468,
+  "lon": -46.5235583
 }

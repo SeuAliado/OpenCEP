@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bofete",
   "uf": "SP",
-  "ibge": "3506904"
+  "ibge": "3506904",
+  "lat": -23.1012119,
+  "lon": -48.2616994
 }

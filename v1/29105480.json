@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica Popular",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3654117,
+  "lon": -40.3109126
 }

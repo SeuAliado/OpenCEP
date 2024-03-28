@@ -5,5 +5,7 @@
   "bairro": "Caminho de Areia",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9231464,
+  "lon": -38.5029166
 }

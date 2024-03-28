@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Piracema",
   "localidade": "Barra do Garças",
   "uf": "MT",
-  "ibge": "5101803"
+  "ibge": "5101803",
+  "lat": -15.8836677,
+  "lon": -52.2854887
 }

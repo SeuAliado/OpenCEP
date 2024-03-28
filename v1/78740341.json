@@ -5,5 +5,7 @@
   "bairro": "Parque Real",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4800439,
+  "lon": -54.6212297
 }

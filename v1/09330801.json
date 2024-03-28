@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6555864,
+  "lon": -46.4324887
 }

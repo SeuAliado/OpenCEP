@@ -5,5 +5,7 @@
   "bairro": "Jardim das Rosas",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5480708,
+  "lon": -55.6972859
 }

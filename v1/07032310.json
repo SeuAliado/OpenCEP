@@ -5,5 +5,7 @@
   "bairro": "Ponte Grande",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.5035992,
+  "lon": -46.5488025
 }

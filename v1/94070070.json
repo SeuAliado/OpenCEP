@@ -5,5 +5,7 @@
   "bairro": "Bom Princípio",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9365297,
+  "lon": -51.0734396
 }

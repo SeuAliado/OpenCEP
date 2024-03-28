@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aparecida do Rio Doce",
   "uf": "GO",
-  "ibge": "5201454"
+  "ibge": "5201454",
+  "lat": -18.1922764,
+  "lon": -51.2213044
 }

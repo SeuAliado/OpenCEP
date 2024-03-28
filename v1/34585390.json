@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8860354,
+  "lon": -43.8599636
 }

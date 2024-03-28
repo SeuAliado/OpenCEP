@@ -5,5 +5,7 @@
   "bairro": "Jardim Orlando Chesini Ometto",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3332003,
+  "lon": -48.5478255
 }

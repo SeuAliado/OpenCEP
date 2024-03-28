@@ -5,5 +5,7 @@
   "bairro": "Moinho de Vento",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5440573,
+  "lon": -44.170691
 }

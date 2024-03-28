@@ -5,5 +5,7 @@
   "bairro": "Vila Embaré",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.964426,
+  "lon": -47.0078501
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapeva",
   "uf": "MG",
-  "ibge": "3133600"
+  "ibge": "3133600",
+  "lat": -22.7675446,
+  "lon": -46.2220761
 }

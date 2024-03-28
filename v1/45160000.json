@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Belo Campo",
   "uf": "BA",
-  "ibge": "2903508"
+  "ibge": "2903508",
+  "lat": -14.9969644,
+  "lon": -41.1803774
 }

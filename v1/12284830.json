@@ -5,5 +5,7 @@
   "bairro": "Chácara Germana",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1149152,
+  "lon": -45.6922543
 }

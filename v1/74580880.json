@@ -5,5 +5,7 @@
   "bairro": "Setor Perim Continuação",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6488526,
+  "lon": -49.2951671
 }

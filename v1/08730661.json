@@ -5,5 +5,7 @@
   "bairro": "Chácara Jafet",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5377239,
+  "lon": -46.1987536
 }

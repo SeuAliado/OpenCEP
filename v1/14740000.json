@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Viradouro",
   "uf": "SP",
-  "ibge": "3556800"
+  "ibge": "3556800",
+  "lat": -20.8723727,
+  "lon": -48.2971044
 }

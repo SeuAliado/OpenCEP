@@ -5,5 +5,7 @@
   "bairro": "Parque do Horto",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8419791,
+  "lon": -47.2049223
 }

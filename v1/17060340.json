@@ -5,5 +5,7 @@
   "bairro": "Vila São João da Boa Vista",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3219484,
+  "lon": -49.082978
 }

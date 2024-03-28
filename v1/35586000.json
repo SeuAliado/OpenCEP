@@ -5,5 +5,7 @@
   "bairro": "Santo Hilário",
   "localidade": "Pimenta",
   "uf": "MG",
-  "ibge": "3150505"
+  "ibge": "3150505",
+  "lat": -17.8503964,
+  "lon": -41.5166774
 }

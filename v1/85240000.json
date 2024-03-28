@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mato Rico",
   "uf": "PR",
-  "ibge": "4115739"
+  "ibge": "4115739",
+  "lat": -24.7111986,
+  "lon": -52.2337184
 }

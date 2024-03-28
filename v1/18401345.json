@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Marina",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9714535,
+  "lon": -48.8691252
 }

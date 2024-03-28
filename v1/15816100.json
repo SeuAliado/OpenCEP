@@ -5,5 +5,7 @@
   "bairro": "Jardim Oriental",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1660858,
+  "lon": -48.938138
 }

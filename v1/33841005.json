@@ -5,5 +5,7 @@
   "bairro": "Alicante",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7476879,
+  "lon": -44.0619
 }

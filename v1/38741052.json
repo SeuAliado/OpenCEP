@@ -5,5 +5,7 @@
   "bairro": "Enéas Ferreira de Aguiar",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9662259,
+  "lon": -47.0035254
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinheiro Preto",
   "uf": "SC",
-  "ibge": "4213005"
+  "ibge": "4213005",
+  "lat": -27.0453071,
+  "lon": -51.2261239
 }

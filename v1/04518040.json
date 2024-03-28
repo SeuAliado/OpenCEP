@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Mundo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6117156,
+  "lon": -46.6729347
 }

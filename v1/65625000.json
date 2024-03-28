@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Duque Bacelar",
   "uf": "MA",
-  "ibge": "2103901"
+  "ibge": "2103901",
+  "lat": -4.105694,
+  "lon": -42.9806087
 }

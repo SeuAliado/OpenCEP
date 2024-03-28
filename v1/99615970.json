@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Trindade do Sul",
   "uf": "RS",
-  "ibge": "4321956"
+  "ibge": "4321956",
+  "lat": -27.5226316,
+  "lon": -52.9028749
 }

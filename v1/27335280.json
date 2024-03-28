@@ -5,5 +5,7 @@
   "bairro": "Morada da Granja",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5355072,
+  "lon": -44.1177567
 }

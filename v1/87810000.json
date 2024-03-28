@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaporema",
   "uf": "PR",
-  "ibge": "4109104"
+  "ibge": "4109104",
+  "lat": -23.3406906,
+  "lon": -52.7790998
 }

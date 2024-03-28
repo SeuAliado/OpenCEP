@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paranaiguara",
   "uf": "GO",
-  "ibge": "5216304"
+  "ibge": "5216304",
+  "lat": -18.9145149,
+  "lon": -50.6543925
 }

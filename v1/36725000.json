@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Estrela Dalva",
   "uf": "MG",
-  "ibge": "3124609"
+  "ibge": "3124609",
+  "lat": -21.7427784,
+  "lon": -42.4619026
 }

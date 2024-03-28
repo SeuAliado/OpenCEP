@@ -5,5 +5,7 @@
   "bairro": "Arujá Country Club",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4390383,
+  "lon": -46.3221758
 }

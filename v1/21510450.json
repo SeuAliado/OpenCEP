@@ -5,5 +5,7 @@
   "bairro": "Coelho Neto",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8341302,
+  "lon": -43.3477487
 }

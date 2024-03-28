@@ -5,5 +5,7 @@
   "bairro": "Trairi",
   "localidade": "Tangará",
   "uf": "RN",
-  "ibge": "2414001"
+  "ibge": "2414001",
+  "lat": -6.24944,
+  "lon": -35.834632
 }

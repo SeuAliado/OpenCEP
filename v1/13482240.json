@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Alto da Capela",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5759317,
+  "lon": -47.4188827
 }

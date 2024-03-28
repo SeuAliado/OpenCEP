@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alcobaça",
   "uf": "BA",
-  "ibge": "2900801"
+  "ibge": "2900801",
+  "lat": -17.530225,
+  "lon": -39.1937294
 }

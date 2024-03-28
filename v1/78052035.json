@@ -5,5 +5,7 @@
   "bairro": "Doutor Fábio Leite",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5734685,
+  "lon": -56.0260319
 }

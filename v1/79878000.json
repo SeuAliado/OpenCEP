@@ -5,5 +5,7 @@
   "bairro": "Vila Vargas",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.1393133,
+  "lon": -54.624854
 }

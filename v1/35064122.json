@@ -5,5 +5,7 @@
   "bairro": "Belvedere",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8400736,
+  "lon": -41.9309356
 }

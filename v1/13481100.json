@@ -5,5 +5,7 @@
   "bairro": "Jardim Bartolomeu Grotta",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.594354,
+  "lon": -47.4131921
 }

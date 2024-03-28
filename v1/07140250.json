@@ -5,5 +5,7 @@
   "bairro": "Jardim das Acácias",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4311718,
+  "lon": -46.499111
 }

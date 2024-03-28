@@ -5,5 +5,7 @@
   "bairro": "Parque São Luiz",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3672349,
+  "lon": -46.9410917
 }

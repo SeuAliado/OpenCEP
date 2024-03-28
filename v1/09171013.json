@@ -5,5 +5,7 @@
   "bairro": "Jardim Teles de Menezes",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6998291,
+  "lon": -46.5116672
 }

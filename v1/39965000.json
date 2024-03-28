@@ -5,5 +5,7 @@
   "bairro": "Guaranilândia",
   "localidade": "Jequitinhonha",
   "uf": "MG",
-  "ibge": "3135803"
+  "ibge": "3135803",
+  "lat": -16.4425455,
+  "lon": -41.0147244
 }

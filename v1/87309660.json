@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Mário Figueiredo",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "lat": -23.9941043,
+  "lon": -52.3615881
 }

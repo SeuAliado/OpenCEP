@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5114521,
+  "lon": -46.3540296
 }

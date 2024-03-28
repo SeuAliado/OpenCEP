@@ -5,5 +5,7 @@
   "bairro": "Tarilândia",
   "localidade": "Jaru",
   "uf": "RO",
-  "ibge": "1100114"
+  "ibge": "1100114",
+  "lat": -10.8578366,
+  "lon": -62.799139
 }

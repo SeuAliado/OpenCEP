@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.7020756,
+  "lon": -53.8715532
 }

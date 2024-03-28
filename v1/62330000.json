@@ -5,5 +5,7 @@
   "bairro": "Pindoguaba",
   "localidade": "Tianguá",
   "uf": "CE",
-  "ibge": "2313401"
+  "ibge": "2313401",
+  "lat": -3.7512,
+  "lon": -41.1586877
 }

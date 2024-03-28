@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Detroit",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1678204,
+  "lon": -45.809388
 }

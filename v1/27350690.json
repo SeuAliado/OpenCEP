@@ -5,5 +5,7 @@
   "bairro": "São Domingos",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5545095,
+  "lon": -44.2000395
 }

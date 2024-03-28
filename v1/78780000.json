@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Araguaia",
   "uf": "MT",
-  "ibge": "5100300"
+  "ibge": "5100300",
+  "lat": -17.3157703,
+  "lon": -53.2186041
 }

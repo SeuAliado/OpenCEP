@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rancho Alegre",
   "uf": "PR",
-  "ibge": "4121307"
+  "ibge": "4121307",
+  "lat": -23.0979347,
+  "lon": -48.9171128
 }

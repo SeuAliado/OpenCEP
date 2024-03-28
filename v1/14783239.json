@@ -5,5 +5,7 @@
   "bairro": "Marieta",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5721338,
+  "lon": -48.5611275
 }

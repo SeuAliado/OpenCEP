@@ -5,5 +5,7 @@
   "bairro": "Prolongamento Vila Aparecida II",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5337073,
+  "lon": -47.3662264
 }

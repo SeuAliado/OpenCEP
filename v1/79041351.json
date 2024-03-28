@@ -5,5 +5,7 @@
   "bairro": "Tiradentes",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.4720585,
+  "lon": -54.5819629
 }

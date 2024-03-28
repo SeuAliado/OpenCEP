@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mandaguaçu",
   "uf": "PR",
-  "ibge": "4114104"
+  "ibge": "4114104",
+  "lat": -23.3462407,
+  "lon": -52.0948587
 }

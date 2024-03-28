@@ -5,5 +5,7 @@
   "bairro": "Loteamento Chácaras Vale das Garças",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7407388,
+  "lon": -47.0620689
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheirinho",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4446537,
+  "lon": -46.2976236
 }

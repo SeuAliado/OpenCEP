@@ -5,5 +5,7 @@
   "bairro": "São José de Pouso Alegre",
   "localidade": "Alfredo Vasconcelos",
   "uf": "MG",
-  "ibge": "3101631"
+  "ibge": "3101631",
+  "lat": -21.1208846,
+  "lon": -43.6373789
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mariana Pimentel",
   "uf": "RS",
-  "ibge": "4311981"
+  "ibge": "4311981",
+  "lat": -30.2993684,
+  "lon": -51.5781151
 }

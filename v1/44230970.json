@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amélia Rodrigues",
   "uf": "BA",
-  "ibge": "2901106"
+  "ibge": "2901106",
+  "lat": -12.4007803,
+  "lon": -38.7539742
 }

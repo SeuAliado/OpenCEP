@@ -5,5 +5,7 @@
   "bairro": "Recreio Estoril",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1362894,
+  "lon": -46.6029917
 }

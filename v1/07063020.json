@@ -5,5 +5,7 @@
   "bairro": "Vila Harmonia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4549674,
+  "lon": -46.554092
 }

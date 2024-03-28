@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Rosa",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5652458,
+  "lon": -46.3139798
 }

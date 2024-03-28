@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7987032,
+  "lon": -63.8907263
 }

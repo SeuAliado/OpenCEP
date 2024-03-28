@@ -5,5 +5,7 @@
   "bairro": "Adelaide Cabral",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -3.65688,
+  "lon": -45.3905986
 }

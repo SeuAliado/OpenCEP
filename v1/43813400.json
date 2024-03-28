@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -9.4308551,
+  "lon": -40.5110289
 }

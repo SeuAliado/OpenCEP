@@ -5,5 +5,7 @@
   "bairro": "Lustosa",
   "localidade": "Teodoro Sampaio",
   "uf": "BA",
-  "ibge": "2931400"
+  "ibge": "2931400",
+  "lat": -12.2170056,
+  "lon": -38.6201614
 }

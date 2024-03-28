@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Brasilândia D'Oeste",
   "uf": "RO",
-  "ibge": "1100148"
+  "ibge": "1100148",
+  "lat": -11.4934564,
+  "lon": -62.215754
 }

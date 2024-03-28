@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macatuba",
   "uf": "SP",
-  "ibge": "3528007"
+  "ibge": "3528007",
+  "lat": -22.5003955,
+  "lon": -48.7125093
 }

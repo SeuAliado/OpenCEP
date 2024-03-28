@@ -5,5 +5,7 @@
   "bairro": "Jardim Regina",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6595989,
+  "lon": -48.1887558
 }

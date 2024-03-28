@@ -5,5 +5,7 @@
   "bairro": "Ipanema",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "lat": -23.5224531,
+  "lon": -46.4504398
 }

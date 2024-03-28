@@ -5,5 +5,7 @@
   "bairro": "Núcleo Rural Lago Oeste (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7206095,
+  "lon": -47.8658997
 }

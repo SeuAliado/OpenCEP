@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Machadinho",
   "uf": "RS",
-  "ibge": "4311700"
+  "ibge": "4311700",
+  "lat": -27.5658948,
+  "lon": -51.6677289
 }

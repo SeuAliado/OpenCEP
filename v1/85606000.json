@@ -5,5 +5,7 @@
   "bairro": "Sadia",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.1109209,
+  "lon": -53.0416717
 }

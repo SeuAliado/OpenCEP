@@ -5,5 +5,7 @@
   "bairro": "Marciano Brandão",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9437435,
+  "lon": -46.9964309
 }

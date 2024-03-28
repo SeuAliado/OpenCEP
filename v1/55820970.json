@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa do Carro",
   "uf": "PE",
-  "ibge": "2608453"
+  "ibge": "2608453",
+  "lat": -7.8428645,
+  "lon": -35.308613
 }

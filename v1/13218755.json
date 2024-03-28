@@ -5,5 +5,7 @@
   "bairro": "Ivoturucaia",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.180726,
+  "lon": -46.7951833
 }

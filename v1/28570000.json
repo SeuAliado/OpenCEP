@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaocara",
   "uf": "RJ",
-  "ibge": "3302106"
+  "ibge": "3302106",
+  "lat": -21.6704101,
+  "lon": -42.0792551
 }

@@ -5,5 +5,7 @@
   "bairro": "Aracaçu",
   "localidade": "Buri",
   "uf": "SP",
-  "ibge": "3508009"
+  "ibge": "3508009",
+  "lat": -23.7166653,
+  "lon": -48.4724325
 }

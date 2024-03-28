@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uarini",
   "uf": "AM",
-  "ibge": "1304260"
+  "ibge": "1304260",
+  "lat": -2.9860162,
+  "lon": -65.1560246
 }

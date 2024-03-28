@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rita do Trivelato",
   "uf": "MT",
-  "ibge": "5107768"
+  "ibge": "5107768",
+  "lat": -13.8123357,
+  "lon": -55.402868
 }

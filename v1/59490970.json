@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ielmo Marinho",
   "uf": "RN",
-  "ibge": "2404606"
+  "ibge": "2404606",
+  "lat": -5.8237295,
+  "lon": -35.5532263
 }

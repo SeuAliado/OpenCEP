@@ -5,5 +5,7 @@
   "bairro": "Rio Marinho",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3461658,
+  "lon": -40.3671081
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulo Lopes",
   "uf": "SC",
-  "ibge": "4212304"
+  "ibge": "4212304",
+  "lat": -26.2812946,
+  "lon": -48.8127448
 }

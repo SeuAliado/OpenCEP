@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre",
   "localidade": "Pedro Osório",
   "uf": "RS",
-  "ibge": "4314209"
+  "ibge": "4314209",
+  "lat": -31.7465201,
+  "lon": -52.838225
 }

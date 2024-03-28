@@ -5,5 +5,7 @@
   "bairro": "Marechal Rondon",
   "localidade": "Campo Novo do Parecis",
   "uf": "MT",
-  "ibge": "5102637"
+  "ibge": "5102637",
+  "lat": -13.655711,
+  "lon": -57.898375
 }

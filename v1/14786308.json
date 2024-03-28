@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.7925218,
+  "lon": -49.3799763
 }

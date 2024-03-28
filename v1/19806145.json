@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -23.1166579,
+  "lon": -48.9337631
 }

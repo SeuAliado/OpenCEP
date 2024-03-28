@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sapucaia",
   "uf": "RJ",
-  "ibge": "3305406"
+  "ibge": "3305406",
+  "lat": -21.9953615,
+  "lon": -42.9146039
 }

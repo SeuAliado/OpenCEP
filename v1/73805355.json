@@ -5,5 +5,7 @@
   "bairro": "Setor Pampulha",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5492602,
+  "lon": -47.3453864
 }

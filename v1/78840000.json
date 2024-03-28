@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Verde",
   "uf": "MT",
-  "ibge": "5102678"
+  "ibge": "5102678",
+  "lat": -15.550791,
+  "lon": -55.1677572
 }

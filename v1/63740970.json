@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Oriente",
   "uf": "CE",
-  "ibge": "2309409"
+  "ibge": "2309409",
+  "lat": -3.8669674,
+  "lon": -38.6285231
 }

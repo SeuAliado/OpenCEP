@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor José Secchi",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4461398,
+  "lon": -46.7997729
 }

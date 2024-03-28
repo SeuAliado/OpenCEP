@@ -5,5 +5,7 @@
   "bairro": "Parque União",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.307838,
+  "lon": -49.0859029
 }

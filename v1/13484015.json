@@ -5,5 +5,7 @@
   "bairro": "Vila da Glória",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5531242,
+  "lon": -47.4038479
 }

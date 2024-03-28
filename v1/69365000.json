@@ -5,5 +5,7 @@
   "bairro": "Novo Paraíso",
   "localidade": "Caracaraí",
   "uf": "RR",
-  "ibge": "1400209"
+  "ibge": "1400209",
+  "lat": 1.2495763,
+  "lon": -60.4850558
 }

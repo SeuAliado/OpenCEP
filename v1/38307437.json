@@ -5,5 +5,7 @@
   "bairro": "Jardim Jamila",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9868519,
+  "lon": -49.4793287
 }

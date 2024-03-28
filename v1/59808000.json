@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serrinha dos Pintos",
   "uf": "RN",
-  "ibge": "2413557"
+  "ibge": "2413557",
+  "lat": -6.1112715,
+  "lon": -37.9551394
 }

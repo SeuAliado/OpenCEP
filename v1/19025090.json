@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial São Lucas",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.0984578,
+  "lon": -51.4004015
 }

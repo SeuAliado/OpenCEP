@@ -5,5 +5,7 @@
   "bairro": "Clarindo Lopes",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7358884,
+  "lon": -43.855367
 }

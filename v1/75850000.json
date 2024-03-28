@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caiapônia",
   "uf": "GO",
-  "ibge": "5204409"
+  "ibge": "5204409",
+  "lat": -16.9543259,
+  "lon": -51.809544
 }

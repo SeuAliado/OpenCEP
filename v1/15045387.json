@@ -5,5 +5,7 @@
   "bairro": "Jardim Mugnaini",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7827331,
+  "lon": -49.391242
 }

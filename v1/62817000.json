@@ -5,5 +5,7 @@
   "bairro": "Campestre",
   "localidade": "Fortim",
   "uf": "CE",
-  "ibge": "2304459"
+  "ibge": "2304459",
+  "lat": -4.4179962,
+  "lon": -37.8473298
 }

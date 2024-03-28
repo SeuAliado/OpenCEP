@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8954039,
+  "lon": -48.4573319
 }

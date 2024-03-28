@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Brizon",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4204853,
+  "lon": -61.4540845
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Atalaia",
   "uf": "AL",
-  "ibge": "2700409"
+  "ibge": "2700409",
+  "lat": -8.3733451,
+  "lon": -35.2315338
 }

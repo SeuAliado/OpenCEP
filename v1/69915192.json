@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9401169,
+  "lon": -67.7974702
 }

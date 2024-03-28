@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedro Ometto",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3171179,
+  "lon": -48.5473961
 }

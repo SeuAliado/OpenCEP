@@ -5,5 +5,7 @@
   "bairro": "Buritis",
   "localidade": "Monte Carmelo",
   "uf": "MG",
-  "ibge": "3143104"
+  "ibge": "3143104",
+  "lat": -18.7422119,
+  "lon": -47.5227369
 }

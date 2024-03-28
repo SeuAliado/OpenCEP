@@ -5,5 +5,7 @@
   "bairro": "Pilar Velho",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.6791238,
+  "lon": -46.3903032
 }

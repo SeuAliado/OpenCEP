@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Santo de Minas",
   "uf": "MG",
-  "ibge": "3143203"
+  "ibge": "3143203",
+  "lat": -21.1914779,
+  "lon": -46.9764161
 }

@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Pássaros",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.4935625,
+  "lon": -46.3694832
 }

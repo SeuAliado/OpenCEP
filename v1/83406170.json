@@ -5,5 +5,7 @@
   "bairro": "Monza",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3655263,
+  "lon": -49.1589039
 }

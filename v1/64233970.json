@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caraúbas do Piauí",
   "uf": "PI",
-  "ibge": "2202539"
+  "ibge": "2202539",
+  "lat": -3.4779753,
+  "lon": -41.8435298
 }

@@ -5,5 +5,7 @@
   "bairro": "Comum (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8960824,
+  "lon": -42.4547984
 }

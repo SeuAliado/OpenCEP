@@ -5,5 +5,7 @@
   "bairro": "Inhoaíba",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9111643,
+  "lon": -43.5949418
 }

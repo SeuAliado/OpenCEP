@@ -5,5 +5,7 @@
   "bairro": "Cabrália",
   "localidade": "Piatã",
   "uf": "BA",
-  "ibge": "2924306"
+  "ibge": "2924306",
+  "lat": -12.8540329,
+  "lon": -41.8415839
 }

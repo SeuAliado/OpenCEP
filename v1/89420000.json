@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matos Costa",
   "uf": "SC",
-  "ibge": "4210704"
+  "ibge": "4210704",
+  "lat": -26.4832056,
+  "lon": -51.1585398
 }

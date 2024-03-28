@@ -5,5 +5,7 @@
   "bairro": "Parque Fazendinha",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8976837,
+  "lon": -47.1554925
 }

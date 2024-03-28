@@ -5,5 +5,7 @@
   "bairro": "Jardim São Conrado",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7879107,
+  "lon": -49.334469
 }

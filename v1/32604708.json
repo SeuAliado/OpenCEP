@@ -5,5 +5,7 @@
   "bairro": "Senhora das Graças",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9389158,
+  "lon": -44.1962005
 }

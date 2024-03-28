@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canápolis",
   "uf": "BA",
-  "ibge": "2906105"
+  "ibge": "2906105",
+  "lat": -13.072895,
+  "lon": -44.2013499
 }

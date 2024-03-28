@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa do Ouro",
   "uf": "PE",
-  "ibge": "2608602"
+  "ibge": "2608602",
+  "lat": -9.126091,
+  "lon": -36.4587025
 }

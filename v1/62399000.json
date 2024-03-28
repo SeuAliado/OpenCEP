@@ -5,5 +5,7 @@
   "bairro": "Repartição",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "lat": -4.383121,
+  "lon": -40.824345
 }

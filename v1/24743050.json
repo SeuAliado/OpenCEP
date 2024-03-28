@@ -5,5 +5,7 @@
   "bairro": "Jóquei Clube",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8427704,
+  "lon": -42.9923705
 }

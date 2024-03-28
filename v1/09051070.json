@@ -5,5 +5,7 @@
   "bairro": "Jardim Ocara",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6808849,
+  "lon": -46.5517302
 }

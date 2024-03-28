@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Glória de Dourados",
   "uf": "MS",
-  "ibge": "5004007"
+  "ibge": "5004007",
+  "lat": -22.4175999,
+  "lon": -54.2309523
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ermo",
   "uf": "SC",
-  "ibge": "4205191"
+  "ibge": "4205191",
+  "lat": -29.0252315,
+  "lon": -49.7479952
 }

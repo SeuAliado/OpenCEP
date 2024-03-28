@@ -5,5 +5,7 @@
   "bairro": "Serra do Félix",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "lat": -4.51142,
+  "lon": -38.181009
 }

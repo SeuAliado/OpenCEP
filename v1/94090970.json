@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9190741,
+  "lon": -51.0484681
 }

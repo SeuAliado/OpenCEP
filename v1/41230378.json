@@ -5,5 +5,7 @@
   "bairro": "Jardim Cajazeiras",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9208697,
+  "lon": -38.4503073
 }

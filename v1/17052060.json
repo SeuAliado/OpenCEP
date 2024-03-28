@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Lúcia",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.346092,
+  "lon": -49.0881429
 }

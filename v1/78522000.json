@@ -5,5 +5,7 @@
   "bairro": "Cotrel",
   "localidade": "Guarantã do Norte",
   "uf": "MT",
-  "ibge": "5104104"
+  "ibge": "5104104",
+  "lat": -9.9490174,
+  "lon": -54.9075251
 }

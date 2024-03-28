@@ -5,5 +5,7 @@
   "bairro": "Zona 22",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4628939,
+  "lon": -51.9379432
 }

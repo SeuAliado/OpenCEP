@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Poderes",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4399008,
+  "lon": -54.6328675
 }

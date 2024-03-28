@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mutuípe",
   "uf": "BA",
-  "ibge": "2922409"
+  "ibge": "2922409",
+  "lat": -13.2281907,
+  "lon": -39.5030539
 }

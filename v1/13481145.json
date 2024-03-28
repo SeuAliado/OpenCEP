@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Alto do Flamboyant",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5911639,
+  "lon": -47.4214896
 }

@@ -5,5 +5,7 @@
   "bairro": "Ariri",
   "localidade": "Cananéia",
   "uf": "SP",
-  "ibge": "3509908"
+  "ibge": "3509908",
+  "lat": -25.0017392,
+  "lon": -47.9341354
 }

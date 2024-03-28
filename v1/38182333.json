@@ -5,5 +5,7 @@
   "bairro": "Vila Padre Alaor",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6085023,
+  "lon": -46.9286038
 }

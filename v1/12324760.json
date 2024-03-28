@@ -5,5 +5,7 @@
   "bairro": "Vila São Judas Tadeu",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3098827,
+  "lon": -46.0059415
 }

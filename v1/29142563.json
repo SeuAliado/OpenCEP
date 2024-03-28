@@ -5,5 +5,7 @@
   "bairro": "Caçaroca",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3617703,
+  "lon": -40.3673996
 }

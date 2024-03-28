@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juatuba",
   "uf": "MG",
-  "ibge": "3136652"
+  "ibge": "3136652",
+  "lat": -19.9433029,
+  "lon": -44.3413836
 }

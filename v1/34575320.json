@@ -5,5 +5,7 @@
   "bairro": "Vila dos Coqueiros",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8827807,
+  "lon": -43.8425102
 }

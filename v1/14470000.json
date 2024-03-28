@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedregulho",
   "uf": "SP",
-  "ibge": "3537008"
+  "ibge": "3537008",
+  "lat": -20.2562227,
+  "lon": -47.4810384
 }

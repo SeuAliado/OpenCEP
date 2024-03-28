@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cachoeira dos Índios",
   "uf": "PB",
-  "ibge": "2503308"
+  "ibge": "2503308",
+  "lat": -6.9260075,
+  "lon": -38.6741667
 }

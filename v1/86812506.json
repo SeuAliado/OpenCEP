@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5533148,
+  "lon": -51.4226612
 }

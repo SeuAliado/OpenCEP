@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional das Indústrias",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5222976,
+  "lon": -51.4299782
 }

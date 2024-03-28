@@ -5,5 +5,7 @@
   "bairro": "Gadelha",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.4010032,
+  "lon": -39.2996121
 }

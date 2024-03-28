@@ -5,5 +5,7 @@
   "bairro": "Juparanã",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3808566,
+  "lon": -40.072185
 }

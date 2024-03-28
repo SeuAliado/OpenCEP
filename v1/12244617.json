@@ -5,5 +5,7 @@
   "bairro": "Urbanova VI",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.200761,
+  "lon": -45.9542542
 }

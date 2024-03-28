@@ -5,5 +5,7 @@
   "bairro": "Antonio Guilhermino",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4398803,
+  "lon": -40.4977932
 }

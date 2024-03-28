@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Maria Elmira",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1254364,
+  "lon": -45.7105331
 }

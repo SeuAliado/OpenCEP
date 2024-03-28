@@ -5,5 +5,7 @@
   "bairro": "Jardim Dora",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6311987,
+  "lon": -46.3046161
 }

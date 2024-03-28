@@ -5,5 +5,7 @@
   "bairro": "Parque Ibirapuera",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7690306,
+  "lon": -49.3226331
 }

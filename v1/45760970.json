@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macarani",
   "uf": "BA",
-  "ibge": "2919702"
+  "ibge": "2919702",
+  "lat": -15.5675497,
+  "lon": -40.4230008
 }

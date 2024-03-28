@@ -5,5 +5,7 @@
   "bairro": "Avelar",
   "localidade": "Paty do Alferes",
   "uf": "RJ",
-  "ibge": "3303856"
+  "ibge": "3303856",
+  "lat": -22.3332179,
+  "lon": -43.4180643
 }

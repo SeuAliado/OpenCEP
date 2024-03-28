@@ -5,5 +5,7 @@
   "bairro": "Diógenes Sampaio",
   "localidade": "Amargosa",
   "uf": "BA",
-  "ibge": "2901007"
+  "ibge": "2901007",
+  "lat": -12.9742655,
+  "lon": -39.5708202
 }

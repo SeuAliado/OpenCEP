@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Médici",
   "uf": "RO",
-  "ibge": "1100254"
+  "ibge": "1100254",
+  "lat": -11.1792937,
+  "lon": -61.9015322
 }

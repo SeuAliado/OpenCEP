@@ -5,5 +5,7 @@
   "bairro": "Shamballa Village",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.380625,
+  "lon": -47.3384661
 }

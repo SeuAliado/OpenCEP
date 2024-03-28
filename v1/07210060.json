@@ -5,5 +5,7 @@
   "bairro": "Jardim Arapongas",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4616639,
+  "lon": -46.4388381
 }

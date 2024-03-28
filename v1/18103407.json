@@ -5,5 +5,7 @@
   "bairro": "Jardim Eden Ville",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.418385,
+  "lon": -47.4060309
 }

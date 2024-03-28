@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Salto do Céu",
   "uf": "MT",
-  "ibge": "5107750"
+  "ibge": "5107750",
+  "lat": -15.1786166,
+  "lon": -57.9899282
 }

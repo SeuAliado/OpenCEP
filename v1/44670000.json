@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anguera",
   "uf": "BA",
-  "ibge": "2901502"
+  "ibge": "2901502",
+  "lat": -12.152407,
+  "lon": -39.2447594
 }

@@ -5,5 +5,7 @@
   "bairro": "Sagrado Coração de Jesus",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5411446,
+  "lon": -40.640075
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Amélia",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6697276,
+  "lon": -50.3994911
 }

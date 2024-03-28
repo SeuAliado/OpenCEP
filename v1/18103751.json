@@ -5,5 +5,7 @@
   "bairro": "Jardim Portobello",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4267189,
+  "lon": -47.4168939
 }

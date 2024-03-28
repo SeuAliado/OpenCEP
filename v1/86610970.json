@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguapitã",
   "uf": "PR",
-  "ibge": "4111902"
+  "ibge": "4111902",
+  "lat": -23.1106159,
+  "lon": -51.5354619
 }

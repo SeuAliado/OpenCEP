@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmácia",
   "uf": "CE",
-  "ibge": "2310100"
+  "ibge": "2310100",
+  "lat": -4.1477909,
+  "lon": -38.8460564
 }

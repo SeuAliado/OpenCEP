@@ -5,5 +5,7 @@
   "bairro": "Juca Ferrado",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "lat": -7.8435481,
+  "lon": -35.8014832
 }

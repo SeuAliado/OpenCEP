@@ -5,5 +5,7 @@
   "bairro": "Centro II",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -26.907083,
+  "lon": -48.6616785
 }

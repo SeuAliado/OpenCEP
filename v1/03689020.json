@@ -5,5 +5,7 @@
   "bairro": "Jardim Olympia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5294876,
+  "lon": -46.4822703
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9389688,
+  "lon": -46.2984555
 }

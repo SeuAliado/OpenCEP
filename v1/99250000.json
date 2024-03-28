@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serafina Corrêa",
   "uf": "RS",
-  "ibge": "4320404"
+  "ibge": "4320404",
+  "lat": -28.7087726,
+  "lon": -51.9397875
 }

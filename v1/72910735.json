@@ -5,5 +5,7 @@
   "bairro": "Jardim Querência",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7311443,
+  "lon": -48.2989612
 }

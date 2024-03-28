@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mambaí",
   "uf": "GO",
-  "ibge": "5212709"
+  "ibge": "5212709",
+  "lat": -14.4917995,
+  "lon": -46.1140134
 }

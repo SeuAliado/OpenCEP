@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itatim",
   "uf": "BA",
-  "ibge": "2916856"
+  "ibge": "2916856",
+  "lat": -12.707953,
+  "lon": -39.6966624
 }

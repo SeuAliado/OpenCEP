@@ -5,5 +5,7 @@
   "bairro": "Pau Arcado",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1248329,
+  "lon": -46.5665034
 }

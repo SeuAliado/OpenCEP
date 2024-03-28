@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jucuruçu",
   "uf": "BA",
-  "ibge": "2918456"
+  "ibge": "2918456",
+  "lat": -16.8630236,
+  "lon": -40.1043057
 }

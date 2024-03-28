@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves III",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.4471437,
+  "lon": -38.2130345
 }

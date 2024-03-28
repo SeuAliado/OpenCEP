@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buenópolis",
   "uf": "MG",
-  "ibge": "3109204"
+  "ibge": "3109204",
+  "lat": -17.8749015,
+  "lon": -44.1779141
 }

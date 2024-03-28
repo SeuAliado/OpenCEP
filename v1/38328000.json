@@ -5,5 +5,7 @@
   "bairro": "Perdilândia",
   "localidade": "Santa Vitória",
   "uf": "MG",
-  "ibge": "3159803"
+  "ibge": "3159803",
+  "lat": -18.8147063,
+  "lon": -50.3064842
 }

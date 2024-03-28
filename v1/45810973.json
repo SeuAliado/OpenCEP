@@ -5,5 +5,7 @@
   "bairro": "Pindorama",
   "localidade": "Porto Seguro",
   "uf": "BA",
-  "ibge": "2925303"
+  "ibge": "2925303",
+  "lat": -16.4154501,
+  "lon": -39.0809659
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulo Jacinto",
   "uf": "AL",
-  "ibge": "2706604"
+  "ibge": "2706604",
+  "lat": -24.6401444,
+  "lon": -48.8408161
 }

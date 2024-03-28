@@ -5,5 +5,7 @@
   "bairro": "Parque Sevilha (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7973123,
+  "lon": -47.2002003
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8035265,
+  "lon": -39.273795
 }

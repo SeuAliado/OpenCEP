@@ -5,5 +5,7 @@
   "bairro": "Parque Maria Domitila",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4908105,
+  "lon": -46.7397065
 }

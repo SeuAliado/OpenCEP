@@ -5,5 +5,7 @@
   "bairro": "Jardim Sofia",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "lat": -26.2404287,
+  "lon": -48.8365146
 }

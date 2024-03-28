@@ -5,5 +5,7 @@
   "bairro": "Aldeia do Lago",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4938994,
+  "lon": -42.6279029
 }

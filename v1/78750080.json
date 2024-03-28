@@ -5,5 +5,7 @@
   "bairro": "Jardim das Paineiras",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4631713,
+  "lon": -54.6652477
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Frezarin",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7230652,
+  "lon": -47.3689105
 }

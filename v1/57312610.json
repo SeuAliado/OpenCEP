@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.746865,
+  "lon": -36.6463629
 }

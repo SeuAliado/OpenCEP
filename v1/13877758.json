@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -22.0019059,
+  "lon": -46.8075913
 }

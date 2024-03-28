@@ -5,5 +5,7 @@
   "bairro": "Cajazeiras X",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8947866,
+  "lon": -38.412234
 }

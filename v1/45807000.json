@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz Cabrália",
   "uf": "BA",
-  "ibge": "2927705"
+  "ibge": "2927705",
+  "lat": -16.2825282,
+  "lon": -39.0236206
 }

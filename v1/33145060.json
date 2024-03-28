@@ -5,5 +5,7 @@
   "bairro": "Conjunto Cristina (São Benedito)",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7774428,
+  "lon": -43.9278732
 }

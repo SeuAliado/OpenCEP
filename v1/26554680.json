@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.7837048,
+  "lon": -43.436788
 }

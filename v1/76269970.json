@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Santa Fé de Goiás",
   "uf": "GO",
-  "ibge": "5219258"
+  "ibge": "5219258",
+  "lat": -16.6652676,
+  "lon": -49.2526863
 }

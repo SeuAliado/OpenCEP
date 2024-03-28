@@ -5,5 +5,7 @@
   "bairro": "Ponte das Garças",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -22.0998482,
+  "lon": -43.1591533
 }

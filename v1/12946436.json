@@ -5,5 +5,7 @@
   "bairro": "Vila Petrópolis",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1470116,
+  "lon": -46.5490143
 }

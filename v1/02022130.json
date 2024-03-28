@@ -5,5 +5,7 @@
   "bairro": "Vila Bianca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5039184,
+  "lon": -46.6361247
 }

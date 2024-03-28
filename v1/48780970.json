@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Biritinga",
   "uf": "BA",
-  "ibge": "2903607"
+  "ibge": "2903607",
+  "lat": -11.6217597,
+  "lon": -38.8081239
 }

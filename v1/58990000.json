@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Curral Velho",
   "uf": "PB",
-  "ibge": "2505303"
+  "ibge": "2505303",
+  "lat": -7.5372389,
+  "lon": -38.1983234
 }

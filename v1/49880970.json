@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canhoba",
   "uf": "SE",
-  "ibge": "2801108"
+  "ibge": "2801108",
+  "lat": -10.1398972,
+  "lon": -36.9758421
 }

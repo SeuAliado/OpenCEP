@@ -5,5 +5,7 @@
   "bairro": "Setor Industrial",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.9082125,
+  "lon": -51.7323221
 }

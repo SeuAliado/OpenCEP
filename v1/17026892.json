@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvestre",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2988304,
+  "lon": -49.0478553
 }

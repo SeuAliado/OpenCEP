@@ -5,5 +5,7 @@
   "bairro": "Marajó",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.192805,
+  "lon": -44.9047463
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Umburanas",
   "uf": "BA",
-  "ibge": "2932457"
+  "ibge": "2932457",
+  "lat": -10.7322328,
+  "lon": -41.3240453
 }

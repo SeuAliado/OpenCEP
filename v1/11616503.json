@@ -5,5 +5,7 @@
   "bairro": "Santiago",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.8099567,
+  "lon": -45.539313
 }

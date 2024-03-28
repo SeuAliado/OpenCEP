@@ -5,5 +5,7 @@
   "bairro": "Vila Menck",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.4971355,
+  "lon": -46.7718599
 }

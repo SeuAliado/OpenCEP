@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Hélio Nicolai",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4101722,
+  "lon": -46.8406856
 }

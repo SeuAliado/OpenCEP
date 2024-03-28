@@ -5,5 +5,7 @@
   "bairro": "Botafogo",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "lat": -10.1695898,
+  "lon": -36.313785
 }

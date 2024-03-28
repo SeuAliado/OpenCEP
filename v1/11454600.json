@@ -5,5 +5,7 @@
   "bairro": "Vila Áurea (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.940454,
+  "lon": -46.2822578
 }

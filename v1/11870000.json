@@ -5,5 +5,7 @@
   "bairro": "Santa Rita do Ribeira",
   "localidade": "Miracatu",
   "uf": "SP",
-  "ibge": "3529906"
+  "ibge": "3529906",
+  "lat": -24.2840544,
+  "lon": -47.4440856
 }

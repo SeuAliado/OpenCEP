@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Urucará",
   "uf": "AM",
-  "ibge": "1304302"
+  "ibge": "1304302",
+  "lat": -0.910165,
+  "lon": -59.2879977
 }

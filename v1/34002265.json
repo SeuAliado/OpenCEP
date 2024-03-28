@@ -5,5 +5,7 @@
   "bairro": "Vila Marise",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0089784,
+  "lon": -43.8383683
 }

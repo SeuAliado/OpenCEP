@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gavião Peixoto",
   "uf": "SP",
-  "ibge": "3516853"
+  "ibge": "3516853",
+  "lat": -21.8028379,
+  "lon": -48.1647629
 }

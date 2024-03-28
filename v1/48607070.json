@@ -5,5 +5,7 @@
   "bairro": "General Dutra",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.3963625,
+  "lon": -38.2172269
 }

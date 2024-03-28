@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança - Continuação",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.796038,
+  "lon": -49.3290885
 }

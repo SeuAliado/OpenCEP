@@ -5,5 +5,7 @@
   "bairro": "Alegria",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -12.9706074,
+  "lon": -38.4348774
 }

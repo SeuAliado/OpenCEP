@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Abaetetuba",
   "uf": "PA",
-  "ibge": "1500107"
+  "ibge": "1500107",
+  "lat": -1.7221887,
+  "lon": -48.8792698
 }

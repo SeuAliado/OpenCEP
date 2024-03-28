@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paverama",
   "uf": "RS",
-  "ibge": "4314159"
+  "ibge": "4314159",
+  "lat": -29.5492573,
+  "lon": -51.7605196
 }

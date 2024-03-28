@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canudos",
   "uf": "BA",
-  "ibge": "2906824"
+  "ibge": "2906824",
+  "lat": -9.8933501,
+  "lon": -39.024605
 }

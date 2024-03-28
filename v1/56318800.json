@@ -5,5 +5,7 @@
   "bairro": "Vale Grande Rio",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.4054193,
+  "lon": -40.5408668
 }

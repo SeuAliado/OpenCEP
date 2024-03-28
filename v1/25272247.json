@@ -5,5 +5,7 @@
   "bairro": "Vila Angélica",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6274599,
+  "lon": -43.1976182
 }

@@ -5,5 +5,7 @@
   "bairro": "Borgo",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1552752,
+  "lon": -51.5107417
 }

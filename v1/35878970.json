@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carmésia",
   "uf": "MG",
-  "ibge": "3113800"
+  "ibge": "3113800",
+  "lat": -19.087045,
+  "lon": -43.142183
 }

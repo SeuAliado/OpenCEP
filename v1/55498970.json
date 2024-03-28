@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Agrestina",
   "uf": "PE",
-  "ibge": "2600302"
+  "ibge": "2600302",
+  "lat": -8.5107116,
+  "lon": -35.9434924
 }

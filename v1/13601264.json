@@ -5,5 +5,7 @@
   "bairro": "Jardim Francisco Buzolin",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3658277,
+  "lon": -47.3921858
 }

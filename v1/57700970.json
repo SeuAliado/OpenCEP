@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Viçosa",
   "uf": "AL",
-  "ibge": "2709400"
+  "ibge": "2709400",
+  "lat": -20.7705663,
+  "lon": -42.8870305
 }

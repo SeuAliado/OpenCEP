@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Despacho",
   "uf": "MG",
-  "ibge": "3107406"
+  "ibge": "3107406",
+  "lat": -19.7369189,
+  "lon": -45.2510125
 }

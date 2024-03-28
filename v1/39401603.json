@@ -5,5 +5,7 @@
   "bairro": "Panorama II",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7160968,
+  "lon": -43.8875957
 }

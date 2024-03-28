@@ -5,5 +5,7 @@
   "bairro": "Belvedere Bandeirante",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5592111,
+  "lon": -47.3641744
 }

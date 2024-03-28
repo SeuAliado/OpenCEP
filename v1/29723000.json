@@ -5,5 +5,7 @@
   "bairro": "Morello",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "lat": -19.2519653,
+  "lon": -40.4624541
 }

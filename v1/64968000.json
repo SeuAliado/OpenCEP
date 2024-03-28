@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morro Cabeça no Tempo",
   "uf": "PI",
-  "ibge": "2206654"
+  "ibge": "2206654",
+  "lat": -9.723553,
+  "lon": -43.900239
 }

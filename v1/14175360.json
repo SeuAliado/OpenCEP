@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial e Empresarial 2",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1482966,
+  "lon": -48.0009765
 }

@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Dois Vizinhos",
   "uf": "PR",
-  "ibge": "4107207"
+  "ibge": "4107207",
+  "lat": -25.8089426,
+  "lon": -53.0219272
 }

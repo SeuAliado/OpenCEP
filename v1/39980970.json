@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cachoeira de Pajeú",
   "uf": "MG",
-  "ibge": "3102704"
+  "ibge": "3102704",
+  "lat": -15.9654528,
+  "lon": -41.4968934
 }

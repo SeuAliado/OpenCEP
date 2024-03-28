@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4544953,
+  "lon": -51.87628
 }

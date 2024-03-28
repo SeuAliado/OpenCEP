@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gaúcha do Norte",
   "uf": "MT",
-  "ibge": "5103858"
+  "ibge": "5103858",
+  "lat": -13.2447109,
+  "lon": -53.081383
 }

@@ -5,5 +5,7 @@
   "bairro": "Fátima (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.892504,
+  "lon": -42.4624892
 }

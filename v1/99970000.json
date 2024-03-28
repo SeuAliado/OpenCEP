@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ciríaco",
   "uf": "RS",
-  "ibge": "4305504"
+  "ibge": "4305504",
+  "lat": -28.342406,
+  "lon": -51.8746519
 }

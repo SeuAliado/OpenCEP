@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matriz de Camaragibe",
   "uf": "AL",
-  "ibge": "2705101"
+  "ibge": "2705101",
+  "lat": -9.7246907,
+  "lon": -36.6624309
 }

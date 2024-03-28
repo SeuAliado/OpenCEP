@@ -5,5 +5,7 @@
   "bairro": "Chácaras Campos dos Amarais",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8550095,
+  "lon": -47.1044619
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Retiro",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1747667,
+  "lon": -47.3066376
 }

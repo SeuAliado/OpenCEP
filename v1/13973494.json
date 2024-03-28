@@ -5,5 +5,7 @@
   "bairro": "Jardim Guarujá",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4539603,
+  "lon": -46.8062192
 }

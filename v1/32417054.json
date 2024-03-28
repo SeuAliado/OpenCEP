@@ -5,5 +5,7 @@
   "bairro": "Petrovale - 2ª Seção",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -19.9903432,
+  "lon": -44.1086684
 }

@@ -5,5 +5,7 @@
   "bairro": "Caju",
   "localidade": "São Miguel do Guamá",
   "uf": "PA",
-  "ibge": "1507607"
+  "ibge": "1507607",
+  "lat": -1.6208852,
+  "lon": -47.7965857
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lutécia",
   "uf": "SP",
-  "ibge": "3527900"
+  "ibge": "3527900",
+  "lat": -22.3307203,
+  "lon": -50.3894858
 }

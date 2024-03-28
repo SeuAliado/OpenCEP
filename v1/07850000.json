@@ -5,5 +5,7 @@
   "bairro": "Vila Zanela",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3321806,
+  "lon": -46.721236
 }

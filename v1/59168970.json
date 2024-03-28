@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Georgino Avelino",
   "uf": "RN",
-  "ibge": "2413201"
+  "ibge": "2413201",
+  "lat": -6.1611699,
+  "lon": -35.1226825
 }

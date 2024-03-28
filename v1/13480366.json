@@ -5,5 +5,7 @@
   "bairro": "Jardim Montezuma",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5773386,
+  "lon": -47.3969709
 }

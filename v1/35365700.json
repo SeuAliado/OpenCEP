@@ -5,5 +5,7 @@
   "bairro": "Granada",
   "localidade": "Abre Campo",
   "uf": "MG",
-  "ibge": "3100302"
+  "ibge": "3100302",
+  "lat": -20.1676243,
+  "lon": -42.3884941
 }

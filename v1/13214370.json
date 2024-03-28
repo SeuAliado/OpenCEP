@@ -5,5 +5,7 @@
   "bairro": "Cidade Santos Dumont",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.166784,
+  "lon": -46.911207
 }

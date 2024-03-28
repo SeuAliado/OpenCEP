@@ -5,5 +5,7 @@
   "bairro": "Vila Mendes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6119135,
+  "lon": -46.5304684
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Otacílio Costa",
   "uf": "SC",
-  "ibge": "4211751"
+  "ibge": "4211751",
+  "lat": -27.506772,
+  "lon": -50.1138045
 }

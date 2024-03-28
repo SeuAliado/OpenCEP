@@ -5,5 +5,7 @@
   "bairro": "Toque-Toque Grande",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.8312009,
+  "lon": -45.5113098
 }

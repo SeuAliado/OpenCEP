@@ -5,5 +5,7 @@
   "bairro": "Recreio Campo Belo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.4973311,
+  "lon": -47.3874842
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Olímpica",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7366369,
+  "lon": -47.9406141
 }

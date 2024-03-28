@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Sarah",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3413383,
+  "lon": -49.0625847
 }

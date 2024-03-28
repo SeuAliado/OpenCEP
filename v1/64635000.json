@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João da Canabrava",
   "uf": "PI",
-  "ibge": "2209856"
+  "ibge": "2209856",
+  "lat": -6.8124305,
+  "lon": -41.3418529
 }

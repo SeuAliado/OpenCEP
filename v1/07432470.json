@@ -5,5 +5,7 @@
   "bairro": "Recanto Primavera",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.426503,
+  "lon": -46.3650594
 }

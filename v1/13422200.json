@@ -5,5 +5,7 @@
   "bairro": "Unileste",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7287909,
+  "lon": -47.5895688
 }

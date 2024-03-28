@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Eugênio Abrão Miziara - Jone Miziara",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5823194,
+  "lon": -48.5653055
 }

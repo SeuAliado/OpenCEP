@@ -5,5 +5,7 @@
   "bairro": "Universal",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.3467089,
+  "lon": -40.425057
 }

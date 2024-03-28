@@ -5,5 +5,7 @@
   "bairro": "Vila Marcelo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.793644,
+  "lon": -46.7225317
 }

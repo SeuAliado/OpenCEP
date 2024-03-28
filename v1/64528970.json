@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra D'Alcântara",
   "uf": "PI",
-  "ibge": "2201176"
+  "ibge": "2201176",
+  "lat": -6.519521,
+  "lon": -42.1069511
 }

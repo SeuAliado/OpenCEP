@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguaraçu",
   "uf": "MG",
-  "ibge": "3135001"
+  "ibge": "3135001",
+  "lat": -19.5628549,
+  "lon": -42.7086513
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santiago (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8389882,
+  "lon": -47.1946698
 }

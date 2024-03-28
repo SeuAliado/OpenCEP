@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa (Rubião Junior)",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8954564,
+  "lon": -48.5017002
 }

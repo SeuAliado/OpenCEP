@@ -5,5 +5,7 @@
   "bairro": "Jardim Branca Flor",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.6845511,
+  "lon": -46.8254419
 }

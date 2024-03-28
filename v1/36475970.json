@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Bernardes",
   "uf": "MG",
-  "ibge": "3153103"
+  "ibge": "3153103",
+  "lat": -20.7691686,
+  "lon": -43.1873655
 }

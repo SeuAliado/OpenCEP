@@ -5,5 +5,7 @@
   "bairro": "Setor José Bento",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8756967,
+  "lon": -51.7411659
 }

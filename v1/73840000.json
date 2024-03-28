@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campos Belos",
   "uf": "GO",
-  "ibge": "5204904"
+  "ibge": "5204904",
+  "lat": -13.0354207,
+  "lon": -46.7685335
 }

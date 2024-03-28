@@ -5,5 +5,7 @@
   "bairro": "Barra de Sirinhaém",
   "localidade": "Sirinhaém",
   "uf": "PE",
-  "ibge": "2614204"
+  "ibge": "2614204",
+  "lat": -8.6113809,
+  "lon": -35.0523969
 }

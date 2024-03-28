@@ -5,5 +5,7 @@
   "bairro": "Felpudo",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.3970188,
+  "lon": -49.5794481
 }

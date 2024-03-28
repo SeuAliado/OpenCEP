@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora Aparecida",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6717951,
+  "lon": -46.4454398
 }

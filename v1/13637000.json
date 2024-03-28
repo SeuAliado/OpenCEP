@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.8124766,
+  "lon": -47.4985935
 }

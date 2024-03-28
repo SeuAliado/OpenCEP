@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guapiaçu",
   "uf": "SP",
-  "ibge": "3517505"
+  "ibge": "3517505",
+  "lat": -20.7940132,
+  "lon": -49.2211274
 }

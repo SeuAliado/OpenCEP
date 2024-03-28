@@ -5,5 +5,7 @@
   "bairro": "Jardim Cinco de Julho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5930906,
+  "lon": -46.4801449
 }

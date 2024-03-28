@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Silveiras",
   "uf": "SP",
-  "ibge": "3552007"
+  "ibge": "3552007",
+  "lat": -22.6652573,
+  "lon": -44.8505298
 }

@@ -5,5 +5,7 @@
   "bairro": "São Salvador",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8947158,
+  "lon": -44.015003
 }

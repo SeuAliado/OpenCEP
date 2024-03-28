@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4298592,
+  "lon": -46.8167139
 }

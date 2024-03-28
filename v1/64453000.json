@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Curralinhos",
   "uf": "PI",
-  "ibge": "2203255"
+  "ibge": "2203255",
+  "lat": -5.629769,
+  "lon": -42.8247877
 }

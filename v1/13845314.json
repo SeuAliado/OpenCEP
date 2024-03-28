@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Cambuí",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3561068,
+  "lon": -46.9490133
 }

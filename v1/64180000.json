@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Esperantina",
   "uf": "PI",
-  "ibge": "2203701"
+  "ibge": "2203701",
+  "lat": -3.8945587,
+  "lon": -42.2342198
 }

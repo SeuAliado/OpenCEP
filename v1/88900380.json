@@ -5,5 +5,7 @@
   "bairro": "Barranca",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "lat": -28.9329093,
+  "lon": -49.4700149
 }

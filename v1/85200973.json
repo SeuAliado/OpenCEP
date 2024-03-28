@@ -5,5 +5,7 @@
   "bairro": "Barra Bonita",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "lat": -24.7147894,
+  "lon": -52.0398693
 }

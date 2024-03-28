@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaraci",
   "uf": "PR",
-  "ibge": "4109203"
+  "ibge": "4109203",
+  "lat": -22.9559851,
+  "lon": -51.6623517
 }

@@ -5,5 +5,7 @@
   "bairro": "Sossego",
   "localidade": "Santa Maria Madalena",
   "uf": "RJ",
-  "ibge": "3304607"
+  "ibge": "3304607",
+  "lat": -22.7405983,
+  "lon": -42.8608213
 }

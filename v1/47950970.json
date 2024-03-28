@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristópolis",
   "uf": "BA",
-  "ibge": "2909703"
+  "ibge": "2909703",
+  "lat": -12.2325619,
+  "lon": -44.4115779
 }

@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.778887,
+  "lon": -42.1280695
 }

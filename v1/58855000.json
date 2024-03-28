@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cajazeirinhas",
   "uf": "PB",
-  "ibge": "2503753"
+  "ibge": "2503753",
+  "lat": -6.9512801,
+  "lon": -37.7875287
 }

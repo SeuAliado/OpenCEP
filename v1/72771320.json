@@ -5,5 +5,7 @@
   "bairro": "Brazlândia",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6757417,
+  "lon": -48.1984781
 }

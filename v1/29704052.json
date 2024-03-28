@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5239716,
+  "lon": -40.6401825
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aceguá",
   "uf": "RS",
-  "ibge": "4300034"
+  "ibge": "4300034",
+  "lat": -31.8681414,
+  "lon": -54.1625476
 }

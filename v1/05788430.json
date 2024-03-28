@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Limpo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6285749,
+  "lon": -46.7704235
 }

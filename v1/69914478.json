@@ -5,5 +5,7 @@
   "bairro": "Conjunto Laélia Alcântara",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9851008,
+  "lon": -67.8846687
 }

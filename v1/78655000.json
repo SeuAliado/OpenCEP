@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Alegre do Norte",
   "uf": "MT",
-  "ibge": "5106778"
+  "ibge": "5106778",
+  "lat": -10.8134376,
+  "lon": -51.9368545
 }

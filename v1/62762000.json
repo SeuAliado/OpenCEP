@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aratuba",
   "uf": "CE",
-  "ibge": "2301406"
+  "ibge": "2301406",
+  "lat": -4.4126755,
+  "lon": -39.0474659
 }

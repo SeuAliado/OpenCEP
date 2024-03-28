@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vianópolis",
   "uf": "GO",
-  "ibge": "5222005"
+  "ibge": "5222005",
+  "lat": -16.7573821,
+  "lon": -48.522007
 }

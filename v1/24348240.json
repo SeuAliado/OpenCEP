@@ -5,5 +5,7 @@
   "bairro": "Itacoatiara",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9739291,
+  "lon": -43.0313745
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Antônio Pereira Gaspar",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.9328298,
+  "lon": -50.4870651
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Campos Elísios",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7985001,
+  "lon": -46.506561
 }

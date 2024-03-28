@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canabrava do Norte",
   "uf": "MT",
-  "ibge": "5102694"
+  "ibge": "5102694",
+  "lat": -11.0485891,
+  "lon": -51.8230312
 }

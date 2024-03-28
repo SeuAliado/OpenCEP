@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonópolis",
   "uf": "GO",
-  "ibge": "5203575"
+  "ibge": "5203575",
+  "lat": -13.6511098,
+  "lon": -49.8366318
 }

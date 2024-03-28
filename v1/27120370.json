@@ -5,5 +5,7 @@
   "bairro": "Vila Helena",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4554101,
+  "lon": -43.805741
 }

@@ -5,5 +5,7 @@
   "bairro": "Nazaré",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.451818,
+  "lon": -48.4837516
 }

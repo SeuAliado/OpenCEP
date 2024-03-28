@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Abelardo Luz",
   "uf": "SC",
-  "ibge": "4200101"
+  "ibge": "4200101",
+  "lat": -26.5627938,
+  "lon": -52.3271869
 }

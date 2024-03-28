@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bonfim do Piauí",
   "uf": "PI",
-  "ibge": "2201929"
+  "ibge": "2201929",
+  "lat": -9.1663328,
+  "lon": -42.8767714
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Jardim Wenzel",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4102124,
+  "lon": -47.6042328
 }

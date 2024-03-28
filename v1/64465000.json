@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoinha do Piauí",
   "uf": "PI",
-  "ibge": "2205540"
+  "ibge": "2205540",
+  "lat": -5.8311353,
+  "lon": -42.6227048
 }

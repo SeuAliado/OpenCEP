@@ -5,5 +5,7 @@
   "bairro": "Mirandópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6082617,
+  "lon": -46.6440799
 }

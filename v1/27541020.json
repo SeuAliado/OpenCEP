@@ -5,5 +5,7 @@
   "bairro": "Montese",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.465669,
+  "lon": -44.4432704
 }

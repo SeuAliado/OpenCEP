@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jundiá",
   "uf": "RN",
-  "ibge": "2406155"
+  "ibge": "2406155",
+  "lat": -6.2704687,
+  "lon": -35.3278616
 }

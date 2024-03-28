@@ -5,5 +5,7 @@
   "bairro": "Portal da Estação",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.2967296,
+  "lon": -46.7094002
 }

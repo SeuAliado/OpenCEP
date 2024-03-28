@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "São Miguel dos Campos",
   "uf": "AL",
-  "ibge": "2708600"
+  "ibge": "2708600",
+  "lat": -9.7704948,
+  "lon": -36.0771311
 }

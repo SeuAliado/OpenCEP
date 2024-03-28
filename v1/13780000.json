@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Divinolândia",
   "uf": "SP",
-  "ibge": "3513900"
+  "ibge": "3513900",
+  "lat": -21.6616122,
+  "lon": -46.7395488
 }

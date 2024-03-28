@@ -5,5 +5,7 @@
   "bairro": "Vila São Judas Tadeu",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6056839,
+  "lon": -48.7972232
 }

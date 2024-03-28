@@ -5,5 +5,7 @@
   "bairro": "Tambaú",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1156954,
+  "lon": -34.8272309
 }

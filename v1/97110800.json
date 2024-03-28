@@ -5,5 +5,7 @@
   "bairro": "Camobi",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.6954401,
+  "lon": -53.7383294
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lajes",
   "uf": "RN",
-  "ibge": "2406700"
+  "ibge": "2406700",
+  "lat": -5.7673644,
+  "lon": -36.2196853
 }

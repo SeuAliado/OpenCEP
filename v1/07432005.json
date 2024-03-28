@@ -5,5 +5,7 @@
   "bairro": "Jardim Leika",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4218192,
+  "lon": -46.3635699
 }

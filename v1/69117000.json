@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Preto da Eva",
   "uf": "AM",
-  "ibge": "1303569"
+  "ibge": "1303569",
+  "lat": -2.5357278,
+  "lon": -59.6564494
 }

@@ -5,5 +5,7 @@
   "bairro": "Iná",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.5098437,
+  "lon": -49.1643858
 }

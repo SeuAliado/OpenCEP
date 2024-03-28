@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Balneário Camboriú",
   "uf": "SC",
-  "ibge": "4202008"
+  "ibge": "4202008",
+  "lat": -27.0142397,
+  "lon": -48.651043
 }

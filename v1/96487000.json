@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedras Altas",
   "uf": "RS",
-  "ibge": "4314175"
+  "ibge": "4314175",
+  "lat": -31.7334233,
+  "lon": -53.5843761
 }

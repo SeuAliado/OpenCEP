@@ -5,5 +5,7 @@
   "bairro": "Loteamento Chácaras Pica-pau",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4931689,
+  "lon": -54.6023406
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Savóia",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.763447,
+  "lon": -39.0633628
 }

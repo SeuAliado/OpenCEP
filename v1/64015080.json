@@ -5,5 +5,7 @@
   "bairro": "Ilhotas",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0934848,
+  "lon": -42.789898
 }

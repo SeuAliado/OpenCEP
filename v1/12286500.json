@@ -5,5 +5,7 @@
   "bairro": "Vila Independência",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1088053,
+  "lon": -45.7240094
 }

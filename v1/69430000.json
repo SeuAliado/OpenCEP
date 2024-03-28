@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Beruri",
   "uf": "AM",
-  "ibge": "1300631"
+  "ibge": "1300631",
+  "lat": -4.6128943,
+  "lon": -61.8877321
 }

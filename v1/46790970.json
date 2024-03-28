@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaeté",
   "uf": "BA",
-  "ibge": "2915007"
+  "ibge": "2915007",
+  "lat": -12.9896098,
+  "lon": -40.9625733
 }

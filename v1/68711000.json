@@ -5,5 +5,7 @@
   "bairro": "São Roberto",
   "localidade": "Maracanã",
   "uf": "PA",
-  "ibge": "1504307"
+  "ibge": "1504307",
+  "lat": -0.8716098,
+  "lon": -47.4916573
 }

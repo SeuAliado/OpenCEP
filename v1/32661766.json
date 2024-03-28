@@ -5,5 +5,7 @@
   "bairro": "Campos Elíseos",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.983831,
+  "lon": -44.1417804
 }

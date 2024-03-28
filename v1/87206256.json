@@ -5,5 +5,7 @@
   "bairro": "Conjunto Cianorte II",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "lat": -23.6788315,
+  "lon": -52.6336171
 }

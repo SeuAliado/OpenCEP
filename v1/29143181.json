@@ -5,5 +5,7 @@
   "bairro": "Parque Gramado",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3578507,
+  "lon": -40.3866255
 }

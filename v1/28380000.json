@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Natividade",
   "uf": "RJ",
-  "ibge": "3303104"
+  "ibge": "3303104",
+  "lat": -21.0333287,
+  "lon": -41.9878239
 }

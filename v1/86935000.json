@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lunardelli",
   "uf": "PR",
-  "ibge": "4113759"
+  "ibge": "4113759",
+  "lat": -24.0825337,
+  "lon": -51.7372727
 }

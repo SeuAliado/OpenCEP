@@ -5,5 +5,7 @@
   "bairro": "Vila Dona Rosa Zurita",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3765055,
+  "lon": -47.3861513
 }

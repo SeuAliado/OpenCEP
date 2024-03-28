@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Izabel do Oeste",
   "uf": "PR",
-  "ibge": "4123808"
+  "ibge": "4123808",
+  "lat": -25.8158976,
+  "lon": -53.4835835
 }

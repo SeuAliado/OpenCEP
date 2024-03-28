@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional de Interesse Social",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "lat": -22.7531954,
+  "lon": -45.1318199
 }

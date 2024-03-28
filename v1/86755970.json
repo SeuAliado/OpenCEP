@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ângulo",
   "uf": "PR",
-  "ibge": "4101150"
+  "ibge": "4101150",
+  "lat": -23.1953935,
+  "lon": -51.9167423
 }

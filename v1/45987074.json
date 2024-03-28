@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.536414,
+  "lon": -39.7348165
 }

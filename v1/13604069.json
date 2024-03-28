@@ -5,5 +5,7 @@
   "bairro": "Jardim Piratininga",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3407718,
+  "lon": -47.383639
 }

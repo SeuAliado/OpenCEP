@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouroeste",
   "uf": "SP",
-  "ibge": "3534757"
+  "ibge": "3534757",
+  "lat": -20.0024195,
+  "lon": -50.3699165
 }

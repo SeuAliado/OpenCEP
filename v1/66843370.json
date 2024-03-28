@@ -5,5 +5,7 @@
   "bairro": "Água Boa (Outeiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.2504471,
+  "lon": -48.4526033
 }

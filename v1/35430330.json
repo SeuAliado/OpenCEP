@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -19.9033583,
+  "lon": -43.9462025
 }

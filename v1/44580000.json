@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Miguel das Matas",
   "uf": "BA",
-  "ibge": "2929404"
+  "ibge": "2929404",
+  "lat": -13.0478791,
+  "lon": -39.4243113
 }

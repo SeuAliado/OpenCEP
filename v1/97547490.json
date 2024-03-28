@@ -5,5 +5,7 @@
   "bairro": "Dr. Romário A de Oliveira",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8060809,
+  "lon": -55.7531178
 }

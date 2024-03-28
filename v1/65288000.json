@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Centro do Guilherme",
   "uf": "MA",
-  "ibge": "2103158"
+  "ibge": "2103158",
+  "lat": -2.4084711,
+  "lon": -46.1326778
 }

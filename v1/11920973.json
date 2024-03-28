@@ -5,5 +5,7 @@
   "bairro": "Icapara",
   "localidade": "Iguape",
   "uf": "SP",
-  "ibge": "3520301"
+  "ibge": "3520301",
+  "lat": -24.6855443,
+  "lon": -47.4614807
 }

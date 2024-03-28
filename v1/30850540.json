@@ -5,5 +5,7 @@
   "bairro": "Conjunto Califórnia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9247142,
+  "lon": -44.0099949
 }

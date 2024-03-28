@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5285293,
+  "lon": -47.5040842
 }

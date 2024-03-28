@@ -5,5 +5,7 @@
   "bairro": "Jardim Furlan",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9934826,
+  "lon": -49.856818
 }

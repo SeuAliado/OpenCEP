@@ -5,5 +5,7 @@
   "bairro": "Vila Ruy Barbosa",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1973643,
+  "lon": -46.8570669
 }

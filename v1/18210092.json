@@ -5,5 +5,7 @@
   "bairro": "Vila Santana",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.584582,
+  "lon": -48.049737
 }

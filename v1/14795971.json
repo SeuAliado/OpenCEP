@@ -5,5 +5,7 @@
   "bairro": "Laranjeiras",
   "localidade": "Colômbia",
   "uf": "SP",
-  "ibge": "3512100"
+  "ibge": "3512100",
+  "lat": -20.9391687,
+  "lon": -48.4872955
 }

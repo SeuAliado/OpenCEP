@@ -5,5 +5,7 @@
   "bairro": "Cumuruxatiba",
   "localidade": "Prado",
   "uf": "BA",
-  "ibge": "2925501"
+  "ibge": "2925501",
+  "lat": -17.1129715,
+  "lon": -39.1842578
 }

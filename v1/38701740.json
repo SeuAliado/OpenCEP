@@ -5,5 +5,7 @@
   "bairro": "Coração Eucarístico",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5658932,
+  "lon": -46.5418086
 }

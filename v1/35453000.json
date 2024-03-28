@@ -5,5 +5,7 @@
   "bairro": "Cruz do Munu",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "lat": -20.3361852,
+  "lon": -43.8459869
 }

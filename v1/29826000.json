@@ -5,5 +5,7 @@
   "bairro": "Governador Lacerda de Aguiar",
   "localidade": "Água Doce do Norte",
   "uf": "ES",
-  "ibge": "3200169"
+  "ibge": "3200169",
+  "lat": -18.643889,
+  "lon": -40.948889
 }

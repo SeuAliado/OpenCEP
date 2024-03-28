@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vitorino Freire",
   "uf": "MA",
-  "ibge": "2113009"
+  "ibge": "2113009",
+  "lat": -4.2921926,
+  "lon": -45.2439279
 }

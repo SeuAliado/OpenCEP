@@ -5,5 +5,7 @@
   "bairro": "Vila Juliana",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9316927,
+  "lon": -48.4524382
 }

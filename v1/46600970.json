@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tanhaçu",
   "uf": "BA",
-  "ibge": "2931004"
+  "ibge": "2931004",
+  "lat": -14.0197432,
+  "lon": -41.2424172
 }

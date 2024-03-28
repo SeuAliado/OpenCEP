@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ourém",
   "uf": "PA",
-  "ibge": "1505403"
+  "ibge": "1505403",
+  "lat": -1.5451402,
+  "lon": -47.1129952
 }

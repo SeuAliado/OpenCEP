@@ -5,5 +5,7 @@
   "bairro": "Thiago de Mello",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3544425,
+  "lon": -39.5634235
 }

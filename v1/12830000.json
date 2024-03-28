@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Barreiro",
   "uf": "SP",
-  "ibge": "3549607"
+  "ibge": "3549607",
+  "lat": -22.6436556,
+  "lon": -44.5795023
 }

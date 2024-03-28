@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Olinda",
   "uf": "PB",
-  "ibge": "2510204"
+  "ibge": "2510204",
+  "lat": -7.4780949,
+  "lon": -38.0428049
 }

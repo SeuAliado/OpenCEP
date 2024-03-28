@@ -5,5 +5,7 @@
   "bairro": "Jardim Belmonte (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8776351,
+  "lon": -46.9579718
 }

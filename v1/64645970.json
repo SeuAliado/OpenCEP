@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Francisco Santos",
   "uf": "PI",
-  "ibge": "2204204"
+  "ibge": "2204204",
+  "lat": -6.9952018,
+  "lon": -41.137422
 }

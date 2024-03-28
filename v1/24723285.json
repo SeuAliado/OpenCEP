@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8098798,
+  "lon": -42.9645223
 }

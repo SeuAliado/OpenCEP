@@ -5,5 +5,7 @@
   "bairro": "Água Branca",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "lat": -18.1404065,
+  "lon": -41.6963752
 }

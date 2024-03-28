@@ -5,5 +5,7 @@
   "bairro": "Jardim Riviera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7052905,
+  "lon": -46.7445234
 }

@@ -5,5 +5,7 @@
   "bairro": "Perpétuo Socorro",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.4047237,
+  "lon": -38.2319572
 }

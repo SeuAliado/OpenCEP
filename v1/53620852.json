@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8301638,
+  "lon": -34.8988067
 }

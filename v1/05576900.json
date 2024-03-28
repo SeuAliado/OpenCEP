@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirantes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.0855108,
+  "lon": -49.5338115
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Girassóis",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.82982,
+  "lon": -49.27047
 }

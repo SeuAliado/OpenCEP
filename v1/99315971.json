@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mormaço",
   "uf": "RS",
-  "ibge": "4312427"
+  "ibge": "4312427",
+  "lat": -28.6924818,
+  "lon": -52.6925531
 }

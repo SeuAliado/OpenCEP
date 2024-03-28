@@ -5,5 +5,7 @@
   "bairro": "Jardim São Domingos",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8115775,
+  "lon": -47.2680014
 }

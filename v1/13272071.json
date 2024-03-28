@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Ilydia",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9553265,
+  "lon": -46.9934167
 }

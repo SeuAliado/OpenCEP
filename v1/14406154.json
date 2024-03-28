@@ -5,5 +5,7 @@
   "bairro": "Parque das Esmeraldas",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5443211,
+  "lon": -47.4541013
 }

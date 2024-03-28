@@ -5,5 +5,7 @@
   "bairro": "Caixa D'água",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1819362,
+  "lon": -47.1578999
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Belenzinho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5739208,
+  "lon": -46.5466236
 }

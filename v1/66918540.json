@@ -5,5 +5,7 @@
   "bairro": "Porto Arthur (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.1277313,
+  "lon": -48.4484355
 }

@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Planalto",
   "uf": "RS",
-  "ibge": "4314704"
+  "ibge": "4314704",
+  "lat": -29.1785388,
+  "lon": -51.1983938
 }

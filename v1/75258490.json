@@ -5,5 +5,7 @@
   "bairro": "Solar Monte Cristo",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.6718434,
+  "lon": -49.1200077
 }

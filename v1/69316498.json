@@ -5,5 +5,7 @@
   "bairro": "Senador Hélio Campos",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8141451,
+  "lon": -60.7606699
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Nova Avaré",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0955492,
+  "lon": -48.9428826
 }

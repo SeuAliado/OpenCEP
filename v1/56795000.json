@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Solidão",
   "uf": "PE",
-  "ibge": "2614402"
+  "ibge": "2614402",
+  "lat": -7.5647036,
+  "lon": -37.6599483
 }

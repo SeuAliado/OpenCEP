@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cunha",
   "uf": "SP",
-  "ibge": "3513603"
+  "ibge": "3513603",
+  "lat": -23.0718664,
+  "lon": -44.9602
 }

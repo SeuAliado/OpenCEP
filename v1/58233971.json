@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araruna",
   "uf": "PB",
-  "ibge": "2501005"
+  "ibge": "2501005",
+  "lat": -7.5096991,
+  "lon": -35.3139998
 }

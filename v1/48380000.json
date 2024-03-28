@@ -5,5 +5,7 @@
   "bairro": "Palame",
   "localidade": "Esplanada",
   "uf": "BA",
-  "ibge": "2910602"
+  "ibge": "2910602",
+  "lat": -12.0662392,
+  "lon": -37.7304301
 }

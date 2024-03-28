@@ -5,5 +5,7 @@
   "bairro": "Vila Suely",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.563391,
+  "lon": -44.9625469
 }

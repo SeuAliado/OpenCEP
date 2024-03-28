@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Viana",
   "uf": "MA",
-  "ibge": "2112803"
+  "ibge": "2112803",
+  "lat": -3.2048826,
+  "lon": -44.9915745
 }

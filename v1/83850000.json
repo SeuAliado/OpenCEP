@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Agudos do Sul",
   "uf": "PR",
-  "ibge": "4100301"
+  "ibge": "4100301",
+  "lat": -25.9881964,
+  "lon": -49.3347828
 }

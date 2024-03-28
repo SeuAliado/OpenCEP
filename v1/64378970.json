@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel da Baixa Grande",
   "uf": "PI",
-  "ibge": "2210383"
+  "ibge": "2210383",
+  "lat": -5.8654287,
+  "lon": -42.1849229
 }

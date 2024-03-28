@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goiabeira",
   "uf": "MG",
-  "ibge": "3127370"
+  "ibge": "3127370",
+  "lat": -18.9987468,
+  "lon": -41.2205911
 }

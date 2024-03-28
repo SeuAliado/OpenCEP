@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cocal dos Alves",
   "uf": "PI",
-  "ibge": "2202729"
+  "ibge": "2202729",
+  "lat": -3.6013272,
+  "lon": -41.4433501
 }

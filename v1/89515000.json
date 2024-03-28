@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lebon Régis",
   "uf": "SC",
-  "ibge": "4209706"
+  "ibge": "4209706",
+  "lat": -26.9284795,
+  "lon": -50.692602
 }

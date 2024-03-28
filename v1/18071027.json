@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Ipanema",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.458766,
+  "lon": -47.4956528
 }

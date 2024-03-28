@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1462176,
+  "lon": -48.002345
 }

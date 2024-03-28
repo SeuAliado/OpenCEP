@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.076301,
+  "lon": -53.0415636
 }

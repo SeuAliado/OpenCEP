@@ -5,5 +5,7 @@
   "bairro": "Praça da Lagoa",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7986451,
+  "lon": -55.8028464
 }

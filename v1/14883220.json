@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2514339,
+  "lon": -48.3122064
 }

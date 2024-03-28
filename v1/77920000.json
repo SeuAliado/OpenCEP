@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaguatins",
   "uf": "TO",
-  "ibge": "1710706"
+  "ibge": "1710706",
+  "lat": -5.7730565,
+  "lon": -47.4868283
 }

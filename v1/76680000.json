@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapuranga",
   "uf": "GO",
-  "ibge": "5211206"
+  "ibge": "5211206",
+  "lat": -15.5544752,
+  "lon": -49.9417277
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2015325,
+  "lon": -43.7565746
 }

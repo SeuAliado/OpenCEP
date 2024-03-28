@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipiranga III",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4464792,
+  "lon": -54.6147187
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Verde",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7241878,
+  "lon": -43.3648276
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Lindóia",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4454901,
+  "lon": -46.8093237
 }

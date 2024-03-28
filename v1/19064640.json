@@ -5,5 +5,7 @@
   "bairro": "Jardim Prudentino",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.144729,
+  "lon": -51.448296
 }

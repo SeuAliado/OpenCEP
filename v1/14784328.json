@@ -5,5 +5,7 @@
   "bairro": "Nova Esplanada",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5755079,
+  "lon": -48.5650809
 }

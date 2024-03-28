@@ -5,5 +5,7 @@
   "bairro": "Jardim Terras de São João",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3167467,
+  "lon": -45.9956126
 }

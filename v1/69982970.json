@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Walter",
   "uf": "AC",
-  "ibge": "1200393"
+  "ibge": "1200393",
+  "lat": -30.0297801,
+  "lon": -51.224376
 }

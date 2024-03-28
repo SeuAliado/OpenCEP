@@ -5,5 +5,7 @@
   "bairro": "Santa Rita do Araçuaí",
   "localidade": "Chapada do Norte",
   "uf": "MG",
-  "ibge": "3116100"
+  "ibge": "3116100",
+  "lat": -17.0692382,
+  "lon": -42.6205904
 }

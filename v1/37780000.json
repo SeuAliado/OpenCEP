@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caldas",
   "uf": "MG",
-  "ibge": "3110301"
+  "ibge": "3110301",
+  "lat": -21.9234077,
+  "lon": -46.3885416
 }

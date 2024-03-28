@@ -5,5 +5,7 @@
   "bairro": "Planta Vera Cruz",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4487236,
+  "lon": -49.1478063
 }

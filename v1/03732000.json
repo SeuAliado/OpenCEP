@@ -5,5 +5,7 @@
   "bairro": "Chácara Cruzeiro do Sul",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5091994,
+  "lon": -46.5333594
 }

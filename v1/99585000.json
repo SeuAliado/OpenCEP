@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra Funda",
   "uf": "RS",
-  "ibge": "4301958"
+  "ibge": "4301958",
+  "lat": -27.9209543,
+  "lon": -53.0395831
 }

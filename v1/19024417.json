@@ -5,5 +5,7 @@
   "bairro": "Porto Bello Residence",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1376898,
+  "lon": -51.4177223
 }

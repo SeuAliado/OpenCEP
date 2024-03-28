@@ -5,5 +5,7 @@
   "bairro": "Curador",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7773959,
+  "lon": -43.0155035
 }

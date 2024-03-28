@@ -5,5 +5,7 @@
   "bairro": "Chácaras Santa Maria",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3062263,
+  "lon": -46.0554789
 }

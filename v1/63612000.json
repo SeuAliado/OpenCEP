@@ -5,5 +5,7 @@
   "bairro": "Cangati",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "lat": -5.8920019,
+  "lon": -39.5954376
 }

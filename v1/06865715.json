@@ -5,5 +5,7 @@
   "bairro": "Jardim Horizonte Azul",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.757368,
+  "lon": -46.7984696
 }

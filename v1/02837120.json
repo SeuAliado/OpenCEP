@@ -5,5 +5,7 @@
   "bairro": "Vila João Batista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4630835,
+  "lon": -46.6998723
 }

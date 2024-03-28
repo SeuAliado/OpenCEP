@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Madre Germana - 1ª Etapa",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8311648,
+  "lon": -49.368173
 }

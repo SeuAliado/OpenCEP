@@ -5,5 +5,7 @@
   "bairro": "Mirante de Jandira",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5468076,
+  "lon": -46.9019069
 }

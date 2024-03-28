@@ -5,5 +5,7 @@
   "bairro": "Jardim Astúrias",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -24.011418,
+  "lon": -46.2674752
 }

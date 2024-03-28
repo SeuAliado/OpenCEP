@@ -5,5 +5,7 @@
   "bairro": "Jardim Jussara",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.7605697,
+  "lon": -46.5370016
 }

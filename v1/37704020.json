@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7881476,
+  "lon": -46.5481828
 }

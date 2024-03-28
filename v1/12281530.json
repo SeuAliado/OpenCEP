@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.101377,
+  "lon": -45.7090901
 }

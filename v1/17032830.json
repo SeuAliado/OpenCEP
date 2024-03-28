@@ -5,5 +5,7 @@
   "bairro": "Jardim das Orquídeas",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3293643,
+  "lon": -49.0238032
 }

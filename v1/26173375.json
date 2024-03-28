@@ -5,5 +5,7 @@
   "bairro": "Maringá",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7261729,
+  "lon": -43.3535288
 }

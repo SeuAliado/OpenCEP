@@ -5,5 +5,7 @@
   "bairro": "Antônio Ferreira Borges",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2683656,
+  "lon": -40.4298257
 }

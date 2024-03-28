@@ -5,5 +5,7 @@
   "bairro": "Casa Branca",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9043121,
+  "lon": -43.8978776
 }

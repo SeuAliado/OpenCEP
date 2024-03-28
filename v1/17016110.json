@@ -5,5 +5,7 @@
   "bairro": "Vila Zillo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3420204,
+  "lon": -49.0787154
 }

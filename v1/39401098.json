@@ -5,5 +5,7 @@
   "bairro": "Vila Mauricéia",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7212606,
+  "lon": -43.892402
 }

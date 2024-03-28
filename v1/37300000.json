@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Andrelândia",
   "uf": "MG",
-  "ibge": "3102803"
+  "ibge": "3102803",
+  "lat": -21.718564,
+  "lon": -44.2857937
 }

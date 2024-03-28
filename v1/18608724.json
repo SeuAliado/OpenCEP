@@ -5,5 +5,7 @@
   "bairro": "Jardim Ypê",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8627492,
+  "lon": -48.4612141
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Ingá",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1486658,
+  "lon": -47.9613667
 }

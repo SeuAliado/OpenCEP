@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0868446,
+  "lon": -44.570329
 }

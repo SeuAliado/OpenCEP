@@ -5,5 +5,7 @@
   "bairro": "Jardim União",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.778552,
+  "lon": -53.328156
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Jau",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5154982,
+  "lon": -46.3365312
 }

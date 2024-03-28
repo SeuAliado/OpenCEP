@@ -5,5 +5,7 @@
   "bairro": "Cariri",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "lat": -1.2874147,
+  "lon": -47.9413126
 }

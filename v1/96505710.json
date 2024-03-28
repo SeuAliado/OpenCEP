@@ -5,5 +5,7 @@
   "bairro": "Marina",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0058796,
+  "lon": -52.9133658
 }

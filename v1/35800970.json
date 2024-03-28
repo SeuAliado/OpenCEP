@@ -5,5 +5,7 @@
   "bairro": "Celeste",
   "localidade": "Ferros",
   "uf": "MG",
-  "ibge": "3125903"
+  "ibge": "3125903",
+  "lat": -19.2294701,
+  "lon": -43.0220963
 }

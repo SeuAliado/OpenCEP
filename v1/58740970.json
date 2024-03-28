@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mãe D'Água",
   "uf": "PB",
-  "ibge": "2508703"
+  "ibge": "2508703",
+  "lat": -7.2584322,
+  "lon": -37.4264439
 }

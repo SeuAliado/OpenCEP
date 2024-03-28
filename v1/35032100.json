@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8622734,
+  "lon": -41.9575988
 }

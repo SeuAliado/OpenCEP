@@ -5,5 +5,7 @@
   "bairro": "Loteamento Doutor Walter Arantes",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7953579,
+  "lon": -45.2096032
 }

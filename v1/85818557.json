@@ -5,5 +5,7 @@
   "bairro": "Cascavel Velho",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9818871,
+  "lon": -53.456932
 }

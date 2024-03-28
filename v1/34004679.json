@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Betânia",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9935689,
+  "lon": -43.892238
 }

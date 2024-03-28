@@ -5,5 +5,7 @@
   "bairro": "Jardim Anhangüera",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2057394,
+  "lon": -46.8965961
 }

@@ -5,5 +5,7 @@
   "bairro": "Bairro Novo",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "lat": -7.8446749,
+  "lon": -35.2379736
 }

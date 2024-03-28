@@ -5,5 +5,7 @@
   "bairro": "Fritz Lorenz",
   "localidade": "Timbó",
   "uf": "SC",
-  "ibge": "4218202"
+  "ibge": "4218202",
+  "lat": -26.8416146,
+  "lon": -49.2664524
 }

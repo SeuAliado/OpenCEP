@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Imperial",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.3967378,
+  "lon": -51.4340393
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Magda",
   "uf": "SP",
-  "ibge": "3528304"
+  "ibge": "3528304",
+  "lat": -20.5435907,
+  "lon": -50.2244429
 }

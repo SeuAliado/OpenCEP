@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cafelândia",
   "uf": "PR",
-  "ibge": "4103453"
+  "ibge": "4103453",
+  "lat": -24.6938177,
+  "lon": -53.3690158
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Esperança",
   "uf": "PR",
-  "ibge": "4103008"
+  "ibge": "4103008",
+  "lat": -24.7224914,
+  "lon": -53.7254567
 }

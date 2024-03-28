@@ -5,5 +5,7 @@
   "bairro": "São José do Jacaré",
   "localidade": "Senhora do Porto",
   "uf": "MG",
-  "ibge": "3166105"
+  "ibge": "3166105",
+  "lat": -18.9132588,
+  "lon": -43.0806432
 }

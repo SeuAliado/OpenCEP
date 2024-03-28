@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -25.5230078,
+  "lon": -49.0922322
 }

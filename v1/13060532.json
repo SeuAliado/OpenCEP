@@ -5,5 +5,7 @@
   "bairro": "Parque Tropical",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9330976,
+  "lon": -47.1158917
 }

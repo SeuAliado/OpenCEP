@@ -5,5 +5,7 @@
   "bairro": "Barra da Tijuca",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -23.0009551,
+  "lon": -43.3773145
 }

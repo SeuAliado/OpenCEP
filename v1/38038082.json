@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália II",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.788768,
+  "lon": -47.9038174
 }

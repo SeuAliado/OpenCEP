@@ -5,5 +5,7 @@
   "bairro": "Nova Piraju",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6267326,
+  "lon": -46.6662823
 }

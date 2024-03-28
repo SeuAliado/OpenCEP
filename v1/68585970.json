@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Ipixuna",
   "uf": "PA",
-  "ibge": "1504976"
+  "ibge": "1504976",
+  "lat": -4.9205807,
+  "lon": -49.0763644
 }

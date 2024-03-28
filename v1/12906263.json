@@ -5,5 +5,7 @@
   "bairro": "Parque Brasil",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.935559,
+  "lon": -46.5554115
 }

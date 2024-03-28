@@ -5,5 +5,7 @@
   "bairro": "Volta Grande",
   "localidade": "Navegantes",
   "uf": "SC",
-  "ibge": "4211306"
+  "ibge": "4211306",
+  "lat": -26.8538726,
+  "lon": -48.7061224
 }

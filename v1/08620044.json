@@ -5,5 +5,7 @@
   "bairro": "Recanto Feliz",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6461686,
+  "lon": -46.3222468
 }

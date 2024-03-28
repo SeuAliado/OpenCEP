@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "lat": -9.1699114,
+  "lon": -36.6851191
 }

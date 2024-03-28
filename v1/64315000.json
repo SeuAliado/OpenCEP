@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz dos Milagres",
   "uf": "PI",
-  "ibge": "2209153"
+  "ibge": "2209153",
+  "lat": -5.8029568,
+  "lon": -41.9593009
 }

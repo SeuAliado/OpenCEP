@@ -5,5 +5,7 @@
   "bairro": "Pitanguinha",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6428856,
+  "lon": -35.7332743
 }

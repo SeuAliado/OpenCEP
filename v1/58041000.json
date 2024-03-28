@@ -5,5 +5,7 @@
   "bairro": "Expedicionários",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1211392,
+  "lon": -34.853292
 }

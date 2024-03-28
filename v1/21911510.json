@@ -5,5 +5,7 @@
   "bairro": "Freguesia (Ilha do Governador)",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.7988759,
+  "lon": -43.2046088
 }

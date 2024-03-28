@@ -5,5 +5,7 @@
   "bairro": "Jardim Altos da Glória",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5689585,
+  "lon": -55.6829713
 }

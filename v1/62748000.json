@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capistrano",
   "uf": "CE",
-  "ibge": "2302909"
+  "ibge": "2302909",
+  "lat": -4.4826943,
+  "lon": -38.8832695
 }

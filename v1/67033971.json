@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "lat": -5.5552792,
+  "lon": -42.6118799
 }

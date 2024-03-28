@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7224395,
+  "lon": -38.5701061
 }

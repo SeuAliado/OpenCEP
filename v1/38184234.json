@@ -5,5 +5,7 @@
   "bairro": "Vila Fertiza",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.60747,
+  "lon": -46.9424496
 }

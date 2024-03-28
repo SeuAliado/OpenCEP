@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria do Carmo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.464535,
+  "lon": -46.4052125
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosa",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1947887,
+  "lon": -46.8755242
 }

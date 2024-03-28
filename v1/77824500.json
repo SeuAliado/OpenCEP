@@ -5,5 +5,7 @@
   "bairro": "Vila Santiago",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1962131,
+  "lon": -48.215642
 }

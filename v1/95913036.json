@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4410406,
+  "lon": -51.9642849
 }

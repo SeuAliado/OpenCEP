@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alta Floresta",
   "uf": "MT",
-  "ibge": "5100250"
+  "ibge": "5100250",
+  "lat": -9.8916757,
+  "lon": -56.0824278
 }

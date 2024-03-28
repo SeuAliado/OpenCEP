@@ -5,5 +5,7 @@
   "bairro": "Cuncas",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "lat": -7.0940788,
+  "lon": -38.7232393
 }

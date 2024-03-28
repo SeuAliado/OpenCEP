@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -13.4581193,
+  "lon": -56.7266541
 }

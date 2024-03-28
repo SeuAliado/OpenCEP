@@ -5,5 +5,7 @@
   "bairro": "Jardim Júlio de Carvalho",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.550627,
+  "lon": -46.3808818
 }

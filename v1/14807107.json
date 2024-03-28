@@ -5,5 +5,7 @@
   "bairro": "Jardim das Gaivotas",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8151304,
+  "lon": -48.172599
 }

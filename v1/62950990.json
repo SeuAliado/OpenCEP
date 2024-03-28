@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "lat": -5.282515,
+  "lon": -38.3604358
 }

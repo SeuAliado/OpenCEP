@@ -5,5 +5,7 @@
   "bairro": "Dix-Sept Rosado",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.8253438,
+  "lon": -35.2329051
 }

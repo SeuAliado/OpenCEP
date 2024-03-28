@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conceição",
   "uf": "PB",
-  "ibge": "2504405"
+  "ibge": "2504405",
+  "lat": -7.3627066,
+  "lon": -38.4180979
 }

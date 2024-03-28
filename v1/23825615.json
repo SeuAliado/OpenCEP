@@ -5,5 +5,7 @@
   "bairro": "Brisa Mar",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8739438,
+  "lon": -43.8064523
 }

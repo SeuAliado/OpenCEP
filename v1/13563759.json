@@ -5,5 +5,7 @@
   "bairro": "Parque Fehr",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9787737,
+  "lon": -47.9355602
 }

@@ -5,5 +5,7 @@
   "bairro": "Ocidente",
   "localidade": "Mutum",
   "uf": "MG",
-  "ibge": "3144003"
+  "ibge": "3144003",
+  "lat": -20.0126667,
+  "lon": -41.4709861
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6832918,
+  "lon": -43.2585495
 }

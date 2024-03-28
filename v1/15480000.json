@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Orindiúva",
   "uf": "SP",
-  "ibge": "3534203"
+  "ibge": "3534203",
+  "lat": -20.1826574,
+  "lon": -49.3492761
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bozzini",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5208854,
+  "lon": -46.4511927
 }

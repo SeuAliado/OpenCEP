@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4317418,
+  "lon": -61.4367665
 }

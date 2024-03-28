@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra de Guabiraba",
   "uf": "PE",
-  "ibge": "2601300"
+  "ibge": "2601300",
+  "lat": -8.4199867,
+  "lon": -35.6617971
 }

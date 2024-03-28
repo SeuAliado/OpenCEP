@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Cariús",
   "uf": "CE",
-  "ibge": "2303303"
+  "ibge": "2303303",
+  "lat": -6.6053405,
+  "lon": -39.621138
 }

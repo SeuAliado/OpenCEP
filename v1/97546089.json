@@ -5,5 +5,7 @@
   "bairro": "Airton Senna",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8017908,
+  "lon": -55.7439227
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Inhapi",
   "uf": "AL",
-  "ibge": "2703304"
+  "ibge": "2703304",
+  "lat": -9.2766863,
+  "lon": -37.681228
 }

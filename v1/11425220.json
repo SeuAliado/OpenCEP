@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz dos Navegantes",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9974338,
+  "lon": -46.3042444
 }

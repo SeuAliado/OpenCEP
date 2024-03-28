@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Miguel Pereira",
   "uf": "RJ",
-  "ibge": "3302908"
+  "ibge": "3302908",
+  "lat": -22.4577374,
+  "lon": -43.4806912
 }

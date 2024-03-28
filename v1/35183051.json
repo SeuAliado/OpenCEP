@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5517682,
+  "lon": -42.6646179
 }

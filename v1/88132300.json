@@ -5,5 +5,7 @@
   "bairro": "Caminho Novo",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.644996,
+  "lon": -48.680307
 }

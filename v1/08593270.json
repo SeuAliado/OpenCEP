@@ -5,5 +5,7 @@
   "bairro": "Residencial Novo Horizonte",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4488717,
+  "lon": -46.3040538
 }

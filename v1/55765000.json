@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Maria do Cambucá",
   "uf": "PE",
-  "ibge": "2612703"
+  "ibge": "2612703",
+  "lat": -7.8371735,
+  "lon": -35.8944613
 }

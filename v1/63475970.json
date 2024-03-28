@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguaribe",
   "uf": "CE",
-  "ibge": "2306900"
+  "ibge": "2306900",
+  "lat": -5.8874321,
+  "lon": -38.6219177
 }

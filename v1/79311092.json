@@ -5,5 +5,7 @@
   "bairro": "Cristo Redentor",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "lat": -19.0205017,
+  "lon": -57.6355493
 }

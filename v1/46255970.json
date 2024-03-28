@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maetinga",
   "uf": "BA",
-  "ibge": "2919959"
+  "ibge": "2919959",
+  "lat": -14.665994,
+  "lon": -41.4903571
 }

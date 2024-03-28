@@ -5,5 +5,7 @@
   "bairro": "Jardim Busmayer",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4510535,
+  "lon": -49.5316895
 }

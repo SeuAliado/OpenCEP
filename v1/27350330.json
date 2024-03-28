@@ -5,5 +5,7 @@
   "bairro": "Loteamento São Vicente",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5418124,
+  "lon": -44.1901999
 }

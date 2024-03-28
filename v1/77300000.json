@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dianópolis",
   "uf": "TO",
-  "ibge": "1707009"
+  "ibge": "1707009",
+  "lat": -11.7319273,
+  "lon": -46.9028375
 }

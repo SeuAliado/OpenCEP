@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.5046402,
+  "lon": -42.5472304
 }

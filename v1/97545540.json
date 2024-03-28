@@ -5,5 +5,7 @@
   "bairro": "Olhos D'Agua de Natal",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8084902,
+  "lon": -55.8048342
 }

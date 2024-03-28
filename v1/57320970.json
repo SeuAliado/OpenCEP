@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Craíbas",
   "uf": "AL",
-  "ibge": "2702355"
+  "ibge": "2702355",
+  "lat": -9.6184659,
+  "lon": -36.7679
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Américas",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6078207,
+  "lon": -56.0751059
 }

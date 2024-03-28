@@ -5,5 +5,7 @@
   "bairro": "Bom Parto",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6529819,
+  "lon": -35.744486
 }

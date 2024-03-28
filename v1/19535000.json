@@ -5,5 +5,7 @@
   "bairro": "Esperança D'Oeste",
   "localidade": "Caiabu",
   "uf": "SP",
-  "ibge": "3508900"
+  "ibge": "3508900",
+  "lat": -22.013191,
+  "lon": -51.2398865
 }

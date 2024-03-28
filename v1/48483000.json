@@ -5,5 +5,7 @@
   "bairro": "Buril",
   "localidade": "Crisópolis",
   "uf": "BA",
-  "ibge": "2909604"
+  "ibge": "2909604",
+  "lat": -11.5125838,
+  "lon": -38.1511539
 }

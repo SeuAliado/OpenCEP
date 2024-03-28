@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Ávidos",
   "localidade": "Cajazeiras",
   "uf": "PB",
-  "ibge": "2503704"
+  "ibge": "2503704",
+  "lat": -6.8948373,
+  "lon": -38.531224
 }

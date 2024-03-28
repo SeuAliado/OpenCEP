@@ -5,5 +5,7 @@
   "bairro": "Piedade",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.87549,
+  "lon": -43.308145
 }

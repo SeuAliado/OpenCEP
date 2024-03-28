@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uauá",
   "uf": "BA",
-  "ibge": "2932002"
+  "ibge": "2932002",
+  "lat": -9.8420791,
+  "lon": -39.4891071
 }

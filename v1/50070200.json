@@ -5,5 +5,7 @@
   "bairro": "Paissandu",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.061268,
+  "lon": -34.8962513
 }

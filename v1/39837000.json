@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jampruca",
   "uf": "MG",
-  "ibge": "3135076"
+  "ibge": "3135076",
+  "lat": -18.4601687,
+  "lon": -41.7208243
 }

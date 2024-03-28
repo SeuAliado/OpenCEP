@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Estados",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7805881,
+  "lon": -46.5547011
 }

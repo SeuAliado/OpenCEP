@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale das Brisas",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.3628306,
+  "lon": -48.8972662
 }

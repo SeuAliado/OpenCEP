@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Paineiras",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6563871,
+  "lon": -49.7632745
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Dom Cristiano",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1472896,
+  "lon": -44.8340091
 }

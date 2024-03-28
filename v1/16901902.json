@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8975843,
+  "lon": -51.3803625
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Aldeia da Mata",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5621872,
+  "lon": -47.4660738
 }

@@ -5,5 +5,7 @@
   "bairro": "Sítio do Rosário",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.4629259,
+  "lon": -46.9117577
 }

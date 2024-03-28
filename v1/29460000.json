@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus do Norte",
   "uf": "ES",
-  "ibge": "3201100"
+  "ibge": "3201100",
+  "lat": -21.0980507,
+  "lon": -41.6311166
 }

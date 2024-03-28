@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6061331,
+  "lon": -43.0454903
 }

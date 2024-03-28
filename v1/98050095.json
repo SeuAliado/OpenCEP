@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.651056,
+  "lon": -53.5981556
 }

@@ -5,5 +5,7 @@
   "bairro": "Umbura",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8676249,
+  "lon": -34.8997147
 }

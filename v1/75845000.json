@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palestina de Goiás",
   "uf": "GO",
-  "ibge": "5215652"
+  "ibge": "5215652",
+  "lat": -16.7045609,
+  "lon": -51.4309582
 }

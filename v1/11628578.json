@@ -5,5 +5,7 @@
   "bairro": "Maresias",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7849776,
+  "lon": -45.5658002
 }

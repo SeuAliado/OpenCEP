@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salinópolis",
   "uf": "PA",
-  "ibge": "1506203"
+  "ibge": "1506203",
+  "lat": -0.6801982,
+  "lon": -47.3510778
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Joafra",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9210004,
+  "lon": -67.833587
 }

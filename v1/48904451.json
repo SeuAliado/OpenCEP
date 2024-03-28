@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Encontro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4231019,
+  "lon": -40.4948356
 }

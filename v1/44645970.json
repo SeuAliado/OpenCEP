@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capela do Alto Alegre",
   "uf": "BA",
-  "ibge": "2906857"
+  "ibge": "2906857",
+  "lat": -11.6692867,
+  "lon": -39.8376126
 }

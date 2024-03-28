@@ -5,5 +5,7 @@
   "bairro": "Cadorin",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.2216414,
+  "lon": -52.6538294
 }

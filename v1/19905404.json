@@ -5,5 +5,7 @@
   "bairro": "Loteamento Waldomiro Amaral Mello",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -23.0038165,
+  "lon": -49.8840823
 }

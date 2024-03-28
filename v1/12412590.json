@@ -5,5 +5,7 @@
   "bairro": "Residencial e Comercial Vila Verde",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9590364,
+  "lon": -45.4608378
 }

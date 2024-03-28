@@ -5,5 +5,7 @@
   "bairro": "Iborepi",
   "localidade": "Lavras da Mangabeira",
   "uf": "CE",
-  "ibge": "2307502"
+  "ibge": "2307502",
+  "lat": -6.8413332,
+  "lon": -38.9743314
 }

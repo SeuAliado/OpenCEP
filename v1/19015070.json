@@ -5,5 +5,7 @@
   "bairro": "Residencial",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1110614,
+  "lon": -51.3877124
 }

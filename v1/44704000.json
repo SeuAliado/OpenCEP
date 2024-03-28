@@ -5,5 +5,7 @@
   "bairro": "Catinga do Moura",
   "localidade": "Jacobina",
   "uf": "BA",
-  "ibge": "2917508"
+  "ibge": "2917508",
+  "lat": -10.973494,
+  "lon": -40.7670871
 }

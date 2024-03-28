@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouvidor",
   "uf": "GO",
-  "ibge": "5215504"
+  "ibge": "5215504",
+  "lat": -18.2345231,
+  "lon": -47.7243139
 }

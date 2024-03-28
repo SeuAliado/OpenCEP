@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Girau do Ponciano",
   "uf": "AL",
-  "ibge": "2702900"
+  "ibge": "2702900",
+  "lat": -9.8840485,
+  "lon": -36.8216952
 }

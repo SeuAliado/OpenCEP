@@ -5,5 +5,7 @@
   "bairro": "Nova Cáceres",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "lat": -16.0978153,
+  "lon": -57.6817541
 }

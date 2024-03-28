@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0989244,
+  "lon": -52.4716772
 }

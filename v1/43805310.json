@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -12.6694868,
+  "lon": -38.5439718
 }

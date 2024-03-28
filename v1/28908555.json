@@ -5,5 +5,7 @@
   "bairro": "Praia do Foguete",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.9205892,
+  "lon": -42.0396314
 }

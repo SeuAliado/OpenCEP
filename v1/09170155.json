@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Rica",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.7043363,
+  "lon": -46.5043361
 }

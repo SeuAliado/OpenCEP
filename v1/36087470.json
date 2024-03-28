@@ -5,5 +5,7 @@
   "bairro": "São Francisco de Paula",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7014229,
+  "lon": -43.4324169
 }

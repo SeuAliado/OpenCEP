@@ -5,5 +5,7 @@
   "bairro": "Canasvieiras",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.4366312,
+  "lon": -48.4649407
 }

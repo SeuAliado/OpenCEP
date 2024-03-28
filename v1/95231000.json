@@ -5,5 +5,7 @@
   "bairro": "Capão Grande",
   "localidade": "Muitos Capões",
   "uf": "RS",
-  "ibge": "4312617"
+  "ibge": "4312617",
+  "lat": -28.4481102,
+  "lon": -51.1948201
 }

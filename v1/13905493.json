@@ -5,5 +5,7 @@
   "bairro": "Jardim Bianca",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7134077,
+  "lon": -46.8049253
 }

@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Correntina",
   "uf": "BA",
-  "ibge": "2909307"
+  "ibge": "2909307",
+  "lat": -13.339479,
+  "lon": -44.636119
 }

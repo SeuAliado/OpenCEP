@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cruzeiro da Fortaleza",
   "uf": "MG",
-  "ibge": "3120706"
+  "ibge": "3120706",
+  "lat": -18.9469558,
+  "lon": -46.6732883
 }

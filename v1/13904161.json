@@ -5,5 +5,7 @@
   "bairro": "Jardim São Lourenço",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7140691,
+  "lon": -46.7721487
 }

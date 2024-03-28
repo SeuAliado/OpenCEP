@@ -5,5 +5,7 @@
   "bairro": "Jardim Luana",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4482688,
+  "lon": -46.3412696
 }

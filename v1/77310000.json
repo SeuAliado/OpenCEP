@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Almas",
   "uf": "TO",
-  "ibge": "1700400"
+  "ibge": "1700400",
+  "lat": -11.5709802,
+  "lon": -47.1796194
 }

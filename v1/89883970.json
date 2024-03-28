@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Águas de Chapecó",
   "uf": "SC",
-  "ibge": "4200507"
+  "ibge": "4200507",
+  "lat": -27.0712901,
+  "lon": -52.989821
 }

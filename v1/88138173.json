@@ -5,5 +5,7 @@
   "bairro": "Praia de Fora",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.7150262,
+  "lon": -48.639233
 }

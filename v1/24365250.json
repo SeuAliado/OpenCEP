@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9113586,
+  "lon": -43.075536
 }

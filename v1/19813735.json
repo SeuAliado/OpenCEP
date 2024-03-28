@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Irmã Catarina",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6485616,
+  "lon": -50.4055007
 }

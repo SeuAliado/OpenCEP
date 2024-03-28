@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ataléia",
   "uf": "MG",
-  "ibge": "3104700"
+  "ibge": "3104700",
+  "lat": -18.0442817,
+  "lon": -41.1152852
 }

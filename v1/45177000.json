@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caraíbas",
   "uf": "BA",
-  "ibge": "2906899"
+  "ibge": "2906899",
+  "lat": -14.7181331,
+  "lon": -41.260715
 }

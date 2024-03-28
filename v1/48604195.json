@@ -5,5 +5,7 @@
   "bairro": "Jardim Bahia",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.402302,
+  "lon": -38.2117764
 }

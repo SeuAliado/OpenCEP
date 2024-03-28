@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igaraçu do Tietê",
   "uf": "SP",
-  "ibge": "3520004"
+  "ibge": "3520004",
+  "lat": -22.51256,
+  "lon": -48.5539871
 }

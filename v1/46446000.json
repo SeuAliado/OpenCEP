@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Feira da Mata",
   "uf": "BA",
-  "ibge": "2910776"
+  "ibge": "2910776",
+  "lat": -14.0869737,
+  "lon": -44.1720266
 }

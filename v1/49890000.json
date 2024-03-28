@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nossa Senhora de Lourdes",
   "uf": "SE",
-  "ibge": "2804706"
+  "ibge": "2804706",
+  "lat": -10.0776488,
+  "lon": -37.0570297
 }

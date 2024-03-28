@@ -5,5 +5,7 @@
   "bairro": "Vila São Bento",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2272389,
+  "lon": -45.8735649
 }

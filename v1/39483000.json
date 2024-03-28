@@ -5,5 +5,7 @@
   "bairro": "Riacho da Cruz",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "lat": -15.3335466,
+  "lon": -44.239065
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Morumbi",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -23.2821192,
+  "lon": -51.2636334
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7926882,
+  "lon": -42.1549428
 }

@@ -5,5 +5,7 @@
   "bairro": "Encanto Igarassu",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8540539,
+  "lon": -34.9063851
 }

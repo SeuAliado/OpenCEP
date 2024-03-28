@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alvarenga",
   "uf": "MG",
-  "ibge": "3102209"
+  "ibge": "3102209",
+  "lat": -19.4169697,
+  "lon": -41.7259216
 }

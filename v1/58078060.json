@@ -5,5 +5,7 @@
   "bairro": "Funcionários",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1768738,
+  "lon": -34.8863848
 }

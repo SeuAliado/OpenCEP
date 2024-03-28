@@ -5,5 +5,7 @@
   "bairro": "Pedra Selada",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4756239,
+  "lon": -44.4611699
 }

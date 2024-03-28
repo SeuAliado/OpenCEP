@@ -5,5 +5,7 @@
   "bairro": "Vila Haro",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.8049981,
+  "lon": -51.7280529
 }

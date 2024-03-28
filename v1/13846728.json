@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cruz",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.4367332,
+  "lon": -46.9692426
 }

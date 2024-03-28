@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Palhano",
   "uf": "CE",
-  "ibge": "2310001"
+  "ibge": "2310001",
+  "lat": -3.6868542,
+  "lon": -40.3432649
 }

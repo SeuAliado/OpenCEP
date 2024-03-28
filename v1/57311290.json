@@ -5,5 +5,7 @@
   "bairro": "Caititus",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7391898,
+  "lon": -36.6594063
 }

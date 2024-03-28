@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pancas",
   "uf": "ES",
-  "ibge": "3204005"
+  "ibge": "3204005",
+  "lat": -18.9734736,
+  "lon": -40.8767704
 }

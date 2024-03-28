@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaqueira",
   "uf": "PE",
-  "ibge": "2607950"
+  "ibge": "2607950",
+  "lat": -8.7266035,
+  "lon": -35.7945552
 }

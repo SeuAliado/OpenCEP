@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.971515,
+  "lon": -46.5435476
 }

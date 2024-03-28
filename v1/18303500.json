@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -23.9814496,
+  "lon": -48.3505143
 }

@@ -5,5 +5,7 @@
   "bairro": "Palmital dos Carvalhos",
   "localidade": "Senhora dos Remédios",
   "uf": "MG",
-  "ibge": "3166204"
+  "ibge": "3166204",
+  "lat": -20.9371202,
+  "lon": -43.6470833
 }

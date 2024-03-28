@@ -5,5 +5,7 @@
   "bairro": "Cinquentenário",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2293221,
+  "lon": -52.0158141
 }

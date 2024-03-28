@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Parigot de Souza",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5746465,
+  "lon": -51.4584613
 }

@@ -5,5 +5,7 @@
   "bairro": "Aquarius (Tamoios)",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.6119654,
+  "lon": -42.0045121
 }

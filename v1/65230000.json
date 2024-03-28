@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cajapió",
   "uf": "MA",
-  "ibge": "2102408"
+  "ibge": "2102408",
+  "lat": -2.8736323,
+  "lon": -44.6744919
 }

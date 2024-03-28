@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Mundo",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.3982786,
+  "lon": -47.3378722
 }

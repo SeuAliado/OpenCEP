@@ -5,5 +5,7 @@
   "bairro": "Cecap I",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4618599,
+  "lon": -47.0124198
 }

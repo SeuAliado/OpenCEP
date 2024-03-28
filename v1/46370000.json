@@ -5,5 +5,7 @@
   "bairro": "Guirapa",
   "localidade": "Pindaí",
   "uf": "BA",
-  "ibge": "2924504"
+  "ibge": "2924504",
+  "lat": -14.4015272,
+  "lon": -42.6185967
 }

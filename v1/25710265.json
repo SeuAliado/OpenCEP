@@ -5,5 +5,7 @@
   "bairro": "Samambaia",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.4603102,
+  "lon": -43.1417908
 }

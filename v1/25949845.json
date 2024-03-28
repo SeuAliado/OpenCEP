@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.6185445,
+  "lon": -43.19074
 }

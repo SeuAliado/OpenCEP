@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Princípio",
   "uf": "RS",
-  "ibge": "4302352"
+  "ibge": "4302352",
+  "lat": -29.4861325,
+  "lon": -51.3552733
 }

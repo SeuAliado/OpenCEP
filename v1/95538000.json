@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itati",
   "uf": "RS",
-  "ibge": "4310652"
+  "ibge": "4310652",
+  "lat": -29.4894179,
+  "lon": -50.1056218
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.985856,
+  "lon": -47.1330954
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lambari D'Oeste",
   "uf": "MT",
-  "ibge": "5105234"
+  "ibge": "5105234",
+  "lat": -15.3176394,
+  "lon": -58.0033625
 }

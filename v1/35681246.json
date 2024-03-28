@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0617388,
+  "lon": -44.5617575
 }

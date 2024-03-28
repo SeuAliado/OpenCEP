@@ -5,5 +5,7 @@
   "bairro": "Vila Vista Alegre",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9529017,
+  "lon": -43.9928794
 }

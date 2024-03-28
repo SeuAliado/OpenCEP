@@ -5,5 +5,7 @@
   "bairro": "Amarelas",
   "localidade": "Camocim",
   "uf": "CE",
-  "ibge": "2302602"
+  "ibge": "2302602",
+  "lat": -2.9398945,
+  "lon": -41.0396595
 }

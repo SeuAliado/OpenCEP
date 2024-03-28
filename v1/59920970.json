@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel",
   "uf": "RN",
-  "ibge": "2412500"
+  "ibge": "2412500",
+  "lat": -6.2128892,
+  "lon": -38.4987352
 }

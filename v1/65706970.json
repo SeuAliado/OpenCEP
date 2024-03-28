@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Olho D'Água das Cunhãs",
   "uf": "MA",
-  "ibge": "2107407"
+  "ibge": "2107407",
+  "lat": -4.1405509,
+  "lon": -45.1181406
 }

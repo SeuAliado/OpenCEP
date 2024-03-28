@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio do Içá",
   "uf": "AM",
-  "ibge": "1303700"
+  "ibge": "1303700",
+  "lat": -3.0443341,
+  "lon": -69.097023
 }

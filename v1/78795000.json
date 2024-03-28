@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedra Preta",
   "uf": "MT",
-  "ibge": "5106372"
+  "ibge": "5106372",
+  "lat": -16.621352,
+  "lon": -54.4814404
 }

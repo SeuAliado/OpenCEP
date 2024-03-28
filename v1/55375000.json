@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Calçado",
   "uf": "PE",
-  "ibge": "2603306"
+  "ibge": "2603306",
+  "lat": -8.7450719,
+  "lon": -36.3389745
 }

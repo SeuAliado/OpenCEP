@@ -5,5 +5,7 @@
   "bairro": "Vila São Paulo",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -23.9856583,
+  "lon": -48.351
 }

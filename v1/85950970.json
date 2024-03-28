@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palotina",
   "uf": "PR",
-  "ibge": "4117909"
+  "ibge": "4117909",
+  "lat": -24.2815174,
+  "lon": -53.8381296
 }

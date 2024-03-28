@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedra Mole",
   "uf": "SE",
-  "ibge": "2805000"
+  "ibge": "2805000",
+  "lat": -10.6362486,
+  "lon": -37.670589
 }

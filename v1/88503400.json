@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8337654,
+  "lon": -50.3209674
 }

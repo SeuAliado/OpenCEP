@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9765784,
+  "lon": -47.0009887
 }

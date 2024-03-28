@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulo Frontin",
   "uf": "PR",
-  "ibge": "4118709"
+  "ibge": "4118709",
+  "lat": -26.0448115,
+  "lon": -50.8267271
 }

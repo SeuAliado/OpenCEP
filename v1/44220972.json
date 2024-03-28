@@ -5,5 +5,7 @@
   "bairro": "Cabuçu",
   "localidade": "Saubara",
   "uf": "BA",
-  "ibge": "2929750"
+  "ibge": "2929750",
+  "lat": -12.7793094,
+  "lon": -38.7710739
 }

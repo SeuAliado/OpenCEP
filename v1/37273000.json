@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aguanil",
   "uf": "MG",
-  "ibge": "3100807"
+  "ibge": "3100807",
+  "lat": -20.944425,
+  "lon": -45.3918842
 }

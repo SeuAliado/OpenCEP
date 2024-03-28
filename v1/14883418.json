@@ -5,5 +5,7 @@
   "bairro": "Recreio dos Bandeirantes",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2392306,
+  "lon": -48.3073143
 }

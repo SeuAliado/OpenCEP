@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tupanciretã",
   "uf": "RS",
-  "ibge": "4322202"
+  "ibge": "4322202",
+  "lat": -29.0811933,
+  "lon": -53.8367486
 }

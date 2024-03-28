@@ -5,5 +5,7 @@
   "bairro": "Inconfidência",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7175098,
+  "lon": -43.5520133
 }

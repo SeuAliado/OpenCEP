@@ -5,5 +5,7 @@
   "bairro": "Ana Florência",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -20.3992947,
+  "lon": -42.8822668
 }

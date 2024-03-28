@@ -5,5 +5,7 @@
   "bairro": "Alegre",
   "localidade": "Coromandel",
   "uf": "MG",
-  "ibge": "3119302"
+  "ibge": "3119302",
+  "lat": -19.9755864,
+  "lon": -44.0191685
 }

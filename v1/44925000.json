@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jussara",
   "uf": "BA",
-  "ibge": "2918506"
+  "ibge": "2918506",
+  "lat": -10.9849706,
+  "lon": -41.8799408
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora das Graças",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8770803,
+  "lon": -48.2664802
 }

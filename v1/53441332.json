@@ -5,5 +5,7 @@
   "bairro": "Maranguape I",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9480039,
+  "lon": -34.8610018
 }

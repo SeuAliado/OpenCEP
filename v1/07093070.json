@@ -5,5 +5,7 @@
   "bairro": "Vila Nisia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.45815,
+  "lon": -46.5402273
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rosália",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.485919,
+  "lon": -47.4455114
 }

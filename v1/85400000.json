@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaraniaçu",
   "uf": "PR",
-  "ibge": "4109302"
+  "ibge": "4109302",
+  "lat": -25.0973006,
+  "lon": -52.8760334
 }

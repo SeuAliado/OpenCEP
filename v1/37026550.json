@@ -5,5 +5,7 @@
   "bairro": "Conjunto Minas Gerais",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5759536,
+  "lon": -45.438192
 }

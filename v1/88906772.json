@@ -5,5 +5,7 @@
   "bairro": "Coloninha",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "lat": -27.5705441,
+  "lon": -48.6158195
 }

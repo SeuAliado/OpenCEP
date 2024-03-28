@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Itatiaia",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4196141,
+  "lon": -51.8870501
 }

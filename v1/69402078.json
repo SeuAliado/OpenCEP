@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Manacapuru",
   "uf": "AM",
-  "ibge": "1302504"
+  "ibge": "1302504",
+  "lat": -3.281555,
+  "lon": -60.636606
 }

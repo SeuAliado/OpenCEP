@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9624142,
+  "lon": -48.4747515
 }

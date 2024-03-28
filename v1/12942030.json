@@ -5,5 +5,7 @@
   "bairro": "Vila Gardênia",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1224723,
+  "lon": -46.5488005
 }

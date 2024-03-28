@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Perpétuo Socorro",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9452984,
+  "lon": -45.4686999
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Amaro do Maranhão",
   "uf": "MA",
-  "ibge": "2110278"
+  "ibge": "2110278",
+  "lat": -2.6445801,
+  "lon": -43.1359542
 }

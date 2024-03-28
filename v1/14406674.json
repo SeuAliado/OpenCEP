@@ -5,5 +5,7 @@
   "bairro": "Vila São Sebastião",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5248868,
+  "lon": -47.4281869
 }

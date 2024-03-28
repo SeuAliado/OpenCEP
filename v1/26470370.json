@@ -5,5 +5,7 @@
   "bairro": "Alecrim",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6821329,
+  "lon": -43.6002385
 }

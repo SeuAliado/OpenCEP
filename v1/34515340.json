@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8865025,
+  "lon": -43.7951323
 }

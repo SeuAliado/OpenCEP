@@ -5,5 +5,7 @@
   "bairro": "14 de Novembro",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9911572,
+  "lon": -53.4808577
 }

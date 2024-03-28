@@ -5,5 +5,7 @@
   "bairro": "Chácaras Goiapa",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5433828,
+  "lon": -46.996627
 }

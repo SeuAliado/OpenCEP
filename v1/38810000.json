@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Paranaíba",
   "uf": "MG",
-  "ibge": "3155504"
+  "ibge": "3155504",
+  "lat": -19.1989953,
+  "lon": -46.2360029
 }

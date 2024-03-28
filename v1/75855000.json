@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Doverlândia",
   "uf": "GO",
-  "ibge": "5207253"
+  "ibge": "5207253",
+  "lat": -16.766045,
+  "lon": -52.4465474
 }

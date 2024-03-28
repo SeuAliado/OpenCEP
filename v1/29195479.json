@@ -5,5 +5,7 @@
   "bairro": "Guaraná",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.6806189,
+  "lon": -40.2598921
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Suburbano",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5667972,
+  "lon": -46.9436528
 }

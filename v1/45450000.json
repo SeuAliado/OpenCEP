@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gandu",
   "uf": "BA",
-  "ibge": "2911204"
+  "ibge": "2911204",
+  "lat": -13.7440757,
+  "lon": -39.484901
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Lírios",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2019547,
+  "lon": -49.9479633
 }

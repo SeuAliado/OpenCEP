@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.577196,
+  "lon": -48.5796927
 }

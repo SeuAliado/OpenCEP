@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz da Vitória",
   "uf": "BA",
-  "ibge": "2927804"
+  "ibge": "2927804",
+  "lat": -14.964435,
+  "lon": -39.8118698
 }

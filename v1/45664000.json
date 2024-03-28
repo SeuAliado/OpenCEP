@@ -5,5 +5,7 @@
   "bairro": "Coutos",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -12.8768368,
+  "lon": -38.4706004
 }

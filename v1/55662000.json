@@ -5,5 +5,7 @@
   "bairro": "Boas Novas",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "lat": -8.2710341,
+  "lon": -35.9932341
 }

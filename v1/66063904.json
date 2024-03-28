@@ -5,5 +5,7 @@
   "bairro": "São Brás",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4514689,
+  "lon": -48.4718753
 }

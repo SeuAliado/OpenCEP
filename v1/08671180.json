@@ -5,5 +5,7 @@
   "bairro": "Jardim Márcia",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5425332,
+  "lon": -46.3283165
 }

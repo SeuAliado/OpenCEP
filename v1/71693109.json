@@ -5,5 +5,7 @@
   "bairro": "Vila Nova (São Sebastião)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8401253,
+  "lon": -48.1277884
 }

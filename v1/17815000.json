@@ -5,5 +5,7 @@
   "bairro": "Mourão",
   "localidade": "Mariápolis",
   "uf": "SP",
-  "ibge": "3528908"
+  "ibge": "3528908",
+  "lat": -23.6134988,
+  "lon": -47.027066
 }

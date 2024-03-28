@@ -5,5 +5,7 @@
   "bairro": "Quitaúna",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5317815,
+  "lon": -46.8152333
 }

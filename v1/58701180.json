@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.034249,
+  "lon": -37.2860575
 }

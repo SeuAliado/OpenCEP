@@ -5,5 +5,7 @@
   "bairro": "Jardim Portugal",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7968812,
+  "lon": -48.1451831
 }

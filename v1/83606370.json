@@ -5,5 +5,7 @@
   "bairro": "Loteamento São José",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4477324,
+  "lon": -49.5208768
 }

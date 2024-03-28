@@ -5,5 +5,7 @@
   "bairro": "Largo do Barradas",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8720456,
+  "lon": -43.1037969
 }

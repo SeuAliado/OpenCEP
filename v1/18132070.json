@@ -5,5 +5,7 @@
   "bairro": "Vila Irene",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5229119,
+  "lon": -47.1379895
 }

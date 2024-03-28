@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.126947,
+  "lon": -44.8872658
 }

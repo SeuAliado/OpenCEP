@@ -5,5 +5,7 @@
   "bairro": "Apoio Social",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.908445,
+  "lon": -63.0241821
 }

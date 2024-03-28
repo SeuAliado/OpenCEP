@@ -5,5 +5,7 @@
   "bairro": "Residencial Olinda",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6846435,
+  "lon": -49.1992062
 }

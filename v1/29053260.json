@@ -5,5 +5,7 @@
   "bairro": "Monte Belo",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.3124255,
+  "lon": -40.3133955
 }

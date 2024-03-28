@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5648056,
+  "lon": -56.0549036
 }

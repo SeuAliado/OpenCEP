@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Rio Negro",
   "uf": "MS",
-  "ibge": "5007307"
+  "ibge": "5007307",
+  "lat": -19.2910093,
+  "lon": -54.9614924
 }

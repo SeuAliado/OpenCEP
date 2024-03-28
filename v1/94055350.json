@@ -5,5 +5,7 @@
   "bairro": "São Jerônimo",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9367818,
+  "lon": -51.032257
 }

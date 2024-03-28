@@ -5,5 +5,7 @@
   "bairro": "Novo Tempo II",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -19.0001264,
+  "lon": -49.4797144
 }

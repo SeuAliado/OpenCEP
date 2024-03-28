@@ -5,5 +5,7 @@
   "bairro": "Vila Bonilha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4987544,
+  "lon": -46.7142852
 }

@@ -5,5 +5,7 @@
   "bairro": "Umbu",
   "localidade": "Cacequi",
   "uf": "RS",
-  "ibge": "4302907"
+  "ibge": "4302907",
+  "lat": -30.0217572,
+  "lon": -51.0698677
 }

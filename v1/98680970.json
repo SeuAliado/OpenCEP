@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tiradentes do Sul",
   "uf": "RS",
-  "ibge": "4321477"
+  "ibge": "4321477",
+  "lat": -31.7738047,
+  "lon": -52.3338109
 }

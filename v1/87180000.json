@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Castelo Branco",
   "uf": "PR",
-  "ibge": "4120408"
+  "ibge": "4120408",
+  "lat": -23.2787073,
+  "lon": -52.1540529
 }

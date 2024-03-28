@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Alta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4991133,
+  "lon": -46.5783398
 }

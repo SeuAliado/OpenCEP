@@ -5,5 +5,7 @@
   "bairro": "Jardim Tereza",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0111413,
+  "lon": -46.8339522
 }

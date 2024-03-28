@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porangaba",
   "uf": "SP",
-  "ibge": "3540507"
+  "ibge": "3540507",
+  "lat": -23.176636,
+  "lon": -48.1199217
 }

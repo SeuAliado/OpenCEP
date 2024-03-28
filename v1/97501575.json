@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7503585,
+  "lon": -57.088083
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Camargo Novo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.512975,
+  "lon": -46.3867755
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Rebelato",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5980326,
+  "lon": -46.820554
 }

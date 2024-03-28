@@ -5,5 +5,7 @@
   "bairro": "Penha",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8129847,
+  "lon": -50.287694
 }

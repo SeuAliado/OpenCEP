@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedra Branca",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1848224,
+  "lon": -47.7937313
 }

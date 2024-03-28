@@ -5,5 +5,7 @@
   "bairro": "Capelinha",
   "localidade": "Anicuns",
   "uf": "GO",
-  "ibge": "5201306"
+  "ibge": "5201306",
+  "lat": -16.3500755,
+  "lon": -49.8423447
 }

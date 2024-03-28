@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serra de São Bento",
   "uf": "RN",
-  "ibge": "2413300"
+  "ibge": "2413300",
+  "lat": -6.417154,
+  "lon": -35.704928
 }

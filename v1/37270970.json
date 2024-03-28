@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Belo",
   "uf": "MG",
-  "ibge": "3111200"
+  "ibge": "3111200",
+  "lat": -20.068028,
+  "lon": -44.3152426
 }

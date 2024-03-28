@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Seritinga",
   "uf": "MG",
-  "ibge": "3166402"
+  "ibge": "3166402",
+  "lat": -21.913857,
+  "lon": -44.5183886
 }

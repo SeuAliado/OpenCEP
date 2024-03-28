@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristalina",
   "uf": "GO",
-  "ibge": "5206206"
+  "ibge": "5206206",
+  "lat": -16.7673471,
+  "lon": -47.6059394
 }

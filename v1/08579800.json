@@ -5,5 +5,7 @@
   "bairro": "Jardim Karine",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4660505,
+  "lon": -46.3719504
 }

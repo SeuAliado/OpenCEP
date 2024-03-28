@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Valparaíso",
   "uf": "SP",
-  "ibge": "3556305"
+  "ibge": "3556305",
+  "lat": -21.2247468,
+  "lon": -50.866584
 }

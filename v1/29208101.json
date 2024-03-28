@@ -5,5 +5,7 @@
   "bairro": "Meaípe",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.7338735,
+  "lon": -40.5465587
 }

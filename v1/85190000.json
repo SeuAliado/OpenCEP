@@ -5,5 +5,7 @@
   "bairro": "Pinhalzinho",
   "localidade": "Pinhão",
   "uf": "PR",
-  "ibge": "4119301"
+  "ibge": "4119301",
+  "lat": -25.9035993,
+  "lon": -51.596241
 }

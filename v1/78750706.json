@@ -5,5 +5,7 @@
   "bairro": "Vila Olinda",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.448819,
+  "lon": -54.63118
 }

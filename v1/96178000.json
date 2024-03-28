@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arambaré",
   "uf": "RS",
-  "ibge": "4300851"
+  "ibge": "4300851",
+  "lat": -30.9252354,
+  "lon": -51.5781151
 }

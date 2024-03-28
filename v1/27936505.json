@@ -5,5 +5,7 @@
   "bairro": "Campo do Oeste",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3868728,
+  "lon": -41.7865398
 }

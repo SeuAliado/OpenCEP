@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -24.0137755,
+  "lon": -48.3542338
 }

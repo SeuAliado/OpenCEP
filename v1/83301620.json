@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4444684,
+  "lon": -49.0664153
 }

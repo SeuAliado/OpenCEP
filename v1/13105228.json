@@ -5,5 +5,7 @@
   "bairro": "Vila Laércio Teixeira (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8780604,
+  "lon": -46.9696826
 }

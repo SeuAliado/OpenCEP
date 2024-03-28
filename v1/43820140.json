@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -12.6736172,
+  "lon": -38.5365031
 }

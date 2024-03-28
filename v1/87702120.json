@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0736782,
+  "lon": -52.4696994
 }

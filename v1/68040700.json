@@ -5,5 +5,7 @@
   "bairro": "Caranazal",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4331118,
+  "lon": -54.7331444
 }

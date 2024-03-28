@@ -5,5 +5,7 @@
   "bairro": "Santo Inácio",
   "localidade": "Bom Jesus",
   "uf": "RS",
-  "ibge": "4302303"
+  "ibge": "4302303",
+  "lat": -29.8603848,
+  "lon": -51.177111
 }

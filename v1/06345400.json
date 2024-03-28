@@ -5,5 +5,7 @@
   "bairro": "Chácara Noel Antônio",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5721479,
+  "lon": -46.8485998
 }

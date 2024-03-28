@@ -5,5 +5,7 @@
   "bairro": "Abílio Martins",
   "localidade": "Ipu",
   "uf": "CE",
-  "ibge": "2305803"
+  "ibge": "2305803",
+  "lat": -4.3839606,
+  "lon": -40.6752853
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Maria",
   "uf": "PA",
-  "ibge": "1506161"
+  "ibge": "1506161",
+  "lat": -7.4021545,
+  "lon": -49.9366899
 }

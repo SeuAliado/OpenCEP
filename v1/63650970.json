@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quiterianópolis",
   "uf": "CE",
-  "ibge": "2311264"
+  "ibge": "2311264",
+  "lat": -5.8428907,
+  "lon": -40.7005808
 }

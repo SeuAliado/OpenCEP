@@ -5,5 +5,7 @@
   "bairro": "São Marcos",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -20.0331947,
+  "lon": -44.2385591
 }

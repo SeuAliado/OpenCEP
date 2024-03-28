@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaara",
   "uf": "RS",
-  "ibge": "4310538"
+  "ibge": "4310538",
+  "lat": -29.6107666,
+  "lon": -53.7582183
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1961848,
+  "lon": -46.8882772
 }

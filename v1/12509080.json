@@ -5,5 +5,7 @@
   "bairro": "Parque São Francisco",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7972726,
+  "lon": -45.2180067
 }

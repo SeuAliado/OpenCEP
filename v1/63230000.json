@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Granjeiro",
   "uf": "CE",
-  "ibge": "2304806"
+  "ibge": "2304806",
+  "lat": -6.8887373,
+  "lon": -39.2181296
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "lat": -22.7485617,
+  "lon": -50.3899746
 }

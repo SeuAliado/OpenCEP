@@ -5,5 +5,7 @@
   "bairro": "Jardim Orestes Veroni",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5662495,
+  "lon": -47.388123
 }

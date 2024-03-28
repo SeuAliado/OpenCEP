@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedra Bonita",
   "uf": "MG",
-  "ibge": "3148756"
+  "ibge": "3148756",
+  "lat": -20.5223671,
+  "lon": -42.3308397
 }

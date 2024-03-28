@@ -5,5 +5,7 @@
   "bairro": "Saúde",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4149571,
+  "lon": -47.5542323
 }

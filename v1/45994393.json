@@ -5,5 +5,7 @@
   "bairro": "Jardim Liberdade",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.537798,
+  "lon": -39.769186
 }

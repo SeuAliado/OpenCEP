@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7844768,
+  "lon": -53.3151125
 }

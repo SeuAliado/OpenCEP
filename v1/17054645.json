@@ -5,5 +5,7 @@
   "bairro": "Jardim Shangri-Lá",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3623514,
+  "lon": -49.0905485
 }

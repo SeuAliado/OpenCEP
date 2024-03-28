@@ -5,5 +5,7 @@
   "bairro": "Jardim Bonfiglioli",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.57854,
+  "lon": -46.7391454
 }

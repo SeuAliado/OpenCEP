@@ -5,5 +5,7 @@
   "bairro": "Lençol",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "lat": -26.2449371,
+  "lon": -49.4305127
 }

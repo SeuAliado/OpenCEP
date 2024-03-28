@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9892972,
+  "lon": -48.8878101
 }

@@ -5,5 +5,7 @@
   "bairro": "Vale das Palmeiras",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4774458,
+  "lon": -44.2475879
 }

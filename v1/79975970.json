@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tacuru",
   "uf": "MS",
-  "ibge": "5007950"
+  "ibge": "5007950",
+  "lat": -23.6353214,
+  "lon": -55.0136501
 }

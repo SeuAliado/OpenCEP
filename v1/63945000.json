@@ -5,5 +5,7 @@
   "bairro": "Dom Maurício",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.9171355,
+  "lon": -39.1497885
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Uirapuru",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.2119085,
+  "lon": -52.2304516
 }

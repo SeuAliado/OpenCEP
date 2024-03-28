@@ -5,5 +5,7 @@
   "bairro": "Alto Ipiranga",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5351115,
+  "lon": -46.200835
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacutinga",
   "uf": "RS",
-  "ibge": "4310900"
+  "ibge": "4310900",
+  "lat": -27.7929655,
+  "lon": -52.5425318
 }

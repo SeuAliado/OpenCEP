@@ -5,5 +5,7 @@
   "bairro": "Cantagalo",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.8151195,
+  "lon": -50.0012723
 }

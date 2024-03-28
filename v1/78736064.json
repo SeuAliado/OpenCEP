@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Três Américas",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4712629,
+  "lon": -54.570414
 }

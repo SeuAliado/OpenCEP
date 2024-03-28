@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jardim de Angicos",
   "uf": "RN",
-  "ibge": "2405504"
+  "ibge": "2405504",
+  "lat": -5.6273824,
+  "lon": -35.9805528
 }

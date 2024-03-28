@@ -5,5 +5,7 @@
   "bairro": "Parque Boa Esperança",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6645553,
+  "lon": -46.4448092
 }

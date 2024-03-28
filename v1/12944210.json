@@ -5,5 +5,7 @@
   "bairro": "CTB",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1105109,
+  "lon": -46.5622125
 }

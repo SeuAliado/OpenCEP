@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Toropi",
   "uf": "RS",
-  "ibge": "4321493"
+  "ibge": "4321493",
+  "lat": -29.4748623,
+  "lon": -54.228353
 }

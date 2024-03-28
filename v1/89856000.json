@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Irati",
   "uf": "SC",
-  "ibge": "4207858"
+  "ibge": "4207858",
+  "lat": -26.6543458,
+  "lon": -52.8960222
 }

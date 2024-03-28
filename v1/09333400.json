@@ -5,5 +5,7 @@
   "bairro": "Sítio Taquarassu",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6488839,
+  "lon": -46.4205516
 }

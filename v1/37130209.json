@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.416949,
+  "lon": -45.952542
 }

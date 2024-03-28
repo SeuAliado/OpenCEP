@@ -5,5 +5,7 @@
   "bairro": "Comendador Soares",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7399763,
+  "lon": -43.4818374
 }

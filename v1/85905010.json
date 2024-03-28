@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7198968,
+  "lon": -53.7407998
 }

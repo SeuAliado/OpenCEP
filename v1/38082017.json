@@ -5,5 +5,7 @@
   "bairro": "Manhattan",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7515829,
+  "lon": -47.9026741
 }

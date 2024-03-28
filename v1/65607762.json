@@ -5,5 +5,7 @@
   "bairro": "Fumo Verde",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "lat": -4.9132892,
+  "lon": -43.3488355
 }

@@ -5,5 +5,7 @@
   "bairro": "Campinhos",
   "localidade": "Santo Amaro",
   "uf": "BA",
-  "ibge": "2928604"
+  "ibge": "2928604",
+  "lat": -12.4237358,
+  "lon": -38.7968737
 }

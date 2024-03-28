@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araçariguama",
   "uf": "SP",
-  "ibge": "3502754"
+  "ibge": "3502754",
+  "lat": -23.4380833,
+  "lon": -47.0636673
 }

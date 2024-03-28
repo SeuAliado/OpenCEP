@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Petrópolis",
   "uf": "RS",
-  "ibge": "4313201"
+  "ibge": "4313201",
+  "lat": -29.395834,
+  "lon": -51.2460204
 }

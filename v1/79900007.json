@@ -5,5 +5,7 @@
   "bairro": "Vila São Vicente de Paula",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5108429,
+  "lon": -55.7409778
 }

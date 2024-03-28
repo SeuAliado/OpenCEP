@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jussara",
   "uf": "PR",
-  "ibge": "4113007"
+  "ibge": "4113007",
+  "lat": -23.6199772,
+  "lon": -52.4714795
 }

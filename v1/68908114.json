@@ -5,5 +5,7 @@
   "bairro": "Jesus de Nazaré",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "lat": 0.0496655,
+  "lon": -51.0532529
 }

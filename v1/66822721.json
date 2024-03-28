@@ -5,5 +5,7 @@
   "bairro": "Águas Negras (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3133274,
+  "lon": -48.4561054
 }

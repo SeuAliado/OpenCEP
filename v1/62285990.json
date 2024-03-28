@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "lat": -4.1004513,
+  "lon": -40.4287242
 }

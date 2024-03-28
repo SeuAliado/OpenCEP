@@ -5,5 +5,7 @@
   "bairro": "Dois Leões",
   "localidade": "Pombos",
   "uf": "PE",
-  "ibge": "2611309"
+  "ibge": "2611309",
+  "lat": -8.118611,
+  "lon": -35.3558329
 }

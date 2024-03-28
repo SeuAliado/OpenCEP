@@ -5,5 +5,7 @@
   "bairro": "Passo do Mendonça",
   "localidade": "Cristal",
   "uf": "RS",
-  "ibge": "4306056"
+  "ibge": "4306056",
+  "lat": -31.0220595,
+  "lon": -52.0760411
 }

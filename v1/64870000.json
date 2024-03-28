@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bertolínia",
   "uf": "PI",
-  "ibge": "2201705"
+  "ibge": "2201705",
+  "lat": -7.7265606,
+  "lon": -43.9055155
 }

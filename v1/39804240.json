@@ -5,5 +5,7 @@
   "bairro": "Concórdia",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8619252,
+  "lon": -41.5172625
 }

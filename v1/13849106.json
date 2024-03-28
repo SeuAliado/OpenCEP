@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Getúlio Vargas II",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3150189,
+  "lon": -46.9803709
 }

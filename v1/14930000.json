@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Esperança do Sul",
   "uf": "SP",
-  "ibge": "3506706"
+  "ibge": "3506706",
+  "lat": -21.9046866,
+  "lon": -48.4387577
 }

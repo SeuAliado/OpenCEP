@@ -5,5 +5,7 @@
   "bairro": "Renascer",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "lat": -7.0752579,
+  "lon": -34.8523726
 }

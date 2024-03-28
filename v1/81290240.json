@@ -5,5 +5,7 @@
   "bairro": "Cidade Industrial",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4507048,
+  "lon": -49.3676514
 }

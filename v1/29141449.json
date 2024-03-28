@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Grande",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3356338,
+  "lon": -40.4047222
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tupãssi",
   "uf": "PR",
-  "ibge": "4127957"
+  "ibge": "4127957",
+  "lat": -24.6487533,
+  "lon": -53.4986586
 }

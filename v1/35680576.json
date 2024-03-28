@@ -5,5 +5,7 @@
   "bairro": "Três Marias",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.1026714,
+  "lon": -44.598603
 }

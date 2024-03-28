@@ -5,5 +5,7 @@
   "bairro": "Jardim Taipas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4302281,
+  "lon": -46.7242601
 }

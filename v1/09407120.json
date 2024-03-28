@@ -5,5 +5,7 @@
   "bairro": "Barro Branco",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.7373676,
+  "lon": -46.3578536
 }

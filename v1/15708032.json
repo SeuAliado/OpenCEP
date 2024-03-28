@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial II",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2610532,
+  "lon": -50.5320383
 }

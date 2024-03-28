@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro do Sul",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.090584,
+  "lon": -48.0145648
 }

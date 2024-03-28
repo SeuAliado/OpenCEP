@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7084217,
+  "lon": -52.4273025
 }

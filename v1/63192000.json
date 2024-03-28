@@ -5,5 +5,7 @@
   "bairro": "Brejo Grande",
   "localidade": "Santana do Cariri",
   "uf": "CE",
-  "ibge": "2312106"
+  "ibge": "2312106",
+  "lat": -7.3042321,
+  "lon": -39.7686893
 }

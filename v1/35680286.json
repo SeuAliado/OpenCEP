@@ -5,5 +5,7 @@
   "bairro": "Residencial Morro do Sol",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0878935,
+  "lon": -44.5814694
 }

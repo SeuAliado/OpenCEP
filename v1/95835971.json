@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mato Leitão",
   "uf": "RS",
-  "ibge": "4312153"
+  "ibge": "4312153",
+  "lat": -29.5259563,
+  "lon": -52.1233591
 }

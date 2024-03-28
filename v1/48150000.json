@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouriçangas",
   "uf": "BA",
-  "ibge": "2923308"
+  "ibge": "2923308",
+  "lat": -12.0179388,
+  "lon": -38.6169758
 }

@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4540109,
+  "lon": -44.4338172
 }

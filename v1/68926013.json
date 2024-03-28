@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -20.3082216,
+  "lon": -40.3918366
 }

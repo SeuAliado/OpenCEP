@@ -5,5 +5,7 @@
   "bairro": "Poço",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "lat": -7.0226584,
+  "lon": -34.8335895
 }

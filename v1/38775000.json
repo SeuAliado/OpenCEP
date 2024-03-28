@@ -5,5 +5,7 @@
   "bairro": "Veredas",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "lat": -17.7337808,
+  "lon": -46.1856608
 }

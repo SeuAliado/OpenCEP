@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fortaleza dos Nogueiras",
   "uf": "MA",
-  "ibge": "2104107"
+  "ibge": "2104107",
+  "lat": -6.9609989,
+  "lon": -46.1799289
 }

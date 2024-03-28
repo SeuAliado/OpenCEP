@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Congonhas do Norte",
   "uf": "MG",
-  "ibge": "3118106"
+  "ibge": "3118106",
+  "lat": -18.8107723,
+  "lon": -43.6785377
 }

@@ -5,5 +5,7 @@
   "bairro": "Moitas",
   "localidade": "Amontada",
   "uf": "CE",
-  "ibge": "2300754"
+  "ibge": "2300754",
+  "lat": -3.0290342,
+  "lon": -39.6526358
 }

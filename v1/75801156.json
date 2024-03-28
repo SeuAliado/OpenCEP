@@ -5,5 +5,7 @@
   "bairro": "Loteamento Carvalho",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8923156,
+  "lon": -51.7115459
 }

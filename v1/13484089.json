@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.551284,
+  "lon": -47.4140065
 }

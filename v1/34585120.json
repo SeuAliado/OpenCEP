@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.886812,
+  "lon": -43.8528786
 }

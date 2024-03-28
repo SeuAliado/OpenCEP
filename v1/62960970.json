@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tabuleiro do Norte",
   "uf": "CE",
-  "ibge": "2313104"
+  "ibge": "2313104",
+  "lat": -5.2469227,
+  "lon": -38.129937
 }

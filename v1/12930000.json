@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tuiuti",
   "uf": "SP",
-  "ibge": "3554953"
+  "ibge": "3554953",
+  "lat": -22.8157641,
+  "lon": -46.6927397
 }

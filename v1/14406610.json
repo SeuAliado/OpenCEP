@@ -5,5 +5,7 @@
   "bairro": "Chácaras São Paulo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.525673,
+  "lon": -47.4442108
 }

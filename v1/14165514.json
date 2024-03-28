@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Lucia",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1140403,
+  "lon": -47.9895452
 }

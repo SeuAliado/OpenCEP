@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colméia",
   "uf": "TO",
-  "ibge": "1716703"
+  "ibge": "1716703",
+  "lat": -8.7250346,
+  "lon": -48.7641838
 }

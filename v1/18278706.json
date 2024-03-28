@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3427212,
+  "lon": -47.8686586
 }

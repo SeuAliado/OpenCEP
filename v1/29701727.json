@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5210034,
+  "lon": -40.6440764
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Mirador",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.539823,
+  "lon": -46.9668272
 }

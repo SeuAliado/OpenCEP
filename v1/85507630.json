@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.2541395,
+  "lon": -52.6697887
 }

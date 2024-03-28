@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Olho D'Água do Piauí",
   "uf": "PI",
-  "ibge": "2207108"
+  "ibge": "2207108",
+  "lat": -5.8626645,
+  "lon": -42.5705674
 }

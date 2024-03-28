@@ -5,5 +5,7 @@
   "bairro": "Portal da Primavera",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1515755,
+  "lon": -46.9179782
 }

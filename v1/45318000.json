@@ -5,5 +5,7 @@
   "bairro": "Tartaruga",
   "localidade": "Milagres",
   "uf": "BA",
-  "ibge": "2921302"
+  "ibge": "2921302",
+  "lat": -12.9553706,
+  "lon": -39.6903654
 }

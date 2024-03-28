@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipixuna do Pará",
   "uf": "PA",
-  "ibge": "1503457"
+  "ibge": "1503457",
+  "lat": -2.560288,
+  "lon": -47.5063278
 }

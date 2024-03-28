@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4068202,
+  "lon": -44.2570574
 }

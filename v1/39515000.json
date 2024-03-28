@@ -5,5 +5,7 @@
   "bairro": "Itamirim",
   "localidade": "Espinosa",
   "uf": "MG",
-  "ibge": "3124302"
+  "ibge": "3124302",
+  "lat": -14.7676018,
+  "lon": -42.8972514
 }

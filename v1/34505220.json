@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8856426,
+  "lon": -43.8104318
 }

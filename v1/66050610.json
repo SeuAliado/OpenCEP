@@ -5,5 +5,7 @@
   "bairro": "Umarizal",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.431224,
+  "lon": -48.4724982
 }

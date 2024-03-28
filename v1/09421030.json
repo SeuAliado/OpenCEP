@@ -5,5 +5,7 @@
   "bairro": "Suíssa",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.6878349,
+  "lon": -46.4136823
 }

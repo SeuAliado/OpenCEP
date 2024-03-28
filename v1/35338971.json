@@ -5,5 +5,7 @@
   "bairro": "São Sebastião do Batatal",
   "localidade": "Ubaporanga",
   "uf": "MG",
-  "ibge": "3170057"
+  "ibge": "3170057",
+  "lat": -19.6638468,
+  "lon": -42.0268758
 }

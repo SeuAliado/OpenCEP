@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "lat": -7.8437703,
+  "lon": -35.2479848
 }

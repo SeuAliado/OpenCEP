@@ -5,5 +5,7 @@
   "bairro": "Governador Roberto Silveira",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "lat": -21.1942569,
+  "lon": -41.8967025
 }

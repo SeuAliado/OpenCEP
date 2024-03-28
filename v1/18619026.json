@@ -5,5 +5,7 @@
   "bairro": "Vitoriana",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.7790562,
+  "lon": -48.3996911
 }

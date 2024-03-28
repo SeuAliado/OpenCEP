@@ -5,5 +5,7 @@
   "bairro": "Figueira",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "lat": -26.9277091,
+  "lon": -49.0025369
 }

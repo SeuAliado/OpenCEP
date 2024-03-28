@@ -5,5 +5,7 @@
   "bairro": "Jardim José Kalil",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3079232,
+  "lon": -49.0795927
 }

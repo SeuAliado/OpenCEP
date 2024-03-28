@@ -5,5 +5,7 @@
   "bairro": "Jardim Corazza",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2578382,
+  "lon": -47.297177
 }

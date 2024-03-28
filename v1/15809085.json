@@ -5,5 +5,7 @@
   "bairro": "Parque Iracema",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1423817,
+  "lon": -48.961558
 }

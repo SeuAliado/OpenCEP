@@ -5,5 +5,7 @@
   "bairro": "Parque do Castelo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5568171,
+  "lon": -47.3952152
 }

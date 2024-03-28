@@ -5,5 +5,7 @@
   "bairro": "Jardim Santarém",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4424777,
+  "lon": -54.7165062
 }

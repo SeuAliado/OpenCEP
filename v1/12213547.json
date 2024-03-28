@@ -5,5 +5,7 @@
   "bairro": "Condomínio Colinas do Parahyba",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -14.235004,
+  "lon": -51.92528
 }

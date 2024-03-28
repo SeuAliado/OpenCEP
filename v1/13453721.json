@@ -5,5 +5,7 @@
   "bairro": "Jardim das Laranjeiras",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7327359,
+  "lon": -47.3945728
 }

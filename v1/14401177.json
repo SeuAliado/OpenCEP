@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5237246,
+  "lon": -47.3904122
 }

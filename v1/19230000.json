@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Estrela do Norte",
   "uf": "SP",
-  "ibge": "3515301"
+  "ibge": "3515301",
+  "lat": -22.4864077,
+  "lon": -51.6636863
 }

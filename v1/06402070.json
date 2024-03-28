@@ -5,5 +5,7 @@
   "bairro": "Vila Pouso Alegre",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5071299,
+  "lon": -46.8783887
 }

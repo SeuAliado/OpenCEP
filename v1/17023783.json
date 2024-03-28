@@ -5,5 +5,7 @@
   "bairro": "Quinta da Bela Olinda",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2854037,
+  "lon": -49.056972
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Indiara",
   "uf": "GO",
-  "ibge": "5209952"
+  "ibge": "5209952",
+  "lat": -17.1145445,
+  "lon": -49.9777136
 }

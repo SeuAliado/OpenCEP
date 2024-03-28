@@ -5,5 +5,7 @@
   "bairro": "Horto Florestal",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.3897402,
+  "lon": -42.6842436
 }

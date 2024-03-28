@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "João Dias",
   "uf": "RN",
-  "ibge": "2405900"
+  "ibge": "2405900",
+  "lat": -6.2766266,
+  "lon": -37.8193872
 }

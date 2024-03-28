@@ -5,5 +5,7 @@
   "bairro": "Pedreiras",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1379599,
+  "lon": -58.4488853
 }

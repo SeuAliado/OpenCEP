@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.0375719,
+  "lon": -52.6168831
 }

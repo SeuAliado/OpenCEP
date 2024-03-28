@@ -5,5 +5,7 @@
   "bairro": "Recanto do Sol",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2816105,
+  "lon": -48.9291617
 }

@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.0105951,
+  "lon": -46.4126005
 }

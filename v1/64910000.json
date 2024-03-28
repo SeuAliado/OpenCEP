@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Luz",
   "uf": "PI",
-  "ibge": "2209302"
+  "ibge": "2209302",
+  "lat": -9.0289133,
+  "lon": -44.1340439
 }

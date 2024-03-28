@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Carmem",
   "uf": "MT",
-  "ibge": "5107248"
+  "ibge": "5107248",
+  "lat": -11.9977961,
+  "lon": -54.8731219
 }

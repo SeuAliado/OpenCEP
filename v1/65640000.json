@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Parnarama",
   "uf": "MA",
-  "ibge": "2107803"
+  "ibge": "2107803",
+  "lat": -5.6822949,
+  "lon": -43.0896924
 }

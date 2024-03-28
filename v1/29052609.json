@@ -5,5 +5,7 @@
   "bairro": "Ilha do Boi",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.2985097,
+  "lon": -40.3094367
 }

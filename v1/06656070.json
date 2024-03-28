@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5592528,
+  "lon": -46.9163551
 }

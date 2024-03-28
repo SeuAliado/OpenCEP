@@ -5,5 +5,7 @@
   "bairro": "Vila Lage",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8447765,
+  "lon": -43.0898511
 }

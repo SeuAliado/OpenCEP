@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2642996,
+  "lon": -47.2955318
 }

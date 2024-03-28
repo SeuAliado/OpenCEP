@@ -5,5 +5,7 @@
   "bairro": "Jupaguá",
   "localidade": "Cotegipe",
   "uf": "BA",
-  "ibge": "2909406"
+  "ibge": "2909406",
+  "lat": -11.8134431,
+  "lon": -44.3374018
 }

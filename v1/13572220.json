@@ -5,5 +5,7 @@
   "bairro": "Vila Sonia",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0362787,
+  "lon": -47.8945638
 }

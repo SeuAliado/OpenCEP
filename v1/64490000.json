@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Regeneração",
   "uf": "PI",
-  "ibge": "2208809"
+  "ibge": "2208809",
+  "lat": -6.2315462,
+  "lon": -42.6845736
 }

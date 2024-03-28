@@ -5,5 +5,7 @@
   "bairro": "Jardim Marco Leite",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1694765,
+  "lon": -46.8879848
 }

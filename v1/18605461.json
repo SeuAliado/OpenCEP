@@ -5,5 +5,7 @@
   "bairro": "Parque São Domingos",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9087858,
+  "lon": -48.4446807
 }

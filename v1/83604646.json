@@ -5,5 +5,7 @@
   "bairro": "Vila Glória",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4757685,
+  "lon": -49.5692682
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Judas Tadeu",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.5039537,
+  "lon": -46.3425019
 }

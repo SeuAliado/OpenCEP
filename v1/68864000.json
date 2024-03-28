@@ -5,5 +5,7 @@
   "bairro": "Joanes",
   "localidade": "Salvaterra",
   "uf": "PA",
-  "ibge": "1506302"
+  "ibge": "1506302",
+  "lat": -0.8790627,
+  "lon": -48.5107
 }

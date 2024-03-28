@@ -5,5 +5,7 @@
   "bairro": "Ikaray",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.6718418,
+  "lon": -56.1333382
 }

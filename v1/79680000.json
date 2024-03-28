@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Água Clara",
   "uf": "MS",
-  "ibge": "5000203"
+  "ibge": "5000203",
+  "lat": -20.4419565,
+  "lon": -52.8781784
 }

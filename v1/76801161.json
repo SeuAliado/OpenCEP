@@ -5,5 +5,7 @@
   "bairro": "Caiari",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7630934,
+  "lon": -63.9062682
 }

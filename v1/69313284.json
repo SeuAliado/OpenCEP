@@ -5,5 +5,7 @@
   "bairro": "Olímpico",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8140275,
+  "lon": -60.7330264
 }

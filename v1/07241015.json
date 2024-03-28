@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Cumbica",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4520892,
+  "lon": -46.4129565
 }

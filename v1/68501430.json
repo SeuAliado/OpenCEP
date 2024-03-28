@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "lat": -5.3799782,
+  "lon": -49.1336581
 }

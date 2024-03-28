@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fernando de Noronha",
   "uf": "PE",
-  "ibge": "2605459"
+  "ibge": "2605459",
+  "lat": -3.8576305,
+  "lon": -32.4297369
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4360968,
+  "lon": -47.5666406
 }

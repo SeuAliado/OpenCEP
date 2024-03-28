@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Floraí",
   "uf": "PR",
-  "ibge": "4107801"
+  "ibge": "4107801",
+  "lat": -23.3201096,
+  "lon": -52.299332
 }

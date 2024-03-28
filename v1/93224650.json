@@ -5,5 +5,7 @@
   "bairro": "Camboim",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8300395,
+  "lon": -51.139197
 }

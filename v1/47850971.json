@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Luís Eduardo Magalhães",
   "uf": "BA",
-  "ibge": "2919553"
+  "ibge": "2919553",
+  "lat": -12.7583959,
+  "lon": -39.4251129
 }

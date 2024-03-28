@@ -5,5 +5,7 @@
   "bairro": "Saicã",
   "localidade": "Cacequi",
   "uf": "RS",
-  "ibge": "4302907"
+  "ibge": "4302907",
+  "lat": -30.0383792,
+  "lon": -55.0866562
 }

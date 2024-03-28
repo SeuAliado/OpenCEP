@@ -5,5 +5,7 @@
   "bairro": "Recreio Alvorada",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7776527,
+  "lon": -47.3942874
 }

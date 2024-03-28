@@ -5,5 +5,7 @@
   "bairro": "Bosque do Imperador",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7762081,
+  "lon": -43.4179735
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Malhador",
   "uf": "SE",
-  "ibge": "2803906"
+  "ibge": "2803906",
+  "lat": -10.6653597,
+  "lon": -37.3007756
 }

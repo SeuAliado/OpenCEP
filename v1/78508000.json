@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Guarita",
   "uf": "MT",
-  "ibge": "5108808"
+  "ibge": "5108808",
+  "lat": -10.3124,
+  "lon": -55.4065419
 }

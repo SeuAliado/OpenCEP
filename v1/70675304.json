@@ -5,5 +5,7 @@
   "bairro": "Setor Sudoeste",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.791001,
+  "lon": -47.93152
 }

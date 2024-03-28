@@ -5,5 +5,7 @@
   "bairro": "Vila Lobão",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5124286,
+  "lon": -47.4665527
 }

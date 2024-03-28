@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Taquaritinga",
   "uf": "SP",
-  "ibge": "3553708"
+  "ibge": "3553708",
+  "lat": -21.3667343,
+  "lon": -48.570243
 }

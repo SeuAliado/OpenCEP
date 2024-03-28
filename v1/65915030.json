@@ -5,5 +5,7 @@
   "bairro": "Conjunto Nova Vitória",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5619213,
+  "lon": -47.4454442
 }

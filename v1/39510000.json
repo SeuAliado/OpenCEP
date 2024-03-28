@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Espinosa",
   "uf": "MG",
-  "ibge": "3124302"
+  "ibge": "3124302",
+  "lat": -14.7710261,
+  "lon": -43.0971625
 }

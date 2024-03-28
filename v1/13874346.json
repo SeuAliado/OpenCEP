@@ -5,5 +5,7 @@
   "bairro": "Jardim Santarém",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9773393,
+  "lon": -46.7700483
 }

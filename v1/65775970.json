@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gonçalves Dias",
   "uf": "MA",
-  "ibge": "2104404"
+  "ibge": "2104404",
+  "lat": -5.1540111,
+  "lon": -44.2985229
 }

@@ -5,5 +5,7 @@
   "bairro": "Macujé",
   "localidade": "Aliança",
   "uf": "PE",
-  "ibge": "2600708"
+  "ibge": "2600708",
+  "lat": -7.5126597,
+  "lon": -35.1648294
 }

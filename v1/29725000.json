@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marilândia",
   "uf": "ES",
-  "ibge": "3203353"
+  "ibge": "3203353",
+  "lat": -19.41654,
+  "lon": -40.5330604
 }

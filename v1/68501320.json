@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "lat": -5.387689,
+  "lon": -49.1307819
 }

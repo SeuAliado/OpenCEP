@@ -5,5 +5,7 @@
   "bairro": "Fazendinha",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -26.930025,
+  "lon": -48.6458437
 }

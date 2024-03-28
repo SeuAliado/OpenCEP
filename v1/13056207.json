@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.956719,
+  "lon": -47.1385868
 }

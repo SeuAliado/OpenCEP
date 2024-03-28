@@ -5,5 +5,7 @@
   "bairro": "Central Parque",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.025895,
+  "lon": -45.5455136
 }

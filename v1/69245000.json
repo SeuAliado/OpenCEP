@@ -5,5 +5,7 @@
   "bairro": "Murutinga",
   "localidade": "Autazes",
   "uf": "AM",
-  "ibge": "1300300"
+  "ibge": "1300300",
+  "lat": -3.3798005,
+  "lon": -59.32418
 }

@@ -5,5 +5,7 @@
   "bairro": "Ouro Verde",
   "localidade": "Guaraciaba",
   "uf": "SC",
-  "ibge": "4206405"
+  "ibge": "4206405",
+  "lat": -26.5352464,
+  "lon": -53.6865416
 }

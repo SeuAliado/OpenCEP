@@ -5,5 +5,7 @@
   "bairro": "Vila Dalila",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5481999,
+  "lon": -46.5249964
 }

@@ -5,5 +5,7 @@
   "bairro": "Conventos",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.430935,
+  "lon": -52.0282771
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança II",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.42072,
+  "lon": -45.9599889
 }

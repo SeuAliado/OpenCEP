@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Teotonio Vilela",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6032953,
+  "lon": -46.5056506
 }

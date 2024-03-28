@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Portel",
   "uf": "PA",
-  "ibge": "1505809"
+  "ibge": "1505809",
+  "lat": -1.9357985,
+  "lon": -50.815346
 }

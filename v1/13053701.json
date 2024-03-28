@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -23.037379,
+  "lon": -47.1306084
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Colonial",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -24.013257,
+  "lon": -48.3445602
 }

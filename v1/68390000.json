@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ourilândia do Norte",
   "uf": "PA",
-  "ibge": "1505437"
+  "ibge": "1505437",
+  "lat": -7.6394147,
+  "lon": -51.5150077
 }

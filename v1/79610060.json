@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7896348,
+  "lon": -51.6801256
 }

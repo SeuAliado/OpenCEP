@@ -5,5 +5,7 @@
   "bairro": "Residencial Florestan Fernandes",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.678377,
+  "lon": -49.7378837
 }

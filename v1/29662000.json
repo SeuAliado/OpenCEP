@@ -5,5 +5,7 @@
   "bairro": "Alto Santa Maria",
   "localidade": "Santa Teresa",
   "uf": "ES",
-  "ibge": "3204609"
+  "ibge": "3204609",
+  "lat": -19.8959406,
+  "lon": -40.7613614
 }

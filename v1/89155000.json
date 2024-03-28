@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dona Emma",
   "uf": "SC",
-  "ibge": "4205100"
+  "ibge": "4205100",
+  "lat": -26.9864675,
+  "lon": -49.7243368
 }

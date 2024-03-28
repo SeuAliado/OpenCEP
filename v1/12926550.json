@@ -5,5 +5,7 @@
   "bairro": "Residencial Hípica Jaguari",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9185509,
+  "lon": -46.541689
 }

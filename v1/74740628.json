@@ -5,5 +5,7 @@
   "bairro": "Loteamento Aruanã Park",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6927769,
+  "lon": -49.1992445
 }

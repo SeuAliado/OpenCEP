@@ -5,5 +5,7 @@
   "bairro": "Caracará do Arari",
   "localidade": "Cachoeira do Arari",
   "uf": "PA",
-  "ibge": "1502004"
+  "ibge": "1502004",
+  "lat": -1.0126146,
+  "lon": -48.9507173
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Batayporã",
   "uf": "MS",
-  "ibge": "5002001"
+  "ibge": "5002001",
+  "lat": -22.2951897,
+  "lon": -53.2715408
 }

@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol II (Itambi)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7315901,
+  "lon": -42.9182095
 }

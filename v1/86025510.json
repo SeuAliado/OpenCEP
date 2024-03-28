@@ -5,5 +5,7 @@
   "bairro": "Jardim Agari",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2966124,
+  "lon": -51.170081
 }

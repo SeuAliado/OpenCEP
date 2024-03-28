@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaramataia",
   "uf": "AL",
-  "ibge": "2703700"
+  "ibge": "2703700",
+  "lat": -9.6626695,
+  "lon": -37.0048929
 }

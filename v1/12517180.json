@@ -5,5 +5,7 @@
   "bairro": "Parque das Alamedas",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7992662,
+  "lon": -45.1823656
 }

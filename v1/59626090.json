@@ -5,5 +5,7 @@
   "bairro": "Rincão",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.2028656,
+  "lon": -37.3010304
 }

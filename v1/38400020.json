@@ -5,5 +5,7 @@
   "bairro": "Cazeca",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9152306,
+  "lon": -48.2659302
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "General Câmara",
   "uf": "RS",
-  "ibge": "4308805"
+  "ibge": "4308805",
+  "lat": -29.8769648,
+  "lon": -51.8945505
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Fanganiello",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.545008,
+  "lon": -46.3917292
 }

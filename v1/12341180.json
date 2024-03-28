@@ -5,5 +5,7 @@
   "bairro": "Vila São João (São Silvestre)",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3645378,
+  "lon": -46.0182699
 }

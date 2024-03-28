@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Montezuma",
   "uf": "MG",
-  "ibge": "3143450"
+  "ibge": "3143450",
+  "lat": -15.1706898,
+  "lon": -42.4944643
 }

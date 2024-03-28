@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "lat": -4.4154572,
+  "lon": -40.9081918
 }

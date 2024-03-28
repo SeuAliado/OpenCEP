@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2308203,
+  "lon": -43.7690142
 }

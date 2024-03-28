@@ -5,5 +5,7 @@
   "bairro": "Feitosa",
   "localidade": "Caririaçu",
   "uf": "CE",
-  "ibge": "2303204"
+  "ibge": "2303204",
+  "lat": -6.9657523,
+  "lon": -39.1827632
 }

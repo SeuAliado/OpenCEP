@@ -5,5 +5,7 @@
   "bairro": "Marco",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4319379,
+  "lon": -48.4619567
 }

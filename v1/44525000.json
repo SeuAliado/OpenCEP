@@ -5,5 +5,7 @@
   "bairro": "Argoim",
   "localidade": "Rafael Jambeiro",
   "uf": "BA",
-  "ibge": "2925956"
+  "ibge": "2925956",
+  "lat": -12.4057004,
+  "lon": -39.5010181
 }

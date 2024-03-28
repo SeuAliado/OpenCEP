@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonfim do Piauí",
   "uf": "PI",
-  "ibge": "2201929"
+  "ibge": "2201929",
+  "lat": -9.181348,
+  "lon": -42.8838509
 }

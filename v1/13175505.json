@@ -5,5 +5,7 @@
   "bairro": "Chácara Bela Vista",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8156023,
+  "lon": -47.2420241
 }

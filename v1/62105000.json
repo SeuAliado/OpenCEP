@@ -5,5 +5,7 @@
   "bairro": "São José do Torto",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.6870388,
+  "lon": -40.343394
 }

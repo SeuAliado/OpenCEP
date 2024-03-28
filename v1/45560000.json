@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra do Rocha",
   "uf": "BA",
-  "ibge": "2903102"
+  "ibge": "2903102",
+  "lat": -14.206624,
+  "lon": -39.6032544
 }

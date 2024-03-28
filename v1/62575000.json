@@ -5,5 +5,7 @@
   "bairro": "Prata",
   "localidade": "Bela Cruz",
   "uf": "CE",
-  "ibge": "2302305"
+  "ibge": "2302305",
+  "lat": -2.9408655,
+  "lon": -40.2772778
 }

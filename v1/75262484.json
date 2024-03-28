@@ -5,5 +5,7 @@
   "bairro": "Jardim Sevilha",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.7011625,
+  "lon": -49.1162878
 }

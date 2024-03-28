@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capitão Poço",
   "uf": "PA",
-  "ibge": "1502301"
+  "ibge": "1502301",
+  "lat": -1.7437356,
+  "lon": -47.058302
 }

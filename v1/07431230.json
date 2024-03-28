@@ -5,5 +5,7 @@
   "bairro": "Jardim Tupi",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4165894,
+  "lon": -46.3554784
 }

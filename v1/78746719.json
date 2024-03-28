@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Augusto Bortoli Razia",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4754622,
+  "lon": -54.645735
 }

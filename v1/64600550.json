@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -5.099367,
+  "lon": -42.7955052
 }

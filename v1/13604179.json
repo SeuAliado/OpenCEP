@@ -5,5 +5,7 @@
   "bairro": "Parque das Árvores",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.331205,
+  "lon": -47.3853039
 }

@@ -5,5 +5,7 @@
   "bairro": "Mutirão",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "lat": -10.883189,
+  "lon": -61.9036385
 }

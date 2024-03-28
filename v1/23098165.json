@@ -5,5 +5,7 @@
   "bairro": "Santíssimo",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9046563,
+  "lon": -43.1830917
 }

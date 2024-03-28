@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Colméia",
   "uf": "TO",
-  "ibge": "1716703"
+  "ibge": "1716703",
+  "lat": -8.740674,
+  "lon": -48.7483553
 }

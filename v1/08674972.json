@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.550825,
+  "lon": -46.314589
 }

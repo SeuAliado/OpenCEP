@@ -5,5 +5,7 @@
   "bairro": "Pesqueiro",
   "localidade": "Soure",
   "uf": "PA",
-  "ibge": "1507904"
+  "ibge": "1507904",
+  "lat": -0.7306736,
+  "lon": -48.5019599
 }

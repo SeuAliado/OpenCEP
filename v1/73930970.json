@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Simolândia",
   "uf": "GO",
-  "ibge": "5220686"
+  "ibge": "5220686",
+  "lat": -14.4780399,
+  "lon": -46.4823631
 }

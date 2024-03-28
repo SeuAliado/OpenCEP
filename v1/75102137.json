@@ -5,5 +5,7 @@
   "bairro": "Estância Vale das Brisas",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3607178,
+  "lon": -48.8984063
 }

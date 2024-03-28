@@ -5,5 +5,7 @@
   "bairro": "Jardim Ribeiro",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5899998,
+  "lon": -45.4403728
 }

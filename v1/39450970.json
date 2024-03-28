@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Varzelândia",
   "uf": "MG",
-  "ibge": "3170909"
+  "ibge": "3170909",
+  "lat": -15.7029039,
+  "lon": -44.0287438
 }

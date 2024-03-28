@@ -5,5 +5,7 @@
   "bairro": "Chácaras de Recreio Tropical",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1509153,
+  "lon": -50.469347
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Terezinha II",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3701041,
+  "lon": -46.9350263
 }

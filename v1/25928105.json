@@ -5,5 +5,7 @@
   "bairro": "Baía Branca (Guia de Pacobaíba)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.7114033,
+  "lon": -43.1707081
 }

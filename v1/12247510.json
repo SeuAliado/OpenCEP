@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Galo Branco",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1369397,
+  "lon": -45.7734888
 }

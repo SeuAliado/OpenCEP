@@ -5,5 +5,7 @@
   "bairro": "Jardim Kennedy",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2653161,
+  "lon": -48.3303328
 }

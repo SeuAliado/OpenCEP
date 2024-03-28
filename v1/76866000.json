@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Theobroma",
   "uf": "RO",
-  "ibge": "1101609"
+  "ibge": "1101609",
+  "lat": -10.1576141,
+  "lon": -62.3565156
 }

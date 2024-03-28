@@ -5,5 +5,7 @@
   "bairro": "Várzea do Palácio",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4676955,
+  "lon": -46.494056
 }

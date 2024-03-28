@@ -5,5 +5,7 @@
   "bairro": "Seriema",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7527733,
+  "lon": -47.9014472
 }

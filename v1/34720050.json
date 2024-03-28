@@ -5,5 +5,7 @@
   "bairro": "Borges",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8464089,
+  "lon": -43.8643671
 }

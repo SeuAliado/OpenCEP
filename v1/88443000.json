@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vidal Ramos",
   "uf": "SC",
-  "ibge": "4219200"
+  "ibge": "4219200",
+  "lat": -27.3891418,
+  "lon": -49.3598232
 }

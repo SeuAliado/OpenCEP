@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Baianópolis",
   "uf": "BA",
-  "ibge": "2902500"
+  "ibge": "2902500",
+  "lat": -12.3045562,
+  "lon": -44.5373392
 }

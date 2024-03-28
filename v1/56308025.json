@@ -5,5 +5,7 @@
   "bairro": "Atrás da Banca",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.4006433,
+  "lon": -40.5052336
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Iporanga",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4407013,
+  "lon": -46.5368141
 }

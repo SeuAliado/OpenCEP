@@ -5,5 +5,7 @@
   "bairro": "Setor Sul",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5643889,
+  "lon": -47.3421653
 }

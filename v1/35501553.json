@@ -5,5 +5,7 @@
   "bairro": "Geraldo Pereira",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1767806,
+  "lon": -44.9166786
 }

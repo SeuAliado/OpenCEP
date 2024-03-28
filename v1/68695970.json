@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tailândia",
   "uf": "PA",
-  "ibge": "1507953"
+  "ibge": "1507953",
+  "lat": -2.9450702,
+  "lon": -48.9541391
 }

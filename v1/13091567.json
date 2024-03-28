@@ -5,5 +5,7 @@
   "bairro": "Vila Trinta e Um de Março",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.875377,
+  "lon": -47.0266527
 }

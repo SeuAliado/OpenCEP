@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Lúcia dos Ypes",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5641346,
+  "lon": -46.8546732
 }

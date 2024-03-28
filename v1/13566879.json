@@ -5,5 +5,7 @@
   "bairro": "Tibaia de São Fernando",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9346505,
+  "lon": -47.8924781
 }

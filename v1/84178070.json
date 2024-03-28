@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Helena",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.8047632,
+  "lon": -50.000237
 }

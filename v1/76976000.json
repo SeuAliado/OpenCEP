@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Primavera de Rondônia",
   "uf": "RO",
-  "ibge": "1101476"
+  "ibge": "1101476",
+  "lat": -11.8298612,
+  "lon": -61.315855
 }

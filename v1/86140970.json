@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Primeiro de Maio",
   "uf": "PR",
-  "ibge": "4120507"
+  "ibge": "4120507",
+  "lat": -23.2681605,
+  "lon": -51.0486133
 }

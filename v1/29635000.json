@@ -5,5 +5,7 @@
   "bairro": "São Jorge do Oliveira",
   "localidade": "Brejetuba",
   "uf": "ES",
-  "ibge": "3201159"
+  "ibge": "3201159",
+  "lat": -20.1505554,
+  "lon": -41.293539
 }

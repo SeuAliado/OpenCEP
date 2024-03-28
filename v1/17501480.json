@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2259405,
+  "lon": -49.9506836
 }

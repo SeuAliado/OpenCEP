@@ -5,5 +5,7 @@
   "bairro": "Residencial San Marino",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.005128,
+  "lon": -45.5239738
 }

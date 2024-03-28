@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Alto de Itaici",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1276759,
+  "lon": -47.1768826
 }

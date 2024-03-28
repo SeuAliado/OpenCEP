@@ -5,5 +5,7 @@
   "bairro": "Pedregal",
   "localidade": "Tunas",
   "uf": "RS",
-  "ibge": "4322152"
+  "ibge": "4322152",
+  "lat": -29.0878572,
+  "lon": -52.9215836
 }

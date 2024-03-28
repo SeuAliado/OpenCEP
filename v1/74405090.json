@@ -5,5 +5,7 @@
   "bairro": "Setor Castelo Branco",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6725516,
+  "lon": -49.3180051
 }

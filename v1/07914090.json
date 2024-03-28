@@ -5,5 +5,7 @@
   "bairro": "Jardim Vagliengo",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2815499,
+  "lon": -46.7573627
 }

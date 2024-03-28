@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antonina do Norte",
   "uf": "CE",
-  "ibge": "2300804"
+  "ibge": "2300804",
+  "lat": -6.7438677,
+  "lon": -39.9606983
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cuparaque",
   "uf": "MG",
-  "ibge": "3120839"
+  "ibge": "3120839",
+  "lat": -18.9690589,
+  "lon": -41.0982464
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília de Valéria",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8468122,
+  "lon": -38.4462836
 }

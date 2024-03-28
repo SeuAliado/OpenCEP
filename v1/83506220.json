@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Luiza",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3453647,
+  "lon": -49.2760784
 }

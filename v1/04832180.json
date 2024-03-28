@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Cecília",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7352656,
+  "lon": -46.7146073
 }

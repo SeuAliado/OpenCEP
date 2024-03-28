@@ -5,5 +5,7 @@
   "bairro": "Conduru",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -7.0823951,
+  "lon": -41.4255827
 }

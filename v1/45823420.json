@@ -5,5 +5,7 @@
   "bairro": "Juca Rosa",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3398773,
+  "lon": -39.5754212
 }

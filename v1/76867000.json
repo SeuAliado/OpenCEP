@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vale do Anari",
   "uf": "RO",
-  "ibge": "1101757"
+  "ibge": "1101757",
+  "lat": -9.8364461,
+  "lon": -61.9345555
 }

@@ -5,5 +5,7 @@
   "bairro": "Polo Industrial",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5236764,
+  "lon": -46.9211725
 }

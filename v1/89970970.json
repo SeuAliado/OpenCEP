@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anchieta",
   "uf": "SC",
-  "ibge": "4200804"
+  "ibge": "4200804",
+  "lat": -26.2441878,
+  "lon": -52.6692195
 }

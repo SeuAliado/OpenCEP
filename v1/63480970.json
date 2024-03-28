@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguaretama",
   "uf": "CE",
-  "ibge": "2306702"
+  "ibge": "2306702",
+  "lat": -5.6143047,
+  "lon": -38.7666165
 }

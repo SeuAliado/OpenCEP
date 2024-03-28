@@ -5,5 +5,7 @@
   "bairro": "Vila Prudêncio",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2955761,
+  "lon": -40.3831826
 }

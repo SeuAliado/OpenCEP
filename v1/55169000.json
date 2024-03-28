@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -7.8777131,
+  "lon": -34.9139041
 }

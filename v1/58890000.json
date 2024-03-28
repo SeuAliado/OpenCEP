@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejo do Cruz",
   "uf": "PB",
-  "ibge": "2502805"
+  "ibge": "2502805",
+  "lat": -6.349459,
+  "lon": -37.4984299
 }

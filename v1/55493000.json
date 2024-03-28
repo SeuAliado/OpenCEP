@@ -5,5 +5,7 @@
   "bairro": "Ituguaçu",
   "localidade": "Altinho",
   "uf": "PE",
-  "ibge": "2600807"
+  "ibge": "2600807",
+  "lat": -8.4886174,
+  "lon": -36.170727
 }

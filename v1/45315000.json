@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Milagres",
   "uf": "BA",
-  "ibge": "2921302"
+  "ibge": "2921302",
+  "lat": -12.8659041,
+  "lon": -39.8609304
 }

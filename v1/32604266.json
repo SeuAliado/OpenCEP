@@ -5,5 +5,7 @@
   "bairro": "Jardim da Cidade",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9625168,
+  "lon": -44.1987925
 }

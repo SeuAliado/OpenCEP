@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itacarambi",
   "uf": "MG",
-  "ibge": "3132107"
+  "ibge": "3132107",
+  "lat": -15.0989099,
+  "lon": -44.0928137
 }

@@ -5,5 +5,7 @@
   "bairro": "Vargem do Cedro",
   "localidade": "São Martinho",
   "uf": "SC",
-  "ibge": "4217105"
+  "ibge": "4217105",
+  "lat": -28.1033265,
+  "lon": -48.9193508
 }

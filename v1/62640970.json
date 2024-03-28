@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pentecoste",
   "uf": "CE",
-  "ibge": "2310704"
+  "ibge": "2310704",
+  "lat": -3.7894752,
+  "lon": -39.2715346
 }

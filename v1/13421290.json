@@ -5,5 +5,7 @@
   "bairro": "Pompéia",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7588412,
+  "lon": -47.6000978
 }

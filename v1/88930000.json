@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Turvo",
   "uf": "SC",
-  "ibge": "4218806"
+  "ibge": "4218806",
+  "lat": -28.9278045,
+  "lon": -49.6820346
 }

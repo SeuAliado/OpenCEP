@@ -5,5 +5,7 @@
   "bairro": "Teresópolis",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1270471,
+  "lon": -38.4382187
 }

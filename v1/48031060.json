@@ -5,5 +5,7 @@
   "bairro": "Jardim Petrolar",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1506592,
+  "lon": -38.4176748
 }

@@ -5,5 +5,7 @@
   "bairro": "Campo Alegre de Minas",
   "localidade": "Resplendor",
   "uf": "MG",
-  "ibge": "3154309"
+  "ibge": "3154309",
+  "lat": -17.6268767,
+  "lon": -47.7755087
 }

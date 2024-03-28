@@ -5,5 +5,7 @@
   "bairro": "Fênix",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6569265,
+  "lon": -43.2384131
 }

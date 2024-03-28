@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iraí",
   "uf": "RS",
-  "ibge": "4310504"
+  "ibge": "4310504",
+  "lat": -27.1970361,
+  "lon": -53.2494168
 }

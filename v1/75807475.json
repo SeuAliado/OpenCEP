@@ -5,5 +5,7 @@
   "bairro": "Setor Alto das Rosas",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8804754,
+  "lon": -51.6996158
 }

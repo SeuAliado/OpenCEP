@@ -5,5 +5,7 @@
   "bairro": "Barra",
   "localidade": "Fortim",
   "uf": "CE",
-  "ibge": "2304459"
+  "ibge": "2304459",
+  "lat": -4.4346114,
+  "lon": -37.7876328
 }

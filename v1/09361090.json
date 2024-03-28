@@ -5,5 +5,7 @@
   "bairro": "Jardim Camila",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.693827,
+  "lon": -46.458407
 }

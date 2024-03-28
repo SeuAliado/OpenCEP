@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.6550295,
+  "lon": -38.8083174
 }

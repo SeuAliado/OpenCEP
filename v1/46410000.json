@@ -5,5 +5,7 @@
   "bairro": "Maniaçu",
   "localidade": "Caetité",
   "uf": "BA",
-  "ibge": "2905206"
+  "ibge": "2905206",
+  "lat": -13.8426102,
+  "lon": -42.3918694
 }

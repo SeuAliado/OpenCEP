@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque dos Sinos",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.2808909,
+  "lon": -45.9648288
 }

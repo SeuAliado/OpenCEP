@@ -5,5 +5,7 @@
   "bairro": "Jardim Barão de Limeira",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.577399,
+  "lon": -47.3727525
 }

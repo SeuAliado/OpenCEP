@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Floresta",
   "uf": "PE",
-  "ibge": "2605707"
+  "ibge": "2605707",
+  "lat": -8.6003241,
+  "lon": -38.5675856
 }

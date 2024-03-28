@@ -5,5 +5,7 @@
   "bairro": "Mangueira I",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6037269,
+  "lon": -46.9226222
 }

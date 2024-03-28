@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7546986,
+  "lon": -57.0945243
 }

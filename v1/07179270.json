@@ -5,5 +5,7 @@
   "bairro": "Jardim Ponte Alta I",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4052913,
+  "lon": -46.4182698
 }

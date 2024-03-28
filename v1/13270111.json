@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1371623,
+  "lon": -47.8074241
 }

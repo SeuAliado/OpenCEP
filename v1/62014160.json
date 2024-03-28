@@ -5,5 +5,7 @@
   "bairro": "Sumaré",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.7016736,
+  "lon": -40.366144
 }

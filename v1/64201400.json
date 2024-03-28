@@ -5,5 +5,7 @@
   "bairro": "Santa Isabel",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -4.8307962,
+  "lon": -42.1844175
 }

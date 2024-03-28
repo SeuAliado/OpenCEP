@@ -5,5 +5,7 @@
   "bairro": "Gramínea",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "lat": -22.1707007,
+  "lon": -46.6286202
 }

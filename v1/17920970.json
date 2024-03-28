@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Verde",
   "uf": "SP",
-  "ibge": "3534807"
+  "ibge": "3534807",
+  "lat": -21.488569,
+  "lon": -51.7102279
 }

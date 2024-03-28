@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacutinga",
   "uf": "RS",
-  "ibge": "4310900"
+  "ibge": "4310900",
+  "lat": -27.7284081,
+  "lon": -52.5383332
 }

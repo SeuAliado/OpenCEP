@@ -5,5 +5,7 @@
   "bairro": "Jardim São Camilo",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7327005,
+  "lon": -47.372542
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Gimenes",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3072281,
+  "lon": -49.0695985
 }

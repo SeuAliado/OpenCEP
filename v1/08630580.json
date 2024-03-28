@@ -5,5 +5,7 @@
   "bairro": "Parque Palmeiras",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6440945,
+  "lon": -46.3255893
 }

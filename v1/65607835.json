@@ -5,5 +5,7 @@
   "bairro": "Itapecuruzinho",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "lat": -4.868436,
+  "lon": -43.3466054
 }

@@ -5,5 +5,7 @@
   "bairro": "Tupã",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.877474,
+  "lon": -44.1439086
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amarante",
   "uf": "PI",
-  "ibge": "2200509"
+  "ibge": "2200509",
+  "lat": -6.2461178,
+  "lon": -42.8544786
 }

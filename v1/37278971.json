@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana do Jacaré",
   "uf": "MG",
-  "ibge": "3158805"
+  "ibge": "3158805",
+  "lat": -20.9007327,
+  "lon": -45.1300394
 }

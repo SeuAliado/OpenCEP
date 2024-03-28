@@ -5,5 +5,7 @@
   "bairro": "São Gabriel",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3403581,
+  "lon": -49.1799475
 }

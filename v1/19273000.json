@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rosana",
   "uf": "SP",
-  "ibge": "3544251"
+  "ibge": "3544251",
+  "lat": -22.5786418,
+  "lon": -53.0607901
 }

@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8177343,
+  "lon": -43.1710238
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4250515,
+  "lon": -46.4935523
 }

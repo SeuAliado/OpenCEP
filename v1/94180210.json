@@ -5,5 +5,7 @@
   "bairro": "Dona Mercedes",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9487255,
+  "lon": -50.9610996
 }

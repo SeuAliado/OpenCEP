@@ -5,5 +5,7 @@
   "bairro": "Sucatinga",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "lat": -4.2586515,
+  "lon": -38.0518025
 }

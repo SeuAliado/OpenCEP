@@ -5,5 +5,7 @@
   "bairro": "Geraldo Sampaio",
   "localidade": "São Miguel dos Campos",
   "uf": "AL",
-  "ibge": "2708600"
+  "ibge": "2708600",
+  "lat": -9.7843499,
+  "lon": -36.0978643
 }

@@ -5,5 +5,7 @@
   "bairro": "Milanez",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9134895,
+  "lon": -44.0321964
 }

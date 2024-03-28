@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Colorado",
   "uf": "RS",
-  "ibge": "4305603"
+  "ibge": "4305603",
+  "lat": -29.9542507,
+  "lon": -51.0916624
 }

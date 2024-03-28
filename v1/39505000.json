@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gameleiras",
   "uf": "MG",
-  "ibge": "3127339"
+  "ibge": "3127339",
+  "lat": -14.9831646,
+  "lon": -43.2908233
 }

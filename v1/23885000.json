@@ -5,5 +5,7 @@
   "bairro": "Conceição de Jacareí",
   "localidade": "Mangaratiba",
   "uf": "RJ",
-  "ibge": "3302601"
+  "ibge": "3302601",
+  "lat": -23.0306712,
+  "lon": -44.163136
 }

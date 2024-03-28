@@ -5,5 +5,7 @@
   "bairro": "Loteamento Multivias",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1913023,
+  "lon": -46.9776223
 }

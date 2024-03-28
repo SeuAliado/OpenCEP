@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4442191,
+  "lon": -51.427669
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5468974,
+  "lon": -48.542227
 }

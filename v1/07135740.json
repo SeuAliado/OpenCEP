@@ -5,5 +5,7 @@
   "bairro": "Vila Sítio dos Morros",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4331457,
+  "lon": -46.5125157
 }

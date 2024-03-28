@@ -5,5 +5,7 @@
   "bairro": "Vila Rosa",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.6094445,
+  "lon": -46.5242693
 }

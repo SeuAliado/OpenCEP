@@ -5,5 +5,7 @@
   "bairro": "Jardim São Gerônimo (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8164051,
+  "lon": -47.1614623
 }

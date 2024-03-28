@@ -5,5 +5,7 @@
   "bairro": "Altos de Jordanésia (Jordanésia)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.3382005,
+  "lon": -46.8303393
 }

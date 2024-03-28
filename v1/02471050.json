@@ -5,5 +5,7 @@
   "bairro": "Vila Basileia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4808715,
+  "lon": -46.6516178
 }

@@ -5,5 +5,7 @@
   "bairro": "Itapuã",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9499985,
+  "lon": -38.366174
 }

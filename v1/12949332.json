@@ -5,5 +5,7 @@
   "bairro": "Rancho Caioçara",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1890597,
+  "lon": -46.647651
 }

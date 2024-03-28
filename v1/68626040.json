@@ -5,5 +5,7 @@
   "bairro": "Célio Miranda",
   "localidade": "Paragominas",
   "uf": "PA",
-  "ibge": "1505502"
+  "ibge": "1505502",
+  "lat": -3.0024103,
+  "lon": -47.3554927
 }

@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0229829,
+  "lon": -44.0634688
 }

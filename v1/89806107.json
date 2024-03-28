@@ -5,5 +5,7 @@
   "bairro": "Presidente Médici",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.0937136,
+  "lon": -52.5853023
 }

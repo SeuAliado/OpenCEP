@@ -5,5 +5,7 @@
   "bairro": "Jardim Rio 400",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1463166,
+  "lon": -51.4021927
 }

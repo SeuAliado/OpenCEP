@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Efigênia",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5301871,
+  "lon": -47.4385924
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Ipiranga",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -20.0216812,
+  "lon": -44.212784
 }

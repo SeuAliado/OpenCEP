@@ -5,5 +5,7 @@
   "bairro": "Morro Chic",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4214125,
+  "lon": -45.4603481
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brasiléia",
   "uf": "AC",
-  "ibge": "1200104"
+  "ibge": "1200104",
+  "lat": -11.0117379,
+  "lon": -68.7477168
 }

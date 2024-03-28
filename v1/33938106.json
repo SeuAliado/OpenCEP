@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.835083,
+  "lon": -44.0399803
 }

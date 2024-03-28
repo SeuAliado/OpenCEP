@@ -5,5 +5,7 @@
   "bairro": "Ponta Grossa (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3102083,
+  "lon": -48.4726884
 }

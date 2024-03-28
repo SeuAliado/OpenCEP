@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapiratins",
   "uf": "TO",
-  "ibge": "1710904"
+  "ibge": "1710904",
+  "lat": -8.3128929,
+  "lon": -48.0406759
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rocha",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3111813,
+  "lon": -49.1089592
 }

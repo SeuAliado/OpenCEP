@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2071161,
+  "lon": -46.8568263
 }

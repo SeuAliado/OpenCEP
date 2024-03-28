@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jardim de Minas",
   "uf": "MG",
-  "ibge": "3107505"
+  "ibge": "3107505",
+  "lat": -21.945532,
+  "lon": -44.1150413
 }

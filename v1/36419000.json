@@ -5,5 +5,7 @@
   "bairro": "Lobo Leite",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "lat": -20.5026045,
+  "lon": -43.849869
 }

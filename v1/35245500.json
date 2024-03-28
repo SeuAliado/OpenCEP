@@ -5,5 +5,7 @@
   "bairro": "Ferruginha",
   "localidade": "Conselheiro Pena",
   "uf": "MG",
-  "ibge": "3118403"
+  "ibge": "3118403",
+  "lat": -19.1234939,
+  "lon": -41.4084033
 }

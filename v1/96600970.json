@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canguçu",
   "uf": "RS",
-  "ibge": "4304507"
+  "ibge": "4304507",
+  "lat": -31.3948819,
+  "lon": -52.6762942
 }

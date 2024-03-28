@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "lat": -21.4192558,
+  "lon": -50.0752346
 }

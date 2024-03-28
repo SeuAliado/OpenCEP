@@ -5,5 +5,7 @@
   "bairro": "Florença",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5040794,
+  "lon": -42.6359716
 }

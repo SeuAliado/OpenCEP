@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Laranjeiras",
   "uf": "PR",
-  "ibge": "4117057"
+  "ibge": "4117057",
+  "lat": -25.3067895,
+  "lon": -52.5402505
 }

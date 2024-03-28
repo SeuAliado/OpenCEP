@@ -5,5 +5,7 @@
   "bairro": "Triolândia",
   "localidade": "Ribeirão do Pinhal",
   "uf": "PR",
-  "ibge": "4121901"
+  "ibge": "4121901",
+  "lat": -23.563814,
+  "lon": -50.4100336
 }

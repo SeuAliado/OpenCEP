@@ -5,5 +5,7 @@
   "bairro": "Setor Colonial Sul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7988609,
+  "lon": -49.3205385
 }

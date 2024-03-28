@@ -5,5 +5,7 @@
   "bairro": "Jardim Marajá",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9403317,
+  "lon": -48.495997
 }

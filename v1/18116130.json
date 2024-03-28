@@ -5,5 +5,7 @@
   "bairro": "Vossoroca",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5470392,
+  "lon": -47.4547552
 }

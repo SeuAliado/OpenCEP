@@ -5,5 +5,7 @@
   "bairro": "São Simão do Rio Preto",
   "localidade": "Simonésia",
   "uf": "MG",
-  "ibge": "3167608"
+  "ibge": "3167608",
+  "lat": -19.9949711,
+  "lon": -42.0639615
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Inês",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4917022,
+  "lon": -46.4683669
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Domingos",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1384196,
+  "lon": -51.3768857
 }

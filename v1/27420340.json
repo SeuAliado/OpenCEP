@@ -5,5 +5,7 @@
   "bairro": "Jardim Polastri",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4129572,
+  "lon": -44.2672214
 }

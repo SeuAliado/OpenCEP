@@ -5,5 +5,7 @@
   "bairro": "Itacurussá",
   "localidade": "Mangaratiba",
   "uf": "RJ",
-  "ibge": "3302601"
+  "ibge": "3302601",
+  "lat": -22.9292796,
+  "lon": -43.9081869
 }

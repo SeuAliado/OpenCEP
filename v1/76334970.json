@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Jaraguá",
   "uf": "GO",
-  "ibge": "5211800"
+  "ibge": "5211800",
+  "lat": -15.7622549,
+  "lon": -49.3307689
 }

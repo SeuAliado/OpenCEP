@@ -5,5 +5,7 @@
   "bairro": "Jardim Popular",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5145528,
+  "lon": -46.5007113
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "União do Sul",
   "uf": "MT",
-  "ibge": "5108303"
+  "ibge": "5108303",
+  "lat": -11.6128802,
+  "lon": -54.3467152
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Senador José Porfírio",
   "uf": "PA",
-  "ibge": "1507805"
+  "ibge": "1507805",
+  "lat": -3.8519704,
+  "lon": -51.852273
 }

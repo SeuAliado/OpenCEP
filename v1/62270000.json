@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Hidrolândia",
   "uf": "CE",
-  "ibge": "2305209"
+  "ibge": "2305209",
+  "lat": -4.4099628,
+  "lon": -40.4059555
 }

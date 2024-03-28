@@ -5,5 +5,7 @@
   "bairro": "Nossa Chácara",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.946243,
+  "lon": -51.0400103
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Astolfo Dutra",
   "uf": "MG",
-  "ibge": "3104601"
+  "ibge": "3104601",
+  "lat": -21.3087815,
+  "lon": -42.8616642
 }

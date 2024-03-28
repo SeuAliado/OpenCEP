@@ -5,5 +5,7 @@
   "bairro": "Sítio de Recreio Mansões Bernardo Sayão",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6215465,
+  "lon": -49.2010655
 }

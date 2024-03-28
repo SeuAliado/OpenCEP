@@ -5,5 +5,7 @@
   "bairro": "Jaguaribe",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9339095,
+  "lon": -34.8668352
 }

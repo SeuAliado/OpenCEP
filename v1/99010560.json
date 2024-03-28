@@ -5,5 +5,7 @@
   "bairro": "Vila Rodrigues",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2585018,
+  "lon": -52.3907476
 }

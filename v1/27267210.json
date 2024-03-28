@@ -5,5 +5,7 @@
   "bairro": "Jardim Ponte Alta",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5344803,
+  "lon": -44.1287708
 }

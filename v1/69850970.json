@@ -5,5 +5,7 @@
   "bairro": "Platô do Piquiá",
   "localidade": "Boca do Acre",
   "uf": "AM",
-  "ibge": "1300706"
+  "ibge": "1300706",
+  "lat": -8.6931631,
+  "lon": -67.952363
 }

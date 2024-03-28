@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aparecida do Rio Negro",
   "uf": "TO",
-  "ibge": "1701101"
+  "ibge": "1701101",
+  "lat": -9.938143,
+  "lon": -48.0010282
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aurilândia",
   "uf": "GO",
-  "ibge": "5202601"
+  "ibge": "5202601",
+  "lat": -16.6777096,
+  "lon": -50.4645804
 }

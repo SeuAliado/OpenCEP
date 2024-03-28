@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeirão Grande",
   "uf": "SP",
-  "ibge": "3543253"
+  "ibge": "3543253",
+  "lat": -24.1099571,
+  "lon": -48.3751185
 }

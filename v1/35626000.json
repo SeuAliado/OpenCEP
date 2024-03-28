@@ -5,5 +5,7 @@
   "bairro": "Quartel de São João",
   "localidade": "Quartel Geral",
   "uf": "MG",
-  "ibge": "3153707"
+  "ibge": "3153707",
+  "lat": -19.3012308,
+  "lon": -45.5699949
 }

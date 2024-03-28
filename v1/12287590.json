@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1043438,
+  "lon": -45.7178892
 }

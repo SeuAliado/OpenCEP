@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília de Itapuã",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9456805,
+  "lon": -38.36536
 }

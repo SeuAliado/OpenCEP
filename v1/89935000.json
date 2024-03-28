@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Princesa",
   "uf": "SC",
-  "ibge": "4214151"
+  "ibge": "4214151",
+  "lat": -26.4446006,
+  "lon": -53.5999406
 }

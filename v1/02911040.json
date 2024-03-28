@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Delfina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5057441,
+  "lon": -46.7051943
 }

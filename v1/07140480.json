@@ -5,5 +5,7 @@
   "bairro": "Jardim Marilena",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4260206,
+  "lon": -46.4962737
 }

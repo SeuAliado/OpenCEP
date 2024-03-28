@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cubati",
   "uf": "PB",
-  "ibge": "2505006"
+  "ibge": "2505006",
+  "lat": -6.8651118,
+  "lon": -36.3509485
 }

@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7094564,
+  "lon": -43.5375189
 }

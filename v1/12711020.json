@@ -5,5 +5,7 @@
   "bairro": "Vila Expedicionários Cruzeirenses",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5676717,
+  "lon": -44.9640358
 }

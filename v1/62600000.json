@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapajé",
   "uf": "CE",
-  "ibge": "2306306"
+  "ibge": "2306306",
+  "lat": -3.741645,
+  "lon": -39.6105142
 }

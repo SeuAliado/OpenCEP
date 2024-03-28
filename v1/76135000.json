@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Moiporá",
   "uf": "GO",
-  "ibge": "5213400"
+  "ibge": "5213400",
+  "lat": -16.5084323,
+  "lon": -50.7208989
 }

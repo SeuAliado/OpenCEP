@@ -5,5 +5,7 @@
   "bairro": "Dom Feliciano",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9353834,
+  "lon": -50.9948024
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Alcides Perez Videira",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1037204,
+  "lon": -51.4338757
 }

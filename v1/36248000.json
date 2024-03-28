@@ -5,5 +5,7 @@
   "bairro": "Conceição do Formoso",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "lat": -17.930178,
+  "lon": -43.7908453
 }

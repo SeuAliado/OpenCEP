@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Imbé de Minas",
   "uf": "MG",
-  "ibge": "3130556"
+  "ibge": "3130556",
+  "lat": -19.5978162,
+  "lon": -41.9791516
 }

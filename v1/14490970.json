@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rifaina",
   "uf": "SP",
-  "ibge": "3543600"
+  "ibge": "3543600",
+  "lat": -20.0803422,
+  "lon": -47.4210709
 }

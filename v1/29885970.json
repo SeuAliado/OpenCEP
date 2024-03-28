@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ponto Belo",
   "uf": "ES",
-  "ibge": "3204252"
+  "ibge": "3204252",
+  "lat": -18.1200838,
+  "lon": -40.5406923
 }

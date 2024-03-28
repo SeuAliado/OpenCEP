@@ -5,5 +5,7 @@
   "bairro": "Jardim Eunice (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8115665,
+  "lon": -47.1624693
 }

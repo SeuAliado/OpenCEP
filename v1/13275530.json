@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Maison Blanche",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9882928,
+  "lon": -46.9820361
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jóia",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4148867,
+  "lon": -46.3610596
 }

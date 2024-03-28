@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Várzea da Palma",
   "uf": "MG",
-  "ibge": "3170800"
+  "ibge": "3170800",
+  "lat": -17.4725042,
+  "lon": -44.6254642
 }

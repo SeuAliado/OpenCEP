@@ -5,5 +5,7 @@
   "bairro": "Nova Amoreira",
   "localidade": "Marilândia do Sul",
   "uf": "PR",
-  "ibge": "4114906"
+  "ibge": "4114906",
+  "lat": -23.8381423,
+  "lon": -51.3201551
 }

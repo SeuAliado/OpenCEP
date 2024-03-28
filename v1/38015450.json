@@ -5,5 +5,7 @@
   "bairro": "Vila Frei Eugênio",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7505454,
+  "lon": -47.923217
 }

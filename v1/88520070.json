@@ -5,5 +5,7 @@
   "bairro": "Conta Dinheiro",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.7917004,
+  "lon": -50.3097687
 }

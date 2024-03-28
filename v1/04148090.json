@@ -5,5 +5,7 @@
   "bairro": "Bosque da Saúde",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.614535,
+  "lon": -46.6232041
 }

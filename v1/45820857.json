@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -12.0991063,
+  "lon": -45.7998103
 }

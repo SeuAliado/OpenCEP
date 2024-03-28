@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Areia",
   "uf": "PB",
-  "ibge": "2501104"
+  "ibge": "2501104",
+  "lat": -6.9686709,
+  "lon": -35.7002289
 }

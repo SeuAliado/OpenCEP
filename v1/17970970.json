@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Pau d'Alho",
   "uf": "SP",
-  "ibge": "3549300"
+  "ibge": "3549300",
+  "lat": -21.2688162,
+  "lon": -51.6661218
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Teodoro Sampaio",
   "uf": "BA",
-  "ibge": "2931400"
+  "ibge": "2931400",
+  "lat": -12.2923729,
+  "lon": -38.6318459
 }

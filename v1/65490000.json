@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anajatuba",
   "uf": "MA",
-  "ibge": "2100709"
+  "ibge": "2100709",
+  "lat": -3.2630662,
+  "lon": -44.6129885
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jari",
   "uf": "RS",
-  "ibge": "4311130"
+  "ibge": "4311130",
+  "lat": -29.2893886,
+  "lon": -54.2229636
 }

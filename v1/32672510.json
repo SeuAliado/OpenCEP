@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Jalila Conceição Pedrosa",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.929324,
+  "lon": -44.1750633
 }

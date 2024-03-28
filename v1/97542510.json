@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.793575,
+  "lon": -55.7959314
 }

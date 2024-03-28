@@ -5,5 +5,7 @@
   "bairro": "Vila Siria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5100966,
+  "lon": -46.4763258
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Estância",
   "uf": "SE",
-  "ibge": "2802106"
+  "ibge": "2802106",
+  "lat": -11.2707627,
+  "lon": -37.4391296
 }

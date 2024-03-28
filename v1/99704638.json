@@ -5,5 +5,7 @@
   "bairro": "Copas Verdes",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6265871,
+  "lon": -52.2423609
 }

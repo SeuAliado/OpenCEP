@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7886221,
+  "lon": -42.1444278
 }

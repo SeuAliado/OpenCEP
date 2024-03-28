@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "lat": -21.7608887,
+  "lon": -43.3553817
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aiquara",
   "uf": "BA",
-  "ibge": "2900603"
+  "ibge": "2900603",
+  "lat": -14.1311138,
+  "lon": -39.890594
 }

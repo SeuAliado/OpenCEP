@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeiro Gonçalves",
   "uf": "PI",
-  "ibge": "2208908"
+  "ibge": "2208908",
+  "lat": -7.9280744,
+  "lon": -45.3745358
 }

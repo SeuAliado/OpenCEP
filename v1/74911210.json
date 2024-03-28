@@ -5,5 +5,7 @@
   "bairro": "Vila Brasília",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7372355,
+  "lon": -49.2398374
 }

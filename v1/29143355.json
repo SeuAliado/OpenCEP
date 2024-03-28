@@ -5,5 +5,7 @@
   "bairro": "Rosa da Penha",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.348644,
+  "lon": -40.3801731
 }

@@ -5,5 +5,7 @@
   "bairro": "Camorim",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0015645,
+  "lon": -44.2630721
 }

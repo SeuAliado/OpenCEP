@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mundo Novo",
   "uf": "MS",
-  "ibge": "5005681"
+  "ibge": "5005681",
+  "lat": -23.935744,
+  "lon": -54.283336
 }

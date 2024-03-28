@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ressaquinha",
   "uf": "MG",
-  "ibge": "3154408"
+  "ibge": "3154408",
+  "lat": -21.0609876,
+  "lon": -43.7598002
 }

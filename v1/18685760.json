@@ -5,5 +5,7 @@
   "bairro": "Distrito Empresarial Luiz Trecenti",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.5570331,
+  "lon": -48.8179928
 }

@@ -5,5 +5,7 @@
   "bairro": "Gázea",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "lat": -4.5430933,
+  "lon": -40.71027
 }

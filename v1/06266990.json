@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.4911413,
+  "lon": -46.7896699
 }

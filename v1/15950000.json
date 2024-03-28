@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Adélia",
   "uf": "SP",
-  "ibge": "3545605"
+  "ibge": "3545605",
+  "lat": -21.243953,
+  "lon": -48.8045943
 }

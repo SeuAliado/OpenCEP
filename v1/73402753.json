@@ -5,5 +5,7 @@
   "bairro": "Condomínio Parque Mônaco (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6088531,
+  "lon": -47.6915684
 }

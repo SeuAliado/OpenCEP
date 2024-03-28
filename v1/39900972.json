@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Almenara",
   "uf": "MG",
-  "ibge": "3101706"
+  "ibge": "3101706",
+  "lat": -16.1749701,
+  "lon": -40.6934984
 }

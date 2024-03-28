@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marmeleiro",
   "uf": "PR",
-  "ibge": "4115408"
+  "ibge": "4115408",
+  "lat": -26.1476817,
+  "lon": -53.0272489
 }

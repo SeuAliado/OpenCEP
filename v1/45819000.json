@@ -5,5 +5,7 @@
   "bairro": "Caraiva",
   "localidade": "Porto Seguro",
   "uf": "BA",
-  "ibge": "2925303"
+  "ibge": "2925303",
+  "lat": -16.822435,
+  "lon": -39.1512353
 }

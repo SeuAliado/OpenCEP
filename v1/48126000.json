@@ -5,5 +5,7 @@
   "bairro": "Miranga",
   "localidade": "Pojuca",
   "uf": "BA",
-  "ibge": "2925204"
+  "ibge": "2925204",
+  "lat": -12.3527487,
+  "lon": -38.2180208
 }

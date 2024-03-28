@@ -5,5 +5,7 @@
   "bairro": "Campo Velho",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.9647058,
+  "lon": -39.0069574
 }

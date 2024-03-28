@@ -5,5 +5,7 @@
   "bairro": "Butiás",
   "localidade": "Tavares",
   "uf": "RS",
-  "ibge": "4321352"
+  "ibge": "4321352",
+  "lat": -30.117457,
+  "lon": -51.968157
 }

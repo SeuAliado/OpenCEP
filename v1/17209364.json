@@ -5,5 +5,7 @@
   "bairro": "Jardim Pires I",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2739093,
+  "lon": -48.532827
 }

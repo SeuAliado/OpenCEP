@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Filadélfia",
   "uf": "BA",
-  "ibge": "2910859"
+  "ibge": "2910859",
+  "lat": -10.6934581,
+  "lon": -40.1043057
 }

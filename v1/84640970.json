@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bituruna",
   "uf": "PR",
-  "ibge": "4102901"
+  "ibge": "4102901",
+  "lat": -26.158569,
+  "lon": -51.5542907
 }

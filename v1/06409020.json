@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5547568,
+  "lon": -46.850862
 }

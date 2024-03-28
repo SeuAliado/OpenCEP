@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Veneza",
   "uf": "SC",
-  "ibge": "4211603"
+  "ibge": "4211603",
+  "lat": -28.701244,
+  "lon": -49.5891233
 }

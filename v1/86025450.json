@@ -5,5 +5,7 @@
   "bairro": "Tietê",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2986779,
+  "lon": -51.167244
 }

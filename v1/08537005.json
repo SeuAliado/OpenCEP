@@ -5,5 +5,7 @@
   "bairro": "Vila Andrea",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.539506,
+  "lon": -46.3809639
 }

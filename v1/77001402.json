@@ -5,5 +5,7 @@
   "bairro": "Plano Diretor Norte",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.1686797,
+  "lon": -48.3476942
 }

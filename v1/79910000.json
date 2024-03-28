@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antônio João",
   "uf": "MS",
-  "ibge": "5000906"
+  "ibge": "5000906",
+  "lat": -22.1729241,
+  "lon": -55.9804173
 }

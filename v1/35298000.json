@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Belém",
   "uf": "MG",
-  "ibge": "3144672"
+  "ibge": "3144672",
+  "lat": -18.4929964,
+  "lon": -41.1110551
 }

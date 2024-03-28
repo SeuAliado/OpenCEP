@@ -5,5 +5,7 @@
   "bairro": "Vila Garcia",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5727158,
+  "lon": -48.5738287
 }

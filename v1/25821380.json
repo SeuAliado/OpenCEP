@@ -5,5 +5,7 @@
   "bairro": "Moura Brasil",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -18.7222067,
+  "lon": -44.9428778
 }

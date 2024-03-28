@@ -5,5 +5,7 @@
   "bairro": "Vila Zesuína",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4806673,
+  "lon": -46.3547843
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Sebastião",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8901366,
+  "lon": -47.2250807
 }

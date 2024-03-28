@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Marilândia",
   "uf": "MT",
-  "ibge": "5108857"
+  "ibge": "5108857",
+  "lat": -14.3648646,
+  "lon": -56.9722743
 }

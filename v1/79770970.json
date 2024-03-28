@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anaurilândia",
   "uf": "MS",
-  "ibge": "5000807"
+  "ibge": "5000807",
+  "lat": -21.476639,
+  "lon": -56.1550418
 }

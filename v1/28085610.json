@@ -5,5 +5,7 @@
   "bairro": "Parque Barão do Rio Branco",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "lat": -21.7370059,
+  "lon": -41.3146391
 }

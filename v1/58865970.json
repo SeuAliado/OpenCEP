@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Bento",
   "uf": "PB",
-  "ibge": "2513901"
+  "ibge": "2513901",
+  "lat": -6.4889597,
+  "lon": -37.4485357
 }

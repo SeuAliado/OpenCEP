@@ -5,5 +5,7 @@
   "bairro": "Jardim Floresta",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0000382,
+  "lon": -51.1600572
 }

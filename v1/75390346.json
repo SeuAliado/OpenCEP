@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6647396,
+  "lon": -49.4965063
 }

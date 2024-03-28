@@ -5,5 +5,7 @@
   "bairro": "Centro (Pachecos)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7847863,
+  "lon": -42.8247933
 }

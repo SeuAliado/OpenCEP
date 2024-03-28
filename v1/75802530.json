@@ -5,5 +5,7 @@
   "bairro": "Setor Cordeiro",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.9046315,
+  "lon": -51.731922
 }

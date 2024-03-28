@@ -5,5 +5,7 @@
   "bairro": "Jardim Parque Novo Mundo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5894805,
+  "lon": -47.3989625
 }

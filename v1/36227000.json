@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piedade do Rio Grande",
   "uf": "MG",
-  "ibge": "3150307"
+  "ibge": "3150307",
+  "lat": -21.4676623,
+  "lon": -44.1340439
 }

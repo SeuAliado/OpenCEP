@@ -5,5 +5,7 @@
   "bairro": "Serra Pelada",
   "localidade": "Afonso Cláudio",
   "uf": "ES",
-  "ibge": "3200102"
+  "ibge": "3200102",
+  "lat": -20.0030419,
+  "lon": -41.0296494
 }

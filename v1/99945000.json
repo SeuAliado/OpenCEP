@@ -5,5 +5,7 @@
   "bairro": "Vitória",
   "localidade": "Ibiaçá",
   "uf": "RS",
-  "ibge": "4309803"
+  "ibge": "4309803",
+  "lat": -28.1724933,
+  "lon": -51.7660027
 }

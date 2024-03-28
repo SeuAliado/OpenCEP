@@ -5,5 +5,7 @@
   "bairro": "Jardim Hokkaido",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.538212,
+  "lon": -46.9167344
 }

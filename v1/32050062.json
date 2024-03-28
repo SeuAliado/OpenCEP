@@ -5,5 +5,7 @@
   "bairro": "Vila Feliz",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8966693,
+  "lon": -43.9857219
 }

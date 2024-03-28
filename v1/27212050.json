@@ -5,5 +5,7 @@
   "bairro": "Vila Americana",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5011889,
+  "lon": -44.0766793
 }

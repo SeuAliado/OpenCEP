@@ -5,5 +5,7 @@
   "bairro": "Califórnia",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.9648336,
+  "lon": -39.0366142
 }

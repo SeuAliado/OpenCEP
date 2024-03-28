@@ -5,5 +5,7 @@
   "bairro": "Antônio Zanaga I",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.700043,
+  "lon": -47.2941274
 }

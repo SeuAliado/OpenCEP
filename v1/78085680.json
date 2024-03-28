@@ -5,5 +5,7 @@
   "bairro": "Coxipó",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6183429,
+  "lon": -55.9894057
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Sete de Setembro",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5872689,
+  "lon": -44.1929981
 }

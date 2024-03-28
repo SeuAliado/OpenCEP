@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sertânia",
   "uf": "PE",
-  "ibge": "2614105"
+  "ibge": "2614105",
+  "lat": -8.0688812,
+  "lon": -37.2687288
 }

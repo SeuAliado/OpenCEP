@@ -5,5 +5,7 @@
   "bairro": "Alto da Tubiba",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.0629928,
+  "lon": -37.2796263
 }

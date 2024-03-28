@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Wenceslau Braz",
   "uf": "MG",
-  "ibge": "3172202"
+  "ibge": "3172202",
+  "lat": -22.5361833,
+  "lon": -45.3631422
 }

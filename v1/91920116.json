@@ -5,5 +5,7 @@
   "bairro": "Camaquã",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.109496,
+  "lon": -51.2271486
 }

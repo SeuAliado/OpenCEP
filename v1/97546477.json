@@ -5,5 +5,7 @@
   "bairro": "Nilo Soares Gonçalves",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7898656,
+  "lon": -55.7693035
 }

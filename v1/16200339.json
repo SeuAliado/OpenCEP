@@ -5,5 +5,7 @@
   "bairro": "Vila Guarujá",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.3052234,
+  "lon": -50.3373296
 }

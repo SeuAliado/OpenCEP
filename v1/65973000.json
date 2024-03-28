@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Paraíso",
   "uf": "MA",
-  "ibge": "2111052"
+  "ibge": "2111052",
+  "lat": -6.4567354,
+  "lon": -47.0597706
 }

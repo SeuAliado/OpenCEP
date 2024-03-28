@@ -5,5 +5,7 @@
   "bairro": "Maia",
   "localidade": "Bananeiras",
   "uf": "PB",
-  "ibge": "2501500"
+  "ibge": "2501500",
+  "lat": -6.7481541,
+  "lon": -35.6248931
 }

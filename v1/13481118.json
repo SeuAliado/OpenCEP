@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santa Eulália",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6035251,
+  "lon": -47.4080922
 }

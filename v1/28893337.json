@@ -5,5 +5,7 @@
   "bairro": "Extensão do Bosque",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5271557,
+  "lon": -41.9505195
 }

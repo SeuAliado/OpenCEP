@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Osmar F Dutra",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.8107017,
+  "lon": -51.7227587
 }

@@ -5,5 +5,7 @@
   "bairro": "Forquilhas",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -28.6633703,
+  "lon": -49.4018335
 }

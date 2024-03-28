@@ -5,5 +5,7 @@
   "bairro": "Varjota",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7370225,
+  "lon": -38.4880414
 }

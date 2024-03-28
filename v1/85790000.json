@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capitão Leônidas Marques",
   "uf": "PR",
-  "ibge": "4104600"
+  "ibge": "4104600",
+  "lat": -25.4932041,
+  "lon": -53.6006032
 }

@@ -5,5 +5,7 @@
   "bairro": "Invernada do Matadouro",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.8008049,
+  "lon": -49.9910714
 }

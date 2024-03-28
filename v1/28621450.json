@@ -5,5 +5,7 @@
   "bairro": "Cascatinha",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.3263672,
+  "lon": -42.5522077
 }

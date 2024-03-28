@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maquiné",
   "uf": "RS",
-  "ibge": "4311775"
+  "ibge": "4311775",
+  "lat": -29.676696,
+  "lon": -50.2000805
 }

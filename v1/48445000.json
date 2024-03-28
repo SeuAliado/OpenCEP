@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Heliópolis",
   "uf": "BA",
-  "ibge": "2911857"
+  "ibge": "2911857",
+  "lat": -10.6793131,
+  "lon": -38.2822178
 }

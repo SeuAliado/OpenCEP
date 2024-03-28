@@ -5,5 +5,7 @@
   "bairro": "Vila Amélia",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6299679,
+  "lon": -43.2343937
 }

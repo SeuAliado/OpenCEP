@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salto do Jacuí",
   "uf": "RS",
-  "ibge": "4316451"
+  "ibge": "4316451",
+  "lat": -29.089264,
+  "lon": -53.2114115
 }

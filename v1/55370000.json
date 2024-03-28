@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Bento do Una",
   "uf": "PE",
-  "ibge": "2613008"
+  "ibge": "2613008",
+  "lat": -8.5236306,
+  "lon": -36.4431999
 }

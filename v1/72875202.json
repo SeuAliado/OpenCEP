@@ -5,5 +5,7 @@
   "bairro": "Chácaras Santa Maria",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.1086386,
+  "lon": -47.9631255
 }

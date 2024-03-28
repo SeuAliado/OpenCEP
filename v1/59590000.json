@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Bento do Norte",
   "uf": "RN",
-  "ibge": "2411601"
+  "ibge": "2411601",
+  "lat": -5.0626338,
+  "lon": -36.050092
 }

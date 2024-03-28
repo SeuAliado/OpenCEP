@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Panorama",
   "uf": "SP",
-  "ibge": "3535408"
+  "ibge": "3535408",
+  "lat": -21.3597045,
+  "lon": -51.8525976
 }

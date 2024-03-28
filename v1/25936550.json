@@ -5,5 +5,7 @@
   "bairro": "Sampaio (Vila Inhomirim)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.5904544,
+  "lon": -43.1888622
 }

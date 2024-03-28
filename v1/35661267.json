@@ -5,5 +5,7 @@
   "bairro": "Vila Benvinda",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8794225,
+  "lon": -44.5930081
 }

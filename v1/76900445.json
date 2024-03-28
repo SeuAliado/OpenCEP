@@ -5,5 +5,7 @@
   "bairro": "Vila de Rondônia",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "lat": -10.8709406,
+  "lon": -61.9740064
 }

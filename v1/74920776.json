@@ -5,5 +5,7 @@
   "bairro": "Parque Flamboyant",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7434864,
+  "lon": -49.2227355
 }

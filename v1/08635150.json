@@ -5,5 +5,7 @@
   "bairro": "Vila São Pedro",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6633898,
+  "lon": -46.3341705
 }

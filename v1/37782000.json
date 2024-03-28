@@ -5,5 +5,7 @@
   "bairro": "Laranjeiras de Caldas",
   "localidade": "Caldas",
   "uf": "MG",
-  "ibge": "3110301"
+  "ibge": "3110301",
+  "lat": -21.8262328,
+  "lon": -46.4042181
 }

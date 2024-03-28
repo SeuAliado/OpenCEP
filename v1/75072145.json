@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2821959,
+  "lon": -48.9363983
 }

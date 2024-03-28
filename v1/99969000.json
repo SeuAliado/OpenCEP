@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Água Santa",
   "uf": "RS",
-  "ibge": "4300059"
+  "ibge": "4300059",
+  "lat": -23.2651905,
+  "lon": -46.7379991
 }

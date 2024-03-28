@@ -5,5 +5,7 @@
   "bairro": "Saboeiro",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.95968,
+  "lon": -38.45598
 }

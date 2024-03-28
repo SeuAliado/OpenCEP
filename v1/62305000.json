@@ -5,5 +5,7 @@
   "bairro": "General Tibúrcio",
   "localidade": "Viçosa do Ceará",
   "uf": "CE",
-  "ibge": "2314102"
+  "ibge": "2314102",
+  "lat": -3.5665272,
+  "lon": -41.0904353
 }

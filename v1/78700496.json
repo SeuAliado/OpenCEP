@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4599416,
+  "lon": -54.620471
 }

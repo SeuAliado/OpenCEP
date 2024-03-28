@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7937208,
+  "lon": -55.7563692
 }

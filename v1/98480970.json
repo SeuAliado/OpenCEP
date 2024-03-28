@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alpestre",
   "uf": "RS",
-  "ibge": "4300505"
+  "ibge": "4300505",
+  "lat": -27.2494738,
+  "lon": -53.0350639
 }

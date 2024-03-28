@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Bonito",
   "uf": "PR",
-  "ibge": "4104055"
+  "ibge": "4104055",
+  "lat": -25.029923,
+  "lon": -52.994436
 }

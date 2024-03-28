@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Leal",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.874368,
+  "lon": -43.3296263
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1761932,
+  "lon": -45.8870579
 }

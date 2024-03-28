@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paim Filho",
   "uf": "RS",
-  "ibge": "4313607"
+  "ibge": "4313607",
+  "lat": -27.7215377,
+  "lon": -51.7889062
 }

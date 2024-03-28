@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bombinhas",
   "uf": "SC",
-  "ibge": "4202453"
+  "ibge": "4202453",
+  "lat": -27.1517242,
+  "lon": -48.4912218
 }

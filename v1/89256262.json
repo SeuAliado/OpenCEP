@@ -5,5 +5,7 @@
   "bairro": "Vila Lalau",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "lat": -26.4814419,
+  "lon": -49.060218
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque São José",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "lat": -30.8688867,
+  "lon": -55.4959041
 }

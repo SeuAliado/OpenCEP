@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Serra",
   "localidade": "Itatinga",
   "uf": "SP",
-  "ibge": "3523503"
+  "ibge": "3523503",
+  "lat": -23.0982178,
+  "lon": -48.6209281
 }

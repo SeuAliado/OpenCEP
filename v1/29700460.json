@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5330483,
+  "lon": -40.6213382
 }

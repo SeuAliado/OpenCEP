@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.7826545,
+  "lon": -43.4276907
 }

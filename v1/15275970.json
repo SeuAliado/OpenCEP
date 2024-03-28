@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monções",
   "uf": "SP",
-  "ibge": "3531001"
+  "ibge": "3531001",
+  "lat": -20.8523987,
+  "lon": -50.0919307
 }

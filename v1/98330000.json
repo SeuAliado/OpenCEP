@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sagrada Família",
   "uf": "RS",
-  "ibge": "4316428"
+  "ibge": "4316428",
+  "lat": -27.7191467,
+  "lon": -53.1426814
 }

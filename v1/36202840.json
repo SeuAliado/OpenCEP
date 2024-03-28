@@ -5,5 +5,7 @@
   "bairro": "Vale das Rosas",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2023402,
+  "lon": -43.7744314
 }

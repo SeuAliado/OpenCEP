@@ -5,5 +5,7 @@
   "bairro": "Beatriz",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9273394,
+  "lon": -44.0659646
 }

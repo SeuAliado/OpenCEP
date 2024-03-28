@@ -5,5 +5,7 @@
   "bairro": "João Paulo II",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3442244,
+  "lon": -39.3164794
 }

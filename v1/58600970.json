@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Luzia",
   "uf": "PB",
-  "ibge": "2513406"
+  "ibge": "2513406",
+  "lat": -6.8724413,
+  "lon": -36.9195655
 }

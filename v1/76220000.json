@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fazenda Nova",
   "uf": "GO",
-  "ibge": "5207600"
+  "ibge": "5207600",
+  "lat": -16.1975086,
+  "lon": -50.7208989
 }

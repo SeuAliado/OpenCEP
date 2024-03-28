@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro Avelino",
   "uf": "RN",
-  "ibge": "2409704"
+  "ibge": "2409704",
+  "lat": -5.4825919,
+  "lon": -36.3064595
 }

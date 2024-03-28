@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Espumoso",
   "uf": "RS",
-  "ibge": "4307500"
+  "ibge": "4307500",
+  "lat": -28.7245183,
+  "lon": -52.8444231
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro Cívico",
   "localidade": "Angélica",
   "uf": "MS",
-  "ibge": "5000856"
+  "ibge": "5000856",
+  "lat": -22.1627557,
+  "lon": -53.7713506
 }

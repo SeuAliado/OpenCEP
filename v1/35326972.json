@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rita de Minas",
   "uf": "MG",
-  "ibge": "3159357"
+  "ibge": "3159357",
+  "lat": -20.144639,
+  "lon": -44.8917563
 }

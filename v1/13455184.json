@@ -5,5 +5,7 @@
   "bairro": "Jardim Cândido Bertini",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7261427,
+  "lon": -47.3629642
 }

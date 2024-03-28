@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teresina de Goiás",
   "uf": "GO",
-  "ibge": "5221080"
+  "ibge": "5221080",
+  "lat": -13.6395646,
+  "lon": -47.2533007
 }

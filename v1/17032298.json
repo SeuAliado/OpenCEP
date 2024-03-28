@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Primavera",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.316767,
+  "lon": -49.033547
 }

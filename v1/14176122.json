@@ -5,5 +5,7 @@
   "bairro": "CINEP - Cidade Industrial e Empresarial",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1519766,
+  "lon": -48.0173321
 }

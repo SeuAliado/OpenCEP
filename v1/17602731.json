@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vereador Joaquim Ribeiro Porto",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.928304,
+  "lon": -50.495059
 }

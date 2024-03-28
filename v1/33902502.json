@@ -5,5 +5,7 @@
   "bairro": "Centro Comercial de Justinópolis",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7965432,
+  "lon": -44.0194767
 }

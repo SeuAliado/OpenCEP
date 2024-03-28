@@ -5,5 +5,7 @@
   "bairro": "Caetés I",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "lat": -7.918124,
+  "lon": -34.9233287
 }

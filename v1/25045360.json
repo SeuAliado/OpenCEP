@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Nova",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7219549,
+  "lon": -43.3160496
 }

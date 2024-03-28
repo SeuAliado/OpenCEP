@@ -5,5 +5,7 @@
   "bairro": "Rincão",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -18.6757035,
+  "lon": -41.9888411
 }

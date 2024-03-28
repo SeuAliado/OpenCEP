@@ -5,5 +5,7 @@
   "bairro": "Horto Vinhático",
   "localidade": "São Geraldo da Piedade",
   "uf": "MG",
-  "ibge": "3161601"
+  "ibge": "3161601",
+  "lat": -18.8960652,
+  "lon": -42.2953964
 }

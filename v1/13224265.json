@@ -5,5 +5,7 @@
   "bairro": "Jardim Itajaí",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2119189,
+  "lon": -46.8314142
 }

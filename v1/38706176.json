@@ -5,5 +5,7 @@
   "bairro": "Jardim Céu Azul",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.622486,
+  "lon": -46.5003613
 }

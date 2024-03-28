@@ -5,5 +5,7 @@
   "bairro": "Jardim Maringá",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0815781,
+  "lon": -52.4754964
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itanhangá",
   "uf": "MT",
-  "ibge": "5104542"
+  "ibge": "5104542",
+  "lat": -12.2365964,
+  "lon": -56.6508322
 }

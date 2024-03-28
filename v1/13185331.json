@@ -5,5 +5,7 @@
   "bairro": "Jardim Lírio",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.902206,
+  "lon": -47.178193
 }

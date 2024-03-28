@@ -5,5 +5,7 @@
   "bairro": "Campos",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9197642,
+  "lon": -41.767288
 }

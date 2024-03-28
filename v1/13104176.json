@@ -5,5 +5,7 @@
   "bairro": "Loteamento Caminhos de São Conrado (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9826219,
+  "lon": -47.1284208
 }

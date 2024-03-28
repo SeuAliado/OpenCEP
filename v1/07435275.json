@@ -5,5 +5,7 @@
   "bairro": "Arujá Country Club",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4259158,
+  "lon": -46.321723
 }

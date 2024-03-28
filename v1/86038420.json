@@ -5,5 +5,7 @@
   "bairro": "Jardim Guararapes",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3247622,
+  "lon": -51.1221908
 }

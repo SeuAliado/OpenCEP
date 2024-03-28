@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tupirama",
   "uf": "TO",
-  "ibge": "1721257"
+  "ibge": "1721257",
+  "lat": -8.9720858,
+  "lon": -48.1887507
 }

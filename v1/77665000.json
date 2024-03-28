@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barrolândia",
   "uf": "TO",
-  "ibge": "1703107"
+  "ibge": "1703107",
+  "lat": -9.8168593,
+  "lon": -48.8397403
 }

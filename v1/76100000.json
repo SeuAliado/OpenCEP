@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Luís de Montes Belos",
   "uf": "GO",
-  "ibge": "5220108"
+  "ibge": "5220108",
+  "lat": -16.521513,
+  "lon": -50.3730843
 }

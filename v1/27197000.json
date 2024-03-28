@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pinheiral",
   "uf": "RJ",
-  "ibge": "3303955"
+  "ibge": "3303955",
+  "lat": -22.5177053,
+  "lon": -44.0025719
 }

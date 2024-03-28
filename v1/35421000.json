@@ -5,5 +5,7 @@
   "bairro": "Passagem de Mariana",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "lat": -20.3798872,
+  "lon": -43.4185955
 }

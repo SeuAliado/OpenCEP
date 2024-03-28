@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Rosa",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6114185,
+  "lon": -43.2359056
 }

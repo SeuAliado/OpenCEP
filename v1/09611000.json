@@ -5,5 +5,7 @@
   "bairro": "Rudge Ramos",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.6650198,
+  "lon": -46.5692442
 }

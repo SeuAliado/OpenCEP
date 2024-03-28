@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Panelas",
   "uf": "PE",
-  "ibge": "2610202"
+  "ibge": "2610202",
+  "lat": -8.5999015,
+  "lon": -36.0467231
 }

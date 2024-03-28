@@ -5,5 +5,7 @@
   "bairro": "Chácara Coqueiro",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4452444,
+  "lon": -46.3634561
 }

@@ -5,5 +5,7 @@
   "bairro": "Várzea das Moças",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9025444,
+  "lon": -42.9882652
 }

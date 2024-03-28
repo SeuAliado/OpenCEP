@@ -5,5 +5,7 @@
   "bairro": "Pina",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0886114,
+  "lon": -34.8831764
 }

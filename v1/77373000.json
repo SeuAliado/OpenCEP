@@ -5,5 +5,7 @@
   "bairro": "Príncipe",
   "localidade": "Natividade",
   "uf": "TO",
-  "ibge": "1714203"
+  "ibge": "1714203",
+  "lat": -11.7201779,
+  "lon": -47.7340646
 }

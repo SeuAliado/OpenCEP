@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Setubinha",
   "uf": "MG",
-  "ibge": "3165552"
+  "ibge": "3165552",
+  "lat": -17.6784144,
+  "lon": -42.2953964
 }

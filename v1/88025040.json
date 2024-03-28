@@ -5,5 +5,7 @@
   "bairro": "Agronômica",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.5803587,
+  "lon": -48.5428154
 }

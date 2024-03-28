@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anadia",
   "uf": "AL",
-  "ibge": "2700201"
+  "ibge": "2700201",
+  "lat": -9.6854162,
+  "lon": -36.3059025
 }

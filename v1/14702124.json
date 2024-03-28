@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santo Antônio",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9634783,
+  "lon": -48.4719208
 }

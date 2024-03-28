@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8266311,
+  "lon": -47.2648355
 }

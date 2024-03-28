@@ -5,5 +5,7 @@
   "bairro": "Setor Morada do Sol",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7145201,
+  "lon": -49.0571631
 }

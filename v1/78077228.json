@@ -5,5 +5,7 @@
   "bairro": "Cachoeira das Garças",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6050508,
+  "lon": -56.042552
 }

@@ -5,5 +5,7 @@
   "bairro": "Columbia",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5220936,
+  "lon": -40.7027289
 }

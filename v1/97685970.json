@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itacurubi",
   "uf": "RS",
-  "ibge": "4310553"
+  "ibge": "4310553",
+  "lat": -28.7970592,
+  "lon": -55.2358472
 }

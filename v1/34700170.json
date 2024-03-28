@@ -5,5 +5,7 @@
   "bairro": "Novo Santa Inês",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8757417,
+  "lon": -43.8956928
 }

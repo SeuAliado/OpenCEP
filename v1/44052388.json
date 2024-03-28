@@ -5,5 +5,7 @@
   "bairro": "Lagoa Grande",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.2455917,
+  "lon": -38.940163
 }

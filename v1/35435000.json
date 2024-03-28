@@ -5,5 +5,7 @@
   "bairro": "Vau-Açu",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -20.5222748,
+  "lon": -42.8973126
 }

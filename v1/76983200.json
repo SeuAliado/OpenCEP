@@ -5,5 +5,7 @@
   "bairro": "S-35",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7266548,
+  "lon": -60.141292
 }

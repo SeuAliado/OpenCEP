@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa da Canoa",
   "uf": "AL",
-  "ibge": "2704104"
+  "ibge": "2704104",
+  "lat": -23.5972948,
+  "lon": -46.7411873
 }

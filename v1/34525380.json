@@ -5,5 +5,7 @@
   "bairro": "Fogo Apagou",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8959116,
+  "lon": -43.8128713
 }

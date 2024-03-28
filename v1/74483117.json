@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial João Bras 2",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6824849,
+  "lon": -49.3497637
 }

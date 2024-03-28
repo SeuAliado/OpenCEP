@@ -5,5 +5,7 @@
   "bairro": "Jardim Itamarati",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.856035,
+  "lon": -48.4639334
 }

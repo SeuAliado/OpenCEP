@@ -5,5 +5,7 @@
   "bairro": "Vila Ipê (Botujuru)",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.2278975,
+  "lon": -46.8048012
 }

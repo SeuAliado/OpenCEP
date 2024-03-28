@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7639113,
+  "lon": -47.9375211
 }

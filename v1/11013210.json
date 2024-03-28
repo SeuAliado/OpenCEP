@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.1838946,
+  "lon": -45.8846154
 }

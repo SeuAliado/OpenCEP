@@ -5,5 +5,7 @@
   "bairro": "Parque Laguna e Dourados",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7969949,
+  "lon": -43.3122472
 }

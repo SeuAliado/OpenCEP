@@ -5,5 +5,7 @@
   "bairro": "Santana (Ilha de Maré)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7914804,
+  "lon": -38.5324888
 }

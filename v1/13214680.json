@@ -5,5 +5,7 @@
   "bairro": "Residencial Terra da Uva",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1406082,
+  "lon": -46.9226138
 }

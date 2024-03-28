@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Branca",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4485722,
+  "lon": -47.4750915
 }

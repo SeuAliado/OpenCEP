@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0109986,
+  "lon": -51.1932729
 }

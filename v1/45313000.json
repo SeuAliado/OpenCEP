@@ -5,5 +5,7 @@
   "bairro": "Baixinha",
   "localidade": "Ubaíra",
   "uf": "BA",
-  "ibge": "2932101"
+  "ibge": "2932101",
+  "lat": -13.114034,
+  "lon": -39.5931325
 }

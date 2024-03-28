@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouro Verde de Minas",
   "uf": "MG",
-  "ibge": "3146206"
+  "ibge": "3146206",
+  "lat": -18.0687128,
+  "lon": -41.2710031
 }

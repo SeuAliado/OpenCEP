@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capelinha",
   "uf": "MG",
-  "ibge": "3112307"
+  "ibge": "3112307",
+  "lat": -17.6929945,
+  "lon": -42.5172107
 }

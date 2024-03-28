@@ -5,5 +5,7 @@
   "bairro": "Parque Brasília",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.181445,
+  "lon": -46.916514
 }

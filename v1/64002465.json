@@ -5,5 +5,7 @@
   "bairro": "Marquês",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.079072,
+  "lon": -42.8267519
 }

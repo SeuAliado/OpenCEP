@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morro do Chapéu do Piauí",
   "uf": "PI",
-  "ibge": "2206670"
+  "ibge": "2206670",
+  "lat": -3.7394733,
+  "lon": -42.3108387
 }

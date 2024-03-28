@@ -5,5 +5,7 @@
   "bairro": "Chácara São Carlos",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7644499,
+  "lon": -47.4033545
 }

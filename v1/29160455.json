@@ -5,5 +5,7 @@
   "bairro": "Manoel Plaza",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.2352387,
+  "lon": -40.270056
 }

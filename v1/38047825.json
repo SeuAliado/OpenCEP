@@ -5,5 +5,7 @@
   "bairro": "Chácaras Vila Real",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.742905,
+  "lon": -47.9403592
 }

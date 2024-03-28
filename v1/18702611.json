@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1133651,
+  "lon": -48.8962399
 }

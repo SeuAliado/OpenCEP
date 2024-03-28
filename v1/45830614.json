@@ -5,5 +5,7 @@
   "bairro": "Motor",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3727229,
+  "lon": -39.562834
 }

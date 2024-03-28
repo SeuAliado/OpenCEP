@@ -5,5 +5,7 @@
   "bairro": "Parque do Lago",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.6712181,
+  "lon": -56.0865811
 }

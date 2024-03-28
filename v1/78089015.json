@@ -5,5 +5,7 @@
   "bairro": "Jardim Passaredo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.643076,
+  "lon": -55.9976473
 }

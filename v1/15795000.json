@@ -5,5 +5,7 @@
   "bairro": "Esmeralda",
   "localidade": "Rubinéia",
   "uf": "SP",
-  "ibge": "3544509"
+  "ibge": "3544509",
+  "lat": -20.3006852,
+  "lon": -51.0516346
 }

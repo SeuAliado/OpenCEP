@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ilhota",
   "uf": "SC",
-  "ibge": "4207106"
+  "ibge": "4207106",
+  "lat": -26.8493716,
+  "lon": -48.8598651
 }

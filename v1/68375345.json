@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.1910968,
+  "lon": -52.2206771
 }

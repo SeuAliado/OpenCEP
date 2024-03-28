@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Rio Claro",
   "uf": "MT",
-  "ibge": "5107305"
+  "ibge": "5107305",
+  "lat": -13.4461925,
+  "lon": -56.7198975
 }

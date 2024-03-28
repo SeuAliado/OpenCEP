@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "lat": -3.5136889,
+  "lon": -39.4927218
 }

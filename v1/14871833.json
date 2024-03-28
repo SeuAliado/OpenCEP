@@ -5,5 +5,7 @@
   "bairro": "Jardim das Rosas",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2687415,
+  "lon": -48.3403133
 }

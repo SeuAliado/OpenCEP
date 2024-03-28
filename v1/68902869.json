@@ -5,5 +5,7 @@
   "bairro": "Buritizal",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "lat": 0.0162387,
+  "lon": -51.0683493
 }

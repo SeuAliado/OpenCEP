@@ -5,5 +5,7 @@
   "bairro": "Liberdade II",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9348981,
+  "lon": -44.0334612
 }

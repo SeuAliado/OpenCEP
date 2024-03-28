@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buriti de Goiás",
   "uf": "GO",
-  "ibge": "5203939"
+  "ibge": "5203939",
+  "lat": -16.1576461,
+  "lon": -50.4514913
 }

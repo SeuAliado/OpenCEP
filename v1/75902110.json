@@ -5,5 +5,7 @@
   "bairro": "Parque Betel",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7852915,
+  "lon": -50.9370223
 }

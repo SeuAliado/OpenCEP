@@ -5,5 +5,7 @@
   "bairro": "Jardim Nápoli II",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4736581,
+  "lon": -46.3033313
 }

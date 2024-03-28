@@ -5,5 +5,7 @@
   "bairro": "Vila Império",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6717217,
+  "lon": -46.6513094
 }

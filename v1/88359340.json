@@ -5,5 +5,7 @@
   "bairro": "Cedro Grande",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -27.1940855,
+  "lon": -48.9512986
 }

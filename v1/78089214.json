@@ -5,5 +5,7 @@
   "bairro": "Condomínio Flor do Cerrado",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6463796,
+  "lon": -55.9724661
 }

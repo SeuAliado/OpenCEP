@@ -5,5 +5,7 @@
   "bairro": "Jardim Floresta",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8063735,
+  "lon": -60.7052804
 }

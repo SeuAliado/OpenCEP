@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igarapé-Açu",
   "uf": "PA",
-  "ibge": "1503200"
+  "ibge": "1503200",
+  "lat": -1.1364957,
+  "lon": -47.6178263
 }

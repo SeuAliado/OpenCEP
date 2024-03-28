@@ -5,5 +5,7 @@
   "bairro": "Vila Santana I",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2038062,
+  "lon": -46.8648182
 }

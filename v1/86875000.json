@@ -5,5 +5,7 @@
   "bairro": "Alto Porã",
   "localidade": "Ivaiporã",
   "uf": "PR",
-  "ibge": "4111506"
+  "ibge": "4111506",
+  "lat": -24.3475434,
+  "lon": -51.6993007
 }

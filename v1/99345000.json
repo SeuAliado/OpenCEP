@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tio Hugo",
   "uf": "RS",
-  "ibge": "4321469"
+  "ibge": "4321469",
+  "lat": -28.5799496,
+  "lon": -52.5997165
 }

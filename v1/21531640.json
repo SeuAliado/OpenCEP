@@ -5,5 +5,7 @@
   "bairro": "Acari",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.7661273,
+  "lon": -43.3672012
 }

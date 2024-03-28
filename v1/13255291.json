@@ -5,5 +5,7 @@
   "bairro": "Jardim de Lucca",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0144718,
+  "lon": -46.8426326
 }

@@ -5,5 +5,7 @@
   "bairro": "Ponte Alta Norte (Gama)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.9813563,
+  "lon": -48.0431484
 }

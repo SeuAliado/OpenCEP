@@ -5,5 +5,7 @@
   "bairro": "Rio da Ilha",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "lat": -29.6110106,
+  "lon": -50.6935863
 }

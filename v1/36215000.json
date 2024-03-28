@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Bárbara do Tugúrio",
   "uf": "MG",
-  "ibge": "3157302"
+  "ibge": "3157302",
+  "lat": -21.2379954,
+  "lon": -43.5029884
 }

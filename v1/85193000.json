@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Pinhão",
   "uf": "PR",
-  "ibge": "4119301"
+  "ibge": "4119301",
+  "lat": -25.6948729,
+  "lon": -51.6540904
 }

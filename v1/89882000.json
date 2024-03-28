@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Planalto Alegre",
   "uf": "SC",
-  "ibge": "4213153"
+  "ibge": "4213153",
+  "lat": -27.0486597,
+  "lon": -52.8634197
 }

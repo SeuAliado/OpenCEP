@@ -5,5 +5,7 @@
   "bairro": "Jardim Eusonia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4621219,
+  "lon": -46.5540323
 }

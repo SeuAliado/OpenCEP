@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coroados",
   "uf": "SP",
-  "ibge": "3512506"
+  "ibge": "3512506",
+  "lat": -21.2867332,
+  "lon": -50.3403401
 }

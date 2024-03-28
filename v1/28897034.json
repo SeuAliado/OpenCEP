@@ -5,5 +5,7 @@
   "bairro": "Terra Firme",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5020612,
+  "lon": -41.9140028
 }

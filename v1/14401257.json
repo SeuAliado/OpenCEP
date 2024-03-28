@@ -5,5 +5,7 @@
   "bairro": "Residencial Baldassari",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5308896,
+  "lon": -47.3908395
 }

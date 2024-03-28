@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "lat": -21.7650099,
+  "lon": -41.317411
 }

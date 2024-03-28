@@ -5,5 +5,7 @@
   "bairro": "Ouro Branco",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.7096608,
+  "lon": -51.1301472
 }

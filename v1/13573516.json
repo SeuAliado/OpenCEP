@@ -5,5 +5,7 @@
   "bairro": "Parque Novo Mundo",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -23.5361624,
+  "lon": -46.6048019
 }

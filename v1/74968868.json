@@ -5,5 +5,7 @@
   "bairro": "Residencial Maria Luiza",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7951806,
+  "lon": -49.2474131
 }

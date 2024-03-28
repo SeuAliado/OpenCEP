@@ -5,5 +5,7 @@
   "bairro": "Gabiroba",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6524043,
+  "lon": -43.2064332
 }

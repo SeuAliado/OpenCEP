@@ -5,5 +5,7 @@
   "bairro": "Vila Borghesi",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.546537,
+  "lon": -47.1293117
 }

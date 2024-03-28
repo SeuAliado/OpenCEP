@@ -5,5 +5,7 @@
   "bairro": "Village do Sol",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5303255,
+  "lon": -44.1526392
 }

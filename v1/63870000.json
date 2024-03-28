@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "lat": -5.1260161,
+  "lon": -39.7309954
 }

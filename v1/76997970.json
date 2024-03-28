@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerejeiras",
   "uf": "RO",
-  "ibge": "1100056"
+  "ibge": "1100056",
+  "lat": -13.185337,
+  "lon": -60.8208029
 }

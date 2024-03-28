@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco do Piauí",
   "uf": "PI",
-  "ibge": "2209708"
+  "ibge": "2209708",
+  "lat": -8.1386711,
+  "lon": -41.1326921
 }

@@ -5,5 +5,7 @@
   "bairro": "Penha",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.883551,
+  "lon": -41.99003
 }

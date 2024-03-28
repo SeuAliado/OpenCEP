@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Virginópolis",
   "uf": "MG",
-  "ibge": "3171808"
+  "ibge": "3171808",
+  "lat": -18.7861255,
+  "lon": -42.6880552
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mangaratiba",
   "uf": "RJ",
-  "ibge": "3302601"
+  "ibge": "3302601",
+  "lat": -22.9606399,
+  "lon": -44.0412429
 }

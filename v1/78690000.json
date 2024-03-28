@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Xavantina",
   "uf": "MT",
-  "ibge": "5106257"
+  "ibge": "5106257",
+  "lat": -14.6644014,
+  "lon": -52.3584778
 }

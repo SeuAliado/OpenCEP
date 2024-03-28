@@ -5,5 +5,7 @@
   "bairro": "Recreio Campestre Idanorma",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7870128,
+  "lon": -48.2249721
 }

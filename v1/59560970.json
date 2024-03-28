@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poço Branco",
   "uf": "RN",
-  "ibge": "2410108"
+  "ibge": "2410108",
+  "lat": -5.6194672,
+  "lon": -35.6588644
 }

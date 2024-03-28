@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Alegre",
   "uf": "RN",
-  "ibge": "2407807"
+  "ibge": "2407807",
+  "lat": -6.0710298,
+  "lon": -35.325654
 }

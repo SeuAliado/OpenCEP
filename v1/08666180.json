@@ -5,5 +5,7 @@
   "bairro": "Chácaras Reunidas Guaio",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5737221,
+  "lon": -46.3117309
 }

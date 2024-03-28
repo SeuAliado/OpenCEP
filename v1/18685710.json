@@ -5,5 +5,7 @@
   "bairro": "Jardim das Nações",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.5745243,
+  "lon": -48.817795
 }

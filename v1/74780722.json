@@ -5,5 +5,7 @@
   "bairro": "Residencial São Leopoldo",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6489162,
+  "lon": -49.1773218
 }

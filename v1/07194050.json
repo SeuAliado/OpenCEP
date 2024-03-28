@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.442241,
+  "lon": -46.5109039
 }

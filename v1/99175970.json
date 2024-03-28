@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nicolau Vergueiro",
   "uf": "RS",
-  "ibge": "4312674"
+  "ibge": "4312674",
+  "lat": -28.5361436,
+  "lon": -52.4595336
 }

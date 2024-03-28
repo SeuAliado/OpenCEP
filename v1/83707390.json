@@ -5,5 +5,7 @@
   "bairro": "Thomaz Coelho",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5557955,
+  "lon": -49.3536034
 }

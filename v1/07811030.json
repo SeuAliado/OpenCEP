@@ -5,5 +5,7 @@
   "bairro": "Chácaras das Colinas",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3156841,
+  "lon": -46.7720119
 }

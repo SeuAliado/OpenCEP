@@ -5,5 +5,7 @@
   "bairro": "Mar Y Lago",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4984495,
+  "lon": -41.92033
 }

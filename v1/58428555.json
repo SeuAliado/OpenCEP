@@ -5,5 +5,7 @@
   "bairro": "Pedregal",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2245448,
+  "lon": -35.9068089
 }

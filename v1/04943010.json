@@ -5,5 +5,7 @@
   "bairro": "Jardim Turquesa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7021144,
+  "lon": -46.7851469
 }

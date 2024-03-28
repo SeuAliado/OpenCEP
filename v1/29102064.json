@@ -5,5 +5,7 @@
   "bairro": "Praia de Itaparica",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3599153,
+  "lon": -40.2969559
 }

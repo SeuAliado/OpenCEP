@@ -5,5 +5,7 @@
   "bairro": "Chácara Freitas",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4432042,
+  "lon": -46.8236718
 }

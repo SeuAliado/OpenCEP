@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Relvado",
   "uf": "RS",
-  "ibge": "4315453"
+  "ibge": "4315453",
+  "lat": -29.1079409,
+  "lon": -52.0713739
 }

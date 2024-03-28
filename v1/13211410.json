@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Teresa",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2025524,
+  "lon": -46.913655
 }

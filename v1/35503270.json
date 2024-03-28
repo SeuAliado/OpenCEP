@@ -5,5 +5,7 @@
   "bairro": "Residencial Lagoa dos Mandarins",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1096486,
+  "lon": -44.8574283
 }

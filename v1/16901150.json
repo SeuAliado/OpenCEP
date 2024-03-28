@@ -5,5 +5,7 @@
   "bairro": "Stella Maris",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.890953,
+  "lon": -51.3776491
 }

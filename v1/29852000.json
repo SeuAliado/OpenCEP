@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "lat": -18.3958479,
+  "lon": -41.1276763
 }

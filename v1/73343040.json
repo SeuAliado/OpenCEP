@@ -5,5 +5,7 @@
   "bairro": "Setor Residencial Oeste (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6127659,
+  "lon": -47.6414134
 }

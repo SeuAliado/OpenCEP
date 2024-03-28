@@ -5,5 +5,7 @@
   "bairro": "Itabaiana",
   "localidade": "Mucurici",
   "uf": "ES",
-  "ibge": "3203601"
+  "ibge": "3203601",
+  "lat": -17.9391546,
+  "lon": -40.544897
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nomura",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6070421,
+  "lon": -46.9171166
 }

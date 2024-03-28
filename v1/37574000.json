@@ -5,5 +5,7 @@
   "bairro": "São José do Mato Dentro",
   "localidade": "Ouro Fino",
   "uf": "MG",
-  "ibge": "3146008"
+  "ibge": "3146008",
+  "lat": -22.2783549,
+  "lon": -46.3720393
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tasso Fragoso",
   "uf": "MA",
-  "ibge": "2112001"
+  "ibge": "2112001",
+  "lat": -8.4704641,
+  "lon": -45.7446179
 }

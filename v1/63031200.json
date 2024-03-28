@@ -5,5 +5,7 @@
   "bairro": "Tiradentes",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.235751,
+  "lon": -39.2872827
 }

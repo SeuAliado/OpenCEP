@@ -5,5 +5,7 @@
   "bairro": "Pedras Brancas",
   "localidade": "São Marcos",
   "uf": "RS",
-  "ibge": "4319000"
+  "ibge": "4319000",
+  "lat": -29.0210587,
+  "lon": -51.078135
 }

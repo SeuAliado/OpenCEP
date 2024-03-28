@@ -5,5 +5,7 @@
   "bairro": "Chácaras Monte Carlo",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6584895,
+  "lon": -46.3513
 }

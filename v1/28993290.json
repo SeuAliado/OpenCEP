@@ -5,5 +5,7 @@
   "bairro": "Bicuíba (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8753986,
+  "lon": -42.4074745
 }

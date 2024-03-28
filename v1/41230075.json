@@ -5,5 +5,7 @@
   "bairro": "Granjas Rurais Presidente Vargas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9183952,
+  "lon": -38.4588055
 }

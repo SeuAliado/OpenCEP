@@ -5,5 +5,7 @@
   "bairro": "Jardim Marivan",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7619859,
+  "lon": -48.1648831
 }

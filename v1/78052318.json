@@ -5,5 +5,7 @@
   "bairro": "Altos da Serra I",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5802408,
+  "lon": -56.0280274
 }

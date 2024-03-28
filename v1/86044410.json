@@ -5,5 +5,7 @@
   "bairro": "Jardim União da Vitória II",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3895378,
+  "lon": -51.1303426
 }

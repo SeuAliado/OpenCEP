@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Divina Pastora",
   "uf": "SE",
-  "ibge": "2802007"
+  "ibge": "2802007",
+  "lat": -10.6785949,
+  "lon": -37.1508942
 }

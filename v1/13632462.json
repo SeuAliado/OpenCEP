@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0158613,
+  "lon": -47.4155901
 }

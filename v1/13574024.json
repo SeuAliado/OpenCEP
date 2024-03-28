@@ -5,5 +5,7 @@
   "bairro": "Vila Pelicano",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0251063,
+  "lon": -47.8957631
 }

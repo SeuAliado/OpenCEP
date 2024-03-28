@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Formoso",
   "uf": "MG",
-  "ibge": "3143153"
+  "ibge": "3143153",
+  "lat": -16.868834,
+  "lon": -41.2558719
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iati",
   "uf": "PE",
-  "ibge": "2606507"
+  "ibge": "2606507",
+  "lat": -9.0423673,
+  "lon": -36.8511018
 }

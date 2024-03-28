@@ -5,5 +5,7 @@
   "bairro": "Quartéis",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.746385,
+  "lon": -43.4949401
 }

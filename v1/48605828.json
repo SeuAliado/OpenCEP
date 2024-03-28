@@ -5,5 +5,7 @@
   "bairro": "Sal Torrado",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.3848369,
+  "lon": -38.2249154
 }

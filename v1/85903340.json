@@ -5,5 +5,7 @@
   "bairro": "Tocantins",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7148338,
+  "lon": -53.761316
 }

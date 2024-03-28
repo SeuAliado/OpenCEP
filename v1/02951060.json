@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora do Retiro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4754322,
+  "lon": -46.7220718
 }

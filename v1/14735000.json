@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Severínia",
   "uf": "SP",
-  "ibge": "3551900"
+  "ibge": "3551900",
+  "lat": -20.8062535,
+  "lon": -48.8090572
 }

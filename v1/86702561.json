@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Pina",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.399845,
+  "lon": -51.451607
 }

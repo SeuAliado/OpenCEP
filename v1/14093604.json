@@ -5,5 +5,7 @@
   "bairro": "Jardim das Mansões",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1599978,
+  "lon": -47.7894032
 }

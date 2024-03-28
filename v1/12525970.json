@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Potim",
   "uf": "SP",
-  "ibge": "3540754"
+  "ibge": "3540754",
+  "lat": -22.8393645,
+  "lon": -45.2548683
 }

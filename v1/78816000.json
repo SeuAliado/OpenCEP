@@ -5,5 +5,7 @@
   "bairro": "Santa Elvira",
   "localidade": "Juscimeira",
   "uf": "MT",
-  "ibge": "5105200"
+  "ibge": "5105200",
+  "lat": -16.1606326,
+  "lon": -54.7975202
 }

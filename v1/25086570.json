@@ -5,5 +5,7 @@
   "bairro": "Parque das Missões",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.8228526,
+  "lon": -43.2841329
 }

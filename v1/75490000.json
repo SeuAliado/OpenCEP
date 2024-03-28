@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco de Goiás",
   "uf": "GO",
-  "ibge": "5219902"
+  "ibge": "5219902",
+  "lat": -15.9260943,
+  "lon": -49.2609655
 }

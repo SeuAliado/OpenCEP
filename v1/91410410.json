@@ -5,5 +5,7 @@
   "bairro": "Jardim do Salso",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0479122,
+  "lon": -51.1663445
 }

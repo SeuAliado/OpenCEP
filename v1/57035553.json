@@ -5,5 +5,7 @@
   "bairro": "Jatiúca",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6423638,
+  "lon": -35.7053383
 }

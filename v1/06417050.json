@@ -5,5 +5,7 @@
   "bairro": "Vila São Silvestre",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4860042,
+  "lon": -46.8852469
 }

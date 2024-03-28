@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Primavera",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8577143,
+  "lon": -48.4367968
 }

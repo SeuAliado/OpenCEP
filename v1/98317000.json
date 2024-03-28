@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Palmeira das Missões",
   "uf": "RS",
-  "ibge": "4313706"
+  "ibge": "4313706",
+  "lat": -27.7925791,
+  "lon": -53.3425428
 }

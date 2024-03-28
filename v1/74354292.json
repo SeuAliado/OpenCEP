@@ -5,5 +5,7 @@
   "bairro": "Setor Grajaú",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.763199,
+  "lon": -49.3648249
 }

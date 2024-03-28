@@ -5,5 +5,7 @@
   "bairro": "Redenção",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.1392694,
+  "lon": -37.3520903
 }

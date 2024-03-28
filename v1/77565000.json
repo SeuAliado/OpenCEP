@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rita do Tocantins",
   "uf": "TO",
-  "ibge": "1718899"
+  "ibge": "1718899",
+  "lat": -10.8621444,
+  "lon": -48.9165477
 }

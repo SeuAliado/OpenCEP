@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7223823,
+  "lon": -49.0746929
 }

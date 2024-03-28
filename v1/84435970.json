@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guamiranga",
   "uf": "PR",
-  "ibge": "4108957"
+  "ibge": "4108957",
+  "lat": -25.1898214,
+  "lon": -50.8085817
 }

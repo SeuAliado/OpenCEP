@@ -5,5 +5,7 @@
   "bairro": "Rosa Machado",
   "localidade": "Piraí",
   "uf": "RJ",
-  "ibge": "3304003"
+  "ibge": "3304003",
+  "lat": -22.6195689,
+  "lon": -43.8736405
 }

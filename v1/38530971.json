@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Douradoquara",
   "uf": "MG",
-  "ibge": "3123502"
+  "ibge": "3123502",
+  "lat": -18.4318163,
+  "lon": -47.6082877
 }

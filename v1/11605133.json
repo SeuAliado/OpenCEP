@@ -5,5 +5,7 @@
   "bairro": "Praia do Arrastão",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7725183,
+  "lon": -45.4063496
 }

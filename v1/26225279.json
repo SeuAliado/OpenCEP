@@ -5,5 +5,7 @@
   "bairro": "Essolandia",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7639691,
+  "lon": -43.4372168
 }

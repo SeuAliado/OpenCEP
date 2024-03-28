@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibititá",
   "uf": "BA",
-  "ibge": "2913101"
+  "ibge": "2913101",
+  "lat": -11.707766,
+  "lon": -41.8705046
 }

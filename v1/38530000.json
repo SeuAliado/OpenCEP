@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Douradoquara",
   "uf": "MG",
-  "ibge": "3123502"
+  "ibge": "3123502",
+  "lat": -18.4442911,
+  "lon": -47.5864964
 }

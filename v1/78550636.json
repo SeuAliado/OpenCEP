@@ -5,5 +5,7 @@
   "bairro": "Jardim do Ouro",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.809907,
+  "lon": -55.4879012
 }

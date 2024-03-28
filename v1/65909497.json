@@ -5,5 +5,7 @@
   "bairro": "Lagoa Verde",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5000415,
+  "lon": -47.4941453
 }

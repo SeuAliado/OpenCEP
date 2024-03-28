@@ -5,5 +5,7 @@
   "bairro": "Chácaras Colorado",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2592916,
+  "lon": -48.9522078
 }

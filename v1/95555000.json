@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capão da Canoa",
   "uf": "RS",
-  "ibge": "4304630"
+  "ibge": "4304630",
+  "lat": -29.6633775,
+  "lon": -49.998236
 }

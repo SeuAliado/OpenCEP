@@ -5,5 +5,7 @@
   "bairro": "Jacarecoara",
   "localidade": "Cascavel",
   "uf": "CE",
-  "ibge": "2303501"
+  "ibge": "2303501",
+  "lat": -4.1301551,
+  "lon": -38.2415499
 }

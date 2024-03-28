@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional - Setor D",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5528065,
+  "lon": -46.9399027
 }

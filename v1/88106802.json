@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.6087991,
+  "lon": -48.6379389
 }

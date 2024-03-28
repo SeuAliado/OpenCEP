@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3999356,
+  "lon": -40.0670274
 }

@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1559444,
+  "lon": -40.1896655
 }

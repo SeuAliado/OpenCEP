@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Agronômica",
   "uf": "SC",
-  "ibge": "4200309"
+  "ibge": "4200309",
+  "lat": -27.264728,
+  "lon": -49.7112246
 }

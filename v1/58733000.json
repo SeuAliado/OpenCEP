@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quixabá",
   "uf": "PB",
-  "ibge": "2512606"
+  "ibge": "2512606",
+  "lat": -7.0498661,
+  "lon": -37.1044125
 }

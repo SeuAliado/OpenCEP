@@ -5,5 +5,7 @@
   "bairro": "Socorro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6683347,
+  "lon": -46.7233175
 }

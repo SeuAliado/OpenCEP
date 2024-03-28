@@ -5,5 +5,7 @@
   "bairro": "Iraci",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1353547,
+  "lon": -58.4463625
 }

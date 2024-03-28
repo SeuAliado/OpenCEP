@@ -5,5 +5,7 @@
   "bairro": "Jardim das Orquídeas",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7241448,
+  "lon": -47.3937302
 }

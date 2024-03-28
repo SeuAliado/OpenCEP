@@ -5,5 +5,7 @@
   "bairro": "Residencial Alvorada",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.9001736,
+  "lon": -63.0459045
 }

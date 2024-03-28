@@ -5,5 +5,7 @@
   "bairro": "Deolinda Laura",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7294441,
+  "lon": -47.9354097
 }

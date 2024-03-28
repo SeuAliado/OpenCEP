@@ -5,5 +5,7 @@
   "bairro": "Cidade Satélite",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8459603,
+  "lon": -60.7513446
 }

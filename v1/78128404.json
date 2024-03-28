@@ -5,5 +5,7 @@
   "bairro": "Costa Verde",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.677615,
+  "lon": -56.1135124
 }

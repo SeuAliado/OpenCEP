@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Água Branca",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7695441,
+  "lon": -47.6295926
 }

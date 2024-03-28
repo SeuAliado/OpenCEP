@@ -5,5 +5,7 @@
   "bairro": "Jardim Meriti",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7844232,
+  "lon": -43.3739093
 }

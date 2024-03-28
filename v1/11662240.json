@@ -5,5 +5,7 @@
   "bairro": "Vila Balneário Santa Martha",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6190968,
+  "lon": -45.3893941
 }

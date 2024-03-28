@@ -5,5 +5,7 @@
   "bairro": "Caminho do Sol",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.4032348,
+  "lon": -40.4967564
 }

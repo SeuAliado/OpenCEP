@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco",
   "uf": "MG",
-  "ibge": "3161106"
+  "ibge": "3161106",
+  "lat": -15.9516274,
+  "lon": -44.8590264
 }

@@ -5,5 +5,7 @@
   "bairro": "Theodoro de Souza Barros",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "lat": -22.5681874,
+  "lon": -47.9264203
 }

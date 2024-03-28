@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8281217,
+  "lon": -43.0804552
 }

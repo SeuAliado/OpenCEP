@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Filostro Machado Carneiro",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.32299,
+  "lon": -48.9022836
 }

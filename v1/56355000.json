@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dormentes",
   "uf": "PE",
-  "ibge": "2605152"
+  "ibge": "2605152",
+  "lat": -8.456224,
+  "lon": -40.5533995
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio - Segundo Acréscimo",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7339673,
+  "lon": -49.2546156
 }

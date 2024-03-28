@@ -5,5 +5,7 @@
   "bairro": "Vila Irmãos Andrade",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6613151,
+  "lon": -49.7538495
 }

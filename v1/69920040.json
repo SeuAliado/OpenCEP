@@ -5,5 +5,7 @@
   "bairro": "Mocinha Magalhães",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9634004,
+  "lon": -67.8728886
 }

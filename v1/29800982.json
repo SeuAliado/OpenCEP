@@ -5,5 +5,7 @@
   "bairro": "Monte Senir",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "lat": -18.8324514,
+  "lon": -40.7508344
 }

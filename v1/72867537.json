@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Nova",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.1040701,
+  "lon": -48.0976321
 }

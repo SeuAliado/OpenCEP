@@ -5,5 +5,7 @@
   "bairro": "Parque Araruama",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.103123,
+  "lon": -47.9874468
 }

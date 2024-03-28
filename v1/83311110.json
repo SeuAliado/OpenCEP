@@ -5,5 +5,7 @@
   "bairro": "Planta Santa Lúcia",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.458384,
+  "lon": -49.1566297
 }

@@ -5,5 +5,7 @@
   "bairro": "Vargem Grande",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.4668316,
+  "lon": -48.4653255
 }

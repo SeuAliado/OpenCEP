@@ -5,5 +5,7 @@
   "bairro": "Guarataia",
   "localidade": "Itambacuri",
   "uf": "MG",
-  "ibge": "3132701"
+  "ibge": "3132701",
+  "lat": -18.274406,
+  "lon": -41.880123
 }

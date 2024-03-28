@@ -5,5 +5,7 @@
   "bairro": "Vila Beneves",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9025062,
+  "lon": -44.0903959
 }

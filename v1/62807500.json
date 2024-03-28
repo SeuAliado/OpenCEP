@@ -5,5 +5,7 @@
   "bairro": "Girau",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "lat": -4.6680707,
+  "lon": -37.9243005
 }

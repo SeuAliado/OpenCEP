@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bonito de Santa Fé",
   "uf": "PB",
-  "ibge": "2502409"
+  "ibge": "2502409",
+  "lat": -7.3153575,
+  "lon": -38.5175365
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6725689,
+  "lon": -46.7733676
 }

@@ -5,5 +5,7 @@
   "bairro": "Caetetuba",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1184487,
+  "lon": -46.5834884
 }

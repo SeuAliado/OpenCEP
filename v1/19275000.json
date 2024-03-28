@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Euclides da Cunha Paulista",
   "uf": "SP",
-  "ibge": "3515350"
+  "ibge": "3515350",
+  "lat": -22.5571711,
+  "lon": -52.5896735
 }

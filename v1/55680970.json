@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bonito",
   "uf": "PE",
-  "ibge": "2602308"
+  "ibge": "2602308",
+  "lat": -8.4708291,
+  "lon": -35.731387
 }

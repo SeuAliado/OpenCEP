@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipirá",
   "uf": "BA",
-  "ibge": "2914000"
+  "ibge": "2914000",
+  "lat": -12.1586711,
+  "lon": -39.7423527
 }

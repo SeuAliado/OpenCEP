@@ -5,5 +5,7 @@
   "bairro": "Jardim Ibirapuera",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2735505,
+  "lon": -48.5536419
 }

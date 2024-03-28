@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "lat": -7.9087344,
+  "lon": -34.9151729
 }

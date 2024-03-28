@@ -5,5 +5,7 @@
   "bairro": "Centro Hípico (Tamoios)",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.5856813,
+  "lon": -42.003477
 }

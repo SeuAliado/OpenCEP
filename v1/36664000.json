@@ -5,5 +5,7 @@
   "bairro": "Angustura",
   "localidade": "Além Paraíba",
   "uf": "MG",
-  "ibge": "3101508"
+  "ibge": "3101508",
+  "lat": -29.1893674,
+  "lon": -54.8706296
 }

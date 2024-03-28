@@ -5,5 +5,7 @@
   "bairro": "Botujuru",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.478979,
+  "lon": -46.1451558
 }

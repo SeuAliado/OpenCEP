@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora de Fátima",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9540324,
+  "lon": -46.4064537
 }

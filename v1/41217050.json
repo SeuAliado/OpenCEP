@@ -5,5 +5,7 @@
   "bairro": "Sussuarana",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9387209,
+  "lon": -38.4369174
 }

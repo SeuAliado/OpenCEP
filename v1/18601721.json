@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor Antonio Delmanto",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9012519,
+  "lon": -48.4269529
 }

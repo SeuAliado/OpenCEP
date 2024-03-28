@@ -5,5 +5,7 @@
   "bairro": "Várzeas",
   "localidade": "Baianópolis",
   "uf": "BA",
-  "ibge": "2902500"
+  "ibge": "2902500",
+  "lat": -12.433851,
+  "lon": -44.615538
 }

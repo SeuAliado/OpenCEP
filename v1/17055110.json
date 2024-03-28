@@ -5,5 +5,7 @@
   "bairro": "Parque Viaduto",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3382515,
+  "lon": -49.1115166
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Feira Nova do Maranhão",
   "uf": "MA",
-  "ibge": "2104073"
+  "ibge": "2104073",
+  "lat": -6.9623103,
+  "lon": -46.6849498
 }

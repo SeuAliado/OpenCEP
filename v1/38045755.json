@@ -5,5 +5,7 @@
   "bairro": "Cidade Ozanan",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7665897,
+  "lon": -47.9724312
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buerarema",
   "uf": "BA",
-  "ibge": "2904704"
+  "ibge": "2904704",
+  "lat": -14.9555383,
+  "lon": -39.302065
 }

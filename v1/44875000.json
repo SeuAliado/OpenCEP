@@ -5,5 +5,7 @@
   "bairro": "Ventura",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "lat": -11.6724432,
+  "lon": -40.9901404
 }

@@ -5,5 +5,7 @@
   "bairro": "São João I",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.368661,
+  "lon": -49.474545
 }

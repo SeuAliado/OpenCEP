@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Canaã do Norte",
   "uf": "MT",
-  "ibge": "5106216"
+  "ibge": "5106216",
+  "lat": -10.6369453,
+  "lon": -55.7089285
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Niero",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "lat": -23.0809425,
+  "lon": -46.951264
 }

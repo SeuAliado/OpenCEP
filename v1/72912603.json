@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaíra I",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7707844,
+  "lon": -48.2455349
 }

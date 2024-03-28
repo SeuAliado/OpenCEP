@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carnaubais",
   "uf": "RN",
-  "ibge": "2402501"
+  "ibge": "2402501",
+  "lat": -5.3399332,
+  "lon": -36.8337446
 }

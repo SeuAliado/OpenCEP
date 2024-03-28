@@ -5,5 +5,7 @@
   "bairro": "Lambicada",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.9905536,
+  "lon": -44.2493913
 }

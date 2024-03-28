@@ -5,5 +5,7 @@
   "bairro": "Campinas",
   "localidade": "Plácido de Castro",
   "uf": "AC",
-  "ibge": "1200385"
+  "ibge": "1200385",
+  "lat": -27.611784,
+  "lon": -48.597013
 }

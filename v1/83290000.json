@@ -5,5 +5,7 @@
   "bairro": "Pedra Branca do Araraquara",
   "localidade": "Guaratuba",
   "uf": "PR",
-  "ibge": "4109609"
+  "ibge": "4109609",
+  "lat": -25.9481204,
+  "lon": -48.5893222
 }

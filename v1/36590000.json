@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Miguel do Anta",
   "uf": "MG",
-  "ibge": "3163805"
+  "ibge": "3163805",
+  "lat": -20.7188492,
+  "lon": -42.7271587
 }

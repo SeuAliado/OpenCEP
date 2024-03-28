@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasilândia",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5233865,
+  "lon": -47.3689968
 }

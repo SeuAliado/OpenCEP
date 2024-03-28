@@ -5,5 +5,7 @@
   "bairro": "Vila Beatriz",
   "localidade": "Maracajá",
   "uf": "SC",
-  "ibge": "4210407"
+  "ibge": "4210407",
+  "lat": -28.8627446,
+  "lon": -49.4511195
 }

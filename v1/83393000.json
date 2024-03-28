@@ -5,5 +5,7 @@
   "bairro": "Ararapira",
   "localidade": "Guaraqueçaba",
   "uf": "PR",
-  "ibge": "4109500"
+  "ibge": "4109500",
+  "lat": -25.296679,
+  "lon": -48.319394
 }

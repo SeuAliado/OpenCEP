@@ -5,5 +5,7 @@
   "bairro": "Vila Citrolândia (Santo Aleixo)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.581519,
+  "lon": -43.0265024
 }

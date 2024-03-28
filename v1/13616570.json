@@ -5,5 +5,7 @@
   "bairro": "Parque São Manoel",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.166317,
+  "lon": -47.3724711
 }

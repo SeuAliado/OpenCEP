@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Newton Bello",
   "uf": "MA",
-  "ibge": "2104651"
+  "ibge": "2104651",
+  "lat": -3.4267211,
+  "lon": -45.8659561
 }

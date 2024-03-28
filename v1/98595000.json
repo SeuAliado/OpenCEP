@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Valério do Sul",
   "uf": "RS",
-  "ibge": "4319737"
+  "ibge": "4319737",
+  "lat": -27.787742,
+  "lon": -53.9355032
 }

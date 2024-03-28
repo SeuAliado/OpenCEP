@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -8.3400657,
+  "lon": -36.4404951
 }

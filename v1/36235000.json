@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rita do Ibitipoca",
   "uf": "MG",
-  "ibge": "3159407"
+  "ibge": "3159407",
+  "lat": -21.5934083,
+  "lon": -43.9246009
 }

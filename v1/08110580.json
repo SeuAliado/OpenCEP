@@ -5,5 +5,7 @@
   "bairro": "Vila Alabama",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4971102,
+  "lon": -46.3967021
 }

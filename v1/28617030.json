@@ -5,5 +5,7 @@
   "bairro": "Fazenda Bela Vista",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.292954,
+  "lon": -42.4907008
 }

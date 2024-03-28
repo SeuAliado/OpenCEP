@@ -5,5 +5,7 @@
   "bairro": "Jaguaribe",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.559206,
+  "lon": -46.785474
 }

@@ -5,5 +5,7 @@
   "bairro": "Maria Paula",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2043999,
+  "lon": -49.9523865
 }

@@ -5,5 +5,7 @@
   "bairro": "Consolação",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4082096,
+  "lon": -47.6020063
 }

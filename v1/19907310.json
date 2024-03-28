@@ -5,5 +5,7 @@
   "bairro": "Vila Sá",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9751801,
+  "lon": -49.8775718
 }

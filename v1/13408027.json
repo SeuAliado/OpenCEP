@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.6697053,
+  "lon": -47.6962041
 }

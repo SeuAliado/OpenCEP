@@ -5,5 +5,7 @@
   "bairro": "Rasa",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -20.3804388,
+  "lon": -42.9045351
 }

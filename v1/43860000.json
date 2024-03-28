@@ -5,5 +5,7 @@
   "bairro": "Cinco Rios",
   "localidade": "São Sebastião do Passé",
   "uf": "BA",
-  "ibge": "2929503"
+  "ibge": "2929503",
+  "lat": -12.5186305,
+  "lon": -38.4952885
 }

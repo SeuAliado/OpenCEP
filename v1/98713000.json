@@ -5,5 +5,7 @@
   "bairro": "Alto da União",
   "localidade": "Ijuí",
   "uf": "RS",
-  "ibge": "4310207"
+  "ibge": "4310207",
+  "lat": -28.4566325,
+  "lon": -53.8696874
 }

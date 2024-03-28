@@ -5,5 +5,7 @@
   "bairro": "Palhada",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7516738,
+  "lon": -43.5291491
 }

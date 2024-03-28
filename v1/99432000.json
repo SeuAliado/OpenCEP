@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Alto Alegre",
   "uf": "RS",
-  "ibge": "4300554"
+  "ibge": "4300554",
+  "lat": -28.8159659,
+  "lon": -53.0254479
 }

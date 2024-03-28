@@ -5,5 +5,7 @@
   "bairro": "Caramuru",
   "localidade": "Santa Leopoldina",
   "uf": "ES",
-  "ibge": "3204500"
+  "ibge": "3204500",
+  "lat": -20.0824341,
+  "lon": -40.5765127
 }

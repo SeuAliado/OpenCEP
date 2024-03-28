@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Copacabana",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.987264,
+  "lon": -49.4967985
 }

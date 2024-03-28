@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gonzaga",
   "uf": "MG",
-  "ibge": "3127503"
+  "ibge": "3127503",
+  "lat": -18.8200864,
+  "lon": -42.4773058
 }

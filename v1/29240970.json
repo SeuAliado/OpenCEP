@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alfredo Chaves",
   "uf": "ES",
-  "ibge": "3200300"
+  "ibge": "3200300",
+  "lat": -20.4172046,
+  "lon": -40.6692334
 }

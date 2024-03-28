@@ -5,5 +5,7 @@
   "bairro": "Gradim",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.830014,
+  "lon": -43.0945985
 }

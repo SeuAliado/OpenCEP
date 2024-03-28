@@ -5,5 +5,7 @@
   "bairro": "Vila das Paineiras",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.6983532,
+  "lon": -46.5597462
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Jardim Goiás II",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8518391,
+  "lon": -51.7326357
 }

@@ -5,5 +5,7 @@
   "bairro": "Remy Martins Ferreira",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4125963,
+  "lon": -49.2702139
 }

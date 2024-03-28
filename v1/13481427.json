@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Recanto Alvorada",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6003154,
+  "lon": -47.3961322
 }

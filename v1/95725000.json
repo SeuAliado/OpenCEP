@@ -5,5 +5,7 @@
   "bairro": "Marcorama",
   "localidade": "Garibaldi",
   "uf": "RS",
-  "ibge": "4308607"
+  "ibge": "4308607",
+  "lat": -29.2682238,
+  "lon": -51.6156884
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5280787,
+  "lon": -42.6186743
 }

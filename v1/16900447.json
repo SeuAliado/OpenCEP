@@ -5,5 +5,7 @@
   "bairro": "Vila Feltrini",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8925731,
+  "lon": -51.366123
 }

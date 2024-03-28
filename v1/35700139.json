@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4575851,
+  "lon": -44.2363834
 }

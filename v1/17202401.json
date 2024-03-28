@@ -5,5 +5,7 @@
   "bairro": "Vila Nassif Name",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3007227,
+  "lon": -48.555957
 }

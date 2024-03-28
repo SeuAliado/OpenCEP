@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora de Fátima",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4511738,
+  "lon": -44.3822698
 }

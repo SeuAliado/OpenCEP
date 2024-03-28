@@ -5,5 +5,7 @@
   "bairro": "Terceiro",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6219256,
+  "lon": -56.0917524
 }

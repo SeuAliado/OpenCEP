@@ -5,5 +5,7 @@
   "bairro": "Lara",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7989068,
+  "lon": -55.8043882
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7198082,
+  "lon": -43.3085295
 }

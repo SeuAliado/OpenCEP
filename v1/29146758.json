@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3381424,
+  "lon": -40.3723433
 }

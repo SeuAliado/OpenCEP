@@ -5,5 +5,7 @@
   "bairro": "Jardim Ataliba Leonel",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4460887,
+  "lon": -46.5875393
 }

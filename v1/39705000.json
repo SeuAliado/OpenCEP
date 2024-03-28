@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João Evangelista",
   "uf": "MG",
-  "ibge": "3162807"
+  "ibge": "3162807",
+  "lat": -18.4987051,
+  "lon": -42.7662325
 }

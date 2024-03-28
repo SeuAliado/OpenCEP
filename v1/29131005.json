@@ -5,5 +5,7 @@
   "bairro": "Jucu",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.3835652,
+  "lon": -40.4606616
 }

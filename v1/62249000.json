@@ -5,5 +5,7 @@
   "bairro": "Alazans",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "lat": -4.5835638,
+  "lon": -40.8942534
 }

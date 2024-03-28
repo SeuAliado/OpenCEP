@@ -5,5 +5,7 @@
   "bairro": "Capitão Pedro Sampaio",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "lat": -4.3570803,
+  "lon": -39.3192648
 }

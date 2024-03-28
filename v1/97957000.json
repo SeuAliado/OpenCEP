@@ -5,5 +5,7 @@
   "bairro": "Linha Porto Alegre",
   "localidade": "Guarani das Missões",
   "uf": "RS",
-  "ibge": "4309506"
+  "ibge": "4309506",
+  "lat": -30.0583486,
+  "lon": -51.0894227
 }

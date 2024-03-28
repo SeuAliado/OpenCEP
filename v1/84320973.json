@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Reserva",
   "uf": "PR",
-  "ibge": "4121703"
+  "ibge": "4121703",
+  "lat": -24.4184105,
+  "lon": -50.8825768
 }

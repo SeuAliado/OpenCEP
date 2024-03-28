@@ -5,5 +5,7 @@
   "bairro": "Setor Bela Vista",
   "localidade": "Xinguara",
   "uf": "PA",
-  "ibge": "1508407"
+  "ibge": "1508407",
+  "lat": -8.0370848,
+  "lon": -50.0289273
 }

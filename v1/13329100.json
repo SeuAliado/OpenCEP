@@ -5,5 +5,7 @@
   "bairro": "Jardim Delegá",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1742221,
+  "lon": -47.3130487
 }

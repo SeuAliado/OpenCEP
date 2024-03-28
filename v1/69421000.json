@@ -5,5 +5,7 @@
   "bairro": "Cacau Pirêra",
   "localidade": "Iranduba",
   "uf": "AM",
-  "ibge": "1301852"
+  "ibge": "1301852",
+  "lat": -3.1661183,
+  "lon": -60.083168
 }

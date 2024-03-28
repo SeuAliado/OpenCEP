@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Paulo das Missões",
   "uf": "RS",
-  "ibge": "4319307"
+  "ibge": "4319307",
+  "lat": -28.0221267,
+  "lon": -54.9389298
 }

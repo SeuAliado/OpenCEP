@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Piracicaba",
   "uf": "MG",
-  "ibge": "3155702"
+  "ibge": "3155702",
+  "lat": -19.9321877,
+  "lon": -43.1746559
 }

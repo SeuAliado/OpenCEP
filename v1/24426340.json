@@ -5,5 +5,7 @@
   "bairro": "Neves (Neves)",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8443256,
+  "lon": -43.0888946
 }

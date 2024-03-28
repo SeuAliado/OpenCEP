@@ -5,5 +5,7 @@
   "bairro": "Califórnia",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8621766,
+  "lon": -43.7632842
 }

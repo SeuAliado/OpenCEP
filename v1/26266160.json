@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Era",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7592348,
+  "lon": -43.5004133
 }

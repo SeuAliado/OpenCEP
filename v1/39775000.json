@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "José Raydan",
   "uf": "MG",
-  "ibge": "3136553"
+  "ibge": "3136553",
+  "lat": -18.21998,
+  "lon": -42.4950396
 }

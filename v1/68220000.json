@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Alegre",
   "uf": "PA",
-  "ibge": "1504802"
+  "ibge": "1504802",
+  "lat": -1.9980402,
+  "lon": -54.0728496
 }

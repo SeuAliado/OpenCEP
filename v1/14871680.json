@@ -5,5 +5,7 @@
   "bairro": "Jardim Brandi",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2661144,
+  "lon": -48.3336449
 }

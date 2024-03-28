@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cabreúva",
   "uf": "SP",
-  "ibge": "3508405"
+  "ibge": "3508405",
+  "lat": -23.3058194,
+  "lon": -47.1367011
 }

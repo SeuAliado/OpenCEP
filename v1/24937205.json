@@ -5,5 +5,7 @@
   "bairro": "Recanto de Itaipuaçu (Itaipuaçu)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9649518,
+  "lon": -43.0116302
 }

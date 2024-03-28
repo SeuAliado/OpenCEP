@@ -5,5 +5,7 @@
   "bairro": "Fazenda Grande II",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8907629,
+  "lon": -38.3991193
 }

@@ -5,5 +5,7 @@
   "bairro": "Lagoa de São José",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "lat": -9.1522548,
+  "lon": -36.6052459
 }

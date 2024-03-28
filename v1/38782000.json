@@ -5,5 +5,7 @@
   "bairro": "Claro de Minas",
   "localidade": "Vazante",
   "uf": "MG",
-  "ibge": "3171006"
+  "ibge": "3171006",
+  "lat": -17.9309897,
+  "lon": -46.9904633
 }

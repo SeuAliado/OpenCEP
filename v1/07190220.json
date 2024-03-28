@@ -5,5 +5,7 @@
   "bairro": "Parque das Seringueiras",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4555615,
+  "lon": -46.5031486
 }

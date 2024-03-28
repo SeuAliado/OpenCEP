@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Olinda",
   "uf": "CE",
-  "ibge": "2309201"
+  "ibge": "2309201",
+  "lat": -7.0917903,
+  "lon": -39.6796207
 }

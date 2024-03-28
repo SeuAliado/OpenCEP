@@ -5,5 +5,7 @@
   "bairro": "Conjunto Mascarenhas de Moraes",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9754658,
+  "lon": -67.8348474
 }

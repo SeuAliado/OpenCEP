@@ -5,5 +5,7 @@
   "bairro": "Conjunto Cássio Rezende",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7414934,
+  "lon": -47.9143839
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Del-Rey",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.870858,
+  "lon": -44.0856725
 }

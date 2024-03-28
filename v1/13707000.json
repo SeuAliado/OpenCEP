@@ -5,5 +5,7 @@
   "bairro": "Venda Branca",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "lat": -21.9499626,
+  "lon": -47.118511
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Maria da Vitória",
   "uf": "BA",
-  "ibge": "2928109"
+  "ibge": "2928109",
+  "lat": -13.385508,
+  "lon": -44.202014
 }

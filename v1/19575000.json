@@ -5,5 +5,7 @@
   "bairro": "Espigão",
   "localidade": "Regente Feijó",
   "uf": "SP",
-  "ibge": "3542404"
+  "ibge": "3542404",
+  "lat": -22.1911244,
+  "lon": -51.360373
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cardia",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3239372,
+  "lon": -49.0546428
 }

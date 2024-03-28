@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itamarati de Minas",
   "uf": "MG",
-  "ibge": "3132602"
+  "ibge": "3132602",
+  "lat": -21.4160449,
+  "lon": -42.8153019
 }

@@ -5,5 +5,7 @@
   "bairro": "Caetano Lopes",
   "localidade": "Jeceaba",
   "uf": "MG",
-  "ibge": "3135407"
+  "ibge": "3135407",
+  "lat": -20.542005,
+  "lon": -43.9718513
 }

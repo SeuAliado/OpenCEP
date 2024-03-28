@@ -5,5 +5,7 @@
   "bairro": "Jardim das Acácias",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7740123,
+  "lon": -51.6784885
 }

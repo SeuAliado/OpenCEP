@@ -5,5 +5,7 @@
   "bairro": "Jardim Diamante",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2906054,
+  "lon": -48.5409745
 }

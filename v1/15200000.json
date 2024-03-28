@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "José Bonifácio",
   "uf": "SP",
-  "ibge": "3525706"
+  "ibge": "3525706",
+  "lat": -21.0482479,
+  "lon": -49.6879727
 }

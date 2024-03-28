@@ -5,5 +5,7 @@
   "bairro": "Saveiro",
   "localidade": "Biguaçu",
   "uf": "SC",
-  "ibge": "4202305"
+  "ibge": "4202305",
+  "lat": -27.5286434,
+  "lon": -48.6306168
 }

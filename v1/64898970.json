@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pajeú do Piauí",
   "uf": "PI",
-  "ibge": "2207355"
+  "ibge": "2207355",
+  "lat": -7.8558967,
+  "lon": -42.822281
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4693203,
+  "lon": -46.9925453
 }

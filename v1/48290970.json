@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itanagra",
   "uf": "BA",
-  "ibge": "2915908"
+  "ibge": "2915908",
+  "lat": -12.2589355,
+  "lon": -38.0389606
 }

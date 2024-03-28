@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dom Bosco",
   "uf": "MG",
-  "ibge": "3122470"
+  "ibge": "3122470",
+  "lat": -16.7334719,
+  "lon": -46.3240951
 }

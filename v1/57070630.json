@@ -5,5 +5,7 @@
   "bairro": "Rio Novo",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.5731617,
+  "lon": -35.809648
 }

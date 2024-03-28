@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5667254,
+  "lon": -45.4386032
 }

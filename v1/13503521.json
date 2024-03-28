@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Cristina",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4167861,
+  "lon": -47.5907387
 }

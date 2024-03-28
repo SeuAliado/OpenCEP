@@ -5,5 +5,7 @@
   "bairro": "Vila João Ribeiro",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6043711,
+  "lon": -46.9429059
 }

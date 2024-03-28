@@ -5,5 +5,7 @@
   "bairro": "Guassussê",
   "localidade": "Orós",
   "uf": "CE",
-  "ibge": "2309508"
+  "ibge": "2309508",
+  "lat": -6.3401262,
+  "lon": -38.9864923
 }

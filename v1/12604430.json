@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Edwiges",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "lat": -22.7283178,
+  "lon": -45.1249415
 }

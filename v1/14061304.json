@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bonacorsi",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1220049,
+  "lon": -47.8086694
 }

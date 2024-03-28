@@ -5,5 +5,7 @@
   "bairro": "Jardim Hubert",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1135042,
+  "lon": -47.2332302
 }

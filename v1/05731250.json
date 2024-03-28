@@ -5,5 +5,7 @@
   "bairro": "Vila Plana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6416441,
+  "lon": -46.7436207
 }

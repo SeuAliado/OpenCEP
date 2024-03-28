@@ -5,5 +5,7 @@
   "bairro": "Jardim Flor de Liz",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3474005,
+  "lon": -48.9077773
 }

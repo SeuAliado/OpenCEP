@@ -5,5 +5,7 @@
   "bairro": "Sagrada Família",
   "localidade": "Alfredo Chaves",
   "uf": "ES",
-  "ibge": "3200300"
+  "ibge": "3200300",
+  "lat": -20.5788321,
+  "lon": -40.7041735
 }

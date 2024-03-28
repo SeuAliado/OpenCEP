@@ -5,5 +5,7 @@
   "bairro": "Vila Sampaio Bueno",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2884217,
+  "lon": -48.5660176
 }

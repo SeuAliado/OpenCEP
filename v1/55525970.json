@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cortês",
   "uf": "PE",
-  "ibge": "2604809"
+  "ibge": "2604809",
+  "lat": -8.4744274,
+  "lon": -35.543151
 }

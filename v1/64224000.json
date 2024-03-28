@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ilha Grande",
   "uf": "PI",
-  "ibge": "2204659"
+  "ibge": "2204659",
+  "lat": -2.8371043,
+  "lon": -41.8203268
 }

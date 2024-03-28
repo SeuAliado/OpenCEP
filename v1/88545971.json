@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmeira",
   "uf": "SC",
-  "ibge": "4212056"
+  "ibge": "4212056",
+  "lat": -27.5793185,
+  "lon": -50.1593943
 }

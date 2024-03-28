@@ -5,5 +5,7 @@
   "bairro": "Vila Morais",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6647286,
+  "lon": -49.2211442
 }

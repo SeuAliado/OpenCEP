@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Tefé",
   "uf": "AM",
-  "ibge": "1304203"
+  "ibge": "1304203",
+  "lat": -3.3567012,
+  "lon": -64.726099
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Clarice",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4474257,
+  "lon": -46.755978
 }

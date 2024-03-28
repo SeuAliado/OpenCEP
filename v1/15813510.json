@@ -5,5 +5,7 @@
   "bairro": "Polo Comercial Industrial Raul de Carvalho",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1029079,
+  "lon": -48.9441473
 }

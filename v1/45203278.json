@@ -5,5 +5,7 @@
   "bairro": "São Luís",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "lat": -13.8540413,
+  "lon": -40.0822666
 }

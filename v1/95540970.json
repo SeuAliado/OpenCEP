@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmares do Sul",
   "uf": "RS",
-  "ibge": "4313656"
+  "ibge": "4313656",
+  "lat": -30.2596839,
+  "lon": -50.5085975
 }

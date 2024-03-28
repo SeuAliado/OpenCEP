@@ -5,5 +5,7 @@
   "bairro": "Araquaim",
   "localidade": "Curuçá",
   "uf": "PA",
-  "ibge": "1502905"
+  "ibge": "1502905",
+  "lat": -0.7335677,
+  "lon": -47.851899
 }

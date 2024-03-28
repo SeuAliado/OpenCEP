@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antônio Martins",
   "uf": "RN",
-  "ibge": "2400901"
+  "ibge": "2400901",
+  "lat": -6.2153991,
+  "lon": -37.8897292
 }

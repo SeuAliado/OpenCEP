@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova República",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.853698,
+  "lon": -43.0043131
 }

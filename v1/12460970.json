@@ -5,5 +5,7 @@
   "bairro": "Vila Abernéssia",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "lat": -22.7419704,
+  "lon": -45.5951519
 }

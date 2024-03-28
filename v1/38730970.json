@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guimarânia",
   "uf": "MG",
-  "ibge": "3128907"
+  "ibge": "3128907",
+  "lat": -18.8426607,
+  "lon": -46.7929352
 }

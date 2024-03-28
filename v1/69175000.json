@@ -5,5 +5,7 @@
   "bairro": "Pedras",
   "localidade": "Barreirinha",
   "uf": "AM",
-  "ibge": "1300508"
+  "ibge": "1300508",
+  "lat": -2.8017808,
+  "lon": -57.0675986
 }

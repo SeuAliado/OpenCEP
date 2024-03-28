@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Nova Aurora",
   "uf": "GO",
-  "ibge": "5214804"
+  "ibge": "5214804",
+  "lat": -18.4253616,
+  "lon": -49.2153857
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Candelária",
   "uf": "RS",
-  "ibge": "4313011"
+  "ibge": "4313011",
+  "lat": -27.6112133,
+  "lon": -54.1045211
 }

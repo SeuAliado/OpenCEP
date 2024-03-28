@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colômbia",
   "uf": "SP",
-  "ibge": "3512100"
+  "ibge": "3512100",
+  "lat": -20.1772418,
+  "lon": -48.6869209
 }

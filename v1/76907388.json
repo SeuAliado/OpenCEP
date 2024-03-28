@@ -5,5 +5,7 @@
   "bairro": "São Bernardo",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "lat": -10.8589109,
+  "lon": -61.968555
 }

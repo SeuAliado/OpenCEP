@@ -5,5 +5,7 @@
   "bairro": "Dona Fiica II",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "lat": -15.3005457,
+  "lon": -49.124882
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vera Cruz(Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7367778,
+  "lon": -46.7783366
 }

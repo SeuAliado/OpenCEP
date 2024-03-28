@@ -5,5 +5,7 @@
   "bairro": "Vila Calegari",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.504894,
+  "lon": -46.5487582
 }

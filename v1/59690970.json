@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Janduís",
   "uf": "RN",
-  "ibge": "2405207"
+  "ibge": "2405207",
+  "lat": -6.0160264,
+  "lon": -37.4078299
 }

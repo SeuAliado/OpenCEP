@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Lângaro",
   "uf": "RS",
-  "ibge": "4323358"
+  "ibge": "4323358",
+  "lat": -28.1072241,
+  "lon": -52.1458929
 }

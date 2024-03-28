@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aparecida",
   "uf": "PB",
-  "ibge": "2500775"
+  "ibge": "2500775",
+  "lat": -6.7864776,
+  "lon": -38.0835406
 }

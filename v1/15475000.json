@@ -5,5 +5,7 @@
   "bairro": "Jurupeba",
   "localidade": "Palestina",
   "uf": "SP",
-  "ibge": "3535002"
+  "ibge": "3535002",
+  "lat": -20.3929486,
+  "lon": -49.4304814
 }

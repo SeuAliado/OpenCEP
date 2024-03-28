@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9495322,
+  "lon": -38.4807893
 }

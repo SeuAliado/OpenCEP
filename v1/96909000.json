@@ -5,5 +5,7 @@
   "bairro": "Campo de Sobradinho",
   "localidade": "Passa Sete",
   "uf": "RS",
-  "ibge": "4314068"
+  "ibge": "4314068",
+  "lat": -29.43671,
+  "lon": -52.9570781
 }

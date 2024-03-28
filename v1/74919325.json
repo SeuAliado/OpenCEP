@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Cecília",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7657512,
+  "lon": -49.2415657
 }

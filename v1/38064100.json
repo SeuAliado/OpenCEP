@@ -5,5 +5,7 @@
   "bairro": "Univerdecidade",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7229077,
+  "lon": -47.9566253
 }

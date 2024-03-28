@@ -5,5 +5,7 @@
   "bairro": "Chácara Sete Quedas",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.246186,
+  "lon": -47.3165786
 }

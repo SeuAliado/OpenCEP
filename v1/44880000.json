@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cafarnaum",
   "uf": "BA",
-  "ibge": "2905305"
+  "ibge": "2905305",
+  "lat": -11.6918349,
+  "lon": -41.4691991
 }

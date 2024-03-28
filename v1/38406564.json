@@ -5,5 +5,7 @@
   "bairro": "Bosque dos Buritis",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8762541,
+  "lon": -48.2341823
 }

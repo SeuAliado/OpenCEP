@@ -5,5 +5,7 @@
   "bairro": "Residencial Ipanema",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3189972,
+  "lon": -48.9078005
 }

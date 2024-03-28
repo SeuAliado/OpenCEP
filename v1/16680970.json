@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Avaí",
   "uf": "SP",
-  "ibge": "3504305"
+  "ibge": "3504305",
+  "lat": -22.1560968,
+  "lon": -49.3323574
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Rodoviário",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7810009,
+  "lon": -57.0733495
 }

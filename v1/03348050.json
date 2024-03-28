@@ -5,5 +5,7 @@
   "bairro": "Vila Invernada",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5653161,
+  "lon": -46.5617859
 }

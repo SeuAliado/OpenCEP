@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto Paulistano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.2173767,
+  "lon": -49.9415922
 }

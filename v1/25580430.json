@@ -5,5 +5,7 @@
   "bairro": "Jardim Sumaré",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7796835,
+  "lon": -43.3356957
 }

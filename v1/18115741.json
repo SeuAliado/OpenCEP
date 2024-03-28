@@ -5,5 +5,7 @@
   "bairro": "Jardim União",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5568071,
+  "lon": -47.4592093
 }

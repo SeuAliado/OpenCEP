@@ -5,5 +5,7 @@
   "bairro": "Parque São Nicolau",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.8103509,
+  "lon": -43.3832484
 }

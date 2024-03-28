@@ -5,5 +5,7 @@
   "bairro": "Parque Nossa Senhora das Graças",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4478674,
+  "lon": -46.2858302
 }

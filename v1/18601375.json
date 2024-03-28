@@ -5,5 +5,7 @@
   "bairro": "Vila Rodrigues Alves",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8914999,
+  "lon": -48.4350375
 }

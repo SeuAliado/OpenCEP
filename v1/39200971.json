@@ -5,5 +5,7 @@
   "bairro": "Beltrão",
   "localidade": "Corinto",
   "uf": "MG",
-  "ibge": "3119104"
+  "ibge": "3119104",
+  "lat": -18.0794594,
+  "lon": -44.5318583
 }

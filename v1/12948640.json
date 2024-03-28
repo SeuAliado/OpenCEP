@@ -5,5 +5,7 @@
   "bairro": "Loteamento Vale das Flores",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1198165,
+  "lon": -46.5984322
 }

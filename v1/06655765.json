@@ -5,5 +5,7 @@
   "bairro": "Residencial Colinas de São José",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.542685,
+  "lon": -46.9185443
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rosina",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3646001,
+  "lon": -46.748282
 }

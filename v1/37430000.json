@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição do Rio Verde",
   "uf": "MG",
-  "ibge": "3117702"
+  "ibge": "3117702",
+  "lat": -21.9013815,
+  "lon": -45.0933497
 }

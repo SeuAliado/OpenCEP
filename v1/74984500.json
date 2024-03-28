@@ -5,5 +5,7 @@
   "bairro": "Setor Santo André",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7952885,
+  "lon": -49.2460151
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Beneditinos",
   "uf": "PI",
-  "ibge": "2201606"
+  "ibge": "2201606",
+  "lat": -5.4571487,
+  "lon": -42.3641974
 }

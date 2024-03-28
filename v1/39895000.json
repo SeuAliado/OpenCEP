@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Felisburgo",
   "uf": "MG",
-  "ibge": "3125606"
+  "ibge": "3125606",
+  "lat": -16.6352969,
+  "lon": -40.7608801
 }

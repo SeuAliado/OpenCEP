@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Santa Gertrudes",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1824569,
+  "lon": -49.9150525
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Pompeu",
   "uf": "CE",
-  "ibge": "2312700"
+  "ibge": "2312700",
+  "lat": -5.5867348,
+  "lon": -39.3719971
 }

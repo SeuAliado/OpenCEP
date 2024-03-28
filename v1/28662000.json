@@ -5,5 +5,7 @@
   "bairro": "Banquete",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "lat": -22.178372,
+  "lon": -42.4749565
 }

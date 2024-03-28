@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Urupema",
   "uf": "SC",
-  "ibge": "4218954"
+  "ibge": "4218954",
+  "lat": -27.9545386,
+  "lon": -49.8766717
 }

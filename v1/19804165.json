@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6613599,
+  "lon": -50.4322005
 }

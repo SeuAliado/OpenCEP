@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Bárbara",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4962231,
+  "lon": -47.5237967
 }

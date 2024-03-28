@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso (Rubião Junior)",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8852502,
+  "lon": -48.5063324
 }

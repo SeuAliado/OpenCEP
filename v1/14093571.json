@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Cândido Portinari",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1654531,
+  "lon": -47.7416782
 }

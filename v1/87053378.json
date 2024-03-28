@@ -5,5 +5,7 @@
   "bairro": "Jardim Catedral",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4595436,
+  "lon": -51.9169317
 }

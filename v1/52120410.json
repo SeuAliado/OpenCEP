@@ -5,5 +5,7 @@
   "bairro": "Água Fria",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0185733,
+  "lon": -34.8877092
 }

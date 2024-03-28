@@ -5,5 +5,7 @@
   "bairro": "Coqueiral",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.926477,
+  "lon": -42.5357972
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Major Isidoro",
   "uf": "AL",
-  "ibge": "2704401"
+  "ibge": "2704401",
+  "lat": -9.5333053,
+  "lon": -36.9874051
 }

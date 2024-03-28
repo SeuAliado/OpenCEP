@@ -5,5 +5,7 @@
   "bairro": "Sam Remo",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4864581,
+  "lon": -44.0976292
 }

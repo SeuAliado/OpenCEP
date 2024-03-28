@@ -5,5 +5,7 @@
   "bairro": "Vila Ursulino",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5274874,
+  "lon": -44.2041922
 }

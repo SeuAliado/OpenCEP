@@ -5,5 +5,7 @@
   "bairro": "Vila Rainho",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1309665,
+  "lon": -51.3763532
 }

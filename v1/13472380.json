@@ -5,5 +5,7 @@
   "bairro": "Cariobinha",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7270331,
+  "lon": -47.316728
 }

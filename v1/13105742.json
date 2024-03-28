@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vila Santana (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8882158,
+  "lon": -46.9744861
 }

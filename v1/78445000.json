@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Maringá",
   "uf": "MT",
-  "ibge": "5108907"
+  "ibge": "5108907",
+  "lat": -13.0310655,
+  "lon": -57.0918949
 }

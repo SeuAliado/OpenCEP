@@ -5,5 +5,7 @@
   "bairro": "Menino Deus",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3268307,
+  "lon": -54.1239637
 }

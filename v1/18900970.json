@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz do Rio Pardo",
   "uf": "SP",
-  "ibge": "3546405"
+  "ibge": "3546405",
+  "lat": -22.9062369,
+  "lon": -49.6266939
 }

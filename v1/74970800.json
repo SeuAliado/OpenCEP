@@ -5,5 +5,7 @@
   "bairro": "Colina Azul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8255028,
+  "lon": -49.2958663
 }

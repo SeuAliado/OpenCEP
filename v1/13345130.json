@@ -5,5 +5,7 @@
   "bairro": "Jardim Nely",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0980838,
+  "lon": -47.2168994
 }

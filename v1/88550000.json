@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ponte Alta",
   "uf": "SC",
-  "ibge": "4213302"
+  "ibge": "4213302",
+  "lat": -27.4844261,
+  "lon": -50.3779723
 }

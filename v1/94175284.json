@@ -5,5 +5,7 @@
   "bairro": "Loteamento Rural Palermo",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.8846133,
+  "lon": -51.0082567
 }

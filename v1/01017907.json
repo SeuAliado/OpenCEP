@@ -5,5 +5,7 @@
   "bairro": "Sé",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.7888683,
+  "lon": -45.2110219
 }

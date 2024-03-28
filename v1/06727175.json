@@ -5,5 +5,7 @@
   "bairro": "Altos de Caucaia (Caucaia do Alto)",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6751655,
+  "lon": -47.0325182
 }

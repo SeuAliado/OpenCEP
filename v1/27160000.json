@@ -5,5 +5,7 @@
   "bairro": "Dorândia",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4746256,
+  "lon": -43.9451949
 }

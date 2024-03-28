@@ -5,5 +5,7 @@
   "bairro": "Jardim Ubirama",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6038007,
+  "lon": -48.8145735
 }

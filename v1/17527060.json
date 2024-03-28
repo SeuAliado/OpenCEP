@@ -5,5 +5,7 @@
   "bairro": "Chácara Eliana",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2222419,
+  "lon": -49.9688529
 }

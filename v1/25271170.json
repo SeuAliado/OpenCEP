@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Antônio",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6226047,
+  "lon": -43.2179026
 }

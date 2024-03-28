@@ -5,5 +5,7 @@
   "bairro": "Jurema",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "lat": -14.8637485,
+  "lon": -40.8450052
 }

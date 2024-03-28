@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Castelo Branco",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5547025,
+  "lon": -51.42544
 }

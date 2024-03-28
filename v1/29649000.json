@@ -5,5 +5,7 @@
   "bairro": "Garrafão",
   "localidade": "Santa Maria de Jetibá",
   "uf": "ES",
-  "ibge": "3204559"
+  "ibge": "3204559",
+  "lat": -20.1534334,
+  "lon": -40.888496
 }

@@ -5,5 +5,7 @@
   "bairro": "Senador Camará",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8785175,
+  "lon": -43.4820859
 }

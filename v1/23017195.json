@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9175791,
+  "lon": -43.5384132
 }

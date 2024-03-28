@@ -5,5 +5,7 @@
   "bairro": "Jardim São Gabriel",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2399592,
+  "lon": -49.9677885
 }

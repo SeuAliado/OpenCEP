@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teofilândia",
   "uf": "BA",
-  "ibge": "2931509"
+  "ibge": "2931509",
+  "lat": -11.4831566,
+  "lon": -38.9916185
 }

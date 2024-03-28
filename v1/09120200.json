@@ -5,5 +5,7 @@
   "bairro": "Parque Gerassi",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6768767,
+  "lon": -46.4895706
 }

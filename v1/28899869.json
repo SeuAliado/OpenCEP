@@ -5,5 +5,7 @@
   "bairro": "Cantagalo",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5074555,
+  "lon": -41.9309734
 }

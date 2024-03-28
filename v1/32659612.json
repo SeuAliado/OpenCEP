@@ -5,5 +5,7 @@
   "bairro": "Jardim Nazareno",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -20.0008925,
+  "lon": -44.134107
 }

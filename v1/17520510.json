@@ -5,5 +5,7 @@
   "bairro": "Hípica Paulista",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2432079,
+  "lon": -49.9243089
 }

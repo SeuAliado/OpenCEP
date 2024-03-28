@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.6011793,
+  "lon": -46.5092794
 }

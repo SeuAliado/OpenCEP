@@ -5,5 +5,7 @@
   "bairro": "Vila São Benedito",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9800143,
+  "lon": -48.8701177
 }

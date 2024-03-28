@@ -5,5 +5,7 @@
   "bairro": "Alto do Cruzeiro",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.4021763,
+  "lon": -36.6299379
 }

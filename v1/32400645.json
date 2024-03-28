@@ -5,5 +5,7 @@
   "bairro": "Vila Pinheiros",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0199161,
+  "lon": -44.0675164
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Guido",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2506559,
+  "lon": -47.3096534
 }

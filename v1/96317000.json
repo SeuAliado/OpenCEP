@@ -5,5 +5,7 @@
   "bairro": "Cerro Chato",
   "localidade": "Herval",
   "uf": "RS",
-  "ibge": "4307104"
+  "ibge": "4307104",
+  "lat": -31.8723961,
+  "lon": -53.2789598
 }

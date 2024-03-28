@@ -5,5 +5,7 @@
   "bairro": "Laranjais",
   "localidade": "Itaocara",
   "uf": "RJ",
-  "ibge": "3302106"
+  "ibge": "3302106",
+  "lat": -21.763582,
+  "lon": -42.172592
 }

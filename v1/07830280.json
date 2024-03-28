@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Bandeirantes",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.2994069,
+  "lon": -46.7563289
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barros Cassal",
   "uf": "RS",
-  "ibge": "4302006"
+  "ibge": "4302006",
+  "lat": -29.0924813,
+  "lon": -52.5869251
 }

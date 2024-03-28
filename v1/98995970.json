@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Xavier",
   "uf": "RS",
-  "ibge": "4315107"
+  "ibge": "4315107",
+  "lat": -27.9056181,
+  "lon": -55.1384113
 }

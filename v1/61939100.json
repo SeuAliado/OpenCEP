@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial I",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8751023,
+  "lon": -38.622705
 }

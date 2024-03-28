@@ -5,5 +5,7 @@
   "bairro": "Colonial",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3701688,
+  "lon": -39.6057961
 }

@@ -5,5 +5,7 @@
   "bairro": "Praia Seca",
   "localidade": "Araruama",
   "uf": "RJ",
-  "ibge": "3300209"
+  "ibge": "3300209",
+  "lat": -22.9244853,
+  "lon": -42.3068019
 }

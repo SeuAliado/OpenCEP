@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo I",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3400976,
+  "lon": -46.9389992
 }

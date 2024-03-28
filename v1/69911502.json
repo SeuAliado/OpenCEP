@@ -5,5 +5,7 @@
   "bairro": "João Eduardo II",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9577893,
+  "lon": -67.8255926
 }

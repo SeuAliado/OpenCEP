@@ -5,5 +5,7 @@
   "bairro": "Sagrado Coração de Jesus",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8036487,
+  "lon": -50.3089004
 }

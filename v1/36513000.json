@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dores do Turvo",
   "uf": "MG",
-  "ibge": "3123304"
+  "ibge": "3123304",
+  "lat": -20.974998,
+  "lon": -43.1890712
 }

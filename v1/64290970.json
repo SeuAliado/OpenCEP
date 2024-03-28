@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Altos",
   "uf": "PI",
-  "ibge": "2200400"
+  "ibge": "2200400",
+  "lat": -5.0394582,
+  "lon": -42.4618481
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tocos do Moji",
   "uf": "MG",
-  "ibge": "3169059"
+  "ibge": "3169059",
+  "lat": -22.3707057,
+  "lon": -46.0979
 }

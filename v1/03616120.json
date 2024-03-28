@@ -5,5 +5,7 @@
   "bairro": "Vila Feliz",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5151357,
+  "lon": -46.5280372
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Era",
   "uf": "MG",
-  "ibge": "3144706"
+  "ibge": "3144706",
+  "lat": -21.7062513,
+  "lon": -43.423279
 }

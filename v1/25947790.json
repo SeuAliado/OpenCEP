@@ -5,5 +5,7 @@
   "bairro": "Orindi",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.5470954,
+  "lon": -42.9866161
 }

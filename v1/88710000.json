@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Treze de Maio",
   "uf": "SC",
-  "ibge": "4218400"
+  "ibge": "4218400",
+  "lat": -28.5541656,
+  "lon": -49.1570227
 }

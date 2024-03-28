@@ -5,5 +5,7 @@
   "bairro": "Marcianópolis",
   "localidade": "Santo Antônio do Sudoeste",
   "uf": "PR",
-  "ibge": "4124400"
+  "ibge": "4124400",
+  "lat": -26.1136236,
+  "lon": -53.6466754
 }

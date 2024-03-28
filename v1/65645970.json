@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matões",
   "uf": "MA",
-  "ibge": "2106607"
+  "ibge": "2106607",
+  "lat": -5.5193995,
+  "lon": -43.2015965
 }

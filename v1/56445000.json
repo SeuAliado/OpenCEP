@@ -5,5 +5,7 @@
   "bairro": "Riacho Pequeno",
   "localidade": "Belém do São Francisco",
   "uf": "PE",
-  "ibge": "2601607"
+  "ibge": "2601607",
+  "lat": -8.4348425,
+  "lon": -39.0347756
 }

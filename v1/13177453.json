@@ -5,5 +5,7 @@
   "bairro": "Parque Florença",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7911892,
+  "lon": -47.2324052
 }

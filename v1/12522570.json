@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.777742,
+  "lon": -45.1473738
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.441341,
+  "lon": -46.9516422
 }

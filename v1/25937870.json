@@ -5,5 +5,7 @@
   "bairro": "Vila Recreio (Vila Inhomirim)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6405014,
+  "lon": -43.2024103
 }

@@ -5,5 +5,7 @@
   "bairro": "Rancho Alegre IV",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.5207924,
+  "lon": -54.686373
 }

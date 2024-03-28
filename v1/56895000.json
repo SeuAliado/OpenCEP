@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz da Baixa Verde",
   "uf": "PE",
-  "ibge": "2612471"
+  "ibge": "2612471",
+  "lat": -7.857664,
+  "lon": -38.1794179
 }

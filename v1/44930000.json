@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Dutra",
   "uf": "BA",
-  "ibge": "2925600"
+  "ibge": "2925600",
+  "lat": -11.2927775,
+  "lon": -41.9847209
 }

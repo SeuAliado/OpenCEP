@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9308323,
+  "lon": -48.4973761
 }

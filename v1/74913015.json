@@ -5,5 +5,7 @@
   "bairro": "Jardim Palácios",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7596456,
+  "lon": -49.2499752
 }

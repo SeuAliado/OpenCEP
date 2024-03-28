@@ -5,5 +5,7 @@
   "bairro": "Soledade",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0547666,
+  "lon": -34.8911013
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Alegre de Lourdes",
   "uf": "BA",
-  "ibge": "2905909"
+  "ibge": "2905909",
+  "lat": -9.5198004,
+  "lon": -43.0077222
 }

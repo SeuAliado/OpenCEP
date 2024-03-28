@@ -5,5 +5,7 @@
   "bairro": "Vila Brasil",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1385063,
+  "lon": -44.9863198
 }

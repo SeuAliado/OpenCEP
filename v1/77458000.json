@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sucupira",
   "uf": "TO",
-  "ibge": "1720853"
+  "ibge": "1720853",
+  "lat": -11.993461,
+  "lon": -48.9689468
 }

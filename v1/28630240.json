@@ -5,5 +5,7 @@
   "bairro": "Córrego D'Antas",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.2558307,
+  "lon": -42.5466748
 }

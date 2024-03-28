@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fernandes Tourinho",
   "uf": "MG",
-  "ibge": "3125804"
+  "ibge": "3125804",
+  "lat": -19.1545681,
+  "lon": -42.0806541
 }

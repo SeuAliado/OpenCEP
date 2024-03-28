@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sussuapara",
   "uf": "PI",
-  "ibge": "2210938"
+  "ibge": "2210938",
+  "lat": -6.8722224,
+  "lon": -41.4777846
 }

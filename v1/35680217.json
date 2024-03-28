@@ -5,5 +5,7 @@
   "bairro": "Morro do Engenho",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0925334,
+  "lon": -44.56771
 }

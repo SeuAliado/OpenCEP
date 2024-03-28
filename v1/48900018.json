@@ -5,5 +5,7 @@
   "bairro": "Piranga",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4338574,
+  "lon": -40.5060853
 }

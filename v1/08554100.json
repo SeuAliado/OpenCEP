@@ -5,5 +5,7 @@
   "bairro": "Cidade Kemel",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5132291,
+  "lon": -46.3647552
 }

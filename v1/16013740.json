@@ -5,5 +5,7 @@
   "bairro": "Panorama",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.2274014,
+  "lon": -50.420619
 }

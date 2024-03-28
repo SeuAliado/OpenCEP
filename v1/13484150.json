@@ -5,5 +5,7 @@
   "bairro": "Jardim das Laranjeiras",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5411602,
+  "lon": -47.4166193
 }

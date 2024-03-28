@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brasiléia",
   "uf": "AC",
-  "ibge": "1200104"
+  "ibge": "1200104",
+  "lat": -10.9953826,
+  "lon": -68.7502517
 }

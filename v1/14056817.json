@@ -5,5 +5,7 @@
   "bairro": "Jardim Mário Paiva Arantes",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1510012,
+  "lon": -47.837033
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tejuçuoca",
   "uf": "CE",
-  "ibge": "2313351"
+  "ibge": "2313351",
+  "lat": -3.988282,
+  "lon": -39.5788474
 }

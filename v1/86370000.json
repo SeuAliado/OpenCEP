@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Amélia",
   "uf": "PR",
-  "ibge": "4123105"
+  "ibge": "4123105",
+  "lat": -23.2659005,
+  "lon": -50.4292415
 }

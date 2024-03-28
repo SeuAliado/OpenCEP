@@ -5,5 +5,7 @@
   "bairro": "Ilha dos Ayres",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.339657,
+  "lon": -40.2985346
 }

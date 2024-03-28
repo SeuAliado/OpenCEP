@@ -5,5 +5,7 @@
   "bairro": "Parque da Represa",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1585868,
+  "lon": -46.9219485
 }

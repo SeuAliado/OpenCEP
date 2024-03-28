@@ -5,5 +5,7 @@
   "bairro": "Marechal Rondon",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.91367,
+  "lon": -38.4690224
 }

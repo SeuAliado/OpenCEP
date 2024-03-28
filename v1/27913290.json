@@ -5,5 +5,7 @@
   "bairro": "Imbetiba",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3805199,
+  "lon": -41.7745509
 }

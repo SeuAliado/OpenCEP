@@ -5,5 +5,7 @@
   "bairro": "Jardim Redentor",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.973613,
+  "lon": -47.4250087
 }

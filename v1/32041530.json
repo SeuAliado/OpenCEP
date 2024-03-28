@@ -5,5 +5,7 @@
   "bairro": "Parque Maracanã",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9098094,
+  "lon": -44.0774218
 }

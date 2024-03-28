@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7747943,
+  "lon": -48.1764358
 }

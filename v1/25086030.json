@@ -5,5 +5,7 @@
   "bairro": "Vila Guanabara",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7852355,
+  "lon": -43.2895651
 }

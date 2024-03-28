@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cantanhede",
   "uf": "MA",
-  "ibge": "2102705"
+  "ibge": "2102705",
+  "lat": -3.6379451,
+  "lon": -44.3834168
 }

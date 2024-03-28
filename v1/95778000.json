@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vale Real",
   "uf": "RS",
-  "ibge": "4322541"
+  "ibge": "4322541",
+  "lat": -29.3981527,
+  "lon": -51.2536102
 }

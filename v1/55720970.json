@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "João Alfredo",
   "uf": "PE",
-  "ibge": "2608107"
+  "ibge": "2608107",
+  "lat": -7.8571724,
+  "lon": -35.6004953
 }

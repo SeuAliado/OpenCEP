@@ -5,5 +5,7 @@
   "bairro": "Bosque da Ribeira",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0141463,
+  "lon": -43.9547727
 }

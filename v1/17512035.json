@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Santo Barion",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1735864,
+  "lon": -49.9735601
 }

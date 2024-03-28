@@ -5,5 +5,7 @@
   "bairro": "Jardim Guedala",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.589749,
+  "lon": -46.7027791
 }

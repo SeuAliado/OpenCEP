@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8312622,
+  "lon": -55.5153525
 }

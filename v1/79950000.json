@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Naviraí",
   "uf": "MS",
-  "ibge": "5005707"
+  "ibge": "5005707",
+  "lat": -23.062277,
+  "lon": -54.1999693
 }

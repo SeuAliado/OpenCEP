@@ -5,5 +5,7 @@
   "bairro": "Jardim União",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6547961,
+  "lon": -49.7523137
 }

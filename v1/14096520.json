@@ -5,5 +5,7 @@
   "bairro": "Ribeirânia",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1990002,
+  "lon": -47.7822136
 }

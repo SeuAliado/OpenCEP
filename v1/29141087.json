@@ -5,5 +5,7 @@
   "bairro": "Alzira Ramos",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.367377,
+  "lon": -40.3916081
 }

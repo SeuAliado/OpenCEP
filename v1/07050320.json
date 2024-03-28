@@ -5,5 +5,7 @@
   "bairro": "Jardim Eugênia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4609088,
+  "lon": -46.5573592
 }

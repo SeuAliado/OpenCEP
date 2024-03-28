@@ -5,5 +5,7 @@
   "bairro": "Campus do CTA",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2024344,
+  "lon": -45.8742416
 }

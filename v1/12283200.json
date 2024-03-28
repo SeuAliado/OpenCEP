@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Nova Caçapava",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1028515,
+  "lon": -45.6824753
 }

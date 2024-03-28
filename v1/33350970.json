@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Lapa",
   "uf": "MG",
-  "ibge": "3162955"
+  "ibge": "3162955",
+  "lat": -19.6992511,
+  "lon": -43.9589135
 }

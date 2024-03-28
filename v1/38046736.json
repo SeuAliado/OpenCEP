@@ -5,5 +5,7 @@
   "bairro": "Jardim Copacabana",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.768417,
+  "lon": -48.0008004
 }

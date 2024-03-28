@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5393168,
+  "lon": -47.4545852
 }

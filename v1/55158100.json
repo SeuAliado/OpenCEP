@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -8.3438076,
+  "lon": -36.4170993
 }

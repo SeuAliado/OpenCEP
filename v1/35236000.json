@@ -5,5 +5,7 @@
   "bairro": "Independência",
   "localidade": "Resplendor",
   "uf": "MG",
-  "ibge": "3154309"
+  "ibge": "3154309",
+  "lat": -21.3843271,
+  "lon": -42.703648
 }

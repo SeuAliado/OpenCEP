@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marcelino Vieira",
   "uf": "RN",
-  "ibge": "2407302"
+  "ibge": "2407302",
+  "lat": -6.3056363,
+  "lon": -38.1899782
 }

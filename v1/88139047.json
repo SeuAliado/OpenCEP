@@ -5,5 +5,7 @@
   "bairro": "Passagem de Maciambú (Ens Brito)",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.8241554,
+  "lon": -48.6129145
 }

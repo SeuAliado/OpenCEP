@@ -5,5 +5,7 @@
   "bairro": "Barreiro",
   "localidade": "Ijuí",
   "uf": "RS",
-  "ibge": "4310207"
+  "ibge": "4310207",
+  "lat": -28.4218496,
+  "lon": -53.9125347
 }

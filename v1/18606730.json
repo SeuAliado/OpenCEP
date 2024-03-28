@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Therezinha de Menino Jesus",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9002907,
+  "lon": -48.4494417
 }

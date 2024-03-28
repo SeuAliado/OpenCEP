@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Dicalino Cabral",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -20.0196899,
+  "lon": -44.2259812
 }

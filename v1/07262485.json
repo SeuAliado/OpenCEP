@@ -5,5 +5,7 @@
   "bairro": "Jardim Izildinha",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4781039,
+  "lon": -46.3871424
 }

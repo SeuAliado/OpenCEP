@@ -5,5 +5,7 @@
   "bairro": "Residencial Santo Stéfano",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2149925,
+  "lon": -47.283168
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0039429,
+  "lon": -67.7919222
 }

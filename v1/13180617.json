@@ -5,5 +5,7 @@
   "bairro": "Jardim São Judas Tadeu (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8506423,
+  "lon": -47.1647924
 }

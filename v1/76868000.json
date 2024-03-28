@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Machadinho D'Oeste",
   "uf": "RO",
-  "ibge": "1100130"
+  "ibge": "1100130",
+  "lat": -9.4440231,
+  "lon": -61.9823198
 }

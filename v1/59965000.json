@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alexandria",
   "uf": "RN",
-  "ibge": "2400505"
+  "ibge": "2400505",
+  "lat": -6.4138915,
+  "lon": -38.0122112
 }

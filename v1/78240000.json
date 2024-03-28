@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Esperidião",
   "uf": "MT",
-  "ibge": "5106828"
+  "ibge": "5106828",
+  "lat": -15.8574535,
+  "lon": -58.4624357
 }

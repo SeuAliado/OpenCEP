@@ -5,5 +5,7 @@
   "bairro": "Rio Telha",
   "localidade": "Ibiaçá",
   "uf": "RS",
-  "ibge": "4309803"
+  "ibge": "4309803",
+  "lat": -28.0697845,
+  "lon": -51.8608043
 }

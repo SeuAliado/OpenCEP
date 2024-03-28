@@ -5,5 +5,7 @@
   "bairro": "Jardim Leblon",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5846589,
+  "lon": -46.3030015
 }

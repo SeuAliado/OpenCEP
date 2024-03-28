@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Limoeiro do Ajuru",
   "uf": "PA",
-  "ibge": "1504000"
+  "ibge": "1504000",
+  "lat": -1.8988598,
+  "lon": -49.3907387
 }

@@ -5,5 +5,7 @@
   "bairro": "Cedro",
   "localidade": "Chorozinho",
   "uf": "CE",
-  "ibge": "2303956"
+  "ibge": "2303956",
+  "lat": -4.2889629,
+  "lon": -38.5008209
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piratuba",
   "uf": "SC",
-  "ibge": "4213104"
+  "ibge": "4213104",
+  "lat": -27.432265,
+  "lon": -51.7793865
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Padre Rodolfo Lunkenbein",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.432219,
+  "lon": -54.6177579
 }

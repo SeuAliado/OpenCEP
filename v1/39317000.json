@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pintópolis",
   "uf": "MG",
-  "ibge": "3150570"
+  "ibge": "3150570",
+  "lat": -16.0130322,
+  "lon": -45.2618568
 }

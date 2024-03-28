@@ -5,5 +5,7 @@
   "bairro": "Divinéia",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5598793,
+  "lon": -48.5553793
 }

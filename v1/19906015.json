@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Verde",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9836403,
+  "lon": -49.8720288
 }

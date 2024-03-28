@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Doce do Maranhão",
   "uf": "MA",
-  "ibge": "2100154"
+  "ibge": "2100154",
+  "lat": -2.8403887,
+  "lon": -42.1170685
 }

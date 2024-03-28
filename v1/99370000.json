@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fontoura Xavier",
   "uf": "RS",
-  "ibge": "4308300"
+  "ibge": "4308300",
+  "lat": -29.0166199,
+  "lon": -52.4039296
 }

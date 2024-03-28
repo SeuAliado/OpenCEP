@@ -5,5 +5,7 @@
   "bairro": "Vila Alberto Simões",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9324482,
+  "lon": -47.0309943
 }

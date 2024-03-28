@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibiquera",
   "uf": "BA",
-  "ibge": "2912608"
+  "ibge": "2912608",
+  "lat": -12.5776175,
+  "lon": -40.8778586
 }

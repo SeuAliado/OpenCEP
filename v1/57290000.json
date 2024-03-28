@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Real do Colégio",
   "uf": "AL",
-  "ibge": "2707503"
+  "ibge": "2707503",
+  "lat": -10.1890924,
+  "lon": -36.7604027
 }

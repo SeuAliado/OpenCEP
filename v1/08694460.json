@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Benta",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5025335,
+  "lon": -46.2969711
 }

@@ -5,5 +5,7 @@
   "bairro": "Bangu",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8594987,
+  "lon": -43.4913407
 }

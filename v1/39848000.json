@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Divino",
   "uf": "MG",
-  "ibge": "3163300"
+  "ibge": "3163300",
+  "lat": -18.4160917,
+  "lon": -41.3811577
 }

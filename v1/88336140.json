@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Balneário Camboriú",
   "uf": "SC",
-  "ibge": "4202008"
+  "ibge": "4202008",
+  "lat": -27.029632,
+  "lon": -48.604538
 }

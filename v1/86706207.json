@@ -5,5 +5,7 @@
   "bairro": "Jardim do Café",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4350963,
+  "lon": -51.4251528
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5400408,
+  "lon": -46.3796504
 }

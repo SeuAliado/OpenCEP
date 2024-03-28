@@ -5,5 +5,7 @@
   "bairro": "Vila Virgínia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8690799,
+  "lon": -47.0511052
 }

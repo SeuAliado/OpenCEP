@@ -5,5 +5,7 @@
   "bairro": "Vila Pedro Moreira",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4745571,
+  "lon": -46.5359114
 }

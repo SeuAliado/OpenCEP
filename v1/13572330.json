@@ -5,5 +5,7 @@
   "bairro": "Jardim Pacaembu",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0378452,
+  "lon": -47.8975903
 }

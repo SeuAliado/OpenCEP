@@ -5,5 +5,7 @@
   "bairro": "Roseira",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1350056,
+  "lon": -46.813811
 }

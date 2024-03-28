@@ -5,5 +5,7 @@
   "bairro": "Vila Gali",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.566588,
+  "lon": -47.4538084
 }

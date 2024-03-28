@@ -5,5 +5,7 @@
   "bairro": "Cohabs",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3663197,
+  "lon": -39.3072651
 }

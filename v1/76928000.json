@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teixeirópolis",
   "uf": "RO",
-  "ibge": "1101559"
+  "ibge": "1101559",
+  "lat": -10.9460095,
+  "lon": -62.2861215
 }

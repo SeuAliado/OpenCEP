@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Enéas Marques",
   "uf": "PR",
-  "ibge": "4107405"
+  "ibge": "4107405",
+  "lat": -25.3881853,
+  "lon": -49.2718453
 }

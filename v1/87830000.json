@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tapira",
   "uf": "PR",
-  "ibge": "4126900"
+  "ibge": "4126900",
+  "lat": -23.3234285,
+  "lon": -53.0712622
 }

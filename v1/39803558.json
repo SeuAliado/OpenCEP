@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8988539,
+  "lon": -41.4957499
 }

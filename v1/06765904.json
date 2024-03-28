@@ -5,5 +5,7 @@
   "bairro": "Jardim Wanda",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6186428,
+  "lon": -46.7744949
 }

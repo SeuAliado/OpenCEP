@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9476025,
+  "lon": -44.0679279
 }

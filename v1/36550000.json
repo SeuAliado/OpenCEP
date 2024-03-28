@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coimbra",
   "uf": "MG",
-  "ibge": "3116704"
+  "ibge": "3116704",
+  "lat": -20.8412518,
+  "lon": -42.7955185
 }

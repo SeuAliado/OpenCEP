@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0061515,
+  "lon": -51.1436131
 }

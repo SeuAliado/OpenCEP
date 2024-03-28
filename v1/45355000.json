@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Apuarema",
   "uf": "BA",
-  "ibge": "2901957"
+  "ibge": "2901957",
+  "lat": -13.8546938,
+  "lon": -39.7505124
 }

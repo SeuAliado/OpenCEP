@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bady Bassitt",
   "uf": "SP",
-  "ibge": "3504602"
+  "ibge": "3504602",
+  "lat": -20.8845329,
+  "lon": -49.4301098
 }

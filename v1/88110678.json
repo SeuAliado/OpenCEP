@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Rosário",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5824088,
+  "lon": -48.6228167
 }

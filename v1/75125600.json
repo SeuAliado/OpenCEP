@@ -5,5 +5,7 @@
   "bairro": "Vila Popular Munir Calixto",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3521268,
+  "lon": -48.9586251
 }

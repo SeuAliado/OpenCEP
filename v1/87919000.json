@@ -5,5 +5,7 @@
   "bairro": "Aparecida do Ivaí",
   "localidade": "Santa Mônica",
   "uf": "PR",
-  "ibge": "4123956"
+  "ibge": "4123956",
+  "lat": -23.2987891,
+  "lon": -51.1663512
 }

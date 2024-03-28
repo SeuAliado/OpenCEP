@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chaves",
   "uf": "PA",
-  "ibge": "1502509"
+  "ibge": "1502509",
+  "lat": -0.1636792,
+  "lon": -49.9945411
 }

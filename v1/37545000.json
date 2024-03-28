@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira de Minas",
   "uf": "MG",
-  "ibge": "3109709"
+  "ibge": "3109709",
+  "lat": -22.354255,
+  "lon": -45.7793522
 }

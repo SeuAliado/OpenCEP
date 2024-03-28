@@ -5,5 +5,7 @@
   "bairro": "Novo Israel",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.0020072,
+  "lon": -59.9922924
 }

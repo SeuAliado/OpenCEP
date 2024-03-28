@@ -5,5 +5,7 @@
   "bairro": "Aldrovândia",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0526068,
+  "lon": -47.1830596
 }

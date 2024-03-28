@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Divinópolis do Tocantins",
   "uf": "TO",
-  "ibge": "1707108"
+  "ibge": "1707108",
+  "lat": -9.8461679,
+  "lon": -49.284143
 }

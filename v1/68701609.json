@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.212572,
+  "lon": -47.1739564
 }

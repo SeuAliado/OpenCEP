@@ -5,5 +5,7 @@
   "bairro": "Vila (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.1649126,
+  "lon": -48.4680681
 }

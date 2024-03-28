@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anagé",
   "uf": "BA",
-  "ibge": "2901205"
+  "ibge": "2901205",
+  "lat": -14.6115902,
+  "lon": -41.1375512
 }

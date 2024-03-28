@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4512377,
+  "lon": -49.5285707
 }

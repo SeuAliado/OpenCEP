@@ -5,5 +5,7 @@
   "bairro": "Santo André",
   "localidade": "São Leopoldo",
   "uf": "RS",
-  "ibge": "4318705"
+  "ibge": "4318705",
+  "lat": -29.7739594,
+  "lon": -51.1231553
 }

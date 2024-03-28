@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9771469,
+  "lon": -46.3034987
 }

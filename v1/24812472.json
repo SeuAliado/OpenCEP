@@ -5,5 +5,7 @@
   "bairro": "Santo Expedito",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.75334,
+  "lon": -42.8822024
 }

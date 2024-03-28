@@ -5,5 +5,7 @@
   "bairro": "São José do Acácio",
   "localidade": "Engenheiro Caldas",
   "uf": "MG",
-  "ibge": "3123700"
+  "ibge": "3123700",
+  "lat": -19.0515398,
+  "lon": -42.0211432
 }

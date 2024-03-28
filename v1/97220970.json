@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Faxinal do Soturno",
   "uf": "RS",
-  "ibge": "4308003"
+  "ibge": "4308003",
+  "lat": -29.5785994,
+  "lon": -53.4450709
 }

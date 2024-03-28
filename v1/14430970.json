@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Restinga",
   "uf": "SP",
-  "ibge": "3542701"
+  "ibge": "3542701",
+  "lat": -20.6068299,
+  "lon": -47.4828295
 }

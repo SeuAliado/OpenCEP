@@ -5,5 +5,7 @@
   "bairro": "Ariramba (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.116144,
+  "lon": -48.4256429
 }

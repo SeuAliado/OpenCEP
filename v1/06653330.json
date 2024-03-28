@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5441752,
+  "lon": -46.9281108
 }

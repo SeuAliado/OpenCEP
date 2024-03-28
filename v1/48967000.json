@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Pilar",
   "localidade": "Jaguarari",
   "uf": "BA",
-  "ibge": "2917706"
+  "ibge": "2917706",
+  "lat": -10.3320714,
+  "lon": -40.1529752
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Alegre (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4770284,
+  "lon": -46.7031172
 }

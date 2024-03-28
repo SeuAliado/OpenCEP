@@ -5,5 +5,7 @@
   "bairro": "Porto Vilma",
   "localidade": "Deodápolis",
   "uf": "MS",
-  "ibge": "5003454"
+  "ibge": "5003454",
+  "lat": -22.0768341,
+  "lon": -54.1937224
 }

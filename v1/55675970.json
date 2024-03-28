@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salgadinho",
   "uf": "PE",
-  "ibge": "2612109"
+  "ibge": "2612109",
+  "lat": -7.941294,
+  "lon": -35.6358459
 }

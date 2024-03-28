@@ -5,5 +5,7 @@
   "bairro": "Jardim Monterey",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4650372,
+  "lon": -51.8824654
 }

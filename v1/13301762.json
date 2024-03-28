@@ -5,5 +5,7 @@
   "bairro": "Chácaras Primavera",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2398367,
+  "lon": -47.3102537
 }

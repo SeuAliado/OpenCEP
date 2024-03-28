@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Hortolândia II",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8564137,
+  "lon": -47.2076744
 }

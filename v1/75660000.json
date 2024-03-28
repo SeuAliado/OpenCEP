@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buriti Alegre",
   "uf": "GO",
-  "ibge": "5203906"
+  "ibge": "5203906",
+  "lat": -18.1111446,
+  "lon": -49.0009403
 }

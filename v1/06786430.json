@@ -5,5 +5,7 @@
   "bairro": "Vila Indiana",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6238955,
+  "lon": -46.8058438
 }

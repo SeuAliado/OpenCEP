@@ -5,5 +5,7 @@
   "bairro": "Vila São Vicente",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5402422,
+  "lon": -48.5259501
 }

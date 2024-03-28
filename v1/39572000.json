@@ -5,5 +5,7 @@
   "bairro": "Barrocão",
   "localidade": "Grão Mogol",
   "uf": "MG",
-  "ibge": "3127800"
+  "ibge": "3127800",
+  "lat": -16.4059606,
+  "lon": -43.227015
 }

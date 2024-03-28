@@ -5,5 +5,7 @@
   "bairro": "Balneário Arco-Íris",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4361061,
+  "lon": -61.4595122
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto da Cruz",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7615532,
+  "lon": -43.0021448
 }

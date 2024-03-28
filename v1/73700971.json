@@ -5,5 +5,7 @@
   "bairro": "Setor Leste",
   "localidade": "Padre Bernardo",
   "uf": "GO",
-  "ibge": "5215603"
+  "ibge": "5215603",
+  "lat": -15.1717585,
+  "lon": -48.2714358
 }

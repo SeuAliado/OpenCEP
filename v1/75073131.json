@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Villa Lobos",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2773119,
+  "lon": -48.9652879
 }

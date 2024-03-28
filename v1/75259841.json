@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.6884059,
+  "lon": -49.1092622
 }

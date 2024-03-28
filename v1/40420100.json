@@ -5,5 +5,7 @@
   "bairro": "Ribeira",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9194,
+  "lon": -38.4968541
 }

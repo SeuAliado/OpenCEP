@@ -5,5 +5,7 @@
   "bairro": "Vila Jardim Rio Claro",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.898203,
+  "lon": -51.7298387
 }

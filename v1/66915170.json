@@ -5,5 +5,7 @@
   "bairro": "Aeroporto (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.1378971,
+  "lon": -48.4596702
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América III",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7501141,
+  "lon": -48.2820379
 }

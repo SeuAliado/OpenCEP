@@ -5,5 +5,7 @@
   "bairro": "Barra de São João",
   "localidade": "Casimiro de Abreu",
   "uf": "RJ",
-  "ibge": "3301306"
+  "ibge": "3301306",
+  "lat": -22.5742501,
+  "lon": -41.9878239
 }

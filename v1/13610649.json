@@ -5,5 +5,7 @@
   "bairro": "Vila Bancária",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1961818,
+  "lon": -47.3847644
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa Ipês",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.6770821,
+  "lon": -47.6305719
 }

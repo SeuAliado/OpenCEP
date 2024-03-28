@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6233084,
+  "lon": -49.2832722
 }

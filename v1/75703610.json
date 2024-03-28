@@ -5,5 +5,7 @@
   "bairro": "Loteamento Vila Cruzeiro I",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1539256,
+  "lon": -47.942439
 }

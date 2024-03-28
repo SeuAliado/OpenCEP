@@ -5,5 +5,7 @@
   "bairro": "Paiaguás",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "lat": -19.0033511,
+  "lon": -57.6330329
 }

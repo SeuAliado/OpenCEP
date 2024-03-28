@@ -5,5 +5,7 @@
   "bairro": "Conjunto Parigot de Souza 3",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.265607,
+  "lon": -51.1786367
 }

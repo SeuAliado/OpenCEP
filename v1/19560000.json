@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Indiana",
   "uf": "SP",
-  "ibge": "3520608"
+  "ibge": "3520608",
+  "lat": -22.1742516,
+  "lon": -51.2559461
 }

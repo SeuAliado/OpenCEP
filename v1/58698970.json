@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cacimbas",
   "uf": "PB",
-  "ibge": "2503555"
+  "ibge": "2503555",
+  "lat": -7.2110745,
+  "lon": -37.059028
 }

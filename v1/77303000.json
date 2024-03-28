@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio da Conceição",
   "uf": "TO",
-  "ibge": "1718659"
+  "ibge": "1718659",
+  "lat": -11.3209095,
+  "lon": -46.7865516
 }

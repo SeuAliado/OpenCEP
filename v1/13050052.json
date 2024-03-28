@@ -5,5 +5,7 @@
   "bairro": "Vila Mimosa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.94,
+  "lon": -47.0905091
 }

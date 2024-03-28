@@ -5,5 +5,7 @@
   "bairro": "José Américo de Almeida",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

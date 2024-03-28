@@ -5,5 +5,7 @@
   "bairro": "Vila João Rodrigues",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7522882,
+  "lon": -43.3610142
 }

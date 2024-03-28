@@ -5,5 +5,7 @@
   "bairro": "Forte Velho",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "lat": -7.1660303,
+  "lon": -34.9754651
 }

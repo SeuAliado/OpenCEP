@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amargosa",
   "uf": "BA",
-  "ibge": "2901007"
+  "ibge": "2901007",
+  "lat": -13.0299924,
+  "lon": -39.6040949
 }

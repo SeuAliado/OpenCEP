@@ -5,5 +5,7 @@
   "bairro": "Nordeste",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0115827,
+  "lon": -38.478234
 }

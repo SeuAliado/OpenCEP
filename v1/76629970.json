@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Goiás",
   "uf": "GO",
-  "ibge": "5208905"
+  "ibge": "5208905",
+  "lat": -16.6812793,
+  "lon": -49.2532385
 }

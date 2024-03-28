@@ -5,5 +5,7 @@
   "bairro": "Vila Sonia",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5901486,
+  "lon": -48.0767926
 }

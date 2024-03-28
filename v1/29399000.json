@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz de Irupi",
   "localidade": "Irupi",
   "uf": "ES",
-  "ibge": "3202652"
+  "ibge": "3202652",
+  "lat": -20.3506108,
+  "lon": -41.6447532
 }

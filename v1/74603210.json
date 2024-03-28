@@ -5,5 +5,7 @@
   "bairro": "Setor Leste Universitário",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7108031,
+  "lon": -49.2757003
 }

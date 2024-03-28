@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.0798338,
+  "lon": -42.8411979
 }

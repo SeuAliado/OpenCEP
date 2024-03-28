@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gonçalves",
   "uf": "MG",
-  "ibge": "3127404"
+  "ibge": "3127404",
+  "lat": -22.6593169,
+  "lon": -45.8544526
 }

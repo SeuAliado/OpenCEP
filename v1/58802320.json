@@ -5,5 +5,7 @@
   "bairro": "Jardins",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7631578,
+  "lon": -38.2191917
 }

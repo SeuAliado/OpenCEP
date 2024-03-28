@@ -5,5 +5,7 @@
   "bairro": "Jardim Silva Teles",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4985938,
+  "lon": -46.4094015
 }

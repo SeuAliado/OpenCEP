@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Águas Formosas",
   "uf": "MG",
-  "ibge": "3100906"
+  "ibge": "3100906",
+  "lat": -17.0818798,
+  "lon": -40.9354535
 }

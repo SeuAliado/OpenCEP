@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Girau do Ponciano",
   "uf": "AL",
-  "ibge": "2702900"
+  "ibge": "2702900",
+  "lat": -9.8844475,
+  "lon": -36.8314537
 }

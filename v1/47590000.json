@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipupiara",
   "uf": "BA",
-  "ibge": "2914109"
+  "ibge": "2914109",
+  "lat": -11.82035,
+  "lon": -42.6100253
 }

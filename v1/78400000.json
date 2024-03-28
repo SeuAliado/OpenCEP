@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Diamantino",
   "uf": "MT",
-  "ibge": "5103502"
+  "ibge": "5103502",
+  "lat": -14.4040989,
+  "lon": -56.4370932
 }

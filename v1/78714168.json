@@ -5,5 +5,7 @@
   "bairro": "Jardim Kenia",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4446429,
+  "lon": -54.6406997
 }

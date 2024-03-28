@@ -5,5 +5,7 @@
   "bairro": "Tita Rezende",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.740288,
+  "lon": -47.903991
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pirapozinho",
   "uf": "SP",
-  "ibge": "3539202"
+  "ibge": "3539202",
+  "lat": -22.2756953,
+  "lon": -51.5002318
 }

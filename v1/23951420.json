@@ -5,5 +5,7 @@
   "bairro": "Vila Histórica de Mambucaba (Mambucaba)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.022371,
+  "lon": -44.511177
 }

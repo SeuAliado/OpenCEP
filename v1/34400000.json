@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Raposos",
   "uf": "MG",
-  "ibge": "3153905"
+  "ibge": "3153905",
+  "lat": -19.9640617,
+  "lon": -43.8083531
 }

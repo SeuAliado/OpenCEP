@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5705457,
+  "lon": -47.3971809
 }

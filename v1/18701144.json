@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0970411,
+  "lon": -48.9057007
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Flores",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.6023061,
+  "lon": -48.5700421
 }

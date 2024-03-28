@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Azul",
   "uf": "SP",
-  "ibge": "3551405"
+  "ibge": "3551405",
+  "lat": -21.3115279,
+  "lon": -47.5642608
 }

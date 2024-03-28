@@ -5,5 +5,7 @@
   "bairro": "Vila Luis Antônio",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -24.006922,
+  "lon": -46.2710419
 }

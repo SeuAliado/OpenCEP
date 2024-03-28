@@ -5,5 +5,7 @@
   "bairro": "Arana",
   "localidade": "Frei Gaspar",
   "uf": "MG",
-  "ibge": "3126802"
+  "ibge": "3126802",
+  "lat": -18.0724819,
+  "lon": -41.5486406
 }

@@ -5,5 +5,7 @@
   "bairro": "Areia Branca",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9450898,
+  "lon": -46.3714055
 }

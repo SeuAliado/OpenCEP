@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "lat": -2.247948,
+  "lon": -49.4982761
 }

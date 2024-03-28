@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Negra do Norte",
   "uf": "RN",
-  "ibge": "2413409"
+  "ibge": "2413409",
+  "lat": -6.5879136,
+  "lon": -37.3399768
 }

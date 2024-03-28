@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4408118,
+  "lon": -54.6154778
 }

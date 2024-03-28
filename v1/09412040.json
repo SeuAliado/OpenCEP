@@ -5,5 +5,7 @@
   "bairro": "Ponte Seca",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.7246717,
+  "lon": -46.4086525
 }

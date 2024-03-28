@@ -5,5 +5,7 @@
   "bairro": "São Miguel (Guaporanga)",
   "localidade": "Biguaçu",
   "uf": "SC",
-  "ibge": "4202305"
+  "ibge": "4202305",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

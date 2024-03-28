@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves II",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.4005195,
+  "lon": -38.2246991
 }

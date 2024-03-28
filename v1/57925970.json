@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra de Santo Antônio",
   "uf": "AL",
-  "ibge": "2700508"
+  "ibge": "2700508",
+  "lat": -4.2450566,
+  "lon": -42.2925372
 }

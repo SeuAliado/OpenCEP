@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira do Arari",
   "uf": "PA",
-  "ibge": "1502004"
+  "ibge": "1502004",
+  "lat": -1.0143667,
+  "lon": -48.9625166
 }

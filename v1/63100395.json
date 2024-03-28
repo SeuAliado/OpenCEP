@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.2393959,
+  "lon": -39.3797746
 }

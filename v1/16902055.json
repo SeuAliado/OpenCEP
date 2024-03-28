@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cecília",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9089486,
+  "lon": -51.3595635
 }

@@ -5,5 +5,7 @@
   "bairro": "Irapuã",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "lat": -5.1764432,
+  "lon": -40.4553257
 }

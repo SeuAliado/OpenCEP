@@ -5,5 +5,7 @@
   "bairro": "Jardim Caiçara",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5406114,
+  "lon": -48.6032821
 }

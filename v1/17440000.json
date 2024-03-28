@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ubirajara",
   "uf": "SP",
-  "ibge": "3555505"
+  "ibge": "3555505",
+  "lat": -22.5270243,
+  "lon": -49.6628775
 }

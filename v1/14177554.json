@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Europa",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1239693,
+  "lon": -48.0241015
 }

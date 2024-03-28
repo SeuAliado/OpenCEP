@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.270874,
+  "lon": -50.5549629
 }

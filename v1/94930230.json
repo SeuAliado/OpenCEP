@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.9363001,
+  "lon": -51.1062581
 }

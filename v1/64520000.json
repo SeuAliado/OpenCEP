@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Francinópolis",
   "uf": "PI",
-  "ibge": "2204006"
+  "ibge": "2204006",
+  "lat": -6.3937387,
+  "lon": -42.2594392
 }

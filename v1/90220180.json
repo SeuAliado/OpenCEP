@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.023949,
+  "lon": -51.2138877
 }

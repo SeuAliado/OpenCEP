@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Várzea Branca",
   "uf": "PI",
-  "ibge": "2211357"
+  "ibge": "2211357",
+  "lat": -9.3494442,
+  "lon": -42.9027576
 }

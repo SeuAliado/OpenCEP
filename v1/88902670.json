@@ -5,5 +5,7 @@
   "bairro": "Sanga da Areia",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "lat": -28.9546197,
+  "lon": -49.510308
 }

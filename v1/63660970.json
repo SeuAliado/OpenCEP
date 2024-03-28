@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tauá",
   "uf": "CE",
-  "ibge": "2313302"
+  "ibge": "2313302",
+  "lat": -6.0033001,
+  "lon": -40.2935081
 }

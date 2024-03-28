@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel do Gostoso",
   "uf": "RN",
-  "ibge": "2412559"
+  "ibge": "2412559",
+  "lat": -5.1229818,
+  "lon": -35.6326925
 }

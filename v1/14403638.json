@@ -5,5 +5,7 @@
   "bairro": "Vila Scarabucci",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5462895,
+  "lon": -47.3877558
 }

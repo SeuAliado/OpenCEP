@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.5462883,
+  "lon": -35.7550805
 }

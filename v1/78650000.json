@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Terezinha",
   "uf": "MT",
-  "ibge": "5107776"
+  "ibge": "5107776",
+  "lat": -10.372787,
+  "lon": -50.9289246
 }

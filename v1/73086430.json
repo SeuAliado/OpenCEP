@@ -5,5 +5,7 @@
   "bairro": "Vila Rabelo II (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6216571,
+  "lon": -47.8509754
 }

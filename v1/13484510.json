@@ -5,5 +5,7 @@
   "bairro": "Jardim Trevo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5642561,
+  "lon": -47.4386222
 }

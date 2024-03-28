@@ -5,5 +5,7 @@
   "bairro": "Morro Sorocotuba",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9936798,
+  "lon": -46.2494676
 }

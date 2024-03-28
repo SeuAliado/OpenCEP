@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraíso",
   "uf": "SC",
-  "ibge": "4212239"
+  "ibge": "4212239",
+  "lat": -27.1150044,
+  "lon": -52.6094237
 }

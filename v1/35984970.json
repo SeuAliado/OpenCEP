@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dionísio",
   "uf": "MG",
-  "ibge": "3121803"
+  "ibge": "3121803",
+  "lat": -19.8412542,
+  "lon": -42.7765252
 }

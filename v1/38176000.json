@@ -5,5 +5,7 @@
   "bairro": "Zelândia",
   "localidade": "Santa Juliana",
   "uf": "MG",
-  "ibge": "3157708"
+  "ibge": "3157708",
+  "lat": -19.5361667,
+  "lon": -47.4504179
 }

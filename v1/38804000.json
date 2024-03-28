@@ -5,5 +5,7 @@
   "bairro": "São José da Bela Vista",
   "localidade": "São Gotardo",
   "uf": "MG",
-  "ibge": "3162104"
+  "ibge": "3162104",
+  "lat": -19.3173878,
+  "lon": -46.0407069
 }

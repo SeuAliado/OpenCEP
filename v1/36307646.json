@@ -5,5 +5,7 @@
   "bairro": "Colinas Del Rey",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "lat": -21.1417852,
+  "lon": -44.2429001
 }

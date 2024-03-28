@@ -5,5 +5,7 @@
   "bairro": "Abolição",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8859325,
+  "lon": -43.3007664
 }

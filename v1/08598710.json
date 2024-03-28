@@ -5,5 +5,7 @@
   "bairro": "Residencial Palmas de Itaquá",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4712647,
+  "lon": -46.3213243
 }

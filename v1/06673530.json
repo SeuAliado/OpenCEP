@@ -5,5 +5,7 @@
   "bairro": "Jardim São Marcos",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5915338,
+  "lon": -47.0159097
 }

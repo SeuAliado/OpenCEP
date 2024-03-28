@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "lat": -22.4823149,
+  "lon": -47.4595901
 }

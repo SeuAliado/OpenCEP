@@ -5,5 +5,7 @@
   "bairro": "Jardim Induberaba",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.777217,
+  "lon": -47.9401189
 }

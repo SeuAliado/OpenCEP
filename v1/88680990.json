@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Retiro",
   "uf": "SC",
-  "ibge": "4202602"
+  "ibge": "4202602",
+  "lat": -27.8072189,
+  "lon": -49.4911283
 }

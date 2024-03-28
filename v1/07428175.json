@@ -5,5 +5,7 @@
   "bairro": "Jardim Fazenda Rincão",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4064417,
+  "lon": -46.321205
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Japi",
   "uf": "RN",
-  "ibge": "2405405"
+  "ibge": "2405405",
+  "lat": -6.4668958,
+  "lon": -35.9448511
 }

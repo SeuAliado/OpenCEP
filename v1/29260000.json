@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "lat": -20.360797,
+  "lon": -40.6598105
 }

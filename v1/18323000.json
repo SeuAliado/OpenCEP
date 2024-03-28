@@ -5,5 +5,7 @@
   "bairro": "Araçaíba",
   "localidade": "Apiaí",
   "uf": "SP",
-  "ibge": "3502705"
+  "ibge": "3502705",
+  "lat": -24.4939154,
+  "lon": -48.8452398
 }

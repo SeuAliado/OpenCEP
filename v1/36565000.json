@@ -5,5 +5,7 @@
   "bairro": "Paraguai",
   "localidade": "Cajuri",
   "uf": "MG",
-  "ibge": "3110202"
+  "ibge": "3110202",
+  "lat": -20.7635915,
+  "lon": -42.743972
 }

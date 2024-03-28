@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pugmil",
   "uf": "TO",
-  "ibge": "1718451"
+  "ibge": "1718451",
+  "lat": -10.3988154,
+  "lon": -48.9202828
 }

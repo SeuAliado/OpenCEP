@@ -5,5 +5,7 @@
   "bairro": "Nova Cidade",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2323006,
+  "lon": -43.7338427
 }

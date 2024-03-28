@@ -5,5 +5,7 @@
   "bairro": "Campina",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4534525,
+  "lon": -48.5010841
 }

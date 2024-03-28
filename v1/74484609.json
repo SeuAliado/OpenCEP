@@ -5,5 +5,7 @@
   "bairro": "Condomínio Jardim das Oliveiras",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7048225,
+  "lon": -49.359466
 }

@@ -5,5 +5,7 @@
   "bairro": "Adrianópolis",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "lat": -3.3482827,
+  "lon": -41.0067338
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morro da Fumaça",
   "uf": "SC",
-  "ibge": "4211207"
+  "ibge": "4211207",
+  "lat": -28.6532507,
+  "lon": -49.2093354
 }

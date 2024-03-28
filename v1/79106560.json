@@ -5,5 +5,7 @@
   "bairro": "Bosque Santa Mônica",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.4522614,
+  "lon": -54.7097311
 }

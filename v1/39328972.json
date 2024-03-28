@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ponto Chique",
   "uf": "MG",
-  "ibge": "3152131"
+  "ibge": "3152131",
+  "lat": -16.6344626,
+  "lon": -45.0635839
 }

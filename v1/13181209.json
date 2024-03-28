@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8349951,
+  "lon": -47.1872923
 }

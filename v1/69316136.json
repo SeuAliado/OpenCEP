@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.7704951,
+  "lon": -60.7254276
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerro Corá",
   "uf": "RN",
-  "ibge": "2402709"
+  "ibge": "2402709",
+  "lat": -6.0448939,
+  "lon": -36.3464675
 }

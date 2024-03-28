@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.452221,
+  "lon": -51.9493766
 }

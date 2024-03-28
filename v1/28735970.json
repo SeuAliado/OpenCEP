@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quissamã",
   "uf": "RJ",
-  "ibge": "3304151"
+  "ibge": "3304151",
+  "lat": -22.1073436,
+  "lon": -41.4692174
 }

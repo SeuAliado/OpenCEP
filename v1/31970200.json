@@ -5,5 +5,7 @@
   "bairro": "Pousada Santo Antônio",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8577325,
+  "lon": -43.8819094
 }

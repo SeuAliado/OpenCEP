@@ -5,5 +5,7 @@
   "bairro": "Jardim São Gabriel II",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1774263,
+  "lon": -47.2987524
 }

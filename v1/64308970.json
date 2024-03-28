@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa do Sítio",
   "uf": "PI",
-  "ibge": "2205599"
+  "ibge": "2205599",
+  "lat": -6.5213574,
+  "lon": -41.5732633
 }

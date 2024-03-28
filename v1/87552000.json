@@ -5,5 +5,7 @@
   "bairro": "Jardim Paredão",
   "localidade": "Altônia",
   "uf": "PR",
-  "ibge": "4100509"
+  "ibge": "4100509",
+  "lat": -23.9526334,
+  "lon": -53.9471367
 }

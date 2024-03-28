@@ -5,5 +5,7 @@
   "bairro": "Parque Prado",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9434817,
+  "lon": -47.0492254
 }

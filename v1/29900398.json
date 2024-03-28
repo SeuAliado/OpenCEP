@@ -5,5 +5,7 @@
   "bairro": "Colina",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3934603,
+  "lon": -40.0689764
 }

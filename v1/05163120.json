@@ -5,5 +5,7 @@
   "bairro": "Vila Jaraguá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4822753,
+  "lon": -46.7630303
 }

@@ -5,5 +5,7 @@
   "bairro": "Cecap II",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4078779,
+  "lon": -49.9931953
 }

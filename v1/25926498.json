@@ -5,5 +5,7 @@
   "bairro": "Praia do Imperador (Guia de Pacobaíba)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.7013986,
+  "lon": -43.154872
 }

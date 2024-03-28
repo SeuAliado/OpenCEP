@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeirópolis",
   "uf": "SE",
-  "ibge": "2806008"
+  "ibge": "2806008",
+  "lat": -10.5365233,
+  "lon": -37.4382054
 }

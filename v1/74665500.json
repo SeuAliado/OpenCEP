@@ -5,5 +5,7 @@
   "bairro": "Goiânia 2",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.668659,
+  "lon": -49.2245506
 }

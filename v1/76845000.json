@@ -5,5 +5,7 @@
   "bairro": "Fortaleza do Abunã",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -9.7850609,
+  "lon": -65.5253329
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fortuna de Minas",
   "uf": "MG",
-  "ibge": "3126406"
+  "ibge": "3126406",
+  "lat": -19.562964,
+  "lon": -44.4480709
 }

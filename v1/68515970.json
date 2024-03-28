@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Parauapebas",
   "uf": "PA",
-  "ibge": "1505536"
+  "ibge": "1505536",
+  "lat": -6.0670694,
+  "lon": -49.9059587
 }

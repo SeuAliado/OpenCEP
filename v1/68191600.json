@@ -5,5 +5,7 @@
   "bairro": "Bela Vista do Caracol",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -5.0189447,
+  "lon": -56.1870224
 }

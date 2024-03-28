@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Júlio de Mesquita Filho",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5018203,
+  "lon": -47.5107986
 }

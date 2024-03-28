@@ -5,5 +5,7 @@
   "bairro": "Vila Maschieto",
   "localidade": "São José do Rio Pardo",
   "uf": "SP",
-  "ibge": "3549706"
+  "ibge": "3549706",
+  "lat": -21.6064718,
+  "lon": -46.8992448
 }

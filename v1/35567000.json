@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião do Oeste",
   "uf": "MG",
-  "ibge": "3164605"
+  "ibge": "3164605",
+  "lat": -20.4752291,
+  "lon": -45.1172451
 }

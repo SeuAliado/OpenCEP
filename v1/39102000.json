@@ -5,5 +5,7 @@
   "bairro": "Sopa",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "lat": -18.2078703,
+  "lon": -43.6971956
 }

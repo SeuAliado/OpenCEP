@@ -5,5 +5,7 @@
   "bairro": "Jardim Ísis",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4699331,
+  "lon": -49.0842952
 }

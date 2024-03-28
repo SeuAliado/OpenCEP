@@ -5,5 +5,7 @@
   "bairro": "Jardim das Acácias",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4472193,
+  "lon": -49.4564705
 }

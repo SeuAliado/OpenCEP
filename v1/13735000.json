@@ -5,5 +5,7 @@
   "bairro": "Brás",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4690764,
+  "lon": -47.0000757
 }

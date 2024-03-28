@@ -5,5 +5,7 @@
   "bairro": "Novo Acre",
   "localidade": "Iramaia",
   "uf": "BA",
-  "ibge": "2914307"
+  "ibge": "2914307",
+  "lat": -13.2906333,
+  "lon": -40.959845
 }

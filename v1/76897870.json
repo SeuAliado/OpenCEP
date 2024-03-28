@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Jaru",
   "uf": "RO",
-  "ibge": "1100114"
+  "ibge": "1100114",
+  "lat": -10.6520253,
+  "lon": -62.586751
 }

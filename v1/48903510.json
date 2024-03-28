@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4119176,
+  "lon": -40.5011707
 }

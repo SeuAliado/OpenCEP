@@ -5,5 +5,7 @@
   "bairro": "Residencial Jatobá",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2527198,
+  "lon": -45.8263092
 }

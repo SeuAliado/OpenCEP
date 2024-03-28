@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Inhapi",
   "uf": "AL",
-  "ibge": "2703304"
+  "ibge": "2703304",
+  "lat": -9.2224056,
+  "lon": -37.7504826
 }

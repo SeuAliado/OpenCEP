@@ -5,5 +5,7 @@
   "bairro": "Chácaras Santa Luzia",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6403271,
+  "lon": -49.4669444
 }

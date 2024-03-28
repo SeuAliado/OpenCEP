@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bernardino de Campos",
   "uf": "SP",
-  "ibge": "3506300"
+  "ibge": "3506300",
+  "lat": -23.0121365,
+  "lon": -49.4722189
 }

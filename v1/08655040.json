@@ -5,5 +5,7 @@
   "bairro": "Parque Alvorada",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5991614,
+  "lon": -46.3016723
 }

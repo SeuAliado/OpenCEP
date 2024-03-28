@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Amparo",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.1234938,
+  "lon": -35.2916689
 }

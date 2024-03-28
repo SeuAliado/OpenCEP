@@ -5,5 +5,7 @@
   "bairro": "Bairro São Domingos",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5607148,
+  "lon": -55.6955386
 }

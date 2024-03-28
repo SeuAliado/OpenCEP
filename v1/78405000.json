@@ -5,5 +5,7 @@
   "bairro": "Del Rios",
   "localidade": "Diamantino",
   "uf": "MT",
-  "ibge": "5103502"
+  "ibge": "5103502",
+  "lat": -27.1765115,
+  "lon": -48.5247456
 }

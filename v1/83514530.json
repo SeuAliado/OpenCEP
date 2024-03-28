@@ -5,5 +5,7 @@
   "bairro": "Areias",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.2444805,
+  "lon": -49.2988393
 }

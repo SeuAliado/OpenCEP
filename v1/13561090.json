@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0053701,
+  "lon": -47.901092
 }

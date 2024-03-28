@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Júlio Borges",
   "uf": "PI",
-  "ibge": "2205524"
+  "ibge": "2205524",
+  "lat": -10.3229532,
+  "lon": -44.2385393
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Marajó",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.1298637,
+  "lon": -47.9529164
 }

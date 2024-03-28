@@ -5,5 +5,7 @@
   "bairro": "Martinica",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.110479,
+  "lon": -51.0607225
 }

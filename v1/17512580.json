@@ -5,5 +5,7 @@
   "bairro": "Parque Nova Almeida",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.14547,
+  "lon": -49.9620401
 }

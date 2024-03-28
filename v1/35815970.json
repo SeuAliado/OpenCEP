@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Sebastião do Rio Preto",
   "uf": "MG",
-  "ibge": "3164803"
+  "ibge": "3164803",
+  "lat": -19.2923348,
+  "lon": -43.1755707
 }

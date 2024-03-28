@@ -5,5 +5,7 @@
   "bairro": "Serramar",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.532614,
+  "lon": -41.9741419
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Maringá",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1779979,
+  "lon": -46.6249983
 }

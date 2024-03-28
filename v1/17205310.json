@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Terezinha",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2957317,
+  "lon": -48.5686124
 }

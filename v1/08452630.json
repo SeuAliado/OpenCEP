@@ -5,5 +5,7 @@
   "bairro": "Vila Lourdes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5270948,
+  "lon": -46.3988036
 }

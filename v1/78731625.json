@@ -5,5 +5,7 @@
   "bairro": "Jardim Village do Cerrado",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4666766,
+  "lon": -54.6116718
 }

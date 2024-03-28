@@ -5,5 +5,7 @@
   "bairro": "Penha de França",
   "localidade": "Itamarandiba",
   "uf": "MG",
-  "ibge": "3132503"
+  "ibge": "3132503",
+  "lat": -18.0316959,
+  "lon": -43.0688282
 }

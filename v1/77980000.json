@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sampaio",
   "uf": "TO",
-  "ibge": "1718808"
+  "ibge": "1718808",
+  "lat": -5.3546193,
+  "lon": -47.878605
 }

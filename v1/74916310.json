@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Era Acréscimo",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7486966,
+  "lon": -49.2828738
 }

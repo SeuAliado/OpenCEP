@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joviânia",
   "uf": "GO",
-  "ibge": "5212105"
+  "ibge": "5212105",
+  "lat": -17.786321,
+  "lon": -49.6299077
 }

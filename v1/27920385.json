@@ -5,5 +5,7 @@
   "bairro": "Cavaleiros",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.4034564,
+  "lon": -41.7977989
 }

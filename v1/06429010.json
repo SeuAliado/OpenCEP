@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada das Estrelas (Aldeia da Serra)",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4926421,
+  "lon": -46.959692
 }

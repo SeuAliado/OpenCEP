@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria da Serra",
   "uf": "SP",
-  "ibge": "3547007"
+  "ibge": "3547007",
+  "lat": -22.568059,
+  "lon": -48.1600408
 }

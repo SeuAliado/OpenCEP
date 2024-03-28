@@ -5,5 +5,7 @@
   "bairro": "Vila Malaquias",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.9904984,
+  "lon": -47.4153445
 }

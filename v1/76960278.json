@@ -5,5 +5,7 @@
   "bairro": "Sociedade Bela Vista",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4252766,
+  "lon": -61.4764968
 }

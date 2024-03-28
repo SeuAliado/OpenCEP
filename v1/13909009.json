@@ -5,5 +5,7 @@
   "bairro": "Centro (Três Pontes)",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.6955246,
+  "lon": -46.7217153
 }

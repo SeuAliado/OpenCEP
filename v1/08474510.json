@@ -5,5 +5,7 @@
   "bairro": "Jardim Pérola III",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5847823,
+  "lon": -46.3792804
 }

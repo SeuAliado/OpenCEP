@@ -5,5 +5,7 @@
   "bairro": "Palmatória",
   "localidade": "Itapiúna",
   "uf": "CE",
-  "ibge": "2306504"
+  "ibge": "2306504",
+  "lat": -4.5231267,
+  "lon": -39.0081101
 }

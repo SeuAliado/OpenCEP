@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedrinhas",
   "uf": "SE",
-  "ibge": "2805109"
+  "ibge": "2805109",
+  "lat": -11.1924982,
+  "lon": -37.6742901
 }

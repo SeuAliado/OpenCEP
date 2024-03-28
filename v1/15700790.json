@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vereador Dercilio Joaquim Carvalho",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.271946,
+  "lon": -50.5278862
 }

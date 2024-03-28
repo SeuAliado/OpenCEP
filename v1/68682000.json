@@ -5,5 +5,7 @@
   "bairro": "Quatro Bocas",
   "localidade": "Tomé-Açu",
   "uf": "PA",
-  "ibge": "1508001"
+  "ibge": "1508001",
+  "lat": -2.4201889,
+  "lon": -48.2425631
 }

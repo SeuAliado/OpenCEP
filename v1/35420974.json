@@ -5,5 +5,7 @@
   "bairro": "Águas Claras",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "lat": -20.2527708,
+  "lon": -43.2250726
 }

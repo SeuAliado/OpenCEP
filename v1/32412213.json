@@ -5,5 +5,7 @@
   "bairro": "Camargos",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0381248,
+  "lon": -44.06467
 }

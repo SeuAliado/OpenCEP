@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9352185,
+  "lon": -47.0039743
 }

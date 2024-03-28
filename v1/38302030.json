@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9691216,
+  "lon": -49.4571474
 }

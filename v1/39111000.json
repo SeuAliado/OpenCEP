@@ -5,5 +5,7 @@
   "bairro": "Inhaí",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "lat": -17.9434551,
+  "lon": -43.6195857
 }

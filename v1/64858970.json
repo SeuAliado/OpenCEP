@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Alegre do Piauí",
   "uf": "PI",
-  "ibge": "2208551"
+  "ibge": "2208551",
+  "lat": -6.9833673,
+  "lon": -43.9827997
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Praia Norte",
   "uf": "TO",
-  "ibge": "1718303"
+  "ibge": "1718303",
+  "lat": -5.3931987,
+  "lon": -47.8115645
 }

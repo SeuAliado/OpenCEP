@@ -5,5 +5,7 @@
   "bairro": "Santa Cândida",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.3681503,
+  "lon": -49.2339839
 }

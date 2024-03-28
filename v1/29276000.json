@@ -5,5 +5,7 @@
   "bairro": "Melgaço",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "lat": -20.1809693,
+  "lon": -40.7692207
 }

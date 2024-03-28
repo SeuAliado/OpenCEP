@@ -5,5 +5,7 @@
   "bairro": "Natal",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.983357,
+  "lon": -49.4585629
 }

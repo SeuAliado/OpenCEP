@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7271945,
+  "lon": -36.6742892
 }

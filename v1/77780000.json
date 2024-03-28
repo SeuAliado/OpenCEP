@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arapoema",
   "uf": "TO",
-  "ibge": "1702307"
+  "ibge": "1702307",
+  "lat": -7.6550345,
+  "lon": -49.0641338
 }

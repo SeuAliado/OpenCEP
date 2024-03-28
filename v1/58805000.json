@@ -5,5 +5,7 @@
   "bairro": "Jardim Sorrilândia I",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7765832,
+  "lon": -38.2351667
 }

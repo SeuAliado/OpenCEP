@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Formoso do Araguaia",
   "uf": "TO",
-  "ibge": "1708205"
+  "ibge": "1708205",
+  "lat": -11.8165893,
+  "lon": -49.5189265
 }

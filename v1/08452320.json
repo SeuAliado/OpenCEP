@@ -5,5 +5,7 @@
   "bairro": "Jardim Augusta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5331888,
+  "lon": -46.395369
 }

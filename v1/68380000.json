@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Félix do Xingu",
   "uf": "PA",
-  "ibge": "1507300"
+  "ibge": "1507300",
+  "lat": -6.6413689,
+  "lon": -51.9825344
 }

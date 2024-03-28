@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ramilândia",
   "uf": "PR",
-  "ibge": "4121257"
+  "ibge": "4121257",
+  "lat": -25.1203092,
+  "lon": -54.0281126
 }

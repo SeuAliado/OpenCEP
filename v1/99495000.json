@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa dos Três Cantos",
   "uf": "RS",
-  "ibge": "4311270"
+  "ibge": "4311270",
+  "lat": -28.5683725,
+  "lon": -52.8587476
 }

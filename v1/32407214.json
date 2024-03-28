@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre - 1ª Seção",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0368306,
+  "lon": -44.0385772
 }

@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5702502,
+  "lon": -48.563497
 }

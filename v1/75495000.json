@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jesúpolis",
   "uf": "GO",
-  "ibge": "5212055"
+  "ibge": "5212055",
+  "lat": -15.9527282,
+  "lon": -49.3749831
 }

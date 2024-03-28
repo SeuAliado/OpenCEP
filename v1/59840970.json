@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taboleiro Grande",
   "uf": "RN",
-  "ibge": "2413805"
+  "ibge": "2413805",
+  "lat": -5.9314573,
+  "lon": -38.044626
 }

@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.874607,
+  "lon": -34.9107509
 }

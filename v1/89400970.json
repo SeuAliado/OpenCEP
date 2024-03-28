@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto União",
   "uf": "SC",
-  "ibge": "4213609"
+  "ibge": "4213609",
+  "lat": -26.2347796,
+  "lon": -51.0841335
 }

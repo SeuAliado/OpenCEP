@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4223371,
+  "lon": -54.7090514
 }

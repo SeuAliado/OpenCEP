@@ -5,5 +5,7 @@
   "bairro": "Água Vermelha",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5402706,
+  "lon": -46.3394663
 }

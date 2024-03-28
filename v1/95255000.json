@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campestre da Serra",
   "uf": "RS",
-  "ibge": "4303673"
+  "ibge": "4303673",
+  "lat": -28.7930823,
+  "lon": -51.0946528
 }

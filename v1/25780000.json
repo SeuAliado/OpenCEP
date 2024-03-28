@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Vale do Rio Preto",
   "uf": "RJ",
-  "ibge": "3305158"
+  "ibge": "3305158",
+  "lat": -22.1784129,
+  "lon": -42.9660207
 }

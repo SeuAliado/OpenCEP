@@ -5,5 +5,7 @@
   "bairro": "Cidade dos Pirineus",
   "localidade": "Cocalzinho de Goiás",
   "uf": "GO",
-  "ibge": "5205513"
+  "ibge": "5205513",
+  "lat": -15.7775501,
+  "lon": -48.7662899
 }

@@ -5,5 +5,7 @@
   "bairro": "Barro Branco",
   "localidade": "Lauro Müller",
   "uf": "SC",
-  "ibge": "4209607"
+  "ibge": "4209607",
+  "lat": -28.4155568,
+  "lon": -49.4046288
 }

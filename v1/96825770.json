@@ -5,5 +5,7 @@
   "bairro": "Monte Verde",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7312311,
+  "lon": -52.4112335
 }

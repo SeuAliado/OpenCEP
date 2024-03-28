@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -27.0826557,
+  "lon": -48.931811
 }

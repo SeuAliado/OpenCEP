@@ -5,5 +5,7 @@
   "bairro": "Araújo Costa",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1395205,
+  "lon": -58.4498871
 }

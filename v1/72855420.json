@@ -5,5 +5,7 @@
   "bairro": "Parque São Sebastião",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1541887,
+  "lon": -47.9278687
 }

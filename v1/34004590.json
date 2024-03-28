@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial I",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9988142,
+  "lon": -43.8851211
 }

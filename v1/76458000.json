@@ -5,5 +5,7 @@
   "bairro": "Cana Brava",
   "localidade": "Minaçu",
   "uf": "GO",
-  "ibge": "5213087"
+  "ibge": "5213087",
+  "lat": -13.534004,
+  "lon": -48.2234332
 }

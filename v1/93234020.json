@@ -5,5 +5,7 @@
   "bairro": "Costa do Morro",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8185916,
+  "lon": -51.1578713
 }

@@ -5,5 +5,7 @@
   "bairro": "Espigão Alto",
   "localidade": "Barracão",
   "uf": "RS",
-  "ibge": "4301800"
+  "ibge": "4301800",
+  "lat": -27.6202026,
+  "lon": -51.5175761
 }

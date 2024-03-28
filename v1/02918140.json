@@ -5,5 +5,7 @@
   "bairro": "Vila Portugal",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4949622,
+  "lon": -46.7158903
 }

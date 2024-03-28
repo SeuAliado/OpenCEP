@@ -5,5 +5,7 @@
   "bairro": "Canoas",
   "localidade": "Bom Retiro",
   "uf": "SC",
-  "ibge": "4202602"
+  "ibge": "4202602",
+  "lat": -27.7977218,
+  "lon": -49.4898208
 }

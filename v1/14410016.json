@@ -5,5 +5,7 @@
   "bairro": "Jardim Samello V",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5009569,
+  "lon": -47.3707551
 }

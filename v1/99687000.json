@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Xingu",
   "uf": "RS",
-  "ibge": "4313466"
+  "ibge": "4313466",
+  "lat": -27.7476834,
+  "lon": -53.0550311
 }

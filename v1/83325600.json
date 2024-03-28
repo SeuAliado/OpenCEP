@@ -5,5 +5,7 @@
   "bairro": "Alto Tarumã",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4129473,
+  "lon": -49.1759894
 }

@@ -5,5 +5,7 @@
   "bairro": "Anel",
   "localidade": "Viçosa",
   "uf": "AL",
-  "ibge": "2709400"
+  "ibge": "2709400",
+  "lat": -9.3339388,
+  "lon": -36.3015745
 }

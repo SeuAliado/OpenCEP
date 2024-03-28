@@ -5,5 +5,7 @@
   "bairro": "Sapucaia",
   "localidade": "Atalaia",
   "uf": "AL",
-  "ibge": "2700409"
+  "ibge": "2700409",
+  "lat": -19.8624476,
+  "lon": -44.0292941
 }

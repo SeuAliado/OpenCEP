@@ -5,5 +5,7 @@
   "bairro": "Habitar Brasil",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3353023,
+  "lon": -54.0618462
 }

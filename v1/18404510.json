@@ -5,5 +5,7 @@
   "bairro": "Bairro de Cima",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -24.0056945,
+  "lon": -48.8534516
 }

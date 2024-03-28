@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Manga",
   "uf": "MG",
-  "ibge": "3139300"
+  "ibge": "3139300",
+  "lat": -14.6651796,
+  "lon": -44.1720266
 }

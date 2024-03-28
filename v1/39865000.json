@@ -5,5 +5,7 @@
   "bairro": "Presidente Pena",
   "localidade": "Carlos Chagas",
   "uf": "MG",
-  "ibge": "3113701"
+  "ibge": "3113701",
+  "lat": -17.6913367,
+  "lon": -40.8058902
 }

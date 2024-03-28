@@ -5,5 +5,7 @@
   "bairro": "Barra do Salinas",
   "localidade": "Coronel Murta",
   "uf": "MG",
-  "ibge": "3119500"
+  "ibge": "3119500",
+  "lat": -16.6160587,
+  "lon": -42.3090289
 }

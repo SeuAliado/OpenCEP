@@ -5,5 +5,7 @@
   "bairro": "Parque Santana (Botujuru)",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.2505935,
+  "lon": -46.7526205
 }

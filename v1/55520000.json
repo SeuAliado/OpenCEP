@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeirão",
   "uf": "PE",
-  "ibge": "2611804"
+  "ibge": "2611804",
+  "lat": -8.5135139,
+  "lon": -35.3747515
 }

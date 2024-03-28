@@ -5,5 +5,7 @@
   "bairro": "Vila Praia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6176625,
+  "lon": -46.7447332
 }

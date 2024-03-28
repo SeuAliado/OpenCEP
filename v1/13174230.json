@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Belo",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8105444,
+  "lon": -47.2653216
 }

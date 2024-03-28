@@ -5,5 +5,7 @@
   "bairro": "Vila Cintra",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9065984,
+  "lon": -48.4456453
 }

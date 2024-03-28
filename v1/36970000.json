@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Manhumirim",
   "uf": "MG",
-  "ibge": "3139508"
+  "ibge": "3139508",
+  "lat": -20.3596647,
+  "lon": -41.95889
 }

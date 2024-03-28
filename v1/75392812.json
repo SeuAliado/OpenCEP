@@ -5,5 +5,7 @@
   "bairro": "Vila Emanuel",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6422446,
+  "lon": -49.5003028
 }

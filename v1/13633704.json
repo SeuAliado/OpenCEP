@@ -5,5 +5,7 @@
   "bairro": "Vertentes do Mamonal",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0277059,
+  "lon": -47.450719
 }

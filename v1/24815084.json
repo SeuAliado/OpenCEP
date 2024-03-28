@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7280844,
+  "lon": -42.8717825
 }

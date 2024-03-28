@@ -5,5 +5,7 @@
   "bairro": "Vila Sol Nascente",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7801466,
+  "lon": -47.1475956
 }

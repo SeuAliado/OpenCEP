@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Vila Propício",
   "uf": "GO",
-  "ibge": "5222302"
+  "ibge": "5222302",
+  "lat": -15.4600774,
+  "lon": -48.8864085
 }

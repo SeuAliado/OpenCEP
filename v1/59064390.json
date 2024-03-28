@@ -5,5 +5,7 @@
   "bairro": "Candelária",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.8319639,
+  "lon": -35.217175
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Aeroporto III",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9749583,
+  "lon": -47.1309267
 }

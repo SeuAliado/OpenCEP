@@ -5,5 +5,7 @@
   "bairro": "Jardim Santos Dumont II",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.968725,
+  "lon": -49.9010367
 }

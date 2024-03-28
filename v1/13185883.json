@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -23.4663285,
+  "lon": -46.7177561
 }

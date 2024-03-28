@@ -5,5 +5,7 @@
   "bairro": "Jardim Colúmbia III",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4294914,
+  "lon": -51.4319176
 }

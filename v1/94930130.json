@@ -5,5 +5,7 @@
   "bairro": "Vila Carlos Antônio Wilkens",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.958584,
+  "lon": -51.111222
 }

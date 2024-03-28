@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Macururé",
   "uf": "BA",
-  "ibge": "2919900"
+  "ibge": "2919900",
+  "lat": -9.2323999,
+  "lon": -38.904164
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Geórgia",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6454225,
+  "lon": -56.0547625
 }

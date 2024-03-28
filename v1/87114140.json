@@ -5,5 +5,7 @@
   "bairro": "Parque Pioneiros",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4327482,
+  "lon": -51.8716222
 }

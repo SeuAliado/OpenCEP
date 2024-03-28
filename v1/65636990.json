@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1074731,
+  "lon": -42.8279875
 }

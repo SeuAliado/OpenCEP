@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Velho",
   "uf": "PB",
-  "ibge": "2510600"
+  "ibge": "2510600",
+  "lat": -7.6210428,
+  "lon": -37.1508512
 }

@@ -5,5 +5,7 @@
   "bairro": "Raposo Tavares",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5536404,
+  "lon": -46.7864844
 }

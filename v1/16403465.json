@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Viver IV",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6977146,
+  "lon": -49.7416055
 }

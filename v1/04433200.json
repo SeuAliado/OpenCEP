@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6845867,
+  "lon": -46.6586416
 }

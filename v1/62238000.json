@@ -5,5 +5,7 @@
   "bairro": "Livramento",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "lat": -4.7353231,
+  "lon": -40.8116443
 }

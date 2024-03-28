@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itarantim",
   "uf": "BA",
-  "ibge": "2916807"
+  "ibge": "2916807",
+  "lat": -15.653283,
+  "lon": -40.0653302
 }

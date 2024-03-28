@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1134976,
+  "lon": -48.8941425
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Itaguaru",
   "uf": "GO",
-  "ibge": "5210604"
+  "ibge": "5210604",
+  "lat": -15.7613643,
+  "lon": -49.6319547
 }

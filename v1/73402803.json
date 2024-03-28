@@ -5,5 +5,7 @@
   "bairro": "Condomínio Santa Mônica (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6503078,
+  "lon": -47.8032077
 }

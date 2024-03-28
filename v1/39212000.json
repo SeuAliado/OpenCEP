@@ -5,5 +5,7 @@
   "bairro": "Senhora da Glória",
   "localidade": "Santo Hipólito",
   "uf": "MG",
-  "ibge": "3160603"
+  "ibge": "3160603",
+  "lat": -18.452425,
+  "lon": -44.173527
 }

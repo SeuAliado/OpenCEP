@@ -5,5 +5,7 @@
   "bairro": "Cônego",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.3246677,
+  "lon": -42.5490399
 }

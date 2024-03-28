@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5888168,
+  "lon": -44.9715296
 }

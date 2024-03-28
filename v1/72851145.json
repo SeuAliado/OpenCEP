@@ -5,5 +5,7 @@
   "bairro": "Parque Cruzeiro do Sul",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1355678,
+  "lon": -47.933177
 }

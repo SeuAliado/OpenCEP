@@ -5,5 +5,7 @@
   "bairro": "Zona de Uso Diversificado Pedro Pinto Paixão",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5170419,
+  "lon": -48.5649197
 }

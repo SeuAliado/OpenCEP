@@ -5,5 +5,7 @@
   "bairro": "Vila Nilo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4636838,
+  "lon": -46.5822756
 }

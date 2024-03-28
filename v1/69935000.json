@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Assis Brasil",
   "uf": "AC",
-  "ibge": "1200054"
+  "ibge": "1200054",
+  "lat": -10.9026895,
+  "lon": -70.1932084
 }

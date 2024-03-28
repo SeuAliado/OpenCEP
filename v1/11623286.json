@@ -5,5 +5,7 @@
   "bairro": "Juquehy",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7660496,
+  "lon": -45.7274073
 }

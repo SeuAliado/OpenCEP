@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Mariana",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7682811,
+  "lon": -47.396529
 }

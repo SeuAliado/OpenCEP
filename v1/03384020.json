@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Eduardo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5781208,
+  "lon": -46.5230941
 }

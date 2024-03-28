@@ -5,5 +5,7 @@
   "bairro": "Visconde de Araújo",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3821032,
+  "lon": -41.7824806
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jacarandás",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8779459,
+  "lon": -55.5032297
 }

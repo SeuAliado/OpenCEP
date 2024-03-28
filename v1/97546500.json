@@ -5,5 +5,7 @@
   "bairro": "Ibirapuitã",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7898228,
+  "lon": -55.7719798
 }

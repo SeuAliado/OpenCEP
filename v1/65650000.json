@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco do Maranhão",
   "uf": "MA",
-  "ibge": "2110906"
+  "ibge": "2110906",
+  "lat": -6.2519862,
+  "lon": -42.8671491
 }

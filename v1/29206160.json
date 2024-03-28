@@ -5,5 +5,7 @@
   "bairro": "Enseada Azul",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.7311282,
+  "lon": -40.5311429
 }

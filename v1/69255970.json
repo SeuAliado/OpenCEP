@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Careiro da Várzea",
   "uf": "AM",
-  "ibge": "1301159"
+  "ibge": "1301159",
+  "lat": -3.1974802,
+  "lon": -59.8254334
 }

@@ -5,5 +5,7 @@
   "bairro": "Serra da Cachoeira",
   "localidade": "Vertentes",
   "uf": "PE",
-  "ibge": "2616209"
+  "ibge": "2616209",
+  "lat": -7.897105,
+  "lon": -35.9880116
 }

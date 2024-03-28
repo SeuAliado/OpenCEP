@@ -5,5 +5,7 @@
   "bairro": "Penha",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.7783331,
+  "lon": -43.308594
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Ernestina",
   "uf": "SP",
-  "ibge": "3546504"
+  "ibge": "3546504",
+  "lat": -21.4607621,
+  "lon": -48.3907405
 }

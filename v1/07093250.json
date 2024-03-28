@@ -5,5 +5,7 @@
   "bairro": "Jardim Aida",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.454786,
+  "lon": -46.5445888
 }

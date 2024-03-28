@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9158107,
+  "lon": -38.3465643
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidente Dutra",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -22.8184772,
+  "lon": -45.1825406
 }

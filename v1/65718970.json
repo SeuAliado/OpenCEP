@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Grande do Maranhão",
   "uf": "MA",
-  "ibge": "2105963"
+  "ibge": "2105963",
+  "lat": -4.9922382,
+  "lon": -45.3873592
 }

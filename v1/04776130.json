@@ -5,5 +5,7 @@
   "bairro": "Vila Lisboa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6910924,
+  "lon": -46.7006686
 }

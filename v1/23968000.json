@@ -5,5 +5,7 @@
   "bairro": "Ilha Grande",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0102987,
+  "lon": -44.3183408
 }

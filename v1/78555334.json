@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -12.5438954,
+  "lon": -55.7260703
 }

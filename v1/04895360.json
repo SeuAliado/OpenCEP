@@ -5,5 +5,7 @@
   "bairro": "Colônia (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8582023,
+  "lon": -46.7090939
 }

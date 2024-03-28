@@ -5,5 +5,7 @@
   "bairro": "Ponte de Itabapoana",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "lat": -21.1984798,
+  "lon": -41.4582808
 }

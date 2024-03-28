@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Loreto",
   "uf": "MA",
-  "ibge": "2106102"
+  "ibge": "2106102",
+  "lat": -7.2573425,
+  "lon": -45.2243578
 }

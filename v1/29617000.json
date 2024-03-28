@@ -5,5 +5,7 @@
   "bairro": "Joatuba",
   "localidade": "Laranja da Terra",
   "uf": "ES",
-  "ibge": "3203163"
+  "ibge": "3203163",
+  "lat": -19.8998865,
+  "lon": -41.062529
 }

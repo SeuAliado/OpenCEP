@@ -5,5 +5,7 @@
   "bairro": "Jardim Fonte Nova",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6210602,
+  "lon": -49.3121397
 }

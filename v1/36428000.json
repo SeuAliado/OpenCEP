@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caranaíba",
   "uf": "MG",
-  "ibge": "3113107"
+  "ibge": "3113107",
+  "lat": -20.8745625,
+  "lon": -43.7375912
 }

@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -22.2402577,
+  "lon": -45.9591021
 }

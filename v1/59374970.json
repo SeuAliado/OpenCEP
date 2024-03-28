@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carnaúba dos Dantas",
   "uf": "RN",
-  "ibge": "2402402"
+  "ibge": "2402402",
+  "lat": -6.5563729,
+  "lon": -36.5927432
 }

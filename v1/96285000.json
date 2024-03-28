@@ -5,5 +5,7 @@
   "bairro": "São Simão",
   "localidade": "Mostardas",
   "uf": "RS",
-  "ibge": "4312500"
+  "ibge": "4312500",
+  "lat": -31.1038393,
+  "lon": -50.9152387
 }

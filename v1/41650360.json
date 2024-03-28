@@ -5,5 +5,7 @@
   "bairro": "Piatã",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.952244,
+  "lon": -38.3790379
 }

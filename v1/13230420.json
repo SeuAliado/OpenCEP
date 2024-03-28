@@ -5,5 +5,7 @@
   "bairro": "Vila Thomazina",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.2097457,
+  "lon": -46.7876954
 }

@@ -5,5 +5,7 @@
   "bairro": "São Pelegrino",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1688321,
+  "lon": -51.1866963
 }

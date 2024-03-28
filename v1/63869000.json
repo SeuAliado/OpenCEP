@@ -5,5 +5,7 @@
   "bairro": "União",
   "localidade": "Madalena",
   "uf": "CE",
-  "ibge": "2307635"
+  "ibge": "2307635",
+  "lat": -3.7083827,
+  "lon": -40.3324188
 }

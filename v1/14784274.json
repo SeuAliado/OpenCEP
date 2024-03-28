@@ -5,5 +5,7 @@
   "bairro": "Nadir Kenan",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5844971,
+  "lon": -48.5622758
 }

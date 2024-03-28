@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "São Miguel do Araguaia",
   "uf": "GO",
-  "ibge": "5220207"
+  "ibge": "5220207",
+  "lat": -13.2698681,
+  "lon": -50.1589187
 }

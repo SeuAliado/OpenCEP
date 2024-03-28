@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Figueirópolis",
   "uf": "TO",
-  "ibge": "1707652"
+  "ibge": "1707652",
+  "lat": -12.1316025,
+  "lon": -49.1752096
 }

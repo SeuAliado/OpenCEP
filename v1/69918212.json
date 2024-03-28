@@ -5,5 +5,7 @@
   "bairro": "Estação Experimental",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9649821,
+  "lon": -67.8293116
 }

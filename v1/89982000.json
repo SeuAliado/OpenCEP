@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Bernardino",
   "uf": "SC",
-  "ibge": "4215752"
+  "ibge": "4215752",
+  "lat": -26.474409,
+  "lon": -52.9691779
 }

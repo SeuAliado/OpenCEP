@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Marta",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4290936,
+  "lon": -46.8380077
 }

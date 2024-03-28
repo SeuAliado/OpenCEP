@@ -5,5 +5,7 @@
   "bairro": "Schramm",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "lat": -26.245925,
+  "lon": -49.3649423
 }

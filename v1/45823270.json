@@ -5,5 +5,7 @@
   "bairro": "Rosa Neto",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3445111,
+  "lon": -39.5757856
 }

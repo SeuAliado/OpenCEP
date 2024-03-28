@@ -5,5 +5,7 @@
   "bairro": "Santa Isabel",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8429727,
+  "lon": -42.9513927
 }

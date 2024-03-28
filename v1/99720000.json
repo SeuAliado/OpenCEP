@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quatro Irmãos",
   "uf": "RS",
-  "ibge": "4315313"
+  "ibge": "4315313",
+  "lat": -27.8594614,
+  "lon": -52.4678659
 }

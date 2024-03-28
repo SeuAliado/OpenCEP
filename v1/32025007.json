@@ -5,5 +5,7 @@
   "bairro": "Chácara Contagem",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9193959,
+  "lon": -44.101584
 }

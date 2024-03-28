@@ -5,5 +5,7 @@
   "bairro": "Choupana",
   "localidade": "Anicuns",
   "uf": "GO",
-  "ibge": "5201306"
+  "ibge": "5201306",
+  "lat": -16.3363335,
+  "lon": -50.0797375
 }

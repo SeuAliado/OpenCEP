@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Luzia",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0123897,
+  "lon": -46.8442451
 }

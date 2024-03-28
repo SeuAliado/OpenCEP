@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1103263,
+  "lon": -48.9018219
 }

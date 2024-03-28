@@ -5,5 +5,7 @@
   "bairro": "Ana Antônia",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.569024,
+  "lon": -46.9246842
 }

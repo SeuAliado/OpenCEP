@@ -5,5 +5,7 @@
   "bairro": "Ubatuba",
   "localidade": "São Francisco do Sul",
   "uf": "SC",
-  "ibge": "4216206"
+  "ibge": "4216206",
+  "lat": -26.2219419,
+  "lon": -48.500554
 }

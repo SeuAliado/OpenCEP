@@ -5,5 +5,7 @@
   "bairro": "Sucurijuquara (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4513299,
+  "lon": -48.4546615
 }

@@ -5,5 +5,7 @@
   "bairro": "Mariza",
   "localidade": "São Pedro do Ivaí",
   "uf": "PR",
-  "ibge": "4125803"
+  "ibge": "4125803",
+  "lat": -23.7721002,
+  "lon": -51.9361603
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Antonina",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3006535,
+  "lon": -48.5491161
 }

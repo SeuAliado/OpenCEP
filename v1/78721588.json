@@ -5,5 +5,7 @@
   "bairro": "Chácara Globo Recreio",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4516556,
+  "lon": -54.6287595
 }

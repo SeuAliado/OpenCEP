@@ -5,5 +5,7 @@
   "bairro": "Farrula",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7823676,
+  "lon": -43.378762
 }

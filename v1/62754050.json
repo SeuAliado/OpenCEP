@@ -5,5 +5,7 @@
   "bairro": "Jaguarão",
   "localidade": "Aracoiaba",
   "uf": "CE",
-  "ibge": "2301208"
+  "ibge": "2301208",
+  "lat": -4.4693418,
+  "lon": -38.753325
 }

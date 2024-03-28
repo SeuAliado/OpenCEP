@@ -5,5 +5,7 @@
   "bairro": "Loteamento Integração",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.912853,
+  "lon": -48.2027098
 }

@@ -5,5 +5,7 @@
   "bairro": "Elesbão",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -0.0545588,
+  "lon": -51.1646669
 }

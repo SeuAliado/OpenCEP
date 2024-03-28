@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cristalândia do Piauí",
   "uf": "PI",
-  "ibge": "2203008"
+  "ibge": "2203008",
+  "lat": -10.6447351,
+  "lon": -45.1896674
 }

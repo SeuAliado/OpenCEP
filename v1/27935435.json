@@ -5,5 +5,7 @@
   "bairro": "Jardim Maringá",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3932054,
+  "lon": -41.7909162
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto Lindo",
   "localidade": "Ibiapina",
   "uf": "CE",
-  "ibge": "2305308"
+  "ibge": "2305308",
+  "lat": -3.9455156,
+  "lon": -40.9277727
 }

@@ -5,5 +5,7 @@
   "bairro": "Ibiapaba",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7647912,
+  "lon": -43.014945
 }

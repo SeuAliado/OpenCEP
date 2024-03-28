@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.6942824,
+  "lon": -52.4209325
 }

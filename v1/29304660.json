@@ -5,5 +5,7 @@
   "bairro": "Amarelo",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8495492,
+  "lon": -41.0929633
 }

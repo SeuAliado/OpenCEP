@@ -5,5 +5,7 @@
   "bairro": "Vila Fabiano",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6731441,
+  "lon": -50.4283507
 }

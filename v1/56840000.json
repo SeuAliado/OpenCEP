@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iguaraci",
   "uf": "PE",
-  "ibge": "2606903"
+  "ibge": "2606903",
+  "lat": -7.8565391,
+  "lon": -37.4254444
 }

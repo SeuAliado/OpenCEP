@@ -5,5 +5,7 @@
   "bairro": "Parque Anhangüera (São Domingos)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4908286,
+  "lon": -46.7608237
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muqui",
   "uf": "ES",
-  "ibge": "3203809"
+  "ibge": "3203809",
+  "lat": -20.9517344,
+  "lon": -41.3466651
 }

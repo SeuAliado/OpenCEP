@@ -5,5 +5,7 @@
   "bairro": "Lajeado Bonito",
   "localidade": "Ortigueira",
   "uf": "PR",
-  "ibge": "4117305"
+  "ibge": "4117305",
+  "lat": -24.1697807,
+  "lon": -50.7665279
 }

@@ -5,5 +5,7 @@
   "bairro": "Limeira Baixa",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -27.0859191,
+  "lon": -48.8546966
 }

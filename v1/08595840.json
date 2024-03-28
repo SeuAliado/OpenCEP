@@ -5,5 +5,7 @@
   "bairro": "Pinheirinho",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4598851,
+  "lon": -46.3058633
 }

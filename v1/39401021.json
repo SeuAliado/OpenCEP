@@ -5,5 +5,7 @@
   "bairro": "Sagrada Família",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.740101,
+  "lon": -43.873908
 }

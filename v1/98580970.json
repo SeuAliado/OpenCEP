@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coronel Bicaco",
   "uf": "RS",
-  "ibge": "4305900"
+  "ibge": "4305900",
+  "lat": -27.7140907,
+  "lon": -53.7018755
 }

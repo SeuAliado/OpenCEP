@@ -5,5 +5,7 @@
   "bairro": "Vila Monteiro",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5131936,
+  "lon": -46.3416825
 }

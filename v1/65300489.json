@@ -5,5 +5,7 @@
   "bairro": "Nova Santa Inês",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -3.6605421,
+  "lon": -45.3831052
 }

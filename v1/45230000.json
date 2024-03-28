@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itagi",
   "uf": "BA",
-  "ibge": "2915106"
+  "ibge": "2915106",
+  "lat": -14.1619544,
+  "lon": -40.0134792
 }

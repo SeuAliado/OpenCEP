@@ -5,5 +5,7 @@
   "bairro": "Cervo",
   "localidade": "Borda da Mata",
   "uf": "MG",
-  "ibge": "3108305"
+  "ibge": "3108305",
+  "lat": -22.1752183,
+  "lon": -46.1904431
 }

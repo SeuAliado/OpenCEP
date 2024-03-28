@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Flórida",
   "uf": "PR",
-  "ibge": "4108106"
+  "ibge": "4108106",
+  "lat": -23.0851771,
+  "lon": -51.9550466
 }

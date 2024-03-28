@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -15.6311222,
+  "lon": -47.6626668
 }

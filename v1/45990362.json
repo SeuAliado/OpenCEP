@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa de Lima",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.5438245,
+  "lon": -39.7376281
 }

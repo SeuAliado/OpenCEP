@@ -5,5 +5,7 @@
   "bairro": "Santa Rita do Rio do Peixe",
   "localidade": "Ferros",
   "uf": "MG",
-  "ibge": "3125903"
+  "ibge": "3125903",
+  "lat": -19.1554261,
+  "lon": -43.1286375
 }

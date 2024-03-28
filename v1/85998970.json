@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mercedes",
   "uf": "PR",
-  "ibge": "4115853"
+  "ibge": "4115853",
+  "lat": -24.4505379,
+  "lon": -54.1682969
 }

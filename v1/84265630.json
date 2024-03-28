@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "lat": -24.346475,
+  "lon": -50.6151713
 }

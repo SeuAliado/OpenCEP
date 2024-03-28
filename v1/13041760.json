@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9217774,
+  "lon": -47.0561618
 }

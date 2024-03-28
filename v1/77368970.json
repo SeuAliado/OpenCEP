@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "São Salvador do Tocantins",
   "uf": "TO",
-  "ibge": "1720259"
+  "ibge": "1720259",
+  "lat": -7.2037568,
+  "lon": -48.2378914
 }

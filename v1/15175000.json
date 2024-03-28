@@ -5,5 +5,7 @@
   "bairro": "Ibiporanga",
   "localidade": "Tanabi",
   "uf": "SP",
-  "ibge": "3553401"
+  "ibge": "3553401",
+  "lat": -20.4739879,
+  "lon": -49.5829318
 }

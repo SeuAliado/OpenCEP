@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Alfineiros",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7043436,
+  "lon": -43.429996
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "lat": -17.8742201,
+  "lon": -41.4944988
 }

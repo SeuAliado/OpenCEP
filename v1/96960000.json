@@ -5,5 +5,7 @@
   "bairro": "Itaúba",
   "localidade": "Arroio do Tigre",
   "uf": "RS",
-  "ibge": "4301206"
+  "ibge": "4301206",
+  "lat": -29.2672162,
+  "lon": -53.1598579
 }

@@ -5,5 +5,7 @@
   "bairro": "Bortolândia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4560059,
+  "lon": -46.5947075
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Catarina",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -23.305213,
+  "lon": -46.7355825
 }

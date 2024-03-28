@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caraá",
   "uf": "RS",
-  "ibge": "4304713"
+  "ibge": "4304713",
+  "lat": -29.7917514,
+  "lon": -50.4344893
 }

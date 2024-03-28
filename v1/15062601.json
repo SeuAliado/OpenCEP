@@ -5,5 +5,7 @@
   "bairro": "Parque das Amoras II",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8545947,
+  "lon": -49.3218238
 }

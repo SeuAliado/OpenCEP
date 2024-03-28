@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Goianápolis",
   "uf": "GO",
-  "ibge": "5208400"
+  "ibge": "5208400",
+  "lat": -16.5145964,
+  "lon": -49.0208009
 }

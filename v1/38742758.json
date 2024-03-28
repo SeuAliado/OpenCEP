@@ -5,5 +5,7 @@
   "bairro": "Amir Amaral",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9248427,
+  "lon": -47.0143718
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bela Vista da Caroba",
   "uf": "PR",
-  "ibge": "4102752"
+  "ibge": "4102752",
+  "lat": -25.8797098,
+  "lon": -53.6642416
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Orlândia",
   "uf": "SP",
-  "ibge": "3534302"
+  "ibge": "3534302",
+  "lat": -20.7175404,
+  "lon": -47.8858187
 }

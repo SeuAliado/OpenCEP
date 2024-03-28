@@ -5,5 +5,7 @@
   "bairro": "Ana Rita",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.585118,
+  "lon": -42.6449378
 }

@@ -5,5 +5,7 @@
   "bairro": "Ideal",
   "localidade": "Aracoiaba",
   "uf": "CE",
-  "ibge": "2301208"
+  "ibge": "2301208",
+  "lat": -4.4279488,
+  "lon": -38.6690007
 }

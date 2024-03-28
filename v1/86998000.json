@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Marialva",
   "uf": "PR",
-  "ibge": "4114807"
+  "ibge": "4114807",
+  "lat": -23.554019,
+  "lon": -51.972239
 }

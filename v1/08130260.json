@@ -5,5 +5,7 @@
   "bairro": "Cidade Kemel",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5075757,
+  "lon": -46.3720872
 }

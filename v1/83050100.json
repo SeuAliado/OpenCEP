@@ -5,5 +5,7 @@
   "bairro": "Parque da Fonte",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.5009984,
+  "lon": -49.1824834
 }

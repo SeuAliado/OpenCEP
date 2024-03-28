@@ -5,5 +5,7 @@
   "bairro": "Vila Mutum",
   "localidade": "Alta Floresta",
   "uf": "MT",
-  "ibge": "5100250"
+  "ibge": "5100250",
+  "lat": -9.9008731,
+  "lon": -56.0732109
 }

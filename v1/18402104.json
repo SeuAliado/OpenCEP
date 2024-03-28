@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9500917,
+  "lon": -48.8767897
 }

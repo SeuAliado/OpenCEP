@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Cristina (Caucaia do Alto)",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.648242,
+  "lon": -47.0369883
 }

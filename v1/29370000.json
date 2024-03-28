@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição do Castelo",
   "uf": "ES",
-  "ibge": "3201704"
+  "ibge": "3201704",
+  "lat": -20.3643867,
+  "lon": -41.2421207
 }

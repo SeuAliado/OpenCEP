@@ -5,5 +5,7 @@
   "bairro": "Jardim Julieta",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0993963,
+  "lon": -45.6994519
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara II",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4428874,
+  "lon": -47.5801735
 }

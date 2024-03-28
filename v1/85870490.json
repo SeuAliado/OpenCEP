@@ -5,5 +5,7 @@
   "bairro": "Polo Universitário",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "lat": -25.4575467,
+  "lon": -54.5772485
 }

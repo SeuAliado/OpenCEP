@@ -5,5 +5,7 @@
   "bairro": "Jardim Beatriz",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7377209,
+  "lon": -46.7044409
 }

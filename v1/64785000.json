@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dirceu Arcoverde",
   "uf": "PI",
-  "ibge": "2203354"
+  "ibge": "2203354",
+  "lat": -9.3412218,
+  "lon": -42.4380249
 }

@@ -5,5 +5,7 @@
   "bairro": "Tuiutinga",
   "localidade": "Guiricema",
   "uf": "MG",
-  "ibge": "3129004"
+  "ibge": "3129004",
+  "lat": -21.1449357,
+  "lon": -42.7418388
 }

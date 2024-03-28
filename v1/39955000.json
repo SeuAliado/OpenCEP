@@ -5,5 +5,7 @@
   "bairro": "Itapiru",
   "localidade": "Rubim",
   "uf": "MG",
-  "ibge": "3156601"
+  "ibge": "3156601",
+  "lat": -16.5168678,
+  "lon": -40.4510202
 }

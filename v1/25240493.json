@@ -5,5 +5,7 @@
   "bairro": "Parque Eldorado",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6405626,
+  "lon": -43.3008378
 }

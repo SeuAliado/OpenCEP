@@ -5,5 +5,7 @@
   "bairro": "Vila Mafalda",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2125403,
+  "lon": -46.8738232
 }

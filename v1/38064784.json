@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial IV",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7321794,
+  "lon": -47.987666
 }

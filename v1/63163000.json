@@ -5,5 +5,7 @@
   "bairro": "Barreiros",
   "localidade": "Potengi",
   "uf": "CE",
-  "ibge": "2311207"
+  "ibge": "2311207",
+  "lat": -7.0658505,
+  "lon": -40.0836988
 }

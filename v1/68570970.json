@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Geraldo do Araguaia",
   "uf": "PA",
-  "ibge": "1507458"
+  "ibge": "1507458",
+  "lat": -6.3996945,
+  "lon": -48.5683452
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguaquara",
   "uf": "BA",
-  "ibge": "2917607"
+  "ibge": "2917607",
+  "lat": -13.5281974,
+  "lon": -39.9695429
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sarutaiá",
   "uf": "SP",
-  "ibge": "3551207"
+  "ibge": "3551207",
+  "lat": -23.2715358,
+  "lon": -49.4835591
 }

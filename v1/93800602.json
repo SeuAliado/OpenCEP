@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "lat": -29.6486672,
+  "lon": -51.030706
 }

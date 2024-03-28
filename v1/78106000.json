@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6526016,
+  "lon": -56.0534419
 }

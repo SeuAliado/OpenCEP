@@ -5,5 +5,7 @@
   "bairro": "Morada da Lua",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1468449,
+  "lon": -45.0006203
 }

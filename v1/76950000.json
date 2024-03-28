@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Luzia D'Oeste",
   "uf": "RO",
-  "ibge": "1100296"
+  "ibge": "1100296",
+  "lat": -12.0210954,
+  "lon": -61.7473377
 }

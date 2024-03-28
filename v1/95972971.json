@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vespasiano Correa",
   "uf": "RS",
-  "ibge": "4322855"
+  "ibge": "4322855",
+  "lat": -29.0677387,
+  "lon": -51.8573593
 }

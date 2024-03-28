@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caatiba",
   "uf": "BA",
-  "ibge": "2904803"
+  "ibge": "2904803",
+  "lat": -14.9790228,
+  "lon": -40.4100333
 }

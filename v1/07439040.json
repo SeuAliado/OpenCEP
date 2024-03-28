@@ -5,5 +5,7 @@
   "bairro": "Chácaras Copaco",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3922196,
+  "lon": -46.2763015
 }

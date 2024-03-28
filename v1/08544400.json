@@ -5,5 +5,7 @@
   "bairro": "Jardim Pérola",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5325532,
+  "lon": -46.3588552
 }

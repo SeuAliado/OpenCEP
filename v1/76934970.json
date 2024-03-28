@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Seringueiras",
   "uf": "RO",
-  "ibge": "1101500"
+  "ibge": "1101500",
+  "lat": -11.7666307,
+  "lon": -63.0386194
 }

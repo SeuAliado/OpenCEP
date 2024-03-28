@@ -5,5 +5,7 @@
   "bairro": "Maré",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8519769,
+  "lon": -43.5361234
 }

@@ -5,5 +5,7 @@
   "bairro": "Praça João Pessoa",
   "localidade": "São Francisco de Itabapoana",
   "uf": "RJ",
-  "ibge": "3304755"
+  "ibge": "3304755",
+  "lat": -21.4706831,
+  "lon": -41.1095274
 }

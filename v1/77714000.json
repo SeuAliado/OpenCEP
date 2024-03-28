@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus do Tocantins",
   "uf": "TO",
-  "ibge": "1703305"
+  "ibge": "1703305",
+  "lat": -8.9634697,
+  "lon": -48.1654695
 }

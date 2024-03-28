@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -23.622402,
+  "lon": -48.0429058
 }

@@ -5,5 +5,7 @@
   "bairro": "Severiano de Moraes Filho",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "lat": -8.8827278,
+  "lon": -36.469585
 }

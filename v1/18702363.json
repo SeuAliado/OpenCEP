@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Sucesso II",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1158106,
+  "lon": -48.9075012
 }

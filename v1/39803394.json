@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8912816,
+  "lon": -41.4948767
 }

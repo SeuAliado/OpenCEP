@@ -5,5 +5,7 @@
   "bairro": "Correnteza",
   "localidade": "Manacapuru",
   "uf": "AM",
-  "ibge": "1302504"
+  "ibge": "1302504",
+  "lat": -3.302958,
+  "lon": -60.6137338
 }

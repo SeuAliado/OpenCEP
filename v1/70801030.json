@@ -5,5 +5,7 @@
   "bairro": "Vila Planalto",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7930433,
+  "lon": -47.8544169
 }

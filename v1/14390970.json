@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio da Alegria",
   "uf": "SP",
-  "ibge": "3547908"
+  "ibge": "3547908",
+  "lat": -21.0913698,
+  "lon": -47.1516004
 }

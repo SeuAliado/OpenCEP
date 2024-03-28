@@ -5,5 +5,7 @@
   "bairro": "Maguari",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "lat": -1.3420256,
+  "lon": -48.3970316
 }

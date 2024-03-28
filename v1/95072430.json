@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1750454,
+  "lon": -51.1571422
 }

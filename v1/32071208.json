@@ -5,5 +5,7 @@
   "bairro": "Sapucaias III",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9501819,
+  "lon": -44.1108077
 }

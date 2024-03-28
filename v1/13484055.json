@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5517257,
+  "lon": -47.408313
 }

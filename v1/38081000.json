@@ -5,5 +5,7 @@
   "bairro": "Parque do Mirante",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7550916,
+  "lon": -47.9168535
 }

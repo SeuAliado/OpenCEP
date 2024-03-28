@@ -5,5 +5,7 @@
   "bairro": "Maria Luiza",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -24.9480205,
+  "lon": -53.4217826
 }

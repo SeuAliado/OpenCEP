@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Goulart",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5039908,
+  "lon": -46.513089
 }

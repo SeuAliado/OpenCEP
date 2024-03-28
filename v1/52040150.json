@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0289965,
+  "lon": -34.8833671
 }

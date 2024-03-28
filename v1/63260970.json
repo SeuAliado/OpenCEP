@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Brejo Santo",
   "uf": "CE",
-  "ibge": "2302503"
+  "ibge": "2302503",
+  "lat": -7.4929824,
+  "lon": -38.9841018
 }

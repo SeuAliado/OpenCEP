@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7982041,
+  "lon": -39.2613547
 }

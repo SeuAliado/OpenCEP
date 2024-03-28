@@ -5,5 +5,7 @@
   "bairro": "Jardim Eliana",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8061844,
+  "lon": -48.1563061
 }

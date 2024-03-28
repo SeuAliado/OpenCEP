@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Materlândia",
   "uf": "MG",
-  "ibge": "3140605"
+  "ibge": "3140605",
+  "lat": -18.4705122,
+  "lon": -43.0574259
 }

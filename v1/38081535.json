@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7524953,
+  "lon": -47.9054275
 }

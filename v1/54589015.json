@@ -5,5 +5,7 @@
   "bairro": "Pontezinha",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2250058,
+  "lon": -34.9654163
 }

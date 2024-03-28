@@ -5,5 +5,7 @@
   "bairro": "Parque Estrela Dalva XIII",
   "localidade": "Santo Antônio do Descoberto",
   "uf": "GO",
-  "ibge": "5219753"
+  "ibge": "5219753",
+  "lat": -15.9430116,
+  "lon": -48.2607792
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Primaveras",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3567367,
+  "lon": -48.9701706
 }

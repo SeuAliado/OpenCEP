@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marco",
   "uf": "CE",
-  "ibge": "2307809"
+  "ibge": "2307809",
+  "lat": -3.1288748,
+  "lon": -40.1585979
 }

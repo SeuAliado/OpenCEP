@@ -5,5 +5,7 @@
   "bairro": "Chácara Sete Cruzes",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6121978,
+  "lon": -46.3770688
 }

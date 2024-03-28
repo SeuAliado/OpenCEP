@@ -5,5 +5,7 @@
   "bairro": "Areias",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7555834,
+  "lon": -38.2259173
 }

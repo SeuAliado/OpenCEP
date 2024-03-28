@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaqui",
   "uf": "RS",
-  "ibge": "4310603"
+  "ibge": "4310603",
+  "lat": -29.1224742,
+  "lon": -56.5555552
 }

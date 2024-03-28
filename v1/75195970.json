@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Bonfinópolis",
   "uf": "GO",
-  "ibge": "5203559"
+  "ibge": "5203559",
+  "lat": -16.6193634,
+  "lon": -48.9627878
 }

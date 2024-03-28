@@ -5,5 +5,7 @@
   "bairro": "Loteamento Barros",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1805998,
+  "lon": -48.2191473
 }

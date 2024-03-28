@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9227931,
+  "lon": -45.4579841
 }

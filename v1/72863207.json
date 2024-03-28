@@ -5,5 +5,7 @@
   "bairro": "Residencial América do Sul",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.0902978,
+  "lon": -48.0305763
 }

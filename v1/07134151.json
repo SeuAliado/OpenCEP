@@ -5,5 +5,7 @@
   "bairro": "Vila São João Batista",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4255653,
+  "lon": -46.516074
 }

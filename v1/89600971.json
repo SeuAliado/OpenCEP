@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Joaçaba",
   "uf": "SC",
-  "ibge": "4209003"
+  "ibge": "4209003",
+  "lat": -27.1722825,
+  "lon": -51.5032386
 }

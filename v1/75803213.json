@@ -5,5 +5,7 @@
   "bairro": "Sodré",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8981148,
+  "lon": -51.7306581
 }

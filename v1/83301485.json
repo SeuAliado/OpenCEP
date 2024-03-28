@@ -5,5 +5,7 @@
   "bairro": "Planta Araçatuba",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4518846,
+  "lon": -49.0728205
 }

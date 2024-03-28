@@ -5,5 +5,7 @@
   "bairro": "Bengalas",
   "localidade": "Passira",
   "uf": "PE",
-  "ibge": "2610509"
+  "ibge": "2610509",
+  "lat": -8.0140163,
+  "lon": -35.5831677
 }

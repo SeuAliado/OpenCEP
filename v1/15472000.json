@@ -5,5 +5,7 @@
   "bairro": "Duplo Céu",
   "localidade": "Palestina",
   "uf": "SP",
-  "ibge": "3535002"
+  "ibge": "3535002",
+  "lat": -20.2513589,
+  "lon": -49.5605159
 }

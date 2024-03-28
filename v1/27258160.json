@@ -5,5 +5,7 @@
   "bairro": "Jardim Belvedere",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5350435,
+  "lon": -44.0726586
 }

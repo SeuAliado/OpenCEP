@@ -5,5 +5,7 @@
   "bairro": "Luther King",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.063685,
+  "lon": -53.0471623
 }

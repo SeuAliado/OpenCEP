@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8550594,
+  "lon": -47.0404646
 }

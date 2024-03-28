@@ -5,5 +5,7 @@
   "bairro": "Jardim Meliunas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.48838,
+  "lon": -46.3786926
 }

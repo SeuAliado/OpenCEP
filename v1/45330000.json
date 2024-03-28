@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cravolândia",
   "uf": "BA",
-  "ibge": "2909505"
+  "ibge": "2909505",
+  "lat": -13.3590601,
+  "lon": -39.8153629
 }

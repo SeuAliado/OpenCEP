@@ -5,5 +5,7 @@
   "bairro": "Pilotos",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4070809,
+  "lon": -44.2659658
 }

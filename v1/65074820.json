@@ -5,5 +5,7 @@
   "bairro": "Cohafuma",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.50879,
+  "lon": -44.2674584
 }

@@ -5,5 +5,7 @@
   "bairro": "Água Branca de Minas",
   "localidade": "Comercinho",
   "uf": "MG",
-  "ibge": "3117009"
+  "ibge": "3117009",
+  "lat": -16.296723,
+  "lon": -41.7949225
 }

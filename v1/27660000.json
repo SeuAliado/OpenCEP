@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio das Flores",
   "uf": "RJ",
-  "ibge": "3304508"
+  "ibge": "3304508",
+  "lat": -22.1788684,
+  "lon": -43.5907233
 }

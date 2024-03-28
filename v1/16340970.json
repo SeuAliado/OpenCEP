@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Luiziânia",
   "uf": "SP",
-  "ibge": "3527702"
+  "ibge": "3527702",
+  "lat": -21.6770583,
+  "lon": -50.327897
 }

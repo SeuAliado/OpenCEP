@@ -5,5 +5,7 @@
   "bairro": "Jardim Veneza",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.165817,
+  "lon": -34.9086431
 }

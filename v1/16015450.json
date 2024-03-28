@@ -5,5 +5,7 @@
   "bairro": "Vila São Paulo",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.2185285,
+  "lon": -50.4367032
 }

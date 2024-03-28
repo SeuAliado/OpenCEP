@@ -5,5 +5,7 @@
   "bairro": "Vila Geni",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4647519,
+  "lon": -46.3421754
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iaciara",
   "uf": "GO",
-  "ibge": "5209903"
+  "ibge": "5209903",
+  "lat": -14.1049376,
+  "lon": -46.7091767
 }

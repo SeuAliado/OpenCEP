@@ -5,5 +5,7 @@
   "bairro": "Pitarana",
   "localidade": "Montalvânia",
   "uf": "MG",
-  "ibge": "3142700"
+  "ibge": "3142700",
+  "lat": -14.3157191,
+  "lon": -44.4599412
 }

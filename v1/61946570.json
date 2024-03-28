@@ -5,5 +5,7 @@
   "bairro": "Lameirão",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.9133947,
+  "lon": -38.6751134
 }

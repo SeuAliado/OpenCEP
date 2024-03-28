@@ -5,5 +5,7 @@
   "bairro": "Azambuja",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6356363,
+  "lon": -53.615679
 }

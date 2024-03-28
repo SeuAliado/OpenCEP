@@ -5,5 +5,7 @@
   "bairro": "Olaria",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5470649,
+  "lon": -42.6396372
 }

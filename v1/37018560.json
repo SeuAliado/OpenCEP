@@ -5,5 +5,7 @@
   "bairro": "Vila Dona Josefina",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5527951,
+  "lon": -45.4331614
 }

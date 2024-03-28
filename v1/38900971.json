@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bambuí",
   "uf": "MG",
-  "ibge": "3105103"
+  "ibge": "3105103",
+  "lat": -20.009927,
+  "lon": -45.9785305
 }

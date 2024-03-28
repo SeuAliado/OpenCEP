@@ -5,5 +5,7 @@
   "bairro": "Jardim Icaraí",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7379769,
+  "lon": -47.4092912
 }

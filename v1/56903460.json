@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Penha",
   "localidade": "Serra Talhada",
   "uf": "PE",
-  "ibge": "2613909"
+  "ibge": "2613909",
+  "lat": -7.9931628,
+  "lon": -38.3005441
 }

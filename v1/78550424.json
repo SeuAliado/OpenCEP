@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.837673,
+  "lon": -55.4935652
 }

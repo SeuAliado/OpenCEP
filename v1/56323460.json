@@ -5,5 +5,7 @@
   "bairro": "Dom Avelar",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3506509,
+  "lon": -40.5014512
 }

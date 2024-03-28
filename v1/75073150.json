@@ -5,5 +5,7 @@
   "bairro": "Chácaras de Recreio Mansões do Planalto",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2623853,
+  "lon": -48.9426552
 }

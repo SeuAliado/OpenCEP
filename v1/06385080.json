@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Pastor",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5471195,
+  "lon": -46.8434023
 }

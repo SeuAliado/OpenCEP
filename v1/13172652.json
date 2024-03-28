@@ -5,5 +5,7 @@
   "bairro": "Jardim João Paulo II",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.817399,
+  "lon": -47.2896104
 }

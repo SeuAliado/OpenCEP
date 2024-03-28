@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jomabe II",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1761407,
+  "lon": -45.7354404
 }

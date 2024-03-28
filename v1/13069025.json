@@ -5,5 +5,7 @@
   "bairro": "Parque Cidade Campinas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8366482,
+  "lon": -47.152612
 }

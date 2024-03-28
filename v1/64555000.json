@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Peixe",
   "uf": "PI",
-  "ibge": "2210102"
+  "ibge": "2210102",
+  "lat": -7.4859404,
+  "lon": -42.5675426
 }

@@ -5,5 +5,7 @@
   "bairro": "Comprida",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.115479,
+  "lon": -42.760134
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro (Porto das Caixas)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7015291,
+  "lon": -42.8769517
 }

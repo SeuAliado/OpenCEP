@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Isabel",
   "uf": "GO",
-  "ibge": "5219357"
+  "ibge": "5219357",
+  "lat": -15.2192781,
+  "lon": -49.4059435
 }

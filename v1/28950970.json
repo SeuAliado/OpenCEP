@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Armação dos Búzios",
   "uf": "RJ",
-  "ibge": "3300233"
+  "ibge": "3300233",
+  "lat": -22.7554218,
+  "lon": -41.883539
 }

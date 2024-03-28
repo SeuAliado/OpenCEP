@@ -5,5 +5,7 @@
   "bairro": "Alto do Jacú (Sambaetiba)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.6839385,
+  "lon": -42.7983197
 }

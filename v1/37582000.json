@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Careaçu",
   "uf": "MG",
-  "ibge": "3113602"
+  "ibge": "3113602",
+  "lat": -22.2214007,
+  "lon": -45.9387212
 }

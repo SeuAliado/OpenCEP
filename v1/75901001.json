@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Bárbara",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7896393,
+  "lon": -50.9358882
 }

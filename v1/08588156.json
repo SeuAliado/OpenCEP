@@ -5,5 +5,7 @@
   "bairro": "residencial Flamboyant",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4875252,
+  "lon": -46.3071827
 }

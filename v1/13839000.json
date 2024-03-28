@@ -5,5 +5,7 @@
   "bairro": "Tujuguaba",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "lat": -22.3776569,
+  "lon": -47.1649896
 }

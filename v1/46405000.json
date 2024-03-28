@@ -5,5 +5,7 @@
   "bairro": "Brejinho das Ametistas",
   "localidade": "Caetité",
   "uf": "BA",
-  "ibge": "2905206"
+  "ibge": "2905206",
+  "lat": -14.0730851,
+  "lon": -42.4844078
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8258002,
+  "lon": -47.2658984
 }

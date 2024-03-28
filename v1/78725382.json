@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Bosco",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.446514,
+  "lon": -54.6080706
 }

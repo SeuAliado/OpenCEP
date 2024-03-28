@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tabuleiro",
   "uf": "MG",
-  "ibge": "3167905"
+  "ibge": "3167905",
+  "lat": -21.3601581,
+  "lon": -43.2485732
 }

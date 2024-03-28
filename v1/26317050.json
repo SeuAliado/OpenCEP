@@ -5,5 +5,7 @@
   "bairro": "Piabas",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7246824,
+  "lon": -43.5866676
 }

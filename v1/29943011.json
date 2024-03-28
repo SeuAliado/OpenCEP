@@ -5,5 +5,7 @@
   "bairro": "Ayrton Senna",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7321024,
+  "lon": -39.8397835
 }

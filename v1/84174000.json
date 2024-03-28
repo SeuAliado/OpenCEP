@@ -5,5 +5,7 @@
   "bairro": "Jardim Social Primavera",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -24.8017706,
+  "lon": -49.9898809
 }

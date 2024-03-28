@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -20.9454764,
+  "lon": -48.4846571
 }

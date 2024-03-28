@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uruana de Minas",
   "uf": "MG",
-  "ibge": "3170479"
+  "ibge": "3170479",
+  "lat": -16.0601481,
+  "lon": -46.2561982
 }

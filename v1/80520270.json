@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4127372,
+  "lon": -49.2808877
 }

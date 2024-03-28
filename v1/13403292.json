@@ -5,5 +5,7 @@
   "bairro": "Jupiá",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7160057,
+  "lon": -47.6808845
 }

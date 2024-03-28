@@ -5,5 +5,7 @@
   "bairro": "Baixa União",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7685108,
+  "lon": -63.905479
 }

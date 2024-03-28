@@ -5,5 +5,7 @@
   "bairro": "Jardim Luciana",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.318672,
+  "lon": -46.764235
 }

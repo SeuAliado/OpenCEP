@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9060777,
+  "lon": -48.2940391
 }

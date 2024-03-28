@@ -5,5 +5,7 @@
   "bairro": "Parque dos Ingás",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1385188,
+  "lon": -46.9234698
 }

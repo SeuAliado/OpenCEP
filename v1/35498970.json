@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jeceaba",
   "uf": "MG",
-  "ibge": "3135407"
+  "ibge": "3135407",
+  "lat": -20.5360126,
+  "lon": -43.9836429
 }

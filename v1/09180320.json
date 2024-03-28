@@ -5,5 +5,7 @@
   "bairro": "Jardim Monções",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6898034,
+  "lon": -46.5307898
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Carla",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9894628,
+  "lon": -46.2850804
 }

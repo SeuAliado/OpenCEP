@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedras de Fogo",
   "uf": "PB",
-  "ibge": "2511202"
+  "ibge": "2511202",
+  "lat": -7.4009253,
+  "lon": -35.1117491
 }

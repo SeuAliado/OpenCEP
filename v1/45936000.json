@@ -5,5 +5,7 @@
   "bairro": "Itabatan",
   "localidade": "Mucuri",
   "uf": "BA",
-  "ibge": "2922003"
+  "ibge": "2922003",
+  "lat": -17.9985296,
+  "lon": -39.8632103
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "São Sebastião do Tocantins",
   "uf": "TO",
-  "ibge": "1720309"
+  "ibge": "1720309",
+  "lat": -5.2660881,
+  "lon": -48.192364
 }

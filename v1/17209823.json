@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Onofre",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2673316,
+  "lon": -48.5408281
 }

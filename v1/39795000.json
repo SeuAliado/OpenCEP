@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião do Maranhão",
   "uf": "MG",
-  "ibge": "3164506"
+  "ibge": "3164506",
+  "lat": -18.0188934,
+  "lon": -42.5117238
 }

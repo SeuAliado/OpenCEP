@@ -5,5 +5,7 @@
   "bairro": "Luzardo Viana",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8536785,
+  "lon": -38.6421634
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Kida",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4677689,
+  "lon": -46.5139444
 }

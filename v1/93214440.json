@@ -5,5 +5,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8237106,
+  "lon": -51.1522396
 }

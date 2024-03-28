@@ -5,5 +5,7 @@
   "bairro": "Mercês",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4269459,
+  "lon": -49.2941088
 }

@@ -5,5 +5,7 @@
   "bairro": "Murucupi",
   "localidade": "Barcarena",
   "uf": "PA",
-  "ibge": "1501303"
+  "ibge": "1501303",
+  "lat": -1.5648449,
+  "lon": -48.7657179
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canelinha",
   "uf": "SC",
-  "ibge": "4203709"
+  "ibge": "4203709",
+  "lat": -27.2444481,
+  "lon": -48.6388159
 }

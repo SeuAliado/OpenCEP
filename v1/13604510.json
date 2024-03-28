@@ -5,5 +5,7 @@
   "bairro": "Chácara Recreio Vila Rica",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3426185,
+  "lon": -47.3682811
 }

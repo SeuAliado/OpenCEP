@@ -5,5 +5,7 @@
   "bairro": "Posse",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7272788,
+  "lon": -43.4575073
 }

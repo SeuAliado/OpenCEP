@@ -5,5 +5,7 @@
   "bairro": "Palestina",
   "localidade": "Santa Cruz do Capibaribe",
   "uf": "PE",
-  "ibge": "2612505"
+  "ibge": "2612505",
+  "lat": -7.9524443,
+  "lon": -36.1926578
 }

@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.414785,
+  "lon": -42.9627622
 }

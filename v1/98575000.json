@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Progresso",
   "uf": "RS",
-  "ibge": "4302378"
+  "ibge": "4302378",
+  "lat": -27.540339,
+  "lon": -53.8721287
 }

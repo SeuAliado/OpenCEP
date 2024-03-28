@@ -5,5 +5,7 @@
   "bairro": "Santa Bárbara",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3567465,
+  "lon": -40.391077
 }

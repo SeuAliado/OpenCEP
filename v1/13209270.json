@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Luiza",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.177217,
+  "lon": -46.9011414
 }

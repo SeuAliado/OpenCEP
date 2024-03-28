@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Real",
   "uf": "RJ",
-  "ibge": "3304110"
+  "ibge": "3304110",
+  "lat": -22.4179651,
+  "lon": -44.2955901
 }

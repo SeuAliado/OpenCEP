@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7401092,
+  "lon": -63.9088021
 }

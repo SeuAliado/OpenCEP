@@ -5,5 +5,7 @@
   "bairro": "Colônia Dom Pedro II",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4634169,
+  "lon": -49.4411139
 }

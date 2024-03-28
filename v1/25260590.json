@@ -5,5 +5,7 @@
   "bairro": "Parque A Equitativa",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.637829,
+  "lon": -43.2426754
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Roberto",
   "uf": "MA",
-  "ibge": "2111672"
+  "ibge": "2111672",
+  "lat": -5.0234819,
+  "lon": -45.0013905
 }

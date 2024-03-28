@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Félix do Coribe",
   "uf": "BA",
-  "ibge": "2929057"
+  "ibge": "2929057",
+  "lat": -13.4022661,
+  "lon": -44.1950352
 }

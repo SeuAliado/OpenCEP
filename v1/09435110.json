@@ -5,5 +5,7 @@
   "bairro": "Quarta Divisão",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.6567106,
+  "lon": -46.3661364
 }

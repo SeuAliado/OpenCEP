@@ -5,5 +5,7 @@
   "bairro": "Brum",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.644725,
+  "lon": -53.5764031
 }

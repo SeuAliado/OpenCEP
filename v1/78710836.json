@@ -5,5 +5,7 @@
   "bairro": "Loteamento Santos Dumont",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.457871,
+  "lon": -54.630628
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8050531,
+  "lon": -48.1889422
 }

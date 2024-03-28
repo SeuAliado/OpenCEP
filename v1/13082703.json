@@ -5,5 +5,7 @@
   "bairro": "Jardim São Gonçalo",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8297645,
+  "lon": -47.0964647
 }

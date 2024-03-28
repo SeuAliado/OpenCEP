@@ -5,5 +5,7 @@
   "bairro": "João Cordeiro",
   "localidade": "Santana do Acaraú",
   "uf": "CE",
-  "ibge": "2312007"
+  "ibge": "2312007",
+  "lat": -3.4618114,
+  "lon": -40.2121854
 }

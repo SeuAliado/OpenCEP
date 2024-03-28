@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Paraíso",
   "uf": "RO",
-  "ibge": "1100403"
+  "ibge": "1100403",
+  "lat": -9.5900449,
+  "lon": -63.297505
 }

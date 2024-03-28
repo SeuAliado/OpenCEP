@@ -5,5 +5,7 @@
   "bairro": "Poço",
   "localidade": "Brejo Santo",
   "uf": "CE",
-  "ibge": "2302503"
+  "ibge": "2302503",
+  "lat": -7.469362,
+  "lon": -38.9357542
 }

@@ -5,5 +5,7 @@
   "bairro": "São Timóteo",
   "localidade": "Livramento de Nossa Senhora",
   "uf": "BA",
-  "ibge": "2919504"
+  "ibge": "2919504",
+  "lat": -13.8441071,
+  "lon": -42.1576871
 }

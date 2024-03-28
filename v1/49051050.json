@@ -5,5 +5,7 @@
   "bairro": "Pereira Lobo",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "lat": -10.9246633,
+  "lon": -37.0601583
 }

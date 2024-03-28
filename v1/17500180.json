@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -24.0178603,
+  "lon": -46.4424674
 }

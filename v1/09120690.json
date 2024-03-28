@@ -5,5 +5,7 @@
   "bairro": "Vila Guaraciaba",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6855334,
+  "lon": -46.4962075
 }

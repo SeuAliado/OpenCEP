@@ -5,5 +5,7 @@
   "bairro": "São Domingos",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7368946,
+  "lon": -39.0655749
 }

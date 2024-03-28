@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaiçaba",
   "uf": "CE",
-  "ibge": "2306207"
+  "ibge": "2306207",
+  "lat": -4.7154727,
+  "lon": -37.8300034
 }

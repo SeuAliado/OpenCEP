@@ -5,5 +5,7 @@
   "bairro": "Vila Senhora de Fátima",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6251506,
+  "lon": -43.2345186
 }

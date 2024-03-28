@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Japaratinga",
   "uf": "AL",
-  "ibge": "2703601"
+  "ibge": "2703601",
+  "lat": -9.088474,
+  "lon": -35.2585993
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Viel",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8217378,
+  "lon": -47.2019467
 }

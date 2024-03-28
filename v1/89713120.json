@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -18.183344,
+  "lon": -49.2905108
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Reunidas Igarapés",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.2972272,
+  "lon": -46.0387769
 }

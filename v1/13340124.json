@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0636083,
+  "lon": -47.1375758
 }

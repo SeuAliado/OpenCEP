@@ -5,5 +5,7 @@
   "bairro": "Jardim Quintas das Videiras",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1898115,
+  "lon": -46.9171097
 }

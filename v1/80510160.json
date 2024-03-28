@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.418082,
+  "lon": -49.2822348
 }

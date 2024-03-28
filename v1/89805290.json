@@ -5,5 +5,7 @@
   "bairro": "Líder",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1014093,
+  "lon": -52.6274152
 }

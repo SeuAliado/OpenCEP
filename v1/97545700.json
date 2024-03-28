@@ -5,5 +5,7 @@
   "bairro": "Novo Lar",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.81131,
+  "lon": -55.8094406
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês II",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -22.0066157,
+  "lon": -46.7813891
 }

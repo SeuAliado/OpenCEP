@@ -5,5 +5,7 @@
   "bairro": "Marambaia",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4002941,
+  "lon": -48.451843
 }

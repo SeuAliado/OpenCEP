@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro de Viracopos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9854433,
+  "lon": -47.1397816
 }

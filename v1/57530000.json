@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canapi",
   "uf": "AL",
-  "ibge": "2701605"
+  "ibge": "2701605",
+  "lat": -9.1160761,
+  "lon": -37.603661
 }

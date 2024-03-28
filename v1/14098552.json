@@ -5,5 +5,7 @@
   "bairro": "Recreio das Acácias",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.2357589,
+  "lon": -47.7703554
 }

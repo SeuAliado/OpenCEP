@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora das Graças",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5232905,
+  "lon": -47.395902
 }

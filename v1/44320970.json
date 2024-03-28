@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conceição da Feira",
   "uf": "BA",
-  "ibge": "2908200"
+  "ibge": "2908200",
+  "lat": -12.5062235,
+  "lon": -39.0024971
 }

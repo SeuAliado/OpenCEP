@@ -5,5 +5,7 @@
   "bairro": "Sapucaia",
   "localidade": "Marilândia",
   "uf": "ES",
-  "ibge": "3203353"
+  "ibge": "3203353",
+  "lat": -19.3619406,
+  "lon": -40.6070039
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacareacanga",
   "uf": "PA",
-  "ibge": "1503754"
+  "ibge": "1503754",
+  "lat": -6.223847,
+  "lon": -57.7607526
 }

@@ -5,5 +5,7 @@
   "bairro": "Itanguá",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.325698,
+  "lon": -40.383837
 }

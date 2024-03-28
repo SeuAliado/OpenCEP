@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jequitinhonha",
   "uf": "MG",
-  "ibge": "3135803"
+  "ibge": "3135803",
+  "lat": -16.4510937,
+  "lon": -41.0394028
 }

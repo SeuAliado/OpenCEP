@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Macaubal",
   "uf": "SP",
-  "ibge": "3528106"
+  "ibge": "3528106",
+  "lat": -20.8062432,
+  "lon": -49.9636465
 }

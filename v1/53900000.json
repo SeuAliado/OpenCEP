@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ilha de Itamaracá",
   "uf": "PE",
-  "ibge": "2607604"
+  "ibge": "2607604",
+  "lat": -7.7480776,
+  "lon": -34.8306327
 }

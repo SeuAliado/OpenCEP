@@ -5,5 +5,7 @@
   "bairro": "Jardim das Figueiras",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4724588,
+  "lon": -47.0176819
 }

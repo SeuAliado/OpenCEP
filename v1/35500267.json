@@ -5,5 +5,7 @@
   "bairro": "Itaí",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1400422,
+  "lon": -44.8700406
 }

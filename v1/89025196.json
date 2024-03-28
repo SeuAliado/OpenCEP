@@ -5,5 +5,7 @@
   "bairro": "Glória",
   "localidade": "Blumenau",
   "uf": "SC",
-  "ibge": "4202404"
+  "ibge": "4202404",
+  "lat": -26.9678795,
+  "lon": -49.1017547
 }

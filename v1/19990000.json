@@ -5,5 +5,7 @@
   "bairro": "Platina",
   "localidade": "Platina",
   "uf": "SP",
-  "ibge": "3539707"
+  "ibge": "3539707",
+  "lat": -22.6129815,
+  "lon": -50.2038438
 }

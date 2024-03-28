@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9936307,
+  "lon": -43.8457104
 }

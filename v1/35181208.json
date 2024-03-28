@@ -5,5 +5,7 @@
   "bairro": "Eldorados",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.54055,
+  "lon": -42.6223539
 }

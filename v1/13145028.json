@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7557642,
+  "lon": -47.1604202
 }

@@ -5,5 +5,7 @@
   "bairro": "Copacabana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7062655,
+  "lon": -46.7330975
 }

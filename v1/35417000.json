@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Salto",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "lat": -20.4973851,
+  "lon": -43.4683107
 }

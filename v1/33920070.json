@@ -5,5 +5,7 @@
   "bairro": "José Maria da Costa",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.767234,
+  "lon": -44.0029272
 }

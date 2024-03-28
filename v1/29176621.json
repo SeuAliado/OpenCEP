@@ -5,5 +5,7 @@
   "bairro": "Palmeiras",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -23.673599,
+  "lon": -45.4346139
 }

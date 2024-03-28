@@ -5,5 +5,7 @@
   "bairro": "Posses",
   "localidade": "Leme do Prado",
   "uf": "MG",
-  "ibge": "3138351"
+  "ibge": "3138351",
+  "lat": -17.0433937,
+  "lon": -42.7898001
 }

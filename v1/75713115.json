@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1800222,
+  "lon": -47.9633899
 }

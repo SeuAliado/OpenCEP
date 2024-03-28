@@ -5,5 +5,7 @@
   "bairro": "Vila Militar",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.3980931,
+  "lon": -38.2191907
 }

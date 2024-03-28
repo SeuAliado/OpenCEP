@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperador",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.760795,
+  "lon": -47.2641345
 }

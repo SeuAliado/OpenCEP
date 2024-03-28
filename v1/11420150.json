@@ -5,5 +5,7 @@
   "bairro": "Vila Alzira",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -24.0103393,
+  "lon": -46.2705111
 }

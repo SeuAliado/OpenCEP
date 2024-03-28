@@ -5,5 +5,7 @@
   "bairro": "Nova Marabá",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "lat": -5.3413346,
+  "lon": -49.0987914
 }

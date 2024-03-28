@@ -5,5 +5,7 @@
   "bairro": "Presidente Médici",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2821912,
+  "lon": -40.3849876
 }

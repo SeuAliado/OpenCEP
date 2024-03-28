@@ -5,5 +5,7 @@
   "bairro": "Parque dos Eucaliptos",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3896609,
+  "lon": -46.9295314
 }

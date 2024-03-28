@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Nenê Pereira Lima",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4536884,
+  "lon": -47.0224609
 }

@@ -5,5 +5,7 @@
   "bairro": "Andorinhas",
   "localidade": "Tupaciguara",
   "uf": "MG",
-  "ibge": "3169604"
+  "ibge": "3169604",
+  "lat": -18.5966713,
+  "lon": -48.7029979
 }

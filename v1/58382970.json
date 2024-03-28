@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riachão do Bacamarte",
   "uf": "PB",
-  "ibge": "2512754"
+  "ibge": "2512754",
+  "lat": -7.1505186,
+  "lon": -35.266122
 }

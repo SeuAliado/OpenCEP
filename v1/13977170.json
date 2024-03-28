@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Bárbara",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4478644,
+  "lon": -46.8390118
 }

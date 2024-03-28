@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Izabel",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1104385,
+  "lon": -51.3925969
 }

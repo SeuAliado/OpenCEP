@@ -5,5 +5,7 @@
   "bairro": "Jardim Vale do Verde",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5889611,
+  "lon": -48.5588413
 }

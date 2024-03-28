@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carmo do Rio Verde",
   "uf": "GO",
-  "ibge": "5205000"
+  "ibge": "5205000",
+  "lat": -15.3527972,
+  "lon": -49.7068904
 }

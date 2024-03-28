@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arapuá",
   "uf": "MG",
-  "ibge": "3103801"
+  "ibge": "3103801",
+  "lat": -19.0328239,
+  "lon": -46.1535577
 }

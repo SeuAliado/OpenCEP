@@ -5,5 +5,7 @@
   "bairro": "Tavares de Minas",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8277443,
+  "lon": -44.6264439
 }

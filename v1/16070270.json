@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Ezequiel Barbosa",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1966108,
+  "lon": -50.4774716
 }

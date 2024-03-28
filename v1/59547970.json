@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedra Preta",
   "uf": "RN",
-  "ibge": "2409605"
+  "ibge": "2409605",
+  "lat": -5.5803558,
+  "lon": -36.1041946
 }

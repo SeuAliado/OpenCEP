@@ -5,5 +5,7 @@
   "bairro": "Vila Andrade Neves",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8957683,
+  "lon": -47.0751722
 }

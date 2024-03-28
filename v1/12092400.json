@@ -5,5 +5,7 @@
   "bairro": "Sítio Belo Horizonte",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0494269,
+  "lon": -45.587876
 }

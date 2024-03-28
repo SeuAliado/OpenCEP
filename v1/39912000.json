@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Divisópolis",
   "uf": "MG",
-  "ibge": "3122454"
+  "ibge": "3122454",
+  "lat": -15.7258129,
+  "lon": -41.0000685
 }

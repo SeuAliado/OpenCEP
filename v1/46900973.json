@@ -5,5 +5,7 @@
   "bairro": "Olhos D'Água Antonio Francisco",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "lat": -12.4166959,
+  "lon": -41.7898509
 }

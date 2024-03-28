@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5431747,
+  "lon": -55.7090999
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Aeroporto",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8781928,
+  "lon": -51.7303475
 }

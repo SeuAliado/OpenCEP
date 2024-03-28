@@ -5,5 +5,7 @@
   "bairro": "Baraúnas",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "lat": -12.440512,
+  "lon": -41.6325743
 }

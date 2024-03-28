@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Três Ranchos",
   "uf": "GO",
-  "ibge": "5221304"
+  "ibge": "5221304",
+  "lat": -18.3602018,
+  "lon": -47.7797884
 }

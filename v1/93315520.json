@@ -5,5 +5,7 @@
   "bairro": "Operário",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.6727741,
+  "lon": -51.1324468
 }

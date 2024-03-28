@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rubiataba",
   "uf": "GO",
-  "ibge": "5218904"
+  "ibge": "5218904",
+  "lat": -15.1663568,
+  "lon": -49.8054789
 }

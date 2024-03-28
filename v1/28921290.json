@@ -5,5 +5,7 @@
   "bairro": "Caminho de Búzios",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.8315137,
+  "lon": -42.0069381
 }

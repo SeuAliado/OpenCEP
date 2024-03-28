@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4584146,
+  "lon": -46.4946897
 }

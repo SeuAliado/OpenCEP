@@ -5,5 +5,7 @@
   "bairro": "Lima Campos",
   "localidade": "Icó",
   "uf": "CE",
-  "ibge": "2305407"
+  "ibge": "2305407",
+  "lat": -6.3920568,
+  "lon": -38.8529468
 }

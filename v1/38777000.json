@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "lat": -17.7310905,
+  "lon": -46.1553411
 }

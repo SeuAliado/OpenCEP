@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pilar",
   "uf": "AL",
-  "ibge": "2706901"
+  "ibge": "2706901",
+  "lat": -9.6373124,
+  "lon": -35.7009438
 }

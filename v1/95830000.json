@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "General Câmara",
   "uf": "RS",
-  "ibge": "4308805"
+  "ibge": "4308805",
+  "lat": -29.8078055,
+  "lon": -51.9757774
 }

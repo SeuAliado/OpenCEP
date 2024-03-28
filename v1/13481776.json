@@ -5,5 +5,7 @@
   "bairro": "Jardim Lagoa Nova",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.621303,
+  "lon": -47.4096948
 }

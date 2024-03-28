@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5919291,
+  "lon": -46.9423522
 }

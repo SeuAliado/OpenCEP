@@ -5,5 +5,7 @@
   "bairro": "Andrade Araujo",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.750539,
+  "lon": -43.4173207
 }

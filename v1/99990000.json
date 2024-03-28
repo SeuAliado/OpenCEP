@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Muliterno",
   "uf": "RS",
-  "ibge": "4312625"
+  "ibge": "4312625",
+  "lat": -28.3257923,
+  "lon": -51.770183
 }

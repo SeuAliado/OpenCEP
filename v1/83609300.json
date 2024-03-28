@@ -5,5 +5,7 @@
   "bairro": "Vila Déa",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4601339,
+  "lon": -49.3914868
 }

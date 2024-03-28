@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campina Grande do Sul",
   "uf": "PR",
-  "ibge": "4104006"
+  "ibge": "4104006",
+  "lat": -25.304824,
+  "lon": -49.0531305
 }

@@ -5,5 +5,7 @@
   "bairro": "Quatipuru",
   "localidade": "Quatipuru",
   "uf": "PA",
-  "ibge": "1506112"
+  "ibge": "1506112",
+  "lat": -0.8150544,
+  "lon": -47.0267258
 }

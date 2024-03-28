@@ -5,5 +5,7 @@
   "bairro": "Vila Madre Gertrudes I",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9506694,
+  "lon": -44.0050321
 }

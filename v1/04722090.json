@@ -5,5 +5,7 @@
   "bairro": "Granja Julieta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6395513,
+  "lon": -46.7024383
 }

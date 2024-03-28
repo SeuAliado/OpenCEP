@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaueira",
   "uf": "PI",
-  "ibge": "2205102"
+  "ibge": "2205102",
+  "lat": -7.6002958,
+  "lon": -43.0252845
 }

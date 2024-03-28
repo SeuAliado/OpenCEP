@@ -5,5 +5,7 @@
   "bairro": "Amador Bueno",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5298206,
+  "lon": -46.9800327
 }

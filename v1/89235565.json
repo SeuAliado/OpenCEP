@@ -5,5 +5,7 @@
   "bairro": "Boehmerwald",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "lat": -26.3637881,
+  "lon": -48.8276439
 }

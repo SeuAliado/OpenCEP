@@ -5,5 +5,7 @@
   "bairro": "Vila Friburgo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6938424,
+  "lon": -46.7002121
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Toledo Ville",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

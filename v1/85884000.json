@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Medianeira",
   "uf": "PR",
-  "ibge": "4115804"
+  "ibge": "4115804",
+  "lat": -25.2952784,
+  "lon": -54.0932225
 }

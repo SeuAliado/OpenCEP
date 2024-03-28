@@ -5,5 +5,7 @@
   "bairro": "Park Rinaldo",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5346841,
+  "lon": -45.4586638
 }

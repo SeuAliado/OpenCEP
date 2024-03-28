@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio",
   "uf": "RN",
-  "ibge": "2411502"
+  "ibge": "2411502",
+  "lat": -6.3114902,
+  "lon": -35.4785148
 }

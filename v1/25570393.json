@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rosa",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.768268,
+  "lon": -43.3499647
 }

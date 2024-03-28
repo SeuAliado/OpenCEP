@@ -5,5 +5,7 @@
   "bairro": "Parque Ipiranga",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1241494,
+  "lon": -48.9914897
 }

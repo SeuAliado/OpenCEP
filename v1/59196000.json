@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro Velho",
   "uf": "RN",
-  "ibge": "2409803"
+  "ibge": "2409803",
+  "lat": -6.46114,
+  "lon": -35.2368246
 }

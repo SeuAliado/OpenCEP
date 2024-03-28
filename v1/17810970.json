@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mariápolis",
   "uf": "SP",
-  "ibge": "3528908"
+  "ibge": "3528908",
+  "lat": -21.796945,
+  "lon": -51.1811268
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Inhacorá",
   "uf": "RS",
-  "ibge": "4310413"
+  "ibge": "4310413",
+  "lat": -27.8756705,
+  "lon": -54.0155013
 }

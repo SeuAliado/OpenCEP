@@ -5,5 +5,7 @@
   "bairro": "Cruz das Armas",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1488595,
+  "lon": -34.8905068
 }

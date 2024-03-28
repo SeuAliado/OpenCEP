@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Janiópolis",
   "uf": "PR",
-  "ibge": "4112207"
+  "ibge": "4112207",
+  "lat": -24.1416874,
+  "lon": -52.7831909
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora Aparecida",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4194087,
+  "lon": -46.3918713
 }

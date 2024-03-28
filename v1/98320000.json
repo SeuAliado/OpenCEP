@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lajeado do Bugre",
   "uf": "RS",
-  "ibge": "4311429"
+  "ibge": "4311429",
+  "lat": -27.6917961,
+  "lon": -53.1823271
 }

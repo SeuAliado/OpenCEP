@@ -5,5 +5,7 @@
   "bairro": "Residencial Colina do Espraiado",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5564204,
+  "lon": -47.3833125
 }

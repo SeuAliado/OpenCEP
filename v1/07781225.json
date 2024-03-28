@@ -5,5 +5,7 @@
   "bairro": "Serra dos Lagos (Jordanésia)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.2973449,
+  "lon": -46.8721671
 }

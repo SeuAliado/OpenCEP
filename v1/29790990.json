@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Valério",
   "uf": "ES",
-  "ibge": "3205176"
+  "ibge": "3205176",
+  "lat": -18.9932395,
+  "lon": -40.272332
 }

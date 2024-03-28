@@ -5,5 +5,7 @@
   "bairro": "Acaracuzinho",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8489699,
+  "lon": -38.6133511
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.8008947,
+  "lon": -47.9062443
 }

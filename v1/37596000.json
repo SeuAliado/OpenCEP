@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Albertina",
   "uf": "MG",
-  "ibge": "3101409"
+  "ibge": "3101409",
+  "lat": -22.2022609,
+  "lon": -46.6143541
 }

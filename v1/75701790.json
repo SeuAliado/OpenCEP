@@ -5,5 +5,7 @@
   "bairro": "Residencial Geraldo Evangelista da Rocha",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1764916,
+  "lon": -47.9528663
 }

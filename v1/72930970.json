@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alexânia",
   "uf": "GO",
-  "ibge": "5200308"
+  "ibge": "5200308",
+  "lat": -16.0867412,
+  "lon": -48.5047673
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Esperança",
   "uf": "MG",
-  "ibge": "3107109"
+  "ibge": "3107109",
+  "lat": -21.0903291,
+  "lon": -45.5648459
 }

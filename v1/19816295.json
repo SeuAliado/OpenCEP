@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6598817,
+  "lon": -50.3931875
 }

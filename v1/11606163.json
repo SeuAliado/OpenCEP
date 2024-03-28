@@ -5,5 +5,7 @@
   "bairro": "Pontal da Cruz",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7816674,
+  "lon": -45.3990421
 }

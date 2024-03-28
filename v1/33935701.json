@@ -5,5 +5,7 @@
   "bairro": "Everest",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.8090044,
+  "lon": -44.0111801
 }

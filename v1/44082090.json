@@ -5,5 +5,7 @@
   "bairro": "Lagoa Salgada",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.2634296,
+  "lon": -38.9286407
 }

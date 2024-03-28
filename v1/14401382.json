@@ -5,5 +5,7 @@
   "bairro": "Santo Agostinho",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5288864,
+  "lon": -47.3770485
 }

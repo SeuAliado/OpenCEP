@@ -5,5 +5,7 @@
   "bairro": "Sete Cachoeiras",
   "localidade": "Ferros",
   "uf": "MG",
-  "ibge": "3125903"
+  "ibge": "3125903",
+  "lat": -18.9015386,
+  "lon": -41.9504154
 }

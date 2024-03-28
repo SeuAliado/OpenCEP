@@ -5,5 +5,7 @@
   "bairro": "Vila Zeferina",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4828252,
+  "lon": -46.3553746
 }

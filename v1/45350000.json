@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itiruçu",
   "uf": "BA",
-  "ibge": "2916906"
+  "ibge": "2916906",
+  "lat": -13.4743387,
+  "lon": -40.1657466
 }

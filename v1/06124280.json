@@ -5,5 +5,7 @@
   "bairro": "Vila Yolanda",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5478545,
+  "lon": -46.7955671
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Anhanguera",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6613766,
+  "lon": -49.1905661
 }

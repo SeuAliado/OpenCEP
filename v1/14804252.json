@@ -5,5 +5,7 @@
   "bairro": "Residencial Acapulco",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7739937,
+  "lon": -48.2068253
 }

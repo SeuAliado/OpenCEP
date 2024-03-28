@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7755111,
+  "lon": -63.8400322
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Samambaia",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5564063,
+  "lon": -48.560297
 }

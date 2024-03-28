@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Upanema",
   "uf": "RN",
-  "ibge": "2414605"
+  "ibge": "2414605",
+  "lat": -5.6407754,
+  "lon": -37.2577538
 }

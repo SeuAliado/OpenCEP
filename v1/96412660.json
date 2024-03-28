@@ -5,5 +5,7 @@
   "bairro": "Getúlio Vargas",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3241218,
+  "lon": -54.0972783
 }

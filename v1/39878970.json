@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Umburatiba",
   "uf": "MG",
-  "ibge": "3170305"
+  "ibge": "3170305",
+  "lat": -17.2539982,
+  "lon": -40.5705229
 }

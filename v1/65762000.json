@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José dos Basílios",
   "uf": "MA",
-  "ibge": "2111250"
+  "ibge": "2111250",
+  "lat": -5.0502892,
+  "lon": -44.5690225
 }

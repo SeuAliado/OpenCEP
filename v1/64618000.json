@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paquetá",
   "uf": "PI",
-  "ibge": "2207553"
+  "ibge": "2207553",
+  "lat": -7.1054206,
+  "lon": -41.7039121
 }

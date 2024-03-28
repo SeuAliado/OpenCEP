@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jenipapo de Minas",
   "uf": "MG",
-  "ibge": "3135456"
+  "ibge": "3135456",
+  "lat": -17.0844559,
+  "lon": -42.2574025
 }

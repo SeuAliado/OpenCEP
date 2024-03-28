@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.617722,
+  "lon": -46.7500648
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto Cascavel",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.398856,
+  "lon": -51.5209333
 }

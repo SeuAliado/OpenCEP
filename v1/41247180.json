@@ -5,5 +5,7 @@
   "bairro": "Pau da Lima",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9232529,
+  "lon": -38.4469481
 }

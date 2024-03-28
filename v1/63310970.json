@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Umari",
   "uf": "CE",
-  "ibge": "2313708"
+  "ibge": "2313708",
+  "lat": -6.6441838,
+  "lon": -38.7001547
 }

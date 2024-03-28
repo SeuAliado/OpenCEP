@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmeirante",
   "uf": "TO",
-  "ibge": "1715705"
+  "ibge": "1715705",
+  "lat": -7.8624636,
+  "lon": -47.936023
 }

@@ -5,5 +5,7 @@
   "bairro": "Canto da Varzea",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -7.0855602,
+  "lon": -41.4786005
 }

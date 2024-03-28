@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "lat": -22.8277307,
+  "lon": -42.0962049
 }

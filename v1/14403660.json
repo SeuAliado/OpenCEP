@@ -5,5 +5,7 @@
   "bairro": "Prolongamento Jardim Ângela Rosa",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.546273,
+  "lon": -47.3816202
 }

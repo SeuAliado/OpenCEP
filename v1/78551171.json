@@ -5,5 +5,7 @@
   "bairro": "Loteamento Florais da Amazônia",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8318329,
+  "lon": -55.4819678
 }

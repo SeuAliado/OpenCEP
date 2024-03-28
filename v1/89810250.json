@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.0661339,
+  "lon": -52.6412334
 }

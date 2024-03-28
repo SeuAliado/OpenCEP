@@ -5,5 +5,7 @@
   "bairro": "Marcílio de Noronha",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.346104,
+  "lon": -40.4264825
 }

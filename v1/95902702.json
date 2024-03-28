@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -30.2252492,
+  "lon": -51.0696697
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapirapuã",
   "uf": "GO",
-  "ibge": "5211008"
+  "ibge": "5211008",
+  "lat": -15.6727093,
+  "lon": -50.8040271
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jijoca de Jericoacoara",
   "uf": "CE",
-  "ibge": "2307254"
+  "ibge": "2307254",
+  "lat": -2.8955994,
+  "lon": -40.4496837
 }

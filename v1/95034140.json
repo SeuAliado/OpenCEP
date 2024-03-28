@@ -5,5 +5,7 @@
   "bairro": "Pio X",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.156525,
+  "lon": -51.1870148
 }

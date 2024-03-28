@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coronel Barros",
   "uf": "RS",
-  "ibge": "4305871"
+  "ibge": "4305871",
+  "lat": -28.3926328,
+  "lon": -54.0691473
 }

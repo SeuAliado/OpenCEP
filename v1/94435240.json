@@ -5,5 +5,7 @@
   "bairro": "Krahe",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.0872699,
+  "lon": -51.0387133
 }

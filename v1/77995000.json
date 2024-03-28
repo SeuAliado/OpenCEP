@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buriti do Tocantins",
   "uf": "TO",
-  "ibge": "1703800"
+  "ibge": "1703800",
+  "lat": -5.3148688,
+  "lon": -48.2275576
 }

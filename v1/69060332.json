@@ -5,5 +5,7 @@
   "bairro": "Aleixo",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.099591,
+  "lon": -59.999998
 }

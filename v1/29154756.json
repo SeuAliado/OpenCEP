@@ -5,5 +5,7 @@
   "bairro": "Retiro Saudoso",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3015251,
+  "lon": -40.3793647
 }

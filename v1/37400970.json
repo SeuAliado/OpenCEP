@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campanha",
   "uf": "MG",
-  "ibge": "3110905"
+  "ibge": "3110905",
+  "lat": -21.834159,
+  "lon": -45.4013175
 }

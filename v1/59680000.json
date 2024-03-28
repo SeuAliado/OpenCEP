@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Grande",
   "uf": "RN",
-  "ibge": "2401305"
+  "ibge": "2401305",
+  "lat": -5.8913185,
+  "lon": -37.3399768
 }

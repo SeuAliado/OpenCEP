@@ -5,5 +5,7 @@
   "bairro": "Interlagos",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3096473,
+  "lon": -51.1316546
 }

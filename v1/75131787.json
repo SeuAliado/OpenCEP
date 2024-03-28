@@ -5,5 +5,7 @@
   "bairro": "Residencial Morumbi",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3862214,
+  "lon": -48.9756214
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Miguel",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6323429,
+  "lon": -46.9370961
 }

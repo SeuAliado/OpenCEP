@@ -5,5 +5,7 @@
   "bairro": "Morada da Felicidade",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4684709,
+  "lon": -44.4794068
 }

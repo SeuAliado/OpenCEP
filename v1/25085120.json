@@ -5,5 +5,7 @@
   "bairro": "Parque Duque",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.8016704,
+  "lon": -43.2919376
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Antônio Pedro Ortolan",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1306345,
+  "lon": -48.0138099
 }

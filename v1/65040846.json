@@ -5,5 +5,7 @@
   "bairro": "Vila dos Frades",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5730313,
+  "lon": -44.2668293
 }

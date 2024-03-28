@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipiranga",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.9217981,
+  "lon": -50.5198095
 }

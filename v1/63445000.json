@@ -5,5 +5,7 @@
   "bairro": "Icozinho",
   "localidade": "Icó",
   "uf": "CE",
-  "ibge": "2305407"
+  "ibge": "2305407",
+  "lat": -6.4907421,
+  "lon": -38.6239754
 }

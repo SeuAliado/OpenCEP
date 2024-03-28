@@ -5,5 +5,7 @@
   "bairro": "Bairro San Diego",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -23.5640197,
+  "lon": -46.8327229
 }

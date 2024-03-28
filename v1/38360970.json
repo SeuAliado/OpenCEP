@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capinópolis",
   "uf": "MG",
-  "ibge": "3112604"
+  "ibge": "3112604",
+  "lat": -18.6820238,
+  "lon": -49.5738608
 }

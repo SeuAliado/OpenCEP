@@ -5,5 +5,7 @@
   "bairro": "Guanumbi",
   "localidade": "Buíque",
   "uf": "PE",
-  "ibge": "2602803"
+  "ibge": "2602803",
+  "lat": -8.626713,
+  "lon": -37.136633
 }

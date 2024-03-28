@@ -5,5 +5,7 @@
   "bairro": "Chácara de Lazer Monaliza",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.9152943,
+  "lon": -55.4989148
 }

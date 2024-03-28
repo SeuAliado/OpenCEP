@@ -5,5 +5,7 @@
   "bairro": "Pontalzinho",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7748808,
+  "lon": -39.2678271
 }

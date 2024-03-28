@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.931249,
+  "lon": -42.5241916
 }

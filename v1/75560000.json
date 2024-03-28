@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira Dourada",
   "uf": "GO",
-  "ibge": "5204250"
+  "ibge": "5204250",
+  "lat": -18.494799,
+  "lon": -49.4740104
 }

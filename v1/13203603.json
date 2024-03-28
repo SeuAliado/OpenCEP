@@ -5,5 +5,7 @@
   "bairro": "Jardim Estádio",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2151638,
+  "lon": -46.8654553
 }

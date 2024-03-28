@@ -5,5 +5,7 @@
   "bairro": "Parque Faber Castell II",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0146239,
+  "lon": -47.9148524
 }

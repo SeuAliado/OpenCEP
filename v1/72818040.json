@@ -5,5 +5,7 @@
   "bairro": "Parque Alvorada III",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2135232,
+  "lon": -47.921359
 }

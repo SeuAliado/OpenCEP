@@ -5,5 +5,7 @@
   "bairro": "Esmeraldas de Ferros",
   "localidade": "Ferros",
   "uf": "MG",
-  "ibge": "3125903"
+  "ibge": "3125903",
+  "lat": -19.3338762,
+  "lon": -42.883562
 }

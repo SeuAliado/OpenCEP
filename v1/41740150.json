@@ -5,5 +5,7 @@
   "bairro": "Pituaçu",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9728583,
+  "lon": -38.418044
 }

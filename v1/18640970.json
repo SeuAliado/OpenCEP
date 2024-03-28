@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pardinho",
   "uf": "SP",
-  "ibge": "3536109"
+  "ibge": "3536109",
+  "lat": -23.0804131,
+  "lon": -48.3744011
 }

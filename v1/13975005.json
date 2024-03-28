@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Fé",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4279572,
+  "lon": -46.8409149
 }

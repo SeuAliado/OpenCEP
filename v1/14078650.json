@@ -5,5 +5,7 @@
   "bairro": "Jardim Jóquei Clube",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1571744,
+  "lon": -47.7650952
 }

@@ -5,5 +5,7 @@
   "bairro": "Rincão da Estrela",
   "localidade": "Estrela Velha",
   "uf": "RS",
-  "ibge": "4307815"
+  "ibge": "4307815",
+  "lat": -29.1788896,
+  "lon": -53.1671979
 }

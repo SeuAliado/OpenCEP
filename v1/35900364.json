@@ -5,5 +5,7 @@
   "bairro": "Cônego Guilhermino Pereira",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6384261,
+  "lon": -43.2248756
 }

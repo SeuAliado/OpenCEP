@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5059696,
+  "lon": -47.4677858
 }

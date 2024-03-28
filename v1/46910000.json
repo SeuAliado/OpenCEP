@@ -5,5 +5,7 @@
   "bairro": "Várzea do Caldas",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "lat": -12.5284181,
+  "lon": -41.7378385
 }

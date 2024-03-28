@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Pastor Arlindo Lopes Viana",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3218753,
+  "lon": -49.0231495
 }

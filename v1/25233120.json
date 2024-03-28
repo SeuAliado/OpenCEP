@@ -5,5 +5,7 @@
   "bairro": "Silva",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7074629,
+  "lon": -43.3045105
 }

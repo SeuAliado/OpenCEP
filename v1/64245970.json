@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Divino",
   "uf": "PI",
-  "ibge": "2210052"
+  "ibge": "2210052",
+  "lat": -3.8120898,
+  "lon": -41.8301526
 }

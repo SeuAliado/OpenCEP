@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3633461,
+  "lon": -39.3003635
 }

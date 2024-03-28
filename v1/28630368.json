@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Solares",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "lat": -22.2743596,
+  "lon": -42.6008189
 }

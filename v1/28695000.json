@@ -5,5 +5,7 @@
   "bairro": "Papucaia",
   "localidade": "Cachoeiras de Macacu",
   "uf": "RJ",
-  "ibge": "3300803"
+  "ibge": "3300803",
+  "lat": -22.5947429,
+  "lon": -42.7392265
 }

@@ -5,5 +5,7 @@
   "bairro": "Wona",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7170754,
+  "lon": -43.3357726
 }

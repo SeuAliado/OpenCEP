@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pitangueiras",
   "uf": "SP",
-  "ibge": "3539509"
+  "ibge": "3539509",
+  "lat": -21.0106742,
+  "lon": -48.2176007
 }

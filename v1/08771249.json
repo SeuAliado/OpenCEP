@@ -5,5 +5,7 @@
   "bairro": "Cidade Parquelandia",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -22.5318601,
+  "lon": -44.1275126
 }

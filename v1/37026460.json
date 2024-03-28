@@ -5,5 +5,7 @@
   "bairro": "Vila Andere II",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5737819,
+  "lon": -45.4358094
 }

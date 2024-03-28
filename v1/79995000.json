@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coronel Sapucaia",
   "uf": "MS",
-  "ibge": "5003157"
+  "ibge": "5003157",
+  "lat": -23.2765696,
+  "lon": -55.5302717
 }

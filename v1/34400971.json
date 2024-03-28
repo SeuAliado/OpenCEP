@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Raposos",
   "uf": "MG",
-  "ibge": "3153905"
+  "ibge": "3153905",
+  "lat": -19.9654549,
+  "lon": -43.8049064
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.1152435,
+  "lon": -35.3074505
 }

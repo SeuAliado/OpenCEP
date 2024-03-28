@@ -5,5 +5,7 @@
   "bairro": "Parque Hongaro",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8285729,
+  "lon": -47.2682272
 }

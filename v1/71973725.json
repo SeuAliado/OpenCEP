@@ -5,5 +5,7 @@
   "bairro": "Areal (Águas Claras)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8599384,
+  "lon": -48.0251696
 }

@@ -5,5 +5,7 @@
   "bairro": "Campestre",
   "localidade": "Chorozinho",
   "uf": "CE",
-  "ibge": "2303956"
+  "ibge": "2303956",
+  "lat": -4.2844404,
+  "lon": -38.5090011
 }

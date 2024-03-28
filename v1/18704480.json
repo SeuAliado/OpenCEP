@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Gilberto Filgueiras I",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.120388,
+  "lon": -48.9355238
 }

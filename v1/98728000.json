@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Ijuí",
   "uf": "RS",
-  "ibge": "4310207"
+  "ibge": "4310207",
+  "lat": -28.3809299,
+  "lon": -53.882354
 }

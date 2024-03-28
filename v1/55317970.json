@@ -5,5 +5,7 @@
   "bairro": "Poço Comprido",
   "localidade": "Correntes",
   "uf": "PE",
-  "ibge": "2604700"
+  "ibge": "2604700",
+  "lat": -9.0410964,
+  "lon": -36.3973988
 }

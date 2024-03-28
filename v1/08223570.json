@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Águia de Haia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.523242,
+  "lon": -46.4664101
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Belo do Sul",
   "uf": "SC",
-  "ibge": "4203402"
+  "ibge": "4203402",
+  "lat": -27.8975357,
+  "lon": -50.7603339
 }

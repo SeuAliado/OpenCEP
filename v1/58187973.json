@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Picuí",
   "uf": "PB",
-  "ibge": "2511400"
+  "ibge": "2511400",
+  "lat": -6.4349434,
+  "lon": -36.2936969
 }

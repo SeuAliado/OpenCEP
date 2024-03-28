@@ -5,5 +5,7 @@
   "bairro": "Medianeira",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0392554,
+  "lon": -52.8752341
 }

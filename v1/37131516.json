@@ -5,5 +5,7 @@
   "bairro": "Jardim São Lucas III",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4383606,
+  "lon": -45.9402434
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Miguel Vicente Cury",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8600197,
+  "lon": -47.0631283
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caém",
   "uf": "BA",
-  "ibge": "2905107"
+  "ibge": "2905107",
+  "lat": -11.0923714,
+  "lon": -40.4352707
 }

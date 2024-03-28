@@ -5,5 +5,7 @@
   "bairro": "Jardim Candidés",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.135031,
+  "lon": -44.8427568
 }

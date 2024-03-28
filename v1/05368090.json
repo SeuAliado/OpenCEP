@@ -5,5 +5,7 @@
   "bairro": "Vila Alba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.578361,
+  "lon": -46.7498117
 }

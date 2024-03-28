@@ -5,5 +5,7 @@
   "bairro": "Palmares",
   "localidade": "Simões Filho",
   "uf": "BA",
-  "ibge": "2930709"
+  "ibge": "2930709",
+  "lat": -12.7838214,
+  "lon": -38.4140669
 }

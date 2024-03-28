@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iomerê",
   "uf": "SC",
-  "ibge": "4207577"
+  "ibge": "4207577",
+  "lat": -27.0030488,
+  "lon": -51.2387949
 }

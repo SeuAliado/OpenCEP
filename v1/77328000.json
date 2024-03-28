@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lavandeira",
   "uf": "TO",
-  "ibge": "1712157"
+  "ibge": "1712157",
+  "lat": -12.7899585,
+  "lon": -46.5077272
 }

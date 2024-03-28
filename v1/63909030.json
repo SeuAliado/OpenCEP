@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Monólitos",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.9537501,
+  "lon": -39.0065589
 }

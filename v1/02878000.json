@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Alegre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4515924,
+  "lon": -46.6879087
 }

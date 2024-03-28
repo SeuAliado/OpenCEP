@@ -5,5 +5,7 @@
   "bairro": "Parque Farias",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7178447,
+  "lon": -43.5405476
 }

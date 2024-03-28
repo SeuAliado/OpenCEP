@@ -5,5 +5,7 @@
   "bairro": "Lajinha",
   "localidade": "Pancas",
   "uf": "ES",
-  "ibge": "3204005"
+  "ibge": "3204005",
+  "lat": -19.1611522,
+  "lon": -40.7732887
 }

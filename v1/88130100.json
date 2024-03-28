@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.645711,
+  "lon": -48.667803
 }

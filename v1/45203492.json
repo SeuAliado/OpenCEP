@@ -5,5 +5,7 @@
   "bairro": "Caixa D'Água",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "lat": -13.8531423,
+  "lon": -40.0858234
 }

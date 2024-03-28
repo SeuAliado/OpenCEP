@@ -5,5 +5,7 @@
   "bairro": "Anhumas",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7342864,
+  "lon": -47.6480644
 }

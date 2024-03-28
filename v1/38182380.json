@@ -5,5 +5,7 @@
   "bairro": "Vila Estância",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6075318,
+  "lon": -46.9269971
 }

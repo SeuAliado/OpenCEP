@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II Luiz Torrani",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4971805,
+  "lon": -46.983383
 }

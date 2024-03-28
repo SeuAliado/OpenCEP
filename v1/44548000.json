@@ -5,5 +5,7 @@
   "bairro": "Rio da Dona",
   "localidade": "Conceição do Almeida",
   "uf": "BA",
-  "ibge": "2908309"
+  "ibge": "2908309",
+  "lat": -12.8507709,
+  "lon": -38.4559662
 }

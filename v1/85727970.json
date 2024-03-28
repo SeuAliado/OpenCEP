@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinhal de São Bento",
   "uf": "PR",
-  "ibge": "4119251"
+  "ibge": "4119251",
+  "lat": -26.0320483,
+  "lon": -53.4834032
 }

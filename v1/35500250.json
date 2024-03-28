@@ -5,5 +5,7 @@
   "bairro": "São João de Deus",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1446186,
+  "lon": -44.8764107
 }

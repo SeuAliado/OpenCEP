@@ -5,5 +5,7 @@
   "bairro": "Domingos Zema",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5798824,
+  "lon": -46.9356959
 }

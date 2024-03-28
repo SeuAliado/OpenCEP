@@ -5,5 +5,7 @@
   "bairro": "Condomínio Vale dos Pinheiros (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6225194,
+  "lon": -47.8227038
 }

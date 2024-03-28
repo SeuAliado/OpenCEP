@@ -5,5 +5,7 @@
   "bairro": "Jardim Macedo",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1858888,
+  "lon": -47.7965658
 }

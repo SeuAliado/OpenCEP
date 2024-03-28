@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arraial",
   "uf": "PI",
-  "ibge": "2201002"
+  "ibge": "2201002",
+  "lat": -6.635881,
+  "lon": -42.5117238
 }

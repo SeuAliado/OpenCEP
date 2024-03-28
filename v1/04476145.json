@@ -5,5 +5,7 @@
   "bairro": "Jardim das Laranjeiras (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7043821,
+  "lon": -46.6294001
 }

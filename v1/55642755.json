@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora das Graças",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "lat": -8.2015323,
+  "lon": -35.5537889
 }

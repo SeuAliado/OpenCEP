@@ -5,5 +5,7 @@
   "bairro": "Conjunto Palmeiras",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8467212,
+  "lon": -38.5247922
 }

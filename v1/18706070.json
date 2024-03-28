@@ -5,5 +5,7 @@
   "bairro": "Vila Jussara Maria",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0895742,
+  "lon": -48.9268922
 }

@@ -5,5 +5,7 @@
   "bairro": "Capelinha",
   "localidade": "Ipuã",
   "uf": "SP",
-  "ibge": "3521309"
+  "ibge": "3521309",
+  "lat": -20.4892699,
+  "lon": -47.9925901
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Elisa Fumagalli",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5463327,
+  "lon": -47.3875468
 }

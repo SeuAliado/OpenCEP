@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João da Varjota",
   "uf": "PI",
-  "ibge": "2209955"
+  "ibge": "2209955",
+  "lat": -6.9686864,
+  "lon": -41.8799408
 }

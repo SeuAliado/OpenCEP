@@ -5,5 +5,7 @@
   "bairro": "Vale das Araucárias",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3416595,
+  "lon": -51.1698848
 }

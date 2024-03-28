@@ -5,5 +5,7 @@
   "bairro": "Residencial Rio Jordão",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.3606415,
+  "lon": -48.9842681
 }

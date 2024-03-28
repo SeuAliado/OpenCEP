@@ -5,5 +5,7 @@
   "bairro": "Parque São Cristóvão",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2981295,
+  "lon": -49.071877
 }

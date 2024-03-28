@@ -5,5 +5,7 @@
   "bairro": "Lufa",
   "localidade": "Novo Cruzeiro",
   "uf": "MG",
-  "ibge": "3145307"
+  "ibge": "3145307",
+  "lat": -17.4659098,
+  "lon": -41.8830226
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio (Manilha)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7618484,
+  "lon": -42.9218838
 }

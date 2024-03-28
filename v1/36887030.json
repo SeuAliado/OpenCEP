@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.126295,
+  "lon": -42.3941489
 }

@@ -5,5 +5,7 @@
   "bairro": "JK II",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8844248,
+  "lon": -41.9640668
 }

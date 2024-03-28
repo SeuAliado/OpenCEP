@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capoeiras",
   "uf": "PE",
-  "ibge": "2603801"
+  "ibge": "2603801",
+  "lat": -8.7346448,
+  "lon": -36.6308967
 }

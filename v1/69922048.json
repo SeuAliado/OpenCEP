@@ -5,5 +5,7 @@
   "bairro": "Jorge Lavocat",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.5139427,
+  "lon": -67.6693569
 }

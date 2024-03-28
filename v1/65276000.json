@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Turilândia",
   "uf": "MA",
-  "ibge": "2112456"
+  "ibge": "2112456",
+  "lat": -2.2167472,
+  "lon": -45.3048107
 }

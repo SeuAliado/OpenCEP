@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Casa Grande",
   "uf": "MG",
-  "ibge": "3114907"
+  "ibge": "3114907",
+  "lat": -20.7930068,
+  "lon": -43.9347214
 }

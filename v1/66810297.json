@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.2924074,
+  "lon": -48.4654094
 }

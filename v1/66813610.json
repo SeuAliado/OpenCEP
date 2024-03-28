@@ -5,5 +5,7 @@
   "bairro": "Campina de Icoaraci (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.2952632,
+  "lon": -48.4744804
 }

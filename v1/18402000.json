@@ -5,5 +5,7 @@
   "bairro": "Colina dos Pinheiros",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.968869,
+  "lon": -48.8703459
 }

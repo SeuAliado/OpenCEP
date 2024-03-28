@@ -5,5 +5,7 @@
   "bairro": "Parque Emília",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8342189,
+  "lon": -47.2640862
 }

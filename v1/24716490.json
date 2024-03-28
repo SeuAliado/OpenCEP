@@ -5,5 +5,7 @@
   "bairro": "Jardim Catarina",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.7981365,
+  "lon": -43.00391
 }

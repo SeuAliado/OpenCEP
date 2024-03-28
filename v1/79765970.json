@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taquarussu",
   "uf": "MS",
-  "ibge": "5007976"
+  "ibge": "5007976",
+  "lat": -22.4867732,
+  "lon": -53.353075
 }

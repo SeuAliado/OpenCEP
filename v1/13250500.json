@@ -5,5 +5,7 @@
   "bairro": "Jardim Mateus",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0080183,
+  "lon": -46.835422
 }

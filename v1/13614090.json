@@ -5,5 +5,7 @@
   "bairro": "Vila Joest",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1768035,
+  "lon": -47.3967389
 }

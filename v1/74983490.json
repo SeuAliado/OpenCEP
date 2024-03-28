@@ -5,5 +5,7 @@
   "bairro": "Parque Karajá",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7941957,
+  "lon": -49.2616628
 }

@@ -5,5 +5,7 @@
   "bairro": "Cem Braças",
   "localidade": "Armação dos Búzios",
   "uf": "RJ",
-  "ibge": "3300233"
+  "ibge": "3300233",
+  "lat": -22.7778447,
+  "lon": -41.9317556
 }

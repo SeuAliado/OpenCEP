@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5309691,
+  "lon": -46.8436024
 }

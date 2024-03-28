@@ -5,5 +5,7 @@
   "bairro": "Jardim Rafael",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0913232,
+  "lon": -45.7098516
 }

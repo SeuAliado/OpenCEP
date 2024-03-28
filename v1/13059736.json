@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial São Judas Tadeu",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8793414,
+  "lon": -47.1424191
 }

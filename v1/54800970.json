@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Moreno",
   "uf": "PE",
-  "ibge": "2609402"
+  "ibge": "2609402",
+  "lat": -8.1214885,
+  "lon": -35.0971349
 }

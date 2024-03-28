@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.2843332,
+  "lon": -49.2035131
 }

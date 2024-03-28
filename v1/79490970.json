@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gabriel do Oeste",
   "uf": "MS",
-  "ibge": "5007695"
+  "ibge": "5007695",
+  "lat": -19.3977541,
+  "lon": -54.5699389
 }

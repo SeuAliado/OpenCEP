@@ -5,5 +5,7 @@
   "bairro": "Argemiro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4388241,
+  "lon": -40.5175923
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Costa do Sol",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0017046,
+  "lon": -47.8831473
 }

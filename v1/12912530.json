@@ -5,5 +5,7 @@
   "bairro": "Jardim Comendador Cardoso",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9526942,
+  "lon": -46.5334389
 }

@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4426179,
+  "lon": -61.4478678
 }

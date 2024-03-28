@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim Guapimirim",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.5623349,
+  "lon": -42.9935659
 }

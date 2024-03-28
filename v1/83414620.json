@@ -5,5 +5,7 @@
   "bairro": "Embu",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3076894,
+  "lon": -49.2153513
 }

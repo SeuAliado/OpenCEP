@@ -5,5 +5,7 @@
   "bairro": "Jardim Canadá II",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7749797,
+  "lon": -53.2944791
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Fênix",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5965876,
+  "lon": -47.4141676
 }

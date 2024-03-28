@@ -5,5 +5,7 @@
   "bairro": "Residencial e Comercial Cidade Morumbi",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9096646,
+  "lon": -45.4270005
 }

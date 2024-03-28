@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igaporã",
   "uf": "BA",
-  "ibge": "2913408"
+  "ibge": "2913408",
+  "lat": -13.875646,
+  "lon": -42.6684924
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caridade do Piauí",
   "uf": "PI",
-  "ibge": "2202554"
+  "ibge": "2202554",
+  "lat": -7.7448096,
+  "lon": -40.9990597
 }

@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1565841,
+  "lon": -45.0056228
 }

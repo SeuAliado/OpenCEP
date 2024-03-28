@@ -5,5 +5,7 @@
   "bairro": "Jardim Real",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6500351,
+  "lon": -49.3785772
 }

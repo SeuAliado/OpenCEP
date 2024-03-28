@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pequeri",
   "uf": "MG",
-  "ibge": "3149507"
+  "ibge": "3149507",
+  "lat": -21.8364393,
+  "lon": -43.1204098
 }

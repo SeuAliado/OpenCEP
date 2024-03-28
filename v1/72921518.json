@@ -5,5 +5,7 @@
   "bairro": "Jardim América VI",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.726802,
+  "lon": -48.2946453
 }

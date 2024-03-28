@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paranatinga",
   "uf": "MT",
-  "ibge": "5106307"
+  "ibge": "5106307",
+  "lat": -14.4319579,
+  "lon": -54.0512941
 }

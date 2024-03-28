@@ -5,5 +5,7 @@
   "bairro": "Jardim Julieta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4869154,
+  "lon": -46.5628371
 }

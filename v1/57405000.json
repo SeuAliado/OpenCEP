@@ -5,5 +5,7 @@
   "bairro": "Alecrim",
   "localidade": "Pão de Açúcar",
   "uf": "AL",
-  "ibge": "2706406"
+  "ibge": "2706406",
+  "lat": -9.7786971,
+  "lon": -37.3502671
 }

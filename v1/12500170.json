@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.8148759,
+  "lon": -45.191725
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9525136,
+  "lon": -46.5429043
 }

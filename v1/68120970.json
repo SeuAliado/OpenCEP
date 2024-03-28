@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mojuí dos Campos",
   "uf": "PA",
-  "ibge": "1504752"
+  "ibge": "1504752",
+  "lat": -2.6840463,
+  "lon": -54.6433572
 }

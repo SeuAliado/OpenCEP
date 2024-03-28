@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -22.7345274,
+  "lon": -43.3617001
 }

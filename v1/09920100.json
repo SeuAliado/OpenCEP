@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.6786304,
+  "lon": -46.626584
 }

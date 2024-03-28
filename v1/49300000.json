@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tobias Barreto",
   "uf": "SE",
-  "ibge": "2807402"
+  "ibge": "2807402",
+  "lat": -11.1851883,
+  "lon": -38.0005207
 }

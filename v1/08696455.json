@@ -5,5 +5,7 @@
   "bairro": "Jardim Margareth",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.514204,
+  "lon": -46.284185
 }

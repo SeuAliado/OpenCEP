@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vargem Grande do Sul",
   "uf": "SP",
-  "ibge": "3556404"
+  "ibge": "3556404",
+  "lat": -21.8268604,
+  "lon": -46.892498
 }

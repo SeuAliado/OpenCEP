@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8677761,
+  "lon": -44.6110924
 }

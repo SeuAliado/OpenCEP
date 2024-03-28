@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6079754,
+  "lon": -47.4208828
 }

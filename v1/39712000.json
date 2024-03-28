@@ -5,5 +5,7 @@
   "bairro": "São Sebastião do Bugre",
   "localidade": "Coroaci",
   "uf": "MG",
-  "ibge": "3119203"
+  "ibge": "3119203",
+  "lat": -18.5871247,
+  "lon": -42.1362208
 }

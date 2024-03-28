@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matões do Norte",
   "uf": "MA",
-  "ibge": "2106631"
+  "ibge": "2106631",
+  "lat": -3.7621216,
+  "lon": -44.5125127
 }

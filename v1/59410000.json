@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barcelona",
   "uf": "RN",
-  "ibge": "2401503"
+  "ibge": "2401503",
+  "lat": -5.9432384,
+  "lon": -35.9249753
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "lat": -4.0376154,
+  "lon": -38.49313
 }

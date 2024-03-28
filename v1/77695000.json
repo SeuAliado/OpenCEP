@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goianorte",
   "uf": "TO",
-  "ibge": "1708304"
+  "ibge": "1708304",
+  "lat": -8.7745337,
+  "lon": -48.9317231
 }

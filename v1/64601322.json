@@ -5,5 +5,7 @@
   "bairro": "Bomba",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -7.0774021,
+  "lon": -41.4678041
 }

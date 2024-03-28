@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraty",
   "uf": "RJ",
-  "ibge": "3303807"
+  "ibge": "3303807",
+  "lat": -23.2200216,
+  "lon": -44.7204284
 }

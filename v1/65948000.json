@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaipava do Grajaú",
   "uf": "MA",
-  "ibge": "2105351"
+  "ibge": "2105351",
+  "lat": -5.1431995,
+  "lon": -45.7892087
 }

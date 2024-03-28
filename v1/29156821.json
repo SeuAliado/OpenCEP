@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2675441,
+  "lon": -40.4291838
 }

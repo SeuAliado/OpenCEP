@@ -5,5 +5,7 @@
   "bairro": "Vila Moema",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4771008,
+  "lon": -48.999456
 }

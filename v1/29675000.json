@@ -5,5 +5,7 @@
   "bairro": "Pendanga",
   "localidade": "Ibiraçu",
   "uf": "ES",
-  "ibge": "3202504"
+  "ibge": "3202504",
+  "lat": -19.8621387,
+  "lon": -40.407824
 }

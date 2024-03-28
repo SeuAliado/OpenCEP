@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Lúcia",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2112531,
+  "lon": -46.8113278
 }

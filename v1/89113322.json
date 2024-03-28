@@ -5,5 +5,7 @@
   "bairro": "Barracão",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "lat": -27.000405,
+  "lon": -48.8956473
 }

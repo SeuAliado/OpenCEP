@@ -5,5 +5,7 @@
   "bairro": "Chácara Bocaina",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.6891677,
+  "lon": -46.7383865
 }

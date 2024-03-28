@@ -5,5 +5,7 @@
   "bairro": "Filadélfia",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9698339,
+  "lon": -44.1915216
 }

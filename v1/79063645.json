@@ -5,5 +5,7 @@
   "bairro": "Vila Julieta",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.5216185,
+  "lon": -54.586708
 }

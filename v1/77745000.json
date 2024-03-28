@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Kennedy",
   "uf": "TO",
-  "ibge": "1718402"
+  "ibge": "1718402",
+  "lat": -8.5410057,
+  "lon": -48.5066606
 }

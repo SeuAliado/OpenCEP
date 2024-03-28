@@ -5,5 +5,7 @@
   "bairro": "Flores",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3564324,
+  "lon": -39.2999263
 }

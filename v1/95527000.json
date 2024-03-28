@@ -5,5 +5,7 @@
   "bairro": "Mariápolis",
   "localidade": "Osório",
   "uf": "RS",
-  "ibge": "4313508"
+  "ibge": "4313508",
+  "lat": -29.8989109,
+  "lon": -50.2398008
 }

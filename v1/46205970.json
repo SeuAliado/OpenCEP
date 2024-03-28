@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guajeru",
   "uf": "BA",
-  "ibge": "2911659"
+  "ibge": "2911659",
+  "lat": -14.549011,
+  "lon": -41.9379435
 }

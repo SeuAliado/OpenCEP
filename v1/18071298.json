@@ -5,5 +5,7 @@
   "bairro": "Lopes de Oliveira",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4736164,
+  "lon": -47.5003069
 }

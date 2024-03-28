@@ -5,5 +5,7 @@
   "bairro": "Parazinho",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "lat": -3.0373526,
+  "lon": -40.666174
 }

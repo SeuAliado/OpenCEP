@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Alvorada",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4182049,
+  "lon": -61.4677216
 }

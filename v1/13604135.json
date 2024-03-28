@@ -5,5 +5,7 @@
   "bairro": "Jardim Tarumã",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3423292,
+  "lon": -47.3895403
 }

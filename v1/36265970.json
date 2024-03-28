@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cipotânea",
   "uf": "MG",
-  "ibge": "3116308"
+  "ibge": "3116308",
+  "lat": -20.9051958,
+  "lon": -43.3646273
 }

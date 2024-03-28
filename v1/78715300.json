@@ -5,5 +5,7 @@
   "bairro": "Jardim Vera Cruz",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.439884,
+  "lon": -54.6329142
 }

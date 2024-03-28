@@ -5,5 +5,7 @@
   "bairro": "Jardim Bordon",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9467958,
+  "lon": -47.113308
 }

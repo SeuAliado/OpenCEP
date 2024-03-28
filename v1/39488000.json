@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "lat": -15.5563036,
+  "lon": -44.5888564
 }

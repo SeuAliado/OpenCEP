@@ -5,5 +5,7 @@
   "bairro": "Parque Clayton Malaman",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.974083,
+  "lon": -47.4301224
 }

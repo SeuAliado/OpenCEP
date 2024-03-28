@@ -5,5 +5,7 @@
   "bairro": "Coronel Finzito",
   "localidade": "Erval Seco",
   "uf": "RS",
-  "ibge": "4307302"
+  "ibge": "4307302",
+  "lat": -27.5723096,
+  "lon": -53.529464
 }

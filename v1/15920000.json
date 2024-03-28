@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vista Alegre do Alto",
   "uf": "SP",
-  "ibge": "3556909"
+  "ibge": "3556909",
+  "lat": -21.1745828,
+  "lon": -48.6286089
 }

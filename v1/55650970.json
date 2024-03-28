@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passira",
   "uf": "PE",
-  "ibge": "2610509"
+  "ibge": "2610509",
+  "lat": -8.0159278,
+  "lon": -35.5830549
 }

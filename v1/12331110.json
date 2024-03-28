@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Vinte e Dois de Abril",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.2656309,
+  "lon": -46.0659958
 }

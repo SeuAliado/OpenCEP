@@ -5,5 +5,7 @@
   "bairro": "Djard Vieira",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6432321,
+  "lon": -56.7508453
 }

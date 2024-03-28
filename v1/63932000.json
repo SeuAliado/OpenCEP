@@ -5,5 +5,7 @@
   "bairro": "São Bernardo",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.6840202,
+  "lon": -39.0218177
 }

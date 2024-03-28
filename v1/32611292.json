@@ -5,5 +5,7 @@
   "bairro": "Icaivera",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.857293,
+  "lon": -44.1482807
 }

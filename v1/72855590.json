@@ -5,5 +5,7 @@
   "bairro": "Vila Marília",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1828884,
+  "lon": -47.9351272
 }

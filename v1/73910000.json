@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guarani de Goiás",
   "uf": "GO",
-  "ibge": "5209408"
+  "ibge": "5209408",
+  "lat": -13.9401632,
+  "lon": -46.4804467
 }

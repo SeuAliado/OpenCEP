@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial dos Cajueiros",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7188321,
+  "lon": -49.0644074
 }

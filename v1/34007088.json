@@ -5,5 +5,7 @@
   "bairro": "Vila Castela",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9923212,
+  "lon": -43.950514
 }

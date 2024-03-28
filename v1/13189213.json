@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Firenze",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8744001,
+  "lon": -47.2357759
 }

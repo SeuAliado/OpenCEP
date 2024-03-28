@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6559165,
+  "lon": -48.184092
 }

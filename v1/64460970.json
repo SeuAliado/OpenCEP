@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Branca",
   "uf": "PI",
-  "ibge": "2200202"
+  "ibge": "2200202",
+  "lat": -5.8910613,
+  "lon": -42.6353942
 }

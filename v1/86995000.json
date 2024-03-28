@@ -5,5 +5,7 @@
   "bairro": "Aquidaban",
   "localidade": "Marialva",
   "uf": "PR",
-  "ibge": "4114807"
+  "ibge": "4114807",
+  "lat": -23.610791,
+  "lon": -51.8608729
 }

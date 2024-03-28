@@ -5,5 +5,7 @@
   "bairro": "Anita Garibaldi",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7943879,
+  "lon": -55.7953006
 }

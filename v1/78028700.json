@@ -5,5 +5,7 @@
   "bairro": "Cidade Verde",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6287438,
+  "lon": -56.1640281
 }

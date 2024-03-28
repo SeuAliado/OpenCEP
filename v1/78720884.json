@@ -5,5 +5,7 @@
   "bairro": "Vila Dom Oscar Romero",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4571146,
+  "lon": -54.6145148
 }

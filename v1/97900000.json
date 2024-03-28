@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cerro Largo",
   "uf": "RS",
-  "ibge": "4305207"
+  "ibge": "4305207",
+  "lat": -28.1437464,
+  "lon": -54.7192376
 }

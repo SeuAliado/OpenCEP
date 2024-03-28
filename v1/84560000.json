@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Azul",
   "uf": "PR",
-  "ibge": "4122008"
+  "ibge": "4122008",
+  "lat": -25.7267118,
+  "lon": -50.7897463
 }

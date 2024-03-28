@@ -5,5 +5,7 @@
   "bairro": "Gravatá",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.9330853,
+  "lon": -42.5083876
 }

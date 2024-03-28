@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juquiá",
   "uf": "SP",
-  "ibge": "3526100"
+  "ibge": "3526100",
+  "lat": -24.3105763,
+  "lon": -47.6430978
 }

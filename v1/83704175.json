@@ -5,5 +5,7 @@
   "bairro": "Passaúna",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5737115,
+  "lon": -49.4271631
 }

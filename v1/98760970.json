@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chiapetta",
   "uf": "RS",
-  "ibge": "4305405"
+  "ibge": "4305405",
+  "lat": -27.918794,
+  "lon": -53.9422215
 }

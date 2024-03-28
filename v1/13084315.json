@@ -5,5 +5,7 @@
   "bairro": "Residencial Burato",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8250856,
+  "lon": -47.0876219
 }

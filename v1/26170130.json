@@ -5,5 +5,7 @@
   "bairro": "Pauline",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7402058,
+  "lon": -43.3634477
 }

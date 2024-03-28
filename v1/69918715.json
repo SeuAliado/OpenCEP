@@ -5,5 +5,7 @@
   "bairro": "Santa Quitéria",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9508008,
+  "lon": -67.8265512
 }

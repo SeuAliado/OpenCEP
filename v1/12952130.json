@@ -5,5 +5,7 @@
   "bairro": "Jardim Colonial",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1141468,
+  "lon": -46.5946943
 }

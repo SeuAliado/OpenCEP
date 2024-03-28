@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapemirim",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4401953,
+  "lon": -47.4992461
 }

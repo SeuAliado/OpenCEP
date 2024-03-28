@@ -5,5 +5,7 @@
   "bairro": "Terras de Santa Rosa",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1783595,
+  "lon": -47.3477524
 }

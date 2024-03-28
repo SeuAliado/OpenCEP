@@ -5,5 +5,7 @@
   "bairro": "Crubixá",
   "localidade": "Alfredo Chaves",
   "uf": "ES",
-  "ibge": "3200300"
+  "ibge": "3200300",
+  "lat": -20.63957,
+  "lon": -40.7490809
 }

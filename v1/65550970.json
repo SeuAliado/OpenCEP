@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Bernardo",
   "uf": "MA",
-  "ibge": "2110609"
+  "ibge": "2110609",
+  "lat": -3.3726039,
+  "lon": -42.4194968
 }

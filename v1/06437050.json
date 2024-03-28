@@ -5,5 +5,7 @@
   "bairro": "Recanto Phrynea",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5687456,
+  "lon": -46.9099472
 }

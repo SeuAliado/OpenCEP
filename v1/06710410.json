@@ -5,5 +5,7 @@
   "bairro": "Jardim Barbacena",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6041409,
+  "lon": -46.8258546
 }

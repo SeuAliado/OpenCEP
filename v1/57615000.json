@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Minador do Negrão",
   "uf": "AL",
-  "ibge": "2705309"
+  "ibge": "2705309",
+  "lat": -9.312782,
+  "lon": -36.8698863
 }

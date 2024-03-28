@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa do Piauí",
   "uf": "PI",
-  "ibge": "2205581"
+  "ibge": "2205581",
+  "lat": -5.4190292,
+  "lon": -42.6440387
 }

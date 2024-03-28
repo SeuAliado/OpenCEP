@@ -5,5 +5,7 @@
   "bairro": "Dinah Borges",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.376569,
+  "lon": -39.5789139
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "São Félix do Tocantins",
   "uf": "TO",
-  "ibge": "1720150"
+  "ibge": "1720150",
+  "lat": -10.1584237,
+  "lon": -46.6659659
 }

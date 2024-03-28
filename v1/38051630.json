@@ -5,5 +5,7 @@
   "bairro": "Jardim Espanha",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7354323,
+  "lon": -47.9223191
 }

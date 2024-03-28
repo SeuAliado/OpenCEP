@@ -5,5 +5,7 @@
   "bairro": "Jardim Industrial",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.953543,
+  "lon": -49.879096
 }

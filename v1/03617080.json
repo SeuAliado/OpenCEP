@@ -5,5 +5,7 @@
   "bairro": "Vila Marieta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.518008,
+  "lon": -46.5254879
 }

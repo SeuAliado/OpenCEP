@@ -5,5 +5,7 @@
   "bairro": "Asa Branca",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.19458,
+  "lon": -39.0043182
 }

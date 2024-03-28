@@ -5,5 +5,7 @@
   "bairro": "Chácaras São Guido",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2312505,
+  "lon": -46.841074
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Formoso",
   "uf": "GO",
-  "ibge": "5208103"
+  "ibge": "5208103",
+  "lat": -13.6562515,
+  "lon": -48.8854966
 }

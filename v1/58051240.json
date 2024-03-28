@@ -5,5 +5,7 @@
   "bairro": "Bancários",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1480949,
+  "lon": -34.8419405
 }

@@ -5,5 +5,7 @@
   "bairro": "Garibaldi",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6386805,
+  "lon": -53.6143372
 }

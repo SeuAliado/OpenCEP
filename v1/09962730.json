@@ -5,5 +5,7 @@
   "bairro": "Casa Grande",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.6987133,
+  "lon": -46.5924057
 }

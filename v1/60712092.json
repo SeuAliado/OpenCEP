@@ -5,5 +5,7 @@
   "bairro": "Jardim Cearense",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.798896,
+  "lon": -38.5651876
 }

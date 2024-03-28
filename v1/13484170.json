@@ -5,5 +5,7 @@
   "bairro": "Jardim São Rafael",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5394838,
+  "lon": -47.4232338
 }

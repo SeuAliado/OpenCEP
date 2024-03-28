@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7846027,
+  "lon": -39.285889
 }

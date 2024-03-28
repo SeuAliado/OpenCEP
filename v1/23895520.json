@@ -5,5 +5,7 @@
   "bairro": "Santa Sofia",
   "localidade": "Seropédica",
   "uf": "RJ",
-  "ibge": "3305554"
+  "ibge": "3305554",
+  "lat": -22.745369,
+  "lon": -43.7270147
 }

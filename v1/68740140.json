@@ -5,5 +5,7 @@
   "bairro": "Pirapora",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "lat": -1.3061521,
+  "lon": -47.9280471
 }

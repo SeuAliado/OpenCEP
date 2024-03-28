@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manoel Vitorino",
   "uf": "BA",
-  "ibge": "2920403"
+  "ibge": "2920403",
+  "lat": -14.1467949,
+  "lon": -40.2445733
 }

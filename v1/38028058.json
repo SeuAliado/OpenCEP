@@ -5,5 +5,7 @@
   "bairro": "Abadia",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.762669,
+  "lon": -47.9252524
 }

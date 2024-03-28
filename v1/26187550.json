@@ -5,5 +5,7 @@
   "bairro": "Malhapão",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7059245,
+  "lon": -43.3413623
 }

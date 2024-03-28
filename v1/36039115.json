@@ -5,5 +5,7 @@
   "bairro": "Parque Jardim da Serra",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.8063943,
+  "lon": -43.3960391
 }

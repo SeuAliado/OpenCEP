@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião de Lagoa de Roça",
   "uf": "PB",
-  "ibge": "2515104"
+  "ibge": "2515104",
+  "lat": -7.1049751,
+  "lon": -35.8670456
 }

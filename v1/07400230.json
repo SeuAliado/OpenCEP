@@ -5,5 +5,7 @@
   "bairro": "Jardim Ângelo",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3992003,
+  "lon": -46.3271996
 }

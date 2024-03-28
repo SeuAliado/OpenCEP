@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paineiras",
   "uf": "MG",
-  "ibge": "3146404"
+  "ibge": "3146404",
+  "lat": -18.8998171,
+  "lon": -45.5324879
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pérola d'Oeste",
   "uf": "PR",
-  "ibge": "4119004"
+  "ibge": "4119004",
+  "lat": -25.8255941,
+  "lon": -53.7446214
 }

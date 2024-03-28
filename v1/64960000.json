@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Curimatá",
   "uf": "PI",
-  "ibge": "2203206"
+  "ibge": "2203206",
+  "lat": -10.0330292,
+  "lon": -44.3005974
 }

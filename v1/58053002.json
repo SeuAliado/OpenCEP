@@ -5,5 +5,7 @@
   "bairro": "Água Fria",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1567237,
+  "lon": -34.8575634
 }

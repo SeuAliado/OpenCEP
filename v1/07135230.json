@@ -5,5 +5,7 @@
   "bairro": "Jardim Adriana",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4241786,
+  "lon": -46.5257855
 }

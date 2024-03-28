@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Rio Doce",
   "localidade": "Aimorés",
   "uf": "MG",
-  "ibge": "3101102"
+  "ibge": "3101102",
+  "lat": -19.5023023,
+  "lon": -41.0149156
 }

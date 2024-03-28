@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maiquinique",
   "uf": "BA",
-  "ibge": "2920007"
+  "ibge": "2920007",
+  "lat": -15.619197,
+  "lon": -40.2635974
 }

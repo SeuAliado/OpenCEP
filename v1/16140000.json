@@ -5,5 +5,7 @@
   "bairro": "Vicentinópolis",
   "localidade": "Santo Antônio do Aracanguá",
   "uf": "SP",
-  "ibge": "3548054"
+  "ibge": "3548054",
+  "lat": -22.3637421,
+  "lon": -48.5920768
 }

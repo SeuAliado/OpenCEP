@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Flora Rica",
   "uf": "SP",
-  "ibge": "3515806"
+  "ibge": "3515806",
+  "lat": -21.6758399,
+  "lon": -51.3797931
 }

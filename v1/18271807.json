@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Maria",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3441354,
+  "lon": -47.8250705
 }

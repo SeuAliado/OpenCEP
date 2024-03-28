@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraibuna",
   "uf": "SP",
-  "ibge": "3535606"
+  "ibge": "3535606",
+  "lat": -23.3901988,
+  "lon": -45.662745
 }

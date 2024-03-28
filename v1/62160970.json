@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coreaú",
   "uf": "CE",
-  "ibge": "2304004"
+  "ibge": "2304004",
+  "lat": -3.5503699,
+  "lon": -40.6567021
 }

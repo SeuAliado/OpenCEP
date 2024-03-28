@@ -5,5 +5,7 @@
   "bairro": "Pratos",
   "localidade": "Novo Machado",
   "uf": "RS",
-  "ibge": "4313425"
+  "ibge": "4313425",
+  "lat": -27.5782055,
+  "lon": -54.4998118
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jade",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.411476,
+  "lon": -46.451586
 }

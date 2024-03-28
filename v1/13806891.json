@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Manacás",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4307669,
+  "lon": -46.9658674
 }

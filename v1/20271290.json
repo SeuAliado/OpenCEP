@@ -5,5 +5,7 @@
   "bairro": "Praça da Bandeira",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9121223,
+  "lon": -43.2167178
 }

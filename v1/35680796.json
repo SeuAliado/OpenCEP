@@ -5,5 +5,7 @@
   "bairro": "Santa Edwiges",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.097298,
+  "lon": -44.5892106
 }

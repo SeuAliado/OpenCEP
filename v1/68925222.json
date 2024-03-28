@@ -5,5 +5,7 @@
   "bairro": "Central",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -0.0393793,
+  "lon": -51.1766973
 }

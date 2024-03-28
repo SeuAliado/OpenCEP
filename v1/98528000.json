@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Derrubadas",
   "uf": "RS",
-  "ibge": "4306320"
+  "ibge": "4306320",
+  "lat": -27.2646332,
+  "lon": -53.8650543
 }

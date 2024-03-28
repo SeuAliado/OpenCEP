@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouro Verde do Oeste",
   "uf": "PR",
-  "ibge": "4117453"
+  "ibge": "4117453",
+  "lat": -24.7740823,
+  "lon": -53.9023748
 }

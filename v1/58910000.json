@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Rio do Peixe",
   "uf": "PB",
-  "ibge": "2500700"
+  "ibge": "2500700",
+  "lat": -6.7272538,
+  "lon": -38.4495018
 }

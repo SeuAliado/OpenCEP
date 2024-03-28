@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapura",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6855352,
+  "lon": -46.6565713
 }

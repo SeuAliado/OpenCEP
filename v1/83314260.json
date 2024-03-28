@@ -5,5 +5,7 @@
   "bairro": "Jardim Caiçara",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4553702,
+  "lon": -49.1569281
 }

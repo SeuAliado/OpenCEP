@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tamboril do Piauí",
   "uf": "PI",
-  "ibge": "2210953"
+  "ibge": "2210953",
+  "lat": -8.4097806,
+  "lon": -42.9214914
 }

@@ -5,5 +5,7 @@
   "bairro": "Tarumã-Açu",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -2.9759495,
+  "lon": -60.0219189
 }

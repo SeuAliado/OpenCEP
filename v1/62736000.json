@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paramoti",
   "uf": "CE",
-  "ibge": "2310407"
+  "ibge": "2310407",
+  "lat": -4.0978488,
+  "lon": -39.2391661
 }

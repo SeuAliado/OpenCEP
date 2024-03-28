@@ -5,5 +5,7 @@
   "bairro": "Vila Fanganielo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.5024428,
+  "lon": -46.5507524
 }

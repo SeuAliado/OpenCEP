@@ -5,5 +5,7 @@
   "bairro": "Marcondésia",
   "localidade": "Monte Azul Paulista",
   "uf": "SP",
-  "ibge": "3531506"
+  "ibge": "3531506",
+  "lat": -20.873228,
+  "lon": -48.7113151
 }

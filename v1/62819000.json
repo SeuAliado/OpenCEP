@@ -5,5 +5,7 @@
   "bairro": "Maceió",
   "localidade": "Fortim",
   "uf": "CE",
-  "ibge": "2304459"
+  "ibge": "2304459",
+  "lat": -4.4072161,
+  "lon": -37.7819288
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -20.7952805,
+  "lon": -49.3880627
 }

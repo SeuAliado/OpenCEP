@@ -5,5 +5,7 @@
   "bairro": "Campinas de Brotas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9795892,
+  "lon": -38.4784488
 }

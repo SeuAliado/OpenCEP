@@ -5,5 +5,7 @@
   "bairro": "Cohab São Gonçalo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6616846,
+  "lon": -56.0449739
 }

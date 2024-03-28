@@ -5,5 +5,7 @@
   "bairro": "Vila São Joaquim",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6109186,
+  "lon": -46.9304304
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Inácio",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2843367,
+  "lon": -35.026208
 }

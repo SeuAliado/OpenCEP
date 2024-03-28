@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Saudade do Iguaçu",
   "uf": "PR",
-  "ibge": "4126272"
+  "ibge": "4126272",
+  "lat": -25.6962244,
+  "lon": -52.6184515
 }

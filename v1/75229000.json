@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio da Esperança",
   "localidade": "Santa Cruz de Goiás",
   "uf": "GO",
-  "ibge": "5219209"
+  "ibge": "5219209",
+  "lat": -17.2472566,
+  "lon": -48.5772873
 }

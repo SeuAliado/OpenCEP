@@ -5,5 +5,7 @@
   "bairro": "Ana Carrara",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.3892371,
+  "lon": -42.7140647
 }

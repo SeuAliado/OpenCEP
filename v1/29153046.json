@@ -5,5 +5,7 @@
   "bairro": "Porto de Santana",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3031289,
+  "lon": -40.3710566
 }

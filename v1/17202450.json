@@ -5,5 +5,7 @@
   "bairro": "Chácara Canhos",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3033342,
+  "lon": -48.5570467
 }

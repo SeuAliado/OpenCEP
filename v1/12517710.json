@@ -5,5 +5,7 @@
   "bairro": "Beira Rio II",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7921143,
+  "lon": -45.1813462
 }

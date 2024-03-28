@@ -5,5 +5,7 @@
   "bairro": "Igrejinha",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1878888,
+  "lon": -47.1899134
 }

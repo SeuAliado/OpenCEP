@@ -5,5 +5,7 @@
   "bairro": "Parque Fongaro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6349415,
+  "lon": -46.5919309
 }

@@ -5,5 +5,7 @@
   "bairro": "Leigos",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.920407,
+  "lon": -42.4672225
 }

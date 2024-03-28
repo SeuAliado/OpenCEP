@@ -5,5 +5,7 @@
   "bairro": "Jardim Andorinhas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9182037,
+  "lon": -47.0162189
 }

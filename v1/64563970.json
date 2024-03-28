@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Floresta do Piauí",
   "uf": "PI",
-  "ibge": "2203859"
+  "ibge": "2203859",
+  "lat": -7.4667523,
+  "lon": -41.8001311
 }

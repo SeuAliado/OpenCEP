@@ -5,5 +5,7 @@
   "bairro": "Vila Craide",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.724956,
+  "lon": -47.9110957
 }

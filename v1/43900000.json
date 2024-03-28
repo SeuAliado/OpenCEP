@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco do Conde",
   "uf": "BA",
-  "ibge": "2929206"
+  "ibge": "2929206",
+  "lat": -12.6187909,
+  "lon": -38.6789542
 }

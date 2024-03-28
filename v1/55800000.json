@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nazaré da Mata",
   "uf": "PE",
-  "ibge": "2609501"
+  "ibge": "2609501",
+  "lat": -7.7427496,
+  "lon": -35.2280343
 }

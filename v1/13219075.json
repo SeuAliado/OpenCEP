@@ -5,5 +5,7 @@
   "bairro": "Vila Nambi",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1940101,
+  "lon": -46.8622301
 }

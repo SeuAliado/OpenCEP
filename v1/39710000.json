@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coroaci",
   "uf": "MG",
-  "ibge": "3119203"
+  "ibge": "3119203",
+  "lat": -18.6160477,
+  "lon": -42.2794946
 }

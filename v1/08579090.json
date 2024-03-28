@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4603438,
+  "lon": -46.3697639
 }

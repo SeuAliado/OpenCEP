@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4308235,
+  "lon": -54.6190536
 }

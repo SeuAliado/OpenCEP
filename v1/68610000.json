@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Augusto Corrêa",
   "uf": "PA",
-  "ibge": "1500909"
+  "ibge": "1500909",
+  "lat": -1.0762009,
+  "lon": -46.5547852
 }

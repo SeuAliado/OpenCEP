@@ -5,5 +5,7 @@
   "bairro": "Desvio Rizzo",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1929864,
+  "lon": -51.2305598
 }

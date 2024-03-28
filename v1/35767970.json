@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jequitibá",
   "uf": "MG",
-  "ibge": "3135704"
+  "ibge": "3135704",
+  "lat": -19.2373041,
+  "lon": -44.0261344
 }

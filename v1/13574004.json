@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Vista",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0303826,
+  "lon": -47.9018795
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro Osório",
   "uf": "RS",
-  "ibge": "4314209"
+  "ibge": "4314209",
+  "lat": -31.9537642,
+  "lon": -52.9170407
 }

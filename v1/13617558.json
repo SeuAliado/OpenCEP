@@ -5,5 +5,7 @@
   "bairro": "Jardim Ariana",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1855641,
+  "lon": -47.3656427
 }

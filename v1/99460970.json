@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Colorado",
   "uf": "RS",
-  "ibge": "4305603"
+  "ibge": "4305603",
+  "lat": -28.5249246,
+  "lon": -52.9954603
 }

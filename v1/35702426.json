@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Bernardo Valadares Vasconcelos",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4230756,
+  "lon": -44.2263246
 }

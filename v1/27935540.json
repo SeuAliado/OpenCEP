@@ -5,5 +5,7 @@
   "bairro": "Riviera Fluminense",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3909685,
+  "lon": -41.795876
 }

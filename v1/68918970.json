@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pracuúba",
   "uf": "AP",
-  "ibge": "1600550"
+  "ibge": "1600550",
+  "lat": 1.7434938,
+  "lon": -50.7822623
 }

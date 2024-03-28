@@ -5,5 +5,7 @@
   "bairro": "Igatu",
   "localidade": "Andaraí",
   "uf": "BA",
-  "ibge": "2901304"
+  "ibge": "2901304",
+  "lat": -12.8929735,
+  "lon": -41.3212862
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Paes",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4201117,
+  "lon": -49.9706298
 }

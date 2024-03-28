@@ -5,5 +5,7 @@
   "bairro": "Praça Seca",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8944025,
+  "lon": -43.3532866
 }

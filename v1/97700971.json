@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "lat": -29.188496,
+  "lon": -54.8727696
 }

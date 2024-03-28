@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Patu",
   "uf": "RN",
-  "ibge": "2409308"
+  "ibge": "2409308",
+  "lat": -6.1023382,
+  "lon": -37.6372943
 }

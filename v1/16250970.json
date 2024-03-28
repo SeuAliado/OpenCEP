@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Clementina",
   "uf": "SP",
-  "ibge": "3511904"
+  "ibge": "3511904",
+  "lat": -22.6672999,
+  "lon": -50.4210335
 }

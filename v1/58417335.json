@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2489442,
+  "lon": -35.9102404
 }

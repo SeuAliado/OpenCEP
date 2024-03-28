@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vargem Alta",
   "uf": "ES",
-  "ibge": "3205036"
+  "ibge": "3205036",
+  "lat": -20.6458812,
+  "lon": -41.0192349
 }

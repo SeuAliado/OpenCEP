@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araguanã",
   "uf": "TO",
-  "ibge": "1702158"
+  "ibge": "1702158",
+  "lat": -6.8101697,
+  "lon": -48.5187229
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Mangueiras",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5143708,
+  "lon": -47.4481118
 }

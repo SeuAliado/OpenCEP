@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira Alta",
   "uf": "GO",
-  "ibge": "5204102"
+  "ibge": "5204102",
+  "lat": -18.6055037,
+  "lon": -50.9706116
 }

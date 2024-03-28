@@ -5,5 +5,7 @@
   "bairro": "Loteamento Zé Sobrinho",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4403168,
+  "lon": -54.6572505
 }

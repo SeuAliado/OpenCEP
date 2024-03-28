@@ -5,5 +5,7 @@
   "bairro": "Daniel Gomes",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8075959,
+  "lon": -39.2645332
 }

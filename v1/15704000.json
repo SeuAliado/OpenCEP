@@ -5,5 +5,7 @@
   "bairro": "Jardim Pêgolo",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2704204,
+  "lon": -50.5557217
 }

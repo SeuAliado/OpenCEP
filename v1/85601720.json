@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.0904312,
+  "lon": -53.0468843
 }

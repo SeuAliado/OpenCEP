@@ -5,5 +5,7 @@
   "bairro": "Jardim Iruama",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.5020318,
+  "lon": -49.5409772
 }

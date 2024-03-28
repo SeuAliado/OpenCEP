@@ -5,5 +5,7 @@
   "bairro": "Cucuí",
   "localidade": "São Gabriel da Cachoeira",
   "uf": "AM",
-  "ibge": "1303809"
+  "ibge": "1303809",
+  "lat": 1.1748552,
+  "lon": -66.8438448
 }

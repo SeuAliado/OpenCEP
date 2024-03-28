@@ -5,5 +5,7 @@
   "bairro": "Casa Nova",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9617451,
+  "lon": -67.8007683
 }

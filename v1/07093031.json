@@ -5,5 +5,7 @@
   "bairro": "Vila Silveira",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4581019,
+  "lon": -46.5407885
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Angélica",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "lat": -20.7494504,
+  "lon": -41.4617826
 }

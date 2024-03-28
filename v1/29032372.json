@@ -5,5 +5,7 @@
   "bairro": "Nova Palestina",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.2725928,
+  "lon": -40.3218351
 }

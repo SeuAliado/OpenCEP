@@ -5,5 +5,7 @@
   "bairro": "Vale das Pedrinhas",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.6260009,
+  "lon": -43.0053531
 }

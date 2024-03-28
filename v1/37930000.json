@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capitólio",
   "uf": "MG",
-  "ibge": "3112802"
+  "ibge": "3112802",
+  "lat": -20.6141323,
+  "lon": -46.0478758
 }

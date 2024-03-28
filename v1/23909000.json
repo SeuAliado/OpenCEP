@@ -5,5 +5,7 @@
   "bairro": "Colégio Naval",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0184729,
+  "lon": -44.3281596
 }

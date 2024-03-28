@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lontra",
   "uf": "MG",
-  "ibge": "3138658"
+  "ibge": "3138658",
+  "lat": -15.9033373,
+  "lon": -44.303061
 }

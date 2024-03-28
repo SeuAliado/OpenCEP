@@ -5,5 +5,7 @@
   "bairro": "Vila Princesa Izabel",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.9312995,
+  "lon": -51.0896102
 }

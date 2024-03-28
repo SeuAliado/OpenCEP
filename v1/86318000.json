@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Santo Antônio do Paraíso",
   "uf": "PR",
-  "ibge": "4124301"
+  "ibge": "4124301",
+  "lat": -20.1487178,
+  "lon": -44.9011819
 }

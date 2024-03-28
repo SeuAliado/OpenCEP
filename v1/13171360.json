@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Florença",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8393773,
+  "lon": -47.2695337
 }

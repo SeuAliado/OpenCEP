@@ -5,5 +5,7 @@
   "bairro": "Loteamento da Chácara",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5489543,
+  "lon": -44.1724241
 }

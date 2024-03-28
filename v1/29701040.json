@@ -5,5 +5,7 @@
   "bairro": "Operário",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5367639,
+  "lon": -40.6229802
 }

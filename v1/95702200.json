@@ -5,5 +5,7 @@
   "bairro": "Santa Marta",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1786157,
+  "lon": -51.4960633
 }

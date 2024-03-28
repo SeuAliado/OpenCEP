@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "lat": -22.7521756,
+  "lon": -43.4917322
 }

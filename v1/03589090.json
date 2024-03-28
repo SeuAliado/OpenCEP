@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Padre José de Anchieta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5532481,
+  "lon": -46.4866359
 }

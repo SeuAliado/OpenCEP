@@ -5,5 +5,7 @@
   "bairro": "Baronesa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.9119896,
+  "lon": -47.0522284
 }

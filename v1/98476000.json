@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Planalto",
   "uf": "RS",
-  "ibge": "4314704"
+  "ibge": "4314704",
+  "lat": -29.8958009,
+  "lon": -51.1768619
 }

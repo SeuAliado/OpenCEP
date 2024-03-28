@@ -5,5 +5,7 @@
   "bairro": "Chácaras Coimbra",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7333307,
+  "lon": -48.2984963
 }

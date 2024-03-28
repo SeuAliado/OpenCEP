@@ -5,5 +5,7 @@
   "bairro": "Jardins de Petrópolis",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0262834,
+  "lon": -43.8804545
 }

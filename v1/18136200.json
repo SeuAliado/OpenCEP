@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosália",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5422206,
+  "lon": -47.1325919
 }

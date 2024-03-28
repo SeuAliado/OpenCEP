@@ -5,5 +5,7 @@
   "bairro": "Jardim Ibirapuera",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8876592,
+  "lon": -55.51683
 }

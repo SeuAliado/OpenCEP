@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso III",
   "localidade": "Santo Antônio do Descoberto",
   "uf": "GO",
-  "ibge": "5219753"
+  "ibge": "5219753",
+  "lat": -15.9456567,
+  "lon": -48.2693575
 }

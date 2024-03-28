@@ -5,5 +5,7 @@
   "bairro": "Jardim Iracema",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8467831,
+  "lon": -41.4791083
 }

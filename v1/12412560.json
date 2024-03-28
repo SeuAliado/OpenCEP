@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9568904,
+  "lon": -45.4602896
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Avaré",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0891378,
+  "lon": -52.4807825
 }

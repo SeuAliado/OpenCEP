@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tupi Paulista",
   "uf": "SP",
-  "ibge": "3555109"
+  "ibge": "3555109",
+  "lat": -21.3864875,
+  "lon": -51.5727993
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tietê",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6008421,
+  "lon": -46.4896943
 }

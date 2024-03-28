@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Areia Branca",
   "uf": "RN",
-  "ibge": "2401107"
+  "ibge": "2401107",
+  "lat": -4.9529267,
+  "lon": -37.1255584
 }

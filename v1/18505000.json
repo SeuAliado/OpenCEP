@@ -5,5 +5,7 @@
   "bairro": "Laras",
   "localidade": "Laranjal Paulista",
   "uf": "SP",
-  "ibge": "3526407"
+  "ibge": "3526407",
+  "lat": -22.9195345,
+  "lon": -47.898366
 }

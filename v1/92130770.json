@@ -5,5 +5,7 @@
   "bairro": "Niterói",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "lat": -29.9616433,
+  "lon": -51.1605817
 }

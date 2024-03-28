@@ -5,5 +5,7 @@
   "bairro": "Bebedouro",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6270283,
+  "lon": -35.7477967
 }

@@ -5,5 +5,7 @@
   "bairro": "Jamari",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.9119666,
+  "lon": -63.060638
 }

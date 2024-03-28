@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vista Alegre",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1746534,
+  "lon": -46.8861137
 }

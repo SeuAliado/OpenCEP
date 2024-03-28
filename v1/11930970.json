@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pariquera-Açu",
   "uf": "SP",
-  "ibge": "3536208"
+  "ibge": "3536208",
+  "lat": -24.721629,
+  "lon": -47.8790342
 }

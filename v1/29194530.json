@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8106094,
+  "lon": -40.2726434
 }

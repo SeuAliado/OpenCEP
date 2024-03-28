@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campestre do Maranhão",
   "uf": "MA",
-  "ibge": "2102556"
+  "ibge": "2102556",
+  "lat": -6.174841,
+  "lon": -47.3655288
 }

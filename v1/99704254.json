@@ -5,5 +5,7 @@
   "bairro": "Linho",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6437182,
+  "lon": -52.254455
 }

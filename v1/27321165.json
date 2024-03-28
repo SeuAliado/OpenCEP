@@ -5,5 +5,7 @@
   "bairro": "Vila Coringa",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5429511,
+  "lon": -44.1774543
 }

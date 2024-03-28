@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Vista",
   "uf": "PB",
-  "ibge": "2502151"
+  "ibge": "2502151",
+  "lat": -7.2562032,
+  "lon": -36.2196853
 }

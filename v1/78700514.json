@@ -5,5 +5,7 @@
   "bairro": "Vila Valeria",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4549096,
+  "lon": -54.6257229
 }

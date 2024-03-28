@@ -5,5 +5,7 @@
   "bairro": "Conceição da Ibitipoca",
   "localidade": "Lima Duarte",
   "uf": "MG",
-  "ibge": "3138609"
+  "ibge": "3138609",
+  "lat": -21.7192255,
+  "lon": -43.9253623
 }

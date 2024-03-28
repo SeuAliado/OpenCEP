@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Águas de São Pedro",
   "uf": "SP",
-  "ibge": "3500600"
+  "ibge": "3500600",
+  "lat": -22.6006001,
+  "lon": -47.8756251
 }

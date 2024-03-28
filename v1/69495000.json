@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Japurá",
   "uf": "AM",
-  "ibge": "1302108"
+  "ibge": "1302108",
+  "lat": -1.790146,
+  "lon": -66.568208
 }

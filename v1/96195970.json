@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristal",
   "uf": "RS",
-  "ibge": "4306056"
+  "ibge": "4306056",
+  "lat": -31.0023382,
+  "lon": -52.0486418
 }

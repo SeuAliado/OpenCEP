@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Leopoldo de Bulhões",
   "uf": "GO",
-  "ibge": "5212303"
+  "ibge": "5212303",
+  "lat": -16.6188819,
+  "lon": -48.7411395
 }

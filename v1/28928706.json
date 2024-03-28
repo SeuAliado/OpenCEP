@@ -5,5 +5,7 @@
   "bairro": "Santa Margarida I (Tamoios)",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.6526293,
+  "lon": -42.0060364
 }

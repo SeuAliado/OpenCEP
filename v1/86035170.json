@@ -5,5 +5,7 @@
   "bairro": "Jardim Morumbi",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3136419,
+  "lon": -51.1350533
 }

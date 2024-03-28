@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Rubiataba",
   "uf": "GO",
-  "ibge": "5218904"
+  "ibge": "5218904",
+  "lat": -15.1598537,
+  "lon": -49.801087
 }

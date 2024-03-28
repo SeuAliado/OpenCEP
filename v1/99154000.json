@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Marau",
   "uf": "RS",
-  "ibge": "4311809"
+  "ibge": "4311809",
+  "lat": -29.289192,
+  "lon": -51.5089464
 }

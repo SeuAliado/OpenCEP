@@ -5,5 +5,7 @@
   "bairro": "Loteamento Paulino de Jesus",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9120428,
+  "lon": -45.361719
 }

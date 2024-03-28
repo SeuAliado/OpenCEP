@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião da Amoreira",
   "uf": "PR",
-  "ibge": "4126009"
+  "ibge": "4126009",
+  "lat": -23.4651029,
+  "lon": -50.7608463
 }

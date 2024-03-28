@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capetinga",
   "uf": "MG",
-  "ibge": "3112406"
+  "ibge": "3112406",
+  "lat": -20.6167911,
+  "lon": -47.057582
 }

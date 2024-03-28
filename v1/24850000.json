@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Magalhães (Cabuçu)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.785177,
+  "lon": -42.8700859
 }

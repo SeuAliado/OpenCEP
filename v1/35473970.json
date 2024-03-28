@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belo Vale",
   "uf": "MG",
-  "ibge": "3106408"
+  "ibge": "3106408",
+  "lat": -20.4092374,
+  "lon": -44.0258616
 }

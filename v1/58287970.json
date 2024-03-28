@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capim",
   "uf": "PB",
-  "ibge": "2504033"
+  "ibge": "2504033",
+  "lat": -6.9142656,
+  "lon": -35.171153
 }

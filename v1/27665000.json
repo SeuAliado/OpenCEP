@@ -5,5 +5,7 @@
   "bairro": "Taboas",
   "localidade": "Rio das Flores",
   "uf": "RJ",
-  "ibge": "3304508"
+  "ibge": "3304508",
+  "lat": -22.2833172,
+  "lon": -43.5849887
 }

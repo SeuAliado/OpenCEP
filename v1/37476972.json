@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristina",
   "uf": "MG",
-  "ibge": "3120508"
+  "ibge": "3120508",
+  "lat": -20.2621691,
+  "lon": -50.5436118
 }

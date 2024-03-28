@@ -5,5 +5,7 @@
   "bairro": "Pacaembu",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7565131,
+  "lon": -47.9821988
 }

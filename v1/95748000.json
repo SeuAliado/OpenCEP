@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Sul",
   "uf": "RS",
-  "ibge": "4318614"
+  "ibge": "4318614",
+  "lat": -29.5500826,
+  "lon": -51.4834766
 }

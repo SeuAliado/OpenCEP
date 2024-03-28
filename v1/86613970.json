@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pitangueiras",
   "uf": "PR",
-  "ibge": "4119657"
+  "ibge": "4119657",
+  "lat": -23.2330652,
+  "lon": -51.5893175
 }

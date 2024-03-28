@@ -5,5 +5,7 @@
   "bairro": "Centro (Amadeu Amaral)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2226411,
+  "lon": -49.9493853
 }

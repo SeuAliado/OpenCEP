@@ -5,5 +5,7 @@
   "bairro": "Residencial João Antônio Fagundes",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4894616,
+  "lon": -54.5856138
 }

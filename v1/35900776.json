@@ -5,5 +5,7 @@
   "bairro": "Vila Salica",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6424707,
+  "lon": -43.2246444
 }

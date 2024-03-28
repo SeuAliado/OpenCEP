@@ -5,5 +5,7 @@
   "bairro": "Nova Betânia",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3362236,
+  "lon": -40.0682407
 }

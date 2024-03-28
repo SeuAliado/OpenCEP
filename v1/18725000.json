@@ -5,5 +5,7 @@
   "bairro": "Holambra II",
   "localidade": "Paranapanema",
   "uf": "SP",
-  "ibge": "3535804"
+  "ibge": "3535804",
+  "lat": -23.4467059,
+  "lon": -48.8756947
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Ipê",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9829228,
+  "lon": -67.8817487
 }

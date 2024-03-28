@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vassouras",
   "uf": "RJ",
-  "ibge": "3306206"
+  "ibge": "3306206",
+  "lat": -22.4067275,
+  "lon": -43.6608867
 }

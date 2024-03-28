@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4207661,
+  "lon": -40.4877083
 }

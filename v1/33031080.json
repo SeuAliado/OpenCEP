@@ -5,5 +5,7 @@
   "bairro": "Novo Centro",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7792926,
+  "lon": -43.9147655
 }

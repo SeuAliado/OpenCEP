@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marquinho",
   "uf": "PR",
-  "ibge": "4115457"
+  "ibge": "4115457",
+  "lat": -25.1142996,
+  "lon": -52.2580501
 }

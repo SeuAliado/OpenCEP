@@ -5,5 +5,7 @@
   "bairro": "Morada Nova",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9191633,
+  "lon": -44.0362919
 }

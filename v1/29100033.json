@@ -5,5 +5,7 @@
   "bairro": "Centro de Vila Velha",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3379317,
+  "lon": -40.2927262
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0263868,
+  "lon": -47.42649
 }

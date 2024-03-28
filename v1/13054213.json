@@ -5,5 +5,7 @@
   "bairro": "Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9755489,
+  "lon": -47.1234625
 }

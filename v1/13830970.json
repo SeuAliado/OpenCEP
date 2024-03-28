@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio de Posse",
   "uf": "SP",
-  "ibge": "3548005"
+  "ibge": "3548005",
+  "lat": -22.6037609,
+  "lon": -46.9222289
 }

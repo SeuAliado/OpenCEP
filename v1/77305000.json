@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição do Tocantins",
   "uf": "TO",
-  "ibge": "1705607"
+  "ibge": "1705607",
+  "lat": -12.1055373,
+  "lon": -47.3706554
 }

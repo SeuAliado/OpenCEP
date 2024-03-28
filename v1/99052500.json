@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2278062,
+  "lon": -52.3686052
 }

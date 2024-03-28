@@ -5,5 +5,7 @@
   "bairro": "Jardim Águas da Serra",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5731961,
+  "lon": -47.4561211
 }

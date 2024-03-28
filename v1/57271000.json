@@ -5,5 +5,7 @@
   "bairro": "Ingá",
   "localidade": "Junqueiro",
   "uf": "AL",
-  "ibge": "2704005"
+  "ibge": "2704005",
+  "lat": -23.0768368,
+  "lon": -47.1943457
 }

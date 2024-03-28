@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5176243,
+  "lon": -42.6123817
 }

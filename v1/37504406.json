@@ -5,5 +5,7 @@
   "bairro": "Jardim Bernadete",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -18.9213206,
+  "lon": -48.2903948
 }

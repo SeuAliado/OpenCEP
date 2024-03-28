@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8142827,
+  "lon": -39.28246
 }

@@ -5,5 +5,7 @@
   "bairro": "Clériston Andrade",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.404067,
+  "lon": -38.2402661
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Kemel",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5145305,
+  "lon": -46.3717828
 }

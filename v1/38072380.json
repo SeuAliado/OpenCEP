@@ -5,5 +5,7 @@
   "bairro": "Loteamento Núcleo Operário",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7333223,
+  "lon": -47.9116196
 }

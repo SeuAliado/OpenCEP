@@ -5,5 +5,7 @@
   "bairro": "Antônio Kerpel",
   "localidade": "Coronel Bicaco",
   "uf": "RS",
-  "ibge": "4305900"
+  "ibge": "4305900",
+  "lat": -27.6993581,
+  "lon": -53.7500932
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Chinês",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5097697,
+  "lon": -44.194385
 }

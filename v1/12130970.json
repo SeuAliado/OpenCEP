@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoinha",
   "uf": "SP",
-  "ibge": "3526308"
+  "ibge": "3526308",
+  "lat": -23.0893424,
+  "lon": -45.1903612
 }

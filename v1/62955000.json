@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibicuitinga",
   "uf": "CE",
-  "ibge": "2305332"
+  "ibge": "2305332",
+  "lat": -4.9693348,
+  "lon": -38.5480395
 }

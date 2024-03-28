@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tupanci do Sul",
   "uf": "RS",
-  "ibge": "4322186"
+  "ibge": "4322186",
+  "lat": -27.9245779,
+  "lon": -51.5387873
 }

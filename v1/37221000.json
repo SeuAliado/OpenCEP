@@ -5,5 +5,7 @@
   "bairro": "Macaia",
   "localidade": "Bom Sucesso",
   "uf": "MG",
-  "ibge": "3108008"
+  "ibge": "3108008",
+  "lat": -21.1440314,
+  "lon": -44.9128569
 }

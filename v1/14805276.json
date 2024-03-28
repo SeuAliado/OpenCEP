@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Luiza IV",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7449256,
+  "lon": -48.194621
 }

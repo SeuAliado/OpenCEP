@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anitápolis",
   "uf": "SC",
-  "ibge": "4201109"
+  "ibge": "4201109",
+  "lat": -27.9025367,
+  "lon": -49.1268852
 }

@@ -5,5 +5,7 @@
   "bairro": "Vista Linda",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3944246,
+  "lon": -40.3711115
 }

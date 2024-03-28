@@ -5,5 +5,7 @@
   "bairro": "Alto Paredão",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.4174361,
+  "lon": -52.4378177
 }

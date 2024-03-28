@@ -5,5 +5,7 @@
   "bairro": "Jardim Limoeiro",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2390605,
+  "lon": -45.932826
 }

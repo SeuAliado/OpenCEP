@@ -5,5 +5,7 @@
   "bairro": "Canto",
   "localidade": "Teofilândia",
   "uf": "BA",
-  "ibge": "2931509"
+  "ibge": "2931509",
+  "lat": -11.4784631,
+  "lon": -38.9947585
 }

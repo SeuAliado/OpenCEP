@@ -5,5 +5,7 @@
   "bairro": "Jardim Athenas",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2571127,
+  "lon": -51.1644905
 }

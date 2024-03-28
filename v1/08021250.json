@@ -5,5 +5,7 @@
   "bairro": "Vila Rosaria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4989298,
+  "lon": -46.4331814
 }

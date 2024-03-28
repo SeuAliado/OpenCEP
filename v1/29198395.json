@@ -5,5 +5,7 @@
   "bairro": "Sauê",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.9228631,
+  "lon": -40.1169585
 }

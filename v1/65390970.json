@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Luzia",
   "uf": "MA",
-  "ibge": "2110005"
+  "ibge": "2110005",
+  "lat": -3.9835654,
+  "lon": -45.6787567
 }

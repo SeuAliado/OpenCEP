@@ -5,5 +5,7 @@
   "bairro": "Maracanã (Ilha de Maré)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7495841,
+  "lon": -38.5254688
 }

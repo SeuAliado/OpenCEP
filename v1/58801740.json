@@ -5,5 +5,7 @@
   "bairro": "Angelim",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7524654,
+  "lon": -38.2182899
 }

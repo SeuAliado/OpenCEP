@@ -5,5 +5,7 @@
   "bairro": "Conjunto Vila Verde",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7891552,
+  "lon": -50.9478069
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Araguaia",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7851103,
+  "lon": -49.34966
 }

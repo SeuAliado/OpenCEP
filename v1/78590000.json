@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paranaíta",
   "uf": "MT",
-  "ibge": "5106299"
+  "ibge": "5106299",
+  "lat": -9.5895065,
+  "lon": -56.6513853
 }

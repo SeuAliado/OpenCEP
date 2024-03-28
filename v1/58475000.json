@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Queimadas",
   "uf": "PB",
-  "ibge": "2512507"
+  "ibge": "2512507",
+  "lat": -7.3637571,
+  "lon": -35.9023681
 }

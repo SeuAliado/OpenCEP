@@ -5,5 +5,7 @@
   "bairro": "Cerâmica",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6532779,
+  "lon": -52.2820745
 }

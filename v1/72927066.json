@@ -5,5 +5,7 @@
   "bairro": "Mansões Camargo",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7370232,
+  "lon": -48.2977572
 }

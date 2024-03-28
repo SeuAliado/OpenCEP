@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Esperança",
   "uf": "PR",
-  "ibge": "4116901"
+  "ibge": "4116901",
+  "lat": -23.1891863,
+  "lon": -52.2004893
 }

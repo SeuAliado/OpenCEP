@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Camacho",
   "uf": "MG",
-  "ibge": "3110400"
+  "ibge": "3110400",
+  "lat": -20.6272125,
+  "lon": -45.1537472
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caturité",
   "uf": "PB",
-  "ibge": "2504355"
+  "ibge": "2504355",
+  "lat": -7.4216347,
+  "lon": -36.0197713
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maranhãozinho",
   "uf": "MA",
-  "ibge": "2106375"
+  "ibge": "2106375",
+  "lat": -2.2427771,
+  "lon": -45.8579186
 }

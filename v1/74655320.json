@@ -5,5 +5,7 @@
   "bairro": "Loteamento Mansões Pereira",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6629228,
+  "lon": -49.2811293
 }

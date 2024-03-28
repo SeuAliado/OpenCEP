@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riachão",
   "uf": "MA",
-  "ibge": "2109502"
+  "ibge": "2109502",
+  "lat": -7.3630247,
+  "lon": -46.6262159
 }

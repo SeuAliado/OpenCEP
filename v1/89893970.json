@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mondaí",
   "uf": "SC",
-  "ibge": "4211009"
+  "ibge": "4211009",
+  "lat": -27.1042233,
+  "lon": -53.3989379
 }

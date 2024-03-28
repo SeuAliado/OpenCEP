@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1090852,
+  "lon": -45.7040449
 }

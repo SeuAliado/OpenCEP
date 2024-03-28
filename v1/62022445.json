@@ -5,5 +5,7 @@
   "bairro": "Domingos Olímpio",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.6839365,
+  "lon": -40.3650845
 }

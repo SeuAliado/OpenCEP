@@ -5,5 +5,7 @@
   "bairro": "Jardim Carambeí",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.519611,
+  "lon": -47.1404545
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Reginópolis",
   "uf": "SP",
-  "ibge": "3542503"
+  "ibge": "3542503",
+  "lat": -21.8887466,
+  "lon": -49.2250012
 }

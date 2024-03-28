@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4120006,
+  "lon": -49.2894653
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Farias Brito",
   "uf": "CE",
-  "ibge": "2304301"
+  "ibge": "2304301",
+  "lat": -6.8718251,
+  "lon": -39.5278264
 }

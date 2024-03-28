@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova América",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.7366023,
+  "lon": -47.6330083
 }

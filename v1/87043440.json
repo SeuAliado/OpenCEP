@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Branca Vieira",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.3965255,
+  "lon": -51.8949676
 }

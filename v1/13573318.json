@@ -5,5 +5,7 @@
   "bairro": "Loteamento Social Antenor Garcia",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.051231,
+  "lon": -47.9170643
 }

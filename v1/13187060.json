@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.9039582,
+  "lon": -47.2083019
 }

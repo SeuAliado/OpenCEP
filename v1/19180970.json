@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alfredo Marcondes",
   "uf": "SP",
-  "ibge": "3500808"
+  "ibge": "3500808",
+  "lat": -21.9538691,
+  "lon": -51.41339
 }

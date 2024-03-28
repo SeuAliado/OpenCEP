@@ -5,5 +5,7 @@
   "bairro": "Fazenda Velha",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.5707879,
+  "lon": -44.2302498
 }

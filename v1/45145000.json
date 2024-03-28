@@ -5,5 +5,7 @@
   "bairro": "Catolezinho",
   "localidade": "Itambé",
   "uf": "BA",
-  "ibge": "2915809"
+  "ibge": "2915809",
+  "lat": -15.2433734,
+  "lon": -40.6303294
 }

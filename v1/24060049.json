@@ -5,5 +5,7 @@
   "bairro": "São Lourenço",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8861969,
+  "lon": -43.108092
 }

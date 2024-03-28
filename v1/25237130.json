@@ -5,5 +5,7 @@
   "bairro": "Cidade dos Meninos",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7043865,
+  "lon": -43.296258
 }

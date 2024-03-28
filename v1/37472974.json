@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carmo de Minas",
   "uf": "MG",
-  "ibge": "3114105"
+  "ibge": "3114105",
+  "lat": -19.9538884,
+  "lon": -43.9442544
 }

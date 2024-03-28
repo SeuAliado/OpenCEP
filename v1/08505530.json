@@ -5,5 +5,7 @@
   "bairro": "Jardim Melilo",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5545353,
+  "lon": -46.3694676
 }

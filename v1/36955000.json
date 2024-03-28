@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mutum",
   "uf": "MG",
-  "ibge": "3144003"
+  "ibge": "3144003",
+  "lat": -19.8204988,
+  "lon": -41.4434539
 }

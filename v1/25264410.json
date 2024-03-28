@@ -5,5 +5,7 @@
   "bairro": "Jardim Anhangá",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6393036,
+  "lon": -43.2335957
 }

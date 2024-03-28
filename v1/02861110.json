@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4688346,
+  "lon": -46.6710867
 }

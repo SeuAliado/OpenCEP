@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caetanos",
   "uf": "BA",
-  "ibge": "2905156"
+  "ibge": "2905156",
+  "lat": -14.3194392,
+  "lon": -40.9182876
 }

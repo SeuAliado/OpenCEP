@@ -5,5 +5,7 @@
   "bairro": "Barreirinha",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.3731304,
+  "lon": -49.2569934
 }

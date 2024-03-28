@@ -5,5 +5,7 @@
   "bairro": "Belvedere",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.04817,
+  "lon": -52.6375719
 }

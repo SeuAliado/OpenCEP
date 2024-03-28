@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corguinho",
   "uf": "MS",
-  "ibge": "5003108"
+  "ibge": "5003108",
+  "lat": -19.8331638,
+  "lon": -54.8287617
 }

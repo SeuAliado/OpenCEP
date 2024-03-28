@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araguanã",
   "uf": "MA",
-  "ibge": "2100873"
+  "ibge": "2100873",
+  "lat": -2.9468115,
+  "lon": -45.6593487
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colinas do Tocantins",
   "uf": "TO",
-  "ibge": "1705508"
+  "ibge": "1705508",
+  "lat": -8.0580437,
+  "lon": -48.4761559
 }

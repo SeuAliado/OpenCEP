@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dores de Guanhães",
   "uf": "MG",
-  "ibge": "3123106"
+  "ibge": "3123106",
+  "lat": -19.1510655,
+  "lon": -42.9065561
 }

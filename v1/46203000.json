@@ -5,5 +5,7 @@
   "bairro": "Alegre",
   "localidade": "Condeúba",
   "uf": "BA",
-  "ibge": "2908705"
+  "ibge": "2908705",
+  "lat": -15.0596471,
+  "lon": -42.2455395
 }

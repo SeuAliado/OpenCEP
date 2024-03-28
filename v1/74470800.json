@@ -5,5 +5,7 @@
   "bairro": "Residencial Noroeste",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6713687,
+  "lon": -49.1994569
 }

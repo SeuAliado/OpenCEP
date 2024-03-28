@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5797815,
+  "lon": -47.3822706
 }

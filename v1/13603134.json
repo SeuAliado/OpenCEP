@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Cândida",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3473308,
+  "lon": -47.3957455
 }

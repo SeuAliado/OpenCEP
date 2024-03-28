@@ -5,5 +5,7 @@
   "bairro": "Jardim Gustavo Picinini",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5991934,
+  "lon": -47.401438
 }

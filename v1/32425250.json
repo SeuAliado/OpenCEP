@@ -5,5 +5,7 @@
   "bairro": "Vila Ideal (Parque Durval de Barros)",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0020003,
+  "lon": -44.0642439
 }

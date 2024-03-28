@@ -5,5 +5,7 @@
   "bairro": "Vila Sitio dos Nunes",
   "localidade": "Flores",
   "uf": "PE",
-  "ibge": "2605608"
+  "ibge": "2605608",
+  "lat": -8.0482913,
+  "lon": -37.8359489
 }

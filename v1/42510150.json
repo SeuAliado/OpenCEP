@@ -5,5 +5,7 @@
   "bairro": "Fonte Nova (Ilha de Bom Jesus dos Passos)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7625709,
+  "lon": -38.6417837
 }

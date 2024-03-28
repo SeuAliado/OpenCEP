@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Japoatã",
   "uf": "SE",
-  "ibge": "2803401"
+  "ibge": "2803401",
+  "lat": -10.4459324,
+  "lon": -36.8034921
 }

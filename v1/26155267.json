@@ -5,5 +5,7 @@
   "bairro": "Nova Aurora",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7178928,
+  "lon": -43.3974441
 }

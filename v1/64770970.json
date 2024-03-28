@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Raimundo Nonato",
   "uf": "PI",
-  "ibge": "2210607"
+  "ibge": "2210607",
+  "lat": -9.0163193,
+  "lon": -42.6938124
 }

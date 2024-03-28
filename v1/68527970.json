@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Abel Figueiredo",
   "uf": "PA",
-  "ibge": "1500131"
+  "ibge": "1500131",
+  "lat": -4.9538247,
+  "lon": -48.3989404
 }

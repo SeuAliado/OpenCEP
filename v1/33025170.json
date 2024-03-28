@@ -5,5 +5,7 @@
   "bairro": "Idulipê",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7739711,
+  "lon": -43.8463729
 }

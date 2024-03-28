@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6557602,
+  "lon": -53.59595
 }

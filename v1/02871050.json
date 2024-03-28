@@ -5,5 +5,7 @@
   "bairro": "Jardim Ondina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.462224,
+  "lon": -46.6747521
 }

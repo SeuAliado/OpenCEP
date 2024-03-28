@@ -5,5 +5,7 @@
   "bairro": "Conjunto Esperança",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -23.4021979,
+  "lon": -51.9351747
 }

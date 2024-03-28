@@ -5,5 +5,7 @@
   "bairro": "Jardim Josely",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4380978,
+  "lon": -46.2770162
 }

@@ -5,5 +5,7 @@
   "bairro": "Mogi-Mirim II",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4357555,
+  "lon": -46.9371053
 }

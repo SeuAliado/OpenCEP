@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0197857,
+  "lon": -47.9027672
 }

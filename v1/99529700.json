@@ -5,5 +5,7 @@
   "bairro": "Xadrez",
   "localidade": "Coqueiros do Sul",
   "uf": "RS",
-  "ibge": "4305850"
+  "ibge": "4305850",
+  "lat": -28.1923689,
+  "lon": -52.7452223
 }

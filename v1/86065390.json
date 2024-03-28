@@ -5,5 +5,7 @@
   "bairro": "Messiânico",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3047099,
+  "lon": -51.2109159
 }

@@ -5,5 +5,7 @@
   "bairro": "Izabel Cristina Mauad",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.3821775,
+  "lon": -42.702464
 }

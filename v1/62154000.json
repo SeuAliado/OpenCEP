@@ -5,5 +5,7 @@
   "bairro": "Mutambeiras",
   "localidade": "Santana do Acaraú",
   "uf": "CE",
-  "ibge": "2312007"
+  "ibge": "2312007",
+  "lat": -3.3458598,
+  "lon": -40.1700596
 }

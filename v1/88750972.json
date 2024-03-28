@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Braço do Norte",
   "uf": "SC",
-  "ibge": "4202800"
+  "ibge": "4202800",
+  "lat": -28.2789438,
+  "lon": -49.1631727
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Piedade",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5841006,
+  "lon": -48.060446
 }

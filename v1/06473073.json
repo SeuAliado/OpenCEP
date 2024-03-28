@@ -5,5 +5,7 @@
   "bairro": "Sítio Tamboré Alphaville",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4842381,
+  "lon": -46.8636508
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5360053,
+  "lon": -47.3926623
 }

@@ -5,5 +5,7 @@
   "bairro": "Canastra",
   "localidade": "Ibateguara",
   "uf": "AL",
-  "ibge": "2703007"
+  "ibge": "2703007",
+  "lat": -8.9724923,
+  "lon": -35.9271978
 }

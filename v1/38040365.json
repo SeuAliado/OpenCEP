@@ -5,5 +5,7 @@
   "bairro": "Vila São Cristóvão",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7769211,
+  "lon": -47.9335516
 }

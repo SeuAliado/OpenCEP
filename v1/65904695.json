@@ -5,5 +5,7 @@
   "bairro": "Vila Macedo",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.482935,
+  "lon": -47.4900208
 }

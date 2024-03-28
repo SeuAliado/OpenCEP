@@ -5,5 +5,7 @@
   "bairro": "Conjunto Ciro dos Anjos",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7322781,
+  "lon": -43.8320777
 }

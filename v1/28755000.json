@@ -5,5 +5,7 @@
   "bairro": "Visconde de Imbé",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "lat": -22.0662118,
+  "lon": -42.1613129
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaberá",
   "uf": "SP",
-  "ibge": "3521705"
+  "ibge": "3521705",
+  "lat": -23.8643129,
+  "lon": -49.1404554
 }

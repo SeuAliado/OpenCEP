@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Rita de Cássia",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.1149066,
+  "lon": -47.968881
 }

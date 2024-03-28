@@ -5,5 +5,7 @@
   "bairro": "Morada Nobre",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0603932,
+  "lon": -47.9843831
 }

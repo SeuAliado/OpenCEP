@@ -5,5 +5,7 @@
   "bairro": "Atlântida",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8046693,
+  "lon": -55.8078007
 }

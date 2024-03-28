@@ -5,5 +5,7 @@
   "bairro": "Novo Tupi",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8485587,
+  "lon": -43.9242356
 }

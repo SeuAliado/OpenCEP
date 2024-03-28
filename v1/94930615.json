@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.9317629,
+  "lon": -51.1081182
 }

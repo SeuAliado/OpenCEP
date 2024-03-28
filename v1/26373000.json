@@ -5,5 +5,7 @@
   "bairro": "Guandu",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7215453,
+  "lon": -43.6335648
 }

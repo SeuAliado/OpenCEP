@@ -5,5 +5,7 @@
   "bairro": "Ganchinho",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.5554739,
+  "lon": -49.2480943
 }

@@ -5,5 +5,7 @@
   "bairro": "Lagoa Preta",
   "localidade": "Tremedal",
   "uf": "BA",
-  "ibge": "2931806"
+  "ibge": "2931806",
+  "lat": -15.1781603,
+  "lon": -41.6032974
 }

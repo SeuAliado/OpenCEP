@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Dois de Julho",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9264886,
+  "lon": -47.0479087
 }

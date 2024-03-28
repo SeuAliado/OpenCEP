@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6347265,
+  "lon": -55.9840772
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada do Castelo (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9533915,
+  "lon": -46.2969828
 }

@@ -5,5 +5,7 @@
   "bairro": "Ana Carla",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1927617,
+  "lon": -49.9653562
 }

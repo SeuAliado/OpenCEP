@@ -5,5 +5,7 @@
   "bairro": "Residencial Itaipu",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7905463,
+  "lon": -49.3657205
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4765514,
+  "lon": -46.3528346
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Sátiro Dias",
   "uf": "BA",
-  "ibge": "2929701"
+  "ibge": "2929701",
+  "lat": -11.5309995,
+  "lon": -38.5694193
 }

@@ -5,5 +5,7 @@
   "bairro": "Industrial I",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3046459,
+  "lon": -54.0783006
 }

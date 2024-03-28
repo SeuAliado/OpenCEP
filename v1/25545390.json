@@ -5,5 +5,7 @@
   "bairro": "Agostinho Porto",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7783654,
+  "lon": -43.3885666
 }

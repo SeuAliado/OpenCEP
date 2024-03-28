@@ -5,5 +5,7 @@
   "bairro": "Jardim Artur Alvim",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5271024,
+  "lon": -46.4855375
 }

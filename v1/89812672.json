@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1246195,
+  "lon": -52.594454
 }

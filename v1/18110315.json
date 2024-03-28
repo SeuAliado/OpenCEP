@@ -5,5 +5,7 @@
   "bairro": "Jardim Icatu",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5396572,
+  "lon": -47.4552385
 }

@@ -5,5 +5,7 @@
   "bairro": "Ouro Negro",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.005797,
+  "lon": -44.1172476
 }

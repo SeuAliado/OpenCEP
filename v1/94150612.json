@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.932697,
+  "lon": -51.0231052
 }

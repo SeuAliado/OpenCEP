@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guarabira",
   "uf": "PB",
-  "ibge": "2506301"
+  "ibge": "2506301",
+  "lat": -6.8512706,
+  "lon": -35.4922422
 }

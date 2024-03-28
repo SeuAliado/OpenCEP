@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5976009,
+  "lon": -47.4246702
 }

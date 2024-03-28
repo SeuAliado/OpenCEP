@@ -5,5 +5,7 @@
   "bairro": "Planalto Formosa",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1104614,
+  "lon": -42.8320112
 }

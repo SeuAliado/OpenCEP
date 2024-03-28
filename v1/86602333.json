@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosângelo",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "lat": -23.3065021,
+  "lon": -51.3851638
 }

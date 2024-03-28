@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Veredinha",
   "uf": "MG",
-  "ibge": "3171071"
+  "ibge": "3171071",
+  "lat": -17.4271202,
+  "lon": -42.7466993
 }

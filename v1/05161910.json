@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Jaraguá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4594521,
+  "lon": -46.7510293
 }

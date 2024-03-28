@@ -5,5 +5,7 @@
   "bairro": "Brasília (Outeiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.2753494,
+  "lon": -48.4743753
 }

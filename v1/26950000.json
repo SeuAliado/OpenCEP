@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paty do Alferes",
   "uf": "RJ",
-  "ibge": "3303856"
+  "ibge": "3303856",
+  "lat": -22.4313914,
+  "lon": -43.4289497
 }

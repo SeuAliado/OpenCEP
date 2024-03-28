@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tapera",
   "uf": "RS",
-  "ibge": "4321006"
+  "ibge": "4321006",
+  "lat": -28.6245405,
+  "lon": -52.8627351
 }

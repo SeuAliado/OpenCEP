@@ -5,5 +5,7 @@
   "bairro": "Nova Caruaru",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.2645915,
+  "lon": -35.9785139
 }

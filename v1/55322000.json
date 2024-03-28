@@ -5,5 +5,7 @@
   "bairro": "Igapó",
   "localidade": "Lagoa do Ouro",
   "uf": "PE",
-  "ibge": "2608602"
+  "ibge": "2608602",
+  "lat": -5.7881899,
+  "lon": -35.2449001
 }

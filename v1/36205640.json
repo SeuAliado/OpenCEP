@@ -5,5 +5,7 @@
   "bairro": "Nova Suíça",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2242222,
+  "lon": -43.7382689
 }

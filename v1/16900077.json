@@ -5,5 +5,7 @@
   "bairro": "Vila Passarelli",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8969739,
+  "lon": -51.3877573
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9505429,
+  "lon": -34.891739
 }

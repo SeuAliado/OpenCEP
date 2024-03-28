@@ -5,5 +5,7 @@
   "bairro": "União Bandeirante",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7522526,
+  "lon": -63.841145
 }

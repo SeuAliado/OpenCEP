@@ -5,5 +5,7 @@
   "bairro": "Chácara Três Marias",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.3965448,
+  "lon": -47.3672357
 }

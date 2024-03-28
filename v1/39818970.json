@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Padre Paraíso",
   "uf": "MG",
-  "ibge": "3146305"
+  "ibge": "3146305",
+  "lat": -17.0733966,
+  "lon": -41.484683
 }

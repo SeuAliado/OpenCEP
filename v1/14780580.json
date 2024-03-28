@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.560124,
+  "lon": -48.578194
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa União de Itabirinha",
   "localidade": "Itabirinha",
   "uf": "MG",
-  "ibge": "3131802"
+  "ibge": "3131802",
+  "lat": -29.6851043,
+  "lon": -51.130354
 }

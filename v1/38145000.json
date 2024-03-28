@@ -5,5 +5,7 @@
   "bairro": "Patrimônio",
   "localidade": "Prata",
   "uf": "MG",
-  "ibge": "3152808"
+  "ibge": "3152808",
+  "lat": -19.3214354,
+  "lon": -48.9270387
 }

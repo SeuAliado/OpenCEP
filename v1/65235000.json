@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Bento",
   "uf": "MA",
-  "ibge": "2110500"
+  "ibge": "2110500",
+  "lat": -2.8085572,
+  "lon": -44.9813452
 }

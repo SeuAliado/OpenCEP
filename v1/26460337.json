@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6791079,
+  "lon": -43.6139772
 }

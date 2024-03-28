@@ -5,5 +5,7 @@
   "bairro": "Chácaras Santo Antônio",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.5782024,
+  "lon": -48.7879875
 }

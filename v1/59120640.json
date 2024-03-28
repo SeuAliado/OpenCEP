@@ -5,5 +5,7 @@
   "bairro": "Potengi",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.7570991,
+  "lon": -35.2459898
 }

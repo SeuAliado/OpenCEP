@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "General Maynard",
   "uf": "SE",
-  "ibge": "2802502"
+  "ibge": "2802502",
+  "lat": -10.6911952,
+  "lon": -36.970226
 }

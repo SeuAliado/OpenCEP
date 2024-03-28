@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Saran",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.2233536,
+  "lon": -50.4717627
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.563747,
+  "lon": -44.173901
 }

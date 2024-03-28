@@ -5,5 +5,7 @@
   "bairro": "Vale Encantado",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3873653,
+  "lon": -41.8194296
 }

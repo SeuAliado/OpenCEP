@@ -5,5 +5,7 @@
   "bairro": "São Manoel",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9302459,
+  "lon": -46.3814356
 }

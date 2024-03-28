@@ -5,5 +5,7 @@
   "bairro": "Jardim Hedy",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3642809,
+  "lon": -46.9251446
 }

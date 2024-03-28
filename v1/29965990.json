@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição da Barra",
   "uf": "ES",
-  "ibge": "3201605"
+  "ibge": "3201605",
+  "lat": -18.5716881,
+  "lon": -39.7560987
 }

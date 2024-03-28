@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maracanã",
   "uf": "PA",
-  "ibge": "1504307"
+  "ibge": "1504307",
+  "lat": -0.7654151,
+  "lon": -47.4576633
 }

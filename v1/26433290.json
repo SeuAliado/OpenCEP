@@ -5,5 +5,7 @@
   "bairro": "Nova Belém",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6493486,
+  "lon": -43.6510566
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Guadalajara",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5249183,
+  "lon": -47.485152
 }

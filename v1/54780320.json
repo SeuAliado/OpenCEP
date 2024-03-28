@@ -5,5 +5,7 @@
   "bairro": "São João e São Paulo",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -7.9994726,
+  "lon": -35.0121644
 }

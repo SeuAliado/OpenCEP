@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lafaiete Coutinho",
   "uf": "BA",
-  "ibge": "2918704"
+  "ibge": "2918704",
+  "lat": -13.6566183,
+  "lon": -40.2129046
 }

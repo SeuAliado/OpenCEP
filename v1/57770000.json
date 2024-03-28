@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cajueiro",
   "uf": "AL",
-  "ibge": "2701308"
+  "ibge": "2701308",
+  "lat": -9.367769,
+  "lon": -36.1545404
 }

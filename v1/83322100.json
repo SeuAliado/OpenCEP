@@ -5,5 +5,7 @@
   "bairro": "Weissópolis",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4460112,
+  "lon": -49.1932754
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Rosa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9727535,
+  "lon": -47.1052947
 }

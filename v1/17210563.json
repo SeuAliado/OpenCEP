@@ -5,5 +5,7 @@
   "bairro": "Vila Pires de Campo",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2871781,
+  "lon": -48.546184
 }

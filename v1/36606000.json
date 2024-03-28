@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guarará",
   "uf": "MG",
-  "ibge": "3128501"
+  "ibge": "3128501",
+  "lat": -21.7613406,
+  "lon": -43.0292053
 }

@@ -5,5 +5,7 @@
   "bairro": "Amazonas",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6412953,
+  "lon": -43.2341293
 }

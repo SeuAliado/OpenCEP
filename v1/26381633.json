@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7010381,
+  "lon": -43.5517549
 }

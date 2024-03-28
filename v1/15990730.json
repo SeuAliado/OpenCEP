@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial João Vital",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "lat": -21.6007062,
+  "lon": -48.3831667
 }

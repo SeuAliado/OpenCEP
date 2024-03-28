@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5714895,
+  "lon": -44.1691375
 }

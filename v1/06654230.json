@@ -5,5 +5,7 @@
   "bairro": "Vila Doutor Cardoso",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5403997,
+  "lon": -46.9247266
 }

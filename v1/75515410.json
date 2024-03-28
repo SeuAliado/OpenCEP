@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4148896,
+  "lon": -49.240172
 }

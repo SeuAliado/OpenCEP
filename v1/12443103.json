@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Terra dos Ipês",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8965051,
+  "lon": -45.3731326
 }

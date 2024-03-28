@@ -5,5 +5,7 @@
   "bairro": "Passo do Feijó",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "lat": -29.9831812,
+  "lon": -51.0687895
 }

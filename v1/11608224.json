@@ -5,5 +5,7 @@
   "bairro": "Porto Grande",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.789572,
+  "lon": -45.4015469
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguari",
   "uf": "RS",
-  "ibge": "4311106"
+  "ibge": "4311106",
+  "lat": -29.5006635,
+  "lon": -54.6928151
 }

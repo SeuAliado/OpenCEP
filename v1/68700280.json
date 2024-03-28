@@ -5,5 +5,7 @@
   "bairro": "Samambaia",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1815863,
+  "lon": -47.1801598
 }

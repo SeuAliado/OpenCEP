@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chapada de Areia",
   "uf": "TO",
-  "ibge": "1704600"
+  "ibge": "1704600",
+  "lat": -10.1704902,
+  "lon": -49.1828385
 }

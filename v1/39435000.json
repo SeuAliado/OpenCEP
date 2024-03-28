@@ -5,5 +5,7 @@
   "bairro": "Condado do Norte",
   "localidade": "São João da Ponte",
   "uf": "MG",
-  "ibge": "3162401"
+  "ibge": "3162401",
+  "lat": -15.8234532,
+  "lon": -44.0249834
 }

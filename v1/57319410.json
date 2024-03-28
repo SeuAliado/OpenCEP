@@ -5,5 +5,7 @@
   "bairro": "Mangabeiras",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.6364479,
+  "lon": -35.7018541
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itamarati",
   "uf": "AM",
-  "ibge": "1301951"
+  "ibge": "1301951",
+  "lat": -6.4249651,
+  "lon": -68.2605738
 }

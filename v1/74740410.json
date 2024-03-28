@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Aruanã III",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.683381,
+  "lon": -49.2012277
 }

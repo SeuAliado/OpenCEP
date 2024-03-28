@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mariluz",
   "uf": "PR",
-  "ibge": "4115101"
+  "ibge": "4115101",
+  "lat": -24.0074176,
+  "lon": -53.1479115
 }

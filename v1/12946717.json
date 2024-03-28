@@ -5,5 +5,7 @@
   "bairro": "Jardim Maristela",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.150801,
+  "lon": -46.5528298
 }

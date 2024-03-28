@@ -5,5 +5,7 @@
   "bairro": "Jardim São Vicente Palloti",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3208309,
+  "lon": -51.1149993
 }

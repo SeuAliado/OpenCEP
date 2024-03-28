@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Emas",
   "uf": "PB",
-  "ibge": "2505907"
+  "ibge": "2505907",
+  "lat": -7.0960285,
+  "lon": -37.745028
 }

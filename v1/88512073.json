@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8352132,
+  "lon": -50.3361884
 }

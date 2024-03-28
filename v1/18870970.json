@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "lat": -23.3899441,
+  "lon": -49.5103917
 }

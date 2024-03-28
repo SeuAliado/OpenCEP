@@ -5,5 +5,7 @@
   "bairro": "Boiçucanga",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.8174235,
+  "lon": -45.5287481
 }

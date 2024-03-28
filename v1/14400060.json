@@ -5,5 +5,7 @@
   "bairro": "Jardim Consolação",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5505558,
+  "lon": -47.4070459
 }

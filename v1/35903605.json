@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6109831,
+  "lon": -44.053093
 }

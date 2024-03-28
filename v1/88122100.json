@@ -5,5 +5,7 @@
   "bairro": "Sertão do Maruim",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.607129,
+  "lon": -48.6838141
 }

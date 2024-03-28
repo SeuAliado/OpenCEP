@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Biquinhas",
   "uf": "MG",
-  "ibge": "3107000"
+  "ibge": "3107000",
+  "lat": -18.7824609,
+  "lon": -45.5069316
 }

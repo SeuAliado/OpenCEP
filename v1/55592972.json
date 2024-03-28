@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do O",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "lat": -8.4376324,
+  "lon": -35.012456
 }

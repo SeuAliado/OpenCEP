@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cajari",
   "uf": "MA",
-  "ibge": "2102507"
+  "ibge": "2102507",
+  "lat": -3.3226646,
+  "lon": -45.0074823
 }

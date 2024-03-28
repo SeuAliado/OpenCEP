@@ -5,5 +5,7 @@
   "bairro": "Murubira (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.400057,
+  "lon": -48.4472589
 }

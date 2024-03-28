@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaracy",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4798588,
+  "lon": -46.3932884
 }

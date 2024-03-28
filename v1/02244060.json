@@ -5,5 +5,7 @@
   "bairro": "Vila Dom Pedro II",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4876452,
+  "lon": -46.6040537
 }

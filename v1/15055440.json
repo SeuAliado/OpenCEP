@@ -5,5 +5,7 @@
   "bairro": "Jardim Bordon",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7949693,
+  "lon": -49.3605472
 }

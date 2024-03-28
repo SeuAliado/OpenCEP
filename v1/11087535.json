@@ -5,5 +5,7 @@
   "bairro": "Castelo",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.948434,
+  "lon": -46.3818818
 }

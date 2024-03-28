@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus do Amparo",
   "uf": "MG",
-  "ibge": "3107703"
+  "ibge": "3107703",
+  "lat": -19.7048538,
+  "lon": -43.4750033
 }

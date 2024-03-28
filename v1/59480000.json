@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro",
   "uf": "RN",
-  "ibge": "2412708"
+  "ibge": "2412708",
+  "lat": -5.8981998,
+  "lon": -35.6314191
 }

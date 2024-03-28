@@ -5,5 +5,7 @@
   "bairro": "Paciência",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9173617,
+  "lon": -43.6249015
 }

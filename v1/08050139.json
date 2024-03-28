@@ -5,5 +5,7 @@
   "bairro": "Vila Jacuí",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4870357,
+  "lon": -46.4580777
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Floresta",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.177387,
+  "lon": -45.8287476
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Laje do Muriaé",
   "uf": "RJ",
-  "ibge": "3302304"
+  "ibge": "3302304",
+  "lat": -21.2099624,
+  "lon": -42.1175048
 }

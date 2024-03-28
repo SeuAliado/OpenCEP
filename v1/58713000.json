@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Malta",
   "uf": "PB",
-  "ibge": "2508802"
+  "ibge": "2508802",
+  "lat": -6.9064566,
+  "lon": -37.5217818
 }

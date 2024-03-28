@@ -5,5 +5,7 @@
   "bairro": "Comercial e Residencial Jardim Mariana",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9357919,
+  "lon": -45.4799954
 }

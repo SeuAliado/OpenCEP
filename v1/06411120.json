@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Vista",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.500964,
+  "lon": -46.8764629
 }

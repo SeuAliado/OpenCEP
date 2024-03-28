@@ -5,5 +5,7 @@
   "bairro": "Arruda",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.6976997,
+  "lon": -46.7686388
 }

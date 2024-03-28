@@ -5,5 +5,7 @@
   "bairro": "Ibuguaçu",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "lat": -3.2579789,
+  "lon": -41.2503269
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipueira",
   "uf": "RN",
-  "ibge": "2404804"
+  "ibge": "2404804",
+  "lat": -6.8063665,
+  "lon": -37.2048752
 }

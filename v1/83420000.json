@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quatro Barras",
   "uf": "PR",
-  "ibge": "4120804"
+  "ibge": "4120804",
+  "lat": -25.3678092,
+  "lon": -49.0767795
 }

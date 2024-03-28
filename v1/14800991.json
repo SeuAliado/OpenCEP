@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8238209,
+  "lon": -48.1999205
 }

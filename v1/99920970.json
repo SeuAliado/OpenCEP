@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Erebango",
   "uf": "RS",
-  "ibge": "4306973"
+  "ibge": "4306973",
+  "lat": -27.8541846,
+  "lon": -52.3020962
 }

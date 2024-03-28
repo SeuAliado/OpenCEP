@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dias D'Ávila",
   "uf": "BA",
-  "ibge": "2910057"
+  "ibge": "2910057",
+  "lat": -12.6191964,
+  "lon": -38.2929948
 }

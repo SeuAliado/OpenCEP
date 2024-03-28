@@ -5,5 +5,7 @@
   "bairro": "Monte Belo",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8768486,
+  "lon": -41.1022582
 }

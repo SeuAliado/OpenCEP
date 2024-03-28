@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tanque do Piauí",
   "uf": "PI",
-  "ibge": "2210979"
+  "ibge": "2210979",
+  "lat": -6.6004547,
+  "lon": -42.2825878
 }

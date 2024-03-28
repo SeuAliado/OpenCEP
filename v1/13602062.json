@@ -5,5 +5,7 @@
   "bairro": "Parque Cidade Jardim",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3725331,
+  "lon": -47.4012463
 }

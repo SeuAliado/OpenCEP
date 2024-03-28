@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7398459,
+  "lon": -60.1114812
 }

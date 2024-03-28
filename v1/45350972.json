@@ -5,5 +5,7 @@
   "bairro": "Upabuçu",
   "localidade": "Itiruçu",
   "uf": "BA",
-  "ibge": "2916906"
+  "ibge": "2916906",
+  "lat": -13.4610856,
+  "lon": -40.2272661
 }

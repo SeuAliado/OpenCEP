@@ -5,5 +5,7 @@
   "bairro": "Independência",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7884658,
+  "lon": -55.7961505
 }

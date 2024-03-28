@@ -5,5 +5,7 @@
   "bairro": "Andracel Center",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3249102,
+  "lon": -48.944723
 }

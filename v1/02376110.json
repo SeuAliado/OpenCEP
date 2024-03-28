@@ -5,5 +5,7 @@
   "bairro": "Tremembé",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4580964,
+  "lon": -46.6258601
 }

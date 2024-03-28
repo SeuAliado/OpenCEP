@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Cidade Universitária",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3125491,
+  "lon": -49.069774
 }

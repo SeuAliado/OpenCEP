@@ -5,5 +5,7 @@
   "bairro": "Belvedere da Taquara",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4576561,
+  "lon": -43.8377341
 }

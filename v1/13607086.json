@@ -5,5 +5,7 @@
   "bairro": "Vila Madalena de Canossa",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.369955,
+  "lon": -47.3568911
 }

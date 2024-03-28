@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Lagoinha",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1915164,
+  "lon": -47.7725033
 }

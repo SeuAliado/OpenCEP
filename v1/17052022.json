@@ -5,5 +5,7 @@
   "bairro": "Parque Fortaleza",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3316092,
+  "lon": -49.0871978
 }

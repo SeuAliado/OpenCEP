@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pirambu",
   "uf": "SE",
-  "ibge": "2805307"
+  "ibge": "2805307",
+  "lat": -10.7219506,
+  "lon": -36.8547616
 }

@@ -5,5 +5,7 @@
   "bairro": "Giqui",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "lat": -4.7816131,
+  "lon": -37.7704487
 }

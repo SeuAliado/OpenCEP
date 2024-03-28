@@ -5,5 +5,7 @@
   "bairro": "Conjunto Pontal",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7520472,
+  "lon": -47.976185
 }

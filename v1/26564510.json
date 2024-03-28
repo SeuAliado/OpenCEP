@@ -5,5 +5,7 @@
   "bairro": "Jacutinga",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.771178,
+  "lon": -43.4199636
 }

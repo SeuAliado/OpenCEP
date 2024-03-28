@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus do Divino",
   "localidade": "Divino",
   "uf": "MG",
-  "ibge": "3122009"
+  "ibge": "3122009",
+  "lat": -20.6138941,
+  "lon": -42.1442003
 }

@@ -5,5 +5,7 @@
   "bairro": "Recanto Verde dos Lagos",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5913167,
+  "lon": -46.9965087
 }

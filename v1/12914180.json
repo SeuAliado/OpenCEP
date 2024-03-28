@@ -5,5 +5,7 @@
   "bairro": "Paineiras de Bragança",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9617498,
+  "lon": -46.5316274
 }

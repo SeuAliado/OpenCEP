@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João da Serra",
   "uf": "PI",
-  "ibge": "2209906"
+  "ibge": "2209906",
+  "lat": -5.5158032,
+  "lon": -41.8992887
 }

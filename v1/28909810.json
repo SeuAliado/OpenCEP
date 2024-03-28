@@ -5,5 +5,7 @@
   "bairro": "Agrisa",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.8532649,
+  "lon": -42.0067599
 }

@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -20.4046205,
+  "lon": -42.9059632
 }

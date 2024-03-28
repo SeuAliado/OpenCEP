@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Berilo",
   "uf": "MG",
-  "ibge": "3106507"
+  "ibge": "3106507",
+  "lat": -16.9497382,
+  "lon": -42.4642865
 }

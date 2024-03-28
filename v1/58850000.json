@@ -5,5 +5,7 @@
   "bairro": "Várzea Comprida",
   "localidade": "Pombal",
   "uf": "PB",
-  "ibge": "2512101"
+  "ibge": "2512101",
+  "lat": -6.9134155,
+  "lon": -37.939231
 }

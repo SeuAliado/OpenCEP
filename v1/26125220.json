@@ -5,5 +5,7 @@
   "bairro": "São Francisco de Assis",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7320704,
+  "lon": -43.4058231
 }

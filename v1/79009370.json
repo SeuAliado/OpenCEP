@@ -5,5 +5,7 @@
   "bairro": "Vila Planalto",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.459271,
+  "lon": -54.6309644
 }

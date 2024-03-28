@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8953888,
+  "lon": -47.0428202
 }

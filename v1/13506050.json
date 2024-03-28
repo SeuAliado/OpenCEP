@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.386246,
+  "lon": -47.555806
 }

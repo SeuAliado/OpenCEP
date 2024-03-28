@@ -5,5 +5,7 @@
   "bairro": "Vila Doutor João Batista (Parte Baixa)",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5664702,
+  "lon": -44.9472239
 }

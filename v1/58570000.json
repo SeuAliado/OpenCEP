@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José dos Cordeiros",
   "uf": "PB",
-  "ibge": "2514800"
+  "ibge": "2514800",
+  "lat": -7.4305543,
+  "lon": -36.8465564
 }

@@ -5,5 +5,7 @@
   "bairro": "Glória",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1395721,
+  "lon": -42.8231715
 }

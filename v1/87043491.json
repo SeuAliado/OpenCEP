@@ -5,5 +5,7 @@
   "bairro": "Loteamento Grajaú",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4028905,
+  "lon": -51.885678
 }

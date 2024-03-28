@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Florido",
   "uf": "MG",
-  "ibge": "3111408"
+  "ibge": "3111408",
+  "lat": -19.7635542,
+  "lon": -48.5720738
 }

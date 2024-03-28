@@ -5,5 +5,7 @@
   "bairro": "Centro Histórico",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.517727,
+  "lon": -48.5059711
 }

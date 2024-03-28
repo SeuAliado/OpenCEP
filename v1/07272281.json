@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pimentas",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4641633,
+  "lon": -46.4167068
 }

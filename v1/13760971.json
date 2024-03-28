@@ -5,5 +5,7 @@
   "bairro": "Itaiquara",
   "localidade": "Tapiratiba",
   "uf": "SP",
-  "ibge": "3553609"
+  "ibge": "3553609",
+  "lat": -21.4733104,
+  "lon": -46.7702673
 }

@@ -5,5 +5,7 @@
   "bairro": "Pedreiras",
   "localidade": "Arroio Grande",
   "uf": "RS",
-  "ibge": "4301305"
+  "ibge": "4301305",
+  "lat": -29.7432875,
+  "lon": -52.4145167
 }

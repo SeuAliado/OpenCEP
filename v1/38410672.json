@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9471763,
+  "lon": -48.2500787
 }

@@ -5,5 +5,7 @@
   "bairro": "Dona Beja",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.618657,
+  "lon": -46.9351199
 }

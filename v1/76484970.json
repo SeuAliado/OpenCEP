@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Santa Tereza de Goiás",
   "uf": "GO",
-  "ibge": "5219605"
+  "ibge": "5219605",
+  "lat": -17.8724769,
+  "lon": -51.7221702
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Matilde",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7703048,
+  "lon": -44.0816157
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tunápolis",
   "uf": "SC",
-  "ibge": "4218756"
+  "ibge": "4218756",
+  "lat": -26.9685851,
+  "lon": -53.6422413
 }

@@ -5,5 +5,7 @@
   "bairro": "Pernambuquinho",
   "localidade": "Guaramiranga",
   "uf": "CE",
-  "ibge": "2305100"
+  "ibge": "2305100",
+  "lat": -4.2553214,
+  "lon": -38.950393
 }

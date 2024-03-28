@@ -5,5 +5,7 @@
   "bairro": "Taquarendi",
   "localidade": "Mirangaba",
   "uf": "BA",
-  "ibge": "2921401"
+  "ibge": "2921401",
+  "lat": -10.892315,
+  "lon": -40.6929881
 }

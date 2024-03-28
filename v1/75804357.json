@@ -5,5 +5,7 @@
   "bairro": "Setor das Mansões",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8836751,
+  "lon": -51.7374594
 }

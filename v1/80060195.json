@@ -5,5 +5,7 @@
   "bairro": "Alto da Glória",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4285926,
+  "lon": -49.258327
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rosa Minelia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4773618,
+  "lon": -46.5221228
 }

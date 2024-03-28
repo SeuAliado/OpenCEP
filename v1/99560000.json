@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sarandi",
   "uf": "RS",
-  "ibge": "4320107"
+  "ibge": "4320107",
+  "lat": -27.946449,
+  "lon": -52.9164069
 }

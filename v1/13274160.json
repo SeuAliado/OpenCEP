@@ -5,5 +5,7 @@
   "bairro": "Vila D'Agostinho",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9638825,
+  "lon": -46.9878386
 }

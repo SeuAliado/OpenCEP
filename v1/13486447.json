@@ -5,5 +5,7 @@
   "bairro": "Vila Labaki",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5602742,
+  "lon": -47.3762813
 }

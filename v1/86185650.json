@@ -5,5 +5,7 @@
   "bairro": "Jardim União",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -23.2792101,
+  "lon": -51.2389275
 }

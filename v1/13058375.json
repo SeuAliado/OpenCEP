@@ -5,5 +5,7 @@
   "bairro": "Jardim Lisa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9560975,
+  "lon": -47.1830108
 }

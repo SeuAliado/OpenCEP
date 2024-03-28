@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "lat": -17.2174589,
+  "lon": -46.8757517
 }

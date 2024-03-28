@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Marechal Mascarenhas de Morais",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6175653,
+  "lon": -46.4973996
 }

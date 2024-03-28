@@ -5,5 +5,7 @@
   "bairro": "Setor Habitacional Contagem (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6685277,
+  "lon": -47.8393954
 }

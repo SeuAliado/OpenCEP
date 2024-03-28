@@ -5,5 +5,7 @@
   "bairro": "Jardim Damasceno",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.448835,
+  "lon": -46.7020863
 }

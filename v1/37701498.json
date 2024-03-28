@@ -5,5 +5,7 @@
   "bairro": "Chácara dos Cravos",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7823299,
+  "lon": -46.5824576
 }

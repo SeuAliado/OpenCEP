@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vitória Brasil",
   "uf": "SP",
-  "ibge": "3556958"
+  "ibge": "3556958",
+  "lat": -20.1889245,
+  "lon": -50.4825173
 }

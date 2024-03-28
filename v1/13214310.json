@@ -5,5 +5,7 @@
   "bairro": "Vila Hortolândia",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1693083,
+  "lon": -46.907964
 }

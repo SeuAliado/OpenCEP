@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7717204,
+  "lon": -57.0797372
 }

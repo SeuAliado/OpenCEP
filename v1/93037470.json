@@ -5,5 +5,7 @@
   "bairro": "Duque de Caxias",
   "localidade": "São Leopoldo",
   "uf": "RS",
-  "ibge": "4318705"
+  "ibge": "4318705",
+  "lat": -29.7984644,
+  "lon": -51.1348758
 }

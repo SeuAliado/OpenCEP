@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinhalzinho",
   "uf": "SC",
-  "ibge": "4212908"
+  "ibge": "4212908",
+  "lat": -26.8515808,
+  "lon": -52.9859498
 }

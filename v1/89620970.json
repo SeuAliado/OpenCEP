@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "lat": -27.4021144,
+  "lon": -51.2257321
 }

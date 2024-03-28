@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4427031,
+  "lon": -44.2355162
 }

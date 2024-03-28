@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Saúde",
   "uf": "BA",
-  "ibge": "2929800"
+  "ibge": "2929800",
+  "lat": -12.982291,
+  "lon": -38.5167098
 }

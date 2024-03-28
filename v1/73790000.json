@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cavalcante",
   "uf": "GO",
-  "ibge": "5205307"
+  "ibge": "5205307",
+  "lat": -13.6773491,
+  "lon": -47.6061625
 }

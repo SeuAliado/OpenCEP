@@ -5,5 +5,7 @@
   "bairro": "São Martins",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.2860723,
+  "lon": -54.1254589
 }

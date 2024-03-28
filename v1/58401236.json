@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2093394,
+  "lon": -35.888175
 }

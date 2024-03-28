@@ -5,5 +5,7 @@
   "bairro": "Vila Góis",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3401497,
+  "lon": -48.9613539
 }

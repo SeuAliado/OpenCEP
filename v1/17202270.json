@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Brasil",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3054319,
+  "lon": -48.5578421
 }

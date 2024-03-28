@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Concórdia do Pará",
   "uf": "PA",
-  "ibge": "1502756"
+  "ibge": "1502756",
+  "lat": -1.9927378,
+  "lon": -47.9426239
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catas Altas",
   "uf": "MG",
-  "ibge": "3115359"
+  "ibge": "3115359",
+  "lat": -20.0753088,
+  "lon": -43.4090751
 }

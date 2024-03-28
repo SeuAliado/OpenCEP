@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Teresinha",
   "uf": "PB",
-  "ibge": "2513802"
+  "ibge": "2513802",
+  "lat": -7.085086,
+  "lon": -37.4445639
 }

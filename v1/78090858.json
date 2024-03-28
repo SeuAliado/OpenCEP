@@ -5,5 +5,7 @@
   "bairro": "Jardim Mossoró",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6493144,
+  "lon": -56.048555
 }

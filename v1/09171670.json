@@ -5,5 +5,7 @@
   "bairro": "Sítio dos Vianas",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.710011,
+  "lon": -46.5156338
 }

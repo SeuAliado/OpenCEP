@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria de Fátima",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2167917,
+  "lon": -46.8434683
 }

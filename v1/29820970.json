@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Doce do Norte",
   "uf": "ES",
-  "ibge": "3200169"
+  "ibge": "3200169",
+  "lat": -18.5518392,
+  "lon": -40.9795707
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Rita",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.721561,
+  "lon": -49.3719481
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Flamboyant-B",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.0814244,
+  "lon": -46.5740312
 }

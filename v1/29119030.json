@@ -5,5 +5,7 @@
   "bairro": "Ataíde",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3458678,
+  "lon": -40.3274242
 }

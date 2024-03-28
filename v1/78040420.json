@@ -5,5 +5,7 @@
   "bairro": "Ribeirão da Ponte",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5799527,
+  "lon": -56.1172236
 }

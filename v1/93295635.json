@@ -5,5 +5,7 @@
   "bairro": "Três Marias",
   "localidade": "Esteio",
   "uf": "RS",
-  "ibge": "4307708"
+  "ibge": "4307708",
+  "lat": -29.8649774,
+  "lon": -51.1129845
 }

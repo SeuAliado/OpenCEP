@@ -5,5 +5,7 @@
   "bairro": "Mansões Águas Lindas",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.774503,
+  "lon": -48.2744165
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7364169,
+  "lon": -46.7140269
 }

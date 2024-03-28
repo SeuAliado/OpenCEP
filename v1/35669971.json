@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Papagaios",
   "uf": "MG",
-  "ibge": "3146909"
+  "ibge": "3146909",
+  "lat": -19.9567815,
+  "lon": -43.9424352
 }

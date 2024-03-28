@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9058666,
+  "lon": -47.0596293
 }

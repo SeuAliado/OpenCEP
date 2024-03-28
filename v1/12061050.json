@@ -5,5 +5,7 @@
   "bairro": "Vila Areao",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0051637,
+  "lon": -45.556153
 }

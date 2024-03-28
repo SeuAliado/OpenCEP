@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Estela",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.631724,
+  "lon": -46.6009669
 }

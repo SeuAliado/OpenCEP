@@ -5,5 +5,7 @@
   "bairro": "Corta Mão",
   "localidade": "Amargosa",
   "uf": "BA",
-  "ibge": "2901007"
+  "ibge": "2901007",
+  "lat": -13.0716673,
+  "lon": -39.5103122
 }

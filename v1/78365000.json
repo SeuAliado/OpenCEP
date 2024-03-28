@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sapezal",
   "uf": "MT",
-  "ibge": "5107875"
+  "ibge": "5107875",
+  "lat": -13.5458397,
+  "lon": -58.8143055
 }

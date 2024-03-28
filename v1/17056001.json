@@ -5,5 +5,7 @@
   "bairro": "Vila Ipiranga",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3561124,
+  "lon": -49.1042619
 }

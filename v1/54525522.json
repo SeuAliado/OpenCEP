@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2979036,
+  "lon": -35.0601021
 }

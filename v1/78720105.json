@@ -5,5 +5,7 @@
   "bairro": "Loteamento Cellos II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4629749,
+  "lon": -54.6337152
 }

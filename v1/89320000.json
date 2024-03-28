@@ -5,5 +5,7 @@
   "bairro": "Águas Claras",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "lat": -27.1338371,
+  "lon": -48.8621674
 }

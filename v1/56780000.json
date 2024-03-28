@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tabira",
   "uf": "PE",
-  "ibge": "2614600"
+  "ibge": "2614600",
+  "lat": -7.5846909,
+  "lon": -37.5381606
 }

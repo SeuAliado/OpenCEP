@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Dorothéia",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.4781247,
+  "lon": -54.61144
 }

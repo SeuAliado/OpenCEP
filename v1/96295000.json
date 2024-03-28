@@ -5,5 +5,7 @@
   "bairro": "Capão Comprido",
   "localidade": "Tavares",
   "uf": "RS",
-  "ibge": "4321352"
+  "ibge": "4321352",
+  "lat": -31.2868401,
+  "lon": -51.0944337
 }

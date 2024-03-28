@@ -5,5 +5,7 @@
   "bairro": "Vila Andreassa Miranda",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4503172,
+  "lon": -49.5552458
 }

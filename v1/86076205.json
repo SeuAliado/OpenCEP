@@ -5,5 +5,7 @@
   "bairro": "Jardim Honda 2",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2885513,
+  "lon": -51.1798904
 }

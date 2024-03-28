@@ -5,5 +5,7 @@
   "bairro": "Tubiacanga",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.7947706,
+  "lon": -43.2104232
 }

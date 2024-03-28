@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1092562,
+  "lon": -45.7229256
 }

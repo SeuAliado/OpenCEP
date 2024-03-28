@@ -5,5 +5,7 @@
   "bairro": "Campanário",
   "localidade": "Uruoca",
   "uf": "CE",
-  "ibge": "2313906"
+  "ibge": "2313906",
+  "lat": -3.3644039,
+  "lon": -40.7485964
 }

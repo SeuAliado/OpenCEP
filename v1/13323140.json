@@ -5,5 +5,7 @@
   "bairro": "Núcleo Industrial Alert",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2137012,
+  "lon": -47.2684727
 }

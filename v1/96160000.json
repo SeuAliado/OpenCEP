@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capão do Leão",
   "uf": "RS",
-  "ibge": "4304663"
+  "ibge": "4304663",
+  "lat": -31.8369181,
+  "lon": -52.5745556
 }

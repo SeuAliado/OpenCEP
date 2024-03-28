@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Esperança",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9995156,
+  "lon": -44.066538
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Castelo Branco",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1858689,
+  "lon": -47.7811357
 }

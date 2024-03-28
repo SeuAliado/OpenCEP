@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8090929,
+  "lon": -49.308556
 }

@@ -5,5 +5,7 @@
   "bairro": "Zumbi do Pacheco",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "lat": -8.1351924,
+  "lon": -34.9623932
 }

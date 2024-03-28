@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosely",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9350793,
+  "lon": -45.457378
 }

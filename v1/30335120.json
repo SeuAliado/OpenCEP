@@ -5,5 +5,7 @@
   "bairro": "Vila Barragem Santa Lúcia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9556363,
+  "lon": -43.9456648
 }

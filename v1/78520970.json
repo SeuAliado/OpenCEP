@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guarantã do Norte",
   "uf": "MT",
-  "ibge": "5104104"
+  "ibge": "5104104",
+  "lat": -9.954603,
+  "lon": -54.9075761
 }

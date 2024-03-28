@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "lat": -23.4146707,
+  "lon": -49.0918542
 }

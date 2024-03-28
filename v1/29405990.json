@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "lat": -21.0751337,
+  "lon": -41.4958933
 }

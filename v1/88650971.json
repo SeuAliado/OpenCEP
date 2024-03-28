@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urubici",
   "uf": "SC",
-  "ibge": "4218905"
+  "ibge": "4218905",
+  "lat": -28.8220782,
+  "lon": -49.2247201
 }

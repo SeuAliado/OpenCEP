@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4140693,
+  "lon": -51.95345
 }

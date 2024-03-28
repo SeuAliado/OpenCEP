@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caracol",
   "uf": "MS",
-  "ibge": "5002803"
+  "ibge": "5002803",
+  "lat": -22.0114713,
+  "lon": -57.0281922
 }

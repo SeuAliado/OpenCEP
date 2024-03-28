@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Lúcia",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -22.9633759,
+  "lon": -45.5468223
 }

@@ -5,5 +5,7 @@
   "bairro": "Bianucci",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.8453298,
+  "lon": -46.5638075
 }

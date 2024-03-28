@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Souto Soares",
   "uf": "BA",
-  "ibge": "2930808"
+  "ibge": "2930808",
+  "lat": -12.0880843,
+  "lon": -41.6478049
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Marias",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6097278,
+  "lon": -46.4716254
 }

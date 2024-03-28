@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alterosa",
   "uf": "MG",
-  "ibge": "3102001"
+  "ibge": "3102001",
+  "lat": -21.2492346,
+  "lon": -46.1391013
 }

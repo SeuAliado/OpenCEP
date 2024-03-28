@@ -5,5 +5,7 @@
   "bairro": "Bom Sossego",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7637661,
+  "lon": -44.0761785
 }

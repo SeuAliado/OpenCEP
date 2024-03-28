@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itatim",
   "uf": "BA",
-  "ibge": "2916856"
+  "ibge": "2916856",
+  "lat": -12.7106483,
+  "lon": -39.6975979
 }

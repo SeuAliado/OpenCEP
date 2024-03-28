@@ -5,5 +5,7 @@
   "bairro": "Vila das Roseiras",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -18.3904184,
+  "lon": -45.3745463
 }

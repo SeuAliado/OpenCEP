@@ -5,5 +5,7 @@
   "bairro": "Fragata",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "lat": -31.7394528,
+  "lon": -52.3910815
 }

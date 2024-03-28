@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riachão",
   "uf": "PB",
-  "ibge": "2512747"
+  "ibge": "2512747",
+  "lat": -6.5378085,
+  "lon": -35.6548034
 }

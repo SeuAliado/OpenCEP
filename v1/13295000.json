@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "lat": -23.1577081,
+  "lon": -47.043707
 }

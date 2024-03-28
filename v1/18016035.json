@@ -5,5 +5,7 @@
   "bairro": "Jardim Piratininga",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4986032,
+  "lon": -47.4260345
 }

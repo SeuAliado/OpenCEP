@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Carolina",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5237454,
+  "lon": -46.2029573
 }

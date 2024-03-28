@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaipulândia",
   "uf": "PR",
-  "ibge": "4110953"
+  "ibge": "4110953",
+  "lat": -25.1370969,
+  "lon": -54.3006152
 }

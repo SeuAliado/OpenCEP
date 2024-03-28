@@ -5,5 +5,7 @@
   "bairro": "Zanzala",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.8017935,
+  "lon": -46.4426338
 }

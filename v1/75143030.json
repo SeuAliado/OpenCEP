@@ -5,5 +5,7 @@
   "bairro": "Jardim Nações Unidas",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3066245,
+  "lon": -48.949818
 }

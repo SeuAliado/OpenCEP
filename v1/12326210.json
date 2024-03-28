@@ -5,5 +5,7 @@
   "bairro": "Veraneio Irajá",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3169278,
+  "lon": -46.0504671
 }

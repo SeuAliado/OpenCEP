@@ -5,5 +5,7 @@
   "bairro": "Engenho do Ribeiro",
   "localidade": "Bom Despacho",
   "uf": "MG",
-  "ibge": "3107406"
+  "ibge": "3107406",
+  "lat": -19.5690491,
+  "lon": -45.3047937
 }

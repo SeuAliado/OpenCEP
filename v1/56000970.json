@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salgueiro",
   "uf": "PE",
-  "ibge": "2612208"
+  "ibge": "2612208",
+  "lat": -8.0732038,
+  "lon": -39.1183953
 }

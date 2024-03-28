@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pindoba",
   "uf": "AL",
-  "ibge": "2707008"
+  "ibge": "2707008",
+  "lat": -9.4752172,
+  "lon": -36.2878792
 }

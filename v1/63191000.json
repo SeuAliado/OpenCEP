@@ -5,5 +5,7 @@
   "bairro": "Dom Leme",
   "localidade": "Santana do Cariri",
   "uf": "CE",
-  "ibge": "2312106"
+  "ibge": "2312106",
+  "lat": -7.281794,
+  "lon": -39.710918
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pacaraima",
   "uf": "RR",
-  "ibge": "1400456"
+  "ibge": "1400456",
+  "lat": 4.4795723,
+  "lon": -61.1482037
 }

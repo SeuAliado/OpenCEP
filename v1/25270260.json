@@ -5,5 +5,7 @@
   "bairro": "Taquara",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6267837,
+  "lon": -43.2334939
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Astúrias",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7843869,
+  "lon": -49.412749
 }

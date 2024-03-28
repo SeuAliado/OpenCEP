@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corumbataí do Sul",
   "uf": "PR",
-  "ibge": "4106555"
+  "ibge": "4106555",
+  "lat": -24.0979425,
+  "lon": -52.1205525
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Manhuaçu",
   "uf": "MG",
-  "ibge": "3162559"
+  "ibge": "3162559",
+  "lat": -20.3657963,
+  "lon": -42.1473903
 }

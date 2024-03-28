@@ -5,5 +5,7 @@
   "bairro": "Vila São Pedro",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7538523,
+  "lon": -47.3341281
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio (Tamoios)",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.592649,
+  "lon": -41.9937119
 }

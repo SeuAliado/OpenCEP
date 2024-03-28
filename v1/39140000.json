@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvorada de Minas",
   "uf": "MG",
-  "ibge": "3102407"
+  "ibge": "3102407",
+  "lat": -18.733838,
+  "lon": -43.3642122
 }

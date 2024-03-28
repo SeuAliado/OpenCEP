@@ -5,5 +5,7 @@
   "bairro": "Martins Ribeiro",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6975025,
+  "lon": -43.4759015
 }

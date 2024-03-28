@@ -5,5 +5,7 @@
   "bairro": "Taguatinga Centro (Taguatinga)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8511724,
+  "lon": -48.0466434
 }

@@ -5,5 +5,7 @@
   "bairro": "Muribeca",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "lat": -8.1402958,
+  "lon": -34.9390048
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -24.2022789,
+  "lon": -46.8471342
 }

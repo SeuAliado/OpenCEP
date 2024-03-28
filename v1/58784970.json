@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José de Caiana",
   "uf": "PB",
-  "ibge": "2514305"
+  "ibge": "2514305",
+  "lat": -7.2500004,
+  "lon": -38.3005839
 }

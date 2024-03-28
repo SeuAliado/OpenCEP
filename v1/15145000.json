@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mirassolândia",
   "uf": "SP",
-  "ibge": "3530409"
+  "ibge": "3530409",
+  "lat": -20.6183299,
+  "lon": -49.4621863
 }

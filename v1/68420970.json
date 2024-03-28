@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mocajuba",
   "uf": "PA",
-  "ibge": "1504604"
+  "ibge": "1504604",
+  "lat": -2.5834645,
+  "lon": -49.5046557
 }

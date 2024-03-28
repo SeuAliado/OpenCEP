@@ -5,5 +5,7 @@
   "bairro": "Granjas Rurais Reunidas São Judas Tadeu",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0482335,
+  "lon": -45.5223938
 }

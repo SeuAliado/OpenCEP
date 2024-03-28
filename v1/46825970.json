@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lajedinho",
   "uf": "BA",
-  "ibge": "2919009"
+  "ibge": "2919009",
+  "lat": -12.3552985,
+  "lon": -40.9036318
 }

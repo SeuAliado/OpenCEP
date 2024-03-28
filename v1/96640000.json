@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Pardo",
   "uf": "RS",
-  "ibge": "4315701"
+  "ibge": "4315701",
+  "lat": -29.9844196,
+  "lon": -52.3760424
 }

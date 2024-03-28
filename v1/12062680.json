@@ -5,5 +5,7 @@
   "bairro": "Parque Jaraguá",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0017222,
+  "lon": -45.5528848
 }

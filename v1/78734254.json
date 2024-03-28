@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Cidade de Deus",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4776591,
+  "lon": -54.5855114
 }

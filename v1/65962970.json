@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jenipapo dos Vieiras",
   "uf": "MA",
-  "ibge": "2105476"
+  "ibge": "2105476",
+  "lat": -5.3700959,
+  "lon": -45.6366909
 }

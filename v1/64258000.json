@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa de São Francisco",
   "uf": "PI",
-  "ibge": "2205573"
+  "ibge": "2205573",
+  "lat": -4.385436,
+  "lon": -41.5972535
 }

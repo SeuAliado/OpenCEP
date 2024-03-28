@@ -5,5 +5,7 @@
   "bairro": "Jardim São Cristóvão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5795933,
+  "lon": -46.5005117
 }

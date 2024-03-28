@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barro Preto",
   "uf": "BA",
-  "ibge": "2903300"
+  "ibge": "2903300",
+  "lat": -14.7952324,
+  "lon": -39.4763925
 }

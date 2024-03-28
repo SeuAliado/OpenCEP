@@ -5,5 +5,7 @@
   "bairro": "Jardim Elisa",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.725256,
+  "lon": -46.8524652
 }

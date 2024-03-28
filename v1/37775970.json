@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rita de Caldas",
   "uf": "MG",
-  "ibge": "3159209"
+  "ibge": "3159209",
+  "lat": -22.0289931,
+  "lon": -46.3364522
 }

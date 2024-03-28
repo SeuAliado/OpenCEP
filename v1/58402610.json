@@ -5,5 +5,7 @@
   "bairro": "Nações",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.1976292,
+  "lon": -35.8824711
 }

@@ -5,5 +5,7 @@
   "bairro": "Tipi",
   "localidade": "Aurora",
   "uf": "CE",
-  "ibge": "2301703"
+  "ibge": "2301703",
+  "lat": -6.967323,
+  "lon": -38.8261978
 }

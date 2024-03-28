@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cônego Marinho",
   "uf": "MG",
-  "ibge": "3117836"
+  "ibge": "3117836",
+  "lat": -15.2965315,
+  "lon": -44.4142053
 }

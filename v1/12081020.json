@@ -5,5 +5,7 @@
   "bairro": "Jardim Sandra Maria",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0213302,
+  "lon": -45.5325583
 }

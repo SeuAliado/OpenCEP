@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juruá",
   "uf": "AM",
-  "ibge": "1302207"
+  "ibge": "1302207",
+  "lat": -3.4769576,
+  "lon": -66.0654983
 }

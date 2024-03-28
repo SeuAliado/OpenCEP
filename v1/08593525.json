@@ -5,5 +5,7 @@
   "bairro": "Residencial Jasmim",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4659707,
+  "lon": -46.3288818
 }

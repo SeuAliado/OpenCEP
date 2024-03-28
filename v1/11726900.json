@@ -5,5 +5,7 @@
   "bairro": "Xixová",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -23.994576,
+  "lon": -46.4069315
 }

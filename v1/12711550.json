@@ -5,5 +5,7 @@
   "bairro": "Vila Crispim",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.563612,
+  "lon": -44.9680813
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Recanto do Bosque",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.8093947,
+  "lon": -50.9472296
 }

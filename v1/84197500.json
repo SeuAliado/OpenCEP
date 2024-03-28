@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "lat": -25.3617879,
+  "lon": -49.1696777
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santista",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5292764,
+  "lon": -46.2018315
 }

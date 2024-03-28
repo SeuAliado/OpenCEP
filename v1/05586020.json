@@ -5,5 +5,7 @@
   "bairro": "Vila Indiana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5729854,
+  "lon": -46.730275
 }

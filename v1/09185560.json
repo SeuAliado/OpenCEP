@@ -5,5 +5,7 @@
   "bairro": "Jardim Stella",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6806971,
+  "lon": -46.5401382
 }

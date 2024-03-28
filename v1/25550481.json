@@ -5,5 +5,7 @@
   "bairro": "Parque Alian",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7748521,
+  "lon": -43.3713464
 }

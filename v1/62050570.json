@@ -5,5 +5,7 @@
   "bairro": "Cohab I",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.7083827,
+  "lon": -40.3324188
 }

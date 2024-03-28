@@ -5,5 +5,7 @@
   "bairro": "Jardim Amália",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3434787,
+  "lon": -49.0628802
 }

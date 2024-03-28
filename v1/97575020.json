@@ -5,5 +5,7 @@
   "bairro": "Internacional",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "lat": -30.8997622,
+  "lon": -55.5128034
 }

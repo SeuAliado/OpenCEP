@@ -5,5 +5,7 @@
   "bairro": "Vila Amélia",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1755356,
+  "lon": -47.8253879
 }

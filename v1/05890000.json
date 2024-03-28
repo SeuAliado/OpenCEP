@@ -5,5 +5,7 @@
   "bairro": "Jardim Iae",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6669454,
+  "lon": -46.7891292
 }

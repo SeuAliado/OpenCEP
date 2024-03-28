@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Patrocínio Paulista",
   "uf": "SP",
-  "ibge": "3536307"
+  "ibge": "3536307",
+  "lat": -20.6456819,
+  "lon": -47.2753293
 }

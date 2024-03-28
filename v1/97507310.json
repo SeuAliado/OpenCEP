@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7815907,
+  "lon": -57.074049
 }

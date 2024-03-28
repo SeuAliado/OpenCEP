@@ -5,5 +5,7 @@
   "bairro": "Seis de Agosto",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0022261,
+  "lon": -67.7963919
 }

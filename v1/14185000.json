@@ -5,5 +5,7 @@
   "bairro": "Candia",
   "localidade": "Pontal",
   "uf": "SP",
-  "ibge": "3540200"
+  "ibge": "3540200",
+  "lat": -20.8974281,
+  "lon": -47.9868704
 }

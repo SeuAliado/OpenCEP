@@ -5,5 +5,7 @@
   "bairro": "Junqueira",
   "localidade": "Monte Aprazível",
   "uf": "SP",
-  "ibge": "3531407"
+  "ibge": "3531407",
+  "lat": -20.822934,
+  "lon": -51.5815302
 }

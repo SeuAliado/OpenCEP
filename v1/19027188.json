@@ -5,5 +5,7 @@
   "bairro": "Núcleo Bartholomeu Bueno de Miranda",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1116517,
+  "lon": -51.423982
 }

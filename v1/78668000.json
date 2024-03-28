@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Nova Dourada",
   "uf": "MT",
-  "ibge": "5107883"
+  "ibge": "5107883",
+  "lat": -12.0923014,
+  "lon": -51.4020247
 }

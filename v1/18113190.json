@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5382367,
+  "lon": -47.4293438
 }

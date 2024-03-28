@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ventania",
   "uf": "PR",
-  "ibge": "4128534"
+  "ibge": "4128534",
+  "lat": -24.103854,
+  "lon": -50.2244429
 }

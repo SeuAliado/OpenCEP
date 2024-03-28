@@ -5,5 +5,7 @@
   "bairro": "Portela",
   "localidade": "Itaocara",
   "uf": "RJ",
-  "ibge": "3302106"
+  "ibge": "3302106",
+  "lat": -21.625765,
+  "lon": -41.97553
 }

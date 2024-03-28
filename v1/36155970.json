@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coronel Pacheco",
   "uf": "MG",
-  "ibge": "3119609"
+  "ibge": "3119609",
+  "lat": -21.5898017,
+  "lon": -43.2675353
 }

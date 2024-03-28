@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Jussara",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.339099,
+  "lon": -49.1043681
 }

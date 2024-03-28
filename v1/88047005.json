@@ -5,5 +5,7 @@
   "bairro": "Costeira do Pirajubaé",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.6214367,
+  "lon": -48.5267284
 }

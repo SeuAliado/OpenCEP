@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Salvador do Sul",
   "uf": "RS",
-  "ibge": "4316501"
+  "ibge": "4316501",
+  "lat": -29.4227509,
+  "lon": -51.5047129
 }

@@ -5,5 +5,7 @@
   "bairro": "Campinas",
   "localidade": "Saldanha Marinho",
   "uf": "RS",
-  "ibge": "4316436"
+  "ibge": "4316436",
+  "lat": -29.6928468,
+  "lon": -51.1303789
 }

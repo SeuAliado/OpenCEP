@@ -5,5 +5,7 @@
   "bairro": "Village Atalaia",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.5896151,
+  "lon": -49.2605571
 }

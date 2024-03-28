@@ -5,5 +5,7 @@
   "bairro": "Jardim Matarazzo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4844428,
+  "lon": -46.4678663
 }

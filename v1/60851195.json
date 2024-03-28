@@ -5,5 +5,7 @@
   "bairro": "Alto da Balança",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7616031,
+  "lon": -38.5176194
 }

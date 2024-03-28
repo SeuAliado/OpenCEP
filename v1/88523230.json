@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.799892,
+  "lon": -50.3018957
 }

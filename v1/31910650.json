@@ -5,5 +5,7 @@
   "bairro": "Pirajá",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8643867,
+  "lon": -43.9178767
 }

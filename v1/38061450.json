@@ -5,5 +5,7 @@
   "bairro": "Santa Marta",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7483898,
+  "lon": -47.9610834
 }

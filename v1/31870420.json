@@ -5,5 +5,7 @@
   "bairro": "Ouro Minas",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8439631,
+  "lon": -43.9078029
 }

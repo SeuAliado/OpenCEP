@@ -5,5 +5,7 @@
   "bairro": "Colorado",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.1173343,
+  "lon": -42.7582072
 }

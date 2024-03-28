@@ -5,5 +5,7 @@
   "bairro": "Nações Unidas",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8795543,
+  "lon": -43.868177
 }

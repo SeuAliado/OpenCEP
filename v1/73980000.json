@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Damianópolis",
   "uf": "GO",
-  "ibge": "5206701"
+  "ibge": "5206701",
+  "lat": -14.5508222,
+  "lon": -46.1900242
 }

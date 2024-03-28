@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7591883,
+  "lon": -43.3567223
 }

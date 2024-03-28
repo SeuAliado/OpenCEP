@@ -5,5 +5,7 @@
   "bairro": "Canabrava",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "lat": -17.3889903,
+  "lon": -45.8278216
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Juliana",
   "uf": "MG",
-  "ibge": "3157708"
+  "ibge": "3157708",
+  "lat": -19.3882364,
+  "lon": -47.4882762
 }

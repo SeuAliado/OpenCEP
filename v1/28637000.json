@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sumidouro",
   "uf": "RJ",
-  "ibge": "3305703"
+  "ibge": "3305703",
+  "lat": -22.0489564,
+  "lon": -42.6765559
 }

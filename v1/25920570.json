@@ -5,5 +5,7 @@
   "bairro": "Campinho (Suruí)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6456649,
+  "lon": -43.1245492
 }

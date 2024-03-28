@@ -5,5 +5,7 @@
   "bairro": "Loteamento Manoel Cardoso (Vila Cardoso)",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1905487,
+  "lon": -48.2227462
 }

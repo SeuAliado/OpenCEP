@@ -5,5 +5,7 @@
   "bairro": "São Miguel dos Macacos",
   "localidade": "Breves",
   "uf": "PA",
-  "ibge": "1501808"
+  "ibge": "1501808",
+  "lat": -1.1661775,
+  "lon": -50.4779134
 }

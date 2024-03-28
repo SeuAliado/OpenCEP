@@ -5,5 +5,7 @@
   "bairro": "Jardim Portal do Sol",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2318195,
+  "lon": -49.9415857
 }

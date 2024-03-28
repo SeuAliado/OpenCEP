@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5798963,
+  "lon": -56.0333169
 }

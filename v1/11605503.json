@@ -5,5 +5,7 @@
   "bairro": "Reserva du Moullin",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7753319,
+  "lon": -45.4047827
 }

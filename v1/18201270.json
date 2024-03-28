@@ -5,5 +5,7 @@
   "bairro": "Vila Aurora",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5817238,
+  "lon": -48.033375
 }

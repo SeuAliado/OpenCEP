@@ -5,5 +5,7 @@
   "bairro": "Mata Limpa",
   "localidade": "Areia",
   "uf": "PB",
-  "ibge": "2501104"
+  "ibge": "2501104",
+  "lat": -6.9361613,
+  "lon": -35.7559436
 }

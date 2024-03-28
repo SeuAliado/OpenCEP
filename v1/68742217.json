@@ -5,5 +5,7 @@
   "bairro": "Estrela",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "lat": -1.2685134,
+  "lon": -47.9317629
 }

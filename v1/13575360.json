@@ -5,5 +5,7 @@
   "bairro": "Vila Carmem",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0236541,
+  "lon": -47.9030994
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Zaniboni I",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3494659,
+  "lon": -46.927074
 }

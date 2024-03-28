@@ -5,5 +5,7 @@
   "bairro": "7 de Setembro",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3664786,
+  "lon": -39.3008142
 }

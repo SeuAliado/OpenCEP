@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Entre-Ijuís",
   "uf": "RS",
-  "ibge": "4306932"
+  "ibge": "4306932",
+  "lat": -28.4869576,
+  "lon": -54.3685809
 }

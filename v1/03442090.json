@@ -5,5 +5,7 @@
   "bairro": "Chácara Califórnia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -21.1334358,
+  "lon": -47.7722193
 }

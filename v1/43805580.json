@@ -5,5 +5,7 @@
   "bairro": "Malemba",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -12.6760168,
+  "lon": -38.5443515
 }

@@ -5,5 +5,7 @@
   "bairro": "Jordanópolis",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4022581,
+  "lon": -46.319106
 }

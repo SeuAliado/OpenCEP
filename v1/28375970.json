@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Varre-Sai",
   "uf": "RJ",
-  "ibge": "3306156"
+  "ibge": "3306156",
+  "lat": -20.9288448,
+  "lon": -41.8685394
 }

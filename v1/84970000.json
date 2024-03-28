@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Itararé",
   "uf": "PR",
-  "ibge": "4124004"
+  "ibge": "4124004",
+  "lat": -23.759176,
+  "lon": -49.6297859
 }

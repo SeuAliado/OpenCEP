@@ -5,5 +5,7 @@
   "bairro": "Parque Guaianazes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5299933,
+  "lon": -46.4148659
 }

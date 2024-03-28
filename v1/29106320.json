@@ -5,5 +5,7 @@
   "bairro": "Cristóvão Colombo",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3479805,
+  "lon": -40.3030594
 }

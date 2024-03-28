@@ -5,5 +5,7 @@
   "bairro": "Quilombo",
   "localidade": "Sabinópolis",
   "uf": "MG",
-  "ibge": "3156809"
+  "ibge": "3156809",
+  "lat": -20.0678005,
+  "lon": -44.306735
 }

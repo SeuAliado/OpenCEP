@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Curral de Cima",
   "uf": "PB",
-  "ibge": "2505279"
+  "ibge": "2505279",
+  "lat": -6.7170684,
+  "lon": -35.2669089
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Maia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4557266,
+  "lon": -46.5286664
 }

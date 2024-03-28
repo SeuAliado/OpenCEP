@@ -5,5 +5,7 @@
   "bairro": "Terceira Divisão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6206374,
+  "lon": -46.4206243
 }

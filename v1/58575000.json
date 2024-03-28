@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Parari",
   "uf": "PB",
-  "ibge": "2510659"
+  "ibge": "2510659",
+  "lat": -7.3179813,
+  "lon": -36.6556354
 }

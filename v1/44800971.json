@@ -5,5 +5,7 @@
   "bairro": "Jequitibá",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "lat": -11.8545183,
+  "lon": -40.4717578
 }

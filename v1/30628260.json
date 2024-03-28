@@ -5,5 +5,7 @@
   "bairro": "Serra do Curral",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -20.007457,
+  "lon": -44.0063202
 }

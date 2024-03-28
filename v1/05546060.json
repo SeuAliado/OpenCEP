@@ -5,5 +5,7 @@
   "bairro": "Vila Borges",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5892065,
+  "lon": -46.7708908
 }

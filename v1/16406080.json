@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Mário Sebelin",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6686172,
+  "lon": -49.7747986
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Padre Bernardo",
   "uf": "GO",
-  "ibge": "5215603"
+  "ibge": "5215603",
+  "lat": -15.1677935,
+  "lon": -48.2860538
 }

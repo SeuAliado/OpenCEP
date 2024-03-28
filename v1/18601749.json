@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Bicudo Filho",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9061532,
+  "lon": -48.4307699
 }

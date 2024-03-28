@@ -5,5 +5,7 @@
   "bairro": "Jaguarão",
   "localidade": "Jacinto",
   "uf": "MG",
-  "ibge": "3134707"
+  "ibge": "3134707",
+  "lat": -16.3863638,
+  "lon": -40.2524319
 }

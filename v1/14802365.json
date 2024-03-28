@@ -5,5 +5,7 @@
   "bairro": "Vila Ferroviária",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7771317,
+  "lon": -48.171925
 }

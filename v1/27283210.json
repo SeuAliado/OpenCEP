@@ -5,5 +5,7 @@
   "bairro": "Niterói",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5004231,
+  "lon": -44.0891837
 }

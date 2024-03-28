@@ -5,5 +5,7 @@
   "bairro": "Barreiros",
   "localidade": "São Benedito",
   "uf": "CE",
-  "ibge": "2312304"
+  "ibge": "2312304",
+  "lat": -19.7686468,
+  "lon": -43.830854
 }

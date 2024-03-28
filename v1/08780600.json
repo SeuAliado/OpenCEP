@@ -5,5 +5,7 @@
   "bairro": "Jardim Armênia",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5181399,
+  "lon": -46.1746732
 }

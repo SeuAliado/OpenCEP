@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Madeiro",
   "uf": "PI",
-  "ibge": "2205854"
+  "ibge": "2205854",
+  "lat": -3.4922518,
+  "lon": -42.5062983
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lindóia do Sul",
   "uf": "SC",
-  "ibge": "4209854"
+  "ibge": "4209854",
+  "lat": -27.0549601,
+  "lon": -52.0694595
 }

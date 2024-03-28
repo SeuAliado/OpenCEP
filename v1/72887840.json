@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "lat": -16.1240757,
+  "lon": -47.9379756
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marcação",
   "uf": "PB",
-  "ibge": "2509057"
+  "ibge": "2509057",
+  "lat": -6.7402078,
+  "lon": -35.0057695
 }

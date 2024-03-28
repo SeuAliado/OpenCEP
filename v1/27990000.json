@@ -5,5 +5,7 @@
   "bairro": "Cachoeiros",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3200665,
+  "lon": -42.1837615
 }

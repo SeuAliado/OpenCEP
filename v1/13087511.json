@@ -5,5 +5,7 @@
   "bairro": "Mansões Santo Antônio",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8525429,
+  "lon": -47.0462398
 }

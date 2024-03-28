@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Joaquim",
   "uf": "SC",
-  "ibge": "4216503"
+  "ibge": "4216503",
+  "lat": -28.292455,
+  "lon": -49.9375873
 }

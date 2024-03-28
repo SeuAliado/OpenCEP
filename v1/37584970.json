@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Congonhal",
   "uf": "MG",
-  "ibge": "3117900"
+  "ibge": "3117900",
+  "lat": -22.1511054,
+  "lon": -46.0392654
 }

@@ -5,5 +5,7 @@
   "bairro": "Croatá",
   "localidade": "São Gonçalo do Amarante",
   "uf": "CE",
-  "ibge": "2312403"
+  "ibge": "2312403",
+  "lat": -3.6739916,
+  "lon": -39.1178781
 }

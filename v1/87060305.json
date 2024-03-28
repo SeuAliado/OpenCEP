@@ -5,5 +5,7 @@
   "bairro": "Jardim Parque do Horto",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4388323,
+  "lon": -51.9636504
 }

@@ -5,5 +5,7 @@
   "bairro": "Pataíba",
   "localidade": "Água Fria",
   "uf": "BA",
-  "ibge": "2900405"
+  "ibge": "2900405",
+  "lat": -11.6974831,
+  "lon": -38.7399921
 }

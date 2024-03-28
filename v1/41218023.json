@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9436138,
+  "lon": -38.4401345
 }

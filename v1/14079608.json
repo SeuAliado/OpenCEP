@@ -5,5 +5,7 @@
   "bairro": "Jardim Porto Seguro",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1482215,
+  "lon": -47.7553357
 }

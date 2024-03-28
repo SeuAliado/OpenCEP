@@ -5,5 +5,7 @@
   "bairro": "Expansul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8158567,
+  "lon": -49.2322525
 }

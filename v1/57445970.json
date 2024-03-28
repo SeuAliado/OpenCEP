@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Tapera",
   "uf": "AL",
-  "ibge": "2708402"
+  "ibge": "2708402",
+  "lat": -9.5581019,
+  "lon": -37.3834172
 }

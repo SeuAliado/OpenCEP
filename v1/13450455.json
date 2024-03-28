@@ -5,5 +5,7 @@
   "bairro": "Vila Linópolis I",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7619359,
+  "lon": -47.4237563
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraná",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.9072438,
+  "lon": -63.0476709
 }

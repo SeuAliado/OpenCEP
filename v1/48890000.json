@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Valente",
   "uf": "BA",
-  "ibge": "2933000"
+  "ibge": "2933000",
+  "lat": -11.4105832,
+  "lon": -39.4653472
 }

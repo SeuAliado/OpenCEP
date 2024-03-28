@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus do Oeste",
   "uf": "SC",
-  "ibge": "4202578"
+  "ibge": "4202578",
+  "lat": -26.6762242,
+  "lon": -53.0996486
 }

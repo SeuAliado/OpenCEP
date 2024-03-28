@@ -5,5 +5,7 @@
   "bairro": "Alto Uruguai",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.7838787,
+  "lon": -43.4356191
 }

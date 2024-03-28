@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Feira Nova",
   "uf": "SE",
-  "ibge": "2802205"
+  "ibge": "2802205",
+  "lat": -10.2620757,
+  "lon": -37.3150102
 }

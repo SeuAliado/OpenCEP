@@ -5,5 +5,7 @@
   "bairro": "Juabá",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "lat": -2.3750028,
+  "lon": -49.5521283
 }

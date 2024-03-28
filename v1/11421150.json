@@ -5,5 +5,7 @@
   "bairro": "Guaiúba",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -24.0173962,
+  "lon": -46.2866076
 }

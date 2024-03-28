@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nepomuceno",
   "uf": "MG",
-  "ibge": "3144607"
+  "ibge": "3144607",
+  "lat": -21.2343997,
+  "lon": -45.2362064
 }

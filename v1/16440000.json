@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sabino",
   "uf": "SP",
-  "ibge": "3544608"
+  "ibge": "3544608",
+  "lat": -21.4598143,
+  "lon": -49.5760097
 }

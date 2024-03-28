@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Maracanã",
   "uf": "PA",
-  "ibge": "1504307"
+  "ibge": "1504307",
+  "lat": -0.7792531,
+  "lon": -47.452399
 }

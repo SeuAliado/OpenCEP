@@ -5,5 +5,7 @@
   "bairro": "Corumbá",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.703332,
+  "lon": -43.4779461
 }

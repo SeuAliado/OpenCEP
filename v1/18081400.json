@@ -5,5 +5,7 @@
   "bairro": "Jardim Marco Antônio",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4697395,
+  "lon": -47.4423343
 }

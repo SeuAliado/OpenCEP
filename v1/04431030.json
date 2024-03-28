@@ -5,5 +5,7 @@
   "bairro": "Jardim Selma",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6847243,
+  "lon": -46.6529656
 }

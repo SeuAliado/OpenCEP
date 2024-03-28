@@ -5,5 +5,7 @@
   "bairro": "Poço Doce",
   "localidade": "Paracuru",
   "uf": "CE",
-  "ibge": "2310209"
+  "ibge": "2310209",
+  "lat": -3.4468494,
+  "lon": -39.1225746
 }

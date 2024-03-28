@@ -5,5 +5,7 @@
   "bairro": "Melo",
   "localidade": "Cuité",
   "uf": "PB",
-  "ibge": "2505105"
+  "ibge": "2505105",
+  "lat": -6.9106491,
+  "lon": -35.2304427
 }

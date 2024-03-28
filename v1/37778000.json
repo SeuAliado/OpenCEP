@@ -5,5 +5,7 @@
   "bairro": "São Bento de Caldas",
   "localidade": "Santa Rita de Caldas",
   "uf": "MG",
-  "ibge": "3159209"
+  "ibge": "3159209",
+  "lat": -22.1329803,
+  "lon": -46.3162154
 }

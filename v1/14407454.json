@@ -5,5 +5,7 @@
   "bairro": "Residencial Oswaldo Maciel",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.4890798,
+  "lon": -47.4108674
 }

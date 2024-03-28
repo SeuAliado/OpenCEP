@@ -5,5 +5,7 @@
   "bairro": "Cascata",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.718473,
+  "lon": -47.1454462
 }

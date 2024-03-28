@@ -5,5 +5,7 @@
   "bairro": "Baixio",
   "localidade": "Deputado Irapuan Pinheiro",
   "uf": "CE",
-  "ibge": "2304269"
+  "ibge": "2304269",
+  "lat": -5.8419196,
+  "lon": -39.2377423
 }

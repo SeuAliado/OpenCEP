@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tupandi",
   "uf": "RS",
-  "ibge": "4322251"
+  "ibge": "4322251",
+  "lat": -29.4931362,
+  "lon": -51.416885
 }

@@ -5,5 +5,7 @@
   "bairro": "Cajupiranga",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "lat": -5.9294506,
+  "lon": -35.2937067
 }

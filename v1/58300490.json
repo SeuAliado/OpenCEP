@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "lat": -7.1204656,
+  "lon": -34.9743749
 }

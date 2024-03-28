@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Junqueiro",
   "uf": "AL",
-  "ibge": "2704005"
+  "ibge": "2704005",
+  "lat": -22.9235164,
+  "lon": -42.4259739
 }

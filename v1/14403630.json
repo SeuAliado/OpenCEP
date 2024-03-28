@@ -5,5 +5,7 @@
   "bairro": "Prolongamento Vila Santa Cruz",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5450488,
+  "lon": -47.3902024
 }

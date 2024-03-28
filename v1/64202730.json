@@ -5,5 +5,7 @@
   "bairro": "Cantagalo",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9033421,
+  "lon": -41.7713896
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Eucaliptos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.9128169,
+  "lon": -46.7666652
 }

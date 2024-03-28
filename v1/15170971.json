@@ -5,5 +5,7 @@
   "bairro": "Ecatu",
   "localidade": "Tanabi",
   "uf": "SP",
-  "ibge": "3553401"
+  "ibge": "3553401",
+  "lat": -20.5433128,
+  "lon": -49.7246767
 }

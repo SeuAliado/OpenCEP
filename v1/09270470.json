@@ -5,5 +5,7 @@
   "bairro": "Parque Novo Oratório",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6381615,
+  "lon": -46.4991454
 }

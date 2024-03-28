@@ -5,5 +5,7 @@
   "bairro": "Cajuru",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4521993,
+  "lon": -49.2157418
 }

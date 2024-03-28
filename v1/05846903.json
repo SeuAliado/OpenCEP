@@ -5,5 +5,7 @@
   "bairro": "Jardim Fim de Semana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6591651,
+  "lon": -46.7469524
 }

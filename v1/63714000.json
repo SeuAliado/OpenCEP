@@ -5,5 +5,7 @@
   "bairro": "Lagoa das Pedras",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "lat": -5.4267795,
+  "lon": -40.8036066
 }

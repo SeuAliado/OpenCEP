@@ -5,5 +5,7 @@
   "bairro": "Costeira",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.5674512,
+  "lon": -49.1616412
 }

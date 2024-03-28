@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José de Princesa",
   "uf": "PB",
-  "ibge": "2514552"
+  "ibge": "2514552",
+  "lat": -7.7407616,
+  "lon": -38.0982594
 }

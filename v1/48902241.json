@@ -5,5 +5,7 @@
   "bairro": "Country Club",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4147204,
+  "lon": -40.5200873
 }

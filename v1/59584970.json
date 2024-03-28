@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Touros",
   "uf": "RN",
-  "ibge": "2414407"
+  "ibge": "2414407",
+  "lat": -5.2004167,
+  "lon": -35.4577913
 }

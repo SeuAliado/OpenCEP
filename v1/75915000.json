@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Montividiu",
   "uf": "GO",
-  "ibge": "5213756"
+  "ibge": "5213756",
+  "lat": -17.3253494,
+  "lon": -51.2213044
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Antônio Bovolenta",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5562491,
+  "lon": -46.182715
 }

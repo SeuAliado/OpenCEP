@@ -5,5 +5,7 @@
   "bairro": "Ponta da Areia",
   "localidade": "Caravelas",
   "uf": "BA",
-  "ibge": "2906907"
+  "ibge": "2906907",
+  "lat": -17.7418841,
+  "lon": -39.2513088
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila dos Sargentos e Sub Oficiais",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0055916,
+  "lon": -47.4150812
 }

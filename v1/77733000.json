@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Recursolândia",
   "uf": "TO",
-  "ibge": "1718501"
+  "ibge": "1718501",
+  "lat": -8.6935034,
+  "lon": -47.058302
 }

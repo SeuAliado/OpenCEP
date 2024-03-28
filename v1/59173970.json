@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Goianinha",
   "uf": "RN",
-  "ibge": "2404200"
+  "ibge": "2404200",
+  "lat": -6.2656118,
+  "lon": -35.210785
 }

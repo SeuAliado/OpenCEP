@@ -5,5 +5,7 @@
   "bairro": "Juca Rosa",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6310318,
+  "lon": -43.214884
 }

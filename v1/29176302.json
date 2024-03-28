@@ -5,5 +5,7 @@
   "bairro": "Maria Niobe",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1334241,
+  "lon": -40.3041978
 }

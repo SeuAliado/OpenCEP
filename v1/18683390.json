@@ -5,5 +5,7 @@
   "bairro": "Vila Marimbondo",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6020977,
+  "lon": -48.8067547
 }

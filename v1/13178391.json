@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Antonia (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8065951,
+  "lon": -47.1899717
 }

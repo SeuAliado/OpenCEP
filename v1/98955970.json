@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Machado",
   "uf": "RS",
-  "ibge": "4313425"
+  "ibge": "4313425",
+  "lat": -27.5700811,
+  "lon": -54.5034684
 }

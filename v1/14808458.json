@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.818512,
+  "lon": -48.1433855
 }

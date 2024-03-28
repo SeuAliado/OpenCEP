@@ -5,5 +5,7 @@
   "bairro": "Vila Capitão Rabelo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4629576,
+  "lon": -46.5486948
 }

@@ -5,5 +5,7 @@
   "bairro": "São Francisco da Guarita",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9162697,
+  "lon": -41.7590627
 }

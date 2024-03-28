@@ -5,5 +5,7 @@
   "bairro": "Umarituba",
   "localidade": "São Gonçalo do Amarante",
   "uf": "CE",
-  "ibge": "2312403"
+  "ibge": "2312403",
+  "lat": -3.6089705,
+  "lon": -38.971249
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto dos Bandeirantes",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1559545,
+  "lon": -47.9892195
 }

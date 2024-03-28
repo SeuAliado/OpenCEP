@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mata Grande",
   "uf": "AL",
-  "ibge": "2705002"
+  "ibge": "2705002",
+  "lat": -8.0249176,
+  "lon": -34.966232
 }

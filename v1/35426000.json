@@ -5,5 +5,7 @@
   "bairro": "Furquim",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "lat": -20.4005191,
+  "lon": -43.4206713
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arinos",
   "uf": "MG",
-  "ibge": "3104502"
+  "ibge": "3104502",
+  "lat": -15.9119052,
+  "lon": -46.1040098
 }

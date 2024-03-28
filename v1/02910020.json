@@ -5,5 +5,7 @@
   "bairro": "Freguesia do Ó",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5045147,
+  "lon": -46.6953148
 }

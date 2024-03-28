@@ -5,5 +5,7 @@
   "bairro": "Planalmira",
   "localidade": "Abadiânia",
   "uf": "GO",
-  "ibge": "5200100"
+  "ibge": "5200100",
+  "lat": -16.1934354,
+  "lon": -48.706815
 }

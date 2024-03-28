@@ -5,5 +5,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.753714,
+  "lon": -43.4623013
 }

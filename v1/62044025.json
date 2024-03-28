@@ -5,5 +5,7 @@
   "bairro": "Alto da Brasília",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.6729878,
+  "lon": -40.339935
 }

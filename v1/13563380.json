@@ -5,5 +5,7 @@
   "bairro": "Loteamento Municipal São Carlos 4",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0009044,
+  "lon": -47.924227
 }

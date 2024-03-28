@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7710067,
+  "lon": -43.2920865
 }

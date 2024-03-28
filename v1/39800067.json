@@ -5,5 +5,7 @@
   "bairro": "Altino Barbosa",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8647961,
+  "lon": -41.5052003
 }

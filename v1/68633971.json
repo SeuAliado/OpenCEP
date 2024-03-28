@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Eliseu",
   "uf": "PA",
-  "ibge": "1502939"
+  "ibge": "1502939",
+  "lat": -1.3477658,
+  "lon": -48.3729952
 }

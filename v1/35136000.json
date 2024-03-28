@@ -5,5 +5,7 @@
   "bairro": "Senhora da Penha",
   "localidade": "Fernandes Tourinho",
   "uf": "MG",
-  "ibge": "3125804"
+  "ibge": "3125804",
+  "lat": -19.0843657,
+  "lon": -42.1592337
 }

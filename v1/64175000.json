@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Murici dos Portelas",
   "uf": "PI",
-  "ibge": "2206696"
+  "ibge": "2206696",
+  "lat": -3.2996212,
+  "lon": -42.0385904
 }

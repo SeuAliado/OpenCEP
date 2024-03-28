@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7222688,
+  "lon": -49.3827182
 }

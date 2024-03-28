@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Bárbara",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4566217,
+  "lon": -46.5041765
 }

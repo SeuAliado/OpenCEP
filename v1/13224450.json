@@ -5,5 +5,7 @@
   "bairro": "Portal das Hortências",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.21645,
+  "lon": -46.8382705
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Magro",
   "uf": "PR",
-  "ibge": "4104253"
+  "ibge": "4104253",
+  "lat": -25.3689604,
+  "lon": -49.3552325
 }

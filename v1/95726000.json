@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coronel Pilar",
   "uf": "RS",
-  "ibge": "4305934"
+  "ibge": "4305934",
+  "lat": -29.2734789,
+  "lon": -51.6875403
 }

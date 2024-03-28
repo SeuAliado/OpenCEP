@@ -5,5 +5,7 @@
   "bairro": "Correia de Almeida",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.3025999,
+  "lon": -43.6241234
 }

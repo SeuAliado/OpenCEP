@@ -5,5 +5,7 @@
   "bairro": "Jardim Antonio Von Zuben",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9520082,
+  "lon": -47.0343654
 }

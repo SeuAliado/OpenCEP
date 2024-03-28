@@ -5,5 +5,7 @@
   "bairro": "Vila dos Ferroviários",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7783554,
+  "lon": -51.6913649
 }

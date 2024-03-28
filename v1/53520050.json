@@ -5,5 +5,7 @@
   "bairro": "Timbó",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "lat": -7.9159057,
+  "lon": -34.8981891
 }

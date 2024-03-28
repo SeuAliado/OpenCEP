@@ -5,5 +5,7 @@
   "bairro": "Jardim Lopes",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "lat": -24.0356469,
+  "lon": -52.3898935
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmas",
   "uf": "PR",
-  "ibge": "4117602"
+  "ibge": "4117602",
+  "lat": -26.4827889,
+  "lon": -51.9950971
 }

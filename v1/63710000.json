@@ -5,5 +5,7 @@
   "bairro": "Tucuns",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "lat": -5.2436108,
+  "lon": -40.9189683
 }

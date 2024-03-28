@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Cruz",
   "uf": "RN",
-  "ibge": "2408300"
+  "ibge": "2408300",
+  "lat": -6.475518,
+  "lon": -35.4289332
 }

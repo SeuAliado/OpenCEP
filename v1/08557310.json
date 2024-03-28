@@ -5,5 +5,7 @@
   "bairro": "Vila Jamil",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5149714,
+  "lon": -46.3409097
 }

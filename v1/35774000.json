@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraopeba",
   "uf": "MG",
-  "ibge": "3147402"
+  "ibge": "3147402",
+  "lat": -19.2784382,
+  "lon": -44.4062327
 }

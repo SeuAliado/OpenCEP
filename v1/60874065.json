@@ -5,5 +5,7 @@
   "bairro": "Ancuri",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8202669,
+  "lon": -38.494738
 }

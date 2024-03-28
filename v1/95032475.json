@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Saúde",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1470785,
+  "lon": -51.2049997
 }

@@ -5,5 +5,7 @@
   "bairro": "Perdizes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.3188069,
+  "lon": -49.05802
 }

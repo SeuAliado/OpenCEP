@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto",
   "uf": "PI",
-  "ibge": "2208502"
+  "ibge": "2208502",
+  "lat": -3.9547941,
+  "lon": -42.6880552
 }

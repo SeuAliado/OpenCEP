@@ -5,5 +5,7 @@
   "bairro": "Jardim Claudia I",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9281267,
+  "lon": -48.4928926
 }

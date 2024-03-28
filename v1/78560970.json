@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto dos Gaúchos",
   "uf": "MT",
-  "ibge": "5106802"
+  "ibge": "5106802",
+  "lat": -11.5347604,
+  "lon": -57.4080473
 }

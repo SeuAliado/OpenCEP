@@ -5,5 +5,7 @@
   "bairro": "Padre Eustáquio",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1709247,
+  "lon": -44.8499947
 }

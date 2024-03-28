@@ -5,5 +5,7 @@
   "bairro": "Vila Suiça",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.92178,
+  "lon": -45.4398539
 }

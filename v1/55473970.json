@@ -5,5 +5,7 @@
   "bairro": "Cruzes",
   "localidade": "Panelas",
   "uf": "PE",
-  "ibge": "2610202"
+  "ibge": "2610202",
+  "lat": -8.6549521,
+  "lon": -36.1011573
 }

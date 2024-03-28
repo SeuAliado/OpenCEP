@@ -5,5 +5,7 @@
   "bairro": "Portinho",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.8775287,
+  "lon": -42.0259715
 }

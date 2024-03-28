@@ -5,5 +5,7 @@
   "bairro": "Vila Mesquita",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.332909,
+  "lon": -49.0750119
 }

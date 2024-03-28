@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão do Largo",
   "uf": "BA",
-  "ibge": "2926657"
+  "ibge": "2926657",
+  "lat": -15.4595267,
+  "lon": -40.7403871
 }

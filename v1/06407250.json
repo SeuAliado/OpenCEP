@@ -5,5 +5,7 @@
   "bairro": "Jardim Flórida",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4986413,
+  "lon": -46.8936839
 }

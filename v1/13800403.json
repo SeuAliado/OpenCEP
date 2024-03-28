@@ -5,5 +5,7 @@
   "bairro": "Vila Bordignon",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4335303,
+  "lon": -46.9638024
 }

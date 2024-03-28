@@ -5,5 +5,7 @@
   "bairro": "Vila Canária",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9111416,
+  "lon": -38.4263045
 }

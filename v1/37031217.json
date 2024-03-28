@@ -5,5 +5,7 @@
   "bairro": "Residencial Belo Horizonte",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.557485,
+  "lon": -45.467991
 }

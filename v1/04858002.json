@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Grande",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7715993,
+  "lon": -46.7192909
 }

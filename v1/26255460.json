@@ -5,5 +5,7 @@
   "bairro": "Alvarez",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7606274,
+  "lon": -43.4586035
 }

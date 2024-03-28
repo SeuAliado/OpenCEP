@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7527997,
+  "lon": -47.9021363
 }

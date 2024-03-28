@@ -5,5 +5,7 @@
   "bairro": "Buriti",
   "localidade": "Guiratinga",
   "uf": "MT",
-  "ibge": "5104203"
+  "ibge": "5104203",
+  "lat": -16.4219466,
+  "lon": -53.5298845
 }

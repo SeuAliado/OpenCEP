@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Tereza",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7907896,
+  "lon": -46.6395011
 }

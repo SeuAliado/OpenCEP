@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra do Navio",
   "uf": "AP",
-  "ibge": "1600055"
+  "ibge": "1600055",
+  "lat": 0.9010148,
+  "lon": -52.0040852
 }

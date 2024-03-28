@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riachinho",
   "uf": "TO",
-  "ibge": "1718550"
+  "ibge": "1718550",
+  "lat": -6.4404474,
+  "lon": -48.1374798
 }

@@ -5,5 +5,7 @@
   "bairro": "Varginha",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "lat": -22.6446728,
+  "lon": -42.473993
 }

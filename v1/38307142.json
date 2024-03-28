@@ -5,5 +5,7 @@
   "bairro": "Pirapitinga",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.988272,
+  "lon": -49.4800156
 }

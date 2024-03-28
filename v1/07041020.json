@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4795333,
+  "lon": -46.55068
 }

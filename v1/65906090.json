@@ -5,5 +5,7 @@
   "bairro": "Imigrantes",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.4854428,
+  "lon": -47.483556
 }

@@ -5,5 +5,7 @@
   "bairro": "Imbuí",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9664695,
+  "lon": -38.4359123
 }

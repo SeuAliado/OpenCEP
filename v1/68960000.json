@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Calçoene",
   "uf": "AP",
-  "ibge": "1600204"
+  "ibge": "1600204",
+  "lat": 2.5044164,
+  "lon": -50.9516752
 }

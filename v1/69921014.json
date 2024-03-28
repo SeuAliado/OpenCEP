@@ -5,5 +5,7 @@
   "bairro": "Raimundo Melo",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9443712,
+  "lon": -67.8200028
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Montes Altos",
   "uf": "MA",
-  "ibge": "2107001"
+  "ibge": "2107001",
+  "lat": -5.8310552,
+  "lon": -47.0677092
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paripiranga",
   "uf": "BA",
-  "ibge": "2923803"
+  "ibge": "2923803",
+  "lat": -10.6863182,
+  "lon": -37.8629046
 }

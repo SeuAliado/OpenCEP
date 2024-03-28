@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capela",
   "uf": "AL",
-  "ibge": "2701704"
+  "ibge": "2701704",
+  "lat": -5.4529267,
+  "lon": -39.7144439
 }

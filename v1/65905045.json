@@ -5,5 +5,7 @@
   "bairro": "Bom Sucesso",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5002702,
+  "lon": -47.483425
 }

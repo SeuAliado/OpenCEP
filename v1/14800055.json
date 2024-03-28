@@ -5,5 +5,7 @@
   "bairro": "Vila Bela Vista",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8057055,
+  "lon": -48.1900232
 }

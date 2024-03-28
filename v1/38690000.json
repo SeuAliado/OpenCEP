@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Formoso",
   "uf": "MG",
-  "ibge": "3126208"
+  "ibge": "3126208",
+  "lat": -14.9450818,
+  "lon": -46.2374958
 }

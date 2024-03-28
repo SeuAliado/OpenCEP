@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra do Mel",
   "uf": "RN",
-  "ibge": "2413359"
+  "ibge": "2413359",
+  "lat": -5.2279986,
+  "lon": -36.9970831
 }

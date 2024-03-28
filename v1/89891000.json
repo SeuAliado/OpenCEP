@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iraceminha",
   "uf": "SC",
-  "ibge": "4207759"
+  "ibge": "4207759",
+  "lat": -26.8353038,
+  "lon": -53.3258513
 }

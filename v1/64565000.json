@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itainópolis",
   "uf": "PI",
-  "ibge": "2205003"
+  "ibge": "2205003",
+  "lat": -7.4167209,
+  "lon": -41.4812771
 }

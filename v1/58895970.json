@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belém do Brejo do Cruz",
   "uf": "PB",
-  "ibge": "2502003"
+  "ibge": "2502003",
+  "lat": -6.1855454,
+  "lon": -37.5350997
 }

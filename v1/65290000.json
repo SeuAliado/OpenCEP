@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luís Domingues",
   "uf": "MA",
-  "ibge": "2106201"
+  "ibge": "2106201",
+  "lat": -1.3429723,
+  "lon": -45.8659561
 }

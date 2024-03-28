@@ -5,5 +5,7 @@
   "bairro": "Residencial Junqueira",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6607014,
+  "lon": -49.3777257
 }

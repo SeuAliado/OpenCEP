@@ -5,5 +5,7 @@
   "bairro": "Garibaldina",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9192395,
+  "lon": -51.0497362
 }

@@ -5,5 +5,7 @@
   "bairro": "Lourenço",
   "localidade": "Calçoene",
   "uf": "AP",
-  "ibge": "1600204"
+  "ibge": "1600204",
+  "lat": -22.5464879,
+  "lon": -43.6577883
 }

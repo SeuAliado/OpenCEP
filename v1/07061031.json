@@ -5,5 +5,7 @@
   "bairro": "Vila Maranduba",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4554062,
+  "lon": -46.5483319
 }

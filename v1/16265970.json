@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejo Alegre",
   "uf": "SP",
-  "ibge": "3507753"
+  "ibge": "3507753",
+  "lat": -21.1679769,
+  "lon": -50.186037
 }

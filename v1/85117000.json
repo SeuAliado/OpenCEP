@@ -5,5 +5,7 @@
   "bairro": "Matinhos",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.8286151,
+  "lon": -48.5415119
 }

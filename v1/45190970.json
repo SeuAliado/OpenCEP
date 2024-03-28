@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Planalto",
   "uf": "BA",
-  "ibge": "2925006"
+  "ibge": "2925006",
+  "lat": -14.6692446,
+  "lon": -40.4782783
 }

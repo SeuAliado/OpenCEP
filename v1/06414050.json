@@ -5,5 +5,7 @@
   "bairro": "Jardim Tupanci",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4925492,
+  "lon": -46.870078
 }

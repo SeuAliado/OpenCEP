@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Registro",
   "uf": "SP",
-  "ibge": "3542602"
+  "ibge": "3542602",
+  "lat": -24.5002295,
+  "lon": -47.8448116
 }

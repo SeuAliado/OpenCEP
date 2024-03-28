@@ -5,5 +5,7 @@
   "bairro": "Vila Silvinha",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8952674,
+  "lon": -48.4401175
 }

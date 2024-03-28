@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Sá",
   "uf": "CE",
-  "ibge": "2312809"
+  "ibge": "2312809",
+  "lat": -3.3525997,
+  "lon": -40.4636874
 }

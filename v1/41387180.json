@@ -5,5 +5,7 @@
   "bairro": "Sete de Abril",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9119674,
+  "lon": -38.4312006
 }

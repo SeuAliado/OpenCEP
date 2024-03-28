@@ -5,5 +5,7 @@
   "bairro": "Coronel Firmino Martins",
   "localidade": "Clevelândia",
   "uf": "PR",
-  "ibge": "4105706"
+  "ibge": "4105706",
+  "lat": -26.4054655,
+  "lon": -52.3549414
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Cruz",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8802298,
+  "lon": -43.7980591
 }

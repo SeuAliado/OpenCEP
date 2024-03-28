@@ -5,5 +5,7 @@
   "bairro": "Parque Maria Helena",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4514001,
+  "lon": -46.4017342
 }

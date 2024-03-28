@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Bárbara do Pará",
   "uf": "PA",
-  "ibge": "1506351"
+  "ibge": "1506351",
+  "lat": -1.2824215,
+  "lon": -48.2534972
 }

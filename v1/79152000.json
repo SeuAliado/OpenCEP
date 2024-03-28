@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Maracaju",
   "uf": "MS",
-  "ibge": "5005400"
+  "ibge": "5005400",
+  "lat": -22.5119501,
+  "lon": -55.7070452
 }

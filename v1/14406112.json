@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Antônio Della - Torre",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5503516,
+  "lon": -47.4499406
 }

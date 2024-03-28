@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Félix",
   "uf": "BA",
-  "ibge": "2929008"
+  "ibge": "2929008",
+  "lat": -12.6690721,
+  "lon": -39.0085346
 }

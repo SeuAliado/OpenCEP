@@ -5,5 +5,7 @@
   "bairro": "Isaura Parente",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9626446,
+  "lon": -67.8219674
 }

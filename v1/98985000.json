@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Vera Cruz",
   "uf": "RS",
-  "ibge": "4315073"
+  "ibge": "4315073",
+  "lat": -27.7349187,
+  "lon": -54.900047
 }

@@ -5,5 +5,7 @@
   "bairro": "Una",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3688399,
+  "lon": -48.4589131
 }

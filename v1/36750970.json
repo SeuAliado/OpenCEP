@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palma",
   "uf": "MG",
-  "ibge": "3146701"
+  "ibge": "3146701",
+  "lat": -21.377723,
+  "lon": -42.3153361
 }

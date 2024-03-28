@@ -5,5 +5,7 @@
   "bairro": "Itapetinga",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.1987848,
+  "lon": -37.3859102
 }

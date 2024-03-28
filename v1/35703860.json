@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.594233,
+  "lon": -43.9092173
 }

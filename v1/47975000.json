@@ -5,5 +5,7 @@
   "bairro": "São José do Rio Grande",
   "localidade": "Riachão das Neves",
   "uf": "BA",
-  "ibge": "2926202"
+  "ibge": "2926202",
+  "lat": -11.7357778,
+  "lon": -44.8715803
 }

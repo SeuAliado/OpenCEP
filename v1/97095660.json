@@ -5,5 +5,7 @@
   "bairro": "Cerrito",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.7037148,
+  "lon": -53.777648
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riversul",
   "uf": "SP",
-  "ibge": "3543501"
+  "ibge": "3543501",
+  "lat": -23.8294879,
+  "lon": -49.4294356
 }

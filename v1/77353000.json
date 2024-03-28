@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Alegre",
   "uf": "TO",
-  "ibge": "1715150"
+  "ibge": "1715150",
+  "lat": -12.9281593,
+  "lon": -46.5355198
 }

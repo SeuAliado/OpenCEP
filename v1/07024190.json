@@ -5,5 +5,7 @@
   "bairro": "Vila Sorocabana",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.480493,
+  "lon": -46.5374514
 }

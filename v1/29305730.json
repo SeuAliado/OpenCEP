@@ -5,5 +5,7 @@
   "bairro": "Presidente Arthur da Costa e Silva",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8515504,
+  "lon": -41.0957945
 }

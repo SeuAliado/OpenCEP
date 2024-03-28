@@ -5,5 +5,7 @@
   "bairro": "Casa Verde Média",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5027653,
+  "lon": -46.6666391
 }

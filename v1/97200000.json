@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Restinga Seca",
   "uf": "RS",
-  "ibge": "4315503"
+  "ibge": "4315503",
+  "lat": -29.8210033,
+  "lon": -53.3741363
 }

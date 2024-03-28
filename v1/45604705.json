@@ -5,5 +5,7 @@
   "bairro": "Parque Boa Vista",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.77473,
+  "lon": -39.2607744
 }

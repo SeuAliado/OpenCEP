@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Domingos do Azeitão",
   "uf": "MA",
-  "ibge": "2110658"
+  "ibge": "2110658",
+  "lat": -6.7967398,
+  "lon": -44.5878439
 }

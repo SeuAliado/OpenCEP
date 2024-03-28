@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1968531,
+  "lon": -47.3776862
 }

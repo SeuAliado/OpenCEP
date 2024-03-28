@@ -5,5 +5,7 @@
   "bairro": "Jardim Devito",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5286708,
+  "lon": -47.4300089
 }

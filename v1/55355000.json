@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paranatama",
   "uf": "PE",
-  "ibge": "2610301"
+  "ibge": "2610301",
+  "lat": -8.9191712,
+  "lon": -36.6552361
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antônio Carlos",
   "uf": "SC",
-  "ibge": "4201208"
+  "ibge": "4201208",
+  "lat": -27.5178524,
+  "lon": -48.7684454
 }

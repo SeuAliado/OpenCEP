@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coqueiro Seco",
   "uf": "AL",
-  "ibge": "2702207"
+  "ibge": "2702207",
+  "lat": -9.6356865,
+  "lon": -35.7912443
 }

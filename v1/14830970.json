@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rincão",
   "uf": "SP",
-  "ibge": "3543709"
+  "ibge": "3543709",
+  "lat": -21.5878708,
+  "lon": -48.0693227
 }

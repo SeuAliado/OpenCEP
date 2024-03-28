@@ -5,5 +5,7 @@
   "bairro": "Jardim Dinorah",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5998172,
+  "lon": -46.9178315
 }

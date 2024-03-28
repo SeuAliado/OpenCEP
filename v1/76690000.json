@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaraíta",
   "uf": "GO",
-  "ibge": "5209291"
+  "ibge": "5209291",
+  "lat": -15.6125821,
+  "lon": -50.0269796
 }

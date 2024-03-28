@@ -5,5 +5,7 @@
   "bairro": "Bananal (Ponta Negra)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9209788,
+  "lon": -42.7218471
 }

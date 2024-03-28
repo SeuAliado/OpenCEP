@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serra Negra do Norte",
   "uf": "RN",
-  "ibge": "2413409"
+  "ibge": "2413409",
+  "lat": -6.6654536,
+  "lon": -37.3963477
 }

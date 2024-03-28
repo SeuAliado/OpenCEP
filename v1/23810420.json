@@ -5,5 +5,7 @@
   "bairro": "Parque Paraíso",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8613577,
+  "lon": -43.7677324
 }

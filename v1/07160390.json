@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Terezinha",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4098111,
+  "lon": -46.4481445
 }

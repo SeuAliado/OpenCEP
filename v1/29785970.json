@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vila Valério",
   "uf": "ES",
-  "ibge": "3205176"
+  "ibge": "3205176",
+  "lat": -18.9977698,
+  "lon": -40.3910163
 }

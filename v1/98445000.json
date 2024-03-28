@@ -5,5 +5,7 @@
   "bairro": "Ipuaçu",
   "localidade": "Caiçara",
   "uf": "RS",
-  "ibge": "4303400"
+  "ibge": "4303400",
+  "lat": -27.2679066,
+  "lon": -53.4471472
 }

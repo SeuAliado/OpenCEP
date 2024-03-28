@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibitiúra de Minas",
   "uf": "MG",
-  "ibge": "3129905"
+  "ibge": "3129905",
+  "lat": -22.0625996,
+  "lon": -46.4406019
 }

@@ -5,5 +5,7 @@
   "bairro": "Esquina Araújo",
   "localidade": "Independência",
   "uf": "RS",
-  "ibge": "4310405"
+  "ibge": "4310405",
+  "lat": -27.9594322,
+  "lon": -54.1236153
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Álvaro Gasparelli II",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9217028,
+  "lon": -51.3773541
 }

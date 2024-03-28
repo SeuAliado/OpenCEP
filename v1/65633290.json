@@ -5,5 +5,7 @@
   "bairro": "Parque Alvorada",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1292637,
+  "lon": -42.8309966
 }

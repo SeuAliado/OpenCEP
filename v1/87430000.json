@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tapejara",
   "uf": "PR",
-  "ibge": "4126801"
+  "ibge": "4126801",
+  "lat": -23.7335535,
+  "lon": -52.8710205
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Tiúma",
   "localidade": "São Lourenço da Mata",
   "uf": "PE",
-  "ibge": "2613701"
+  "ibge": "2613701",
+  "lat": -7.9898114,
+  "lon": -35.0522526
 }

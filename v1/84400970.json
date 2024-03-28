@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Prudentópolis",
   "uf": "PR",
-  "ibge": "4120606"
+  "ibge": "4120606",
+  "lat": -25.2034094,
+  "lon": -50.985213
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corumbá de Goiás",
   "uf": "GO",
-  "ibge": "5205802"
+  "ibge": "5205802",
+  "lat": -15.9250297,
+  "lon": -48.8070758
 }

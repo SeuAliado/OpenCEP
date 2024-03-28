@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "lat": -15.463493,
+  "lon": -47.6039691
 }

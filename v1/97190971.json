@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Martinho da Serra",
   "uf": "RS",
-  "ibge": "4319125"
+  "ibge": "4319125",
+  "lat": -29.5401463,
+  "lon": -53.8539336
 }

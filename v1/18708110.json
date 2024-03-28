@@ -5,5 +5,7 @@
   "bairro": "Vila Três Marias",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0901694,
+  "lon": -48.9166137
 }

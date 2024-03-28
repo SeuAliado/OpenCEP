@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa do Barro do Piauí",
   "uf": "PI",
-  "ibge": "2205565"
+  "ibge": "2205565",
+  "lat": -8.4771474,
+  "lon": -41.5345729
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Nossa Senhora Aparecida",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8586059,
+  "lon": -55.5314784
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fronteiras",
   "uf": "PI",
-  "ibge": "2204303"
+  "ibge": "2204303",
+  "lat": -7.1057467,
+  "lon": -40.5940565
 }

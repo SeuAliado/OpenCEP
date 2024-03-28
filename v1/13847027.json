@@ -5,5 +5,7 @@
   "bairro": "Jardim Murilo",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3575377,
+  "lon": -46.9384805
 }

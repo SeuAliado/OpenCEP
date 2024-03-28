@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil Novo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.9478642,
+  "lon": -46.5596278
 }

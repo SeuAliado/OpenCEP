@@ -5,5 +5,7 @@
   "bairro": "Jardim Francisca",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8567569,
+  "lon": -47.1610174
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana do Mundaú",
   "uf": "AL",
-  "ibge": "2708105"
+  "ibge": "2708105",
+  "lat": -9.1700381,
+  "lon": -36.2192306
 }

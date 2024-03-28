@@ -5,5 +5,7 @@
   "bairro": "Benfica",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8872748,
+  "lon": -43.2322726
 }

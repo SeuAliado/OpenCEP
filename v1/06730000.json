@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "lat": -23.5998291,
+  "lon": -47.0224881
 }

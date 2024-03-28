@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Descoberto",
   "uf": "MG",
-  "ibge": "3121308"
+  "ibge": "3121308",
+  "lat": -21.5343131,
+  "lon": -43.014012
 }

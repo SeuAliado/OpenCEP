@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iacri",
   "uf": "SP",
-  "ibge": "3519204"
+  "ibge": "3519204",
+  "lat": -21.8556976,
+  "lon": -50.6859394
 }

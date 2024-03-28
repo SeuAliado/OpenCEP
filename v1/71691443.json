@@ -5,5 +5,7 @@
   "bairro": "Setor Residencial Oeste (São Sebastião)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.9014319,
+  "lon": -47.785185
 }

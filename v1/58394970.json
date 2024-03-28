@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Borborema",
   "uf": "PB",
-  "ibge": "2502706"
+  "ibge": "2502706",
+  "lat": -6.8074611,
+  "lon": -35.5990268
 }

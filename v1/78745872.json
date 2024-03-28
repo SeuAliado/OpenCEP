@@ -5,5 +5,7 @@
   "bairro": "Vila Portal das Águas",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4977056,
+  "lon": -54.6260182
 }

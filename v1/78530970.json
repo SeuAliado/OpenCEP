@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Peixoto de Azevedo",
   "uf": "MT",
-  "ibge": "5106422"
+  "ibge": "5106422",
+  "lat": -10.2515707,
+  "lon": -54.994907
 }

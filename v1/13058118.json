@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Parque da Floresta",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9562734,
+  "lon": -47.1966568
 }

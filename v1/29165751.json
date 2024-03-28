@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.2086432,
+  "lon": -40.2590376
 }

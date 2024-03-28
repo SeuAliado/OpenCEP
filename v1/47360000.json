@@ -5,5 +5,7 @@
   "bairro": "Piçarrão",
   "localidade": "Sento Sé",
   "uf": "BA",
-  "ibge": "2930204"
+  "ibge": "2930204",
+  "lat": -9.6951188,
+  "lon": -41.1368864
 }

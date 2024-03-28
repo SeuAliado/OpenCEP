@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Senador Salgado Filho",
   "uf": "RS",
-  "ibge": "4320321"
+  "ibge": "4320321",
+  "lat": -28.0275618,
+  "lon": -54.5444693
 }

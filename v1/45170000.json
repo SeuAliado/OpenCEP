@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tremedal",
   "uf": "BA",
-  "ibge": "2931806"
+  "ibge": "2931806",
+  "lat": -15.0247827,
+  "lon": -41.4812771
 }

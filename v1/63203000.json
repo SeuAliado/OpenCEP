@@ -5,5 +5,7 @@
   "bairro": "Missão Nova",
   "localidade": "Missão Velha",
   "uf": "CE",
-  "ibge": "2308401"
+  "ibge": "2308401",
+  "lat": -7.4336638,
+  "lon": -39.0879725
 }

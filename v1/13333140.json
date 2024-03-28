@@ -5,5 +5,7 @@
   "bairro": "Vila Georgina",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0909432,
+  "lon": -47.2132228
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.2577337,
+  "lon": -39.313455
 }

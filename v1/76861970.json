@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapuã do Oeste",
   "uf": "RO",
-  "ibge": "1101104"
+  "ibge": "1101104",
+  "lat": -9.1880312,
+  "lon": -63.1914629
 }

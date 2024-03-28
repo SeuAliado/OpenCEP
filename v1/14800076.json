@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8061993,
+  "lon": -48.1892017
 }

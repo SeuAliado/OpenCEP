@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5183705,
+  "lon": -46.1991678
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaboticatubas",
   "uf": "MG",
-  "ibge": "3134608"
+  "ibge": "3134608",
+  "lat": -19.5170285,
+  "lon": -43.7478543
 }

@@ -5,5 +5,7 @@
   "bairro": "São João do Norte",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "lat": -20.7586131,
+  "lon": -41.5386696
 }

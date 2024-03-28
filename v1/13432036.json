@@ -5,5 +5,7 @@
   "bairro": "Centro (Ártemis)",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.6813015,
+  "lon": -47.7713091
 }

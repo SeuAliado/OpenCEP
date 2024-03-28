@@ -5,5 +5,7 @@
   "bairro": "Núcleo Regional Victor Gonçalves de Sousa",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0667844,
+  "lon": -44.5977302
 }

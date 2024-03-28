@@ -5,5 +5,7 @@
   "bairro": "Cidade da Esperança",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2452042,
+  "lon": -47.9461306
 }

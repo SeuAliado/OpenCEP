@@ -5,5 +5,7 @@
   "bairro": "Jardim Cuiabá",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4688932,
+  "lon": -54.6234681
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa Bonita do Sul",
   "uf": "RS",
-  "ibge": "4311239"
+  "ibge": "4311239",
+  "lat": -29.4909122,
+  "lon": -53.0673905
 }

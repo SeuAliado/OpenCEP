@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vitória das Missões",
   "uf": "RS",
-  "ibge": "4323754"
+  "ibge": "4323754",
+  "lat": -28.3463372,
+  "lon": -54.5012409
 }

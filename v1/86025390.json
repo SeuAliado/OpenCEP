@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3018235,
+  "lon": -51.1644687
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5859382,
+  "lon": -46.8116778
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cidao",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.364817,
+  "lon": -39.2982235
 }

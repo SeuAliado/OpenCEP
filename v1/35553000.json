@@ -5,5 +5,7 @@
   "bairro": "Marilândia",
   "localidade": "Itapecerica",
   "uf": "MG",
-  "ibge": "3133501"
+  "ibge": "3133501",
+  "lat": -20.4734238,
+  "lon": -45.1250847
 }

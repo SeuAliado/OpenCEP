@@ -5,5 +5,7 @@
   "bairro": "Porto dos Padres",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5057445,
+  "lon": -48.5155354
 }

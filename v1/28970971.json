@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araruama",
   "uf": "RJ",
-  "ibge": "3300209"
+  "ibge": "3300209",
+  "lat": -22.8637265,
+  "lon": -42.3313535
 }

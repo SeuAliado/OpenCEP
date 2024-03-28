@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ajuricaba",
   "uf": "RS",
-  "ibge": "4300208"
+  "ibge": "4300208",
+  "lat": -28.2394512,
+  "lon": -53.7707558
 }

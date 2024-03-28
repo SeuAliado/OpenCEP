@@ -5,5 +5,7 @@
   "bairro": "Jardim Apucarana",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3413855,
+  "lon": -49.2542127
 }

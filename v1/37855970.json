@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro da União",
   "uf": "MG",
-  "ibge": "3163904"
+  "ibge": "3163904",
+  "lat": -19.8646396,
+  "lon": -44.6086296
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Armazém",
   "uf": "SC",
-  "ibge": "4201505"
+  "ibge": "4201505",
+  "lat": -28.26296,
+  "lon": -49.0199068
 }

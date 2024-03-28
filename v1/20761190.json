@@ -5,5 +5,7 @@
   "bairro": "Engenho da Rainha",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8698188,
+  "lon": -43.2968238
 }

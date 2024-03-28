@@ -5,5 +5,7 @@
   "bairro": "Jardim América - Terceira Parte",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2743727,
+  "lon": -50.5396545
 }

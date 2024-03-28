@@ -5,5 +5,7 @@
   "bairro": "Canhema",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.6808161,
+  "lon": -46.6084852
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Conceição de Baixo",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6582323,
+  "lon": -43.2460207
 }

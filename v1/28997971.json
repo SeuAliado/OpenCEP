@@ -5,5 +5,7 @@
   "bairro": "Sampaio Correia (Sampaio Correia)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.86291,
+  "lon": -42.6005404
 }

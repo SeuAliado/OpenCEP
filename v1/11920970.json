@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iguape",
   "uf": "SP",
-  "ibge": "3520301"
+  "ibge": "3520301",
+  "lat": -24.7013416,
+  "lon": -47.5619279
 }

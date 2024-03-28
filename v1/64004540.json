@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0497418,
+  "lon": -42.8285971
 }

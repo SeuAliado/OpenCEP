@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ubaitaba",
   "uf": "BA",
-  "ibge": "2932200"
+  "ibge": "2932200",
+  "lat": -14.2581428,
+  "lon": -39.3932232
 }

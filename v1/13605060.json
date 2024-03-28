@@ -5,5 +5,7 @@
   "bairro": "Vila Candinha",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.357255,
+  "lon": -47.3622365
 }

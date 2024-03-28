@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ernestina",
   "uf": "RS",
-  "ibge": "4307054"
+  "ibge": "4307054",
+  "lat": -28.4981648,
+  "lon": -52.5840813
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serrana",
   "uf": "SP",
-  "ibge": "3551504"
+  "ibge": "3551504",
+  "lat": -21.2116149,
+  "lon": -47.5991023
 }

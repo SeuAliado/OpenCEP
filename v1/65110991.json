@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José de Ribamar",
   "uf": "MA",
-  "ibge": "2111201"
+  "ibge": "2111201",
+  "lat": -2.4947064,
+  "lon": -44.1825407
 }

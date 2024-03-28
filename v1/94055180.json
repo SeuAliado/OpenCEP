@@ -5,5 +5,7 @@
   "bairro": "Monte Belo",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9421282,
+  "lon": -51.0356265
 }

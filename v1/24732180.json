@@ -5,5 +5,7 @@
   "bairro": "Tiradentes",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8301983,
+  "lon": -42.9750903
 }

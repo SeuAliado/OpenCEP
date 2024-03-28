@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3829211,
+  "lon": -40.0610804
 }

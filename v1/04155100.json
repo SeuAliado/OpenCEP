@@ -5,5 +5,7 @@
   "bairro": "Vila Água Funda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6335782,
+  "lon": -46.6266605
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Green Village",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5801117,
+  "lon": -46.9003959
 }

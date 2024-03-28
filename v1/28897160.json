@@ -5,5 +5,7 @@
   "bairro": "Enseada das Gaivotas",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4962594,
+  "lon": -41.9118035
 }

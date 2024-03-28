@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João da Urtiga",
   "uf": "RS",
-  "ibge": "4318424"
+  "ibge": "4318424",
+  "lat": -27.816558,
+  "lon": -51.830161
 }

@@ -5,5 +5,7 @@
   "bairro": "Patrimônio de São João Batista",
   "localidade": "Olímpia",
   "uf": "SP",
-  "ibge": "3533908"
+  "ibge": "3533908",
+  "lat": -20.7392645,
+  "lon": -48.9178883
 }

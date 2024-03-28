@@ -5,5 +5,7 @@
   "bairro": "Vila Francisco de Moura",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.9047502,
+  "lon": -43.8138432
 }

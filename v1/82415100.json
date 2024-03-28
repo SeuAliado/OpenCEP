@@ -5,5 +5,7 @@
   "bairro": "Lamenha Pequena",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.359372,
+  "lon": -49.3338197
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Rivera",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4414008,
+  "lon": -54.6302972
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Santa Helena",
   "uf": "MT",
-  "ibge": "5106190"
+  "ibge": "5106190",
+  "lat": -11.0089455,
+  "lon": -55.2493362
 }

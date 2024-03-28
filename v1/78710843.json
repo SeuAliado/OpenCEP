@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4647197,
+  "lon": -54.63605
 }

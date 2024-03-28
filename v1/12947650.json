@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Bárbara",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1468513,
+  "lon": -46.5597506
 }

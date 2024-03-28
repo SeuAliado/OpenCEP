@@ -5,5 +5,7 @@
   "bairro": "Bem-Bom",
   "localidade": "Casa Nova",
   "uf": "BA",
-  "ibge": "2907202"
+  "ibge": "2907202",
+  "lat": -9.7449211,
+  "lon": -41.8826513
 }

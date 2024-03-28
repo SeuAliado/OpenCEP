@@ -5,5 +5,7 @@
   "bairro": "Abel Barbosa",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.3923004,
+  "lon": -38.2318621
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "lat": 0.0295988,
+  "lon": -51.0815306
 }

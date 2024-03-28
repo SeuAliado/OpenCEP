@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riacho dos Cavalos",
   "uf": "PB",
-  "ibge": "2512804"
+  "ibge": "2512804",
+  "lat": -6.4369179,
+  "lon": -37.6509179
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiros II",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7678679,
+  "lon": -48.1317304
 }

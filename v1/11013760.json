@@ -5,5 +5,7 @@
   "bairro": "Morro Monte Serrat",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9384261,
+  "lon": -46.3283558
 }

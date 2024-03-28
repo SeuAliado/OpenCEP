@@ -5,5 +5,7 @@
   "bairro": "Rochdale",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5202702,
+  "lon": -46.7794283
 }

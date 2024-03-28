@@ -5,5 +5,7 @@
   "bairro": "Lagoa das Flores",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "lat": -14.8633145,
+  "lon": -40.8289182
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Archila",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5320287,
+  "lon": -47.445548
 }

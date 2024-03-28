@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Granja Cecília B",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3477621,
+  "lon": -49.0952428
 }

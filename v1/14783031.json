@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial I",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5436753,
+  "lon": -48.601745
 }

@@ -5,5 +5,7 @@
   "bairro": "Mandacaia",
   "localidade": "Brejo da Madre de Deus",
   "uf": "PE",
-  "ibge": "2602605"
+  "ibge": "2602605",
+  "lat": -8.0987361,
+  "lon": -36.2202666
 }

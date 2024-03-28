@@ -5,5 +5,7 @@
   "bairro": "Jardim Trussardi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5857018,
+  "lon": -46.7257276
 }

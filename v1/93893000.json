@@ -5,5 +5,7 @@
   "bairro": "Campo Vicente",
   "localidade": "Nova Hartz",
   "uf": "RS",
-  "ibge": "4313060"
+  "ibge": "4313060",
+  "lat": -29.6261856,
+  "lon": -50.8519693
 }

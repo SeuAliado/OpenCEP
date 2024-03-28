@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Planalto",
   "uf": "SP",
-  "ibge": "3539608"
+  "ibge": "3539608",
+  "lat": -22.2870746,
+  "lon": -48.1199891
 }

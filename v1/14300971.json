@@ -5,5 +5,7 @@
   "bairro": "Castelo",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "lat": -20.8873208,
+  "lon": -47.5975534
 }

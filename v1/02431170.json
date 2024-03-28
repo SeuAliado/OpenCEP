@@ -5,5 +5,7 @@
   "bairro": "Jardim do Colégio (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4876976,
+  "lon": -46.6342568
 }

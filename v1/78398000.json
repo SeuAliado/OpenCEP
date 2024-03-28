@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Estrela",
   "uf": "MT",
-  "ibge": "5106851"
+  "ibge": "5106851",
+  "lat": -15.5287311,
+  "lon": -57.2366964
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.3983806,
+  "lon": -51.9404383
 }

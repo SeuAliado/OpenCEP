@@ -5,5 +5,7 @@
   "bairro": "Conceição da Boa Vista",
   "localidade": "Recreio",
   "uf": "MG",
-  "ibge": "3154101"
+  "ibge": "3154101",
+  "lat": -21.5454227,
+  "lon": -42.435098
 }

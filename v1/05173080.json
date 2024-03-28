@@ -5,5 +5,7 @@
   "bairro": "Vila Pirituba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4788894,
+  "lon": -46.7417025
 }

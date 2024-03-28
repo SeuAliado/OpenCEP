@@ -5,5 +5,7 @@
   "bairro": "7º BEC",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9703732,
+  "lon": -67.815971
 }

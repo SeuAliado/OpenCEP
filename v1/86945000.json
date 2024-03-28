@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro do Ivaí",
   "uf": "PR",
-  "ibge": "4125803"
+  "ibge": "4125803",
+  "lat": -23.8638715,
+  "lon": -51.8572648
 }

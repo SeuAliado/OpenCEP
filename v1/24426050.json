@@ -5,5 +5,7 @@
   "bairro": "Porto Velho",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8424045,
+  "lon": -43.094884
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida Ivone",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5134478,
+  "lon": -46.7527918
 }

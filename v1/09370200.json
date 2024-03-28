@@ -5,5 +5,7 @@
   "bairro": "Matriz",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.672005,
+  "lon": -46.461665
 }

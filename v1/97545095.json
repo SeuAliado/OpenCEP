@@ -5,5 +5,7 @@
   "bairro": "Alberto Grande",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8063095,
+  "lon": -55.806098
 }

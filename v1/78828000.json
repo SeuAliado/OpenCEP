@@ -5,5 +5,7 @@
   "bairro": "Selma",
   "localidade": "Jaciara",
   "uf": "MT",
-  "ibge": "5104807"
+  "ibge": "5104807",
+  "lat": -15.9467698,
+  "lon": -54.9692648
 }

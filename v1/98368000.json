@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cristal do Sul",
   "uf": "RS",
-  "ibge": "4306072"
+  "ibge": "4306072",
+  "lat": -27.4551569,
+  "lon": -53.247363
 }

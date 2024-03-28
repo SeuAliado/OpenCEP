@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -23.6655423,
+  "lon": -46.5396514
 }

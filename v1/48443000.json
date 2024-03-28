@@ -5,5 +5,7 @@
   "bairro": "Raspador",
   "localidade": "Ribeira do Amparo",
   "uf": "BA",
-  "ibge": "2926509"
+  "ibge": "2926509",
+  "lat": -10.8328306,
+  "lon": -38.2973746
 }

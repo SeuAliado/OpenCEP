@@ -5,5 +5,7 @@
   "bairro": "Chácara Vitápolis",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5298728,
+  "lon": -46.9283181
 }

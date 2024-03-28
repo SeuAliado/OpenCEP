@@ -5,5 +5,7 @@
   "bairro": "São José das Lontras",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "lat": -4.6983099,
+  "lon": -40.9017086
 }

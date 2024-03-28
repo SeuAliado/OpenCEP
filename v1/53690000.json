@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araçoiaba",
   "uf": "PE",
-  "ibge": "2601052"
+  "ibge": "2601052",
+  "lat": -7.7899543,
+  "lon": -35.0718504
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vera",
   "uf": "MT",
-  "ibge": "5108501"
+  "ibge": "5108501",
+  "lat": -12.2866553,
+  "lon": -55.2987453
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Erval Grande",
   "uf": "RS",
-  "ibge": "4307203"
+  "ibge": "4307203",
+  "lat": -27.3381959,
+  "lon": -52.5959129
 }

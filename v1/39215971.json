@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monjolos",
   "uf": "MG",
-  "ibge": "3142502"
+  "ibge": "3142502",
+  "lat": -18.325062,
+  "lon": -44.1196309
 }

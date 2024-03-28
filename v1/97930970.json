@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caibaté",
   "uf": "RS",
-  "ibge": "4303301"
+  "ibge": "4303301",
+  "lat": -28.2883729,
+  "lon": -54.6334272
 }

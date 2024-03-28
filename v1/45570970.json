@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipiaú",
   "uf": "BA",
-  "ibge": "2913903"
+  "ibge": "2913903",
+  "lat": -14.138005,
+  "lon": -39.7339748
 }

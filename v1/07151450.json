@@ -5,5 +5,7 @@
   "bairro": "Jardim São Geraldo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4070914,
+  "lon": -46.4554558
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Independência",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4386825,
+  "lon": -51.8672713
 }

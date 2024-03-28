@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejo Santo",
   "uf": "CE",
-  "ibge": "2302503"
+  "ibge": "2302503",
+  "lat": -7.4884406,
+  "lon": -38.9877226
 }

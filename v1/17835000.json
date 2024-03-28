@@ -5,5 +5,7 @@
   "bairro": "Indaiá do Aguapeí",
   "localidade": "Flórida Paulista",
   "uf": "SP",
-  "ibge": "3516002"
+  "ibge": "3516002",
+  "lat": -21.6110304,
+  "lon": -51.1766892
 }

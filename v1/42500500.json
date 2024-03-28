@@ -5,5 +5,7 @@
   "bairro": "Bananeiras (Ilha de Maré)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7602829,
+  "lon": -38.5184797
 }

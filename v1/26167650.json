@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7658998,
+  "lon": -43.4280819
 }

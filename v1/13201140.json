@@ -5,5 +5,7 @@
   "bairro": "Ponte de Campinas",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1768428,
+  "lon": -46.896656
 }

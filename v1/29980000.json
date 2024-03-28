@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pinheiros",
   "uf": "ES",
-  "ibge": "3204104"
+  "ibge": "3204104",
+  "lat": -18.4130251,
+  "lon": -40.2192379
 }

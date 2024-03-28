@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6801066,
+  "lon": -49.4258912
 }

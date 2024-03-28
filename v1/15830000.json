@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pindorama",
   "uf": "SP",
-  "ibge": "3538105"
+  "ibge": "3538105",
+  "lat": -21.1867409,
+  "lon": -48.9081184
 }

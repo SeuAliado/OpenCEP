@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.411142,
+  "lon": -44.260135
 }

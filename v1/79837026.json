@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaicurus",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2614161,
+  "lon": -54.7746804
 }

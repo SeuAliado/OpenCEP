@@ -5,5 +5,7 @@
   "bairro": "Santa Rita de Ouro Preto",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "lat": -20.5334181,
+  "lon": -43.5533915
 }

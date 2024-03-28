@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manicoré",
   "uf": "AM",
-  "ibge": "1302702"
+  "ibge": "1302702",
+  "lat": -5.8113588,
+  "lon": -61.298638
 }

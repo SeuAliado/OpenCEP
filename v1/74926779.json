@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7550573,
+  "lon": -49.2046939
 }

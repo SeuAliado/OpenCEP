@@ -5,5 +5,7 @@
   "bairro": "Villaggio Di Firenze",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5747972,
+  "lon": -47.4086081
 }

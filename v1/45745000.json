@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibicaraí",
   "uf": "BA",
-  "ibge": "2912103"
+  "ibge": "2912103",
+  "lat": -14.8583367,
+  "lon": -39.5917987
 }

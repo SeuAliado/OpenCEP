@@ -5,5 +5,7 @@
   "bairro": "Parque São João",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5703373,
+  "lon": -47.453395
 }

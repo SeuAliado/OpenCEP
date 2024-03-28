@@ -5,5 +5,7 @@
   "bairro": "Fazenda dos Mineiros",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.7800438,
+  "lon": -43.0324243
 }

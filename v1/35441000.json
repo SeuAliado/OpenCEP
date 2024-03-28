@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sem Peixe",
   "uf": "MG",
-  "ibge": "3165560"
+  "ibge": "3165560",
+  "lat": -20.1040454,
+  "lon": -42.8415113
 }

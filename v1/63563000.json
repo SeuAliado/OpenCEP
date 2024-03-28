@@ -5,5 +5,7 @@
   "bairro": "Isidoro",
   "localidade": "Acopiara",
   "uf": "CE",
-  "ibge": "2300309"
+  "ibge": "2300309",
+  "lat": -6.1356008,
+  "lon": -39.348998
 }

@@ -5,5 +5,7 @@
   "bairro": "Beija-Flor",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7533802,
+  "lon": -47.986074
 }

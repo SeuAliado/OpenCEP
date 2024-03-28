@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santópolis do Aguapeí",
   "uf": "SP",
-  "ibge": "3548401"
+  "ibge": "3548401",
+  "lat": -21.6382692,
+  "lon": -50.5013467
 }

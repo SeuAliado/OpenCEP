@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cruz",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5281808,
+  "lon": -46.3526645
 }

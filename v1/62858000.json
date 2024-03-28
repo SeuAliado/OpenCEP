@@ -5,5 +5,7 @@
   "bairro": "Pitombeiras",
   "localidade": "Cascavel",
   "uf": "CE",
-  "ibge": "2303501"
+  "ibge": "2303501",
+  "lat": -4.4481549,
+  "lon": -38.3360757
 }

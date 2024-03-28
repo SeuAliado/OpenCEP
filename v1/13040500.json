@@ -5,5 +5,7 @@
   "bairro": "Vila Campos Sales",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.946933,
+  "lon": -47.0539623
 }

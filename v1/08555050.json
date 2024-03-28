@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Luiza",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.50984,
+  "lon": -46.3591361
 }

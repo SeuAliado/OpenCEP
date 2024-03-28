@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8267248,
+  "lon": -51.1507814
 }

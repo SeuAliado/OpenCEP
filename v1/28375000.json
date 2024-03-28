@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Varre-Sai",
   "uf": "RJ",
-  "ibge": "3306156"
+  "ibge": "3306156",
+  "lat": -20.9280524,
+  "lon": -41.8704877
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guarani",
   "uf": "MG",
-  "ibge": "3128402"
+  "ibge": "3128402",
+  "lat": -21.3599045,
+  "lon": -43.0446891
 }

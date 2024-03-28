@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rodelas",
   "uf": "BA",
-  "ibge": "2927101"
+  "ibge": "2927101",
+  "lat": -9.1506608,
+  "lon": -38.6949149
 }

@@ -5,5 +5,7 @@
   "bairro": "Ponta Grossa",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6582561,
+  "lon": -35.7516323
 }

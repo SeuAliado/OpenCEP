@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9393007,
+  "lon": -48.4923998
 }

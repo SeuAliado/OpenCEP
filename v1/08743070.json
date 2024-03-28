@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial do Bosque",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5554445,
+  "lon": -46.2234897
 }

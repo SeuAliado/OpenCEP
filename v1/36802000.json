@@ -5,5 +5,7 @@
   "bairro": "Lacerdina",
   "localidade": "Carangola",
   "uf": "MG",
-  "ibge": "3113305"
+  "ibge": "3113305",
+  "lat": -20.7386913,
+  "lon": -42.028521
 }

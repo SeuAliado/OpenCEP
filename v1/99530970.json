@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chapada",
   "uf": "RS",
-  "ibge": "4305306"
+  "ibge": "4305306",
+  "lat": -28.0591967,
+  "lon": -53.0661956
 }

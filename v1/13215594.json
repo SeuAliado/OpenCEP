@@ -5,5 +5,7 @@
   "bairro": "Jardim Fepasa",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1701081,
+  "lon": -46.8988954
 }

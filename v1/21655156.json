@@ -5,5 +5,7 @@
   "bairro": "Pavuna",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.821183,
+  "lon": -43.3827193
 }

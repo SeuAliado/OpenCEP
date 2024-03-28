@@ -5,5 +5,7 @@
   "bairro": "Residencial Nino",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.8055671,
+  "lon": -45.2092532
 }

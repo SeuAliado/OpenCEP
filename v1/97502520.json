@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7555762,
+  "lon": -57.068844
 }

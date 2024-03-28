@@ -5,5 +5,7 @@
   "bairro": "Caldeiras",
   "localidade": "Caetité",
   "uf": "BA",
-  "ibge": "2905206"
+  "ibge": "2905206",
+  "lat": -13.6321291,
+  "lon": -42.5710086
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim da Fraternidade",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9156521,
+  "lon": -46.544902
 }

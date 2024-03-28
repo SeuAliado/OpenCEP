@@ -5,5 +5,7 @@
   "bairro": "Mata Verde",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "lat": -25.5699234,
+  "lon": -54.554436
 }

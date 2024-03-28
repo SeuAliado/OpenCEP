@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacobina",
   "uf": "BA",
-  "ibge": "2917508"
+  "ibge": "2917508",
+  "lat": -11.1816506,
+  "lon": -40.5120603
 }

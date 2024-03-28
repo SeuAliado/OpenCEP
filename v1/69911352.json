@@ -5,5 +5,7 @@
   "bairro": "Conjunto Bela Vista",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9759324,
+  "lon": -67.8351918
 }

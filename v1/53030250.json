@@ -5,5 +5,7 @@
   "bairro": "Bairro Novo",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "lat": -7.9947219,
+  "lon": -34.8407679
 }

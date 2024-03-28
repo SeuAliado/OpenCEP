@@ -5,5 +5,7 @@
   "bairro": "Jardim Colonial",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8504823,
+  "lon": -47.053606
 }

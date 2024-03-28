@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vicentina",
   "uf": "MS",
-  "ibge": "5008404"
+  "ibge": "5008404",
+  "lat": -22.410055,
+  "lon": -54.4391793
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bertioga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5655285,
+  "lon": -46.5757483
 }

@@ -5,5 +5,7 @@
   "bairro": "Torrinha",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2870883,
+  "lon": -35.0331526
 }

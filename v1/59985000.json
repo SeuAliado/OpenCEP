@@ -5,5 +5,7 @@
   "bairro": "Major Felipe",
   "localidade": "José da Penha",
   "uf": "RN",
-  "ibge": "2406007"
+  "ibge": "2406007",
+  "lat": -6.3646383,
+  "lon": -38.2950885
 }

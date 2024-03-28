@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Cecap",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.194372,
+  "lon": -49.9623118
 }

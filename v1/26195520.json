@@ -5,5 +5,7 @@
   "bairro": "Glaucia",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7592627,
+  "lon": -43.359001
 }

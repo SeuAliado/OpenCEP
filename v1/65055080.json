@@ -5,5 +5,7 @@
   "bairro": "Tirirical",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5788735,
+  "lon": -44.2431882
 }

@@ -5,5 +5,7 @@
   "bairro": "Armação do Pântano do Sul",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.7511633,
+  "lon": -48.5050076
 }

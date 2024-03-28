@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Bento do Trairi",
   "uf": "RN",
-  "ibge": "2411700"
+  "ibge": "2411700",
+  "lat": -6.3948425,
+  "lon": -36.0675952
 }

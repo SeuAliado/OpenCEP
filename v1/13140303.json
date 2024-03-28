@@ -5,5 +5,7 @@
   "bairro": "Nova Paulínia",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7680625,
+  "lon": -47.1512265
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chapadinha",
   "uf": "MA",
-  "ibge": "2103208"
+  "ibge": "2103208",
+  "lat": -3.7421898,
+  "lon": -43.3602046
 }

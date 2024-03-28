@@ -5,5 +5,7 @@
   "bairro": "Vila Romanópolis",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5456533,
+  "lon": -46.3684155
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Doutor Walchir Resende Costa",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1067346,
+  "lon": -44.85021
 }

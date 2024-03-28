@@ -5,5 +5,7 @@
   "bairro": "Bananal",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.5368298,
+  "lon": -42.98245
 }

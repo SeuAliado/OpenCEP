@@ -5,5 +5,7 @@
   "bairro": "Santa Gertrudes",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2505395,
+  "lon": -46.8521037
 }

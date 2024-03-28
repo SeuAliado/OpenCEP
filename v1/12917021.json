@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Euroville",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9755648,
+  "lon": -46.5454899
 }

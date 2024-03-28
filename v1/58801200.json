@@ -5,5 +5,7 @@
   "bairro": "Guanabara",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7555935,
+  "lon": -38.2298526
 }

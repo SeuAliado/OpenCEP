@@ -5,5 +5,7 @@
   "bairro": "Residencial Alto das Caraíbas",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1587461,
+  "lon": -47.9854204
 }

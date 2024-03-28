@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaraçaí",
   "uf": "SP",
-  "ibge": "3517802"
+  "ibge": "3517802",
+  "lat": -21.031717,
+  "lon": -51.2090299
 }

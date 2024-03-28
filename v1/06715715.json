@@ -5,5 +5,7 @@
   "bairro": "Jardim Belizário",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6080929,
+  "lon": -46.8849455
 }

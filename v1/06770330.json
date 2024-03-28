@@ -5,5 +5,7 @@
   "bairro": "Jardim Clementino",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6349111,
+  "lon": -46.7782328
 }

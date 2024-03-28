@@ -5,5 +5,7 @@
   "bairro": "Pinhotiba",
   "localidade": "Eugenópolis",
   "uf": "MG",
-  "ibge": "3124906"
+  "ibge": "3124906",
+  "lat": -21.1006446,
+  "lon": -42.188235
 }

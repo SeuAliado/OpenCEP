@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7811572,
+  "lon": -47.1832538
 }

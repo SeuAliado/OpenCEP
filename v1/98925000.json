@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Doutor Maurício Cardoso",
   "uf": "RS",
-  "ibge": "4306734"
+  "ibge": "4306734",
+  "lat": -27.5106069,
+  "lon": -54.3685809
 }

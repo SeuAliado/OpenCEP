@@ -5,5 +5,7 @@
   "bairro": "Village do Sol II",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4204158,
+  "lon": -61.4432974
 }

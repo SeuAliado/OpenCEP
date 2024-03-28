@@ -5,5 +5,7 @@
   "bairro": "Jardim Salete",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6249329,
+  "lon": -46.7989167
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "lat": -22.7389977,
+  "lon": -47.3318972
 }

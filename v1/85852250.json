@@ -5,5 +5,7 @@
   "bairro": "Campos do Iguaçu",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "lat": -25.5306806,
+  "lon": -54.5678497
 }

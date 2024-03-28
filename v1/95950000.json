@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Bréscia",
   "uf": "RS",
-  "ibge": "4313003"
+  "ibge": "4313003",
+  "lat": -29.2148564,
+  "lon": -52.0265488
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvinlândia",
   "uf": "SP",
-  "ibge": "3501509"
+  "ibge": "3501509",
+  "lat": -22.440495,
+  "lon": -49.7655737
 }

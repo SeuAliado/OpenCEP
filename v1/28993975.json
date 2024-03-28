@@ -5,5 +5,7 @@
   "bairro": "Bonsucesso (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8875662,
+  "lon": -42.4687755
 }

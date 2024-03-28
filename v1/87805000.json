@@ -5,5 +5,7 @@
   "bairro": "Bernardelli",
   "localidade": "Rondon",
   "uf": "PR",
-  "ibge": "4122602"
+  "ibge": "4122602",
+  "lat": -23.5999732,
+  "lon": -52.7354083
 }

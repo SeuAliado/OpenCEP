@@ -5,5 +5,7 @@
   "bairro": "Vila Japeri",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6786497,
+  "lon": -43.6101164
 }

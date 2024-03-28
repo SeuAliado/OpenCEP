@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joanópolis",
   "uf": "SP",
-  "ibge": "3525508"
+  "ibge": "3525508",
+  "lat": -22.9292618,
+  "lon": -46.2753862
 }

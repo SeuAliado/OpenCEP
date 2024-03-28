@@ -5,5 +5,7 @@
   "bairro": "Estaleiro",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8269383,
+  "lon": -44.1395327
 }

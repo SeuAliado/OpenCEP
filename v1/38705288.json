@@ -5,5 +5,7 @@
   "bairro": "Sebastião Amorim",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5931924,
+  "lon": -46.5021098
 }

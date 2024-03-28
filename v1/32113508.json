@@ -5,5 +5,7 @@
   "bairro": "Arvoredo 2ª Seção",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8713309,
+  "lon": -44.0221132
 }

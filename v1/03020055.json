@@ -5,5 +5,7 @@
   "bairro": "Catumbi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5355203,
+  "lon": -46.6014425
 }

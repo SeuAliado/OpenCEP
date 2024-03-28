@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8037896,
+  "lon": -55.8124797
 }

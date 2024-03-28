@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Remédio",
   "localidade": "Salesópolis",
   "uf": "SP",
-  "ibge": "3545001"
+  "ibge": "3545001",
+  "lat": -23.5393626,
+  "lon": -45.9597427
 }

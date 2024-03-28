@@ -5,5 +5,7 @@
   "bairro": "Jardim Garcez",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0011428,
+  "lon": -45.5618515
 }

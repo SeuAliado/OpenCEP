@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Ó",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -22.7156822,
+  "lon": -47.6390357
 }

@@ -5,5 +5,7 @@
   "bairro": "Aldeia dos Camarás",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.0085102,
+  "lon": -34.9913607
 }

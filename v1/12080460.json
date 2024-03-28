@@ -5,5 +5,7 @@
   "bairro": "Vila José Pedro da Cunha",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0291536,
+  "lon": -45.5477935
 }

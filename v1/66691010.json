@@ -5,5 +5,7 @@
   "bairro": "Aurá",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4147348,
+  "lon": -48.3844972
 }

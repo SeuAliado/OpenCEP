@@ -5,5 +5,7 @@
   "bairro": "23 de Setembro",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.6389373,
+  "lon": -56.1234503
 }

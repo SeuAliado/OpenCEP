@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial I",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.6337889,
+  "lon": -46.4777235
 }

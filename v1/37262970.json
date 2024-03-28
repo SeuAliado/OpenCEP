@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Amparo",
   "uf": "MG",
-  "ibge": "3159902"
+  "ibge": "3159902",
+  "lat": -20.9463195,
+  "lon": -44.9211493
 }

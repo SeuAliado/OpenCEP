@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pantano Grande",
   "uf": "RS",
-  "ibge": "4313953"
+  "ibge": "4313953",
+  "lat": -30.2853828,
+  "lon": -52.4039296
 }

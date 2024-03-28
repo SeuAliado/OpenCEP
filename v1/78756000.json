@@ -5,5 +5,7 @@
   "bairro": "Três Pontes",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -15.56847,
+  "lon": -56.1142943
 }

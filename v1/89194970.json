@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mirim Doce",
   "uf": "SC",
-  "ibge": "4210852"
+  "ibge": "4210852",
+  "lat": -27.200701,
+  "lon": -50.0706605
 }

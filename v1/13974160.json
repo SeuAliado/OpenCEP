@@ -5,5 +5,7 @@
   "bairro": "Pires",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4319349,
+  "lon": -46.8379525
 }

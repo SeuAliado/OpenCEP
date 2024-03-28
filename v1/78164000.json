@@ -5,5 +5,7 @@
   "bairro": "Capão Grande",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.7053249,
+  "lon": -56.1560802
 }

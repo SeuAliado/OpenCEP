@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Espigão Alto do Iguaçu",
   "uf": "PR",
-  "ibge": "4107546"
+  "ibge": "4107546",
+  "lat": -25.4221149,
+  "lon": -52.8353014
 }

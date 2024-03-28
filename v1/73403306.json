@@ -5,5 +5,7 @@
   "bairro": "Condomínio Mestre D'Armas (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6170948,
+  "lon": -47.6801276
 }

@@ -5,5 +5,7 @@
   "bairro": "Carapajó",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "lat": -2.2433132,
+  "lon": -49.4983165
 }

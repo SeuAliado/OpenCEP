@@ -5,5 +5,7 @@
   "bairro": "Roncador",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7104419,
+  "lon": -43.5600113
 }

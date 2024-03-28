@@ -5,5 +5,7 @@
   "bairro": "Vertente",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "lat": -4.0997609,
+  "lon": -38.4660654
 }

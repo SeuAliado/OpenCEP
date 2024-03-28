@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Carlo",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.9354739,
+  "lon": -51.0870269
 }

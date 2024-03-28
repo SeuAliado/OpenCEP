@@ -5,5 +5,7 @@
   "bairro": "Argenita",
   "localidade": "Ibiá",
   "uf": "MG",
-  "ibge": "3129509"
+  "ibge": "3129509",
+  "lat": -19.683269,
+  "lon": -46.8437353
 }

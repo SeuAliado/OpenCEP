@@ -5,5 +5,7 @@
   "bairro": "Tapiranga",
   "localidade": "Miguel Calmon",
   "uf": "BA",
-  "ibge": "2921203"
+  "ibge": "2921203",
+  "lat": -11.4442215,
+  "lon": -40.4447772
 }

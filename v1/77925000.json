@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Miguel do Tocantins",
   "uf": "TO",
-  "ibge": "1720200"
+  "ibge": "1720200",
+  "lat": -5.5548538,
+  "lon": -47.5781656
 }

@@ -5,5 +5,7 @@
   "bairro": "Lamounier",
   "localidade": "Itapecerica",
   "uf": "MG",
-  "ibge": "3133501"
+  "ibge": "3133501",
+  "lat": -20.4743773,
+  "lon": -45.0378645
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Barroquinha",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9204875,
+  "lon": -44.0789389
 }

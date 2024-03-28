@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Lourdes",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0242249,
+  "lon": -44.0392248
 }

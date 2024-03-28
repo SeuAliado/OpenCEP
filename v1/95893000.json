@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Westfalia",
   "uf": "RS",
-  "ibge": "4323770"
+  "ibge": "4323770",
+  "lat": -29.4175693,
+  "lon": -51.7659131
 }

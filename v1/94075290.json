@@ -5,5 +5,7 @@
   "bairro": "Parque Florido",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9407701,
+  "lon": -51.0617849
 }

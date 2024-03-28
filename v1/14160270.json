@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1296405,
+  "lon": -47.9890102
 }

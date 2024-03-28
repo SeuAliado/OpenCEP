@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "lat": -22.0699763,
+  "lon": -46.5728156
 }

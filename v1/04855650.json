@@ -5,5 +5,7 @@
   "bairro": "Jardim Colibri",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.2152791,
+  "lon": -49.9442878
 }

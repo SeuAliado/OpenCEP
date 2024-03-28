@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.7753623,
+  "lon": -49.676942
 }

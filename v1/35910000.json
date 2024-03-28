@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Maria de Itabira",
   "uf": "MG",
-  "ibge": "3158003"
+  "ibge": "3158003",
+  "lat": -19.4517668,
+  "lon": -43.1141859
 }

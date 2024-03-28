@@ -5,5 +5,7 @@
   "bairro": "Vila Regina",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1549482,
+  "lon": -44.9978582
 }

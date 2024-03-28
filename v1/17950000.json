@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Guataporanga",
   "uf": "SP",
-  "ibge": "3533106"
+  "ibge": "3533106",
+  "lat": -21.3330833,
+  "lon": -51.647866
 }

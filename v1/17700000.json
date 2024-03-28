@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Osvaldo Cruz",
   "uf": "SP",
-  "ibge": "3534609"
+  "ibge": "3534609",
+  "lat": -21.7972251,
+  "lon": -50.879763
 }

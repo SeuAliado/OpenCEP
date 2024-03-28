@@ -5,5 +5,7 @@
   "bairro": "Serra do Anil",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.337328,
+  "lon": -40.4007794
 }

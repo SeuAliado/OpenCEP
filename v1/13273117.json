@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9485129,
+  "lon": -46.982208
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosemary",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5591476,
+  "lon": -46.9323493
 }

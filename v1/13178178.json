@@ -5,5 +5,7 @@
   "bairro": "Jardim Dall'Orto",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7895883,
+  "lon": -47.2184424
 }

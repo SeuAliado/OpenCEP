@@ -5,5 +5,7 @@
   "bairro": "Colônia",
   "localidade": "São Fidélis",
   "uf": "RJ",
-  "ibge": "3304805"
+  "ibge": "3304805",
+  "lat": -21.6780933,
+  "lon": -41.8878689
 }

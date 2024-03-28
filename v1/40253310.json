@@ -5,5 +5,7 @@
   "bairro": "Cosme de Farias",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9806873,
+  "lon": -38.4853545
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro II",
   "uf": "PI",
-  "ibge": "2207900"
+  "ibge": "2207900",
+  "lat": -4.4338427,
+  "lon": -41.4537623
 }

@@ -5,5 +5,7 @@
   "bairro": "Baixa Grande",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7341125,
+  "lon": -36.67333
 }

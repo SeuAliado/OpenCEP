@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nortelândia",
   "uf": "MT",
-  "ibge": "5106000"
+  "ibge": "5106000",
+  "lat": -14.4544473,
+  "lon": -56.7950127
 }

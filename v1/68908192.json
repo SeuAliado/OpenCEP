@@ -5,5 +5,7 @@
   "bairro": "Julião Ramos",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "lat": 0.0521086,
+  "lon": -51.0530087
 }

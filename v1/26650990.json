@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Engenheiro Paulo de Frontin",
   "uf": "RJ",
-  "ibge": "3301801"
+  "ibge": "3301801",
+  "lat": -22.4920407,
+  "lon": -43.6060586
 }

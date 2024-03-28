@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tracuateua",
   "uf": "PA",
-  "ibge": "1508035"
+  "ibge": "1508035",
+  "lat": -0.9701345,
+  "lon": -46.941659
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piracema",
   "uf": "MG",
-  "ibge": "3150604"
+  "ibge": "3150604",
+  "lat": -20.509349,
+  "lon": -44.4787422
 }

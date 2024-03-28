@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Rosário",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9391069,
+  "lon": -47.1238559
 }

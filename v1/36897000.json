@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Glória",
   "localidade": "Vieiras",
   "uf": "MG",
-  "ibge": "3171402"
+  "ibge": "3171402",
+  "lat": -20.8882134,
+  "lon": -42.3425427
 }

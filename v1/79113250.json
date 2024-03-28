@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Pássaros",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.4437304,
+  "lon": -54.6694684
 }

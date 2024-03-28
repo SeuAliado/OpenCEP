@@ -5,5 +5,7 @@
   "bairro": "Vila Fátima",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.9014317,
+  "lon": -51.7238797
 }

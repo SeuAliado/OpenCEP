@@ -5,5 +5,7 @@
   "bairro": "Octavio Camões",
   "localidade": "Itapetinga",
   "uf": "BA",
-  "ibge": "2916401"
+  "ibge": "2916401",
+  "lat": -15.2517213,
+  "lon": -40.2453373
 }

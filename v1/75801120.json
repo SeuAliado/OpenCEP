@@ -5,5 +5,7 @@
   "bairro": "Vila Olavo",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8942276,
+  "lon": -51.7124027
 }

@@ -5,5 +5,7 @@
   "bairro": "Tabuleta",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.1213288,
+  "lon": -42.7989124
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Braz",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2351819,
+  "lon": -54.7468653
 }

@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "lat": -21.7444681,
+  "lon": -41.3032237
 }

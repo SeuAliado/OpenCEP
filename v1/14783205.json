@@ -5,5 +5,7 @@
   "bairro": "Rios",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5501312,
+  "lon": -48.5914321
 }

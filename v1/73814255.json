@@ -5,5 +5,7 @@
   "bairro": "Parque Laguna II",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5562452,
+  "lon": -47.3096052
 }

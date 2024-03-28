@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6324638,
+  "lon": -45.4332033
 }

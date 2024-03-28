@@ -5,5 +5,7 @@
   "bairro": "Vila Falchi",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6777257,
+  "lon": -46.4442211
 }

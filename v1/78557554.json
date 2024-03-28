@@ -5,5 +5,7 @@
   "bairro": "Jardim Terra Rica",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.880966,
+  "lon": -55.4942066
 }

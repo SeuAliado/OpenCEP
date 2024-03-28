@@ -5,5 +5,7 @@
   "bairro": "Oriente",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3224228,
+  "lon": -40.3799572
 }

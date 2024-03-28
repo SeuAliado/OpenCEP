@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Catende",
   "uf": "PE",
-  "ibge": "2604205"
+  "ibge": "2604205",
+  "lat": -8.6721847,
+  "lon": -35.7408465
 }

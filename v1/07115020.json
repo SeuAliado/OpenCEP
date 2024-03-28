@@ -5,5 +5,7 @@
   "bairro": "Vila Lanzara",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4629588,
+  "lon": -46.5301198
 }

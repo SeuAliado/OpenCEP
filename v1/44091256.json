@@ -5,5 +5,7 @@
   "bairro": "Tomba",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.2935554,
+  "lon": -38.9506356
 }

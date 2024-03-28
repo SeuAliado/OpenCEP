@@ -5,5 +5,7 @@
   "bairro": "Itaigara",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.99006,
+  "lon": -38.4730581
 }

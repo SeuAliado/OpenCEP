@@ -5,5 +5,7 @@
   "bairro": "Leandro",
   "localidade": "Barra do Corda",
   "uf": "MA",
-  "ibge": "2101608"
+  "ibge": "2101608",
+  "lat": -6.0003314,
+  "lon": -44.9070966
 }

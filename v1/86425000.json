@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília do Itararé",
   "localidade": "Carlópolis",
   "uf": "PR",
-  "ibge": "4104709"
+  "ibge": "4104709",
+  "lat": -23.5429316,
+  "lon": -49.7430182
 }

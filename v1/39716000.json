@@ -5,5 +5,7 @@
   "bairro": "Divino de Virgolândia",
   "localidade": "Virgolândia",
   "uf": "MG",
-  "ibge": "3171907"
+  "ibge": "3171907",
+  "lat": -18.3970152,
+  "lon": -42.2455444
 }

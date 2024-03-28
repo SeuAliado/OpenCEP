@@ -5,5 +5,7 @@
   "bairro": "Patrimônio Silvares",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2908133,
+  "lon": -50.324939
 }

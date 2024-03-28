@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Camanducaia",
   "uf": "MG",
-  "ibge": "3110509"
+  "ibge": "3110509",
+  "lat": -20.0579301,
+  "lon": -44.3015419
 }

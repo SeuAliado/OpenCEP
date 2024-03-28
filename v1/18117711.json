@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5812297,
+  "lon": -47.4607778
 }

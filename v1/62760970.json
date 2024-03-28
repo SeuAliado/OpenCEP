@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Baturité",
   "uf": "CE",
-  "ibge": "2302107"
+  "ibge": "2302107",
+  "lat": -4.330569,
+  "lon": -38.8797987
 }

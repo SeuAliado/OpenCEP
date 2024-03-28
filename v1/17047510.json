@@ -5,5 +5,7 @@
   "bairro": "Jardim Santos Dumont",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3568086,
+  "lon": -49.0382171
 }

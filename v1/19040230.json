@@ -5,5 +5,7 @@
   "bairro": "Vila Marina",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1277532,
+  "lon": -51.3837617
 }

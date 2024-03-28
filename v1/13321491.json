@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Inácio",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1832203,
+  "lon": -47.2861628
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Fernando",
   "uf": "RN",
-  "ibge": "2411809"
+  "ibge": "2411809",
+  "lat": -6.3804477,
+  "lon": -37.1865455
 }

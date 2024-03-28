@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Douradina",
   "uf": "PR",
-  "ibge": "4107256"
+  "ibge": "4107256",
+  "lat": -23.385191,
+  "lon": -53.2942865
 }

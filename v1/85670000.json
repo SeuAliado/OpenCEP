@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salto do Lontra",
   "uf": "PR",
-  "ibge": "4123006"
+  "ibge": "4123006",
+  "lat": -25.7820598,
+  "lon": -53.3102927
 }

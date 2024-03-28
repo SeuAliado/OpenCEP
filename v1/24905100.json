@@ -5,5 +5,7 @@
   "bairro": "Condado de Maricá",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.8992305,
+  "lon": -42.7913515
 }

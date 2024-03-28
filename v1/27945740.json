@@ -5,5 +5,7 @@
   "bairro": "Morro São Jorge",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3700848,
+  "lon": -41.7941645
 }

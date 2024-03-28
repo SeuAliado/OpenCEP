@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7982238,
+  "lon": -55.8009342
 }

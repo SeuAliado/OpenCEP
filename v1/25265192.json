@@ -5,5 +5,7 @@
   "bairro": "Parada Morabi",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6545261,
+  "lon": -43.2323127
 }

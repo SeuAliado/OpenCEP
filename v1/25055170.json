@@ -5,5 +5,7 @@
   "bairro": "Parque Sarapuí",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.745606,
+  "lon": -43.3443871
 }

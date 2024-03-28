@@ -5,5 +5,7 @@
   "bairro": "Vila Poroxo",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4558137,
+  "lon": -54.6126349
 }

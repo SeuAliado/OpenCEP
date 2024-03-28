@@ -5,5 +5,7 @@
   "bairro": "Nova Aliança",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5282377,
+  "lon": -41.9572039
 }

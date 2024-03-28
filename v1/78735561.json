@@ -5,5 +5,7 @@
   "bairro": "Coophasem",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4743371,
+  "lon": -54.609568
 }

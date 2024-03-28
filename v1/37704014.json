@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7963405,
+  "lon": -46.5518762
 }

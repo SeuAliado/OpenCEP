@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Varjota",
   "uf": "CE",
-  "ibge": "2313955"
+  "ibge": "2313955",
+  "lat": -4.1942531,
+  "lon": -40.474444
 }

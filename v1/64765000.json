@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "João Costa",
   "uf": "PI",
-  "ibge": "2205359"
+  "ibge": "2205359",
+  "lat": -8.5077728,
+  "lon": -42.4267594
 }

@@ -5,5 +5,7 @@
   "bairro": "Zélia Barbosa Rocha",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7444575,
+  "lon": -36.6850245
 }

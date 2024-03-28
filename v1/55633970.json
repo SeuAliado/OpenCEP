@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pombos",
   "uf": "PE",
-  "ibge": "2611309"
+  "ibge": "2611309",
+  "lat": -8.142478,
+  "lon": -35.3965496
 }

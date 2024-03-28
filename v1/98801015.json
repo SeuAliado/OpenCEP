@@ -5,5 +5,7 @@
   "bairro": "Harmonia",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "lat": -28.3121782,
+  "lon": -54.2687692
 }

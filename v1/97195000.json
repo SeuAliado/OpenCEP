@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Silveira Martins",
   "uf": "RS",
-  "ibge": "4320651"
+  "ibge": "4320651",
+  "lat": -29.6448359,
+  "lon": -53.5860769
 }

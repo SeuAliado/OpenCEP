@@ -5,5 +5,7 @@
   "bairro": "Dic III (Conjunto Habitacional Ruy Novaes)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9771452,
+  "lon": -47.1216518
 }

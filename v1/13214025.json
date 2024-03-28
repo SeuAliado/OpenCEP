@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1695235,
+  "lon": -46.9032814
 }

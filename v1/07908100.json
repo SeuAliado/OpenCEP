@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Preto",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2903995,
+  "lon": -46.7509867
 }

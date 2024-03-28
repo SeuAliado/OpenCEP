@@ -5,5 +5,7 @@
   "bairro": "Jardim Sol D'Icaraí",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1856605,
+  "lon": -47.3176801
 }

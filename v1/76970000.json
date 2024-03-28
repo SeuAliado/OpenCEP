@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pimenta Bueno",
   "uf": "RO",
-  "ibge": "1100189"
+  "ibge": "1100189",
+  "lat": -11.6723638,
+  "lon": -61.1984811
 }

@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0663367,
+  "lon": -44.5781277
 }

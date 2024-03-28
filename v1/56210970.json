@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Filomena",
   "uf": "PE",
-  "ibge": "2612554"
+  "ibge": "2612554",
+  "lat": -29.3633505,
+  "lon": -50.8092747
 }

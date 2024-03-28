@@ -5,5 +5,7 @@
   "bairro": "Vila Nova São Vicente",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9880878,
+  "lon": -46.4910125
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Combinado",
   "uf": "TO",
-  "ibge": "1705557"
+  "ibge": "1705557",
+  "lat": -12.8484623,
+  "lon": -46.4970116
 }

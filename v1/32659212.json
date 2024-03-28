@@ -5,5 +5,7 @@
   "bairro": "Estância do Sereno PTB",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9940677,
+  "lon": -44.1400609
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Carlina",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6996186,
+  "lon": -46.4824301
 }

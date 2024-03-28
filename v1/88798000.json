@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pescaria Brava",
   "uf": "SC",
-  "ibge": "4212650"
+  "ibge": "4212650",
+  "lat": -28.428789,
+  "lon": -48.917962
 }

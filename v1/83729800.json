@@ -5,5 +5,7 @@
   "bairro": "Martins",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5046429,
+  "lon": -49.3347152
 }

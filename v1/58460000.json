@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alcantil",
   "uf": "PB",
-  "ibge": "2500536"
+  "ibge": "2500536",
+  "lat": -7.6858237,
+  "lon": -36.0675952
 }

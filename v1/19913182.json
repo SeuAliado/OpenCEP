@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9772223,
+  "lon": -49.849976
 }

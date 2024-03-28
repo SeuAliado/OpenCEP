@@ -5,5 +5,7 @@
   "bairro": "Hidrolândia",
   "localidade": "Uibaí",
   "uf": "BA",
-  "ibge": "2932408"
+  "ibge": "2932408",
+  "lat": -11.2576437,
+  "lon": -42.1550633
 }

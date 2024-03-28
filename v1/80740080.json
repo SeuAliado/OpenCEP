@@ -5,5 +5,7 @@
   "bairro": "Campina do Siqueira",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4380849,
+  "lon": -49.312723
 }

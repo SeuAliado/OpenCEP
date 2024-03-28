@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Alegre do Tocantins",
   "uf": "TO",
-  "ibge": "1718006"
+  "ibge": "1718006",
+  "lat": -11.4338047,
+  "lon": -47.0193913
 }

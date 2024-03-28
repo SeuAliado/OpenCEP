@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Califórnia",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4256386,
+  "lon": -46.3494657
 }

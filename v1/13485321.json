@@ -5,5 +5,7 @@
   "bairro": "Parque Egisto Ragazzo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5372602,
+  "lon": -47.3873566
 }

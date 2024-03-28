@@ -5,5 +5,7 @@
   "bairro": "Fazendinha",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.478249,
+  "lon": -49.3156098
 }

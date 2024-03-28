@@ -5,5 +5,7 @@
   "bairro": "Jardim Industrial",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9756239,
+  "lon": -46.810707
 }

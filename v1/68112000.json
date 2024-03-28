@@ -5,5 +5,7 @@
   "bairro": "Alta Pará",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -3.2182177,
+  "lon": -52.2206595
 }

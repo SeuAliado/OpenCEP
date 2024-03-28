@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Umburatiba",
   "uf": "MG",
-  "ibge": "3170305"
+  "ibge": "3170305",
+  "lat": -17.2670112,
+  "lon": -40.6752853
 }

@@ -5,5 +5,7 @@
   "bairro": "Vale da Prata",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7508764,
+  "lon": -44.1451053
 }

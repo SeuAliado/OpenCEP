@@ -5,5 +5,7 @@
   "bairro": "Cutijuba",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3440592,
+  "lon": -48.468866
 }

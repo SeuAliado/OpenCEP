@@ -5,5 +5,7 @@
   "bairro": "Colinas",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.1848278,
+  "lon": -52.1909355
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Anhangüera",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.586728,
+  "lon": -47.3705081
 }

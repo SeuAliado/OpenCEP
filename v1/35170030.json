@@ -5,5 +5,7 @@
   "bairro": "Professores",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5237145,
+  "lon": -42.6255118
 }

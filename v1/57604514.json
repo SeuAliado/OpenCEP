@@ -5,5 +5,7 @@
   "bairro": "Graciliano Ramos",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.4105853,
+  "lon": -36.6289514
 }

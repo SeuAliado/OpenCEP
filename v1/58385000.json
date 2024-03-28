@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Redonda",
   "uf": "PB",
-  "ibge": "2515807"
+  "ibge": "2515807",
+  "lat": -7.1856345,
+  "lon": -35.6803639
 }

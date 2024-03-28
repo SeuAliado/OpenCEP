@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Narciso Gomes",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3783792,
+  "lon": -47.3894001
 }

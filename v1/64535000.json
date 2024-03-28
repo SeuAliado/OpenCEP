@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Inhuma",
   "uf": "PI",
-  "ibge": "2204709"
+  "ibge": "2204709",
+  "lat": -6.6892436,
+  "lon": -41.6809724
 }

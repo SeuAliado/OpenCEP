@@ -5,5 +5,7 @@
   "bairro": "Stela Reis",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3574669,
+  "lon": -39.5778131
 }

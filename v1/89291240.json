@@ -5,5 +5,7 @@
   "bairro": "Serra Alta",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "lat": -26.288857,
+  "lon": -49.4381826
 }

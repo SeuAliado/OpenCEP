@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Boa Vista das Missões",
   "uf": "RS",
-  "ibge": "4302154"
+  "ibge": "4302154",
+  "lat": -30.004586,
+  "lon": -51.2066859
 }

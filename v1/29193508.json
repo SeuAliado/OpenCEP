@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -20.7243337,
+  "lon": -46.6143424
 }

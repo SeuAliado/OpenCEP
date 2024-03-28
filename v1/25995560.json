@@ -5,5 +5,7 @@
   "bairro": "Serra",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.182017,
+  "lon": -42.8511965
 }

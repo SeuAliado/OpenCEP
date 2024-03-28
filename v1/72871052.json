@@ -5,5 +5,7 @@
   "bairro": "Jardim Céu Azul",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0597398,
+  "lon": -48.007152
 }

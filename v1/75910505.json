@@ -5,5 +5,7 @@
   "bairro": "Setor Municipal de Pequenas Empresas",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7615711,
+  "lon": -50.9276169
 }

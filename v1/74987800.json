@@ -5,5 +5,7 @@
   "bairro": "Vila Irmãos Souza",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8237083,
+  "lon": -49.2392799
 }

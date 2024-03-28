@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -25.0785099,
+  "lon": -53.3181139
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Belo",
   "uf": "MG",
-  "ibge": "3143005"
+  "ibge": "3143005",
+  "lat": -21.3221066,
+  "lon": -46.3688171
 }

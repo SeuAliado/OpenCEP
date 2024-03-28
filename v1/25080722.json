@@ -5,5 +5,7 @@
   "bairro": "Parque Felicidade",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.785978,
+  "lon": -43.2986831
 }

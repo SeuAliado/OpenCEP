@@ -5,5 +5,7 @@
   "bairro": "Parque Brasil 500",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7667214,
+  "lon": -47.1416633
 }

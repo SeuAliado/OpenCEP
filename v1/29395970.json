@@ -5,5 +5,7 @@
   "bairro": "Brasil Novo",
   "localidade": "Ibatiba",
   "uf": "ES",
-  "ibge": "3202454"
+  "ibge": "3202454",
+  "lat": -20.2343844,
+  "lon": -41.5058744
 }

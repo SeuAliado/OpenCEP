@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buriticupu",
   "uf": "MA",
-  "ibge": "2102325"
+  "ibge": "2102325",
+  "lat": -4.3191406,
+  "lon": -46.4534305
 }

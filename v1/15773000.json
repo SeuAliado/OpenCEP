@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Canaã Paulista",
   "uf": "SP",
-  "ibge": "3532843"
+  "ibge": "3532843",
+  "lat": -20.3840908,
+  "lon": -50.948735
 }

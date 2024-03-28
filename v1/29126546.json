@@ -5,5 +5,7 @@
   "bairro": "Morada da Barra",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.438383,
+  "lon": -40.363101
 }

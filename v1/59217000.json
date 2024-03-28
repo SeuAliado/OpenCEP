@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte das Gameleiras",
   "uf": "RN",
-  "ibge": "2407906"
+  "ibge": "2407906",
+  "lat": -6.4398083,
+  "lon": -35.7855319
 }

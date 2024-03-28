@@ -5,5 +5,7 @@
   "bairro": "Tereza Cristina",
   "localidade": "São Joaquim de Bicas",
   "uf": "MG",
-  "ibge": "3162922"
+  "ibge": "3162922",
+  "lat": -20.0471463,
+  "lon": -44.2622245
 }

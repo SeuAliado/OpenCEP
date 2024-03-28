@@ -5,5 +5,7 @@
   "bairro": "São Sebastião das Águas Claras",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0510299,
+  "lon": -43.9155891
 }

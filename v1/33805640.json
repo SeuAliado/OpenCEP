@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7663209,
+  "lon": -44.0890369
 }

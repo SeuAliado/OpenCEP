@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9140604,
+  "lon": -42.8651658
 }

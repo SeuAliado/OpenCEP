@@ -5,5 +5,7 @@
   "bairro": "Valão Quente",
   "localidade": "Pirapetinga",
   "uf": "MG",
-  "ibge": "3151107"
+  "ibge": "3151107",
+  "lat": -21.7276063,
+  "lon": -42.4171975
 }

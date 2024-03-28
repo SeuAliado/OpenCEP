@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ivatuba",
   "uf": "PR",
-  "ibge": "4111605"
+  "ibge": "4111605",
+  "lat": -23.5964883,
+  "lon": -52.1806128
 }

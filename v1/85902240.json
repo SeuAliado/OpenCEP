@@ -5,5 +5,7 @@
   "bairro": "Jardim Pancera",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7400592,
+  "lon": -53.7515923
 }

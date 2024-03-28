@@ -5,5 +5,7 @@
   "bairro": "Vila Bela Vista",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8833523,
+  "lon": -48.4310033
 }

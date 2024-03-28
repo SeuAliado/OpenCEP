@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirantes",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5230465,
+  "lon": -47.1318941
 }

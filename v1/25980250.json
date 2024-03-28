@@ -5,5 +5,7 @@
   "bairro": "Colônia Alpina",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.3709341,
+  "lon": -42.9576742
 }

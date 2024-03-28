@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.1275654,
+  "lon": -42.3612982
 }

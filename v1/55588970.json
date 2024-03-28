@@ -5,5 +5,7 @@
   "bairro": "Ibiratinga",
   "localidade": "Sirinhaém",
   "uf": "PE",
-  "ibge": "2614204"
+  "ibge": "2614204",
+  "lat": -8.5222477,
+  "lon": -35.2594567
 }

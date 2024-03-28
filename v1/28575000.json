@@ -5,5 +5,7 @@
   "bairro": "Jaguarembé",
   "localidade": "Itaocara",
   "uf": "RJ",
-  "ibge": "3302106"
+  "ibge": "3302106",
+  "lat": -21.7210554,
+  "lon": -41.9850839
 }

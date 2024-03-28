@@ -5,5 +5,7 @@
   "bairro": "Assari",
   "localidade": "Barra do Bugres",
   "uf": "MT",
-  "ibge": "5101704"
+  "ibge": "5101704",
+  "lat": -14.8757306,
+  "lon": -57.1766071
 }

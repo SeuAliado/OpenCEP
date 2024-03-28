@@ -5,5 +5,7 @@
   "bairro": "Barra do Furado",
   "localidade": "Quissamã",
   "uf": "RJ",
-  "ibge": "3304151"
+  "ibge": "3304151",
+  "lat": -22.0956079,
+  "lon": -41.1374391
 }

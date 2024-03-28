@@ -5,5 +5,7 @@
   "bairro": "Setor Flamboyant",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -16.6995441,
+  "lon": -49.1831501
 }

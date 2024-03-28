@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araújos",
   "uf": "MG",
-  "ibge": "3103900"
+  "ibge": "3103900",
+  "lat": -19.9509848,
+  "lon": -45.1702515
 }

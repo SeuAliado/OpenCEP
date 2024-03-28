@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -23.5704268,
+  "lon": -46.545591
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Isabel do Rio Negro",
   "uf": "AM",
-  "ibge": "1303601"
+  "ibge": "1303601",
+  "lat": -0.4126406,
+  "lon": -65.0198483
 }

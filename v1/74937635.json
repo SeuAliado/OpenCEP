@@ -5,5 +5,7 @@
   "bairro": "Conjunto Santa Fé",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7340999,
+  "lon": -49.2654025
 }

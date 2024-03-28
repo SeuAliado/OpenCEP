@@ -5,5 +5,7 @@
   "bairro": "Loteamento São Bento",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9718414,
+  "lon": -49.856264
 }

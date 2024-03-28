@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paial",
   "uf": "SC",
-  "ibge": "4211876"
+  "ibge": "4211876",
+  "lat": -27.2545922,
+  "lon": -52.4980258
 }

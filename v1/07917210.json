@@ -5,5 +5,7 @@
   "bairro": "Vila Borges",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2834871,
+  "lon": -46.743101
 }

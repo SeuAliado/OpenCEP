@@ -5,5 +5,7 @@
   "bairro": "Distrito de Canto Grande",
   "localidade": "Bombinhas",
   "uf": "SC",
-  "ibge": "4202453"
+  "ibge": "4202453",
+  "lat": -27.1998468,
+  "lon": -48.4968481
 }

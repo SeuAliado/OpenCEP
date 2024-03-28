@@ -5,5 +5,7 @@
   "bairro": "Jardim São Roberto",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.453718,
+  "lon": -46.522693
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte das Oliveiras",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -2.998078,
+  "lon": -59.9965382
 }

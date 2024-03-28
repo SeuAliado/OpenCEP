@@ -5,5 +5,7 @@
   "bairro": "Planalto Serrano",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.13487,
+  "lon": -40.2868458
 }

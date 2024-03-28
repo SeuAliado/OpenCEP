@@ -5,5 +5,7 @@
   "bairro": "Vila Nova York",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5788147,
+  "lon": -46.5060975
 }

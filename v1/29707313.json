@@ -5,5 +5,7 @@
   "bairro": "Luiz Iglesias",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5156803,
+  "lon": -40.6448756
 }

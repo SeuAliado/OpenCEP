@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus da Vitória",
   "localidade": "Santa Helena de Minas",
   "uf": "MG",
-  "ibge": "3157658"
+  "ibge": "3157658",
+  "lat": -16.9366536,
+  "lon": -40.6882024
 }

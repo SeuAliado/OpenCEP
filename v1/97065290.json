@@ -5,5 +5,7 @@
   "bairro": "Dom Antônio Reis",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.7177957,
+  "lon": -53.8050306
 }

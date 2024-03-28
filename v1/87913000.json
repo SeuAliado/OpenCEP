@@ -5,5 +5,7 @@
   "bairro": "São José do Ivaí",
   "localidade": "Santa Isabel do Ivaí",
   "uf": "PR",
-  "ibge": "4123709"
+  "ibge": "4123709",
+  "lat": -23.1336337,
+  "lon": -53.2794775
 }

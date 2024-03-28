@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Barra",
   "uf": "MG",
-  "ibge": "3162948"
+  "ibge": "3162948",
+  "lat": -20.6869882,
+  "lon": -46.3315148
 }

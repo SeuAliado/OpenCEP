@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Mônica",
   "uf": "PR",
-  "ibge": "4123956"
+  "ibge": "4123956",
+  "lat": -23.1559224,
+  "lon": -53.1104044
 }

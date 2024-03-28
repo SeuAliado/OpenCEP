@@ -5,5 +5,7 @@
   "bairro": "Tupaóca",
   "localidade": "Aliança",
   "uf": "PE",
-  "ibge": "2600708"
+  "ibge": "2600708",
+  "lat": -7.5707573,
+  "lon": -35.1584538
 }

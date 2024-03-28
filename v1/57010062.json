@@ -5,5 +5,7 @@
   "bairro": "Prado",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6695913,
+  "lon": -35.7469175
 }

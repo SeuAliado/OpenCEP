@@ -5,5 +5,7 @@
   "bairro": "Jardim Cachoeira",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6585732,
+  "lon": -43.4547772
 }

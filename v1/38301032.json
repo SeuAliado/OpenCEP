@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.956522,
+  "lon": -49.465807
 }

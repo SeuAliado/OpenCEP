@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5693564,
+  "lon": -46.5473112
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Niquelândia",
   "uf": "GO",
-  "ibge": "5214606"
+  "ibge": "5214606",
+  "lat": -14.4670392,
+  "lon": -48.454488
 }

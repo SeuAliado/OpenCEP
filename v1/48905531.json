@@ -5,5 +5,7 @@
   "bairro": "Dom Tomaz",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4412594,
+  "lon": -40.4887132
 }

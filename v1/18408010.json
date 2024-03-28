@@ -5,5 +5,7 @@
   "bairro": "Vila Boava",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9942141,
+  "lon": -48.9105139
 }

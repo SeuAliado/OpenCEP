@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto do Rodrigues",
   "uf": "RN",
-  "ibge": "2400703"
+  "ibge": "2400703",
+  "lat": -5.2822496,
+  "lon": -36.7503003
 }

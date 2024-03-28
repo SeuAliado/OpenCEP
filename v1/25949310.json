@@ -5,5 +5,7 @@
   "bairro": "Caneca Fina",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.5140169,
+  "lon": -42.9735979
 }

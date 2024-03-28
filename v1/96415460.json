@@ -5,5 +5,7 @@
   "bairro": "São Judas",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3336537,
+  "lon": -54.0800715
 }

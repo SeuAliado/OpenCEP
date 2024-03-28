@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vieiras",
   "uf": "MG",
-  "ibge": "3171402"
+  "ibge": "3171402",
+  "lat": -20.8674902,
+  "lon": -42.2404518
 }

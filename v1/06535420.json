@@ -5,5 +5,7 @@
   "bairro": "Cidade São Pedro - Gleba C",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.429408,
+  "lon": -46.8561856
 }

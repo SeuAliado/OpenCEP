@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Domingos das Dores",
   "uf": "MG",
-  "ibge": "3160959"
+  "ibge": "3160959",
+  "lat": -19.5276676,
+  "lon": -42.0137551
 }

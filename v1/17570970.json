@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Oriente",
   "uf": "SP",
-  "ibge": "3534104"
+  "ibge": "3534104",
+  "lat": -22.1505182,
+  "lon": -50.0921876
 }

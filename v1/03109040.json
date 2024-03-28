@@ -5,5 +5,7 @@
   "bairro": "Parque da Mooca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.571761,
+  "lon": -46.5979076
 }

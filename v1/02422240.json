@@ -5,5 +5,7 @@
   "bairro": "Conjunto dos Bancários",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4719137,
+  "lon": -46.6386259
 }

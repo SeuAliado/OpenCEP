@@ -5,5 +5,7 @@
   "bairro": "Jardim Freitas Júnior",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6331257,
+  "lon": -46.7977398
 }

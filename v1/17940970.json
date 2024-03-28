@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Mercedes",
   "uf": "SP",
-  "ibge": "3547106"
+  "ibge": "3547106",
+  "lat": -21.3529217,
+  "lon": -51.749031
 }

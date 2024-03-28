@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Santa Mônica",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.797303,
+  "lon": -48.1941296
 }

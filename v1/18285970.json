@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cesário Lange",
   "uf": "SP",
-  "ibge": "3511607"
+  "ibge": "3511607",
+  "lat": -23.2274576,
+  "lon": -47.9527314
 }

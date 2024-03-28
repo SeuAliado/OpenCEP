@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piquet Carneiro",
   "uf": "CE",
-  "ibge": "2310902"
+  "ibge": "2310902",
+  "lat": -5.8025727,
+  "lon": -39.4176223
 }

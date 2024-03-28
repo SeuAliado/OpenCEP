@@ -5,5 +5,7 @@
   "bairro": "Distrito de Umburetama",
   "localidade": "Orobó",
   "uf": "PE",
-  "ibge": "2609709"
+  "ibge": "2609709",
+  "lat": -7.6974023,
+  "lon": -35.6643309
 }

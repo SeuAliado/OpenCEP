@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaquirana",
   "uf": "RS",
-  "ibge": "4311122"
+  "ibge": "4311122",
+  "lat": -28.8826429,
+  "lon": -50.3600133
 }

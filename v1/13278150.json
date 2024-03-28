@@ -5,5 +5,7 @@
   "bairro": "Dois Córregos",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -23.005086,
+  "lon": -47.0085285
 }

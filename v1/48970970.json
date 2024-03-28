@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senhor do Bonfim",
   "uf": "BA",
-  "ibge": "2930105"
+  "ibge": "2930105",
+  "lat": -10.463527,
+  "lon": -40.1901186
 }

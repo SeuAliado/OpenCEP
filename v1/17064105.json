@@ -5,5 +5,7 @@
   "bairro": "Jardim Petrópolis",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3061178,
+  "lon": -49.0913563
 }

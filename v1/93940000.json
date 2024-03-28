@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lindolfo Collor",
   "uf": "RS",
-  "ibge": "4311627"
+  "ibge": "4311627",
+  "lat": -29.5743939,
+  "lon": -51.2108394
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jatobá",
   "uf": "PE",
-  "ibge": "2608057"
+  "ibge": "2608057",
+  "lat": -9.1847431,
+  "lon": -38.2706254
 }

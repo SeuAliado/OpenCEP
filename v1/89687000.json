@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Passos Maia",
   "uf": "SC",
-  "ibge": "4212270"
+  "ibge": "4212270",
+  "lat": -26.7803509,
+  "lon": -52.0605801
 }

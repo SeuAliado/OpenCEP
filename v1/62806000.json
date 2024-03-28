@@ -5,5 +5,7 @@
   "bairro": "Cabreiro",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "lat": -4.5750261,
+  "lon": -37.8746385
 }

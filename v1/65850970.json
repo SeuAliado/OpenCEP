@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mirador",
   "uf": "MA",
-  "ibge": "2106706"
+  "ibge": "2106706",
+  "lat": -6.3709656,
+  "lon": -44.3630393
 }

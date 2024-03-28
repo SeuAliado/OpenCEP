@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mateiros",
   "uf": "TO",
-  "ibge": "1712702"
+  "ibge": "1712702",
+  "lat": -10.3853667,
+  "lon": -46.4393054
 }

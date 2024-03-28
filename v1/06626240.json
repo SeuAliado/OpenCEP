@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5401207,
+  "lon": -46.9113245
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alpino",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.3019389,
+  "lon": -46.743311
 }

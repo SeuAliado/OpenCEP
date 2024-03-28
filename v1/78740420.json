@@ -5,5 +5,7 @@
   "bairro": "Colina Verde",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4839345,
+  "lon": -54.6115472
 }

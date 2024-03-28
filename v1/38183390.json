@@ -5,5 +5,7 @@
   "bairro": "Vila Silvéria",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6153893,
+  "lon": -46.9388672
 }

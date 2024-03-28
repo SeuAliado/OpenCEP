@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Potiraguá",
   "uf": "BA",
-  "ibge": "2925402"
+  "ibge": "2925402",
+  "lat": -15.5945144,
+  "lon": -39.8750462
 }

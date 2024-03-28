@@ -5,5 +5,7 @@
   "bairro": "Vila Celina",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9927889,
+  "lon": -47.8904732
 }

@@ -5,5 +5,7 @@
   "bairro": "Coelho",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8459896,
+  "lon": -42.9870974
 }

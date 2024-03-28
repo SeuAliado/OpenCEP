@@ -5,5 +5,7 @@
   "bairro": "Portal dos Gramados",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4223671,
+  "lon": -46.5430261
 }

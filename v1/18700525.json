@@ -5,5 +5,7 @@
   "bairro": "Residencial Armando Paula Assis",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1125037,
+  "lon": -48.9200141
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3916128,
+  "lon": -46.9468349
 }

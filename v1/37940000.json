@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alpinópolis",
   "uf": "MG",
-  "ibge": "3101904"
+  "ibge": "3101904",
+  "lat": -20.8609004,
+  "lon": -46.3865617
 }

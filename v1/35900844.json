@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6379859,
+  "lon": -43.2336608
 }

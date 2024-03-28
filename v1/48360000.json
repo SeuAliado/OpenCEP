@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Acajutiba",
   "uf": "BA",
-  "ibge": "2900306"
+  "ibge": "2900306",
+  "lat": -11.6281921,
+  "lon": -37.9996401
 }

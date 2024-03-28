@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Eliseu Martins",
   "uf": "PI",
-  "ibge": "2203602"
+  "ibge": "2203602",
+  "lat": -7.9551224,
+  "lon": -43.6759049
 }

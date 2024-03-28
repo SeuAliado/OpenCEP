@@ -5,5 +5,7 @@
   "bairro": "São João do Outeiro (Outeiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.256529,
+  "lon": -48.4612134
 }

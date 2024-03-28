@@ -5,5 +5,7 @@
   "bairro": "Daltro Filho",
   "localidade": "Tenente Portela",
   "uf": "RS",
-  "ibge": "4321402"
+  "ibge": "4321402",
+  "lat": -27.3903168,
+  "lon": -53.8123585
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial V",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.379334,
+  "lon": -51.4490783
 }

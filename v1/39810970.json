@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caraí",
   "uf": "MG",
-  "ibge": "3113008"
+  "ibge": "3113008",
+  "lat": -17.1863826,
+  "lon": -41.6963986
 }

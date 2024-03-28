@@ -5,5 +5,7 @@
   "bairro": "Guaecá",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.818483,
+  "lon": -45.464082
 }

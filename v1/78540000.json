@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cláudia",
   "uf": "MT",
-  "ibge": "5103056"
+  "ibge": "5103056",
+  "lat": -11.5079149,
+  "lon": -54.8839543
 }

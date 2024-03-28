@@ -5,5 +5,7 @@
   "bairro": "Caiva",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -22.8992544,
+  "lon": -42.4146225
 }

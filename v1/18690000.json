@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itatinga",
   "uf": "SP",
-  "ibge": "3523503"
+  "ibge": "3523503",
+  "lat": -23.1067087,
+  "lon": -48.6123867
 }

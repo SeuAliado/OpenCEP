@@ -5,5 +5,7 @@
   "bairro": "Vila Novo São Lucas",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9330533,
+  "lon": -43.9086112
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro da Água Branca",
   "uf": "MA",
-  "ibge": "2111532"
+  "ibge": "2111532",
+  "lat": -5.0845659,
+  "lon": -48.4310571
 }

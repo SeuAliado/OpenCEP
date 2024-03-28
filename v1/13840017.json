@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3726563,
+  "lon": -46.9433685
 }

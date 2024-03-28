@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Mogi Guaçu",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.2999376,
+  "lon": -46.9687067
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosa Branca",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3166965,
+  "lon": -49.1046062
 }

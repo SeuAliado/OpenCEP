@@ -5,5 +5,7 @@
   "bairro": "Vargem",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5438049,
+  "lon": -45.4225371
 }

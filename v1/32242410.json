@@ -5,5 +5,7 @@
   "bairro": "Parque Duval de Barros",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9738055,
+  "lon": -44.0663626
 }

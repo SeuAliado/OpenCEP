@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João de Pirabas",
   "uf": "PA",
-  "ibge": "1507474"
+  "ibge": "1507474",
+  "lat": -0.7805761,
+  "lon": -47.1814499
 }

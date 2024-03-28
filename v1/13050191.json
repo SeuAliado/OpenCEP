@@ -5,5 +5,7 @@
   "bairro": "Loteamento Country Ville",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9494064,
+  "lon": -47.0961664
 }

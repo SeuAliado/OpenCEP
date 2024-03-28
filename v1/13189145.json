@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim do Jatobá",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8542627,
+  "lon": -47.1963885
 }

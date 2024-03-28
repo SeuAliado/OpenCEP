@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bela Vista (Sambaetiba)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7098858,
+  "lon": -42.8043616
 }

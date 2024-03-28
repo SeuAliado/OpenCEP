@@ -5,5 +5,7 @@
   "bairro": "Triângulo Velho",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9965401,
+  "lon": -67.8077623
 }

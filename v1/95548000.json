@@ -5,5 +5,7 @@
   "bairro": "Quintão",
   "localidade": "Palmares do Sul",
   "uf": "RS",
-  "ibge": "4313656"
+  "ibge": "4313656",
+  "lat": -30.3356714,
+  "lon": -50.2662196
 }

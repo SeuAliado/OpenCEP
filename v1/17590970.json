@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Queiroz",
   "uf": "SP",
-  "ibge": "3541802"
+  "ibge": "3541802",
+  "lat": -21.8014792,
+  "lon": -50.2425403
 }

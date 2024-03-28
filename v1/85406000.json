@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Guaraniaçu",
   "uf": "PR",
-  "ibge": "4109302"
+  "ibge": "4109302",
+  "lat": -25.1087549,
+  "lon": -52.8561892
 }

@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -4.2666808,
+  "lon": -56.0008875
 }

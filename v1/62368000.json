@@ -5,5 +5,7 @@
   "bairro": "Lapa",
   "localidade": "Graça",
   "uf": "CE",
-  "ibge": "2304657"
+  "ibge": "2304657",
+  "lat": -4.084722,
+  "lon": -40.830278
 }

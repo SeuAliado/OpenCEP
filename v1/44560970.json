@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Macedo Costa",
   "uf": "BA",
-  "ibge": "2910206"
+  "ibge": "2910206",
+  "lat": -12.9066568,
+  "lon": -39.1905654
 }

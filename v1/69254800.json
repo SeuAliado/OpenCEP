@@ -5,5 +5,7 @@
   "bairro": "Purupuru",
   "localidade": "Careiro",
   "uf": "AM",
-  "ibge": "1301100"
+  "ibge": "1301100",
+  "lat": -3.8209599,
+  "lon": -60.364511
 }

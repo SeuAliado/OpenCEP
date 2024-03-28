@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Recreio",
   "uf": "MG",
-  "ibge": "3154101"
+  "ibge": "3154101",
+  "lat": -21.5259368,
+  "lon": -42.4701671
 }

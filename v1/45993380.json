@@ -5,5 +5,7 @@
   "bairro": "Liberdade I",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.5529453,
+  "lon": -39.7540427
 }

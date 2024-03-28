@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aratuípe",
   "uf": "BA",
-  "ibge": "2902302"
+  "ibge": "2902302",
+  "lat": -13.0778084,
+  "lon": -39.0008943
 }

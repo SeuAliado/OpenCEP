@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "lat": -12.4185781,
+  "lon": -41.7684043
 }

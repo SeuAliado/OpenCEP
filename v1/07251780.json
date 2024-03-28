@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Canaã",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4264472,
+  "lon": -46.4346306
 }

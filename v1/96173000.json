@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "São Lourenço do Sul",
   "uf": "RS",
-  "ibge": "4318804"
+  "ibge": "4318804",
+  "lat": -29.8163872,
+  "lon": -51.1392635
 }

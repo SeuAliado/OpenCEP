@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Bela Vista II",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6077489,
+  "lon": -48.8046755
 }

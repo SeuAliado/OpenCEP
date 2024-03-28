@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco de Assis",
   "uf": "RS",
-  "ibge": "4318101"
+  "ibge": "4318101",
+  "lat": -29.5604319,
+  "lon": -55.1245169
 }

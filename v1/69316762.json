@@ -5,5 +5,7 @@
   "bairro": "Pintolândia",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8007038,
+  "lon": -60.7490782
 }

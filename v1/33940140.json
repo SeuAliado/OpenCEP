@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bom Retiro (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.8201406,
+  "lon": -44.028437
 }

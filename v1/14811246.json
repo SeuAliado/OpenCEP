@@ -5,5 +5,7 @@
   "bairro": "Jardim América (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7801342,
+  "lon": -48.1500242
 }

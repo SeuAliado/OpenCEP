@@ -5,5 +5,7 @@
   "bairro": "Vitorinos",
   "localidade": "Alto Rio Doce",
   "uf": "MG",
-  "ibge": "3102100"
+  "ibge": "3102100",
+  "lat": -20.9853353,
+  "lon": -43.5374474
 }

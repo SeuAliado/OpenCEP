@@ -5,5 +5,7 @@
   "bairro": "Quinta",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.074301,
+  "lon": -52.2596098
 }

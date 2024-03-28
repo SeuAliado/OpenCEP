@@ -5,5 +5,7 @@
   "bairro": "Cosme e Damião",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3644514,
+  "lon": -40.5482678
 }

@@ -5,5 +5,7 @@
   "bairro": "Fontes",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3999173,
+  "lon": -46.3717272
 }

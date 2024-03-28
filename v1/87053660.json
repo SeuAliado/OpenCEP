@@ -5,5 +5,7 @@
   "bairro": "Parque Tarumã",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4640984,
+  "lon": -51.923862
 }

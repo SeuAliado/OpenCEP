@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caturama",
   "uf": "BA",
-  "ibge": "2907558"
+  "ibge": "2907558",
+  "lat": -13.2257165,
+  "lon": -42.2756861
 }

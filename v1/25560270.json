@@ -5,5 +5,7 @@
   "bairro": "Coelho da Rocha",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7662366,
+  "lon": -43.373478
 }

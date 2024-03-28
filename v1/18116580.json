@@ -5,5 +5,7 @@
   "bairro": "Jardim Clarice I",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5506249,
+  "lon": -47.4644025
 }

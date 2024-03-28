@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8025986,
+  "lon": -39.2683133
 }

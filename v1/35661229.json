@@ -5,5 +5,7 @@
   "bairro": "Vila Romualdo Pereira",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8206301,
+  "lon": -44.768846
 }

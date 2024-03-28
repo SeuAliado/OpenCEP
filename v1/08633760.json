@@ -5,5 +5,7 @@
   "bairro": "Chácara Boa Vista Palmeiras",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6571719,
+  "lon": -46.3148662
 }

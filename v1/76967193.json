@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4439308,
+  "lon": -61.4449054
 }

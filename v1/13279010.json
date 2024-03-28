@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -23.0088877,
+  "lon": -47.0278046
 }

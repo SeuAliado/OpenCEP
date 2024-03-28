@@ -5,5 +5,7 @@
   "bairro": "Setor Tradicional (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.619626,
+  "lon": -47.6603432
 }

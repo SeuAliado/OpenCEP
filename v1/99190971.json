@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pontão",
   "uf": "RS",
-  "ibge": "4314779"
+  "ibge": "4314779",
+  "lat": -28.063221,
+  "lon": -52.6746022
 }

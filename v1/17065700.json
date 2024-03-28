@@ -5,5 +5,7 @@
   "bairro": "Parque Val de Palmas",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3122466,
+  "lon": -49.1278341
 }

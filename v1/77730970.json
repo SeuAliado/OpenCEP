@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Pequizeiro",
   "uf": "TO",
-  "ibge": "1716653"
+  "ibge": "1716653",
+  "lat": -8.5964759,
+  "lon": -48.9334618
 }

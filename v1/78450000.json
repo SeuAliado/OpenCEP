@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Mutum",
   "uf": "MT",
-  "ibge": "5106224"
+  "ibge": "5106224",
+  "lat": -13.6704675,
+  "lon": -56.0249982
 }

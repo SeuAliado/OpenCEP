@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Macajuba",
   "uf": "BA",
-  "ibge": "2919603"
+  "ibge": "2919603",
+  "lat": -12.1405458,
+  "lon": -40.3607576
 }

@@ -5,5 +5,7 @@
   "bairro": "Guagiru",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.7003178,
+  "lon": -38.6458402
 }

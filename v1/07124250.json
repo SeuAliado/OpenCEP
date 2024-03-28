@@ -5,5 +5,7 @@
   "bairro": "Vila Bancária",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.439422,
+  "lon": -46.5343649
 }

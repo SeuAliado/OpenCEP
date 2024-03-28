@@ -5,5 +5,7 @@
   "bairro": "Brooklin Novo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6179883,
+  "lon": -46.6802012
 }

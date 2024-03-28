@@ -5,5 +5,7 @@
   "bairro": "Imigrantes",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2334139,
+  "lon": -52.0157267
 }

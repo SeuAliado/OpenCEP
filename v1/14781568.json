@@ -5,5 +5,7 @@
   "bairro": "São Salvador",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5565802,
+  "lon": -48.5601028
 }

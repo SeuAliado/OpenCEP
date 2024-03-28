@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapark",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6759012,
+  "lon": -46.438103
 }

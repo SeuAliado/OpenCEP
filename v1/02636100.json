@@ -5,5 +5,7 @@
   "bairro": "Jardim Itatinga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4517041,
+  "lon": -46.6433169
 }

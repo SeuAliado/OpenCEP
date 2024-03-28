@@ -5,5 +5,7 @@
   "bairro": "Lago dos Cisnes",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7265673,
+  "lon": -39.8449343
 }

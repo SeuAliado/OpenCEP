@@ -5,5 +5,7 @@
   "bairro": "Plano Diretor Sul",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.2452448,
+  "lon": -48.3413434
 }

@@ -5,5 +5,7 @@
   "bairro": "Torquato Severo",
   "localidade": "Dom Pedrito",
   "uf": "RS",
-  "ibge": "4306601"
+  "ibge": "4306601",
+  "lat": -30.9730442,
+  "lon": -54.6619299
 }

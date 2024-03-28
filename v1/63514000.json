@@ -5,5 +5,7 @@
   "bairro": "José de Alencar",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3570093,
+  "lon": -39.2962028
 }

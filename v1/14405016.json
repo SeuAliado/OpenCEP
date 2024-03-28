@@ -5,5 +5,7 @@
   "bairro": "Jardim Francano",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5428177,
+  "lon": -47.4111512
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio da Fortaleza",
   "localidade": "Ferros",
   "uf": "MG",
-  "ibge": "3125903"
+  "ibge": "3125903",
+  "lat": -19.1649194,
+  "lon": -42.8962663
 }

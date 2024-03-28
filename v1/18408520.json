@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre II",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.988461,
+  "lon": -48.9003948
 }

@@ -5,5 +5,7 @@
   "bairro": "Estância Rio Grande",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.7541178,
+  "lon": -46.369012
 }

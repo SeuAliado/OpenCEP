@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poxoréu",
   "uf": "MT",
-  "ibge": "5107008"
+  "ibge": "5107008",
+  "lat": -15.8375348,
+  "lon": -54.3875262
 }

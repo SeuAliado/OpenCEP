@@ -5,5 +5,7 @@
   "bairro": "Cerne",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.3725842,
+  "lon": -49.4355014
 }

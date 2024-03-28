@@ -5,5 +5,7 @@
   "bairro": "Alto da Terezinha",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8870833,
+  "lon": -38.4711007
 }

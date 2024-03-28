@@ -5,5 +5,7 @@
   "bairro": "Barbados",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5417298,
+  "lon": -40.6257029
 }

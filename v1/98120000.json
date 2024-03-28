@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Vista do Incra",
   "uf": "RS",
-  "ibge": "4302238"
+  "ibge": "4302238",
+  "lat": -28.8191933,
+  "lon": -53.3871619
 }

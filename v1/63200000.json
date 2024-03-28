@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Missão Velha",
   "uf": "CE",
-  "ibge": "2308401"
+  "ibge": "2308401",
+  "lat": -7.2496801,
+  "lon": -39.1402612
 }

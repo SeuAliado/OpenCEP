@@ -5,5 +5,7 @@
   "bairro": "Vila Ré",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.533483,
+  "lon": -46.4942412
 }

@@ -5,5 +5,7 @@
   "bairro": "Barra",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0081757,
+  "lon": -38.517379
 }

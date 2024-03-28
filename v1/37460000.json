@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Passa Quatro",
   "uf": "MG",
-  "ibge": "3147600"
+  "ibge": "3147600",
+  "lat": -22.3875671,
+  "lon": -44.9713549
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Bitaru",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9726432,
+  "lon": -46.3954564
 }

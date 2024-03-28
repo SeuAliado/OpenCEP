@@ -5,5 +5,7 @@
   "bairro": "Silvestre",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7165377,
+  "lon": -46.8001153
 }

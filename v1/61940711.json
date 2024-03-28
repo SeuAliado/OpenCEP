@@ -5,5 +5,7 @@
   "bairro": "Gavião",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.8944546,
+  "lon": -38.6911772
 }

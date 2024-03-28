@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8525542,
+  "lon": -43.8870402
 }

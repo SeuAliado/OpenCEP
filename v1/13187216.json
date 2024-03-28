@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Cambuí",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8899613,
+  "lon": -47.2107647
 }

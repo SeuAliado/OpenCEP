@@ -5,5 +5,7 @@
   "bairro": "Jardim Vera",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4244703,
+  "lon": -46.5169784
 }

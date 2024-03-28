@@ -5,5 +5,7 @@
   "bairro": "Jardim Ártico",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8107069,
+  "lon": -48.177469
 }

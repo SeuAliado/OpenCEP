@@ -5,5 +5,7 @@
   "bairro": "Itapeaçu",
   "localidade": "Urucurituba",
   "uf": "AM",
-  "ibge": "1304401"
+  "ibge": "1304401",
+  "lat": -2.9597291,
+  "lon": -58.0610629
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Angico",
   "uf": "TO",
-  "ibge": "1701051"
+  "ibge": "1701051",
+  "lat": -6.3921823,
+  "lon": -47.8615637
 }

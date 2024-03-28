@@ -5,5 +5,7 @@
   "bairro": "Lagoa Dourada I",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5594549,
+  "lon": -44.9678258
 }

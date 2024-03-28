@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Félix do Tocantins",
   "uf": "TO",
-  "ibge": "1720150"
+  "ibge": "1720150",
+  "lat": -9.9954161,
+  "lon": -46.5933382
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rochedo de Minas",
   "uf": "MG",
-  "ibge": "3156205"
+  "ibge": "3156205",
+  "lat": -21.628496,
+  "lon": -43.0193232
 }

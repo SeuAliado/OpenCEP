@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5208535,
+  "lon": -46.6454379
 }

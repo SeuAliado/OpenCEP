@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Santo",
   "uf": "BA",
-  "ibge": "2921500"
+  "ibge": "2921500",
+  "lat": -10.438662,
+  "lon": -39.3330248
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marilena",
   "uf": "PR",
-  "ibge": "4115002"
+  "ibge": "4115002",
+  "lat": -22.7374071,
+  "lon": -53.0673905
 }

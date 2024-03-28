@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmelo",
   "uf": "GO",
-  "ibge": "5215801"
+  "ibge": "5215801",
+  "lat": -17.3178772,
+  "lon": -48.4088007
 }

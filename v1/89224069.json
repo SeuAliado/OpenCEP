@@ -5,5 +5,7 @@
   "bairro": "Jardim Iririú",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "lat": -26.25681,
+  "lon": -48.811071
 }

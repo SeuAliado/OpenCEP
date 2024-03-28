@@ -5,5 +5,7 @@
   "bairro": "Alta Villa",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9296415,
+  "lon": -44.1962656
 }

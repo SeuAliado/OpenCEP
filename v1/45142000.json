@@ -5,5 +5,7 @@
   "bairro": "São José do Colônia",
   "localidade": "Itambé",
   "uf": "BA",
-  "ibge": "2915809"
+  "ibge": "2915809",
+  "lat": -15.244212,
+  "lon": -40.6209315
 }

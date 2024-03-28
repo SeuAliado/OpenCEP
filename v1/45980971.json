@@ -5,5 +5,7 @@
   "bairro": "Guarani",
   "localidade": "Prado",
   "uf": "BA",
-  "ibge": "2925501"
+  "ibge": "2925501",
+  "lat": -17.108049,
+  "lon": -39.4456104
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alexandre Campos",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7504823,
+  "lon": -47.9400052
 }

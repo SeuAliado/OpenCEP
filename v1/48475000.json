@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapicuru",
   "uf": "BA",
-  "ibge": "2916500"
+  "ibge": "2916500",
+  "lat": -11.2362892,
+  "lon": -38.2322028
 }

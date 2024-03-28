@@ -5,5 +5,7 @@
   "bairro": "São Fernando Residência",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5468146,
+  "lon": -46.8767654
 }

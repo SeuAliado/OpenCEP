@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Terezinha",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8158907,
+  "lon": -47.2573316
 }

@@ -5,5 +5,7 @@
   "bairro": "Madri",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.642294,
+  "lon": -48.6952323
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Irani",
   "uf": "SC",
-  "ibge": "4207809"
+  "ibge": "4207809",
+  "lat": -27.0440136,
+  "lon": -51.9156992
 }

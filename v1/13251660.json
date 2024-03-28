@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Abramo Delforno",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.9886363,
+  "lon": -46.8319231
 }

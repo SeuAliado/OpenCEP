@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cacequi",
   "uf": "RS",
-  "ibge": "4302907"
+  "ibge": "4302907",
+  "lat": -29.8801552,
+  "lon": -54.8265622
 }

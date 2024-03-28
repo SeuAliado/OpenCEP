@@ -5,5 +5,7 @@
   "bairro": "Nova Votorantim",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5353817,
+  "lon": -47.4094018
 }

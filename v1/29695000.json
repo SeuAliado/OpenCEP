@@ -5,5 +5,7 @@
   "bairro": "Itaimbé",
   "localidade": "Itaguaçu",
   "uf": "ES",
-  "ibge": "3202702"
+  "ibge": "3202702",
+  "lat": -19.6650857,
+  "lon": -40.8364159
 }

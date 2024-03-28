@@ -5,5 +5,7 @@
   "bairro": "Pedras Brancas",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3421808,
+  "lon": -54.0808624
 }

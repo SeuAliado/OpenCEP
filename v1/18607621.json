@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8902505,
+  "lon": -48.4732403
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa",
   "uf": "PB",
-  "ibge": "2508109"
+  "ibge": "2508109",
+  "lat": -6.59088,
+  "lon": -37.9153693
 }

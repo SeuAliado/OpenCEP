@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Barão do Café",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8052683,
+  "lon": -47.0809739
 }

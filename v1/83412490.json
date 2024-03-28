@@ -5,5 +5,7 @@
   "bairro": "Canguiri",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3770768,
+  "lon": -49.1442612
 }

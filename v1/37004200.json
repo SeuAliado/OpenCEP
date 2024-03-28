@@ -5,5 +5,7 @@
   "bairro": "Vila Ipiranga",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5573872,
+  "lon": -45.4288058
 }

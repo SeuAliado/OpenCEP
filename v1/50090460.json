@@ -5,5 +5,7 @@
   "bairro": "Cabanga",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.079479,
+  "lon": -34.9012344
 }

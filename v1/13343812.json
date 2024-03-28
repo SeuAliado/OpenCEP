@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1065507,
+  "lon": -47.2077896
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Wall Ferraz",
   "uf": "PI",
-  "ibge": "2211704"
+  "ibge": "2211704",
+  "lat": -7.2319151,
+  "lon": -41.9054119
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro (S-01)",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7484848,
+  "lon": -60.1308417
 }

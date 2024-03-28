@@ -5,5 +5,7 @@
   "bairro": "Vila Alpina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5979148,
+  "lon": -46.5546561
 }

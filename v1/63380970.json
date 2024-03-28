@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "lat": -7.1778132,
+  "lon": -38.7790099
 }

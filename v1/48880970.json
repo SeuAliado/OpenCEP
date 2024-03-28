@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santaluz",
   "uf": "BA",
-  "ibge": "2928000"
+  "ibge": "2928000",
+  "lat": -11.2582842,
+  "lon": -39.3743097
 }

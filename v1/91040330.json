@@ -5,5 +5,7 @@
   "bairro": "Cristo Redentor",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0086067,
+  "lon": -51.1626439
 }

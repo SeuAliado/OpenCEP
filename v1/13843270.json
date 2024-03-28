@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Itacolomi",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3890094,
+  "lon": -46.9414089
 }

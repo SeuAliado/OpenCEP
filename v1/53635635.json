@@ -5,5 +5,7 @@
   "bairro": "Rubina",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8788752,
+  "lon": -34.9104711
 }

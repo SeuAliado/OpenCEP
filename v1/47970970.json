@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riachão das Neves",
   "uf": "BA",
-  "ibge": "2926202"
+  "ibge": "2926202",
+  "lat": -11.7491191,
+  "lon": -44.9118009
 }

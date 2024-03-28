@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibipeba",
   "uf": "BA",
-  "ibge": "2912400"
+  "ibge": "2912400",
+  "lat": -11.5746147,
+  "lon": -42.1967716
 }

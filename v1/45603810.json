@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7772519,
+  "lon": -39.2727247
 }

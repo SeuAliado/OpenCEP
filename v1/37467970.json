@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Sebastião do Rio Verde",
   "uf": "MG",
-  "ibge": "3164902"
+  "ibge": "3164902",
+  "lat": -22.2180472,
+  "lon": -44.977493
 }

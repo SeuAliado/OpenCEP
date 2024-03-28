@@ -5,5 +5,7 @@
   "bairro": "Cidade Verde",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9853356,
+  "lon": -44.1963001
 }

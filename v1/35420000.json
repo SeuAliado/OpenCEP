@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "lat": -20.3652719,
+  "lon": -43.4150073
 }

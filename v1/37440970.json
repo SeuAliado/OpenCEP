@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caxambu",
   "uf": "MG",
-  "ibge": "3115508"
+  "ibge": "3115508",
+  "lat": -21.9825281,
+  "lon": -44.9357651
 }

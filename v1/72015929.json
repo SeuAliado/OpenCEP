@@ -5,5 +5,7 @@
   "bairro": "Taguatinga Sul (Taguatinga)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8354282,
+  "lon": -48.0513299
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Açu",
   "uf": "RN",
-  "ibge": "2400208"
+  "ibge": "2400208",
+  "lat": -5.572743,
+  "lon": -36.90658
 }

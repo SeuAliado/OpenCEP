@@ -5,5 +5,7 @@
   "bairro": "Massaranduba",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9256508,
+  "lon": -38.4998068
 }

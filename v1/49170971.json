@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Laranjeiras",
   "uf": "SE",
-  "ibge": "2803609"
+  "ibge": "2803609",
+  "lat": -5.145976,
+  "lon": -42.7679568
 }

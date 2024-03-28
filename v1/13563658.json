@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9894382,
+  "lon": -47.9318107
 }

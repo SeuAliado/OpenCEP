@@ -5,5 +5,7 @@
   "bairro": "Vila Galvão",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7982939,
+  "lon": -45.1968497
 }

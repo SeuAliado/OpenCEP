@@ -5,5 +5,7 @@
   "bairro": "Vila Amélia",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5289307,
+  "lon": -46.349381
 }

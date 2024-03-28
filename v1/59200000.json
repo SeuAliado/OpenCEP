@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz",
   "uf": "RN",
-  "ibge": "2411205"
+  "ibge": "2411205",
+  "lat": -6.2239132,
+  "lon": -36.0202284
 }

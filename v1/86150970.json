@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alvorada do Sul",
   "uf": "PR",
-  "ibge": "4100806"
+  "ibge": "4100806",
+  "lat": -22.7807509,
+  "lon": -51.2327722
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jacy",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4726374,
+  "lon": -46.3978759
 }

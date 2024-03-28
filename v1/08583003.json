@@ -5,5 +5,7 @@
   "bairro": "Parque Piratininga",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4386192,
+  "lon": -46.3821368
 }

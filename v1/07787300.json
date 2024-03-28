@@ -5,5 +5,7 @@
   "bairro": "Colina Maria Luíza (Jordanésia)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.3403473,
+  "lon": -46.8260181
 }

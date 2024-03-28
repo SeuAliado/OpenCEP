@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Formosa do Rio Preto",
   "uf": "BA",
-  "ibge": "2911105"
+  "ibge": "2911105",
+  "lat": -11.0402019,
+  "lon": -45.1942855
 }

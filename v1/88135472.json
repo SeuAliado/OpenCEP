@@ -5,5 +5,7 @@
   "bairro": "Aririú",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.6785864,
+  "lon": -48.6979946
 }

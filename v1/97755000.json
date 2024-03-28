@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Unistalda",
   "uf": "RS",
-  "ibge": "4322376"
+  "ibge": "4322376",
+  "lat": -29.0748484,
+  "lon": -55.1817407
 }

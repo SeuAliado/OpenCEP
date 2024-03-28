@@ -5,5 +5,7 @@
   "bairro": "Senador Mourão",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "lat": -17.6538262,
+  "lon": -43.3182486
 }

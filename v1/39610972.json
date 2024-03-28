@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itinga",
   "uf": "MG",
-  "ibge": "3134004"
+  "ibge": "3134004",
+  "lat": -16.6082549,
+  "lon": -41.7677538
 }

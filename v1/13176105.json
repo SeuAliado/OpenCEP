@@ -5,5 +5,7 @@
   "bairro": "Chácara Estrela D'Alva",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8819338,
+  "lon": -47.2962474
 }

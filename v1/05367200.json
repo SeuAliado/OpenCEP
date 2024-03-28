@@ -5,5 +5,7 @@
   "bairro": "Jardim Santos Dumont",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.574583,
+  "lon": -46.7544966
 }

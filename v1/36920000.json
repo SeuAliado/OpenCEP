@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Reduto",
   "uf": "MG",
-  "ibge": "3154150"
+  "ibge": "3154150",
+  "lat": -20.2405764,
+  "lon": -41.985232
 }

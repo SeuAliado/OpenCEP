@@ -5,5 +5,7 @@
   "bairro": "José Carlos de Oliveira",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.2768558,
+  "lon": -36.0069726
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Oscar Passos",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9626935,
+  "lon": -67.8372701
 }

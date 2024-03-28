@@ -5,5 +5,7 @@
   "bairro": "Três Córregos",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.351541,
+  "lon": -42.942945
 }

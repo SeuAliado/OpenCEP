@@ -5,5 +5,7 @@
   "bairro": "Ingahi",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5314996,
+  "lon": -46.97711
 }

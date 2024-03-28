@@ -5,5 +5,7 @@
   "bairro": "Ponte Firme",
   "localidade": "Presidente Olegário",
   "uf": "MG",
-  "ibge": "3153400"
+  "ibge": "3153400",
+  "lat": -18.4100775,
+  "lon": -46.4169319
 }

@@ -5,5 +5,7 @@
   "bairro": "José Maia Costa",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.4191737,
+  "lon": -36.6201607
 }

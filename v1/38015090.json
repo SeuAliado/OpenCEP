@@ -5,5 +5,7 @@
   "bairro": "Estados Unidos",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7366985,
+  "lon": -47.8977736
 }

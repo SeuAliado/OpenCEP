@@ -5,5 +5,7 @@
   "bairro": "Parque Araguari",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "lat": -16.1069357,
+  "lon": -47.9270347
 }

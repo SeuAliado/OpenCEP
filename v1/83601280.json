@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora do Carmo",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4737298,
+  "lon": -49.534579
 }

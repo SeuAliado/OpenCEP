@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4712263,
+  "lon": -54.5781042
 }

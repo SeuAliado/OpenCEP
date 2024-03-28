@@ -5,5 +5,7 @@
   "bairro": "Jardim Patriarca",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1528042,
+  "lon": -47.7645913
 }

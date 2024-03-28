@@ -5,5 +5,7 @@
   "bairro": "Jardim Marajá",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1827586,
+  "lon": -49.9649447
 }

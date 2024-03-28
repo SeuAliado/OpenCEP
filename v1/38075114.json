@@ -5,5 +5,7 @@
   "bairro": "Portal do Sol",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -18.9226499,
+  "lon": -48.2617388
 }

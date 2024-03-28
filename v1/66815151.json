@@ -5,5 +5,7 @@
   "bairro": "Maracacuera (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3219582,
+  "lon": -48.4460447
 }

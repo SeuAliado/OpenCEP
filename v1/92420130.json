@@ -5,5 +5,7 @@
   "bairro": "São Luis",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "lat": -29.8858549,
+  "lon": -51.1850832
 }

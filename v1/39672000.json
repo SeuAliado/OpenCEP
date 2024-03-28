@@ -5,5 +5,7 @@
   "bairro": "Padre João Afonso",
   "localidade": "Itamarandiba",
   "uf": "MG",
-  "ibge": "3132503"
+  "ibge": "3132503",
+  "lat": -17.9809049,
+  "lon": -42.6503533
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Teutônia",
   "localidade": "Seara",
   "uf": "SC",
-  "ibge": "4217501"
+  "ibge": "4217501",
+  "lat": -27.1510455,
+  "lon": -52.3097466
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vilage",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.3752627,
+  "lon": -47.5540008
 }

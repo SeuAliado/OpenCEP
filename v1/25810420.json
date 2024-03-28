@@ -5,5 +5,7 @@
   "bairro": "Santa Teresinha",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -20.5360389,
+  "lon": -48.5660903
 }

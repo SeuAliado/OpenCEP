@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.2162145,
+  "lon": -39.3322485
 }

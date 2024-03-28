@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mário Campos",
   "uf": "MG",
-  "ibge": "3140159"
+  "ibge": "3140159",
+  "lat": -20.0498359,
+  "lon": -44.1879119
 }

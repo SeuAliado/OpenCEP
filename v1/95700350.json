@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.170691,
+  "lon": -51.5146971
 }

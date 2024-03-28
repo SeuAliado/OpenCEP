@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.8992864,
+  "lon": -63.0373571
 }

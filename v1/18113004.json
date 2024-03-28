@@ -5,5 +5,7 @@
   "bairro": "Altos da Fortaleza",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5339577,
+  "lon": -47.4172111
 }

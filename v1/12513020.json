@@ -5,5 +5,7 @@
   "bairro": "São Dimas",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7821651,
+  "lon": -45.2007105
 }

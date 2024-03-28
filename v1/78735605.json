@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Clara",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4726186,
+  "lon": -54.5952476
 }

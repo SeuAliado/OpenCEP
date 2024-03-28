@@ -5,5 +5,7 @@
   "bairro": "Aterrado",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4428033,
+  "lon": -46.9562896
 }

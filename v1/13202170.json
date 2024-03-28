@@ -5,5 +5,7 @@
   "bairro": "Vila de Vecchi",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.209528,
+  "lon": -46.8673824
 }

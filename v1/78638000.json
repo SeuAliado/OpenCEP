@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Nazaré",
   "uf": "MT",
-  "ibge": "5106174"
+  "ibge": "5106174",
+  "lat": -13.9900283,
+  "lon": -51.7993431
 }

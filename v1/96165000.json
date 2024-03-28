@@ -5,5 +5,7 @@
   "bairro": "Passo das Pedras",
   "localidade": "Capão do Leão",
   "uf": "RS",
-  "ibge": "4304663"
+  "ibge": "4304663",
+  "lat": -30.0456085,
+  "lon": -51.1493792
 }

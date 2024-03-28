@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.476673,
+  "lon": -54.6453458
 }

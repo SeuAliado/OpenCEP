@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Josenópolis",
   "uf": "MG",
-  "ibge": "3136579"
+  "ibge": "3136579",
+  "lat": -16.5650366,
+  "lon": -42.5901672
 }

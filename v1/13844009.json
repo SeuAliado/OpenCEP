@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Júlia",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.375832,
+  "lon": -46.9417226
 }

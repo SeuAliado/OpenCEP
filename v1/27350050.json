@@ -5,5 +5,7 @@
   "bairro": "Saudade",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5322766,
+  "lon": -44.1891734
 }

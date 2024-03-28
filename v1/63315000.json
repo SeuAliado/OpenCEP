@@ -5,5 +5,7 @@
   "bairro": "Pio X",
   "localidade": "Umari",
   "uf": "CE",
-  "ibge": "2313708"
+  "ibge": "2313708",
+  "lat": -6.64691,
+  "lon": -38.699634
 }

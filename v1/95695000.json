@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riozinho",
   "uf": "RS",
-  "ibge": "4315750"
+  "ibge": "4315750",
+  "lat": -29.6417198,
+  "lon": -50.4542069
 }

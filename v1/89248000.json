@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Garuva",
   "uf": "SC",
-  "ibge": "4205803"
+  "ibge": "4205803",
+  "lat": -26.0296737,
+  "lon": -48.8555034
 }

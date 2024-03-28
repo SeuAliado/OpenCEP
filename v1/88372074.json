@@ -5,5 +5,7 @@
   "bairro": "Meia Praia",
   "localidade": "Navegantes",
   "uf": "SC",
-  "ibge": "4211306"
+  "ibge": "4211306",
+  "lat": -26.8695713,
+  "lon": -48.6394289
 }

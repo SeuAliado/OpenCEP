@@ -5,5 +5,7 @@
   "bairro": "Ponta D'Areia",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8823828,
+  "lon": -43.1241151
 }

@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.431453,
+  "lon": -45.4439333
 }

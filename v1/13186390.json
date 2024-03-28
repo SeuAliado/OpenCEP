@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara do Lago I",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8890986,
+  "lon": -47.1963882
 }

@@ -5,5 +5,7 @@
   "bairro": "Super Quadra Morumbi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.617136,
+  "lon": -46.74553
 }

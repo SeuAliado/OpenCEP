@@ -5,5 +5,7 @@
   "bairro": "Café",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "lat": -20.7761027,
+  "lon": -41.5336067
 }

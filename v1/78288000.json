@@ -5,5 +5,7 @@
   "bairro": "Santa Fé",
   "localidade": "São José dos Quatro Marcos",
   "uf": "MT",
-  "ibge": "5107107"
+  "ibge": "5107107",
+  "lat": -15.6364316,
+  "lon": -58.189849
 }

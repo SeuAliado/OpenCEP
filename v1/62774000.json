@@ -5,5 +5,7 @@
   "bairro": "Colina",
   "localidade": "Pacoti",
   "uf": "CE",
-  "ibge": "2309805"
+  "ibge": "2309805",
+  "lat": -4.2253011,
+  "lon": -38.9223587
 }

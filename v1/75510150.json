@@ -5,5 +5,7 @@
   "bairro": "Social",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4124431,
+  "lon": -49.2195931
 }

@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3416862,
+  "lon": -40.3850262
 }

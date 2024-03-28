@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5322393,
+  "lon": -47.1576492
 }

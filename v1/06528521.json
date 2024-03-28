@@ -5,5 +5,7 @@
   "bairro": "Jardim Arco Íris",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.405827,
+  "lon": -46.89787
 }

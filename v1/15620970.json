@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macedônia",
   "uf": "SP",
-  "ibge": "3528205"
+  "ibge": "3528205",
+  "lat": -20.1437051,
+  "lon": -50.1929829
 }

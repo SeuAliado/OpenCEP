@@ -5,5 +5,7 @@
   "bairro": "Antônio Ferreira",
   "localidade": "Franciscópolis",
   "uf": "MG",
-  "ibge": "3126752"
+  "ibge": "3126752",
+  "lat": -17.9582404,
+  "lon": -42.0097738
 }

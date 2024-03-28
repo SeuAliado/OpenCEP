@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Alcir Raineri",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1603306,
+  "lon": -49.9464298
 }

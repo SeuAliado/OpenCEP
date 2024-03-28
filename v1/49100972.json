@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Cristóvão",
   "uf": "SE",
-  "ibge": "2806701"
+  "ibge": "2806701",
+  "lat": -27.0031845,
+  "lon": -51.164583
 }

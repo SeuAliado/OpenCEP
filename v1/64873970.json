@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sebastião Leal",
   "uf": "PI",
-  "ibge": "2210631"
+  "ibge": "2210631",
+  "lat": -7.5682709,
+  "lon": -44.0635363
 }

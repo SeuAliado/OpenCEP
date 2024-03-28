@@ -5,5 +5,7 @@
   "bairro": "Jardim Sempre Verde",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3107581,
+  "lon": -48.5381952
 }

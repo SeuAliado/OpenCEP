@@ -5,5 +5,7 @@
   "bairro": "Vila Itiberê",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5349853,
+  "lon": -48.524437
 }

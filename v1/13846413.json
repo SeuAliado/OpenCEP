@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê VIII",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3178685,
+  "lon": -46.9528149
 }

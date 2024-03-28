@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0089799,
+  "lon": -44.3200287
 }

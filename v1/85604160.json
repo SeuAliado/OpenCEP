@@ -5,5 +5,7 @@
   "bairro": "Guanabara",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.0651645,
+  "lon": -53.0489536
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Aliança",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1150965,
+  "lon": -42.8458865
 }

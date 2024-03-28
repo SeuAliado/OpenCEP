@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8536257,
+  "lon": -38.5763346
 }

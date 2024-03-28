@@ -5,5 +5,7 @@
   "bairro": "Vila dos Comerciários I",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0041066,
+  "lon": -45.5852598
 }

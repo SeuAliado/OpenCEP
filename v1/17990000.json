@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paulicéia",
   "uf": "SP",
-  "ibge": "3536406"
+  "ibge": "3536406",
+  "lat": -21.3157294,
+  "lon": -51.8325787
 }

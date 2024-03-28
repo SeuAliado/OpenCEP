@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Quinze",
   "localidade": "Nova Venécia",
   "uf": "ES",
-  "ibge": "3203908"
+  "ibge": "3203908",
+  "lat": -18.7155118,
+  "lon": -40.4056433
 }

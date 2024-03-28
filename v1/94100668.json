@@ -5,5 +5,7 @@
   "bairro": "Águas Mortas",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9009582,
+  "lon": -51.0616251
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aveiro",
   "uf": "PA",
-  "ibge": "1501006"
+  "ibge": "1501006",
+  "lat": -3.6087856,
+  "lon": -55.3204125
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Denise",
   "uf": "MT",
-  "ibge": "5103452"
+  "ibge": "5103452",
+  "lat": -14.7479574,
+  "lon": -56.9661233
 }

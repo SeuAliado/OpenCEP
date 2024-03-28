@@ -5,5 +5,7 @@
   "bairro": "Itaim",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2653238,
+  "lon": -47.3088052
 }

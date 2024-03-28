@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.9203399,
+  "lon": -38.6190891
 }

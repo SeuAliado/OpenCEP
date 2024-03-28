@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Fernando I",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6654819,
+  "lon": -49.1898943
 }

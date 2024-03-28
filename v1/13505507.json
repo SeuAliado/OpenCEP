@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial São José",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.3808122,
+  "lon": -47.5781106
 }

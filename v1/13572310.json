@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Tereza",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0391654,
+  "lon": -47.9009089
 }

@@ -5,5 +5,7 @@
   "bairro": "Renascença",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.7061383,
+  "lon": -53.8343664
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Getúlio Vargas",
   "uf": "RS",
-  "ibge": "4308904"
+  "ibge": "4308904",
+  "lat": -27.8884044,
+  "lon": -52.2258411
 }

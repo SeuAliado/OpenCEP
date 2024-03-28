@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uruburetama",
   "uf": "CE",
-  "ibge": "2313807"
+  "ibge": "2313807",
+  "lat": -3.6247046,
+  "lon": -39.5051122
 }

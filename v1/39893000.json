@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Formoso",
   "uf": "MG",
-  "ibge": "3143153"
+  "ibge": "3143153",
+  "lat": -16.8676432,
+  "lon": -41.2554566
 }

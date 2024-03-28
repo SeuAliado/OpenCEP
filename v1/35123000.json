@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capitão Andrade",
   "uf": "MG",
-  "ibge": "3112653"
+  "ibge": "3112653",
+  "lat": -19.0753162,
+  "lon": -41.861807
 }

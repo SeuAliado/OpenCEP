@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6768817,
+  "lon": -43.5774885
 }

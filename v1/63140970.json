@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Assaré",
   "uf": "CE",
-  "ibge": "2301604"
+  "ibge": "2301604",
+  "lat": -6.8741141,
+  "lon": -39.8717219
 }

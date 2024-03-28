@@ -5,5 +5,7 @@
   "bairro": "Sítio Cercado",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.5491552,
+  "lon": -49.2521765
 }

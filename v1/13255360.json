@@ -5,5 +5,7 @@
   "bairro": "Jardim da Luz",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0183827,
+  "lon": -46.8430408
 }

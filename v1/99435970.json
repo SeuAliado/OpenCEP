@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campos Borges",
   "uf": "RS",
-  "ibge": "4304101"
+  "ibge": "4304101",
+  "lat": -28.8900013,
+  "lon": -53.0025974
 }

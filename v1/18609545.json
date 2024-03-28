@@ -5,5 +5,7 @@
   "bairro": "Vila Carmelo",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8694628,
+  "lon": -48.4494858
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Magali",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4309702,
+  "lon": -46.8139778
 }

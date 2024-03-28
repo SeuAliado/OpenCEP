@@ -5,5 +5,7 @@
   "bairro": "Jardim Serra Dourada I",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4264317,
+  "lon": -54.636728
 }

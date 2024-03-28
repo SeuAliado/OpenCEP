@@ -5,5 +5,7 @@
   "bairro": "Padre Júlio Maria",
   "localidade": "Alto Jequitibá",
   "uf": "MG",
-  "ibge": "3153509"
+  "ibge": "3153509",
+  "lat": -20.4213334,
+  "lon": -41.9673853
 }

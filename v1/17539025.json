@@ -5,5 +5,7 @@
   "bairro": "Centro (Lácio)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2230993,
+  "lon": -49.8883328
 }

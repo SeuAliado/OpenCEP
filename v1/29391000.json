@@ -5,5 +5,7 @@
   "bairro": "São João do Príncipe",
   "localidade": "Iúna",
   "uf": "ES",
-  "ibge": "3203007"
+  "ibge": "3203007",
+  "lat": -20.3477971,
+  "lon": -41.5343721
 }

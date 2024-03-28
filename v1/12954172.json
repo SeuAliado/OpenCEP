@@ -5,5 +5,7 @@
   "bairro": "Vale dos Pinheiros",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.104221,
+  "lon": -46.5254878
 }

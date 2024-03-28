@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0443411,
+  "lon": -45.5770594
 }

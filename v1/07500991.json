@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Isabel",
   "uf": "SP",
-  "ibge": "3546801"
+  "ibge": "3546801",
+  "lat": -23.3019442,
+  "lon": -46.1782644
 }

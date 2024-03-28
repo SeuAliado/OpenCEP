@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Estrela de Alagoas",
   "uf": "AL",
-  "ibge": "2702553"
+  "ibge": "2702553",
+  "lat": -9.389697,
+  "lon": -36.759136
 }

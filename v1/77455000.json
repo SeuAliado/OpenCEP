@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aliança do Tocantins",
   "uf": "TO",
-  "ibge": "1700350"
+  "ibge": "1700350",
+  "lat": -11.3057868,
+  "lon": -48.9383336
 }

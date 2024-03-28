@@ -5,5 +5,7 @@
   "bairro": "Guarapiranga",
   "localidade": "Ribeirão Bonito",
   "uf": "SP",
-  "ibge": "3542909"
+  "ibge": "3542909",
+  "lat": -21.9757427,
+  "lon": -48.2505744
 }

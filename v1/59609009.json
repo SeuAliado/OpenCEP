@@ -5,5 +5,7 @@
   "bairro": "Dix-Sept Rosado",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.1916923,
+  "lon": -37.3812919
 }

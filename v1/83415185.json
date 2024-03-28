@@ -5,5 +5,7 @@
   "bairro": "Poço Negro",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.2598235,
+  "lon": -49.1847011
 }

@@ -5,5 +5,7 @@
   "bairro": "Aimbiré",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.9064733,
+  "lon": -51.7376646
 }

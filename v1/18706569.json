@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Mônica",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0765792,
+  "lon": -48.9332633
 }

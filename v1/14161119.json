@@ -5,5 +5,7 @@
   "bairro": "Shangri-Lá",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1282872,
+  "lon": -47.9937245
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carrancas",
   "uf": "MG",
-  "ibge": "3114600"
+  "ibge": "3114600",
+  "lat": -21.4899717,
+  "lon": -44.6453592
 }

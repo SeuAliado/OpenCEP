@@ -5,5 +5,7 @@
   "bairro": "Amadeu Furtado",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7652584,
+  "lon": -38.5292622
 }

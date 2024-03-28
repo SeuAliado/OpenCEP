@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itabirinha",
   "uf": "MG",
-  "ibge": "3131802"
+  "ibge": "3131802",
+  "lat": -18.5683324,
+  "lon": -41.2344651
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cunha Porã",
   "uf": "SC",
-  "ibge": "4204707"
+  "ibge": "4204707",
+  "lat": -26.892643,
+  "lon": -53.1715625
 }

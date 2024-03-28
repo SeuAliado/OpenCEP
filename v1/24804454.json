@@ -5,5 +5,7 @@
   "bairro": "Quissamã",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7451238,
+  "lon": -42.8355798
 }

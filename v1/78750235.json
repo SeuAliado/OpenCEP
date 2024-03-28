@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Universitário",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4630218,
+  "lon": -54.6709388
 }

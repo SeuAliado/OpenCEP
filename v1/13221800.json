@@ -5,5 +5,7 @@
   "bairro": "Área Industrial",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2095778,
+  "lon": -46.8324589
 }

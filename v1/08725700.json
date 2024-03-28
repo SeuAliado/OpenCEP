@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jardim Primavera",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.56175,
+  "lon": -46.1875483
 }

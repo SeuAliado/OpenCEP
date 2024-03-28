@@ -5,5 +5,7 @@
   "bairro": "Abreus",
   "localidade": "Alto Rio Doce",
   "uf": "MG",
-  "ibge": "3102100"
+  "ibge": "3102100",
+  "lat": -21.0057344,
+  "lon": -43.2876344
 }

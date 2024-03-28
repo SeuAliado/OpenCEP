@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Floresta do Araguaia",
   "uf": "PA",
-  "ibge": "1503044"
+  "ibge": "1503044",
+  "lat": -7.5537452,
+  "lon": -49.7129316
 }

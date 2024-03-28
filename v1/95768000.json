@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Linha Nova",
   "uf": "RS",
-  "ibge": "4311643"
+  "ibge": "4311643",
+  "lat": -29.468428,
+  "lon": -51.200806
 }

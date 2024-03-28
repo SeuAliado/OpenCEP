@@ -5,5 +5,7 @@
   "bairro": "Jardim das Rosas",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7025731,
+  "lon": -49.3713739
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Adelaide Perella",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.5009265,
+  "lon": -46.5495482
 }

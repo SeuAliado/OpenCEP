@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lajedo",
   "uf": "PE",
-  "ibge": "2608800"
+  "ibge": "2608800",
+  "lat": -8.6545956,
+  "lon": -36.3165531
 }

@@ -5,5 +5,7 @@
   "bairro": "Recreio",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.504667,
+  "lon": -41.9297266
 }

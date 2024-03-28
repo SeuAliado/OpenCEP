@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Indaiabira",
   "uf": "MG",
-  "ibge": "3130655"
+  "ibge": "3130655",
+  "lat": -15.4915153,
+  "lon": -42.2009024
 }

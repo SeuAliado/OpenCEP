@@ -5,5 +5,7 @@
   "bairro": "Morada do Vale",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5131304,
+  "lon": -42.6070978
 }

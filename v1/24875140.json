@@ -5,5 +5,7 @@
   "bairro": "Centro (Visconde de Itaboraí)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7077699,
+  "lon": -42.8947459
 }

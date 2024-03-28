@@ -5,5 +5,7 @@
   "bairro": "Juscelino Kubitschek",
   "localidade": "Carmo do Paranaíba",
   "uf": "MG",
-  "ibge": "3114303"
+  "ibge": "3114303",
+  "lat": -19.0012423,
+  "lon": -46.306328
 }

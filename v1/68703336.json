@@ -5,5 +5,7 @@
   "bairro": "Almir Gabriel",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.2093687,
+  "lon": -47.1759003
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Turiaçu",
   "uf": "MA",
-  "ibge": "2112407"
+  "ibge": "2112407",
+  "lat": -1.808055,
+  "lon": -45.3745358
 }

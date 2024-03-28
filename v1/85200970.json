@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "lat": -24.760179,
+  "lon": -51.7647145
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Romão",
   "uf": "MG",
-  "ibge": "3164209"
+  "ibge": "3164209",
+  "lat": -16.3687752,
+  "lon": -45.0734494
 }

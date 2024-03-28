@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Palma",
   "uf": "RS",
-  "ibge": "4313102"
+  "ibge": "4313102",
+  "lat": -29.4714712,
+  "lon": -53.4694511
 }

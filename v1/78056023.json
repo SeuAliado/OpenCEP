@@ -5,5 +5,7 @@
   "bairro": "Nova Conquista",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5503438,
+  "lon": -56.0398986
 }

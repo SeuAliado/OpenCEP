@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Santa Maria",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.3898216,
+  "lon": -49.1970606
 }

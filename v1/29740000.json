@@ -5,5 +5,7 @@
   "bairro": "Ibituba",
   "localidade": "Baixo Guandu",
   "uf": "ES",
-  "ibge": "3200805"
+  "ibge": "3200805",
+  "lat": -19.5195317,
+  "lon": -41.0151571
 }

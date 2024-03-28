@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Milton Brandão",
   "uf": "PI",
-  "ibge": "2206357"
+  "ibge": "2206357",
+  "lat": -4.7422471,
+  "lon": -41.5212742
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Inácio",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7140152,
+  "lon": -43.4674802
 }

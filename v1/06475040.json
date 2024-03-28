@@ -5,5 +5,7 @@
   "bairro": "Alphaville Residencial Zero",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4897159,
+  "lon": -46.839388
 }

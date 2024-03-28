@@ -5,5 +5,7 @@
   "bairro": "Residencial Paraíso",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.1062978,
+  "lon": -48.0592135
 }

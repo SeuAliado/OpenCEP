@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piracuruca",
   "uf": "PI",
-  "ibge": "2208304"
+  "ibge": "2208304",
+  "lat": -3.971033,
+  "lon": -41.6809724
 }

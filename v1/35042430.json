@@ -5,5 +5,7 @@
   "bairro": "Jardim Atalaia",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8779873,
+  "lon": -41.972613
 }

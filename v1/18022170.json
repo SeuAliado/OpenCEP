@@ -5,5 +5,7 @@
   "bairro": "Vila Sabiá",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5464583,
+  "lon": -47.4816402
 }

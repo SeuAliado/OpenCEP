@@ -5,5 +5,7 @@
   "bairro": "Novo Esteio",
   "localidade": "Esteio",
   "uf": "RS",
-  "ibge": "4307708"
+  "ibge": "4307708",
+  "lat": -29.8426998,
+  "lon": -51.1822848
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morretes",
   "uf": "PR",
-  "ibge": "4116208"
+  "ibge": "4116208",
+  "lat": -25.4827475,
+  "lon": -48.8290713
 }

@@ -5,5 +5,7 @@
   "bairro": "Oratório",
   "localidade": "Casinhas",
   "uf": "PE",
-  "ibge": "2604155"
+  "ibge": "2604155",
+  "lat": -7.7257712,
+  "lon": -35.7405874
 }

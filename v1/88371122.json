@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Navegantes",
   "uf": "SC",
-  "ibge": "4211306"
+  "ibge": "4211306",
+  "lat": -26.8746929,
+  "lon": -48.6643093
 }

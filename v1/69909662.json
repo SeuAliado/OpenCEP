@@ -5,5 +5,7 @@
   "bairro": "Vila da Amizade",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0306356,
+  "lon": -67.8025022
 }

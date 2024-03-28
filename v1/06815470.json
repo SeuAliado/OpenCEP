@@ -5,5 +5,7 @@
   "bairro": "Vila Ísis Cristina",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6530294,
+  "lon": -46.8230999
 }

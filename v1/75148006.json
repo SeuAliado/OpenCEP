@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Aliança",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.4062517,
+  "lon": -48.8968758
 }

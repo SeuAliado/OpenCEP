@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Jesúpolis",
   "uf": "GO",
-  "ibge": "5212055"
+  "ibge": "5212055",
+  "lat": -17.7270216,
+  "lon": -49.4801815
 }

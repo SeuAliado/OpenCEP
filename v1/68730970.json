@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Timboteua",
   "uf": "PA",
-  "ibge": "1505007"
+  "ibge": "1505007",
+  "lat": -1.2058202,
+  "lon": -47.3881693
 }

@@ -5,5 +5,7 @@
   "bairro": "Coroado",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6720672,
+  "lon": -40.5235294
 }

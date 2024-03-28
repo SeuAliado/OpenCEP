@@ -5,5 +5,7 @@
   "bairro": "Igará",
   "localidade": "Senhor do Bonfim",
   "uf": "BA",
-  "ibge": "2930105"
+  "ibge": "2930105",
+  "lat": -10.4562075,
+  "lon": -40.1723685
 }

@@ -5,5 +5,7 @@
   "bairro": "Serra da Canastra",
   "localidade": "São Roque de Minas",
   "uf": "MG",
-  "ibge": "3164308"
+  "ibge": "3164308",
+  "lat": -20.2526917,
+  "lon": -46.6226077
 }

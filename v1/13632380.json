@@ -5,5 +5,7 @@
   "bairro": "Vila Brasil",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0115856,
+  "lon": -47.4134948
 }

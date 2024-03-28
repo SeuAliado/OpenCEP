@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeiras",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1577476,
+  "lon": -46.8712344
 }

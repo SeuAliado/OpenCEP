@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3159432,
+  "lon": -49.3006893
 }

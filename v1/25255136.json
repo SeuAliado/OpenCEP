@@ -5,5 +5,7 @@
   "bairro": "Vila Canaan",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6287624,
+  "lon": -43.2786751
 }

@@ -5,5 +5,7 @@
   "bairro": "Abegay",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6408766,
+  "lon": -53.5977108
 }

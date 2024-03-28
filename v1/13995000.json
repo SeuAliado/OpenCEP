@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio do Jardim",
   "uf": "SP",
-  "ibge": "3548104"
+  "ibge": "3548104",
+  "lat": -22.1373636,
+  "lon": -46.6898516
 }

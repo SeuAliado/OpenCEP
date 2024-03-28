@@ -5,5 +5,7 @@
   "bairro": "Arco Verde",
   "localidade": "Carlos Barbosa",
   "uf": "RS",
-  "ibge": "4304804"
+  "ibge": "4304804",
+  "lat": -29.3449632,
+  "lon": -51.5706824
 }

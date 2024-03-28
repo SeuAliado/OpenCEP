@@ -5,5 +5,7 @@
   "bairro": "Jardim Piratininga II",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5282137,
+  "lon": -47.3719051
 }

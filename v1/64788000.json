@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fartura do Piauí",
   "uf": "PI",
-  "ibge": "2203750"
+  "ibge": "2203750",
+  "lat": -9.4838392,
+  "lon": -42.7915604
 }

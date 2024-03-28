@@ -5,5 +5,7 @@
   "bairro": "Guabiraba",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -7.9304613,
+  "lon": -34.8950412
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muzambinho",
   "uf": "MG",
-  "ibge": "3144102"
+  "ibge": "3144102",
+  "lat": -21.3709802,
+  "lon": -46.5237702
 }

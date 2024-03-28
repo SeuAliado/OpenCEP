@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mozarlândia",
   "uf": "GO",
-  "ibge": "5214002"
+  "ibge": "5214002",
+  "lat": -14.7461444,
+  "lon": -50.5717749
 }

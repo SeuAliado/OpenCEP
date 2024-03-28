@@ -5,5 +5,7 @@
   "bairro": "Simão",
   "localidade": "Porteiras",
   "uf": "CE",
-  "ibge": "2311108"
+  "ibge": "2311108",
+  "lat": -7.533774,
+  "lon": -39.1112202
 }

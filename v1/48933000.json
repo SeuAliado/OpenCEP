@@ -5,5 +5,7 @@
   "bairro": "Riacho Seco",
   "localidade": "Curaçá",
   "uf": "BA",
-  "ibge": "2909901"
+  "ibge": "2909901",
+  "lat": -8.9895456,
+  "lon": -39.9040685
 }

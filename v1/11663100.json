@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Branca",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6168846,
+  "lon": -45.3765057
 }

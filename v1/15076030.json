@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Romano Calil",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8273015,
+  "lon": -49.3565932
 }

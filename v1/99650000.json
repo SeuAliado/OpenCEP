@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Benjamin Constant do Sul",
   "uf": "RS",
-  "ibge": "4302055"
+  "ibge": "4302055",
+  "lat": -27.5122272,
+  "lon": -52.6386467
 }

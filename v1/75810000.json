@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itarumã",
   "uf": "GO",
-  "ibge": "5211305"
+  "ibge": "5211305",
+  "lat": -18.7650105,
+  "lon": -51.3489854
 }

@@ -5,5 +5,7 @@
   "bairro": "Princesa do Sul",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5841215,
+  "lon": -45.4561305
 }

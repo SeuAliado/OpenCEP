@@ -5,5 +5,7 @@
   "bairro": "Vila Harmonia I e II Etapa",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2889322,
+  "lon": -48.9682323
 }

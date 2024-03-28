@@ -5,5 +5,7 @@
   "bairro": "Iguitu",
   "localidade": "Ibipeba",
   "uf": "BA",
-  "ibge": "2912400"
+  "ibge": "2912400",
+  "lat": -11.6415457,
+  "lon": -42.0158374
 }

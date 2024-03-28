@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4377182,
+  "lon": -46.508362
 }

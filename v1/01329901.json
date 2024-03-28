@@ -5,5 +5,7 @@
   "bairro": "Morro dos Ingleses",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5598347,
+  "lon": -46.6477276
 }

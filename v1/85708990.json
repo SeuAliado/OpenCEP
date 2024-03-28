@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus do Sul",
   "uf": "PR",
-  "ibge": "4103156"
+  "ibge": "4103156",
+  "lat": -26.1951001,
+  "lon": -53.5978997
 }

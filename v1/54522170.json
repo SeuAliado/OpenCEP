@@ -5,5 +5,7 @@
   "bairro": "Paiva",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2194264,
+  "lon": -34.9254727
 }

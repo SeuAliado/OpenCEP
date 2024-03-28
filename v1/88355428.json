@@ -5,5 +5,7 @@
   "bairro": "Cerâmica Reis",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -27.0740982,
+  "lon": -48.9121269
 }

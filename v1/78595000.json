@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Apiacás",
   "uf": "MT",
-  "ibge": "5100805"
+  "ibge": "5100805",
+  "lat": -9.5671531,
+  "lon": -57.3952399
 }

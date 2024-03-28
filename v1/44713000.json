@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quixabeira",
   "uf": "BA",
-  "ibge": "2925931"
+  "ibge": "2925931",
+  "lat": -11.4100827,
+  "lon": -40.1260733
 }

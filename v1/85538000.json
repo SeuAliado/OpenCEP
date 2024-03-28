@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Clevelândia",
   "uf": "PR",
-  "ibge": "4105706"
+  "ibge": "4105706",
+  "lat": -26.4057947,
+  "lon": -52.3610193
 }

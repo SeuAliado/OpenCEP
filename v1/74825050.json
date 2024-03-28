@@ -5,5 +5,7 @@
   "bairro": "Setor Pedro Ludovico",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7214906,
+  "lon": -49.2558862
 }

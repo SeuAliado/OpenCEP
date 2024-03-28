@@ -5,5 +5,7 @@
   "bairro": "Vila Sirene",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5977651,
+  "lon": -46.5302869
 }

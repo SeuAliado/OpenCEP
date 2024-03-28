@@ -5,5 +5,7 @@
   "bairro": "Prefeito José Moisés",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4138366,
+  "lon": -49.2731478
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Parelhas",
   "uf": "RN",
-  "ibge": "2408904"
+  "ibge": "2408904",
+  "lat": -6.6880918,
+  "lon": -36.6549085
 }

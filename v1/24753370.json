@@ -5,5 +5,7 @@
   "bairro": "Rio do Ouro",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8832546,
+  "lon": -42.9881372
 }

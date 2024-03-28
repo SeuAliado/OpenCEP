@@ -5,5 +5,7 @@
   "bairro": "Estância Nova",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "lat": -29.6071,
+  "lon": -52.2039999
 }

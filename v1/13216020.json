@@ -5,5 +5,7 @@
   "bairro": "Vila Joana",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1835156,
+  "lon": -46.8718185
 }

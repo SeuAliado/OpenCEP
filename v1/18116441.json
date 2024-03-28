@@ -5,5 +5,7 @@
   "bairro": "Vila Domingues",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5548131,
+  "lon": -47.4616103
 }

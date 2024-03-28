@@ -5,5 +5,7 @@
   "bairro": "Jardim Aurélia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5959748,
+  "lon": -46.6240286
 }

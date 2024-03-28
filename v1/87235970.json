@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Indianópolis",
   "uf": "PR",
-  "ibge": "4110409"
+  "ibge": "4110409",
+  "lat": -23.4808733,
+  "lon": -52.6998221
 }

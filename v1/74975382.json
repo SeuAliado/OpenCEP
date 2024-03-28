@@ -5,5 +5,7 @@
   "bairro": "Residencial Brasicon I",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8265723,
+  "lon": -49.2829752
 }

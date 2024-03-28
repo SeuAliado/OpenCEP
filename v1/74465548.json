@@ -5,5 +5,7 @@
   "bairro": "Setor Noroeste",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -18.4133979,
+  "lon": -49.2540897
 }

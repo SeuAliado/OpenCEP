@@ -5,5 +5,7 @@
   "bairro": "Rio Grande",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.6620546,
+  "lon": -48.6562984
 }

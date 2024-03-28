@@ -5,5 +5,7 @@
   "bairro": "Lama Preta",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "lat": -12.7030075,
+  "lon": -38.3368427
 }

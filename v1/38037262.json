@@ -5,5 +5,7 @@
   "bairro": "Parque das Gameleiras",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7717827,
+  "lon": -47.9124444
 }

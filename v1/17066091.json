@@ -5,5 +5,7 @@
   "bairro": "Jardim Andorfato",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3106644,
+  "lon": -49.1154289
 }

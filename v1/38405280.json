@@ -5,5 +5,7 @@
   "bairro": "Alto Umuarama",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8891936,
+  "lon": -48.2391782
 }

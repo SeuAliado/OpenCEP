@@ -5,5 +5,7 @@
   "bairro": "Rústico",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.521145,
+  "lon": -44.1118299
 }

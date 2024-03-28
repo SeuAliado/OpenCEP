@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Joaquim Vernini",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9015861,
+  "lon": -48.4321775
 }

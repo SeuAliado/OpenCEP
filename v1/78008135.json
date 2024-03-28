@@ -5,5 +5,7 @@
   "bairro": "Baú",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.59233,
+  "lon": -56.0855743
 }

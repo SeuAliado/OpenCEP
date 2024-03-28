@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -23.695514,
+  "lon": -46.5382679
 }

@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.935044,
+  "lon": -44.1187312
 }

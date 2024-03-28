@@ -5,5 +5,7 @@
   "bairro": "Sertão do Camburi",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.765128,
+  "lon": -45.6367323
 }

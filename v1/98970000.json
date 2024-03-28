@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cândido Godói",
   "uf": "RS",
-  "ibge": "4304309"
+  "ibge": "4304309",
+  "lat": -27.948108,
+  "lon": -54.7530618
 }

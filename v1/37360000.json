@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arantina",
   "uf": "MG",
-  "ibge": "3103603"
+  "ibge": "3103603",
+  "lat": -21.8821233,
+  "lon": -44.2194625
 }

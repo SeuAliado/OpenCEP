@@ -5,5 +5,7 @@
   "bairro": "Parque Albano (Jurema)",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.735039,
+  "lon": -38.6172905
 }

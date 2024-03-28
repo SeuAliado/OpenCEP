@@ -5,5 +5,7 @@
   "bairro": "Jardim Esplanada",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "lat": -29.9917243,
+  "lon": -51.0676667
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buriti dos Montes",
   "uf": "PI",
-  "ibge": "2202026"
+  "ibge": "2202026",
+  "lat": -5.1533868,
+  "lon": -41.2004878
 }

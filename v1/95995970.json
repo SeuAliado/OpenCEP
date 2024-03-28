@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arvorezinha",
   "uf": "RS",
-  "ibge": "4301404"
+  "ibge": "4301404",
+  "lat": -28.8724642,
+  "lon": -52.1778647
 }

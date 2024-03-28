@@ -5,5 +5,7 @@
   "bairro": "Vila Anhangüera",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9213436,
+  "lon": -47.0902838
 }

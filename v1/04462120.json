@@ -5,5 +5,7 @@
   "bairro": "Jardim da Pedreira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6955906,
+  "lon": -46.6651667
 }

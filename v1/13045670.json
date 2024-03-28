@@ -5,5 +5,7 @@
   "bairro": "Vila Joaquim Inácio",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.929623,
+  "lon": -47.0362679
 }

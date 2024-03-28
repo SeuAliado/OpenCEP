@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Vicentinópolis",
   "uf": "GO",
-  "ibge": "5222054"
+  "ibge": "5222054",
+  "lat": -17.7317801,
+  "lon": -49.8054872
 }

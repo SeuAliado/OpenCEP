@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "lat": -22.1502192,
+  "lon": -42.421944
 }

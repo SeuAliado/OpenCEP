@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Efigênia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6401906,
+  "lon": -46.75951
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capinzal",
   "uf": "SC",
-  "ibge": "4203907"
+  "ibge": "4203907",
+  "lat": -27.3426005,
+  "lon": -51.6102825
 }

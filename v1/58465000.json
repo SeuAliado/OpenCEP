@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riacho de Santo Antônio",
   "uf": "PB",
-  "ibge": "2512788"
+  "ibge": "2512788",
+  "lat": -7.6936901,
+  "lon": -36.1562949
 }

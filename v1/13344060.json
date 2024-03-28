@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cruz",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0979545,
+  "lon": -47.2150342
 }

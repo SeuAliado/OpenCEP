@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro Celeste",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.838202,
+  "lon": -43.1722667
 }

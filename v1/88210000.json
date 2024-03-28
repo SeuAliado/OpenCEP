@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Belo",
   "uf": "SC",
-  "ibge": "4213500"
+  "ibge": "4213500",
+  "lat": -27.1542952,
+  "lon": -48.5420467
 }

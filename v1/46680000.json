@@ -5,5 +5,7 @@
   "bairro": "Caraguataí",
   "localidade": "Jussiape",
   "uf": "BA",
-  "ibge": "2918605"
+  "ibge": "2918605",
+  "lat": -13.3980896,
+  "lon": -41.6484386
 }

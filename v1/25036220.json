@@ -5,5 +5,7 @@
   "bairro": "Olavo Bilac",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7641643,
+  "lon": -43.3213679
 }

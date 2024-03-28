@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.7878386,
+  "lon": -49.3950649
 }

@@ -5,5 +5,7 @@
   "bairro": "Tapera",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.8333223,
+  "lon": -39.0271655
 }

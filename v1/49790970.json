@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aquidabã",
   "uf": "SE",
-  "ibge": "2800209"
+  "ibge": "2800209",
+  "lat": -10.2807762,
+  "lon": -37.0172204
 }

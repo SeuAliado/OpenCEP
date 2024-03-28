@@ -5,5 +5,7 @@
   "bairro": "Jardim Batalha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5877079,
+  "lon": -46.7724747
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque da Fazenda",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8099755,
+  "lon": -47.1007587
 }

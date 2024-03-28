@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Central",
   "uf": "BA",
-  "ibge": "2907608"
+  "ibge": "2907608",
+  "lat": -11.2579728,
+  "lon": -42.1578246
 }

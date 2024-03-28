@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Castelo",
   "uf": "SC",
-  "ibge": "4211108"
+  "ibge": "4211108",
+  "lat": -26.4586471,
+  "lon": -50.2278187
 }

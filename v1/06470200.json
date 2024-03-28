@@ -5,5 +5,7 @@
   "bairro": "Alphaville Residencial Dois",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4904216,
+  "lon": -46.8557275
 }

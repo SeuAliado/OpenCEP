@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8280552,
+  "lon": -43.9859256
 }

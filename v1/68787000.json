@@ -5,5 +5,7 @@
   "bairro": "Espírito Santo do Tauá",
   "localidade": "Santo Antônio do Tauá",
   "uf": "PA",
-  "ibge": "1507003"
+  "ibge": "1507003",
+  "lat": -1.1145419,
+  "lon": -48.2173445
 }

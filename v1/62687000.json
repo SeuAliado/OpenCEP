@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Paraipaba",
   "uf": "CE",
-  "ibge": "2310258"
+  "ibge": "2310258",
+  "lat": -3.3604722,
+  "lon": -39.2038843
 }

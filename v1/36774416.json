@@ -5,5 +5,7 @@
   "bairro": "Sol Nascente",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.3718962,
+  "lon": -42.685555
 }

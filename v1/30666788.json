@@ -5,5 +5,7 @@
   "bairro": "Vitória da Conquista (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -20.0132328,
+  "lon": -44.0246558
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salinas da Margarida",
   "uf": "BA",
-  "ibge": "2927309"
+  "ibge": "2927309",
+  "lat": -12.8729766,
+  "lon": -38.7605229
 }

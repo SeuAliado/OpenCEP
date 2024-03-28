@@ -5,5 +5,7 @@
   "bairro": "Jardim do Vale II",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7738337,
+  "lon": -45.1863846
 }

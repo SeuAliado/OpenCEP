@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaipu",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2355021,
+  "lon": -49.935913
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Helena",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8064418,
+  "lon": -48.1570056
 }

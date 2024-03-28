@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teolândia",
   "uf": "BA",
-  "ibge": "2931608"
+  "ibge": "2931608",
+  "lat": -13.5900904,
+  "lon": -39.4843477
 }

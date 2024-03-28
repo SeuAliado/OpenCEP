@@ -5,5 +5,7 @@
   "bairro": "Santa Edwirges",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8772961,
+  "lon": -44.5748196
 }

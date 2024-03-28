@@ -5,5 +5,7 @@
   "bairro": "Central Parque Sorocaba",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5159648,
+  "lon": -47.5085601
 }

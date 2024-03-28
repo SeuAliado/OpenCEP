@@ -5,5 +5,7 @@
   "bairro": "Darcy Ribeiro",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.861255,
+  "lon": -44.1353209
 }

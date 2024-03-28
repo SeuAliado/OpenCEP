@@ -5,5 +5,7 @@
   "bairro": "Recanto do Pitanguá",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.340348,
+  "lon": -51.1939734
 }

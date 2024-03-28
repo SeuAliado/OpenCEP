@@ -5,5 +5,7 @@
   "bairro": "Jardim Elite",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5690907,
+  "lon": -47.4262368
 }

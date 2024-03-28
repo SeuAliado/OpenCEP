@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco do Piauí",
   "uf": "PI",
-  "ibge": "2209708"
+  "ibge": "2209708",
+  "lat": -7.2467027,
+  "lon": -42.5413902
 }

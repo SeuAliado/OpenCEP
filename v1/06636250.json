@@ -5,5 +5,7 @@
   "bairro": "Parque Nova Jandira",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5535502,
+  "lon": -46.8949788
 }

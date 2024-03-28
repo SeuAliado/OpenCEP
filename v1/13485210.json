@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Granja Machado",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5487327,
+  "lon": -47.382144
 }

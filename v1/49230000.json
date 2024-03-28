@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Luzia do Itanhy",
   "uf": "SE",
-  "ibge": "2806305"
+  "ibge": "2806305",
+  "lat": -11.3540345,
+  "lon": -37.4589828
 }

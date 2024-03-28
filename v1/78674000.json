@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Santo Antônio",
   "uf": "MT",
-  "ibge": "5106315"
+  "ibge": "5106315",
+  "lat": -12.2906382,
+  "lon": -50.9682679
 }

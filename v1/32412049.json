@@ -5,5 +5,7 @@
   "bairro": "Parque Estrela do Sul",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0238886,
+  "lon": -44.0638586
 }

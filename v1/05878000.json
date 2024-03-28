@@ -5,5 +5,7 @@
   "bairro": "Parque Independência",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6908097,
+  "lon": -46.7870777
 }

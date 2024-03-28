@@ -5,5 +5,7 @@
   "bairro": "Quitéria",
   "localidade": "São Jerônimo",
   "uf": "RS",
-  "ibge": "4318408"
+  "ibge": "4318408",
+  "lat": -30.4191991,
+  "lon": -52.07302
 }

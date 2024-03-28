@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.8088533,
+  "lon": -45.175985
 }

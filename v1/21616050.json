@@ -5,5 +5,7 @@
   "bairro": "Vila Militar",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8689202,
+  "lon": -43.4045725
 }

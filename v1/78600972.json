@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Garças",
   "uf": "MT",
-  "ibge": "5101803"
+  "ibge": "5101803",
+  "lat": -15.892135,
+  "lon": -52.2611245
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Redenção",
   "uf": "BA",
-  "ibge": "2922854"
+  "ibge": "2922854",
+  "lat": -12.8568547,
+  "lon": -41.1602597
 }

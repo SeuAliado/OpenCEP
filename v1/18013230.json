@@ -5,5 +5,7 @@
   "bairro": "Além Ponte",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4941147,
+  "lon": -47.4393311
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Luz",
   "uf": "MG",
-  "ibge": "3138807"
+  "ibge": "3138807",
+  "lat": -19.8011545,
+  "lon": -45.6843951
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2599602,
+  "lon": -47.308917
 }

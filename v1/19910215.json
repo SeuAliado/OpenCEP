@@ -5,5 +5,7 @@
   "bairro": "Jardim das Paineiras",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9880276,
+  "lon": -49.9149871
 }

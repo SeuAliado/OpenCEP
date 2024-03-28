@@ -5,5 +5,7 @@
   "bairro": "Pioneiro",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1402415,
+  "lon": -51.1904816
 }

@@ -5,5 +5,7 @@
   "bairro": "Engenho",
   "localidade": "Acorizal",
   "uf": "MT",
-  "ibge": "5100102"
+  "ibge": "5100102",
+  "lat": -22.8689214,
+  "lon": -43.2789974
 }

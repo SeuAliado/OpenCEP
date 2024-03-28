@@ -5,5 +5,7 @@
   "bairro": "Jardim Castanheiras",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.9180767,
+  "lon": -43.875425
 }

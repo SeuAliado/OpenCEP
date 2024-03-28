@@ -5,5 +5,7 @@
   "bairro": "Purilândia",
   "localidade": "Porciúncula",
   "uf": "RJ",
-  "ibge": "3304102"
+  "ibge": "3304102",
+  "lat": -20.9294705,
+  "lon": -41.956749
 }

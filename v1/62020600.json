@@ -5,5 +5,7 @@
   "bairro": "Alto do Cristo",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.68362,
+  "lon": -40.3621822
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0231191,
+  "lon": -44.0607782
 }

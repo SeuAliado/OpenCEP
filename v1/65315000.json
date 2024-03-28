@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejo de Areia",
   "uf": "MA",
-  "ibge": "2102150"
+  "ibge": "2102150",
+  "lat": -4.101667,
+  "lon": -45.491389
 }

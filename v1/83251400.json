@@ -5,5 +5,7 @@
   "bairro": "Europa",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -24.1856577,
+  "lon": -53.0327168
 }

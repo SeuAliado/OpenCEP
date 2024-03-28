@@ -5,5 +5,7 @@
   "bairro": "Caldeira",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.140384,
+  "lon": -47.2547448
 }

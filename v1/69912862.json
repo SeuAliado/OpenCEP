@@ -5,5 +5,7 @@
   "bairro": "Vila Verde",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -17.7686948,
+  "lon": -50.9165137
 }

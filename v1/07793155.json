@@ -5,5 +5,7 @@
   "bairro": "Jardins (Polvilho)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.4155694,
+  "lon": -46.8392327
 }

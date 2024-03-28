@@ -5,5 +5,7 @@
   "bairro": "Major Prado",
   "localidade": "Santo Antônio do Aracanguá",
   "uf": "SP",
-  "ibge": "3548054"
+  "ibge": "3548054",
+  "lat": -22.3125075,
+  "lon": -48.5743261
 }

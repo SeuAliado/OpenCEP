@@ -5,5 +5,7 @@
   "bairro": "Habitar Brasil",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.42316,
+  "lon": -61.4784514
 }

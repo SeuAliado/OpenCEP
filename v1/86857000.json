@@ -5,5 +5,7 @@
   "bairro": "Vila Diniz",
   "localidade": "Cruzmaltina",
   "uf": "PR",
-  "ibge": "4106852"
+  "ibge": "4106852",
+  "lat": -24.0406586,
+  "lon": -51.5484034
 }

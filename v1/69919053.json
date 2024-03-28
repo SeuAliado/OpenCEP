@@ -5,5 +5,7 @@
   "bairro": "Loteamento dos Engenheiros",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9277275,
+  "lon": -67.828662
 }

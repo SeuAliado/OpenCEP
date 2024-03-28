@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riacho da Cruz",
   "uf": "RN",
-  "ibge": "2410702"
+  "ibge": "2410702",
+  "lat": -5.9352839,
+  "lon": -37.9484374
 }

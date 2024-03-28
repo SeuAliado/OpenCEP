@@ -5,5 +5,7 @@
   "bairro": "Jardim Santos Dumont",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0256719,
+  "lon": -47.4241299
 }

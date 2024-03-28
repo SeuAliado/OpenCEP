@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.6272962,
+  "lon": -43.2058726
 }

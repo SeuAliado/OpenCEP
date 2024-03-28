@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buriti Bravo",
   "uf": "MA",
-  "ibge": "2102309"
+  "ibge": "2102309",
+  "lat": -5.8327845,
+  "lon": -43.8356777
 }

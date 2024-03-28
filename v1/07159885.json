@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Bambi",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.3816754,
+  "lon": -46.3992003
 }

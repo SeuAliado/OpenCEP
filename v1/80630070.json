@@ -5,5 +5,7 @@
   "bairro": "Guaíra",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.472194,
+  "lon": -49.2814714
 }

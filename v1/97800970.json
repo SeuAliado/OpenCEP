@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Luiz Gonzaga",
   "uf": "RS",
-  "ibge": "4318903"
+  "ibge": "4318903",
+  "lat": -28.4112705,
+  "lon": -54.959406
 }

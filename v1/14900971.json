@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itápolis",
   "uf": "SP",
-  "ibge": "3522703"
+  "ibge": "3522703",
+  "lat": -21.5941397,
+  "lon": -48.8151865
 }

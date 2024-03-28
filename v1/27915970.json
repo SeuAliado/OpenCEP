@@ -5,5 +5,7 @@
   "bairro": "Alto Cajueiros",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3812882,
+  "lon": -41.7761154
 }

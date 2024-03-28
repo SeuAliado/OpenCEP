@@ -5,5 +5,7 @@
   "bairro": "Colina Verde",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "lat": -16.1055859,
+  "lon": -47.9206891
 }

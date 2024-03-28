@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Manacás",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9526979,
+  "lon": -46.9771017
 }

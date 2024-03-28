@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Divino",
   "uf": "MG",
-  "ibge": "3122009"
+  "ibge": "3122009",
+  "lat": -20.6087581,
+  "lon": -42.1450035
 }

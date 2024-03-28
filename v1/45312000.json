@@ -5,5 +5,7 @@
   "bairro": "Engenheiro França",
   "localidade": "Ubaíra",
   "uf": "BA",
-  "ibge": "2932101"
+  "ibge": "2932101",
+  "lat": -13.2714816,
+  "lon": -39.660406
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7632701,
+  "lon": -43.3553717
 }

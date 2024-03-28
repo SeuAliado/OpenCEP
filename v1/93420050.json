@@ -5,5 +5,7 @@
   "bairro": "Santo Afonso",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.7365035,
+  "lon": -51.1351306
 }

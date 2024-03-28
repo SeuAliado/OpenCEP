@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macaíba",
   "uf": "RN",
-  "ibge": "2407104"
+  "ibge": "2407104",
+  "lat": -5.8646713,
+  "lon": -35.3367578
 }

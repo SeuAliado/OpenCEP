@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Esperança",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -23.6245261,
+  "lon": -46.7889797
 }

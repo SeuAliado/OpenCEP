@@ -5,5 +5,7 @@
   "bairro": "Vôo Livre",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "lat": -29.6258209,
+  "lon": -50.9923195
 }

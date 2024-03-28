@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marinópolis",
   "uf": "SP",
-  "ibge": "3529104"
+  "ibge": "3529104",
+  "lat": -20.4404075,
+  "lon": -50.8243933
 }

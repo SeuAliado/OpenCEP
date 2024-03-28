@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cariús",
   "uf": "CE",
-  "ibge": "2303303"
+  "ibge": "2303303",
+  "lat": -6.5364598,
+  "lon": -39.4976224
 }

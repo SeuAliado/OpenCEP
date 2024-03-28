@@ -5,5 +5,7 @@
   "bairro": "Batateira",
   "localidade": "Belém de Maria",
   "uf": "PE",
-  "ibge": "2601508"
+  "ibge": "2601508",
+  "lat": -8.5623637,
+  "lon": -35.8334229
 }

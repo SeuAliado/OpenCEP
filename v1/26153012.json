@@ -5,5 +5,7 @@
   "bairro": "Shangri-lá",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7175522,
+  "lon": -43.4222984
 }

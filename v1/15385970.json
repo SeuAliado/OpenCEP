@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "lat": -20.4278655,
+  "lon": -51.3434823
 }

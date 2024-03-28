@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caiçara",
   "uf": "PB",
-  "ibge": "2503605"
+  "ibge": "2503605",
+  "lat": -6.6170433,
+  "lon": -35.4657486
 }

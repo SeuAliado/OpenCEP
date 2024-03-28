@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3178559,
+  "lon": -48.9649063
 }

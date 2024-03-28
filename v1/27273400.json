@@ -5,5 +5,7 @@
   "bairro": "Siderlândia",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5160261,
+  "lon": -44.1334713
 }

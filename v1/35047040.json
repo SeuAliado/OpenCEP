@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.9108494,
+  "lon": -41.9502107
 }

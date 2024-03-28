@@ -5,5 +5,7 @@
   "bairro": "Loteamento Sofia",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5204808,
+  "lon": -44.1796981
 }

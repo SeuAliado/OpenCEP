@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -30.3237747,
+  "lon": -54.32293
 }

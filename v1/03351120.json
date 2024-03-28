@@ -5,5 +5,7 @@
   "bairro": "Vila Diva (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5725661,
+  "lon": -46.5679085
 }

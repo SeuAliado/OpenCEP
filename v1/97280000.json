@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dona Francisca",
   "uf": "RS",
-  "ibge": "4306700"
+  "ibge": "4306700",
+  "lat": -29.5541879,
+  "lon": -53.3582223
 }

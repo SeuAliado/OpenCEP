@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Anastácio",
   "uf": "SP",
-  "ibge": "3547700"
+  "ibge": "3547700",
+  "lat": -21.9743379,
+  "lon": -51.65198
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Paineiras",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9981999,
+  "lon": -48.8768966
 }

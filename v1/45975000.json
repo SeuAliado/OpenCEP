@@ -5,5 +5,7 @@
   "bairro": "Batinga",
   "localidade": "Itanhém",
   "uf": "BA",
-  "ibge": "2916005"
+  "ibge": "2916005",
+  "lat": -17.0040095,
+  "lon": -40.3871671
 }

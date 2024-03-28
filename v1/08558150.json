@@ -5,5 +5,7 @@
   "bairro": "Vila Varela",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5098426,
+  "lon": -46.334437
 }

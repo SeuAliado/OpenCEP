@@ -5,5 +5,7 @@
   "bairro": "COHEB do Sacavém",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5558262,
+  "lon": -44.2555185
 }

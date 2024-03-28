@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nacip Raydan",
   "uf": "MG",
-  "ibge": "3144201"
+  "ibge": "3144201",
+  "lat": -18.4549128,
+  "lon": -42.248516
 }

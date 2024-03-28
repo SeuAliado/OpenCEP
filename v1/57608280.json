@@ -5,5 +5,7 @@
   "bairro": "Palmeira de Fora",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.41314,
+  "lon": -36.6524305
 }

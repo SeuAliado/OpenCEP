@@ -5,5 +5,7 @@
   "bairro": "Estação de Pereiras",
   "localidade": "Pereiras",
   "uf": "SP",
-  "ibge": "3537503"
+  "ibge": "3537503",
+  "lat": -23.037046,
+  "lon": -47.9452142
 }

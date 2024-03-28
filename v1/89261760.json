@@ -5,5 +5,7 @@
   "bairro": "Rio Cerro II",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "lat": -26.5881651,
+  "lon": -49.1405648
 }

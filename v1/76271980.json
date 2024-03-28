@@ -5,5 +5,7 @@
   "bairro": "Distrito de São Sebastião do Rio Claro",
   "localidade": "Jussara",
   "uf": "GO",
-  "ibge": "5212204"
+  "ibge": "5212204",
+  "lat": -15.75148,
+  "lon": -51.47222
 }

@@ -5,5 +5,7 @@
   "bairro": "Zona de Expansão (Mosqueiro)",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "lat": -10.9831089,
+  "lon": -37.1005429
 }

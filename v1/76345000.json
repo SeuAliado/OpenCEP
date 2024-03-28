@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova América",
   "uf": "GO",
-  "ibge": "5214705"
+  "ibge": "5214705",
+  "lat": -15.0429656,
+  "lon": -49.9161886
 }

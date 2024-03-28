@@ -5,5 +5,7 @@
   "bairro": "Cidade Praiana",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5319653,
+  "lon": -41.969761
 }

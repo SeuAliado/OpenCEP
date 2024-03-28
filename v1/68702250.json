@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.2168651,
+  "lon": -47.1808809
 }

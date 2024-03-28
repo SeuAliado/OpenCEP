@@ -5,5 +5,7 @@
   "bairro": "Chácara São Rafael",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8290756,
+  "lon": -47.0195422
 }

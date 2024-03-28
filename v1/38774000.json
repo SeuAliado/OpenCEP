@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia da Serra",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "lat": -19.7743829,
+  "lon": -43.9294288
 }

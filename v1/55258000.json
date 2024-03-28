@@ -5,5 +5,7 @@
   "bairro": "Jenipapo",
   "localidade": "Sanharó",
   "uf": "PE",
-  "ibge": "2612406"
+  "ibge": "2612406",
+  "lat": -8.3566412,
+  "lon": -36.5533251
 }

@@ -5,5 +5,7 @@
   "bairro": "Imbariê",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.653083,
+  "lon": -43.2262399
 }

@@ -5,5 +5,7 @@
   "bairro": "Mato Grande",
   "localidade": "Giruá",
   "uf": "RS",
-  "ibge": "4309001"
+  "ibge": "4309001",
+  "lat": -28.038204,
+  "lon": -54.3346812
 }

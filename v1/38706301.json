@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.6338598,
+  "lon": -46.4750666
 }

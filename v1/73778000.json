@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Alto Paraíso de Goiás",
   "uf": "GO",
-  "ibge": "5200605"
+  "ibge": "5200605",
+  "lat": -14.1721325,
+  "lon": -47.8212428
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cotriguaçu",
   "uf": "MT",
-  "ibge": "5103379"
+  "ibge": "5103379",
+  "lat": -9.9007912,
+  "lon": -58.5600932
 }

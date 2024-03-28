@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5044355,
+  "lon": -46.5645165
 }

@@ -5,5 +5,7 @@
   "bairro": "Fazenda Caxias",
   "localidade": "Seropédica",
   "uf": "RJ",
-  "ibge": "3305554"
+  "ibge": "3305554",
+  "lat": -22.7491243,
+  "lon": -43.6975642
 }

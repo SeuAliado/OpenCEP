@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jurema",
   "uf": "PI",
-  "ibge": "2205532"
+  "ibge": "2205532",
+  "lat": -9.221101,
+  "lon": -43.1280362
 }

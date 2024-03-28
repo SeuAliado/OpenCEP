@@ -5,5 +5,7 @@
   "bairro": "Portal da Amazônia",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9763653,
+  "lon": -67.8664722
 }

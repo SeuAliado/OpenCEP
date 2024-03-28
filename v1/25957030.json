@@ -5,5 +5,7 @@
   "bairro": "Cascata Guarani",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4297976,
+  "lon": -42.976087
 }

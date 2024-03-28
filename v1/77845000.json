@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aragominas",
   "uf": "TO",
-  "ibge": "1701309"
+  "ibge": "1701309",
+  "lat": -6.8351548,
+  "lon": -48.7593128
 }

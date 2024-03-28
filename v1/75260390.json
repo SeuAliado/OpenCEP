@@ -5,5 +5,7 @@
   "bairro": "Residencial Buriti",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.709345,
+  "lon": -49.0851056
 }

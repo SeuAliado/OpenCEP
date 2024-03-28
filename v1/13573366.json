@@ -5,5 +5,7 @@
   "bairro": "Jardim Social Presidente Collor",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0646131,
+  "lon": -47.8962093
 }

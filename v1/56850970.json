@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Flores",
   "uf": "PE",
-  "ibge": "2605608"
+  "ibge": "2605608",
+  "lat": -22.7215854,
+  "lon": -47.6448793
 }

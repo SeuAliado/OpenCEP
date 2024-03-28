@@ -5,5 +5,7 @@
   "bairro": "Parolin",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4612902,
+  "lon": -49.2626099
 }

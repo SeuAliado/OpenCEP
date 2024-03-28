@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itabaiana",
   "uf": "PB",
-  "ibge": "2506905"
+  "ibge": "2506905",
+  "lat": -7.3304255,
+  "lon": -35.336353
 }

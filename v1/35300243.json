@@ -5,5 +5,7 @@
   "bairro": "José Moyses Nacif",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7840253,
+  "lon": -42.1343894
 }

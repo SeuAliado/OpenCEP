@@ -5,5 +5,7 @@
   "bairro": "Matias",
   "localidade": "Pentecoste",
   "uf": "CE",
-  "ibge": "2310704"
+  "ibge": "2310704",
+  "lat": -3.8586457,
+  "lon": -39.3384511
 }

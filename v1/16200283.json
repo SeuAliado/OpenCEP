@@ -5,5 +5,7 @@
   "bairro": "Vila Staff",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.3012155,
+  "lon": -50.3464504
 }

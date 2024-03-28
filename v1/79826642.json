@@ -5,5 +5,7 @@
   "bairro": "Jardim Mônaco",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.1993713,
+  "lon": -54.8183314
 }

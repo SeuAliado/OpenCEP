@@ -5,5 +5,7 @@
   "bairro": "Jardim Saúde",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5607515,
+  "lon": -46.3387731
 }

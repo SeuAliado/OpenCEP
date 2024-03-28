@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Fé",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2230713,
+  "lon": -47.921441
 }

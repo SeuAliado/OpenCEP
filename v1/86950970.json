@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fênix",
   "uf": "PR",
-  "ibge": "4107702"
+  "ibge": "4107702",
+  "lat": -23.9169717,
+  "lon": -51.979717
 }

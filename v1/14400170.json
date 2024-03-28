@@ -5,5 +5,7 @@
   "bairro": "Vila Champagnat",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5513721,
+  "lon": -47.4051785
 }

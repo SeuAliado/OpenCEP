@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iracema do Oeste",
   "uf": "PR",
-  "ibge": "4110656"
+  "ibge": "4110656",
+  "lat": -24.4266297,
+  "lon": -53.3532933
 }

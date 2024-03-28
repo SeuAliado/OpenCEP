@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sertão Santana",
   "uf": "RS",
-  "ibge": "4320552"
+  "ibge": "4320552",
+  "lat": -30.4619271,
+  "lon": -51.6035497
 }

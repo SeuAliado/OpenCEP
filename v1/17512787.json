@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Julieta",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1658946,
+  "lon": -49.9786755
 }

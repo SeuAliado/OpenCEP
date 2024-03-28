@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirpirituba",
   "uf": "PB",
-  "ibge": "2511806"
+  "ibge": "2511806",
+  "lat": -6.7792136,
+  "lon": -35.496767
 }

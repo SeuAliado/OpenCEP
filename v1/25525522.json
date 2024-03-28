@@ -5,5 +5,7 @@
   "bairro": "Tomazinho",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.8019162,
+  "lon": -43.392775
 }

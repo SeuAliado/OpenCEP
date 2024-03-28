@@ -5,5 +5,7 @@
   "bairro": "Terra Nova",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7535681,
+  "lon": -47.6307578
 }

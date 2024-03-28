@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.666053,
+  "lon": -43.0282615
 }

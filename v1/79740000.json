@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ivinhema",
   "uf": "MS",
-  "ibge": "5004700"
+  "ibge": "5004700",
+  "lat": -22.3050364,
+  "lon": -53.8189127
 }

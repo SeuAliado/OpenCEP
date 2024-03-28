@@ -5,5 +5,7 @@
   "bairro": "Vila Elizabeth",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4527252,
+  "lon": -49.5110714
 }

@@ -5,5 +5,7 @@
   "bairro": "Rosal",
   "localidade": "Bom Jesus do Itabapoana",
   "uf": "RJ",
-  "ibge": "3300605"
+  "ibge": "3300605",
+  "lat": -20.9596768,
+  "lon": -41.7345897
 }

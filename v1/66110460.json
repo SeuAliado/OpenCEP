@@ -5,5 +5,7 @@
   "bairro": "Maracangalha",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4206808,
+  "lon": -48.487647
 }

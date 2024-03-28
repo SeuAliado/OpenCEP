@@ -5,5 +5,7 @@
   "bairro": "Recanto do Lago",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.5314594,
+  "lon": -39.7333857
 }

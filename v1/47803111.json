@@ -5,5 +5,7 @@
   "bairro": "Jardins",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -27.0208505,
+  "lon": -51.8857929
 }

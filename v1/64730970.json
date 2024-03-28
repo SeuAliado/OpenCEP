@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campinas do Piauí",
   "uf": "PI",
-  "ibge": "2202109"
+  "ibge": "2202109",
+  "lat": -7.6645765,
+  "lon": -41.8816428
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.929408,
+  "lon": -43.697913
 }

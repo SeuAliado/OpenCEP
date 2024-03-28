@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Timbiras",
   "uf": "MA",
-  "ibge": "2112100"
+  "ibge": "2112100",
+  "lat": -4.087067,
+  "lon": -43.7142484
 }

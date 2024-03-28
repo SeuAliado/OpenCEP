@@ -5,5 +5,7 @@
   "bairro": "Morro das Flores",
   "localidade": "Ruy Barbosa",
   "uf": "BA",
-  "ibge": "2927200"
+  "ibge": "2927200",
+  "lat": -12.4017968,
+  "lon": -40.5971601
 }

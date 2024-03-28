@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Assis Chateaubriand",
   "uf": "PR",
-  "ibge": "4102000"
+  "ibge": "4102000",
+  "lat": -24.4066881,
+  "lon": -53.5142422
 }

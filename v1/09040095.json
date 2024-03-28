@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6824664,
+  "lon": -46.574365
 }

@@ -5,5 +5,7 @@
   "bairro": "Novilhona",
   "localidade": "Novo Cruzeiro",
   "uf": "MG",
-  "ibge": "3145307"
+  "ibge": "3145307",
+  "lat": -17.4632229,
+  "lon": -41.8747299
 }

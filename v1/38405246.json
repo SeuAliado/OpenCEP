@@ -5,5 +5,7 @@
   "bairro": "Custódio Pereira",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8958468,
+  "lon": -48.241511
 }

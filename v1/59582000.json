@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pureza",
   "uf": "RN",
-  "ibge": "2410405"
+  "ibge": "2410405",
+  "lat": -5.4643277,
+  "lon": -35.5556928
 }

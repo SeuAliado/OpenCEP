@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2195201,
+  "lon": -52.0292883
 }

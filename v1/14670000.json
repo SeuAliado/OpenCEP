@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nuporanga",
   "uf": "SP",
-  "ibge": "3533601"
+  "ibge": "3533601",
+  "lat": -20.7082891,
+  "lon": -47.7440315
 }

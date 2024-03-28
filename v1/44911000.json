@@ -5,5 +5,7 @@
   "bairro": "Belo Campo",
   "localidade": "América Dourada",
   "uf": "BA",
-  "ibge": "2901155"
+  "ibge": "2901155",
+  "lat": -11.4727634,
+  "lon": -41.5222005
 }

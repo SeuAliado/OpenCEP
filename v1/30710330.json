@@ -5,5 +5,7 @@
   "bairro": "São Francisco das Chagas",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9136391,
+  "lon": -43.9611469
 }

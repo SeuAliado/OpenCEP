@@ -5,5 +5,7 @@
   "bairro": "Itira",
   "localidade": "Araçuaí",
   "uf": "MG",
-  "ibge": "3103405"
+  "ibge": "3103405",
+  "lat": -16.7642109,
+  "lon": -42.0116617
 }

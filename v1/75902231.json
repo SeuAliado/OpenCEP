@@ -5,5 +5,7 @@
   "bairro": "Vila Serpro",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7788531,
+  "lon": -50.9424361
 }

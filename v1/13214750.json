@@ -5,5 +5,7 @@
   "bairro": "Parque Centenário",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1389784,
+  "lon": -46.9146307
 }

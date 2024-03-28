@@ -5,5 +5,7 @@
   "bairro": "Jardim das Imbuias",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.730866,
+  "lon": -46.7062873
 }

@@ -5,5 +5,7 @@
   "bairro": "Barreiro",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9759371,
+  "lon": -44.0283425
 }

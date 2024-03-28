@@ -5,5 +5,7 @@
   "bairro": "Capão Alto",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.4298726,
+  "lon": -49.2511113
 }

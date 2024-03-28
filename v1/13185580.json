@@ -5,5 +5,7 @@
   "bairro": "Vila Conquista",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8802202,
+  "lon": -47.170552
 }

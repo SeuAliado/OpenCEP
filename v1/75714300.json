@@ -5,5 +5,7 @@
   "bairro": "Pires Belo",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -17.9201068,
+  "lon": -47.7868086
 }

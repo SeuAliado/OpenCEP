@@ -5,5 +5,7 @@
   "bairro": "Narandiba",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.9444685,
+  "lon": -38.4695356
 }

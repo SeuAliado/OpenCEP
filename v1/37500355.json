@@ -5,5 +5,7 @@
   "bairro": "Pinheirinho",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.421225,
+  "lon": -45.44237
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque São Jerônimo",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3252094,
+  "lon": -48.9217112
 }

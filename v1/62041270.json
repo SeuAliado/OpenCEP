@@ -5,5 +5,7 @@
   "bairro": "Parque Silvana",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.674658,
+  "lon": -40.3587628
 }

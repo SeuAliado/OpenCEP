@@ -5,5 +5,7 @@
   "bairro": "Loanda",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.822863,
+  "lon": -43.166561
 }

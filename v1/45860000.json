@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canavieiras",
   "uf": "BA",
-  "ibge": "2906303"
+  "ibge": "2906303",
+  "lat": -15.6773461,
+  "lon": -38.9451874
 }

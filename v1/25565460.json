@@ -5,5 +5,7 @@
   "bairro": "Vale da Simpatia",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7882983,
+  "lon": -43.3578248
 }

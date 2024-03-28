@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Olinda do Norte",
   "uf": "AM",
-  "ibge": "1303106"
+  "ibge": "1303106",
+  "lat": -3.8923698,
+  "lon": -59.0986035
 }

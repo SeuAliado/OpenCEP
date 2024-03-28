@@ -5,5 +5,7 @@
   "bairro": "Itoupava Seca",
   "localidade": "Blumenau",
   "uf": "SC",
-  "ibge": "4202404"
+  "ibge": "4202404",
+  "lat": -26.895798,
+  "lon": -49.0881756
 }

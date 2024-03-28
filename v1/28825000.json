@@ -5,5 +5,7 @@
   "bairro": "Gaviões",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "lat": -22.5691216,
+  "lon": -42.5342285
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Fortaleza",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4262293,
+  "lon": -61.4718206
 }

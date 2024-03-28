@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Grão Mogol",
   "uf": "MG",
-  "ibge": "3127800"
+  "ibge": "3127800",
+  "lat": -16.5653072,
+  "lon": -42.8932326
 }

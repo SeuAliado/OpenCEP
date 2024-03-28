@@ -5,5 +5,7 @@
   "bairro": "Jardim Montreal Residence",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

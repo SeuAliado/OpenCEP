@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque dos Alecrins",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.815134,
+  "lon": -47.0045057
 }

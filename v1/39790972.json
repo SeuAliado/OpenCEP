@@ -5,5 +5,7 @@
   "bairro": "Palmeiras do Resplendor",
   "localidade": "Água Boa",
   "uf": "MG",
-  "ibge": "3100609"
+  "ibge": "3100609",
+  "lat": -17.7986525,
+  "lon": -42.4135019
 }

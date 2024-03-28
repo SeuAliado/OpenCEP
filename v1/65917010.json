@@ -5,5 +5,7 @@
   "bairro": "Nova Imperatriz",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5073818,
+  "lon": -47.4885508
 }

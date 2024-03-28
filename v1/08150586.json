@@ -5,5 +5,7 @@
   "bairro": "Jardim Quisisana (Vila Nova Curuçá)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.526901,
+  "lon": -46.4044267
 }

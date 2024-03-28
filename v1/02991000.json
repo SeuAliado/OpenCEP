@@ -5,5 +5,7 @@
   "bairro": "Jardim Rincão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.443914,
+  "lon": -46.7354904
 }

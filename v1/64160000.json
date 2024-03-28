@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luzilândia",
   "uf": "PI",
-  "ibge": "2205805"
+  "ibge": "2205805",
+  "lat": -3.4686717,
+  "lon": -42.3721335
 }

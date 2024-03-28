@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Domingos do Maranhão",
   "uf": "MA",
-  "ibge": "2110708"
+  "ibge": "2110708",
+  "lat": -5.5813433,
+  "lon": -44.3825889
 }

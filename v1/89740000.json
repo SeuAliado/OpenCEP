@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arabutã",
   "uf": "SC",
-  "ibge": "4201273"
+  "ibge": "4201273",
+  "lat": -27.1591792,
+  "lon": -52.1427686
 }

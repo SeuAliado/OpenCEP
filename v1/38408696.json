@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.940423,
+  "lon": -48.2272226
 }

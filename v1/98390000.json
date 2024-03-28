@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Erval Seco",
   "uf": "RS",
-  "ibge": "4307302"
+  "ibge": "4307302",
+  "lat": -27.5352749,
+  "lon": -53.4986586
 }

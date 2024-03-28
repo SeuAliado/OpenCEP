@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Altônia",
   "uf": "PR",
-  "ibge": "4100509"
+  "ibge": "4100509",
+  "lat": -23.8728015,
+  "lon": -53.8938717
 }

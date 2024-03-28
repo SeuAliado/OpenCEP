@@ -5,5 +5,7 @@
   "bairro": "Vila Torres",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4615992,
+  "lon": -49.3936659
 }

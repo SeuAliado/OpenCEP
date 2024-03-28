@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Rianápolis",
   "uf": "GO",
-  "ibge": "5218706"
+  "ibge": "5218706",
+  "lat": -15.4491013,
+  "lon": -49.5129395
 }

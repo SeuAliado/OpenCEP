@@ -5,5 +5,7 @@
   "bairro": "Paranhos (Vila Inhomirim)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.586993,
+  "lon": -43.1909635
 }

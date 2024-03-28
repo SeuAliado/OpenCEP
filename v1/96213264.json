@@ -5,5 +5,7 @@
   "bairro": "Profilurbi",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0640035,
+  "lon": -52.1668566
 }

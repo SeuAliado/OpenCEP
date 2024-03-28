@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conselheiro Pena",
   "uf": "MG",
-  "ibge": "3118403"
+  "ibge": "3118403",
+  "lat": -19.1739275,
+  "lon": -41.4733731
 }

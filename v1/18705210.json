@@ -5,5 +5,7 @@
   "bairro": "Vila Aires",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0965666,
+  "lon": -48.9303391
 }

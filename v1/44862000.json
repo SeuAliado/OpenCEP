@@ -5,5 +5,7 @@
   "bairro": "Tamburil",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "lat": -11.2340677,
+  "lon": -41.0948581
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.9284327,
+  "lon": -38.5062601
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4773662,
+  "lon": -46.6917438
 }

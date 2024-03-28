@@ -5,5 +5,7 @@
   "bairro": "Parque do Sol",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7899535,
+  "lon": -45.184165
 }

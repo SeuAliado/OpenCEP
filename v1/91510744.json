@@ -5,5 +5,7 @@
   "bairro": "Vila João Pessoa",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0635568,
+  "lon": -51.178708
 }

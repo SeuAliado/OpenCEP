@@ -5,5 +5,7 @@
   "bairro": "Mundo Novo",
   "localidade": "Campos Borges",
   "uf": "RS",
-  "ibge": "4304101"
+  "ibge": "4304101",
+  "lat": -28.8946968,
+  "lon": -53.0773521
 }

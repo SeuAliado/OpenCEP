@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.2301949,
+  "lon": -39.3687486
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Cerejeiras",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4243064,
+  "lon": -46.3637274
 }

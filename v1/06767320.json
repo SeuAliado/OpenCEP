@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cecília",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6211251,
+  "lon": -46.7875532
 }

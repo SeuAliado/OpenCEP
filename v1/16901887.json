@@ -5,5 +5,7 @@
   "bairro": "Parque Empresarial",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8963701,
+  "lon": -51.3771234
 }

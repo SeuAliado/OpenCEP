@@ -5,5 +5,7 @@
   "bairro": "Vila São Bento",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2070052,
+  "lon": -46.8821096
 }

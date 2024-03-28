@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Equador",
   "uf": "RN",
-  "ibge": "2403400"
+  "ibge": "2403400",
+  "lat": -6.9444777,
+  "lon": -36.7176682
 }

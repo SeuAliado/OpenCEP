@@ -5,5 +5,7 @@
   "bairro": "Goya (Guia de Pacobaíba)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.688701,
+  "lon": -43.128027
 }

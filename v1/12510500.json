@@ -5,5 +5,7 @@
   "bairro": "Bosque dos Ipês",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7767843,
+  "lon": -45.249006
 }

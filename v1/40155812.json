@@ -5,5 +5,7 @@
   "bairro": "Jardim Apipema",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0034036,
+  "lon": -38.5162483
 }

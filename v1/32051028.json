@@ -5,5 +5,7 @@
   "bairro": "Nazaré",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9498943,
+  "lon": -43.998869
 }

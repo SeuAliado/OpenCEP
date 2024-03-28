@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Apiacá",
   "uf": "ES",
-  "ibge": "3200508"
+  "ibge": "3200508",
+  "lat": -20.9813859,
+  "lon": -41.5587
 }

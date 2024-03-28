@@ -5,5 +5,7 @@
   "bairro": "Lagoa",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9638223,
+  "lon": -43.2142114
 }

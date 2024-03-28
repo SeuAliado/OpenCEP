@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1828665,
+  "lon": -50.4611241
 }

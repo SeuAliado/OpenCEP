@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Beira Rio",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8661694,
+  "lon": -47.1478325
 }

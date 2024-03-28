@@ -5,5 +5,7 @@
   "bairro": "Planta York",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.468324,
+  "lon": -49.0308914
 }

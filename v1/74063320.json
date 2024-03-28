@@ -5,5 +5,7 @@
   "bairro": "Setor Norte Ferroviário",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6605056,
+  "lon": -49.2552619
 }

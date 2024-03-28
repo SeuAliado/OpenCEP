@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Americano do Brasil",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2600424,
+  "lon": -48.9459136
 }

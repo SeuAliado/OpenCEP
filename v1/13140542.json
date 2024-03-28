@@ -5,5 +5,7 @@
   "bairro": "Jardim Ypê",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7797241,
+  "lon": -47.1579115
 }

@@ -5,5 +5,7 @@
   "bairro": "São Gabriel",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -25.3484304,
+  "lon": -49.1600202
 }

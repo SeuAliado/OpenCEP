@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dona Inês",
   "uf": "PB",
-  "ibge": "2505709"
+  "ibge": "2505709",
+  "lat": -6.6052152,
+  "lon": -35.626852
 }

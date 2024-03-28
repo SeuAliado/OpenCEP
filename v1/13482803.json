@@ -5,5 +5,7 @@
   "bairro": "Vila Agostinho Francisco de Assis",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5710773,
+  "lon": -47.4253273
 }

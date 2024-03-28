@@ -5,5 +5,7 @@
   "bairro": "Gameleira da Lapa",
   "localidade": "Sítio do Mato",
   "uf": "BA",
-  "ibge": "2930758"
+  "ibge": "2930758",
+  "lat": -13.0799088,
+  "lon": -43.4678816
 }

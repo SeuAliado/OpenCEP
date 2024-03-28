@@ -5,5 +5,7 @@
   "bairro": "Parque Cidade Jardim I",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7196894,
+  "lon": -60.152419
 }

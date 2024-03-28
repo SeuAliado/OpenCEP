@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapuca",
   "uf": "RS",
-  "ibge": "4310579"
+  "ibge": "4310579",
+  "lat": -28.7814626,
+  "lon": -52.2018502
 }

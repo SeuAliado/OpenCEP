@@ -5,5 +5,7 @@
   "bairro": "Ponta do Caju",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5246998,
+  "lon": -48.5074864
 }

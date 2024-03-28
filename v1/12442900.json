@@ -5,5 +5,7 @@
   "bairro": "Residencial Comercial Cidade Vista Alegre",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9031854,
+  "lon": -45.3546381
 }

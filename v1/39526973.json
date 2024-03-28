@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catuti",
   "uf": "MG",
-  "ibge": "3115474"
+  "ibge": "3115474",
+  "lat": -15.3598451,
+  "lon": -42.9635966
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Costa e Silva",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "lat": -23.8764514,
+  "lon": -46.4170817
 }

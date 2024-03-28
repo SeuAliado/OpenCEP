@@ -5,5 +5,7 @@
   "bairro": "Jardim Flor da Montanha",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4465845,
+  "lon": -46.5410969
 }

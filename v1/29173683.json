@@ -5,5 +5,7 @@
   "bairro": "Praia de Capuba",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1090954,
+  "lon": -40.1751068
 }

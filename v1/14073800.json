@@ -5,5 +5,7 @@
   "bairro": "Chácaras Rio Pardo",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.0989798,
+  "lon": -47.7834959
 }

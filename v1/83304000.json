@@ -5,5 +5,7 @@
   "bairro": "Vila Rosa",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4359956,
+  "lon": -49.060359
 }

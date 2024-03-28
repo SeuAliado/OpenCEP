@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.3902919,
+  "lon": -47.3424569
 }

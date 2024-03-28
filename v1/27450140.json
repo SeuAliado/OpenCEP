@@ -5,5 +5,7 @@
   "bairro": "Ribeirão de São Joaquim",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.3025113,
+  "lon": -44.190644
 }

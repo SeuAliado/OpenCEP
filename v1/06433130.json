@@ -5,5 +5,7 @@
   "bairro": "Jardim Audir",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5262013,
+  "lon": -46.888274
 }

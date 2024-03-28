@@ -5,5 +5,7 @@
   "bairro": "Residencial São Paulo",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3122087,
+  "lon": -45.9853345
 }

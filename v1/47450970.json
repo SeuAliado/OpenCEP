@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "lat": -11.4303189,
+  "lon": -42.5058421
 }

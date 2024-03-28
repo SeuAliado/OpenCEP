@@ -5,5 +5,7 @@
   "bairro": "Doutor Elias",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "lat": -22.1989796,
+  "lon": -42.2549418
 }

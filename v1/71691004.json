@@ -5,5 +5,7 @@
   "bairro": "Centro (São Sebastião)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.9013839,
+  "lon": -47.7697324
 }

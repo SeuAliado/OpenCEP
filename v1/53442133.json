@@ -5,5 +5,7 @@
   "bairro": "Jardim Maranguape",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9528037,
+  "lon": -34.8461637
 }

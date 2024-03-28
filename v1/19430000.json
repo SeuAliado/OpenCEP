@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marabá Paulista",
   "uf": "SP",
-  "ibge": "3528700"
+  "ibge": "3528700",
+  "lat": -22.1626459,
+  "lon": -52.0639245
 }

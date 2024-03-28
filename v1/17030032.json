@@ -5,5 +5,7 @@
   "bairro": "Vila Triagem",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3147342,
+  "lon": -49.0432304
 }

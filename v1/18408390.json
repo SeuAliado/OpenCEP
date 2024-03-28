@@ -5,5 +5,7 @@
   "bairro": "Vila Maringá",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -24.0037314,
+  "lon": -48.9017446
 }

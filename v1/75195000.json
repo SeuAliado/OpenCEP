@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonfinópolis",
   "uf": "GO",
-  "ibge": "5203559"
+  "ibge": "5203559",
+  "lat": -16.6177235,
+  "lon": -48.9620158
 }

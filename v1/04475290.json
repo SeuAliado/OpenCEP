@@ -5,5 +5,7 @@
   "bairro": "Guacuri",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6979325,
+  "lon": -46.6362114
 }

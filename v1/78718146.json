@@ -5,5 +5,7 @@
   "bairro": "Vila Duarte",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4510046,
+  "lon": -54.6252103
 }

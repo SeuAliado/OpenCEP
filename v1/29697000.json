@@ -5,5 +5,7 @@
   "bairro": "Itaçu",
   "localidade": "Itaguaçu",
   "uf": "ES",
-  "ibge": "3202702"
+  "ibge": "3202702",
+  "lat": -19.7040662,
+  "lon": -40.7847893
 }

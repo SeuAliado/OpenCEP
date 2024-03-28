@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conceição do Coité",
   "uf": "BA",
-  "ibge": "2908408"
+  "ibge": "2908408",
+  "lat": -11.5657521,
+  "lon": -39.2828951
 }

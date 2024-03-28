@@ -5,5 +5,7 @@
   "bairro": "Cocão",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.0750586,
+  "lon": -51.038529
 }

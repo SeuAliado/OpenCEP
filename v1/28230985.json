@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "São Francisco de Itabapoana",
   "uf": "RJ",
-  "ibge": "3304755"
+  "ibge": "3304755",
+  "lat": -21.4893821,
+  "lon": -41.0663156
 }

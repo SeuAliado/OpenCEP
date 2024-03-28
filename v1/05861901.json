@@ -5,5 +5,7 @@
   "bairro": "Jardim São Judas Tadeu",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6733726,
+  "lon": -46.7591438
 }

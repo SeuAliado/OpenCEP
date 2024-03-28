@@ -5,5 +5,7 @@
   "bairro": "Parque Nova Dourados",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2464956,
+  "lon": -54.7907222
 }

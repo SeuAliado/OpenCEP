@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Imbaú",
   "uf": "PR",
-  "ibge": "4110078"
+  "ibge": "4110078",
+  "lat": -24.4490009,
+  "lon": -50.7555975
 }

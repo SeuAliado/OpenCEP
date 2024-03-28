@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Anicuns",
   "uf": "GO",
-  "ibge": "5201306"
+  "ibge": "5201306",
+  "lat": -16.4594312,
+  "lon": -49.9641529
 }

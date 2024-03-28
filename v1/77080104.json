@@ -5,5 +5,7 @@
   "bairro": "Taquarussu",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.3441938,
+  "lon": -48.2987675
 }

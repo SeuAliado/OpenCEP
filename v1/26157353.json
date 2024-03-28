@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7100591,
+  "lon": -43.4042605
 }

@@ -5,5 +5,7 @@
   "bairro": "São Domingos",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4976851,
+  "lon": -42.6366628
 }

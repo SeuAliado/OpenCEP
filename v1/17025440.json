@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Beija-Flor",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3019747,
+  "lon": -49.0529931
 }

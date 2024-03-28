@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.5614462,
+  "lon": -55.6928855
 }

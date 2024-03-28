@@ -5,5 +5,7 @@
   "bairro": "Jordão",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.1350306,
+  "lon": -34.9414454
 }

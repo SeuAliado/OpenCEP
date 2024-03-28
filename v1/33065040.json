@@ -5,5 +5,7 @@
   "bairro": "Bonanza",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7737669,
+  "lon": -43.8326374
 }

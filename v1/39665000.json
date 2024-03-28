@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carbonita",
   "uf": "MG",
-  "ibge": "3113503"
+  "ibge": "3113503",
+  "lat": -17.5259619,
+  "lon": -43.0140875
 }

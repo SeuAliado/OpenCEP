@@ -5,5 +5,7 @@
   "bairro": "Lagoa Clara",
   "localidade": "Macaúbas",
   "uf": "BA",
-  "ibge": "2919801"
+  "ibge": "2919801",
+  "lat": -13.0763683,
+  "lon": -42.6804033
 }

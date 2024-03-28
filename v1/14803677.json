@@ -5,5 +5,7 @@
   "bairro": "Portal das Laranjeiras",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7800367,
+  "lon": -48.2399451
 }

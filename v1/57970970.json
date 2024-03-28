@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Lino",
   "uf": "AL",
-  "ibge": "2705606"
+  "ibge": "2705606",
+  "lat": -8.9413566,
+  "lon": -35.6651339
 }

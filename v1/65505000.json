@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Afonso Cunha",
   "uf": "MA",
-  "ibge": "2100105"
+  "ibge": "2100105",
+  "lat": -4.2081145,
+  "lon": -43.2908233
 }

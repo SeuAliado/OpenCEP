@@ -5,5 +5,7 @@
   "bairro": "Candangolândia",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8699329,
+  "lon": -47.9581809
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Shimabokuro",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3033394,
+  "lon": -51.1681734
 }

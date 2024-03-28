@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.778709,
+  "lon": -43.8980718
 }

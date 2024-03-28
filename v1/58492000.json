@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gado Bravo",
   "uf": "PB",
-  "ibge": "2506251"
+  "ibge": "2506251",
+  "lat": -7.5825489,
+  "lon": -35.7915396
 }

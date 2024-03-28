@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Campos Elíseos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9394638,
+  "lon": -47.1051659
 }

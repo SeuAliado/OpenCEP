@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3505987,
+  "lon": -40.4023679
 }

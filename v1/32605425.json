@@ -5,5 +5,7 @@
   "bairro": "Vila das Flores",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9270201,
+  "lon": -44.1834309
 }

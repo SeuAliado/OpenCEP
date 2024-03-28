@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Formoso",
   "uf": "GO",
-  "ibge": "5208103"
+  "ibge": "5208103",
+  "lat": -13.671932,
+  "lon": -48.8397403
 }

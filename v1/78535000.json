@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marcelândia",
   "uf": "MT",
-  "ibge": "5105580"
+  "ibge": "5105580",
+  "lat": -11.0843575,
+  "lon": -54.5213573
 }

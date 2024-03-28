@@ -5,5 +5,7 @@
   "bairro": "Jardim Adélia Cavicchia Grotta",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5903724,
+  "lon": -47.4157334
 }

@@ -5,5 +5,7 @@
   "bairro": "Serraria",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5449148,
+  "lon": -48.6450304
 }

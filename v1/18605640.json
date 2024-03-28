@@ -5,5 +5,7 @@
   "bairro": "Vila Longo",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9054302,
+  "lon": -48.4412843
 }

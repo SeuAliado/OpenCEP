@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mantena",
   "uf": "MG",
-  "ibge": "3139607"
+  "ibge": "3139607",
+  "lat": -18.5790891,
+  "lon": -41.1445973
 }

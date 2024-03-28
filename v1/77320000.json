@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taguatinga",
   "uf": "TO",
-  "ibge": "1720903"
+  "ibge": "1720903",
+  "lat": -12.4060068,
+  "lon": -46.4340888
 }

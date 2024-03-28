@@ -5,5 +5,7 @@
   "bairro": "Jardim das Acácias",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9406011,
+  "lon": -48.4621627
 }

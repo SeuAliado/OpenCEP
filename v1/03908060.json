@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Carrão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5811045,
+  "lon": -46.5066553
 }

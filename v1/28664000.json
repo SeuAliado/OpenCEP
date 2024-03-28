@@ -5,5 +5,7 @@
   "bairro": "São José do Ribeirão",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "lat": -22.2056818,
+  "lon": -42.3986244
 }

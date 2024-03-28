@@ -5,5 +5,7 @@
   "bairro": "Vila Tietê",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5193272,
+  "lon": -46.2010272
 }

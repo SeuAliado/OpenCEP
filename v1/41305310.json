@@ -5,5 +5,7 @@
   "bairro": "Valéria",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8689769,
+  "lon": -38.4277671
 }

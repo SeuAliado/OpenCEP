@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8574752,
+  "lon": -55.4979224
 }

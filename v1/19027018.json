@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1096375,
+  "lon": -51.422519
 }

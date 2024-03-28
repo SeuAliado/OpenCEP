@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coxilha",
   "uf": "RS",
-  "ibge": "4305975"
+  "ibge": "4305975",
+  "lat": -28.1386399,
+  "lon": -52.3400517
 }

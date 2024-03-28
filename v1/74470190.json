@@ -5,5 +5,7 @@
   "bairro": "Chácaras de Recreio São Joaquim",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6370236,
+  "lon": -49.351809
 }

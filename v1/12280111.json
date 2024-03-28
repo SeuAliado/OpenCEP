@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0918508,
+  "lon": -45.7053624
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4616562,
+  "lon": -46.5225653
 }

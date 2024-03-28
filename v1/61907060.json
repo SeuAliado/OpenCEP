@@ -5,5 +5,7 @@
   "bairro": "Furna da Onça",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8902595,
+  "lon": -38.6340332
 }

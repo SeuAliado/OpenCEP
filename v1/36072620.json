@@ -5,5 +5,7 @@
   "bairro": "Barão do Retiro",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7765026,
+  "lon": -43.2943577
 }

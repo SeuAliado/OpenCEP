@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7351863,
+  "lon": -52.4398366
 }

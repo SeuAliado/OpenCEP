@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Onofre",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6398807,
+  "lon": -46.8067552
 }

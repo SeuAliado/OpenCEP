@@ -5,5 +5,7 @@
   "bairro": "Covoa II",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "lat": -15.3261801,
+  "lon": -49.107973
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Amanda II",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.9012927,
+  "lon": -47.2500004
 }

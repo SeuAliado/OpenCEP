@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria de Jetibá",
   "uf": "ES",
-  "ibge": "3204559"
+  "ibge": "3204559",
+  "lat": -20.0303946,
+  "lon": -40.740523
 }

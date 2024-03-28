@@ -5,5 +5,7 @@
   "bairro": "Residencial Canadá",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7247095,
+  "lon": -49.3431589
 }

@@ -5,5 +5,7 @@
   "bairro": "Guaicurus",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "lat": -19.0400698,
+  "lon": -57.6508778
 }

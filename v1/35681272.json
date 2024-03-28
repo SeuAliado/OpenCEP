@@ -5,5 +5,7 @@
   "bairro": "Residencial Veredas",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0727951,
+  "lon": -44.5603887
 }

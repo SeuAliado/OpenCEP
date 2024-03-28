@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luís (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4943179,
+  "lon": -46.3880304
 }

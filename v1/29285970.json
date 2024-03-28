@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piúma",
   "uf": "ES",
-  "ibge": "3204203"
+  "ibge": "3204203",
+  "lat": -20.8354071,
+  "lon": -40.7279942
 }

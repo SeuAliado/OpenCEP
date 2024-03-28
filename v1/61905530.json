@@ -5,5 +5,7 @@
   "bairro": "Novo Maracanaú",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8649798,
+  "lon": -38.6226081
 }

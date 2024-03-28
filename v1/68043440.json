@@ -5,5 +5,7 @@
   "bairro": "Ipanema",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.461468,
+  "lon": -54.7154216
 }

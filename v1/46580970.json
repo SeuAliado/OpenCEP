@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tanque Novo",
   "uf": "BA",
-  "ibge": "2931053"
+  "ibge": "2931053",
+  "lat": -13.5543592,
+  "lon": -42.4843076
 }

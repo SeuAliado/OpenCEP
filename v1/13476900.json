@@ -5,5 +5,7 @@
   "bairro": "Balneário Salto Grande",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7473216,
+  "lon": -47.2467717
 }

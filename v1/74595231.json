@@ -5,5 +5,7 @@
   "bairro": "Parque das Flores",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6247356,
+  "lon": -49.2912548
 }

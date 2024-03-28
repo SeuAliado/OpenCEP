@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.2915603,
+  "lon": -35.9656462
 }

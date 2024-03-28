@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Malacacheta",
   "uf": "MG",
-  "ibge": "3139201"
+  "ibge": "3139201",
+  "lat": -17.8475704,
+  "lon": -42.0784361
 }

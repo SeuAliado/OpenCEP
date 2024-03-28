@@ -5,5 +5,7 @@
   "bairro": "Vila Zat",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4735048,
+  "lon": -46.715558
 }

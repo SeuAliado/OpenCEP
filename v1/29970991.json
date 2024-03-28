@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro Canário",
   "uf": "ES",
-  "ibge": "3204054"
+  "ibge": "3204054",
+  "lat": -18.3050352,
+  "lon": -39.9415358
 }

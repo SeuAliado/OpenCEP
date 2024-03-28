@@ -5,5 +5,7 @@
   "bairro": "Durando Mumare (Mailasqui)",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.5524447,
+  "lon": -47.0733458
 }

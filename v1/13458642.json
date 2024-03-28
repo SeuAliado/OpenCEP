@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial do Lago",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7766264,
+  "lon": -47.39115
 }

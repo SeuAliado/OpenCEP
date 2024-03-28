@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Letícia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9598652,
+  "lon": -47.105683
 }

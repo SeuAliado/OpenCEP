@@ -5,5 +5,7 @@
   "bairro": "Vila Carlito",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9344072,
+  "lon": -47.0500999
 }

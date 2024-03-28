@@ -5,5 +5,7 @@
   "bairro": "Itacolomi",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8161854,
+  "lon": -43.2351096
 }

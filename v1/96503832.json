@@ -5,5 +5,7 @@
   "bairro": "Ponche Verde",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0214676,
+  "lon": -52.8968464
 }

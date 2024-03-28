@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gouveia",
   "uf": "MG",
-  "ibge": "3127602"
+  "ibge": "3127602",
+  "lat": -18.4524176,
+  "lon": -43.7427018
 }

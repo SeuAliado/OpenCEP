@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Grande",
   "uf": "PE",
-  "ibge": "2608750"
+  "ibge": "2608750",
+  "lat": -12.2494476,
+  "lon": -38.9397277
 }

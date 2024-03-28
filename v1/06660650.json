@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaguassu",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5473122,
+  "lon": -46.9609393
 }

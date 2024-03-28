@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Diamante do Sul",
   "uf": "PR",
-  "ibge": "4107124"
+  "ibge": "4107124",
+  "lat": -24.9962725,
+  "lon": -52.7241914
 }

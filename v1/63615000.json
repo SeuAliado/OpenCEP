@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "lat": -6.0060993,
+  "lon": -40.2457989
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Olivio Benassi",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "lat": -21.6194026,
+  "lon": -48.3644913
 }

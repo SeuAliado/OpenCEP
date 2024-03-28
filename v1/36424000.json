@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Queluzito",
   "uf": "MG",
-  "ibge": "3153806"
+  "ibge": "3153806",
+  "lat": -20.7420476,
+  "lon": -43.8854988
 }

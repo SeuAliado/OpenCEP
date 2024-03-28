@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.7587458,
+  "lon": -49.66954
 }

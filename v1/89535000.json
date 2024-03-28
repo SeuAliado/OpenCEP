@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ponte Alta do Norte",
   "uf": "SC",
-  "ibge": "4213351"
+  "ibge": "4213351",
+  "lat": -27.1604981,
+  "lon": -50.3894858
 }

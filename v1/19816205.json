@@ -5,5 +5,7 @@
   "bairro": "Vila Ouro Verde",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6631203,
+  "lon": -50.4046739
 }

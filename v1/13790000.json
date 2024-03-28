@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião da Grama",
   "uf": "SP",
-  "ibge": "3550803"
+  "ibge": "3550803",
+  "lat": -21.7099725,
+  "lon": -46.8214955
 }

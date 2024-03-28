@@ -5,5 +5,7 @@
   "bairro": "Cajueiro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0105373,
+  "lon": -34.88311
 }

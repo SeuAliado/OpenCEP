@@ -5,5 +5,7 @@
   "bairro": "Arvoredo",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2159778,
+  "lon": -52.0269842
 }

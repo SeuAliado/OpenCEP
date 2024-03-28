@@ -5,5 +5,7 @@
   "bairro": "Prado Velho",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4496279,
+  "lon": -49.2469195
 }

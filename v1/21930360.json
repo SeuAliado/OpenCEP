@@ -5,5 +5,7 @@
   "bairro": "Pitangueiras",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8137339,
+  "lon": -43.1765436
 }

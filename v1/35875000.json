@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morro do Pilar",
   "uf": "MG",
-  "ibge": "3143708"
+  "ibge": "3143708",
+  "lat": -19.2155418,
+  "lon": -43.3680788
 }

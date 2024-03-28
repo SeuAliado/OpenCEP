@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4250552,
+  "lon": -40.5130814
 }

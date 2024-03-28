@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sarzedo",
   "uf": "MG",
-  "ibge": "3165537"
+  "ibge": "3165537",
+  "lat": -20.038938,
+  "lon": -44.1400361
 }

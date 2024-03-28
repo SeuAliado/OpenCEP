@@ -5,5 +5,7 @@
   "bairro": "Jardim Líbano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4840338,
+  "lon": -46.7360569
 }

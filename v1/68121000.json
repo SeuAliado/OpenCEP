@@ -5,5 +5,7 @@
   "bairro": "Vila França",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4315455,
+  "lon": -54.7445853
 }

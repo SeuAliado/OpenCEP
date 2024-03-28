@@ -5,5 +5,7 @@
   "bairro": "Residencial Maripá",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.889972,
+  "lon": -55.5090112
 }

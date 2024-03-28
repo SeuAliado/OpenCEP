@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera III",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4759534,
+  "lon": -44.5052408
 }

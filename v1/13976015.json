@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4313395,
+  "lon": -46.8244872
 }

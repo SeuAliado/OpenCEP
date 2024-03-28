@@ -5,5 +5,7 @@
   "bairro": "Jardim das Flores",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5721354,
+  "lon": -46.8131967
 }

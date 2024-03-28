@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.754841,
+  "lon": -57.0961273
 }

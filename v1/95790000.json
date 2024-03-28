@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brochier",
   "uf": "RS",
-  "ibge": "4302659"
+  "ibge": "4302659",
+  "lat": -29.5560839,
+  "lon": -51.5931013
 }

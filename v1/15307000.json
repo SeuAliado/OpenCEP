@@ -5,5 +5,7 @@
   "bairro": "Prudêncio e Moraes",
   "localidade": "General Salgado",
   "uf": "SP",
-  "ibge": "3516903"
+  "ibge": "3516903",
+  "lat": -21.1864376,
+  "lon": -47.8021407
 }

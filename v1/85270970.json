@@ -5,5 +5,7 @@
   "bairro": "Palmital",
   "localidade": "Palmital",
   "uf": "PR",
-  "ibge": "4117800"
+  "ibge": "4117800",
+  "lat": -24.5087735,
+  "lon": -48.8403635
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riacho das Almas",
   "uf": "PE",
-  "ibge": "2611705"
+  "ibge": "2611705",
+  "lat": -8.0672896,
+  "lon": -35.8934136
 }

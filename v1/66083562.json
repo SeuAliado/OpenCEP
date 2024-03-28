@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4105772,
+  "lon": -48.4782909
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9496263,
+  "lon": -67.82545
 }

@@ -5,5 +5,7 @@
   "bairro": "Piedade",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "lat": -8.1819455,
+  "lon": -34.9212301
 }

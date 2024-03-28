@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Magalhães de Almeida",
   "uf": "MA",
-  "ibge": "2106300"
+  "ibge": "2106300",
+  "lat": -3.3926941,
+  "lon": -42.2121181
 }

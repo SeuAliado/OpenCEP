@@ -5,5 +5,7 @@
   "bairro": "Jardim da Luz",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3174589,
+  "lon": -51.1075739
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alice",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4563216,
+  "lon": -46.5698987
 }

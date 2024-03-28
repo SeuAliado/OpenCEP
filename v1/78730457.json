@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Cidade Alta",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4634676,
+  "lon": -54.605646
 }

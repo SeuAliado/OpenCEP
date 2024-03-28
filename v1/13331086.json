@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa II",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0688003,
+  "lon": -47.2331004
 }

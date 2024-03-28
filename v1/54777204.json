@@ -5,5 +5,7 @@
   "bairro": "João Paulo II",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.0073318,
+  "lon": -35.0009058
 }

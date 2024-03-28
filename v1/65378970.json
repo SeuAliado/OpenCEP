@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tufilândia",
   "uf": "MA",
-  "ibge": "2112274"
+  "ibge": "2112274",
+  "lat": -2.5612477,
+  "lon": -44.3194312
 }

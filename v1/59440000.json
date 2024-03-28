@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sítio Novo",
   "uf": "RN",
-  "ibge": "2413706"
+  "ibge": "2413706",
+  "lat": -6.0869171,
+  "lon": -35.9369952
 }

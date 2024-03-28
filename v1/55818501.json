@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "lat": -7.8479529,
+  "lon": -35.2508183
 }

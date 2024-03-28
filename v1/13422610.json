@@ -5,5 +5,7 @@
   "bairro": "Alto da Pompéia",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7581046,
+  "lon": -47.6193968
 }

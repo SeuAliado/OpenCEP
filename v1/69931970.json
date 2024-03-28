@@ -5,5 +5,7 @@
   "bairro": "Conquista",
   "localidade": "Capixaba",
   "uf": "AC",
-  "ibge": "1200179"
+  "ibge": "1200179",
+  "lat": -7.999302,
+  "lon": -34.866364
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Karolyne",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5516272,
+  "lon": -47.4668046
 }

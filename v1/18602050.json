@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.892828,
+  "lon": -48.4435912
 }

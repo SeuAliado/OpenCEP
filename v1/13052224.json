@@ -5,5 +5,7 @@
   "bairro": "Vila Aeroporto I",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9741061,
+  "lon": -47.1123017
 }

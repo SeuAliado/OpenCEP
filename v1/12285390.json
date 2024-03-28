@@ -5,5 +5,7 @@
   "bairro": "Chácaras Santa Rita",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1466113,
+  "lon": -45.7280455
 }

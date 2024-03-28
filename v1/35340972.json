@@ -5,5 +5,7 @@
   "bairro": "Revés do Belém",
   "localidade": "Bom Jesus do Galho",
   "uf": "MG",
-  "ibge": "3107802"
+  "ibge": "3107802",
+  "lat": -19.5804658,
+  "lon": -42.4685569
 }

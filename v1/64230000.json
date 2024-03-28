@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buriti dos Lopes",
   "uf": "PI",
-  "ibge": "2202000"
+  "ibge": "2202000",
+  "lat": -3.1850888,
+  "lon": -41.8799408
 }

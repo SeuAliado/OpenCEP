@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Raul Soares",
   "uf": "MG",
-  "ibge": "3154002"
+  "ibge": "3154002",
+  "lat": -20.1013284,
+  "lon": -42.452666
 }

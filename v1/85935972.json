@@ -5,5 +5,7 @@
   "bairro": "Terra Nova do Piquiri",
   "localidade": "Assis Chateaubriand",
   "uf": "PR",
-  "ibge": "4102000"
+  "ibge": "4102000",
+  "lat": -24.4029633,
+  "lon": -53.5136491
 }

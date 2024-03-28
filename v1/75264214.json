@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial de Senador Canedo",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.7279428,
+  "lon": -49.091909
 }

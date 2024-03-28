@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -23.2917958,
+  "lon": -51.2763915
 }

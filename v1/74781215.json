@@ -5,5 +5,7 @@
   "bairro": "Santo Hilário Expansão",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6476731,
+  "lon": -49.1959358
 }

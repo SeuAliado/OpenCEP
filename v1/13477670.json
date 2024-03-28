@@ -5,5 +5,7 @@
   "bairro": "Jardim Boer I",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7408904,
+  "lon": -47.2850436
 }

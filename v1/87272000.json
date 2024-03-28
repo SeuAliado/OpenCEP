@@ -5,5 +5,7 @@
   "bairro": "Sertãozinho",
   "localidade": "Engenheiro Beltrão",
   "uf": "PR",
-  "ibge": "4107504"
+  "ibge": "4107504",
+  "lat": -23.8380515,
+  "lon": -52.3063947
 }

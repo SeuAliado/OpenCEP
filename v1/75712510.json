@@ -5,5 +5,7 @@
   "bairro": "Loteamento Vale do Sol",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1562684,
+  "lon": -47.9603988
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Arizona",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0212335,
+  "lon": -46.8359691
 }

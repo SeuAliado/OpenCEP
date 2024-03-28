@@ -5,5 +5,7 @@
   "bairro": "Morada do Vale II",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.908637,
+  "lon": -51.0516447
 }

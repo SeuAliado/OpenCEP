@@ -5,5 +5,7 @@
   "bairro": "Ibitiúva",
   "localidade": "Pitangueiras",
   "uf": "SP",
-  "ibge": "3539509"
+  "ibge": "3539509",
+  "lat": -20.9989111,
+  "lon": -48.3324366
 }

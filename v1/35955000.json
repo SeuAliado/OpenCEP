@@ -5,5 +5,7 @@
   "bairro": "Fonseca",
   "localidade": "Alvinópolis",
   "uf": "MG",
-  "ibge": "3102308"
+  "ibge": "3102308",
+  "lat": -18.2743714,
+  "lon": -42.4520123
 }

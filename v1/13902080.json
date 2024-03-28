@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7022763,
+  "lon": -46.75404
 }

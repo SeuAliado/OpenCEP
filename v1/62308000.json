@@ -5,5 +5,7 @@
   "bairro": "Lambedouro",
   "localidade": "Viçosa do Ceará",
   "uf": "CE",
-  "ibge": "2314102"
+  "ibge": "2314102",
+  "lat": -3.5535765,
+  "lon": -41.07576
 }

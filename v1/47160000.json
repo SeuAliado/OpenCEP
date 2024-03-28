@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mansidão",
   "uf": "BA",
-  "ibge": "2920452"
+  "ibge": "2920452",
+  "lat": -11.1390464,
+  "lon": -44.0199152
 }

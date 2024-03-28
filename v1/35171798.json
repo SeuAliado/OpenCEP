@@ -5,5 +5,7 @@
   "bairro": "Potyra (Caladão)",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4782488,
+  "lon": -42.6501304
 }

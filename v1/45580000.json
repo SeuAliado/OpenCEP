@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibirataia",
   "uf": "BA",
-  "ibge": "2912905"
+  "ibge": "2912905",
+  "lat": -14.0647704,
+  "lon": -39.6462988
 }

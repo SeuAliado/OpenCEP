@@ -5,5 +5,7 @@
   "bairro": "Cociza",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.792765,
+  "lon": -48.2318453
 }

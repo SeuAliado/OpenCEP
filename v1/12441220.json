@@ -5,5 +5,7 @@
   "bairro": "Jardim Padre Rodolfo",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9240017,
+  "lon": -45.3625404
 }

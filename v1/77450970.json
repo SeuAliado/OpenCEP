@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Jaú do Tocantins",
   "uf": "TO",
-  "ibge": "1711506"
+  "ibge": "1711506",
+  "lat": -12.6517519,
+  "lon": -48.5953673
 }

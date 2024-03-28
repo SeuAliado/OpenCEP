@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0958061,
+  "lon": -48.9458137
 }

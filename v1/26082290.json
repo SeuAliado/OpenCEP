@@ -5,5 +5,7 @@
   "bairro": "Cacuia",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.728996,
+  "lon": -43.5153762
 }

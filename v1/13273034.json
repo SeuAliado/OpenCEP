@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Mundo",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9529455,
+  "lon": -46.9842678
 }

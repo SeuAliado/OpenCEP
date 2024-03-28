@@ -5,5 +5,7 @@
   "bairro": "Meu Ranchinho",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7317587,
+  "lon": -43.5682241
 }

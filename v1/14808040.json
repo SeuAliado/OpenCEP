@@ -5,5 +5,7 @@
   "bairro": "Jardim Rafaela Amoroso Micelli",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8205322,
+  "lon": -48.1566516
 }

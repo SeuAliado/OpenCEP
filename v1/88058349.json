@@ -5,5 +5,7 @@
   "bairro": "Ingleses do Rio Vermelho",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.4486655,
+  "lon": -48.4113764
 }

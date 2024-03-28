@@ -5,5 +5,7 @@
   "bairro": "Mutirão",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "lat": -4.8614577,
+  "lon": -43.3367234
 }

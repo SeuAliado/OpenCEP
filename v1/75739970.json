@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Davinópolis",
   "uf": "GO",
-  "ibge": "5206909"
+  "ibge": "5206909",
+  "lat": -18.1512148,
+  "lon": -47.5630125
 }

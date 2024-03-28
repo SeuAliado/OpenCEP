@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4310512,
+  "lon": -45.9412227
 }

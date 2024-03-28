@@ -5,5 +5,7 @@
   "bairro": "Jardim Vanessa",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5403384,
+  "lon": -47.4250073
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Arapuã",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2537928,
+  "lon": -50.5508055
 }

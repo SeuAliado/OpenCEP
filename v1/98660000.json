@@ -5,5 +5,7 @@
   "bairro": "Vila Bender",
   "localidade": "Crissiumal",
   "uf": "RS",
-  "ibge": "4306007"
+  "ibge": "4306007",
+  "lat": -27.408053,
+  "lon": -54.2613165
 }

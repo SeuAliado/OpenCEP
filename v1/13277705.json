@@ -5,5 +5,7 @@
   "bairro": "Jardim Morada do Sol",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9967229,
+  "lon": -47.0009987
 }

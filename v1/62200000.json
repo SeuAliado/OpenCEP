@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Russas",
   "uf": "CE",
-  "ibge": "2309300"
+  "ibge": "2309300",
+  "lat": -4.6528599,
+  "lon": -40.5127142
 }

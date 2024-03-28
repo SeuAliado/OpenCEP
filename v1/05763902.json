@@ -5,5 +5,7 @@
   "bairro": "Chácara Nossa Senhora do Bom Conselho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6390399,
+  "lon": -46.7580669
 }

@@ -5,5 +5,7 @@
   "bairro": "Interlagos",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7761971,
+  "lon": -51.7148123
 }

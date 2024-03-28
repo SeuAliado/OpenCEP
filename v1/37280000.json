@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Candeias",
   "uf": "MG",
-  "ibge": "3112000"
+  "ibge": "3112000",
+  "lat": -20.767604,
+  "lon": -45.2763633
 }

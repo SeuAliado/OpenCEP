@@ -5,5 +5,7 @@
   "bairro": "Paratibe",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9336335,
+  "lon": -34.9008027
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piau",
   "uf": "MG",
-  "ibge": "3150109"
+  "ibge": "3150109",
+  "lat": -21.510136,
+  "lon": -43.313404
 }

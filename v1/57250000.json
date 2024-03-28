@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Alegre",
   "uf": "AL",
-  "ibge": "2701407"
+  "ibge": "2701407",
+  "lat": -9.8000846,
+  "lon": -36.2847751
 }

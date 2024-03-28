@@ -5,5 +5,7 @@
   "bairro": "Vila Assis",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2936244,
+  "lon": -48.549003
 }

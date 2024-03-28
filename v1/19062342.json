@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque dos Girassóis",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1337652,
+  "lon": -51.4305135
 }

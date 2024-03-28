@@ -5,5 +5,7 @@
   "bairro": "Campo Novo",
   "localidade": "Fontoura Xavier",
   "uf": "RS",
-  "ibge": "4308300"
+  "ibge": "4308300",
+  "lat": -28.9387938,
+  "lon": -52.3342466
 }

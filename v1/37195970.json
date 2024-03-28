@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana da Vargem",
   "uf": "MG",
-  "ibge": "3158300"
+  "ibge": "3158300",
+  "lat": -21.5565541,
+  "lon": -45.4444039
 }

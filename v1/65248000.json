@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bequimão",
   "uf": "MA",
-  "ibge": "2101905"
+  "ibge": "2101905",
+  "lat": -2.441988,
+  "lon": -44.7845946
 }

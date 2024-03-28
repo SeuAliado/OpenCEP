@@ -5,5 +5,7 @@
   "bairro": "Amapá",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "lat": -5.360033,
+  "lon": -49.1252221
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Branca",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5659365,
+  "lon": -46.3319709
 }

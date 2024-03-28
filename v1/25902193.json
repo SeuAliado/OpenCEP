@@ -5,5 +5,7 @@
   "bairro": "Nova Marília",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6374533,
+  "lon": -43.0270172
 }

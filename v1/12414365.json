@@ -5,5 +5,7 @@
   "bairro": "Vitória Vale II",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9447874,
+  "lon": -45.4199069
 }

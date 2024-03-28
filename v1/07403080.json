@@ -5,5 +5,7 @@
   "bairro": "Arujamérica",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3918802,
+  "lon": -46.3107622
 }

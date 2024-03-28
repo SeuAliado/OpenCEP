@@ -5,5 +5,7 @@
   "bairro": "Pinheiros Altos",
   "localidade": "Piranga",
   "uf": "MG",
-  "ibge": "3150802"
+  "ibge": "3150802",
+  "lat": -20.5694322,
+  "lon": -43.2747946
 }

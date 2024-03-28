@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.1935302,
+  "lon": -46.826801
 }

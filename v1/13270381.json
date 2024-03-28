@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Esperança",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9740099,
+  "lon": -47.0050307
 }

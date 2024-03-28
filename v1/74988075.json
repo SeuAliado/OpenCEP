@@ -5,5 +5,7 @@
   "bairro": "Alvorada Sul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8444376,
+  "lon": -49.2232688
 }

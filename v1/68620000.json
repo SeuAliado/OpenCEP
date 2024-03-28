@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Viseu",
   "uf": "PA",
-  "ibge": "1508308"
+  "ibge": "1508308",
+  "lat": -1.1975183,
+  "lon": -46.1403978
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Fortaleza",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4519949,
+  "lon": -46.8108102
 }

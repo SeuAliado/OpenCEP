@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubajara",
   "uf": "CE",
-  "ibge": "2313609"
+  "ibge": "2313609",
+  "lat": -3.8516684,
+  "lon": -40.9188815
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guajará-Mirim",
   "uf": "RO",
-  "ibge": "1100106"
+  "ibge": "1100106",
+  "lat": -10.798119,
+  "lon": -65.3408536
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "lat": -4.6033831,
+  "lon": -37.8829462
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Divina Pastora",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5927955,
+  "lon": -46.5406686
 }

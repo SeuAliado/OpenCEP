@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8510145,
+  "lon": -51.1268435
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Currais Novos",
   "uf": "RN",
-  "ibge": "2403103"
+  "ibge": "2403103",
+  "lat": -6.2577903,
+  "lon": -36.5210436
 }

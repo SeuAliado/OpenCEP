@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiporã",
   "uf": "PR",
-  "ibge": "4109807"
+  "ibge": "4109807",
+  "lat": -23.2701709,
+  "lon": -51.0494439
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.085659,
+  "lon": -52.4765858
 }

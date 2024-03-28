@@ -5,5 +5,7 @@
   "bairro": "Parque Artur Alvim",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5424827,
+  "lon": -46.4862708
 }

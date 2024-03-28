@@ -5,5 +5,7 @@
   "bairro": "Engenho Velho",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "lat": -8.1342734,
+  "lon": -34.9575484
 }

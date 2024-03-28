@@ -5,5 +5,7 @@
   "bairro": "César Park",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7566586,
+  "lon": -53.7198682
 }

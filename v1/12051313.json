@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Alaor Ferreira Lima",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0118868,
+  "lon": -45.5832556
 }

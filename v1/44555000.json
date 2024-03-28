@@ -5,5 +5,7 @@
   "bairro": "Caraípe",
   "localidade": "São Felipe",
   "uf": "BA",
-  "ibge": "2929107"
+  "ibge": "2929107",
+  "lat": -12.8342587,
+  "lon": -39.0945515
 }

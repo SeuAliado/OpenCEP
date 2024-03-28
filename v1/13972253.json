@@ -5,5 +5,7 @@
   "bairro": "Jardim Bonfim",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4402937,
+  "lon": -46.8121381
 }

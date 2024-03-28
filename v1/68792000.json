@@ -5,5 +5,7 @@
   "bairro": "Americano",
   "localidade": "Santa Isabel do Pará",
   "uf": "PA",
-  "ibge": "1506500"
+  "ibge": "1506500",
+  "lat": -1.305764,
+  "lon": -48.0569431
 }

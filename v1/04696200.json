@@ -5,5 +5,7 @@
   "bairro": "Jurubatuba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.665129,
+  "lon": -46.7060389
 }

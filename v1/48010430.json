@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1290397,
+  "lon": -38.4220782
 }

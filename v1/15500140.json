@@ -5,5 +5,7 @@
   "bairro": "Vila Budin",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4161129,
+  "lon": -49.9668785
 }

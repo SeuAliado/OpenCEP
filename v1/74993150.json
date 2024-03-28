@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8118838,
+  "lon": -49.2146879
 }

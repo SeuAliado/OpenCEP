@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morros",
   "uf": "MA",
-  "ibge": "2107100"
+  "ibge": "2107100",
+  "lat": -2.9677511,
+  "lon": -43.8290988
 }

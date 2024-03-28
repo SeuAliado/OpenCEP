@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carapebus",
   "uf": "RJ",
-  "ibge": "3300936"
+  "ibge": "3300936",
+  "lat": -22.1880774,
+  "lon": -41.6615362
 }

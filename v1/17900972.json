@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dracena",
   "uf": "SP",
-  "ibge": "3514403"
+  "ibge": "3514403",
+  "lat": -21.4854879,
+  "lon": -51.5338826
 }

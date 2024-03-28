@@ -5,5 +5,7 @@
   "bairro": "Comércio",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -4.2676833,
+  "lon": -55.9820103
 }

@@ -5,5 +5,7 @@
   "bairro": "Bairro do Uberaba",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9321089,
+  "lon": -46.5628164
 }

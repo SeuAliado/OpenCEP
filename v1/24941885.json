@@ -5,5 +5,7 @@
   "bairro": "Chácaras de Inoã (Inoã)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.918389,
+  "lon": -42.9356423
 }

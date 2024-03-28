@@ -5,5 +5,7 @@
   "bairro": "Parque Continental IV",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4203565,
+  "lon": -46.5337269
 }

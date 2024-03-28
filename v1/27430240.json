@@ -5,5 +5,7 @@
   "bairro": "Jardim Independência",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4068016,
+  "lon": -44.2556746
 }

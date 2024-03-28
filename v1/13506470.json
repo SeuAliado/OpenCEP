@@ -5,5 +5,7 @@
   "bairro": "Vila Cristina",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.3854639,
+  "lon": -47.5418558
 }

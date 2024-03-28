@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião do Anta",
   "uf": "MG",
-  "ibge": "3164472"
+  "ibge": "3164472",
+  "lat": -19.5068903,
+  "lon": -41.9854291
 }

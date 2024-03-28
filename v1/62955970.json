@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibicuitinga",
   "uf": "CE",
-  "ibge": "2305332"
+  "ibge": "2305332",
+  "lat": -4.9746247,
+  "lon": -38.6375921
 }

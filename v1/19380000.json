@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeirão dos Índios",
   "uf": "SP",
-  "ibge": "3543238"
+  "ibge": "3543238",
+  "lat": -21.8388352,
+  "lon": -51.6024538
 }

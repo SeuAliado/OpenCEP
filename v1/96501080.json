@@ -5,5 +5,7 @@
   "bairro": "Tibiriça",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0376928,
+  "lon": -52.9231898
 }

@@ -5,5 +5,7 @@
   "bairro": "Joana D'arc",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.2911311,
+  "lon": -40.3112476
 }

@@ -5,5 +5,7 @@
   "bairro": "Amanaiara",
   "localidade": "Reriutaba",
   "uf": "CE",
-  "ibge": "2311702"
+  "ibge": "2311702",
+  "lat": -4.1349919,
+  "lon": -40.577067
 }

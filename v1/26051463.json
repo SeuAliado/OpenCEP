@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7892182,
+  "lon": -43.3978256
 }

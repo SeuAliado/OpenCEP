@@ -5,5 +5,7 @@
   "bairro": "Afonso Queiroz",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5995444,
+  "lon": -46.4887724
 }

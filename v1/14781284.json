@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5357912,
+  "lon": -48.5580643
 }

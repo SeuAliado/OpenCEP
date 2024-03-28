@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3974375,
+  "lon": -51.082424
 }

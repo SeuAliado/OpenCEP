@@ -5,5 +5,7 @@
   "bairro": "Ribeirão da Folha",
   "localidade": "Minas Novas",
   "uf": "MG",
-  "ibge": "3141801"
+  "ibge": "3141801",
+  "lat": -17.216072,
+  "lon": -42.5888302
 }

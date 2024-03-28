@@ -5,5 +5,7 @@
   "bairro": "Criúva",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -28.8740605,
+  "lon": -50.9792135
 }

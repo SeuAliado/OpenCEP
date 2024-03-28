@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Cecília",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -30.0803942,
+  "lon": -51.0896331
 }

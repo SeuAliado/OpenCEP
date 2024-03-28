@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Deputado Irapuan Pinheiro",
   "uf": "CE",
-  "ibge": "2304269"
+  "ibge": "2304269",
+  "lat": -5.9152442,
+  "lon": -39.2573615
 }

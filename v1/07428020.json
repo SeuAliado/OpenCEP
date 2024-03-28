@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Carmo",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4061764,
+  "lon": -46.3192901
 }

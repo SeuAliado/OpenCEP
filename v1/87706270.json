@@ -5,5 +5,7 @@
   "bairro": "Jardim Estrela",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0902442,
+  "lon": -52.4424466
 }

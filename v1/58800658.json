@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7638569,
+  "lon": -38.2332844
 }

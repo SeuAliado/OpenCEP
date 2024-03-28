@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipubi",
   "uf": "PE",
-  "ibge": "2607307"
+  "ibge": "2607307",
+  "lat": -7.6454566,
+  "lon": -40.1479314
 }

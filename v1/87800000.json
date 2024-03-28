@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rondon",
   "uf": "PR",
-  "ibge": "4122602"
+  "ibge": "4122602",
+  "lat": -23.4138708,
+  "lon": -52.7660602
 }

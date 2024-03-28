@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Leandro Alarcão Dias",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9278729,
+  "lon": -48.4392561
 }

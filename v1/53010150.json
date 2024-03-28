@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "lat": -8.0201824,
+  "lon": -34.8546476
 }

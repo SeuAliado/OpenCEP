@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mucambo",
   "uf": "CE",
-  "ibge": "2309003"
+  "ibge": "2309003",
+  "lat": -3.9030937,
+  "lon": -40.7455851
 }

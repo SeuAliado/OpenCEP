@@ -5,5 +5,7 @@
   "bairro": "Parque Cruz Alta",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7641791,
+  "lon": -43.3567834
 }

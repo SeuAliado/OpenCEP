@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedra Bela",
   "uf": "SP",
-  "ibge": "3536802"
+  "ibge": "3536802",
+  "lat": -22.7947984,
+  "lon": -46.4433575
 }

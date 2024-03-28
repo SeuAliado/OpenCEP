@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Geminiano",
   "uf": "PI",
-  "ibge": "2204352"
+  "ibge": "2204352",
+  "lat": -7.1637296,
+  "lon": -41.3209993
 }

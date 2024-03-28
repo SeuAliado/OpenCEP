@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosely",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7910284,
+  "lon": -49.3728781
 }

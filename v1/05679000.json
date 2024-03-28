@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6010424,
+  "lon": -46.7030831
 }

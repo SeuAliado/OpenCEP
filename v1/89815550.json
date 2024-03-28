@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.116429,
+  "lon": -52.6257901
 }

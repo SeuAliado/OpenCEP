@@ -5,5 +5,7 @@
   "bairro": "Residencial Chácara São José",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5456391,
+  "lon": -47.4036645
 }

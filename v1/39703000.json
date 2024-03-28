@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cantagalo",
   "uf": "MG",
-  "ibge": "3112059"
+  "ibge": "3112059",
+  "lat": -18.5252484,
+  "lon": -42.6226574
 }

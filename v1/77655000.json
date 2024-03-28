@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio dos Bois",
   "uf": "TO",
-  "ibge": "1718709"
+  "ibge": "1718709",
+  "lat": -9.3446657,
+  "lon": -48.5249477
 }

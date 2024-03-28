@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Lídia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5944584,
+  "lon": -46.4343995
 }

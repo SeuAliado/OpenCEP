@@ -5,5 +5,7 @@
   "bairro": "Esmeralda",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.0827869,
+  "lon": -51.0766315
 }

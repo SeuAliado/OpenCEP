@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Central do Maranhão",
   "uf": "MA",
-  "ibge": "2103125"
+  "ibge": "2103125",
+  "lat": -2.2812141,
+  "lon": -44.8879576
 }

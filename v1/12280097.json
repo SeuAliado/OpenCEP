@@ -5,5 +5,7 @@
   "bairro": "Vila André Martins",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0870184,
+  "lon": -45.7093199
 }

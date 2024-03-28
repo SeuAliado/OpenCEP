@@ -5,5 +5,7 @@
   "bairro": "Jardim Lígia",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5849893,
+  "lon": -46.3045281
 }

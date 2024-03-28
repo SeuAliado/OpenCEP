@@ -5,5 +5,7 @@
   "bairro": "Jardim Amazonas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9442021,
+  "lon": -47.0395788
 }

@@ -5,5 +5,7 @@
   "bairro": "Divina Providência",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.675413,
+  "lon": -53.8280999
 }

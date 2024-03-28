@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Entre Folhas",
   "uf": "MG",
-  "ibge": "3123858"
+  "ibge": "3123858",
+  "lat": -19.6222944,
+  "lon": -42.2309526
 }

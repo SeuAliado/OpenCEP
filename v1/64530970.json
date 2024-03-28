@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Oriente do Piauí",
   "uf": "PI",
-  "ibge": "2206902"
+  "ibge": "2206902",
+  "lat": -6.4489856,
+  "lon": -41.9298726
 }

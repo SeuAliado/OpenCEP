@@ -5,5 +5,7 @@
   "bairro": "Campinas",
   "localidade": "Sumidouro",
   "uf": "RJ",
-  "ibge": "3305703"
+  "ibge": "3305703",
+  "lat": -22.1628684,
+  "lon": -42.6637604
 }

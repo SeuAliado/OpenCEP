@@ -5,5 +5,7 @@
   "bairro": "Belém Capela",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2768868,
+  "lon": -46.7389894
 }

@@ -5,5 +5,7 @@
   "bairro": "Guamirim",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1788731,
+  "lon": -45.7452875
 }

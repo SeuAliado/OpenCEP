@@ -5,5 +5,7 @@
   "bairro": "Jardim Quarto Centenário",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8934607,
+  "lon": -47.0945208
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto Lage",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3512501,
+  "lon": -40.3689739
 }

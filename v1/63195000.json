@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Altaneira",
   "uf": "CE",
-  "ibge": "2300606"
+  "ibge": "2300606",
+  "lat": -6.988451,
+  "lon": -39.7484115
 }

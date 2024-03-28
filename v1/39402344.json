@@ -5,5 +5,7 @@
   "bairro": "José Carlos Vale de Lima",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.754844,
+  "lon": -43.8471334
 }

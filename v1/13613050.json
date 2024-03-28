@@ -5,5 +5,7 @@
   "bairro": "Jardim do Bosque",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.182185,
+  "lon": -47.4021133
 }

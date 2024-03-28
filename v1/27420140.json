@@ -5,5 +5,7 @@
   "bairro": "Mirandópolis",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4102559,
+  "lon": -44.2684688
 }

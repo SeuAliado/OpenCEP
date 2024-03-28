@@ -5,5 +5,7 @@
   "bairro": "Jaraguá",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7046172,
+  "lon": -43.8200869
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

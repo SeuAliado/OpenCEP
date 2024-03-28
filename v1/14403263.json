@@ -5,5 +5,7 @@
   "bairro": "Chácara Santo Antônio",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5698965,
+  "lon": -47.3917316
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Simplício Mendes",
   "uf": "PI",
-  "ibge": "2210805"
+  "ibge": "2210805",
+  "lat": -7.7581548,
+  "lon": -42.0385904
 }

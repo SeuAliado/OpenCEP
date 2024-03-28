@@ -5,5 +5,7 @@
   "bairro": "Boa Vista II",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4775163,
+  "lon": -44.4950717
 }

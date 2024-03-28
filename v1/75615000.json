@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aloândia",
   "uf": "GO",
-  "ibge": "5200506"
+  "ibge": "5200506",
+  "lat": -17.7072608,
+  "lon": -49.4669396
 }

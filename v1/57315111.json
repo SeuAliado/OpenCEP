@@ -5,5 +5,7 @@
   "bairro": "Senador Arnon de Melo",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

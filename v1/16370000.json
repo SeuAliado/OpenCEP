@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Promissão",
   "uf": "SP",
-  "ibge": "3541604"
+  "ibge": "3541604",
+  "lat": -21.5354088,
+  "lon": -49.8569266
 }

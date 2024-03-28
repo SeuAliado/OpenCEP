@@ -5,5 +5,7 @@
   "bairro": "Colonial",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6459277,
+  "lon": -49.4406774
 }

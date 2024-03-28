@@ -5,5 +5,7 @@
   "bairro": "Santa Esmeralda",
   "localidade": "Santa Cruz de Monte Castelo",
   "uf": "PR",
-  "ibge": "4123303"
+  "ibge": "4123303",
+  "lat": -22.9586868,
+  "lon": -53.2952366
 }

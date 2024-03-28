@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iporã do Oeste",
   "uf": "SC",
-  "ibge": "4207650"
+  "ibge": "4207650",
+  "lat": -26.9880157,
+  "lon": -53.5346377
 }

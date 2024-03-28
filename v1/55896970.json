@@ -5,5 +5,7 @@
   "bairro": "Upatininga",
   "localidade": "Aliança",
   "uf": "PE",
-  "ibge": "2600708"
+  "ibge": "2600708",
+  "lat": -7.6671892,
+  "lon": -35.172274
 }

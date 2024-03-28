@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quarto Centenário",
   "uf": "PR",
-  "ibge": "4120655"
+  "ibge": "4120655",
+  "lat": -24.277974,
+  "lon": -53.0763846
 }

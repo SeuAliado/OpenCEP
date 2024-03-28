@@ -5,5 +5,7 @@
   "bairro": "Camaçari",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5007712,
+  "lon": -47.4483739
 }

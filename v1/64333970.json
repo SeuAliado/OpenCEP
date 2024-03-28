@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Assunção do Piauí",
   "uf": "PI",
-  "ibge": "2201051"
+  "ibge": "2201051",
+  "lat": -5.8698705,
+  "lon": -41.0457674
 }

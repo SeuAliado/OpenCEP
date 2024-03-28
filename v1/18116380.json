@@ -5,5 +5,7 @@
   "bairro": "Jardim Mirante dos Ovnis",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5534297,
+  "lon": -47.4540577
 }

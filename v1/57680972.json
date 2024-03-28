@@ -5,5 +5,7 @@
   "bairro": "Peri Peri",
   "localidade": "Boca da Mata",
   "uf": "AL",
-  "ibge": "2701001"
+  "ibge": "2701001",
+  "lat": -9.6624446,
+  "lon": -36.1342996
 }

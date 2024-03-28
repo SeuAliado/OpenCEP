@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Belo Monte",
   "uf": "AL",
-  "ibge": "2700904"
+  "ibge": "2700904",
+  "lat": -9.835561,
+  "lon": -37.1901616
 }

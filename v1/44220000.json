@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Saubara",
   "uf": "BA",
-  "ibge": "2929750"
+  "ibge": "2929750",
+  "lat": -12.7732,
+  "lon": -38.7891606
 }

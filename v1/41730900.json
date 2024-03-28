@@ -5,5 +5,7 @@
   "bairro": "Paralela",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9614566,
+  "lon": -38.4349487
 }

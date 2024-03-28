@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Branca",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7140047,
+  "lon": -43.3536913
 }

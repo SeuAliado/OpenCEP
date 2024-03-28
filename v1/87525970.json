@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ivaté",
   "uf": "PR",
-  "ibge": "4111555"
+  "ibge": "4111555",
+  "lat": -23.4085764,
+  "lon": -53.3689112
 }

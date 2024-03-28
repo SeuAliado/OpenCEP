@@ -5,5 +5,7 @@
   "bairro": "Vila Rocha",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5769097,
+  "lon": -47.4111011
 }

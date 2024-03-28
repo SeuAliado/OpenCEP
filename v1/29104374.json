@@ -5,5 +5,7 @@
   "bairro": "Pólo Empresarial Novo México",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3718773,
+  "lon": -40.3240369
 }

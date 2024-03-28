@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "lat": -23.8343045,
+  "lon": -46.8179761
 }

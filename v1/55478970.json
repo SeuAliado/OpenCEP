@@ -5,5 +5,7 @@
   "bairro": "São Lázaro",
   "localidade": "Panelas",
   "uf": "PE",
-  "ibge": "2610202"
+  "ibge": "2610202",
+  "lat": -8.7174281,
+  "lon": -36.0642775
 }

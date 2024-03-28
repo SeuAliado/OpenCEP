@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vieirópolis",
   "uf": "PB",
-  "ibge": "2517209"
+  "ibge": "2517209",
+  "lat": -6.5905615,
+  "lon": -38.29549
 }

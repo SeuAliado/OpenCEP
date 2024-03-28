@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Currais",
   "uf": "PI",
-  "ibge": "2203230"
+  "ibge": "2203230",
+  "lat": -4.22499,
+  "lon": -42.286563
 }

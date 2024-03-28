@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mathias Lobato",
   "uf": "MG",
-  "ibge": "3171501"
+  "ibge": "3171501",
+  "lat": -18.5754341,
+  "lon": -41.9174693
 }

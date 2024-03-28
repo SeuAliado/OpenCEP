@@ -5,5 +5,7 @@
   "bairro": "Cangas",
   "localidade": "Poconé",
   "uf": "MT",
-  "ibge": "5106505"
+  "ibge": "5106505",
+  "lat": -16.0789334,
+  "lon": -56.5609256
 }

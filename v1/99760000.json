@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itatiba do Sul",
   "uf": "RS",
-  "ibge": "4310702"
+  "ibge": "4310702",
+  "lat": -27.3851188,
+  "lon": -52.454285
 }

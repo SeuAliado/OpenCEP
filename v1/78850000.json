@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Primavera do Leste",
   "uf": "MT",
-  "ibge": "5107040"
+  "ibge": "5107040",
+  "lat": -15.5605187,
+  "lon": -54.2950554
 }

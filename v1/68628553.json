@@ -5,5 +5,7 @@
   "bairro": "Presidente Juscelino",
   "localidade": "Paragominas",
   "uf": "PA",
-  "ibge": "1505502"
+  "ibge": "1505502",
+  "lat": -2.9713366,
+  "lon": -47.3638239
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.072377,
+  "lon": -51.1667668
 }

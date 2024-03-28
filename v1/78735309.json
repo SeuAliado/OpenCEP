@@ -5,5 +5,7 @@
   "bairro": "Parque Sagrada Família",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4488699,
+  "lon": -54.6311897
 }

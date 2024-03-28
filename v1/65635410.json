@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirante",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1298855,
+  "lon": -42.82552
 }

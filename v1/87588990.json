@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Piquiri",
   "uf": "PR",
-  "ibge": "4100707"
+  "ibge": "4100707",
+  "lat": -24.1579853,
+  "lon": -53.3724173
 }

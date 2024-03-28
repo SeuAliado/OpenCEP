@@ -5,5 +5,7 @@
   "bairro": "Pedro Cavalini",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.578015,
+  "lon": -48.5610678
 }

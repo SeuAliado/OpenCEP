@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Ipê",
   "uf": "RS",
-  "ibge": "4310439"
+  "ibge": "4310439",
+  "lat": -28.7621511,
+  "lon": -51.3716601
 }

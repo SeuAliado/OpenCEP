@@ -5,5 +5,7 @@
   "bairro": "Balbina",
   "localidade": "Presidente Figueiredo",
   "uf": "AM",
-  "ibge": "1303536"
+  "ibge": "1303536",
+  "lat": -2.0301726,
+  "lon": -60.023881
 }

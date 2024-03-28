@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7311281,
+  "lon": -47.6389895
 }

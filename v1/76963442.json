@@ -5,5 +5,7 @@
   "bairro": "Chácaras Brizon",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4191564,
+  "lon": -61.4626477
 }

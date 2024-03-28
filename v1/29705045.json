@@ -5,5 +5,7 @@
   "bairro": "Maria das Graças",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5133801,
+  "lon": -40.620009
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus",
   "uf": "PI",
-  "ibge": "2201903"
+  "ibge": "2201903",
+  "lat": -9.0716537,
+  "lon": -44.3593478
 }

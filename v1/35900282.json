@@ -5,5 +5,7 @@
   "bairro": "Praia",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6329486,
+  "lon": -43.2047318
 }

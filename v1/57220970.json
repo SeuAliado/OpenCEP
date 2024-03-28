@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Feliz Deserto",
   "uf": "AL",
-  "ibge": "2702702"
+  "ibge": "2702702",
+  "lat": -10.2930349,
+  "lon": -36.3066058
 }

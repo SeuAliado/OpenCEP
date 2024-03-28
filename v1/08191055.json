@@ -5,5 +5,7 @@
   "bairro": "Jardim Margarida",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.483845,
+  "lon": -46.3875559
 }

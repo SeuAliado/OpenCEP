@@ -5,5 +5,7 @@
   "bairro": "Vila Verde (Cabuçu)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.8145757,
+  "lon": -42.8843117
 }

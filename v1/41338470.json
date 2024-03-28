@@ -5,5 +5,7 @@
   "bairro": "Cajazeiras VIII",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8981298,
+  "lon": -38.416139
 }

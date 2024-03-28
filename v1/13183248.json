@@ -5,5 +5,7 @@
   "bairro": "Vila São Pedro",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8552405,
+  "lon": -47.2212993
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Desidério",
   "uf": "BA",
-  "ibge": "2928901"
+  "ibge": "2928901",
+  "lat": -12.3576313,
+  "lon": -44.9772871
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tonantins",
   "uf": "AM",
-  "ibge": "1304237"
+  "ibge": "1304237",
+  "lat": -2.8661856,
+  "lon": -67.7924459
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ninheira",
   "uf": "MG",
-  "ibge": "3144656"
+  "ibge": "3144656",
+  "lat": -15.3190041,
+  "lon": -41.7542196
 }

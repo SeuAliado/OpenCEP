@@ -5,5 +5,7 @@
   "bairro": "Jardim Carmen Lídia II",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3474521,
+  "lon": -46.9407194
 }

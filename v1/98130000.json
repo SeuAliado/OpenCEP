@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Júlio de Castilhos",
   "uf": "RS",
-  "ibge": "4311205"
+  "ibge": "4311205",
+  "lat": -29.2293516,
+  "lon": -53.6827015
 }

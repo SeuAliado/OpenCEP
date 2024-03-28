@@ -5,5 +5,7 @@
   "bairro": "Vila Romana",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.114673,
+  "lon": -44.8704154
 }

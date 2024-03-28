@@ -5,5 +5,7 @@
   "bairro": "Inamar",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.7148063,
+  "lon": -46.607741
 }

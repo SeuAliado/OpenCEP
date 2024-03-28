@@ -5,5 +5,7 @@
   "bairro": "Royal Park",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0856248,
+  "lon": -48.9368077
 }

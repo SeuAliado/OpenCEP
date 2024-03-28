@@ -5,5 +5,7 @@
   "bairro": "Parque das Águas Bonitas I",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7592019,
+  "lon": -48.3226925
 }

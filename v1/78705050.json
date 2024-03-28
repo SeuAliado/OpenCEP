@@ -5,5 +5,7 @@
   "bairro": "Vila Birigui",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4691758,
+  "lon": -54.6433679
 }

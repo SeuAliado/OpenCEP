@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8041987,
+  "lon": -55.7715377
 }

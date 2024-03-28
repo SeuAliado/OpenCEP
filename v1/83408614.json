@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3808823,
+  "lon": -49.1852444
 }

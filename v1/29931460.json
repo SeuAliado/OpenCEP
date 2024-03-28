@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7175546,
+  "lon": -39.8691568
 }

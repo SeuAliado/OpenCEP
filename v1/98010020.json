@@ -5,5 +5,7 @@
   "bairro": "Toríbio Veríssimo",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6561508,
+  "lon": -53.624588
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Delta",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9902953,
+  "lon": -47.8946745
 }

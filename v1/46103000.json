@@ -5,5 +5,7 @@
   "bairro": "Itaquaraí",
   "localidade": "Brumado",
   "uf": "BA",
-  "ibge": "2904605"
+  "ibge": "2904605",
+  "lat": -14.1951629,
+  "lon": -41.6577921
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Figueira Grande",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6754976,
+  "lon": -46.7445827
 }

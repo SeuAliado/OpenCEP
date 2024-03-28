@@ -5,5 +5,7 @@
   "bairro": "Três Barras",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9164409,
+  "lon": -44.0763952
 }

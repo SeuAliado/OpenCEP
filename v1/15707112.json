@@ -5,5 +5,7 @@
   "bairro": "Jardim Zaffani",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2576445,
+  "lon": -50.5516627
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cruzeiro do Sul",
   "uf": "RS",
-  "ibge": "4306205"
+  "ibge": "4306205",
+  "lat": -29.5129409,
+  "lon": -51.9856529
 }

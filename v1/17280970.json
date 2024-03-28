@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "lat": -22.3560957,
+  "lon": -48.7721136
 }

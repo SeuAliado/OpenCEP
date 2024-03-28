@@ -5,5 +5,7 @@
   "bairro": "Parque Dourado",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5502602,
+  "lon": -46.3794033
 }

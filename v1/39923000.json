@@ -5,5 +5,7 @@
   "bairro": "Estrela de Jordânia",
   "localidade": "Jordânia",
   "uf": "MG",
-  "ibge": "3136504"
+  "ibge": "3136504",
+  "lat": -15.8963106,
+  "lon": -40.1828848
 }

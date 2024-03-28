@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Liberato Salzano",
   "uf": "RS",
-  "ibge": "4311601"
+  "ibge": "4311601",
+  "lat": -27.6014452,
+  "lon": -53.0758449
 }

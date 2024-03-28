@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Panambi",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2438693,
+  "lon": -49.9828158
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.1580101,
+  "lon": -47.9938823
 }

@@ -5,5 +5,7 @@
   "bairro": "Glória",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3397981,
+  "lon": -40.3080714
 }

@@ -5,5 +5,7 @@
   "bairro": "Flamengo",
   "localidade": "Saboeiro",
   "uf": "CE",
-  "ibge": "2311900"
+  "ibge": "2311900",
+  "lat": -6.5321777,
+  "lon": -39.9023553
 }

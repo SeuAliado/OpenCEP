@@ -5,5 +5,7 @@
   "bairro": "Vila Beija-Flor",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9256095,
+  "lon": -44.1251143
 }

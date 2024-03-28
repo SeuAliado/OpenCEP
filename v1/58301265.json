@@ -5,5 +5,7 @@
   "bairro": "Popular",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "lat": -7.134655,
+  "lon": -34.9767153
 }

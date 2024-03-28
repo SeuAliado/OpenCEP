@@ -5,5 +5,7 @@
   "bairro": "Guajuvira",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5992429,
+  "lon": -49.5104329
 }

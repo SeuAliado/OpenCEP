@@ -5,5 +5,7 @@
   "bairro": "Barra Grande",
   "localidade": "Planalto",
   "uf": "PR",
-  "ibge": "4119806"
+  "ibge": "4119806",
+  "lat": -25.7315916,
+  "lon": -53.6885434
 }

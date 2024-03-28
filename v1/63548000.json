@@ -5,5 +5,7 @@
   "bairro": "Riacho Verde",
   "localidade": "Várzea Alegre",
   "uf": "CE",
-  "ibge": "2314003"
+  "ibge": "2314003",
+  "lat": -6.8510662,
+  "lon": -39.3819883
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Martins",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.77298,
+  "lon": -43.5136341
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jandaia",
   "uf": "GO",
-  "ibge": "5211701"
+  "ibge": "5211701",
+  "lat": -17.0949272,
+  "lon": -50.2244429
 }

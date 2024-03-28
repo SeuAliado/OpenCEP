@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Oliveira dos Brejinhos",
   "uf": "BA",
-  "ibge": "2923209"
+  "ibge": "2923209",
+  "lat": -12.318689,
+  "lon": -42.8911807
 }

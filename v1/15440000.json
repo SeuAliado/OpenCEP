@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Granada",
   "uf": "SP",
-  "ibge": "3533007"
+  "ibge": "3533007",
+  "lat": -20.4510209,
+  "lon": -49.3247147
 }

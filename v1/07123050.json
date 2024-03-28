@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraventi",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4487021,
+  "lon": -46.527811
 }

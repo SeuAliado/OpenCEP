@@ -5,5 +5,7 @@
   "bairro": "Melvi",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.024748,
+  "lon": -46.4998919
 }

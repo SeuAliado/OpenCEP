@@ -5,5 +5,7 @@
   "bairro": "Ibiza",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.2275505,
+  "lon": -52.2218964
 }

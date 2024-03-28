@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Eldorado dos Carajás",
   "uf": "PA",
-  "ibge": "1502954"
+  "ibge": "1502954",
+  "lat": -6.109098,
+  "lon": -49.355102
 }

@@ -5,5 +5,7 @@
   "bairro": "Jurujuba",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9503711,
+  "lon": -43.1115184
 }

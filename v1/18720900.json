@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paranapanema",
   "uf": "SP",
-  "ibge": "3535804"
+  "ibge": "3535804",
+  "lat": -23.3896562,
+  "lon": -48.7249603
 }

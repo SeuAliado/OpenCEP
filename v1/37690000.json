@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sapucaí-Mirim",
   "uf": "MG",
-  "ibge": "3165404"
+  "ibge": "3165404",
+  "lat": -22.7413898,
+  "lon": -45.7383945
 }

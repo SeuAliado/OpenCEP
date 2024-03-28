@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial de Embu",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6754298,
+  "lon": -46.8519128
 }

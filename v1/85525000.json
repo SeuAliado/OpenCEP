@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mariópolis",
   "uf": "PR",
-  "ibge": "4115309"
+  "ibge": "4115309",
+  "lat": -26.3569408,
+  "lon": -52.5541594
 }

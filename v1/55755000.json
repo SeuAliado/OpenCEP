@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Casinhas",
   "uf": "PE",
-  "ibge": "2604155"
+  "ibge": "2604155",
+  "lat": -7.7412519,
+  "lon": -35.7209567
 }

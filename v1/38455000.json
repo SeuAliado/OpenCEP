@@ -5,5 +5,7 @@
   "bairro": "Amanhece",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.534519,
+  "lon": -48.1953552
 }

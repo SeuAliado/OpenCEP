@@ -5,5 +5,7 @@
   "bairro": "Vila Colorado",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5609713,
+  "lon": -46.2936088
 }

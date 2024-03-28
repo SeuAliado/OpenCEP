@@ -5,5 +5,7 @@
   "bairro": "Vila Pântano II",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7568016,
+  "lon": -47.3670044
 }

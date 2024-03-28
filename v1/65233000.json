@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bacurituba",
   "uf": "MA",
-  "ibge": "2101350"
+  "ibge": "2101350",
+  "lat": -2.7081544,
+  "lon": -44.7380742
 }

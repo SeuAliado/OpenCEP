@@ -5,5 +5,7 @@
   "bairro": "Jardim Itamaraty",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6198808,
+  "lon": -48.7964902
 }

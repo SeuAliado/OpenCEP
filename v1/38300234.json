@@ -5,5 +5,7 @@
   "bairro": "Setor Norte",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9678822,
+  "lon": -49.4682081
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Habitacional Pôr do Sol (Ceilândia)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8286092,
+  "lon": -48.1300385
 }

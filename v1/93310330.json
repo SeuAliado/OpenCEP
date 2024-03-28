@@ -5,5 +5,7 @@
   "bairro": "Vila Rosa",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.6804814,
+  "lon": -51.1357242
 }

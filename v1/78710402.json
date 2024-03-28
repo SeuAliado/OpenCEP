@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Marta",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4532055,
+  "lon": -54.644419
 }

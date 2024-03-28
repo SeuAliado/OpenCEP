@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Rochele II",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7716235,
+  "lon": -47.4081349
 }

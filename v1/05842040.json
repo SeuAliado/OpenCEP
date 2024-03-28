@@ -5,5 +5,7 @@
   "bairro": "Jardim Casablanca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6501215,
+  "lon": -46.744686
 }

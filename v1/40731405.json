@@ -5,5 +5,7 @@
   "bairro": "Fazenda Coutos",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8444888,
+  "lon": -38.4587569
 }

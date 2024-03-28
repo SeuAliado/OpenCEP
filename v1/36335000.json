@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ritápolis",
   "uf": "MG",
-  "ibge": "3156106"
+  "ibge": "3156106",
+  "lat": -21.025634,
+  "lon": -44.3237755
 }

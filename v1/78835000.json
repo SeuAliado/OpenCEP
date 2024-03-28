@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro da Cipa",
   "uf": "MT",
-  "ibge": "5107404"
+  "ibge": "5107404",
+  "lat": -16.0113414,
+  "lon": -54.9180678
 }

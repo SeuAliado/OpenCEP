@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8896569,
+  "lon": -46.9635177
 }

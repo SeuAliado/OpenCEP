@@ -5,5 +5,7 @@
   "bairro": "Quaraçu",
   "localidade": "Cândido Sales",
   "uf": "BA",
-  "ibge": "2906709"
+  "ibge": "2906709",
+  "lat": -15.1707843,
+  "lon": -41.3745912
 }

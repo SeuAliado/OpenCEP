@@ -5,5 +5,7 @@
   "bairro": "Fazenda Boa Fé",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.3660687,
+  "lon": -42.9375818
 }

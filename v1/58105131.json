@@ -5,5 +5,7 @@
   "bairro": "Recanto do Poço",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "lat": -7.0202251,
+  "lon": -34.8385364
 }

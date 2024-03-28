@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ponte Serrada",
   "uf": "SC",
-  "ibge": "4213401"
+  "ibge": "4213401",
+  "lat": -26.8737657,
+  "lon": -52.0117533
 }

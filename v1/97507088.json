@@ -5,5 +5,7 @@
   "bairro": "Rui Ramos",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.789575,
+  "lon": -57.0628727
 }

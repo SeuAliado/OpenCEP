@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Roque Gonzales",
   "uf": "RS",
-  "ibge": "4316303"
+  "ibge": "4316303",
+  "lat": -28.1316795,
+  "lon": -55.0233648
 }

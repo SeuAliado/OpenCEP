@@ -5,5 +5,7 @@
   "bairro": "Barreira do Triunfo",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.6591753,
+  "lon": -43.4325526
 }

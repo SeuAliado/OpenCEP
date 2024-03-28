@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cupira",
   "uf": "PE",
-  "ibge": "2605004"
+  "ibge": "2605004",
+  "lat": -8.6109632,
+  "lon": -35.9516641
 }

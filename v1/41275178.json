@@ -5,5 +5,7 @@
   "bairro": "Campinas de Pirajá",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9238312,
+  "lon": -38.4700486
 }

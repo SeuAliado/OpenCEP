@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Estrela do Indaiá",
   "uf": "MG",
-  "ibge": "3124708"
+  "ibge": "3124708",
+  "lat": -19.5221638,
+  "lon": -45.787951
 }

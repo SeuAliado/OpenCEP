@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arroio do Padre",
   "uf": "RS",
-  "ibge": "4301073"
+  "ibge": "4301073",
+  "lat": -31.4356187,
+  "lon": -52.4158303
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bom Retiro",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -19.9301792,
+  "lon": -44.1886396
 }

@@ -5,5 +5,7 @@
   "bairro": "São Luiz do Purunã",
   "localidade": "Balsa Nova",
   "uf": "PR",
-  "ibge": "4102307"
+  "ibge": "4102307",
+  "lat": -25.4715903,
+  "lon": -49.6620693
 }

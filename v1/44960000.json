@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibititá",
   "uf": "BA",
-  "ibge": "2913101"
+  "ibge": "2913101",
+  "lat": -11.5469285,
+  "lon": -41.9762653
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Amaury",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6633536,
+  "lon": -50.3976025
 }

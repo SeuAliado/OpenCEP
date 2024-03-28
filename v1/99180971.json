@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mato Castelhano",
   "uf": "RS",
-  "ibge": "4312138"
+  "ibge": "4312138",
+  "lat": -28.2782588,
+  "lon": -52.1916116
 }

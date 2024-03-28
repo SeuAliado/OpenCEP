@@ -5,5 +5,7 @@
   "bairro": "Nova Vista",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8849852,
+  "lon": -43.9027179
 }

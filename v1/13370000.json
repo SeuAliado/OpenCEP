@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rafard",
   "uf": "SP",
-  "ibge": "3542107"
+  "ibge": "3542107",
+  "lat": -23.0133371,
+  "lon": -47.527839
 }

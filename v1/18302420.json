@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco de Assis",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -23.9833373,
+  "lon": -48.3544493
 }

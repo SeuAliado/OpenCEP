@@ -5,5 +5,7 @@
   "bairro": "Vila Antonieta",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4448798,
+  "lon": -46.5461297
 }

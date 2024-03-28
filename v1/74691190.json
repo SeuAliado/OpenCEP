@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Mansões do Campus",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.5816752,
+  "lon": -49.2906724
 }

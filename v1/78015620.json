@@ -5,5 +5,7 @@
   "bairro": "Poção",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6047569,
+  "lon": -56.0899498
 }

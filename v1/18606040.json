@@ -5,5 +5,7 @@
   "bairro": "Vila Assumpção",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9058155,
+  "lon": -48.4506418
 }

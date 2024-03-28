@@ -5,5 +5,7 @@
   "bairro": "Jardim Araçá",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5217462,
+  "lon": -48.5318317
 }

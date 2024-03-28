@@ -5,5 +5,7 @@
   "bairro": "Jardim Pau Preto",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0914103,
+  "lon": -47.222046
 }

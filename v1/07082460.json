@@ -5,5 +5,7 @@
   "bairro": "Jardim Las Vegas",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4312312,
+  "lon": -46.5422261
 }

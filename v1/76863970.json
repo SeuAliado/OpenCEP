@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Crespo",
   "uf": "RO",
-  "ibge": "1100262"
+  "ibge": "1100262",
+  "lat": -9.7066173,
+  "lon": -62.899784
 }

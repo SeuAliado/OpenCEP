@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5815939,
+  "lon": -46.5216028
 }

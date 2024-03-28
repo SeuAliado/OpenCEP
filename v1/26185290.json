@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Marta",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.6997799,
+  "lon": -43.3345934
 }

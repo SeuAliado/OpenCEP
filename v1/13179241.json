@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Regina (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8219906,
+  "lon": -47.1673761
 }

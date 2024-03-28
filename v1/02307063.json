@@ -5,5 +5,7 @@
   "bairro": "Tucuruvi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4871338,
+  "lon": -46.6103978
 }

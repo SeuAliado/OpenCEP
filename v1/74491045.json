@@ -5,5 +5,7 @@
   "bairro": "Residencial Lírios do Campo",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6978329,
+  "lon": -49.4079493
 }

@@ -5,5 +5,7 @@
   "bairro": "Pioneiros Catarinenses",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.969626,
+  "lon": -53.4846833
 }

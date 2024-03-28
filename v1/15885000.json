@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novais",
   "uf": "SP",
-  "ibge": "3533254"
+  "ibge": "3533254",
+  "lat": -20.9961946,
+  "lon": -48.9183822
 }

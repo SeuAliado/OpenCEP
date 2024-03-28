@@ -5,5 +5,7 @@
   "bairro": "Vila Vitória",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.4953891,
+  "lon": -44.2254558
 }

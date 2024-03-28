@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Governador Archer",
   "uf": "MA",
-  "ibge": "2104503"
+  "ibge": "2104503",
+  "lat": -5.0225366,
+  "lon": -44.2698864
 }

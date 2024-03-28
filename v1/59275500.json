@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "São José do Campestre",
   "uf": "RN",
-  "ibge": "2412302"
+  "ibge": "2412302",
+  "lat": -29.8321521,
+  "lon": -51.1377719
 }

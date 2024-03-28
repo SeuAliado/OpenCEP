@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miradouro",
   "uf": "MG",
-  "ibge": "3142106"
+  "ibge": "3142106",
+  "lat": -20.8905951,
+  "lon": -42.342994
 }

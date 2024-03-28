@@ -5,5 +5,7 @@
   "bairro": "Alto de Pinheiros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5522083,
+  "lon": -46.7025433
 }

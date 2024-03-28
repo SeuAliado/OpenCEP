@@ -5,5 +5,7 @@
   "bairro": "Del Rey",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.5890143,
+  "lon": -49.16279
 }

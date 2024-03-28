@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6119867,
+  "lon": -48.7956242
 }

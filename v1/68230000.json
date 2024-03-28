@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Almeirim",
   "uf": "PA",
-  "ibge": "1500503"
+  "ibge": "1500503",
+  "lat": -1.5239527,
+  "lon": -52.5785713
 }

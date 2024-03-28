@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Japorã",
   "uf": "MS",
-  "ibge": "5004809"
+  "ibge": "5004809",
+  "lat": -23.8938538,
+  "lon": -54.4089503
 }

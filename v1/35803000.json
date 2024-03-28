@@ -5,5 +5,7 @@
   "bairro": "Borba Gato",
   "localidade": "Ferros",
   "uf": "MG",
-  "ibge": "3125903"
+  "ibge": "3125903",
+  "lat": -19.8061797,
+  "lon": -43.1685479
 }

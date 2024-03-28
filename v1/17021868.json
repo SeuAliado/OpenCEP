@@ -5,5 +5,7 @@
   "bairro": "Jardim TV",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3016434,
+  "lon": -49.0741605
 }

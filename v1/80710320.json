@@ -5,5 +5,7 @@
   "bairro": "Bigorrilho",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.434149,
+  "lon": -49.3091367
 }

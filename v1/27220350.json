@@ -5,5 +5,7 @@
   "bairro": "Brasilândia",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5142984,
+  "lon": -44.0544874
 }

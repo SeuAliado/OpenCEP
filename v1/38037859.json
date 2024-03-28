@@ -5,5 +5,7 @@
   "bairro": "Jardim Bento de Assis Valim",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7735124,
+  "lon": -47.9069676
 }

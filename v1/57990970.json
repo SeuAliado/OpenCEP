@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Messias",
   "uf": "AL",
-  "ibge": "2705200"
+  "ibge": "2705200",
+  "lat": -9.4001353,
+  "lon": -35.8384584
 }

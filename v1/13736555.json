@@ -5,5 +5,7 @@
   "bairro": "Jardim Central Prícoli",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4752553,
+  "lon": -46.9996818
 }

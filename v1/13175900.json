@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.810763,
+  "lon": -47.2579073
 }

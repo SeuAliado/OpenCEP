@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pássaros",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5731578,
+  "lon": -45.4424586
 }

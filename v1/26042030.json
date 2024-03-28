@@ -5,5 +5,7 @@
   "bairro": "Jardim Mato Grosso",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7022979,
+  "lon": -43.4744448
 }

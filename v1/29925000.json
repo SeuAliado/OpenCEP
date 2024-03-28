@@ -5,5 +5,7 @@
   "bairro": "São Jorge do Tiradentes",
   "localidade": "Rio Bananal",
   "uf": "ES",
-  "ibge": "3204351"
+  "ibge": "3204351",
+  "lat": -23.6094375,
+  "lon": -46.7601183
 }

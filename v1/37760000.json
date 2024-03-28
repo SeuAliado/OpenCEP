@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carvalhópolis",
   "uf": "MG",
-  "ibge": "3114709"
+  "ibge": "3114709",
+  "lat": -21.7783171,
+  "lon": -45.8417096
 }

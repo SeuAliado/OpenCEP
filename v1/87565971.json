@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cafezal do Sul",
   "uf": "PR",
-  "ibge": "4103479"
+  "ibge": "4103479",
+  "lat": -23.9046959,
+  "lon": -53.5204192
 }

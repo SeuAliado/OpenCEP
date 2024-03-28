@@ -5,5 +5,7 @@
   "bairro": "Querência",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -29.9878828,
+  "lon": -51.0525981
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5420724,
+  "lon": -44.3344655
 }

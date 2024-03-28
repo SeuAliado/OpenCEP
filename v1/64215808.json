@@ -5,5 +5,7 @@
   "bairro": "Ceará",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.920008,
+  "lon": -41.7640327
 }

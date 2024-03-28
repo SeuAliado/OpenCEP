@@ -5,5 +5,7 @@
   "bairro": "Caramujo",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "lat": -16.1161539,
+  "lon": -57.6670039
 }

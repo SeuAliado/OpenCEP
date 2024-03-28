@@ -5,5 +5,7 @@
   "bairro": "Perobal",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.424308,
+  "lon": -46.3412121
 }

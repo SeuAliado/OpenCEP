@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pendências",
   "uf": "RN",
-  "ibge": "2409902"
+  "ibge": "2409902",
+  "lat": -5.2564212,
+  "lon": -36.7197699
 }

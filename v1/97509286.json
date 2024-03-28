@@ -5,5 +5,7 @@
   "bairro": "União das Vilas",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7889381,
+  "lon": -57.0578913
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Imaculada",
   "uf": "PB",
-  "ibge": "2506707"
+  "ibge": "2506707",
+  "lat": -7.1444821,
+  "lon": -34.8918368
 }

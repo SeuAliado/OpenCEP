@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Paraguai",
   "uf": "MT",
-  "ibge": "5100508"
+  "ibge": "5100508",
+  "lat": -14.7713432,
+  "lon": -56.6065057
 }

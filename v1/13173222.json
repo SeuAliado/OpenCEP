@@ -5,5 +5,7 @@
   "bairro": "Parque Rosa e Silva",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.799121,
+  "lon": -47.2786087
 }

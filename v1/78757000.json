@@ -5,5 +5,7 @@
   "bairro": "Vila Bueno",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -23.5176784,
+  "lon": -46.5476218
 }

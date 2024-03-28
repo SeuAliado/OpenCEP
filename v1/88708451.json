@@ -5,5 +5,7 @@
   "bairro": "São João (Margem Esquerda)",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4773618,
+  "lon": -49.0422675
 }

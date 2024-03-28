@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Treviso",
   "uf": "SC",
-  "ibge": "4218350"
+  "ibge": "4218350",
+  "lat": -28.502135,
+  "lon": -49.4669396
 }

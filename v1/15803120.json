@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1261875,
+  "lon": -48.9853517
 }

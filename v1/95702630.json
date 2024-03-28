@@ -5,5 +5,7 @@
   "bairro": "Santo Antão",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1907277,
+  "lon": -51.5083797
 }

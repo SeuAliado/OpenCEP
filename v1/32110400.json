@@ -5,5 +5,7 @@
   "bairro": "Parque Turistas",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8806139,
+  "lon": -44.0198471
 }

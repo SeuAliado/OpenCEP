@@ -5,5 +5,7 @@
   "bairro": "Vila Bazu",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3166518,
+  "lon": -46.7315098
 }

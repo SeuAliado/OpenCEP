@@ -5,5 +5,7 @@
   "bairro": "Frei Sebastião",
   "localidade": "Palmares do Sul",
   "uf": "RS",
-  "ibge": "4313656"
+  "ibge": "4313656",
+  "lat": -29.8346315,
+  "lon": -51.1377371
 }

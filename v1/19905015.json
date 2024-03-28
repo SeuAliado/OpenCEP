@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9908082,
+  "lon": -49.8798461
 }

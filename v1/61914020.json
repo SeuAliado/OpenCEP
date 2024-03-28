@@ -5,5 +5,7 @@
   "bairro": "Mucunã",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.847547,
+  "lon": -38.6540785
 }

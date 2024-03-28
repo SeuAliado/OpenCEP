@@ -5,5 +5,7 @@
   "bairro": "Jardim Catanduva",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -21.1285967,
+  "lon": -48.9810358
 }

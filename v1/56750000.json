@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Terezinha",
   "uf": "PE",
-  "ibge": "2612802"
+  "ibge": "2612802",
+  "lat": -7.3773687,
+  "lon": -37.4790871
 }

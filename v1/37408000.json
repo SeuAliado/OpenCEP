@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Thomé das Letras",
   "uf": "MG",
-  "ibge": "3165206"
+  "ibge": "3165206",
+  "lat": -21.721247,
+  "lon": -44.985109
 }

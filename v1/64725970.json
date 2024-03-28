@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeira do Piauí",
   "uf": "PI",
-  "ibge": "2208874"
+  "ibge": "2208874",
+  "lat": -7.691149,
+  "lon": -42.7148739
 }

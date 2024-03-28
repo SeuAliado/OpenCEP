@@ -5,5 +5,7 @@
   "bairro": "São José do Gurupi",
   "localidade": "Viseu",
   "uf": "PA",
-  "ibge": "1508308"
+  "ibge": "1508308",
+  "lat": -1.5811142,
+  "lon": -46.1564232
 }

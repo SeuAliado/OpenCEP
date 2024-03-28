@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Chico Mendes",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1917562,
+  "lon": -49.9365297
 }

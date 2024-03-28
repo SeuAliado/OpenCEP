@@ -5,5 +5,7 @@
   "bairro": "São José da Glória",
   "localidade": "Victor Graeff",
   "uf": "RS",
-  "ibge": "4323200"
+  "ibge": "4323200",
+  "lat": -28.4859598,
+  "lon": -52.6579806
 }

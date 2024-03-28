@@ -5,5 +5,7 @@
   "bairro": "Granjas Primavera (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.8229283,
+  "lon": -44.0234063
 }

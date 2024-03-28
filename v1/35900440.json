@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza (Cvrd)",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6564873,
+  "lon": -43.2169121
 }

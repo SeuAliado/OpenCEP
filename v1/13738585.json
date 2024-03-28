@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4721151,
+  "lon": -47.0229867
 }

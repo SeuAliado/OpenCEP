@@ -5,5 +5,7 @@
   "bairro": "Jardim São Domingos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -23.0435052,
+  "lon": -47.1068095
 }

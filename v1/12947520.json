@@ -5,5 +5,7 @@
   "bairro": "Vila Esperia ou Giglio",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1398796,
+  "lon": -46.5566831
 }

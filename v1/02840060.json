@@ -5,5 +5,7 @@
   "bairro": "Parque São Luís",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.483165,
+  "lon": -46.6911626
 }

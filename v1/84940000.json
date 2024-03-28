@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Siqueira Campos",
   "uf": "PR",
-  "ibge": "4126603"
+  "ibge": "4126603",
+  "lat": -23.6850833,
+  "lon": -49.8235126
 }

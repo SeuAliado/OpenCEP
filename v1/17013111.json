@@ -5,5 +5,7 @@
   "bairro": "Chácara das Flores",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3176822,
+  "lon": -49.0608831
 }

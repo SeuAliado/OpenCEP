@@ -5,5 +5,7 @@
   "bairro": "Jacaré",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9318936,
+  "lon": -43.0517584
 }

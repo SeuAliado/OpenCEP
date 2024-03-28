@@ -5,5 +5,7 @@
   "bairro": "Tororó",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0060626,
+  "lon": -38.518432
 }

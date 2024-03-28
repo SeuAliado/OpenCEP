@@ -5,5 +5,7 @@
   "bairro": "Piratininga",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9359658,
+  "lon": -43.0698469
 }

@@ -5,5 +5,7 @@
   "bairro": "Arigolândia",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7553478,
+  "lon": -63.9116635
 }

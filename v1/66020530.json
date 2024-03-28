@@ -5,5 +5,7 @@
   "bairro": "Cidade Velha",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4633276,
+  "lon": -48.5038382
 }

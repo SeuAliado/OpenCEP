@@ -5,5 +5,7 @@
   "bairro": "Americano",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4557513,
+  "lon": -51.9672843
 }

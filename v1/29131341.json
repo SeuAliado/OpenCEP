@@ -5,5 +5,7 @@
   "bairro": "Araçatiba",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.460859,
+  "lon": -40.4920633
 }

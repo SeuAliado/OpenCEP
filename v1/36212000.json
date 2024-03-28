@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barroso",
   "uf": "MG",
-  "ibge": "3105905"
+  "ibge": "3105905",
+  "lat": -21.1880429,
+  "lon": -43.9759925
 }

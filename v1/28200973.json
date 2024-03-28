@@ -5,5 +5,7 @@
   "bairro": "Cajueiro",
   "localidade": "São João da Barra",
   "uf": "RJ",
-  "ibge": "3305000"
+  "ibge": "3305000",
+  "lat": -21.6920497,
+  "lon": -41.0276647
 }

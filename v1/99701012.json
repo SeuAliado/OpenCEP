@@ -5,5 +5,7 @@
   "bairro": "Morro da Cegonha",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6329355,
+  "lon": -52.2668057
 }

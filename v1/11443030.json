@@ -5,5 +5,7 @@
   "bairro": "Parque Enseada",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9768945,
+  "lon": -46.2088614
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Reunidas",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2541709,
+  "lon": -45.931073
 }

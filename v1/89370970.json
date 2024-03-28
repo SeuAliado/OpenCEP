@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Papanduva",
   "uf": "SC",
-  "ibge": "4212205"
+  "ibge": "4212205",
+  "lat": -26.4072969,
+  "lon": -50.1456169
 }

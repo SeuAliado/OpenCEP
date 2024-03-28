@@ -5,5 +5,7 @@
   "bairro": "Canudos",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.6912812,
+  "lon": -51.0889703
 }

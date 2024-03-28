@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Feliciano",
   "uf": "RS",
-  "ibge": "4306502"
+  "ibge": "4306502",
+  "lat": -29.9482201,
+  "lon": -50.9954654
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Serrat",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8738193,
+  "lon": -43.7674664
 }

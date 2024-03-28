@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -24.0108498,
+  "lon": -48.3559161
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Lima",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.3851298,
+  "lon": -54.5590193
 }

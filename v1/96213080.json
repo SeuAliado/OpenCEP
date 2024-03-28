@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0605567,
+  "lon": -52.1623698
 }

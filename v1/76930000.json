@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvorada D'Oeste",
   "uf": "RO",
-  "ibge": "1100346"
+  "ibge": "1100346",
+  "lat": -11.320782,
+  "lon": -62.5443612
 }

@@ -5,5 +5,7 @@
   "bairro": "Chapéu do Sol",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.1653502,
+  "lon": -51.1622655
 }

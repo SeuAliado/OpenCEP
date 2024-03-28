@@ -5,5 +5,7 @@
   "bairro": "Granja Ouro Branco",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8568545,
+  "lon": -44.0270399
 }

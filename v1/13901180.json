@@ -5,5 +5,7 @@
   "bairro": "Loteamento Marson",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.699909,
+  "lon": -46.770968
 }

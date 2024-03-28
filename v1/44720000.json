@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Miguel Calmon",
   "uf": "BA",
-  "ibge": "2921203"
+  "ibge": "2921203",
+  "lat": -11.4596773,
+  "lon": -40.5533995
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Canevari",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5691986,
+  "lon": -44.954952
 }

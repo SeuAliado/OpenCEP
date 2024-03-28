@@ -5,5 +5,7 @@
   "bairro": "Residencial Tangará",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3622192,
+  "lon": -48.9600888
 }

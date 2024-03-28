@@ -5,5 +5,7 @@
   "bairro": "Flor de Nápolis",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.6039409,
+  "lon": -48.647994
 }

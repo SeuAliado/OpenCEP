@@ -5,5 +5,7 @@
   "bairro": "Piraju",
   "localidade": "Manoel Viana",
   "uf": "RS",
-  "ibge": "4311759"
+  "ibge": "4311759",
+  "lat": -29.5794513,
+  "lon": -55.4888862
 }

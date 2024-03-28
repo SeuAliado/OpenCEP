@@ -5,5 +5,7 @@
   "bairro": "Carmo",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2435494,
+  "lon": -43.7686131
 }

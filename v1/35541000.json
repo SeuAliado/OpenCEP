@@ -5,5 +5,7 @@
   "bairro": "Morro do Ferro",
   "localidade": "Oliveira",
   "uf": "MG",
-  "ibge": "3145604"
+  "ibge": "3145604",
+  "lat": -20.774179,
+  "lon": -44.5738405
 }

@@ -5,5 +5,7 @@
   "bairro": "Canivete",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3220685,
+  "lon": -40.0714658
 }

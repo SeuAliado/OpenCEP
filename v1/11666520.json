@@ -5,5 +5,7 @@
   "bairro": "Jardim Nomar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6737228,
+  "lon": -45.4359146
 }

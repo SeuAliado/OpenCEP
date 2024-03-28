@@ -5,5 +5,7 @@
   "bairro": "Residencial Veneza",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3340258,
+  "lon": -51.1093426
 }

@@ -5,5 +5,7 @@
   "bairro": "Maioba",
   "localidade": "Paço do Lumiar",
   "uf": "MA",
-  "ibge": "2107506"
+  "ibge": "2107506",
+  "lat": -2.5026739,
+  "lon": -44.1802504
 }

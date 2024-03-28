@@ -5,5 +5,7 @@
   "bairro": "Dona Amélia",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1916183,
+  "lon": -50.4484294
 }

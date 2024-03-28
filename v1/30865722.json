@@ -5,5 +5,7 @@
   "bairro": "Vila Coqueiral (Vila da Paz)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9156299,
+  "lon": -44.0254362
 }

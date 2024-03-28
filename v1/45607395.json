@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8078231,
+  "lon": -39.2779979
 }

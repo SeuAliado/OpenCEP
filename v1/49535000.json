@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Miguel do Aleixo",
   "uf": "SE",
-  "ibge": "2807006"
+  "ibge": "2807006",
+  "lat": -10.3850935,
+  "lon": -37.383899
 }

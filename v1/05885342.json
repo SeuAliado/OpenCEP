@@ -5,5 +5,7 @@
   "bairro": "Jardim Comercial",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.3776799,
+  "lon": -47.5799714
 }

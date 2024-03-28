@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Filadélfia",
   "uf": "TO",
-  "ibge": "1707702"
+  "ibge": "1707702",
+  "lat": -7.3354109,
+  "lon": -47.4958657
 }

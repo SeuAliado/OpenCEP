@@ -5,5 +5,7 @@
   "bairro": "Riacho do Sertão",
   "localidade": "Major Isidoro",
   "uf": "AL",
-  "ibge": "2704401"
+  "ibge": "2704401",
+  "lat": -9.5292977,
+  "lon": -36.9867965
 }

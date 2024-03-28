@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Nerópolis",
   "uf": "GO",
-  "ibge": "5214507"
+  "ibge": "5214507",
+  "lat": -16.3284181,
+  "lon": -48.9572668
 }

@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.0652344,
+  "lon": -40.1872079
 }

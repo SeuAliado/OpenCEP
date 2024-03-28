@@ -5,5 +5,7 @@
   "bairro": "Craolândia",
   "localidade": "Goiatins",
   "uf": "TO",
-  "ibge": "1709005"
+  "ibge": "1709005",
+  "lat": -8.1052226,
+  "lon": -47.1904362
 }

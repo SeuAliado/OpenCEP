@@ -5,5 +5,7 @@
   "bairro": "S-29",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.725909,
+  "lon": -60.147188
 }

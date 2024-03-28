@@ -5,5 +5,7 @@
   "bairro": "Jardim Maristela",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4695791,
+  "lon": -46.6986249
 }

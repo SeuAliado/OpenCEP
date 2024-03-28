@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marechal Thaumaturgo",
   "uf": "AC",
-  "ibge": "1200351"
+  "ibge": "1200351",
+  "lat": -9.0314758,
+  "lon": -72.6151169
 }

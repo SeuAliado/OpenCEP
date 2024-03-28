@@ -5,5 +5,7 @@
   "bairro": "Tucunduba",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.8523013,
+  "lon": -38.7253821
 }

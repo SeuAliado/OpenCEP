@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rolador",
   "uf": "RS",
-  "ibge": "4315958"
+  "ibge": "4315958",
+  "lat": -28.2568973,
+  "lon": -54.8200346
 }

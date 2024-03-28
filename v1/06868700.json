@@ -5,5 +5,7 @@
   "bairro": "Mombaça",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.7607619,
+  "lon": -46.8452207
 }

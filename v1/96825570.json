@@ -5,5 +5,7 @@
   "bairro": "Margarida",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.725798,
+  "lon": -52.415817
 }

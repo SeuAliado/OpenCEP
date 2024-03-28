@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Vicente Ferrer",
   "uf": "PE",
-  "ibge": "2613800"
+  "ibge": "2613800",
+  "lat": -7.5901029,
+  "lon": -35.4811634
 }

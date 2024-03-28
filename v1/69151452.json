@@ -5,5 +5,7 @@
   "bairro": "Raimundo Muniz",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6270961,
+  "lon": -56.7320314
 }

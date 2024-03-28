@@ -5,5 +5,7 @@
   "bairro": "Vila Nehemia",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9478498,
+  "lon": -45.4641448
 }

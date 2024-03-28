@@ -5,5 +5,7 @@
   "bairro": "Colina de Laranjeiras",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1885326,
+  "lon": -40.2610081
 }

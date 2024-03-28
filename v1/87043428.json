@@ -5,5 +5,7 @@
   "bairro": "Loteamento Batel",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.3913901,
+  "lon": -51.8979544
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mataraca",
   "uf": "PB",
-  "ibge": "2509305"
+  "ibge": "2509305",
+  "lat": -6.595896,
+  "lon": -35.0560657
 }

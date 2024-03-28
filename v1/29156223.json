@@ -5,5 +5,7 @@
   "bairro": "São João Batista",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2745799,
+  "lon": -40.4107509
 }

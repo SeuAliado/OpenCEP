@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora Auxiliadora",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8800008,
+  "lon": -47.0650789
 }

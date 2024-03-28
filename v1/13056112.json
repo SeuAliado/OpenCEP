@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeronave de Viracopos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9890902,
+  "lon": -47.1381523
 }

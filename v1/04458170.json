@@ -5,5 +5,7 @@
   "bairro": "Jardim Sônia (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6863267,
+  "lon": -46.666294
 }

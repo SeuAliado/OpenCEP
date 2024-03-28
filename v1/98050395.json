@@ -5,5 +5,7 @@
   "bairro": "Dirceu",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6474321,
+  "lon": -53.5976164
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Florestópolis",
   "uf": "PR",
-  "ibge": "4108007"
+  "ibge": "4108007",
+  "lat": -22.8664464,
+  "lon": -51.3906526
 }

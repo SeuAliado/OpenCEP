@@ -5,5 +5,7 @@
   "bairro": "Camisão",
   "localidade": "Aquidauana",
   "uf": "MS",
-  "ibge": "5001102"
+  "ibge": "5001102",
+  "lat": -20.4630162,
+  "lon": -55.7664299
 }

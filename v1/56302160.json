@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.4007497,
+  "lon": -40.4960995
 }

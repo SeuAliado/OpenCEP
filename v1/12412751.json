@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Alegre",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9628094,
+  "lon": -45.4576948
 }

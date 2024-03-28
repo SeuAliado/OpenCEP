@@ -5,5 +5,7 @@
   "bairro": "Chácara do Vale",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4842328,
+  "lon": -46.982485
 }

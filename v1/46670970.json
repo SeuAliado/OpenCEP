@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jussiape",
   "uf": "BA",
-  "ibge": "2918605"
+  "ibge": "2918605",
+  "lat": -13.5147176,
+  "lon": -41.5922205
 }

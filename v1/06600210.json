@@ -5,5 +5,7 @@
   "bairro": "Vila Anita Costa",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5370484,
+  "lon": -46.9013628
 }

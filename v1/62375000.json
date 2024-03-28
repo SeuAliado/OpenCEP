@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carnaubal",
   "uf": "CE",
-  "ibge": "2303402"
+  "ibge": "2303402",
+  "lat": -4.1078494,
+  "lon": -40.9990597
 }

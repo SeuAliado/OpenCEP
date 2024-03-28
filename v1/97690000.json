@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Garruchos",
   "uf": "RS",
-  "ibge": "4308656"
+  "ibge": "4308656",
+  "lat": -28.1948921,
+  "lon": -55.638821
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Independência",
   "uf": "CE",
-  "ibge": "2305605"
+  "ibge": "2305605",
+  "lat": -5.3947674,
+  "lon": -40.3090941
 }

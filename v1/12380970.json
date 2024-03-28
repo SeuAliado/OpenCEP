@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Branca",
   "uf": "SP",
-  "ibge": "3546009"
+  "ibge": "3546009",
+  "lat": -23.3971861,
+  "lon": -45.8828414
 }

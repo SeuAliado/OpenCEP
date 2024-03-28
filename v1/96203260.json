@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0825511,
+  "lon": -52.1620553
 }

@@ -5,5 +5,7 @@
   "bairro": "Jequitibá",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8298252,
+  "lon": -40.278763
 }

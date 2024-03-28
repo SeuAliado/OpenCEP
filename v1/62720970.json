@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itatira",
   "uf": "CE",
-  "ibge": "2306603"
+  "ibge": "2306603",
+  "lat": -4.5264611,
+  "lon": -39.6205089
 }

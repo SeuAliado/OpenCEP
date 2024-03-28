@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaupaci",
   "uf": "GO",
-  "ibge": "5212006"
+  "ibge": "5212006",
+  "lat": -16.177735,
+  "lon": -50.9512258
 }

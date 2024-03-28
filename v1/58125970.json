@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alagoa Nova",
   "uf": "PB",
-  "ibge": "2500403"
+  "ibge": "2500403",
+  "lat": -7.0597895,
+  "lon": -35.7591107
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Leblon",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.455991,
+  "lon": -51.9188427
 }

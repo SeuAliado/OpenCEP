@@ -5,5 +5,7 @@
   "bairro": "Cachoeira do Manteiga",
   "localidade": "Buritizeiro",
   "uf": "MG",
-  "ibge": "3109402"
+  "ibge": "3109402",
+  "lat": -19.9229694,
+  "lon": -43.9365255
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Antônio Amábile",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.020823,
+  "lon": -44.0566014
 }

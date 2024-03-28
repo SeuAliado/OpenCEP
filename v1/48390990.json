@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cardeal da Silva",
   "uf": "BA",
-  "ibge": "2907004"
+  "ibge": "2907004",
+  "lat": -11.9433011,
+  "lon": -37.9491909
 }

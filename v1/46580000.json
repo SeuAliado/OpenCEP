@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tanque Novo",
   "uf": "BA",
-  "ibge": "2931053"
+  "ibge": "2931053",
+  "lat": -13.5489556,
+  "lon": -42.4937995
 }

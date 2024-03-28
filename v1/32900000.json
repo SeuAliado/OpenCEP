@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "lat": -20.0711521,
+  "lon": -44.2998655
 }

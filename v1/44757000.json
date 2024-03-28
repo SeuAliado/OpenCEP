@@ -5,5 +5,7 @@
   "bairro": "Barracas",
   "localidade": "Ponto Novo",
   "uf": "BA",
-  "ibge": "2925253"
+  "ibge": "2925253",
+  "lat": -11.07692,
+  "lon": -40.079369
 }

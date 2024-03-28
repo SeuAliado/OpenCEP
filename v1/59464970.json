@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria",
   "uf": "RN",
-  "ibge": "2409332"
+  "ibge": "2409332",
+  "lat": -5.8422659,
+  "lon": -35.689967
 }

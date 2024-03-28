@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedra",
   "uf": "PE",
-  "ibge": "2610806"
+  "ibge": "2610806",
+  "lat": -8.4990611,
+  "lon": -36.9454477
 }

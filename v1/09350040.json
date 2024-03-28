@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.672426,
+  "lon": -46.440846
 }

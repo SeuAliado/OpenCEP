@@ -5,5 +5,7 @@
   "bairro": "Vila Carminha",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.939629,
+  "lon": -47.0325335
 }

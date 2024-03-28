@@ -5,5 +5,7 @@
   "bairro": "Jardim Rubiácea",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.9214061,
+  "lon": -50.5156001
 }

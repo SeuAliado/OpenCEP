@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uiraúna",
   "uf": "PB",
-  "ibge": "2516904"
+  "ibge": "2516904",
+  "lat": -6.5212442,
+  "lon": -38.4129524
 }

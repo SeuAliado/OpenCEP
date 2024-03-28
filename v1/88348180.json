@@ -5,5 +5,7 @@
   "bairro": "Tabuleiro (Monte Alegre)",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "lat": -27.0016784,
+  "lon": -48.652262
 }

@@ -5,5 +5,7 @@
   "bairro": "Mirim",
   "localidade": "Severiano de Almeida",
   "uf": "RS",
-  "ibge": "4320602"
+  "ibge": "4320602",
+  "lat": -27.3894108,
+  "lon": -52.0368873
 }

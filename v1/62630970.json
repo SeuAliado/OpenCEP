@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Apuiarés",
   "uf": "CE",
-  "ibge": "2300903"
+  "ibge": "2300903",
+  "lat": -4.095776,
+  "lon": -39.2384939
 }

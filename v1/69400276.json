@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manacapuru",
   "uf": "AM",
-  "ibge": "1302504"
+  "ibge": "1302504",
+  "lat": -3.2981922,
+  "lon": -60.6263379
 }

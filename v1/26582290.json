@@ -5,5 +5,7 @@
   "bairro": "Cosmorama",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.7919888,
+  "lon": -43.416695
 }

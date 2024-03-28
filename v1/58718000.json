@@ -5,5 +5,7 @@
   "bairro": "Itajubatiba",
   "localidade": "Catingueira",
   "uf": "PB",
-  "ibge": "2504207"
+  "ibge": "2504207",
+  "lat": -7.0182888,
+  "lon": -37.6520783
 }

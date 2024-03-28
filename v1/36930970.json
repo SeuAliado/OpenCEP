@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Simonésia",
   "uf": "MG",
-  "ibge": "3167608"
+  "ibge": "3167608",
+  "lat": -20.1202717,
+  "lon": -42.001023
 }

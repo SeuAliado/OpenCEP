@@ -5,5 +5,7 @@
   "bairro": "Serrinha",
   "localidade": "Bom Jesus do Itabapoana",
   "uf": "RJ",
-  "ibge": "3300605"
+  "ibge": "3300605",
+  "lat": -21.1363451,
+  "lon": -41.677085
 }

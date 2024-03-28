@@ -5,5 +5,7 @@
   "bairro": "Castelo Branco",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5208431,
+  "lon": -40.625522
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Feliz",
   "uf": "RS",
-  "ibge": "4300570"
+  "ibge": "4300570",
+  "lat": -29.3924263,
+  "lon": -51.3127875
 }

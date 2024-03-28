@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Divinésia",
   "uf": "MG",
-  "ibge": "3121902"
+  "ibge": "3121902",
+  "lat": -20.9897017,
+  "lon": -43.0043514
 }

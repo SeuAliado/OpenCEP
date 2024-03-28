@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coqueiro Baixo",
   "uf": "RS",
-  "ibge": "4305835"
+  "ibge": "4305835",
+  "lat": -29.1749683,
+  "lon": -52.10099
 }

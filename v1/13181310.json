@@ -5,5 +5,7 @@
   "bairro": "Jardim Danúbio Azul (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8366191,
+  "lon": -47.1868268
 }

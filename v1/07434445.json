@@ -5,5 +5,7 @@
   "bairro": "Arujázinho IV",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4229508,
+  "lon": -46.293332
 }

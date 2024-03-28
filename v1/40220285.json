@@ -5,5 +5,7 @@
   "bairro": "Engenho Velho da Federação",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0005861,
+  "lon": -38.4964007
 }

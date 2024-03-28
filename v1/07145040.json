@@ -5,5 +5,7 @@
   "bairro": "Mikail II",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4037492,
+  "lon": -46.4963655
 }

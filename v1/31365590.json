@@ -5,5 +5,7 @@
   "bairro": "Braúnas",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.849347,
+  "lon": -44.0110981
 }

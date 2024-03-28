@@ -5,5 +5,7 @@
   "bairro": "Swift",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9278985,
+  "lon": -47.0371663
 }

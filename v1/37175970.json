@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ilicínea",
   "uf": "MG",
-  "ibge": "3130507"
+  "ibge": "3130507",
+  "lat": -20.9405277,
+  "lon": -45.8270911
 }

@@ -5,5 +5,7 @@
   "bairro": "Simão Campos",
   "localidade": "São João da Ponte",
   "uf": "MG",
-  "ibge": "3162401"
+  "ibge": "3162401",
+  "lat": -15.9305835,
+  "lon": -44.0041214
 }

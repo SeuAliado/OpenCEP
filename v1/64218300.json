@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9123835,
+  "lon": -41.782263
 }

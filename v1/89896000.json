@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapiranga",
   "uf": "SC",
-  "ibge": "4208401"
+  "ibge": "4208401",
+  "lat": -27.1698985,
+  "lon": -53.7108335
 }

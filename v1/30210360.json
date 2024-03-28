@@ -5,5 +5,7 @@
   "bairro": "Mangabeiras",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9526857,
+  "lon": -43.91554
 }

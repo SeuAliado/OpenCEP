@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vale do Paraíso",
   "uf": "RO",
-  "ibge": "1101807"
+  "ibge": "1101807",
+  "lat": -10.4260809,
+  "lon": -62.1264549
 }

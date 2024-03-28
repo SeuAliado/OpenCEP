@@ -5,5 +5,7 @@
   "bairro": "Três Barras",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3769341,
+  "lon": -40.067481
 }

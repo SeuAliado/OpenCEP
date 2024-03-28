@@ -5,5 +5,7 @@
   "bairro": "Araçás",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.384117,
+  "lon": -40.326614
 }

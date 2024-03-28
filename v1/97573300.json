@@ -5,5 +5,7 @@
   "bairro": "Divisa",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "lat": -30.8870206,
+  "lon": -55.546037
 }

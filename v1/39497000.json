@@ -5,5 +5,7 @@
   "bairro": "São Sebastião dos Poções",
   "localidade": "Montalvânia",
   "uf": "MG",
-  "ibge": "3142700"
+  "ibge": "3142700",
+  "lat": -14.5203791,
+  "lon": -44.3937006
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coroatá",
   "uf": "MA",
-  "ibge": "2103604"
+  "ibge": "2103604",
+  "lat": -4.055821,
+  "lon": -44.1720266
 }

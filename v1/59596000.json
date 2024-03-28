@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Galinhos",
   "uf": "RN",
-  "ibge": "2404101"
+  "ibge": "2404101",
+  "lat": -5.0912923,
+  "lon": -36.275774
 }

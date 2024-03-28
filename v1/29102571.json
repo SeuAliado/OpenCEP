@@ -5,5 +5,7 @@
   "bairro": "Praia das Gaivotas",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3754094,
+  "lon": -40.3149836
 }

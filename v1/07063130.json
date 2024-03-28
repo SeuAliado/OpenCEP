@@ -5,5 +5,7 @@
   "bairro": "Vila Milton",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4583127,
+  "lon": -46.5606255
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ruth",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5375976,
+  "lon": -46.97552
 }

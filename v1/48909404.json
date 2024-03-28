@@ -5,5 +5,7 @@
   "bairro": "Malhada da Areia",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4424717,
+  "lon": -40.5067634
 }

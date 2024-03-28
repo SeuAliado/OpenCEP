@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Lúcia",
   "uf": "PR",
-  "ibge": "4123824"
+  "ibge": "4123824",
+  "lat": -25.4108323,
+  "lon": -53.5643049
 }

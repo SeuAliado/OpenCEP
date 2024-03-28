@@ -5,5 +5,7 @@
   "bairro": "Mirorós",
   "localidade": "Ibipeba",
   "uf": "BA",
-  "ibge": "2912400"
+  "ibge": "2912400",
+  "lat": -11.5212349,
+  "lon": -42.201315
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Brejo do Cruz",
   "uf": "PB",
-  "ibge": "2514651"
+  "ibge": "2514651",
+  "lat": -6.2142434,
+  "lon": -37.3525838
 }

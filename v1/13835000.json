@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "lat": -22.337997,
+  "lon": -47.1733742
 }

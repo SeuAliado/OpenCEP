@@ -5,5 +5,7 @@
   "bairro": "Chácaras Videiras de Itaici",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1411523,
+  "lon": -47.1578399
 }

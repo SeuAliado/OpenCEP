@@ -5,5 +5,7 @@
   "bairro": "Vila Dainese",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7316105,
+  "lon": -47.3575611
 }

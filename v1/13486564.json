@@ -5,5 +5,7 @@
   "bairro": "Parque Hippolyto",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5716176,
+  "lon": -47.3757383
 }

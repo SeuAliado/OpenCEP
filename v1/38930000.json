@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Medeiros",
   "uf": "MG",
-  "ibge": "3141306"
+  "ibge": "3141306",
+  "lat": -19.9869861,
+  "lon": -46.2184854
 }

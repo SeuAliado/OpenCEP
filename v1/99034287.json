@@ -5,5 +5,7 @@
   "bairro": "Integração",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2710764,
+  "lon": -52.453789
 }

@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.3705697,
+  "lon": -51.4586594
 }

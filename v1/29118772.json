@@ -5,5 +5,7 @@
   "bairro": "Zumbí dos Palmares",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3494032,
+  "lon": -40.3348732
 }

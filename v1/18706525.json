@@ -5,5 +5,7 @@
   "bairro": "Alto da Colina II",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0922714,
+  "lon": -48.9327923
 }

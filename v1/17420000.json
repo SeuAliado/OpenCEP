@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lupércio",
   "uf": "SP",
-  "ibge": "3527801"
+  "ibge": "3527801",
+  "lat": -22.412146,
+  "lon": -49.7933279
 }

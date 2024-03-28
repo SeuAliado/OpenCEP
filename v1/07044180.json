@@ -5,5 +5,7 @@
   "bairro": "Esplanada das Bandeiras",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.486624,
+  "lon": -46.5555173
 }

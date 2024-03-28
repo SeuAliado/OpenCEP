@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salitre",
   "uf": "CE",
-  "ibge": "2311959"
+  "ibge": "2311959",
+  "lat": -7.288308,
+  "lon": -40.4545503
 }

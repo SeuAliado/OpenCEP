@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Sanclerlândia",
   "uf": "GO",
-  "ibge": "5219001"
+  "ibge": "5219001",
+  "lat": -16.4611949,
+  "lon": -49.9758315
 }

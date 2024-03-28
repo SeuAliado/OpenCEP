@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tartarugalzinho",
   "uf": "AP",
-  "ibge": "1600709"
+  "ibge": "1600709",
+  "lat": 1.2998516,
+  "lon": -50.8456323
 }

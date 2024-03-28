@@ -5,5 +5,7 @@
   "bairro": "Uruguai",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9294252,
+  "lon": -38.4944075
 }

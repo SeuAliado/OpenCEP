@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amontada",
   "uf": "CE",
-  "ibge": "2300754"
+  "ibge": "2300754",
+  "lat": -3.491389,
+  "lon": -39.576111
 }

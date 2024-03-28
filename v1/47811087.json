@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1281268,
+  "lon": -45.0018118
 }

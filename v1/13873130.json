@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9572665,
+  "lon": -46.8027177
 }

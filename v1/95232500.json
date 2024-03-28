@@ -5,5 +5,7 @@
   "bairro": "Vila Ituim",
   "localidade": "Muitos Capões",
   "uf": "RS",
-  "ibge": "4312617"
+  "ibge": "4312617",
+  "lat": -28.6317773,
+  "lon": -51.3769593
 }

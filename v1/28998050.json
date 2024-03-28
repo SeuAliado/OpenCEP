@@ -5,5 +5,7 @@
   "bairro": "Serra de Mato Grosso (Sampaio Correia)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8728025,
+  "lon": -42.620355
 }

@@ -5,5 +5,7 @@
   "bairro": "Embura",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8709995,
+  "lon": -46.7381114
 }

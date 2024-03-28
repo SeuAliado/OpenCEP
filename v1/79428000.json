@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Figueirão",
   "uf": "MS",
-  "ibge": "5003900"
+  "ibge": "5003900",
+  "lat": -18.6754781,
+  "lon": -53.6418556
 }

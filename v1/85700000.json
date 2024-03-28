@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barracão",
   "uf": "PR",
-  "ibge": "4102604"
+  "ibge": "4102604",
+  "lat": -26.2507099,
+  "lon": -53.632898
 }

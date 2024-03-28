@@ -5,5 +5,7 @@
   "bairro": "Cidade Soberana",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4032447,
+  "lon": -46.4385115
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Boa",
   "uf": "GO",
-  "ibge": "5222203"
+  "ibge": "5222203",
+  "lat": -15.0002321,
+  "lon": -47.0972424
 }

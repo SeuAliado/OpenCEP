@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Tangará da Serra",
   "uf": "MT",
-  "ibge": "5107958"
+  "ibge": "5107958",
+  "lat": -5.7617083,
+  "lon": -35.2764983
 }

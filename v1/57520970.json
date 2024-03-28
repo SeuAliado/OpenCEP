@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maravilha",
   "uf": "AL",
-  "ibge": "2704609"
+  "ibge": "2704609",
+  "lat": -26.7649975,
+  "lon": -53.1805407
 }

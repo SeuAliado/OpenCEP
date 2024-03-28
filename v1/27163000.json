@@ -5,5 +5,7 @@
   "bairro": "Califórnia da Barra",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4747616,
+  "lon": -44.0466175
 }

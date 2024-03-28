@@ -5,5 +5,7 @@
   "bairro": "Alagoinhas Velha",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1415658,
+  "lon": -38.4074279
 }

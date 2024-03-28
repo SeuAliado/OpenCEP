@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bozano",
   "uf": "RS",
-  "ibge": "4302584"
+  "ibge": "4302584",
+  "lat": -28.3684785,
+  "lon": -53.7712186
 }

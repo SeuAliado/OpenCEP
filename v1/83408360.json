@@ -5,5 +5,7 @@
   "bairro": "Atuba",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.3845739,
+  "lon": -49.1901189
 }

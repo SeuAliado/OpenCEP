@@ -5,5 +5,7 @@
   "bairro": "Helvétia",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0578513,
+  "lon": -47.1395226
 }

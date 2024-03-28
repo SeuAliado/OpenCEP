@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Janiópolis",
   "uf": "PR",
-  "ibge": "4112207"
+  "ibge": "4112207",
+  "lat": -24.1291732,
+  "lon": -52.8098384
 }

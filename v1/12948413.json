@@ -5,5 +5,7 @@
   "bairro": "Estância San Remo",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.176137,
+  "lon": -46.648761
 }

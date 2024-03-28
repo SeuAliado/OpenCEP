@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dom Expedito Lopes",
   "uf": "PI",
-  "ibge": "2203404"
+  "ibge": "2203404",
+  "lat": -6.9712268,
+  "lon": -41.700902
 }

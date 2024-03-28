@@ -5,5 +5,7 @@
   "bairro": "Jardim Barro Branco",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6274146,
+  "lon": -43.2818766
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Umbaúba",
   "uf": "SE",
-  "ibge": "2807600"
+  "ibge": "2807600",
+  "lat": -11.3813595,
+  "lon": -37.6626896
 }

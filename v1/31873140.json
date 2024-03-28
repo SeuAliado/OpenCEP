@@ -5,5 +5,7 @@
   "bairro": "Maria Tereza",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8415465,
+  "lon": -43.905422
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Argirita",
   "uf": "MG",
-  "ibge": "3104403"
+  "ibge": "3104403",
+  "lat": -21.6121229,
+  "lon": -42.8365052
 }

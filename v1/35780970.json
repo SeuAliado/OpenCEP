@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cordisburgo",
   "uf": "MG",
-  "ibge": "3118908"
+  "ibge": "3118908",
+  "lat": -19.1227472,
+  "lon": -44.3237784
 }

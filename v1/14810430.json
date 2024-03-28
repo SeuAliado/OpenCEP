@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7674864,
+  "lon": -48.1575416
 }

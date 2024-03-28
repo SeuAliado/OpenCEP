@@ -5,5 +5,7 @@
   "bairro": "Manacás",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8978566,
+  "lon": -43.999465
 }

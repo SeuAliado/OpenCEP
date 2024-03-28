@@ -5,5 +5,7 @@
   "bairro": "Enseada",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9825122,
+  "lon": -46.2379496
 }

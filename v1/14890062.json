@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "lat": -21.2695144,
+  "lon": -48.3057901
 }

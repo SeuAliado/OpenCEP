@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -20.7853864,
+  "lon": -49.3924509
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio dos Índios",
   "uf": "RS",
-  "ibge": "4315552"
+  "ibge": "4315552",
+  "lat": -27.2977661,
+  "lon": -52.8422606
 }

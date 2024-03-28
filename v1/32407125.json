@@ -5,5 +5,7 @@
   "bairro": "Bosques de Ibirité",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0354194,
+  "lon": -44.049551
 }

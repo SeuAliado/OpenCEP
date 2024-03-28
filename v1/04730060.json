@@ -5,5 +5,7 @@
   "bairro": "Várzea de Baixo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6436093,
+  "lon": -46.7231085
 }

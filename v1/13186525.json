@@ -5,5 +5,7 @@
   "bairro": "Chácaras Assay",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.9026546,
+  "lon": -47.22691
 }

@@ -5,5 +5,7 @@
   "bairro": "Rotta do Sol",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1376596,
+  "lon": -51.464054
 }

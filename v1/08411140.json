@@ -5,5 +5,7 @@
   "bairro": "Vila Zefira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5504295,
+  "lon": -46.4102004
 }

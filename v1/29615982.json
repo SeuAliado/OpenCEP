@@ -5,5 +5,7 @@
   "bairro": "São Luiz de Miranda",
   "localidade": "Laranja da Terra",
   "uf": "ES",
-  "ibge": "3203163"
+  "ibge": "3203163",
+  "lat": -19.9025128,
+  "lon": -41.0598846
 }

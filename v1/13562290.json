@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirantes",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0011383,
+  "lon": -47.9099883
 }

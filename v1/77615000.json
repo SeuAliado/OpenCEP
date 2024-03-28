@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Tereza do Tocantins",
   "uf": "TO",
-  "ibge": "1719004"
+  "ibge": "1719004",
+  "lat": -10.2750394,
+  "lon": -47.8037104
 }

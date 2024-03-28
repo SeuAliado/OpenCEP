@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Eucaliptos",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6549036,
+  "lon": -46.3131125
 }

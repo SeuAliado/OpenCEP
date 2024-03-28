@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.951017,
+  "lon": -44.201737
 }

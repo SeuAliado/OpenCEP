@@ -5,5 +5,7 @@
   "bairro": "Nove de Março",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2009869,
+  "lon": -43.8003676
 }

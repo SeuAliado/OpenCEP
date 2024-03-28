@@ -5,5 +5,7 @@
   "bairro": "Humaitá de Cima",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4722098,
+  "lon": -49.0231963
 }

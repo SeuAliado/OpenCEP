@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tapiratiba",
   "uf": "SP",
-  "ibge": "3553609"
+  "ibge": "3553609",
+  "lat": -21.4718061,
+  "lon": -46.745266
 }

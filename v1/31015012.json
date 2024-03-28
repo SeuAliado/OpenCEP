@@ -5,5 +5,7 @@
   "bairro": "Horto",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9089558,
+  "lon": -43.9120028
 }

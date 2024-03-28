@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Saboeiro",
   "uf": "CE",
-  "ibge": "2311900"
+  "ibge": "2311900",
+  "lat": -6.6617553,
+  "lon": -39.8093404
 }

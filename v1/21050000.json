@@ -5,5 +5,7 @@
   "bairro": "Manguinhos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.875515,
+  "lon": -43.2572525
 }

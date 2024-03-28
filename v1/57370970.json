@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Traipu",
   "uf": "AL",
-  "ibge": "2709202"
+  "ibge": "2709202",
+  "lat": -9.7243707,
+  "lon": -36.664338
 }

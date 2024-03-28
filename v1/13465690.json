@@ -5,5 +5,7 @@
   "bairro": "Jardim Girassol",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7458004,
+  "lon": -47.3422245
 }

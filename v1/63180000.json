@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barbalha",
   "uf": "CE",
-  "ibge": "2301901"
+  "ibge": "2301901",
+  "lat": -7.2986097,
+  "lon": -39.3024329
 }

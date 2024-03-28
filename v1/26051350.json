@@ -5,5 +5,7 @@
   "bairro": "Recanto Santo Antônio",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6912496,
+  "lon": -43.455689
 }

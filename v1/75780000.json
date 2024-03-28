@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipameri",
   "uf": "GO",
-  "ibge": "5210109"
+  "ibge": "5210109",
+  "lat": -17.722004,
+  "lon": -48.1585601
 }

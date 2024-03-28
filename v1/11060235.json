@@ -5,5 +5,7 @@
   "bairro": "Gonzaga",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "lat": -23.9666821,
+  "lon": -46.337047
 }

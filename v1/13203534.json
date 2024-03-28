@@ -5,5 +5,7 @@
   "bairro": "Parque Cidade Jardim II",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2275334,
+  "lon": -46.8575616
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Açailândia",
   "uf": "MA",
-  "ibge": "2100055"
+  "ibge": "2100055",
+  "lat": -4.9511666,
+  "lon": -47.4983299
 }

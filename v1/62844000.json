@@ -5,5 +5,7 @@
   "bairro": "Paripueira",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "lat": -4.2593802,
+  "lon": -38.0516414
 }

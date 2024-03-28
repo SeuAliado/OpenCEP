@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3716063,
+  "lon": -49.3067654
 }

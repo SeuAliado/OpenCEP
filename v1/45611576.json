@@ -5,5 +5,7 @@
   "bairro": "Jorge Amado",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8124337,
+  "lon": -39.3106819
 }

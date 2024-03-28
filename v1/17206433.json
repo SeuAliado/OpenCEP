@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.266258,
+  "lon": -48.5629827
 }

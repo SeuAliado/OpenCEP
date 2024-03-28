@@ -5,5 +5,7 @@
   "bairro": "Califórnia",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9559919,
+  "lon": -44.2068858
 }

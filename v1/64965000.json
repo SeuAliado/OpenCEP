@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Avelino Lopes",
   "uf": "PI",
-  "ibge": "2201101"
+  "ibge": "2201101",
+  "lat": -10.1547709,
+  "lon": -43.9055155
 }

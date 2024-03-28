@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cordislândia",
   "uf": "MG",
-  "ibge": "3119005"
+  "ibge": "3119005",
+  "lat": -21.7921005,
+  "lon": -45.7008894
 }

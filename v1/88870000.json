@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Orleans",
   "uf": "SC",
-  "ibge": "4211702"
+  "ibge": "4211702",
+  "lat": -28.358643,
+  "lon": -49.2882404
 }

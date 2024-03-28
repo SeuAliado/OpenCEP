@@ -5,5 +5,7 @@
   "bairro": "Chácara Morada Mediterrânea",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1374127,
+  "lon": -46.939287
 }

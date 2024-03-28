@@ -5,5 +5,7 @@
   "bairro": "Loteamento João Tamborindeguy Fernandes",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9182705,
+  "lon": -45.3642016
 }

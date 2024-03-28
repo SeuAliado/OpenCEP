@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Américo de Campos",
   "uf": "SP",
-  "ibge": "3501806"
+  "ibge": "3501806",
+  "lat": -20.2989447,
+  "lon": -49.7363654
 }

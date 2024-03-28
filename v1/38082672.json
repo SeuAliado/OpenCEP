@@ -5,5 +5,7 @@
   "bairro": "Conjunto Maringá II",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.759736,
+  "lon": -47.8827029
 }

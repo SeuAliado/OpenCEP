@@ -5,5 +5,7 @@
   "bairro": "Jardim Romano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4816051,
+  "lon": -46.3821196
 }

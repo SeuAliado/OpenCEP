@@ -5,5 +5,7 @@
   "bairro": "Campestrinho",
   "localidade": "Divinolândia",
   "uf": "SP",
-  "ibge": "3513900"
+  "ibge": "3513900",
+  "lat": -21.6614176,
+  "lon": -46.7411408
 }

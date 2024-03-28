@@ -5,5 +5,7 @@
   "bairro": "Capão",
   "localidade": "Laje",
   "uf": "BA",
-  "ibge": "2918803"
+  "ibge": "2918803",
+  "lat": -13.1466504,
+  "lon": -39.1513959
 }

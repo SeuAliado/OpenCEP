@@ -5,5 +5,7 @@
   "bairro": "Itatiaia do Alto Bonito",
   "localidade": "São José do Jacuípe",
   "uf": "BA",
-  "ibge": "2929370"
+  "ibge": "2929370",
+  "lat": -11.4511191,
+  "lon": -39.8694517
 }

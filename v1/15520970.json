@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Valentim Gentil",
   "uf": "SP",
-  "ibge": "3556107"
+  "ibge": "3556107",
+  "lat": -20.4148842,
+  "lon": -50.0887489
 }

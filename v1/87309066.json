@@ -5,5 +5,7 @@
   "bairro": "Vila Corinthians",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "lat": -24.026853,
+  "lon": -52.359117
 }

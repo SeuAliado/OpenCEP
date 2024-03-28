@@ -5,5 +5,7 @@
   "bairro": "Pratinha (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3501307,
+  "lon": -48.4710261
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Cruzeiro",
   "uf": "MG",
-  "ibge": "3145307"
+  "ibge": "3145307",
+  "lat": -17.4671597,
+  "lon": -41.8765206
 }

@@ -5,5 +5,7 @@
   "bairro": "Cenáculo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8094179,
+  "lon": -43.9650934
 }

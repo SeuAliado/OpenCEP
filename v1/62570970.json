@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bela Cruz",
   "uf": "CE",
-  "ibge": "2302305"
+  "ibge": "2302305",
+  "lat": -3.0611073,
+  "lon": -40.1649519
 }

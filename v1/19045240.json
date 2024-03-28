@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Mônica",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.144433,
+  "lon": -51.3786008
 }

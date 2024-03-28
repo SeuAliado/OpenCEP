@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaboticaba",
   "uf": "RS",
-  "ibge": "4310850"
+  "ibge": "4310850",
+  "lat": -27.6351885,
+  "lon": -53.2766896
 }

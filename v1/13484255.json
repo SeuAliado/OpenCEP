@@ -5,5 +5,7 @@
   "bairro": "Parque São Bento",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5511546,
+  "lon": -47.4193682
 }

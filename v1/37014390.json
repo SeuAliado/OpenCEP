@@ -5,5 +5,7 @@
   "bairro": "Bom Pastor",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5506097,
+  "lon": -45.4482721
 }

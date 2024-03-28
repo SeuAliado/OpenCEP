@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Oriente",
   "uf": "MG",
-  "ibge": "3162609"
+  "ibge": "3162609",
+  "lat": -19.3397174,
+  "lon": -42.1555966
 }

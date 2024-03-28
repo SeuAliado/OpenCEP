@@ -5,5 +5,7 @@
   "bairro": "São João Batista (Venda Nova)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8209944,
+  "lon": -43.9581865
 }

@@ -5,5 +5,7 @@
   "bairro": "Icó",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "lat": -11.4989068,
+  "lon": -40.7824238
 }

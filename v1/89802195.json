@@ -5,5 +5,7 @@
   "bairro": "SAIC",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1067613,
+  "lon": -52.6276308
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Carioca",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8094774,
+  "lon": -43.1900407
 }

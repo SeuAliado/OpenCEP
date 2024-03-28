@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mangaratiba",
   "uf": "RJ",
-  "ibge": "3302601"
+  "ibge": "3302601",
+  "lat": -22.9177771,
+  "lon": -43.952138
 }

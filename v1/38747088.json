@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9447964,
+  "lon": -46.9825899
 }

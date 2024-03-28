@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião do Caí",
   "uf": "RS",
-  "ibge": "4319505"
+  "ibge": "4319505",
+  "lat": -29.5904737,
+  "lon": -51.3738524
 }

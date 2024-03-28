@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Selbach",
   "uf": "RS",
-  "ibge": "4320305"
+  "ibge": "4320305",
+  "lat": -28.6296982,
+  "lon": -52.9524906
 }

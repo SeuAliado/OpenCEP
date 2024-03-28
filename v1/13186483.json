@@ -5,5 +5,7 @@
   "bairro": "Parque Odimar",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8957452,
+  "lon": -47.1932522
 }

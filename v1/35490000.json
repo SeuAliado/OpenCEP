@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Entre Rios de Minas",
   "uf": "MG",
-  "ibge": "3123908"
+  "ibge": "3123908",
+  "lat": -20.6685664,
+  "lon": -44.0666504
 }

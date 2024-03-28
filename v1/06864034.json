@@ -5,5 +5,7 @@
   "bairro": "Chácara Balbina",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.7410554,
+  "lon": -46.7971615
 }

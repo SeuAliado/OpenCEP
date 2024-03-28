@@ -5,5 +5,7 @@
   "bairro": "Três Irmãos",
   "localidade": "Cambuci",
   "uf": "RJ",
-  "ibge": "3300902"
+  "ibge": "3300902",
+  "lat": -21.5873325,
+  "lon": -41.9584178
 }

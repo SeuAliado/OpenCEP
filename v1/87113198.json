@@ -5,5 +5,7 @@
   "bairro": "Novo Panorama",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4228297,
+  "lon": -51.8797399
 }

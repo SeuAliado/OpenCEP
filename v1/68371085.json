@@ -5,5 +5,7 @@
   "bairro": "Catedral",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.2024174,
+  "lon": -52.2090834
 }

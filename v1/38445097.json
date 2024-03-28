@@ -5,5 +5,7 @@
   "bairro": "Sibipiruna",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.646786,
+  "lon": -48.1791765
 }

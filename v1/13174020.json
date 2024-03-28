@@ -5,5 +5,7 @@
   "bairro": "Vila Valle",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8162437,
+  "lon": -47.2621931
 }

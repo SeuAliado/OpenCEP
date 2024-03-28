@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Atlântico",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1549579,
+  "lon": -50.4505385
 }

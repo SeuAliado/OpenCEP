@@ -5,5 +5,7 @@
   "bairro": "Nova Califórnia",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7815766,
+  "lon": -39.2565097
 }

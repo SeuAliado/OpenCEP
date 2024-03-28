@@ -5,5 +5,7 @@
   "bairro": "Jardim Marambaia",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2451064,
+  "lon": -46.8555765
 }

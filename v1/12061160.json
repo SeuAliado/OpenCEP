@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Antônio",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.005578,
+  "lon": -45.5600704
 }

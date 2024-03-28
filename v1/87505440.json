@@ -5,5 +5,7 @@
   "bairro": "Parque Dom Bosco",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7721237,
+  "lon": -53.2882522
 }

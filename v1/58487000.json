@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fagundes",
   "uf": "PB",
-  "ibge": "2506103"
+  "ibge": "2506103",
+  "lat": -7.3582688,
+  "lon": -35.7868519
 }

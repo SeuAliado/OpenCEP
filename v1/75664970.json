@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Buriti Alegre",
   "uf": "GO",
-  "ibge": "5203906"
+  "ibge": "5203906",
+  "lat": -18.4088948,
+  "lon": -49.222168
 }

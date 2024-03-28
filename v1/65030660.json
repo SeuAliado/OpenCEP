@@ -5,5 +5,7 @@
   "bairro": "Vila Passos",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5248178,
+  "lon": -44.2992325
 }

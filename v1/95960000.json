@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Encantado",
   "uf": "RS",
-  "ibge": "4306809"
+  "ibge": "4306809",
+  "lat": -29.2360837,
+  "lon": -51.869606
 }

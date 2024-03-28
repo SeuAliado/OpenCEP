@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anapurus",
   "uf": "MA",
-  "ibge": "2100808"
+  "ibge": "2100808",
+  "lat": -3.6761459,
+  "lon": -43.1018315
 }

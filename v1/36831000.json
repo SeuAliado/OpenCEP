@@ -5,5 +5,7 @@
   "bairro": "São José da Pedra Menina",
   "localidade": "Espera Feliz",
   "uf": "MG",
-  "ibge": "3124203"
+  "ibge": "3124203",
+  "lat": -20.5694898,
+  "lon": -41.8368145
 }

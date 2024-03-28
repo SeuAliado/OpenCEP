@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo André",
   "uf": "PB",
-  "ibge": "2513851"
+  "ibge": "2513851",
+  "lat": -7.2191921,
+  "lon": -36.6314853
 }

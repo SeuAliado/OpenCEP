@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carlinda",
   "uf": "MT",
-  "ibge": "5102793"
+  "ibge": "5102793",
+  "lat": -9.9713343,
+  "lon": -55.8248506
 }

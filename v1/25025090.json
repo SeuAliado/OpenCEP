@@ -5,5 +5,7 @@
   "bairro": "Vila Amélia",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7840776,
+  "lon": -43.3212939
 }

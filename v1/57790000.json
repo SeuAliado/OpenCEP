@@ -5,5 +5,7 @@
   "bairro": "Santa Efigênia",
   "localidade": "Capela",
   "uf": "AL",
-  "ibge": "2701704"
+  "ibge": "2701704",
+  "lat": -22.4034679,
+  "lon": -45.5393212
 }

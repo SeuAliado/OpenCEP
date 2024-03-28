@@ -5,5 +5,7 @@
   "bairro": "Jardim Quitandinha II",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.801655,
+  "lon": -48.1930264
 }

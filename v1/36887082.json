@@ -5,5 +5,7 @@
   "bairro": "Napoleão",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.128687,
+  "lon": -42.3953189
 }

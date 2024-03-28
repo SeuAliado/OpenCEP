@@ -5,5 +5,7 @@
   "bairro": "Mirador",
   "localidade": "Presidente Getúlio",
   "uf": "SC",
-  "ibge": "4214003"
+  "ibge": "4214003",
+  "lat": -27.0414518,
+  "lon": -49.6095205
 }

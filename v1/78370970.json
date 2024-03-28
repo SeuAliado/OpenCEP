@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Olímpia",
   "uf": "MT",
-  "ibge": "5106232"
+  "ibge": "5106232",
+  "lat": -14.7809025,
+  "lon": -57.2879658
 }

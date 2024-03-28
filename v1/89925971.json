@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belmonte",
   "uf": "SC",
-  "ibge": "4202156"
+  "ibge": "4202156",
+  "lat": -26.8431203,
+  "lon": -53.5761011
 }

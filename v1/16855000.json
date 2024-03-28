@@ -5,5 +5,7 @@
   "bairro": "Tabajara",
   "localidade": "Lavínia",
   "uf": "SP",
-  "ibge": "3526506"
+  "ibge": "3526506",
+  "lat": -21.2821612,
+  "lon": -51.1272662
 }

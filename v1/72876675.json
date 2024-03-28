@@ -5,5 +5,7 @@
   "bairro": "Parque Esplanada V",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0964189,
+  "lon": -47.9445596
 }

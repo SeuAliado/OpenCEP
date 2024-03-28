@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Icatu",
   "uf": "MA",
-  "ibge": "2105104"
+  "ibge": "2105104",
+  "lat": -2.7724347,
+  "lon": -44.0504509
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capão do Cipó",
   "uf": "RS",
-  "ibge": "4304655"
+  "ibge": "4304655",
+  "lat": -28.9722479,
+  "lon": -54.5656396
 }

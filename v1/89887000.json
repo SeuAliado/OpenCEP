@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmitos",
   "uf": "SC",
-  "ibge": "4212106"
+  "ibge": "4212106",
+  "lat": -27.071804,
+  "lon": -53.1592272
 }

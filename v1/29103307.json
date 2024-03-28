@@ -5,5 +5,7 @@
   "bairro": "Darly Santos",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3890078,
+  "lon": -40.3383964
 }

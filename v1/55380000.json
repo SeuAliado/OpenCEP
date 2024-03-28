@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeirinha",
   "uf": "PE",
-  "ibge": "2603108"
+  "ibge": "2603108",
+  "lat": -8.4892195,
+  "lon": -36.2374768
 }

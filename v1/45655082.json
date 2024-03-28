@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.818452,
+  "lon": -39.0280635
 }

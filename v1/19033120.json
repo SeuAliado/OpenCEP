@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1038992,
+  "lon": -51.3855601
 }

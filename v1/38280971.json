@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iturama",
   "uf": "MG",
-  "ibge": "3134400"
+  "ibge": "3134400",
+  "lat": -20.0300585,
+  "lon": -48.9230856
 }

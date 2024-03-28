@@ -5,5 +5,7 @@
   "bairro": "Jardim Canuto Borges",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0090796,
+  "lon": -45.5697651
 }

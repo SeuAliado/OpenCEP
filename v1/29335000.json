@@ -5,5 +5,7 @@
   "bairro": "Itapecoá",
   "localidade": "Itapemirim",
   "uf": "ES",
-  "ibge": "3202801"
+  "ibge": "3202801",
+  "lat": -21.0090749,
+  "lon": -40.8342019
 }

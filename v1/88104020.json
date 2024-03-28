@@ -5,5 +5,7 @@
   "bairro": "Ponta de Baixo",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.6261476,
+  "lon": -48.6323902
 }

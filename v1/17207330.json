@@ -5,5 +5,7 @@
   "bairro": "Chácara Doutor Lopes",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2852818,
+  "lon": -48.5534363
 }

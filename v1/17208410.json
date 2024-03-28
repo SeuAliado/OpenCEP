@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Cibele",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2728689,
+  "lon": -48.5582605
 }

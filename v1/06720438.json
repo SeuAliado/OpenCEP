@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Paula",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6216438,
+  "lon": -46.974074
 }

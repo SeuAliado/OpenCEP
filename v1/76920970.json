@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Preto do Oeste",
   "uf": "RO",
-  "ibge": "1100155"
+  "ibge": "1100155",
+  "lat": -10.7213013,
+  "lon": -62.26011
 }

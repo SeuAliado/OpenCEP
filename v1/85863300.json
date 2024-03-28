@@ -5,5 +5,7 @@
   "bairro": "Centro Cívico",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "lat": -25.5149529,
+  "lon": -54.5556396
 }

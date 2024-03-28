@@ -5,5 +5,7 @@
   "bairro": "Sudam I",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.2025597,
+  "lon": -52.2120619
 }

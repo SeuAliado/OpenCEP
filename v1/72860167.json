@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Novo Gama",
   "localidade": "Novo Gama",
   "uf": "GO",
-  "ibge": "5215231"
+  "ibge": "5215231",
+  "lat": -16.0540758,
+  "lon": -48.0366499
 }

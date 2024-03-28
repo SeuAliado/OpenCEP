@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Pantano Grande",
   "uf": "RS",
-  "ibge": "4313953"
+  "ibge": "4313953",
+  "lat": -30.1920758,
+  "lon": -52.3742649
 }

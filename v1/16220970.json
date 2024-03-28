@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gabriel Monteiro",
   "uf": "SP",
-  "ibge": "3516507"
+  "ibge": "3516507",
+  "lat": -21.5304692,
+  "lon": -50.5558903
 }

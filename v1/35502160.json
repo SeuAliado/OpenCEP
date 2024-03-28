@@ -5,5 +5,7 @@
   "bairro": "Anchieta",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1097886,
+  "lon": -44.9173482
 }

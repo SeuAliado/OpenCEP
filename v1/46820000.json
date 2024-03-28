@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonito",
   "uf": "BA",
-  "ibge": "2904050"
+  "ibge": "2904050",
+  "lat": -12.0204098,
+  "lon": -41.3209993
 }

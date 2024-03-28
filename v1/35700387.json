@@ -5,5 +5,7 @@
   "bairro": "Jardim Arizona",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4570212,
+  "lon": -44.2608709
 }

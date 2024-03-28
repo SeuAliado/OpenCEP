@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3193705,
+  "lon": -45.98021
 }

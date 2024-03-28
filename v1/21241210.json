@@ -5,5 +5,7 @@
   "bairro": "Vigário Geral",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8137423,
+  "lon": -43.3074705
 }

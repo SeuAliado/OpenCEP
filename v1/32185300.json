@@ -5,5 +5,7 @@
   "bairro": "Nacional",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8397124,
+  "lon": -44.0260075
 }

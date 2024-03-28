@@ -5,5 +5,7 @@
   "bairro": "Loteamento Conjunto Habitacional Comendador Theodoro Rosa Filho",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.119767,
+  "lon": -48.9825508
 }

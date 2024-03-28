@@ -5,5 +5,7 @@
   "bairro": "Pilar",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6832781,
+  "lon": -43.238595
 }

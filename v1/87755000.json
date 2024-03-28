@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Alto Paraná",
   "uf": "PR",
-  "ibge": "4100608"
+  "ibge": "4100608",
+  "lat": -22.9706482,
+  "lon": -52.3085275
 }

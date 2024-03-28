@@ -5,5 +5,7 @@
   "bairro": "Vila Alice",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6628999,
+  "lon": -46.5444091
 }

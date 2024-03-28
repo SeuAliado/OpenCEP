@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Gabriel Hernandez",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1292414,
+  "lon": -49.0155033
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cecília",
   "uf": "PB",
-  "ibge": "2513158"
+  "ibge": "2513158",
+  "lat": -7.7439914,
+  "lon": -35.8793133
 }

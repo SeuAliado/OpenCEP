@@ -5,5 +5,7 @@
   "bairro": "Vila Brasil",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1343151,
+  "lon": -51.38396
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Doutor Ricardo",
   "uf": "RS",
-  "ibge": "4306759"
+  "ibge": "4306759",
+  "lat": -29.0882235,
+  "lon": -51.9896282
 }

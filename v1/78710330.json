@@ -5,5 +5,7 @@
   "bairro": "Loteamento Monte Líbano",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4471199,
+  "lon": -54.6512615
 }

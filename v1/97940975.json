@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salvador das Missões",
   "uf": "RS",
-  "ibge": "4316477"
+  "ibge": "4316477",
+  "lat": -28.1429083,
+  "lon": -54.836163
 }

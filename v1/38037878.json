@@ -5,5 +5,7 @@
   "bairro": "Tiago e Jéssica",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7534277,
+  "lon": -47.9026044
 }

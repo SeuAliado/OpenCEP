@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colônia Leopoldina",
   "uf": "AL",
-  "ibge": "2702108"
+  "ibge": "2702108",
+  "lat": -8.9137792,
+  "lon": -35.7205655
 }

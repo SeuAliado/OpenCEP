@@ -5,5 +5,7 @@
   "bairro": "Conjunto Dona Josefa",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.1033868,
+  "lon": -52.44642
 }

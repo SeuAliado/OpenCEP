@@ -5,5 +5,7 @@
   "bairro": "Areião",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.377271,
+  "lon": -46.9427516
 }

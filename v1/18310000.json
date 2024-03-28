@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guapiara",
   "uf": "SP",
-  "ibge": "3517604"
+  "ibge": "3517604",
+  "lat": -24.1896991,
+  "lon": -48.5300136
 }

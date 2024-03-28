@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chapada dos Guimarães",
   "uf": "MT",
-  "ibge": "5103007"
+  "ibge": "5103007",
+  "lat": -15.4647751,
+  "lon": -55.7503491
 }

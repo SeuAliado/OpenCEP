@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Zélia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.683298,
+  "lon": -46.7646427
 }

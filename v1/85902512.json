@@ -5,5 +5,7 @@
   "bairro": "Vila Becker",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7308243,
+  "lon": -53.767086
 }

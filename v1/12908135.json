@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Lúcia",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.927217,
+  "lon": -46.5360099
 }

@@ -5,5 +5,7 @@
   "bairro": "Mata",
   "localidade": "São José de Ribamar",
   "uf": "MA",
-  "ibge": "2111201"
+  "ibge": "2111201",
+  "lat": -2.5657469,
+  "lon": -44.1843384
 }

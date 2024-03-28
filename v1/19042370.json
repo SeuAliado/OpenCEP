@@ -5,5 +5,7 @@
   "bairro": "Parque Nova Alvorada",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1372555,
+  "lon": -51.373883
 }

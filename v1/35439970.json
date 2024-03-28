@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Oratórios",
   "uf": "MG",
-  "ibge": "3145851"
+  "ibge": "3145851",
+  "lat": -20.4296871,
+  "lon": -42.805903
 }

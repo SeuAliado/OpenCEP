@@ -5,5 +5,7 @@
   "bairro": "Jardim Roni",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6231181,
+  "lon": -46.7591735
 }

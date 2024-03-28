@@ -5,5 +5,7 @@
   "bairro": "Fortaleza",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5617506,
+  "lon": -48.5590566
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Anadir",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5967487,
+  "lon": -46.5393665
 }

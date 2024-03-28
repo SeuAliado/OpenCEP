@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caputira",
   "uf": "MG",
-  "ibge": "3112901"
+  "ibge": "3112901",
+  "lat": -20.1708284,
+  "lon": -42.2687193
 }

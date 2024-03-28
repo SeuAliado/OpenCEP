@@ -5,5 +5,7 @@
   "bairro": "Vila Baixa",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4730388,
+  "lon": -54.6488116
 }

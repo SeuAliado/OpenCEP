@@ -5,5 +5,7 @@
   "bairro": "Itacolomi",
   "localidade": "Conceição do Mato Dentro",
   "uf": "MG",
-  "ibge": "3117504"
+  "ibge": "3117504",
+  "lat": -19.0348876,
+  "lon": -43.4224884
 }

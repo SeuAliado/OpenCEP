@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maurilândia",
   "uf": "GO",
-  "ibge": "5213004"
+  "ibge": "5213004",
+  "lat": -18.0457002,
+  "lon": -50.3688312
 }

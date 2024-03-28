@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra do Mendes",
   "uf": "BA",
-  "ibge": "2903003"
+  "ibge": "2903003",
+  "lat": -11.8079609,
+  "lon": -42.057791
 }

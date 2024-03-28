@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibicoara",
   "uf": "BA",
-  "ibge": "2912202"
+  "ibge": "2912202",
+  "lat": -13.4136556,
+  "lon": -41.284438
 }

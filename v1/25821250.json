@@ -5,5 +5,7 @@
   "bairro": "Ponto Azul",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -22.1231484,
+  "lon": -43.1669807
 }

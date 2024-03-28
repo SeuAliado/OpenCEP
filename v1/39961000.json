@@ -5,5 +5,7 @@
   "bairro": "São Pedro do Jequitinhonha",
   "localidade": "Jequitinhonha",
   "uf": "MG",
-  "ibge": "3135803"
+  "ibge": "3135803",
+  "lat": -16.4379493,
+  "lon": -41.012097
 }

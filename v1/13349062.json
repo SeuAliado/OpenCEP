@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Carlo",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -21.1465186,
+  "lon": -48.9893956
 }

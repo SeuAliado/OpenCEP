@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Durandé",
   "uf": "MG",
-  "ibge": "3123528"
+  "ibge": "3123528",
+  "lat": -20.2333472,
+  "lon": -41.8489767
 }

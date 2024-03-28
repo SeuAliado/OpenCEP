@@ -5,5 +5,7 @@
   "bairro": "Residencial Itororó",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.390773,
+  "lon": -48.9803686
 }

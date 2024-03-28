@@ -5,5 +5,7 @@
   "bairro": "Ponte Alta",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5291783,
+  "lon": -44.134531
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Naútica",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9400982,
+  "lon": -46.4105663
 }

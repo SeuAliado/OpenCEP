@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mantenópolis",
   "uf": "ES",
-  "ibge": "3203304"
+  "ibge": "3203304",
+  "lat": -18.8596106,
+  "lon": -41.1226823
 }

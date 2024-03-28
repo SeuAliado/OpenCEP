@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.1141831,
+  "lon": -42.7502637
 }

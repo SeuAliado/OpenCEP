@@ -5,5 +5,7 @@
   "bairro": "Parque São Camilo",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3390689,
+  "lon": -46.928321
 }

@@ -5,5 +5,7 @@
   "bairro": "Taboleiro do Pinto",
   "localidade": "Rio Largo",
   "uf": "AL",
-  "ibge": "2707701"
+  "ibge": "2707701",
+  "lat": -8.1172321,
+  "lon": -34.9529575
 }

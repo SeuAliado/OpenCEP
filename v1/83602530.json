@@ -5,5 +5,7 @@
   "bairro": "Jardim Florestal",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4823791,
+  "lon": -49.5216488
 }

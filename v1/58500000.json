@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monteiro",
   "uf": "PB",
-  "ibge": "2509701"
+  "ibge": "2509701",
+  "lat": -7.8887727,
+  "lon": -37.1171012
 }

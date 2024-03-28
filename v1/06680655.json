@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.4890498,
+  "lon": -46.9557299
 }

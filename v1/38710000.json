@@ -5,5 +5,7 @@
   "bairro": "Major Porto",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.7095622,
+  "lon": -46.047977
 }

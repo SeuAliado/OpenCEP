@@ -5,5 +5,7 @@
   "bairro": "São João do Cabrito",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8984038,
+  "lon": -38.4790992
 }

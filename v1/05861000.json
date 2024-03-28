@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6694372,
+  "lon": -46.770017
 }

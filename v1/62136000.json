@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "lat": -3.5814298,
+  "lon": -40.3306544
 }

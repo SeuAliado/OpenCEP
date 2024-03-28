@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaju do Colônia",
   "uf": "BA",
-  "ibge": "2915403"
+  "ibge": "2915403",
+  "lat": -15.1442259,
+  "lon": -39.7236003
 }

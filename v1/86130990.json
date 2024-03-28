@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bela Vista do Paraíso",
   "uf": "PR",
-  "ibge": "4102802"
+  "ibge": "4102802",
+  "lat": -22.9706755,
+  "lon": -51.209626
 }

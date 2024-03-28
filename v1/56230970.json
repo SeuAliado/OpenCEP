@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Exu",
   "uf": "PE",
-  "ibge": "2605301"
+  "ibge": "2605301",
+  "lat": -7.5124457,
+  "lon": -39.722612
 }

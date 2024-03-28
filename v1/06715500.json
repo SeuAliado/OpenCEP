@@ -5,5 +5,7 @@
   "bairro": "Paisagem Renoir",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6144428,
+  "lon": -46.8751878
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Mariza Mazzei",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4852288,
+  "lon": -46.6389436
 }

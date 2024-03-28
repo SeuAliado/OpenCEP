@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0243591,
+  "lon": -42.8093997
 }

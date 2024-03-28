@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Comodoro",
   "uf": "MT",
-  "ibge": "5103304"
+  "ibge": "5103304",
+  "lat": -13.6618517,
+  "lon": -59.7852647
 }

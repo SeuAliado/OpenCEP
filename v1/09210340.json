@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6393955,
+  "lon": -46.5310266
 }

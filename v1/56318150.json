@@ -5,5 +5,7 @@
   "bairro": "Pedro Raimundo",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3765345,
+  "lon": -40.5223822
 }

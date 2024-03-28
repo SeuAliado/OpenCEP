@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uruçuca",
   "uf": "BA",
-  "ibge": "2932705"
+  "ibge": "2932705",
+  "lat": -14.5967264,
+  "lon": -39.2854465
 }

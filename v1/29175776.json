@@ -5,5 +5,7 @@
   "bairro": "Lagoa de Jacaraípe",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1302347,
+  "lon": -40.2073357
 }

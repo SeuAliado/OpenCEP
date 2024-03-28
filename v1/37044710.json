@@ -5,5 +5,7 @@
   "bairro": "Vila Avelar",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5649248,
+  "lon": -45.4242828
 }

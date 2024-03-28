@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.4595232,
+  "lon": -44.4163187
 }

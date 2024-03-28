@@ -5,5 +5,7 @@
   "bairro": "Moiraba",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "lat": -2.4373785,
+  "lon": -49.4371472
 }

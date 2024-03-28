@@ -5,5 +5,7 @@
   "bairro": "Parque Jatibaia (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8567844,
+  "lon": -46.9592913
 }

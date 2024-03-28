@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibirajuba",
   "uf": "PE",
-  "ibge": "2606705"
+  "ibge": "2606705",
+  "lat": -8.5793098,
+  "lon": -36.1780474
 }

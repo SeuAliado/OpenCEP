@@ -5,5 +5,7 @@
   "bairro": "Pracinha",
   "localidade": "Pacatuba",
   "uf": "CE",
-  "ibge": "2309706"
+  "ibge": "2309706",
+  "lat": -3.9808124,
+  "lon": -38.6156959
 }

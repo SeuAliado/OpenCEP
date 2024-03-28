@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Jardim Serrano",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5638484,
+  "lon": -47.4576844
 }

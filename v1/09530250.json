@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "São Caetano do Sul",
   "uf": "SP",
-  "ibge": "3548807"
+  "ibge": "3548807",
+  "lat": -23.6209124,
+  "lon": -46.5787249
 }

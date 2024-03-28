@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9608177,
+  "lon": -47.0036895
 }

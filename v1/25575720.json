@@ -5,5 +5,7 @@
   "bairro": "Vilar Formoso",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.77829,
+  "lon": -43.3460509
 }

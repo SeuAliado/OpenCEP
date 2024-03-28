@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pinheiros",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4227626,
+  "lon": -49.9922065
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz do Piauí",
   "uf": "PI",
-  "ibge": "2209104"
+  "ibge": "2209104",
+  "lat": -7.1819631,
+  "lon": -41.7652645
 }

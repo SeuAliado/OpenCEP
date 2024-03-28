@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Laura",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2893962,
+  "lon": -47.2708596
 }

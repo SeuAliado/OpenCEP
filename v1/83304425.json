@@ -5,5 +5,7 @@
   "bairro": "Borda do Campo",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.413959,
+  "lon": -49.0611505
 }

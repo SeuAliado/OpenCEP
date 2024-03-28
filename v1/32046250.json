@@ -5,5 +5,7 @@
   "bairro": "Chácara São Geraldo",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8719685,
+  "lon": -44.0848442
 }

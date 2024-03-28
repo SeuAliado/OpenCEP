@@ -5,5 +5,7 @@
   "bairro": "Vila Homero Thon",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6637072,
+  "lon": -46.4900772
 }

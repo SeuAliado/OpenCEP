@@ -5,5 +5,7 @@
   "bairro": "Loteamento São Miguel",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1969249,
+  "lon": -48.2336188
 }

@@ -5,5 +5,7 @@
   "bairro": "Morais",
   "localidade": "Araripina",
   "uf": "PE",
-  "ibge": "2601102"
+  "ibge": "2601102",
+  "lat": -7.57962,
+  "lon": -40.4991859
 }

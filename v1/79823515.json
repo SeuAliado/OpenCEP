@@ -5,5 +5,7 @@
   "bairro": "Altos do Indaiá",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2164768,
+  "lon": -54.8513765
 }

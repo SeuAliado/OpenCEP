@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Correia",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "lat": -20.3670727,
+  "lon": -43.6931508
 }

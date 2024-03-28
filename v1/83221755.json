@@ -5,5 +5,7 @@
   "bairro": "Vila Portuaria",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5126251,
+  "lon": -48.5367815
 }

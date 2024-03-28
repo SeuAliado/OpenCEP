@@ -5,5 +5,7 @@
   "bairro": "Maracajá (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4168046,
+  "lon": -48.4512446
 }

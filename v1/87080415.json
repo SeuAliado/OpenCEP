@@ -5,5 +5,7 @@
   "bairro": "Jardim Los Angeles",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4109977,
+  "lon": -51.9613006
 }

@@ -5,5 +5,7 @@
   "bairro": "Marques Ribeiro",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0430589,
+  "lon": -52.8866068
 }

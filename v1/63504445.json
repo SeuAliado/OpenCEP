@@ -5,5 +5,7 @@
   "bairro": "Veneza",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.365775,
+  "lon": -39.306272
 }

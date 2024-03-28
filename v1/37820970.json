@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arceburgo",
   "uf": "MG",
-  "ibge": "3104106"
+  "ibge": "3104106",
+  "lat": -21.359465,
+  "lon": -46.9404982
 }

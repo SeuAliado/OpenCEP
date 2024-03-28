@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Torrinha",
   "uf": "SP",
-  "ibge": "3554706"
+  "ibge": "3554706",
+  "lat": -22.4265842,
+  "lon": -48.1717902
 }

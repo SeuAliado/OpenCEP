@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5074355,
+  "lon": -41.9212914
 }

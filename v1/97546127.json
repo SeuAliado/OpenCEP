@@ -5,5 +5,7 @@
   "bairro": "Honório lemos",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7981243,
+  "lon": -55.7678219
 }

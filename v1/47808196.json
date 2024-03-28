@@ -5,5 +5,7 @@
   "bairro": "Ribeirão",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.9477285,
+  "lon": -38.4765388
 }

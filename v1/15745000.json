@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paranapuã",
   "uf": "SP",
-  "ibge": "3535903"
+  "ibge": "3535903",
+  "lat": -20.0638395,
+  "lon": -50.6067768
 }

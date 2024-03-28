@@ -5,5 +5,7 @@
   "bairro": "Km 19",
   "localidade": "Maracanã",
   "uf": "PA",
-  "ibge": "1504307"
+  "ibge": "1504307",
+  "lat": -0.7715035,
+  "lon": -47.4587845
 }

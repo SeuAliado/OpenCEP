@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.5860254,
+  "lon": -35.7573189
 }

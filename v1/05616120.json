@@ -5,5 +5,7 @@
   "bairro": "Jardim Namba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.588317,
+  "lon": -46.7208753
 }

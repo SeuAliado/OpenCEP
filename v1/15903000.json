@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Taquaritinga",
   "uf": "SP",
-  "ibge": "3553708"
+  "ibge": "3553708",
+  "lat": -21.468766,
+  "lon": -48.6282803
 }

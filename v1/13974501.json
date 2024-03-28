@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4403576,
+  "lon": -46.8295154
 }

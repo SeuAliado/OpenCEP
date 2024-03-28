@@ -5,5 +5,7 @@
   "bairro": "Vila Avante",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7468869,
+  "lon": -43.5371794
 }

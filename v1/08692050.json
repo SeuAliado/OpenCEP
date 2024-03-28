@@ -5,5 +5,7 @@
   "bairro": "Cidade Miguel Badra (Gleba 02)",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.4925677,
+  "lon": -46.3246332
 }

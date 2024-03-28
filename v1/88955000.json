@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Balneário Gaivota",
   "uf": "SC",
-  "ibge": "4202073"
+  "ibge": "4202073",
+  "lat": -29.1546867,
+  "lon": -49.5809106
 }

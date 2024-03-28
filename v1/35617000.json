@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra da Saudade",
   "uf": "MG",
-  "ibge": "3166600"
+  "ibge": "3166600",
+  "lat": -19.4451433,
+  "lon": -45.7954034
 }

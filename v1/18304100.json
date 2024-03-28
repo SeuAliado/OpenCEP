@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Capão Bonito",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -24.0028146,
+  "lon": -48.3373914
 }

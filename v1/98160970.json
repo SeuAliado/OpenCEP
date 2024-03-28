@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ivorá",
   "uf": "RS",
-  "ibge": "4310751"
+  "ibge": "4310751",
+  "lat": -29.5192407,
+  "lon": -53.578889
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gonçalo do Abaeté",
   "uf": "MG",
-  "ibge": "3161700"
+  "ibge": "3161700",
+  "lat": -19.4867168,
+  "lon": -44.2722124
 }

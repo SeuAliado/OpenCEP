@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "David Canabarro",
   "uf": "RS",
-  "ibge": "4306304"
+  "ibge": "4306304",
+  "lat": -28.389166,
+  "lon": -51.8459434
 }

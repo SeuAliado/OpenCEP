@@ -5,5 +5,7 @@
   "bairro": "Vila Francisco Mineiro",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4403766,
+  "lon": -46.5498247
 }

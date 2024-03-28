@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1958791,
+  "lon": -47.2944741
 }

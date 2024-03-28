@@ -5,5 +5,7 @@
   "bairro": "Malhado",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7835662,
+  "lon": -39.0468632
 }

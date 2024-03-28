@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Brasília",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.4311104,
+  "lon": -47.5805213
 }

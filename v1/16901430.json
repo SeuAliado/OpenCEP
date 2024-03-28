@@ -5,5 +5,7 @@
   "bairro": "Piscina",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9002499,
+  "lon": -51.3775618
 }

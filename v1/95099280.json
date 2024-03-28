@@ -5,5 +5,7 @@
   "bairro": "Rio Branco",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1798379,
+  "lon": -51.2006127
 }

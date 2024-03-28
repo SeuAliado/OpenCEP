@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2913785,
+  "lon": -48.5675268
 }

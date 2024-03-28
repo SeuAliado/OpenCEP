@@ -5,5 +5,7 @@
   "bairro": "Getúlio Vargas",
   "localidade": "Laranjeiras do Sul",
   "uf": "PR",
-  "ibge": "4113304"
+  "ibge": "4113304",
+  "lat": -25.4099979,
+  "lon": -52.4080929
 }

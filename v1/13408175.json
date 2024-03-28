@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Manacás",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -23.5323247,
+  "lon": -46.8298709
 }

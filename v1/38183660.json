@@ -5,5 +5,7 @@
   "bairro": "Parque das Flores",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6294207,
+  "lon": -46.931127
 }

@@ -5,5 +5,7 @@
   "bairro": "Dornelas",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.1304797,
+  "lon": -42.3922906
 }

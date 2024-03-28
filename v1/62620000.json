@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Irauçuba",
   "uf": "CE",
-  "ibge": "2306108"
+  "ibge": "2306108",
+  "lat": -3.7444486,
+  "lon": -39.7807076
 }

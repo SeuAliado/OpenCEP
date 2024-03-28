@@ -5,5 +5,7 @@
   "bairro": "Vila Oliveira",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8115573,
+  "lon": -49.2854348
 }

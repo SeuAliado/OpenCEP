@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperador II",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7526992,
+  "lon": -48.1620729
 }

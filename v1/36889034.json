@@ -5,5 +5,7 @@
   "bairro": "Chácara da Gávea",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "lat": -21.1271258,
+  "lon": -42.3681298
 }

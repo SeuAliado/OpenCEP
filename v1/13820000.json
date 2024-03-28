@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Alegre do Sul",
   "uf": "SP",
-  "ibge": "3531209"
+  "ibge": "3531209",
+  "lat": -22.7042272,
+  "lon": -46.9855088
 }

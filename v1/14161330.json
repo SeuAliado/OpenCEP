@@ -5,5 +5,7 @@
   "bairro": "Jardim Grande Aliança",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1213063,
+  "lon": -48.0039223
 }

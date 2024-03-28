@@ -5,5 +5,7 @@
   "bairro": "Central Park",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0250339,
+  "lon": -44.0563076
 }

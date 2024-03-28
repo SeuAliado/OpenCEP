@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.5902421,
+  "lon": -48.783781
 }

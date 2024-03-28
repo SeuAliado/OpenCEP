@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alegrete do Piauí",
   "uf": "PI",
-  "ibge": "2200277"
+  "ibge": "2200277",
+  "lat": -7.242369,
+  "lon": -40.8569531
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Luzia",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8674302,
+  "lon": -47.1945345
 }

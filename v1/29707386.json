@@ -5,5 +5,7 @@
   "bairro": "Alto Vila Nova",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5408189,
+  "lon": -40.6328929
 }

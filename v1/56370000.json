@@ -5,5 +5,7 @@
   "bairro": "Cachoeira do Roberto",
   "localidade": "Afrânio",
   "uf": "PE",
-  "ibge": "2600203"
+  "ibge": "2600203",
+  "lat": -8.6378329,
+  "lon": -41.1412369
 }

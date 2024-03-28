@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Arraial",
   "uf": "PI",
-  "ibge": "2209971"
+  "ibge": "2209971",
+  "lat": -3.8189753,
+  "lon": -42.4462372
 }

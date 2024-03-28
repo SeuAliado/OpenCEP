@@ -5,5 +5,7 @@
   "bairro": "Jardim Frizzo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4951657,
+  "lon": -46.5434705
 }

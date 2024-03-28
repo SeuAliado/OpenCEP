@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bela Vista do Maranhão",
   "uf": "MA",
-  "ibge": "2101772"
+  "ibge": "2101772",
+  "lat": -5.5210172,
+  "lon": -43.200738
 }

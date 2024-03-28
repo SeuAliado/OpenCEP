@@ -5,5 +5,7 @@
   "bairro": "Vila Gepina",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4835698,
+  "lon": -46.3618982
 }

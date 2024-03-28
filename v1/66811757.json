@@ -5,5 +5,7 @@
   "bairro": "Agulha (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3166243,
+  "lon": -48.4767027
 }

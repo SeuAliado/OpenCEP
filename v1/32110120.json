@@ -5,5 +5,7 @@
   "bairro": "Jardim Pérola",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8885974,
+  "lon": -44.0211777
 }

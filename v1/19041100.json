@@ -5,5 +5,7 @@
   "bairro": "Vila Líder",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1359137,
+  "lon": -51.3809456
 }

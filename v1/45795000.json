@@ -5,5 +5,7 @@
   "bairro": "Gurupá Mirim",
   "localidade": "Potiraguá",
   "uf": "BA",
-  "ibge": "2925402"
+  "ibge": "2925402",
+  "lat": -15.5937531,
+  "lon": -39.8759983
 }

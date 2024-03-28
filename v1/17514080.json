@@ -5,5 +5,7 @@
   "bairro": "Jardim Jequitibá",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1934404,
+  "lon": -49.9321113
 }

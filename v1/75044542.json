@@ -5,5 +5,7 @@
   "bairro": "Anexo Frei Eustáquio",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3189182,
+  "lon": -48.96697
 }

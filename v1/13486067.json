@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Lúcia",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.56898,
+  "lon": -47.3928219
 }

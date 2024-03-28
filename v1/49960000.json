@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Japaratuba",
   "uf": "SE",
-  "ibge": "2803302"
+  "ibge": "2803302",
+  "lat": -10.5853465,
+  "lon": -36.9421003
 }

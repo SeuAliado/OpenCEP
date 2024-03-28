@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos 5",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9895595,
+  "lon": -47.928729
 }

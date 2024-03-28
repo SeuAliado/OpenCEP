@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bragança",
   "uf": "PA",
-  "ibge": "1501709"
+  "ibge": "1501709",
+  "lat": -1.0616193,
+  "lon": -46.7830109
 }

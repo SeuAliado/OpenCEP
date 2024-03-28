@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tabaporã",
   "uf": "MT",
-  "ibge": "5107941"
+  "ibge": "5107941",
+  "lat": -11.2759004,
+  "lon": -56.4719928
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria Madalena",
   "uf": "RJ",
-  "ibge": "3304607"
+  "ibge": "3304607",
+  "lat": -21.9551009,
+  "lon": -42.0087558
 }

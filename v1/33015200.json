@@ -5,5 +5,7 @@
   "bairro": "Adeodato",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7619142,
+  "lon": -43.8459182
 }

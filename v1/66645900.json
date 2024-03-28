@@ -5,5 +5,7 @@
   "bairro": "Castanheira",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -5.5552792,
+  "lon": -42.6118799
 }

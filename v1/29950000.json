@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguaré",
   "uf": "ES",
-  "ibge": "3203056"
+  "ibge": "3203056",
+  "lat": -18.9055808,
+  "lon": -40.0759445
 }

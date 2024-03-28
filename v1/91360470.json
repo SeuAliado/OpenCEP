@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.02477,
+  "lon": -51.1593868
 }

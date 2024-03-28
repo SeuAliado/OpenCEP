@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4625274,
+  "lon": -52.0214868
 }

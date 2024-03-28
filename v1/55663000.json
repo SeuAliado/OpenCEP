@@ -5,5 +5,7 @@
   "bairro": "Sítio dos Remédios",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "lat": -8.2253654,
+  "lon": -35.7596306
 }

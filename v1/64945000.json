@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Filomena",
   "uf": "PI",
-  "ibge": "2209203"
+  "ibge": "2209203",
+  "lat": -9.1126913,
+  "lon": -45.9120162
 }

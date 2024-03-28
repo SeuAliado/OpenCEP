@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bueno Brandão",
   "uf": "MG",
-  "ibge": "3109105"
+  "ibge": "3109105",
+  "lat": -22.4404591,
+  "lon": -46.3489144
 }

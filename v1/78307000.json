@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campos de Júlio",
   "uf": "MT",
-  "ibge": "5102686"
+  "ibge": "5102686",
+  "lat": -13.7214725,
+  "lon": -59.260354
 }

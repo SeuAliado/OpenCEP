@@ -5,5 +5,7 @@
   "bairro": "Campo dos Afonsos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8793774,
+  "lon": -43.3805751
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Eduardo",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6679954,
+  "lon": -46.7982214
 }

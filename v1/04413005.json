@@ -5,5 +5,7 @@
   "bairro": "Jardim Sul São Paulo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6708896,
+  "lon": -46.6425692
 }

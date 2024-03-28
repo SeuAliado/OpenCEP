@@ -5,5 +5,7 @@
   "bairro": "Sinval Palmeira",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8090455,
+  "lon": -39.2861329
 }

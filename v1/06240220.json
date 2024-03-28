@@ -5,5 +5,7 @@
   "bairro": "Munhoz Júnior",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.5102032,
+  "lon": -46.7827365
 }

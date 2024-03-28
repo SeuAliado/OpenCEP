@@ -5,5 +5,7 @@
   "bairro": "Jardim São Miguel",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1807717,
+  "lon": -46.8554215
 }

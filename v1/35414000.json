@@ -5,5 +5,7 @@
   "bairro": "Miguel Burnier",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "lat": -20.4329052,
+  "lon": -43.7759765
 }

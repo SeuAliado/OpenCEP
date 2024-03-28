@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Redenção do Gurguéia",
   "uf": "PI",
-  "ibge": "2208700"
+  "ibge": "2208700",
+  "lat": -9.5497666,
+  "lon": -44.4748018
 }

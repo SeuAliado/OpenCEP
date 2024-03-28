@@ -5,5 +5,7 @@
   "bairro": "Vila Delmond",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9074324,
+  "lon": -51.3549531
 }

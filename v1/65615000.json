@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Soter",
   "uf": "MA",
-  "ibge": "2111078"
+  "ibge": "2111078",
+  "lat": -4.9515842,
+  "lon": -43.7142484
 }

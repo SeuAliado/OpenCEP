@@ -5,5 +5,7 @@
   "bairro": "Mirante",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4337403,
+  "lon": -46.9484236
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cedro do Abaeté",
   "uf": "MG",
-  "ibge": "3115607"
+  "ibge": "3115607",
+  "lat": -19.1056262,
+  "lon": -45.6952715
 }

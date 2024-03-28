@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Alvorada",
   "uf": "RS",
-  "ibge": "4312757"
+  "ibge": "4312757",
+  "lat": -28.6716266,
+  "lon": -52.1653621
 }

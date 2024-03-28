@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Terezinha",
   "uf": "PE",
-  "ibge": "2615102"
+  "ibge": "2615102",
+  "lat": -9.0566303,
+  "lon": -36.6275669
 }

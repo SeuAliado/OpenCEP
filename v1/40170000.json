@@ -5,5 +5,7 @@
   "bairro": "Ondina",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0091261,
+  "lon": -38.5163267
 }

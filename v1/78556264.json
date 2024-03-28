@@ -5,5 +5,7 @@
   "bairro": "Jardim Maringá",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8579711,
+  "lon": -55.518597
 }

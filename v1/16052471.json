@@ -5,5 +5,7 @@
   "bairro": "Jardim das Oliveiras",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1645902,
+  "lon": -50.4366207
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "lat": -20.2910304,
+  "lon": -45.5430367
 }

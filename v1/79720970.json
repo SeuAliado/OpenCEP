@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jateí",
   "uf": "MS",
-  "ibge": "5005103"
+  "ibge": "5005103",
+  "lat": -22.4813295,
+  "lon": -54.3081204
 }

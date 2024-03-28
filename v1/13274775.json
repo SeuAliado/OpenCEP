@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bento do Recreio",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9780261,
+  "lon": -46.9715714
 }

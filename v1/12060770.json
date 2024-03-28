@@ -5,5 +5,7 @@
   "bairro": "Vila Nogueira",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0110922,
+  "lon": -45.558695
 }

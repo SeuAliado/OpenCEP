@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Catas Altas da Noruega",
   "uf": "MG",
-  "ibge": "3115409"
+  "ibge": "3115409",
+  "lat": -20.6902239,
+  "lon": -43.4990942
 }

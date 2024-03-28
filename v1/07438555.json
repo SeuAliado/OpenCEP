@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.407209,
+  "lon": -46.2907132
 }

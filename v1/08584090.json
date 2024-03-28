@@ -5,5 +5,7 @@
   "bairro": "Jardim Patrícia",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4240639,
+  "lon": -46.3492842
 }

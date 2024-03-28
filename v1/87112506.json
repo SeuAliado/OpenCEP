@@ -5,5 +5,7 @@
   "bairro": "Parque São Pedro",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.443128,
+  "lon": -51.881947
 }

@@ -5,5 +5,7 @@
   "bairro": "Branquinha",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.1339785,
+  "lon": -51.0553551
 }

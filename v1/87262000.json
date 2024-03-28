@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Araruna",
   "uf": "PR",
-  "ibge": "4101705"
+  "ibge": "4101705",
+  "lat": -23.9304707,
+  "lon": -52.497472
 }

@@ -5,5 +5,7 @@
   "bairro": "Quinta dos Ipês (São Sebastião)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8986275,
+  "lon": -47.7851089
 }

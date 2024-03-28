@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Desterro",
   "uf": "PB",
-  "ibge": "2505402"
+  "ibge": "2505402",
+  "lat": -7.2901699,
+  "lon": -37.0922859
 }

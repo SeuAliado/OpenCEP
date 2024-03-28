@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Rochelle",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7711943,
+  "lon": -47.4131055
 }

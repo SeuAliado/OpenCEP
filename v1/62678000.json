@@ -5,5 +5,7 @@
   "bairro": "Serrote",
   "localidade": "São Gonçalo do Amarante",
   "uf": "CE",
-  "ibge": "2312403"
+  "ibge": "2312403",
+  "lat": -3.5794088,
+  "lon": -39.1716416
 }

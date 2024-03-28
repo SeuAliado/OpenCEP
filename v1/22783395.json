@@ -5,5 +5,7 @@
   "bairro": "Vargem Pequena",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9908113,
+  "lon": -43.4561244
 }

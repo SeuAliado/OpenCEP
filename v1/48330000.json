@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Real",
   "uf": "BA",
-  "ibge": "2927002"
+  "ibge": "2927002",
+  "lat": -11.4818089,
+  "lon": -37.9335881
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz de Salinas",
   "uf": "MG",
-  "ibge": "3157377"
+  "ibge": "3157377",
+  "lat": -16.0948164,
+  "lon": -41.7483455
 }

@@ -5,5 +5,7 @@
   "bairro": "Terra Nova",
   "localidade": "Careiro",
   "uf": "AM",
-  "ibge": "1301100"
+  "ibge": "1301100",
+  "lat": -3.8228753,
+  "lon": -60.3595681
 }

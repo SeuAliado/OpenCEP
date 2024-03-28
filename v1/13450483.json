@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7633131,
+  "lon": -47.4242884
 }

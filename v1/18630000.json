@@ -5,5 +5,7 @@
   "bairro": "Pirambóia",
   "localidade": "Anhembi",
   "uf": "SP",
-  "ibge": "3502309"
+  "ibge": "3502309",
+  "lat": -22.9341392,
+  "lon": -48.1624393
 }

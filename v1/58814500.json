@@ -5,5 +5,7 @@
   "bairro": "Núcleo N 2",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -7.2495718,
+  "lon": -35.9029614
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3651222,
+  "lon": -40.3712287
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Militar Urbano",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7929807,
+  "lon": -47.9401212
 }

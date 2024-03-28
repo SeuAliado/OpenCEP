@@ -5,5 +5,7 @@
   "bairro": "Jardim Lallo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7107866,
+  "lon": -46.6869667
 }

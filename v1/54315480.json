@@ -5,5 +5,7 @@
   "bairro": "Jardim Jordão",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "lat": -8.1782643,
+  "lon": -34.9366839
 }

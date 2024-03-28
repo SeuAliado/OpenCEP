@@ -5,5 +5,7 @@
   "bairro": "Jardim Fonte do Castelo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3041574,
+  "lon": -49.0766488
 }

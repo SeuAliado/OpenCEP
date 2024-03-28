@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Érico Cardoso",
   "uf": "BA",
-  "ibge": "2900504"
+  "ibge": "2900504",
+  "lat": -13.4204192,
+  "lon": -42.0385904
 }

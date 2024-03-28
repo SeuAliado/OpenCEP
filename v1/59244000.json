@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa de Pedras",
   "uf": "RN",
-  "ibge": "2406304"
+  "ibge": "2406304",
+  "lat": -6.1512154,
+  "lon": -35.430206
 }

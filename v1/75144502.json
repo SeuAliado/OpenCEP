@@ -5,5 +5,7 @@
   "bairro": "Vila Calixto Abrão",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.327935,
+  "lon": -48.9727746
 }

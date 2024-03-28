@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana dos Garrotes",
   "uf": "PB",
-  "ibge": "2513604"
+  "ibge": "2513604",
+  "lat": -7.3869959,
+  "lon": -37.9875247
 }

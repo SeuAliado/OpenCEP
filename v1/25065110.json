@@ -5,5 +5,7 @@
   "bairro": "Vila São Luís",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7746372,
+  "lon": -43.2913444
 }

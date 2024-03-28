@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Entre Rios",
   "uf": "SC",
-  "ibge": "4205175"
+  "ibge": "4205175",
+  "lat": -26.7229592,
+  "lon": -52.5590109
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Vista do Ramos",
   "uf": "AM",
-  "ibge": "1300680"
+  "ibge": "1300680",
+  "lat": -3.0621541,
+  "lon": -57.6892483
 }

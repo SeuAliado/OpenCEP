@@ -5,5 +5,7 @@
   "bairro": "General Osório",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.92762,
+  "lon": -48.2863821
 }

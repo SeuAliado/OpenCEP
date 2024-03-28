@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Liberdade",
   "uf": "MG",
-  "ibge": "3138500"
+  "ibge": "3138500",
+  "lat": -22.0264902,
+  "lon": -44.3195327
 }

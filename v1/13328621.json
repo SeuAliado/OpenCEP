@@ -5,5 +5,7 @@
   "bairro": "Jardim Arquidiocesano",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1247775,
+  "lon": -47.338804
 }

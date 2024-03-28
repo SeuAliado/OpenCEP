@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Cachoeirinha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4659754,
+  "lon": -46.6682366
 }

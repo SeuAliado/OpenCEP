@@ -5,5 +5,7 @@
   "bairro": "Estrela",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "lat": -25.1135005,
+  "lon": -50.1714313
 }

@@ -5,5 +5,7 @@
   "bairro": "Delmiro Gouveia",
   "localidade": "Pires Ferreira",
   "uf": "CE",
-  "ibge": "2310951"
+  "ibge": "2310951",
+  "lat": -4.1948386,
+  "lon": -40.4805708
 }

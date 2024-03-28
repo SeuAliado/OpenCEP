@@ -5,5 +5,7 @@
   "bairro": "Parque Espírito Santo",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.908287,
+  "lon": -51.0664292
 }

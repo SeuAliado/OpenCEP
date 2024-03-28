@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Ipelândia",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6397055,
+  "lon": -46.2848025
 }

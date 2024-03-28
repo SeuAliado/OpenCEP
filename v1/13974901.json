@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4321991,
+  "lon": -46.8392242
 }
