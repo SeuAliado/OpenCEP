@@ -5,5 +5,7 @@
   "bairro": "Vila Nhocune",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5485349,
+  "lon": -46.4889756
 }

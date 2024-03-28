@@ -5,5 +5,7 @@
   "bairro": "Vila Paulo Roberto",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.139499,
+  "lon": -51.38645
 }

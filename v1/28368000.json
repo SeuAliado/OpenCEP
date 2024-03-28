@@ -5,5 +5,7 @@
   "bairro": "Calheiros",
   "localidade": "Bom Jesus do Itabapoana",
   "uf": "RJ",
-  "ibge": "3300605"
+  "ibge": "3300605",
+  "lat": -21.0222452,
+  "lon": -41.7361918
 }

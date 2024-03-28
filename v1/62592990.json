@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itarema",
   "uf": "CE",
-  "ibge": "2306553"
+  "ibge": "2306553",
+  "lat": -2.9468253,
+  "lon": -39.8186622
 }

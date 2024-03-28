@@ -5,5 +5,7 @@
   "bairro": "Vila Norte",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1606346,
+  "lon": -48.1955917
 }

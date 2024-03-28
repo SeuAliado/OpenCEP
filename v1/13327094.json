@@ -5,5 +5,7 @@
   "bairro": "Jardim Saltense II",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1815561,
+  "lon": -47.3157003
 }

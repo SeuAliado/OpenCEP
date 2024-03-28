@@ -5,5 +5,7 @@
   "bairro": "Rio Vermelho",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0087546,
+  "lon": -38.4994966
 }

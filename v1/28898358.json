@@ -5,5 +5,7 @@
   "bairro": "Alphaville",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.8833899,
+  "lon": -42.3617692
 }

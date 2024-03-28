@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conquista",
   "uf": "MG",
-  "ibge": "3118205"
+  "ibge": "3118205",
+  "lat": -19.8924883,
+  "lon": -47.6455169
 }

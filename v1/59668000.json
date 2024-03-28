@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto do Mangue",
   "uf": "RN",
-  "ibge": "2410256"
+  "ibge": "2410256",
+  "lat": -5.0682266,
+  "lon": -36.7799414
 }

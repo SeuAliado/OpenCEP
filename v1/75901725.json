@@ -5,5 +5,7 @@
   "bairro": "Vila Olinda",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7908136,
+  "lon": -50.9328541
 }

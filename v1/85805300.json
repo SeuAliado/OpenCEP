@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9595023,
+  "lon": -53.4967374
 }

@@ -5,5 +5,7 @@
   "bairro": "Salgueiro",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.7860441,
+  "lon": -43.0189911
 }

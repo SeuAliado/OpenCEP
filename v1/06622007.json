@@ -5,5 +5,7 @@
   "bairro": "Jardim Sol Nascente",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5405068,
+  "lon": -46.8982159
 }

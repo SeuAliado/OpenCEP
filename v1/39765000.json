@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paulistas",
   "uf": "MG",
-  "ibge": "3148400"
+  "ibge": "3148400",
+  "lat": -18.4281064,
+  "lon": -42.8632002
 }

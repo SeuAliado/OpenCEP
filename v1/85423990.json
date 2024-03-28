@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iguatu",
   "uf": "PR",
-  "ibge": "4110052"
+  "ibge": "4110052",
+  "lat": -24.7137748,
+  "lon": -53.0856151
 }

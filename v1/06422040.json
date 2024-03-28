@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaquiti",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5170539,
+  "lon": -46.9021063
 }

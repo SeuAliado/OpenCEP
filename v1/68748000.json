@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco do Pará",
   "uf": "PA",
-  "ibge": "1507409"
+  "ibge": "1507409",
+  "lat": -1.1975563,
+  "lon": -47.7440315
 }

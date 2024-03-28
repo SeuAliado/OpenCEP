@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cajati",
   "uf": "SP",
-  "ibge": "3509254"
+  "ibge": "3509254",
+  "lat": -24.7257414,
+  "lon": -48.1105782
 }

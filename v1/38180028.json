@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5866685,
+  "lon": -46.9476061
 }

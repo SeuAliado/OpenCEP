@@ -5,5 +5,7 @@
   "bairro": "Jacareacanga",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6311638,
+  "lon": -56.740105
 }

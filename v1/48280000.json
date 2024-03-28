@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mata de São João",
   "uf": "BA",
-  "ibge": "2921005"
+  "ibge": "2921005",
+  "lat": -12.5311228,
+  "lon": -38.3012471
 }

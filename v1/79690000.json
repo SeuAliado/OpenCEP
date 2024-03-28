@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rita do Pardo",
   "uf": "MS",
-  "ibge": "5007554"
+  "ibge": "5007554",
+  "lat": -21.3020684,
+  "lon": -52.8338261
 }

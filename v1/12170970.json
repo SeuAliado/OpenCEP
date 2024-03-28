@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Redenção da Serra",
   "uf": "SP",
-  "ibge": "3542305"
+  "ibge": "3542305",
+  "lat": -23.2845033,
+  "lon": -45.5388207
 }

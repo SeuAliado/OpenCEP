@@ -5,5 +5,7 @@
   "bairro": "Chonim",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.642471,
+  "lon": -42.038728
 }

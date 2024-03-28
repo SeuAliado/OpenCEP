@@ -5,5 +5,7 @@
   "bairro": "Faxinal do Céu",
   "localidade": "Pinhão",
   "uf": "PR",
-  "ibge": "4119301"
+  "ibge": "4119301",
+  "lat": -25.8947989,
+  "lon": -51.5935886
 }

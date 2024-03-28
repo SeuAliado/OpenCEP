@@ -5,5 +5,7 @@
   "bairro": "Samambaia",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9407974,
+  "lon": -46.9951887
 }

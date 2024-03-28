@@ -5,5 +5,7 @@
   "bairro": "Raposo",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "lat": -21.1016667,
+  "lon": -42.1186111
 }

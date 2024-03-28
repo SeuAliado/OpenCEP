@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Varjão de Minas",
   "uf": "MG",
-  "ibge": "3170750"
+  "ibge": "3170750",
+  "lat": -18.4661452,
+  "lon": -45.8659561
 }

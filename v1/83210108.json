@@ -5,5 +5,7 @@
   "bairro": "Jardim Iguaçu",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5287845,
+  "lon": -48.543587
 }

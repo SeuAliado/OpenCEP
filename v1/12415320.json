@@ -5,5 +5,7 @@
   "bairro": "Parque Shangri-lá",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.965055,
+  "lon": -45.4094687
 }

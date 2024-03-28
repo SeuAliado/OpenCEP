@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro do Sul I e II",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8083624,
+  "lon": -48.145751
 }

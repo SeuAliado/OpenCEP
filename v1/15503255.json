@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.3966714,
+  "lon": -49.9868537
 }

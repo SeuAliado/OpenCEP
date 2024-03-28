@@ -5,5 +5,7 @@
   "bairro": "Conjunto Vale Azul",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4829978,
+  "lon": -51.9042554
 }

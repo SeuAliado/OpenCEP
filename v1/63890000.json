@@ -5,5 +5,7 @@
   "bairro": "Ibuaçu",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "lat": -4.8267339,
+  "lon": -39.790927
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Icaraí",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.6926886,
+  "lon": -38.6514663
 }

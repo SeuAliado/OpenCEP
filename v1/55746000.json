@@ -5,5 +5,7 @@
   "bairro": "Umburetama",
   "localidade": "Orobó",
   "uf": "PE",
-  "ibge": "2609709"
+  "ibge": "2609709",
+  "lat": -7.7025074,
+  "lon": -35.6710625
 }

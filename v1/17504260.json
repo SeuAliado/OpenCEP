@@ -5,5 +5,7 @@
   "bairro": "Cavalieri",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2101597,
+  "lon": -49.9615323
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Leila",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4572389,
+  "lon": -46.5221157
 }

@@ -5,5 +5,7 @@
   "bairro": "Tirol",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.808901,
+  "lon": -35.1964156
 }

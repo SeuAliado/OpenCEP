@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Sunflower",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4662017,
+  "lon": -54.6117008
 }

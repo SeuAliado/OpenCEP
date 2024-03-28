@@ -5,5 +5,7 @@
   "bairro": "Pico (Santo Aleixo)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.5483683,
+  "lon": -43.059066
 }

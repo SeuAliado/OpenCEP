@@ -5,5 +5,7 @@
   "bairro": "Sacavém",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5567868,
+  "lon": -44.2592119
 }

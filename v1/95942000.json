@@ -5,5 +5,7 @@
   "bairro": "Forqueta",
   "localidade": "Arroio do Meio",
   "uf": "RS",
-  "ibge": "4301008"
+  "ibge": "4301008",
+  "lat": -29.4143073,
+  "lon": -51.963351
 }

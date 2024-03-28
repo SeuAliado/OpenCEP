@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Filomena",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0125445,
+  "lon": -46.85861
 }

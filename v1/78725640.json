@@ -5,5 +5,7 @@
   "bairro": "Jardim Taiti",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4274773,
+  "lon": -54.6328342
 }

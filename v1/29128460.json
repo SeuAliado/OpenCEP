@@ -5,5 +5,7 @@
   "bairro": "Balneário Ponta da Fruta",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.5044846,
+  "lon": -40.368679
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2113863,
+  "lon": -46.863663
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipuaçu",
   "uf": "SC",
-  "ibge": "4207684"
+  "ibge": "4207684",
+  "lat": -26.6294654,
+  "lon": -52.4554284
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cedral",
   "uf": "SP",
-  "ibge": "3511300"
+  "ibge": "3511300",
+  "lat": -20.9055064,
+  "lon": -49.2676181
 }

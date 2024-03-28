@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1937059,
+  "lon": -47.3586449
 }

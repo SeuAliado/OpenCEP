@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.475065,
+  "lon": -47.0352296
 }

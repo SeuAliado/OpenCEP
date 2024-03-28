@@ -5,5 +5,7 @@
   "bairro": "Saudável",
   "localidade": "Brotas de Macaúbas",
   "uf": "BA",
-  "ibge": "2904506"
+  "ibge": "2904506",
+  "lat": -12.2087576,
+  "lon": -42.2783686
 }

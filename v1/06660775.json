@@ -5,5 +5,7 @@
   "bairro": "Jardim Marina",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5481478,
+  "lon": -46.9574817
 }

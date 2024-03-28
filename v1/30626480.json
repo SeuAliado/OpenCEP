@@ -5,5 +5,7 @@
   "bairro": "Cardoso (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -20.000698,
+  "lon": -44.006298
 }

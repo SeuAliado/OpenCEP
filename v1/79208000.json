@@ -5,5 +5,7 @@
   "bairro": "Cipolândia",
   "localidade": "Aquidauana",
   "uf": "MS",
-  "ibge": "5001102"
+  "ibge": "5001102",
+  "lat": -20.1158194,
+  "lon": -55.3589137
 }

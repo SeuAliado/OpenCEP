@@ -5,5 +5,7 @@
   "bairro": "Vila Garcia (São Silvestre)",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3625462,
+  "lon": -46.0181617
 }

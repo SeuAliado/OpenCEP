@@ -5,5 +5,7 @@
   "bairro": "Coronel Otaviano Alves",
   "localidade": "Lençóis",
   "uf": "BA",
-  "ibge": "2919306"
+  "ibge": "2919306",
+  "lat": -12.4992532,
+  "lon": -41.29153
 }

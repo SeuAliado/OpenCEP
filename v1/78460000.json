@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nobres",
   "uf": "MT",
-  "ibge": "5105903"
+  "ibge": "5105903",
+  "lat": -14.7185532,
+  "lon": -56.3354752
 }

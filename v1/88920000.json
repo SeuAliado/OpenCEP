@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Meleiro",
   "uf": "SC",
-  "ibge": "4210803"
+  "ibge": "4210803",
+  "lat": -28.8564935,
+  "lon": -49.5891233
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapiúna",
   "uf": "CE",
-  "ibge": "2306504"
+  "ibge": "2306504",
+  "lat": -4.5629698,
+  "lon": -38.9227651
 }

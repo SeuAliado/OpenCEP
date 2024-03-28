@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canudos do Vale",
   "uf": "RS",
-  "ibge": "4304614"
+  "ibge": "4304614",
+  "lat": -29.324664,
+  "lon": -52.223094
 }

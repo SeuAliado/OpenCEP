@@ -5,5 +5,7 @@
   "bairro": "Forquilha",
   "localidade": "Pacatuba",
   "uf": "CE",
-  "ibge": "2309706"
+  "ibge": "2309706",
+  "lat": -3.9579317,
+  "lon": -38.6066543
 }

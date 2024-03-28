@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Angelândia",
   "uf": "MG",
-  "ibge": "3102852"
+  "ibge": "3102852",
+  "lat": -17.7262963,
+  "lon": -42.2728638
 }

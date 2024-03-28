@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Maria",
   "uf": "RS",
-  "ibge": "4323408"
+  "ibge": "4323408",
+  "lat": -28.5343898,
+  "lon": -52.1547299
 }

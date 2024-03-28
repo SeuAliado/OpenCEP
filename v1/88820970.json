@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Içara",
   "uf": "SC",
-  "ibge": "4207007"
+  "ibge": "4207007",
+  "lat": -28.7191747,
+  "lon": -49.3018124
 }

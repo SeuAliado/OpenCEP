@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carlos Barbosa",
   "uf": "RS",
-  "ibge": "4304804"
+  "ibge": "4304804",
+  "lat": -29.320972,
+  "lon": -51.5044957
 }

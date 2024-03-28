@@ -5,5 +5,7 @@
   "bairro": "São Lourenço das Missões",
   "localidade": "São Luiz Gonzaga",
   "uf": "RS",
-  "ibge": "4318903"
+  "ibge": "4318903",
+  "lat": -28.4501754,
+  "lon": -54.7143644
 }

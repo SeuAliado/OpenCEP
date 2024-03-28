@@ -5,5 +5,7 @@
   "bairro": "Uglione",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.6930828,
+  "lon": -53.8237746
 }

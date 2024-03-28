@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Parapuã",
   "uf": "SP",
-  "ibge": "3536000"
+  "ibge": "3536000",
+  "lat": -21.7797682,
+  "lon": -50.7917923
 }

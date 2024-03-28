@@ -5,5 +5,7 @@
   "bairro": "Jardim do Entorno I",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7338603,
+  "lon": -48.2984309
 }

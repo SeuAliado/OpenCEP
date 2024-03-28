@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tapurah",
   "uf": "MT",
-  "ibge": "5108006"
+  "ibge": "5108006",
+  "lat": -13.0919588,
+  "lon": -55.9139012
 }

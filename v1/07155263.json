@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Haroldo Veloso",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4165051,
+  "lon": -46.4676691
 }

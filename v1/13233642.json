@@ -5,5 +5,7 @@
   "bairro": "Ville Saint James I",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.1862062,
+  "lon": -46.7429948
 }

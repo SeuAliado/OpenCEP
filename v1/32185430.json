@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.839461,
+  "lon": -44.035052
 }

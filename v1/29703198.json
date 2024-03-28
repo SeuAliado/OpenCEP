@@ -5,5 +5,7 @@
   "bairro": "São Silvano",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.5167089,
+  "lon": -40.6422666
 }

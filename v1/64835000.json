@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Grande do Piauí",
   "uf": "PI",
-  "ibge": "2209005"
+  "ibge": "2209005",
+  "lat": -7.7577265,
+  "lon": -43.1359542
 }

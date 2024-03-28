@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3476321,
+  "lon": -49.0586502
 }

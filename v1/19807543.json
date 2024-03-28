@@ -5,5 +5,7 @@
   "bairro": "BNH",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.644777,
+  "lon": -50.4293461
 }

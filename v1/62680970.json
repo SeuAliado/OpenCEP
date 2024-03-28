@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paracuru",
   "uf": "CE",
-  "ibge": "2310209"
+  "ibge": "2310209",
+  "lat": -3.4092882,
+  "lon": -39.0248607
 }

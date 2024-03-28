@@ -5,5 +5,7 @@
   "bairro": "Vilarinho do Monte",
   "localidade": "Porto de Moz",
   "uf": "PA",
-  "ibge": "1505908"
+  "ibge": "1505908",
+  "lat": -1.6150852,
+  "lon": -51.9868022
 }

@@ -5,5 +5,7 @@
   "bairro": "Cabuçu",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7726669,
+  "lon": -43.53904
 }

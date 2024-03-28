@@ -5,5 +5,7 @@
   "bairro": "Tupiracaba",
   "localidade": "Niquelândia",
   "uf": "GO",
-  "ibge": "5214606"
+  "ibge": "5214606",
+  "lat": -14.4676062,
+  "lon": -48.4661934
 }

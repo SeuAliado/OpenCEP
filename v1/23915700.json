@@ -5,5 +5,7 @@
   "bairro": "Caputera II",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.9963853,
+  "lon": -44.229185
 }

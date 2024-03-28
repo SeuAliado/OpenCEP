@@ -5,5 +5,7 @@
   "bairro": "Poço de Fora",
   "localidade": "Curaçá",
   "uf": "BA",
-  "ibge": "2909901"
+  "ibge": "2909901",
+  "lat": -8.9876729,
+  "lon": -39.9039719
 }

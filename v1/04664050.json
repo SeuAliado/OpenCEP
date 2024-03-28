@@ -5,5 +5,7 @@
   "bairro": "Jardim Marajoara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6570794,
+  "lon": -46.6824595
 }

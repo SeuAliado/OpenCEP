@@ -5,5 +5,7 @@
   "bairro": "Vila Cintra",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5445377,
+  "lon": -46.2310104
 }

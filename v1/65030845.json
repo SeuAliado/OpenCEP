@@ -5,5 +5,7 @@
   "bairro": "Parque Amazonas",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -5.5002168,
+  "lon": -47.4564467
 }

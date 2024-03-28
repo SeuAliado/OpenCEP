@@ -5,5 +5,7 @@
   "bairro": "Andrequicé",
   "localidade": "Três Marias",
   "uf": "MG",
-  "ibge": "3169356"
+  "ibge": "3169356",
+  "lat": -19.9193517,
+  "lon": -43.9960942
 }

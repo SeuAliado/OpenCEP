@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Seridó",
   "uf": "RN",
-  "ibge": "2412401"
+  "ibge": "2412401",
+  "lat": -6.4404218,
+  "lon": -36.8749751
 }

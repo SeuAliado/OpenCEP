@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cabeceiras do Piauí",
   "uf": "PI",
-  "ibge": "2202059"
+  "ibge": "2202059",
+  "lat": -4.4776834,
+  "lon": -42.3072654
 }

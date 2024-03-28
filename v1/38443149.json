@@ -5,5 +5,7 @@
   "bairro": "Vieno",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6289591,
+  "lon": -48.2004779
 }

@@ -5,5 +5,7 @@
   "bairro": "Porto das Canoas",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8383354,
+  "lon": -41.8930157
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tangará",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6797259,
+  "lon": -49.7370004
 }

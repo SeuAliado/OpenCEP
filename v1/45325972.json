@@ -5,5 +5,7 @@
   "bairro": "Km 100",
   "localidade": "Brejões",
   "uf": "BA",
-  "ibge": "2904308"
+  "ibge": "2904308",
+  "lat": -13.0775438,
+  "lon": -39.9644883
 }

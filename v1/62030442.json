@@ -5,5 +5,7 @@
   "bairro": "Junco",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.6728152,
+  "lon": -40.3630755
 }

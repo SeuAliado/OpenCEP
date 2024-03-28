@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Francisco Badaró",
   "uf": "MG",
-  "ibge": "3126505"
+  "ibge": "3126505",
+  "lat": -16.9887521,
+  "lon": -42.3572057
 }

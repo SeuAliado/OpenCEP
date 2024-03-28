@@ -5,5 +5,7 @@
   "bairro": "Vila Bom Jardim",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6936886,
+  "lon": -43.4328555
 }

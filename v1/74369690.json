@@ -5,5 +5,7 @@
   "bairro": "Setor Três Marias I",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7022048,
+  "lon": -49.2398752
 }

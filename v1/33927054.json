@@ -5,5 +5,7 @@
   "bairro": "Severina",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.769691,
+  "lon": -43.9895549
 }

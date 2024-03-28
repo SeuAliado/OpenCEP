@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mamborê",
   "uf": "PR",
-  "ibge": "4114005"
+  "ibge": "4114005",
+  "lat": -24.323705,
+  "lon": -52.522961
 }

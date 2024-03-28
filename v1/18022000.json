@@ -5,5 +5,7 @@
   "bairro": "Vila João Romão",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5283191,
+  "lon": -47.5033859
 }

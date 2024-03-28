@@ -5,5 +5,7 @@
   "bairro": "Recreio dos Bandeirantes",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0224069,
+  "lon": -47.9117389
 }

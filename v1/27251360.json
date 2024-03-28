@@ -5,5 +5,7 @@
   "bairro": "Jardim Amália",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5134025,
+  "lon": -44.0815868
 }

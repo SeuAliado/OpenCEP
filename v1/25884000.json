@@ -5,5 +5,7 @@
   "bairro": "Pião",
   "localidade": "Sapucaia",
   "uf": "RJ",
-  "ibge": "3305406"
+  "ibge": "3305406",
+  "lat": -22.1275747,
+  "lon": -42.7626433
 }

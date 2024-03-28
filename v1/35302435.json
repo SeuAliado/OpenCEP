@@ -5,5 +5,7 @@
   "bairro": "Zacarias",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7695714,
+  "lon": -42.1285542
 }

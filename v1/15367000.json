@@ -5,5 +5,7 @@
   "bairro": "Bandeirantes D'Oeste",
   "localidade": "Sud Mennucci",
   "uf": "SP",
-  "ibge": "3552304"
+  "ibge": "3552304",
+  "lat": -20.6879028,
+  "lon": -50.9187805
 }

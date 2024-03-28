@@ -5,5 +5,7 @@
   "bairro": "Três Montanhas",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.4805158,
+  "lon": -46.7912602
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tenente Laurentino Cruz",
   "uf": "RN",
-  "ibge": "2414159"
+  "ibge": "2414159",
+  "lat": -6.1474914,
+  "lon": -36.7199751
 }

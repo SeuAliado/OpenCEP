@@ -5,5 +5,7 @@
   "bairro": "Pagador de Andrade",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.216481,
+  "lon": -46.0039844
 }

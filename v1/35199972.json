@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vargem Alegre",
   "uf": "MG",
-  "ibge": "3170578"
+  "ibge": "3170578",
+  "lat": -19.5987059,
+  "lon": -42.2990619
 }

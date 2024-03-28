@@ -5,5 +5,7 @@
   "bairro": "Vila Sônia (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8798138,
+  "lon": -46.9696069
 }

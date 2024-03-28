@@ -5,5 +5,7 @@
   "bairro": "Jardins Verona",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7332595,
+  "lon": -49.1914113
 }

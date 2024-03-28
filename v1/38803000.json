@@ -5,5 +5,7 @@
   "bairro": "Guarda dos Ferreiros",
   "localidade": "São Gotardo",
   "uf": "MG",
-  "ibge": "3162104"
+  "ibge": "3162104",
+  "lat": -19.3718813,
+  "lon": -46.1322409
 }

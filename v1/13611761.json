@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Francisco Coelho",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.2004084,
+  "lon": -47.3709681
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Quitéria",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "lat": -20.4963284,
+  "lon": -43.8514258
 }

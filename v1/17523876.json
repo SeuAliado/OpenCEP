@@ -5,5 +5,7 @@
   "bairro": "Professor Antônio da Silva Penteado",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2598184,
+  "lon": -49.9391186
 }

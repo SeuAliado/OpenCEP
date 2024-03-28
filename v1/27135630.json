@@ -5,5 +5,7 @@
   "bairro": "Caixa D'Água Velha",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4697881,
+  "lon": -43.8136499
 }

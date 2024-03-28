@@ -5,5 +5,7 @@
   "bairro": "Jardim Montevidéu",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6894834,
+  "lon": -49.4537467
 }

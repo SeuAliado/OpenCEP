@@ -5,5 +5,7 @@
   "bairro": "Wanderley Dantas",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9396202,
+  "lon": -67.8214594
 }

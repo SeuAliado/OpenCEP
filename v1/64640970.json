@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio de Lisboa",
   "uf": "PI",
-  "ibge": "2209401"
+  "ibge": "2209401",
+  "lat": -6.9827612,
+  "lon": -41.2311456
 }

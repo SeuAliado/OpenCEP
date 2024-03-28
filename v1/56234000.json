@@ -5,5 +5,7 @@
   "bairro": "Timorante",
   "localidade": "Exu",
   "uf": "PE",
-  "ibge": "2605301"
+  "ibge": "2605301",
+  "lat": -7.676936,
+  "lon": -39.7990258
 }

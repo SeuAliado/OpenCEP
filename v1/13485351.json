@@ -5,5 +5,7 @@
   "bairro": "Jardim Porto Real",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5566922,
+  "lon": -47.399927
 }

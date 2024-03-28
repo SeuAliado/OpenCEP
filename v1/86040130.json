@@ -5,5 +5,7 @@
   "bairro": "Califórnia",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.337252,
+  "lon": -51.1425994
 }

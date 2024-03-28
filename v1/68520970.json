@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Domingos do Araguaia",
   "uf": "PA",
-  "ibge": "1507151"
+  "ibge": "1507151",
+  "lat": -5.5360016,
+  "lon": -48.7334868
 }

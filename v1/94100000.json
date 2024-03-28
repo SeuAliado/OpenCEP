@@ -5,5 +5,7 @@
   "bairro": "Neópolis",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9062981,
+  "lon": -51.0183612
 }

@@ -5,5 +5,7 @@
   "bairro": "Piam",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7506096,
+  "lon": -43.3967549
 }

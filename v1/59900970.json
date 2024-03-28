@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pau dos Ferros",
   "uf": "RN",
-  "ibge": "2409407"
+  "ibge": "2409407",
+  "lat": -6.1110012,
+  "lon": -38.2050069
 }

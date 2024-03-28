@@ -5,5 +5,7 @@
   "bairro": "Alto Arroio",
   "localidade": "Imbituba",
   "uf": "SC",
-  "ibge": "4207304"
+  "ibge": "4207304",
+  "lat": -28.1656473,
+  "lon": -48.7154667
 }

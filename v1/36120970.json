@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matias Barbosa",
   "uf": "MG",
-  "ibge": "3140803"
+  "ibge": "3140803",
+  "lat": -21.8692092,
+  "lon": -43.3188251
 }

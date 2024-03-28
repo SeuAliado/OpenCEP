@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Expedito",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2585288,
+  "lon": -50.5405419
 }

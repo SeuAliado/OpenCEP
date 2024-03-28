@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Archer",
   "uf": "MA",
-  "ibge": "2104503"
+  "ibge": "2104503",
+  "lat": -4.9479352,
+  "lon": -44.1340439
 }

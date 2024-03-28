@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Rufino",
   "uf": "SC",
-  "ibge": "4215059"
+  "ibge": "4215059",
+  "lat": -27.8631491,
+  "lon": -49.7820876
 }

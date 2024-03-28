@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5134673,
+  "lon": -46.6274996
 }

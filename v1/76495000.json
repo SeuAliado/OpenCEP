@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Iguaçu de Goiás",
   "uf": "GO",
-  "ibge": "5214879"
+  "ibge": "5214879",
+  "lat": -14.2777736,
+  "lon": -49.2435998
 }

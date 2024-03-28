@@ -5,5 +5,7 @@
   "bairro": "Afogados",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0774063,
+  "lon": -34.9106578
 }

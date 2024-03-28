@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Coronel Quito Junqueira",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.157796,
+  "lon": -47.7976299
 }

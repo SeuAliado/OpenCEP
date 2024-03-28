@@ -5,5 +5,7 @@
   "bairro": "Cajazeiras VII",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8387363,
+  "lon": -38.4700183
 }

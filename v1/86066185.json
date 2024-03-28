@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Sabará",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3099435,
+  "lon": -51.210987
 }

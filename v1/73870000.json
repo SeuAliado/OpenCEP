@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cabeceiras",
   "uf": "GO",
-  "ibge": "5204003"
+  "ibge": "5204003",
+  "lat": -15.8041148,
+  "lon": -46.928229
 }

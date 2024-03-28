@@ -5,5 +5,7 @@
   "bairro": "Vila Brandina",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8928465,
+  "lon": -47.0250048
 }

@@ -5,5 +5,7 @@
   "bairro": "Arraial dos Cunhas",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

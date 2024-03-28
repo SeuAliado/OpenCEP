@@ -5,5 +5,7 @@
   "bairro": "Vila Constituição",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0088327,
+  "lon": -47.4155804
 }

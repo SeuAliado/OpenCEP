@@ -5,5 +5,7 @@
   "bairro": "Vila Amélia Moreira",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8352749,
+  "lon": -43.858647
 }

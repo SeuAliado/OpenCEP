@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Formigueiro",
   "uf": "RS",
-  "ibge": "4308409"
+  "ibge": "4308409",
+  "lat": -30.0040095,
+  "lon": -53.4964581
 }

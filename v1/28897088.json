@@ -5,5 +5,7 @@
   "bairro": "Verdes Mares",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.4954437,
+  "lon": -41.916933
 }

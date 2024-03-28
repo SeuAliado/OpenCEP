@@ -5,5 +5,7 @@
   "bairro": "Jardim Marica",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.4996556,
+  "lon": -46.1830513
 }

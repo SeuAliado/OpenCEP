@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Suíça",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5759447,
+  "lon": -47.3869043
 }

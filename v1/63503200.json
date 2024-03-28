@@ -5,5 +5,7 @@
   "bairro": "Vila Neuma",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.371388,
+  "lon": -39.28424
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ponta de Pedras",
   "uf": "PA",
-  "ibge": "1505700"
+  "ibge": "1505700",
+  "lat": -1.3936686,
+  "lon": -48.8712145
 }

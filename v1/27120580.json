@@ -5,5 +5,7 @@
   "bairro": "São Luís",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4574097,
+  "lon": -43.7966526
 }

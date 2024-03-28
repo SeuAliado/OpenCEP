@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Rosário",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2915855,
+  "lon": -35.0368544
 }

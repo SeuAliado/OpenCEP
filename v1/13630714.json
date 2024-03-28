@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.9845656,
+  "lon": -47.4237302
 }

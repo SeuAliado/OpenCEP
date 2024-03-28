@@ -5,5 +5,7 @@
   "bairro": "Colônia Ventura",
   "localidade": "Tefé",
   "uf": "AM",
-  "ibge": "1304203"
+  "ibge": "1304203",
+  "lat": -3.349532,
+  "lon": -64.6992208
 }

@@ -5,5 +5,7 @@
   "bairro": "Souza Cruz",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -27.0755081,
+  "lon": -48.8902167
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araioses",
   "uf": "MA",
-  "ibge": "2100907"
+  "ibge": "2100907",
+  "lat": -2.9335226,
+  "lon": -42.0385904
 }

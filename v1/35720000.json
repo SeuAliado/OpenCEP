@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matozinhos",
   "uf": "MG",
-  "ibge": "3141108"
+  "ibge": "3141108",
+  "lat": -19.5547969,
+  "lon": -44.0871994
 }

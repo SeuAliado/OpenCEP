@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itajá",
   "uf": "RN",
-  "ibge": "2404853"
+  "ibge": "2404853",
+  "lat": -5.6375931,
+  "lon": -36.8643654
 }

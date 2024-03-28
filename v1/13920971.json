@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Pedreira",
   "uf": "SP",
-  "ibge": "3537107"
+  "ibge": "3537107",
+  "lat": -22.746877,
+  "lon": -46.9028706
 }

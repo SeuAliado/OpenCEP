@@ -5,5 +5,7 @@
   "bairro": "Cidade Kemel",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4978129,
+  "lon": -46.3673148
 }

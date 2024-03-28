@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carnaubeira da Penha",
   "uf": "PE",
-  "ibge": "2603926"
+  "ibge": "2603926",
+  "lat": -8.3920797,
+  "lon": -38.7368187
 }

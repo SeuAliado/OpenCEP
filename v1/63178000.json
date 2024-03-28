@@ -5,5 +5,7 @@
   "bairro": "Riacho Grande",
   "localidade": "Araripe",
   "uf": "CE",
-  "ibge": "2301307"
+  "ibge": "2301307",
+  "lat": -7.1444061,
+  "lon": -39.9619526
 }

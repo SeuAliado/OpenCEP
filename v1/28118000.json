@@ -5,5 +5,7 @@
   "bairro": "Serrinha",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "lat": -21.7571176,
+  "lon": -41.3483257
 }

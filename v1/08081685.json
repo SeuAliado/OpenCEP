@@ -5,5 +5,7 @@
   "bairro": "Cidade de Deus",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5154276,
+  "lon": -46.759591
 }

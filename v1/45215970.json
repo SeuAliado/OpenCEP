@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lafaiete Coutinho",
   "uf": "BA",
-  "ibge": "2918704"
+  "ibge": "2918704",
+  "lat": -13.6584541,
+  "lon": -40.2091153
 }

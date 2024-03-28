@@ -5,5 +5,7 @@
   "bairro": "Distrito de Nascente",
   "localidade": "Araripina",
   "uf": "PE",
-  "ibge": "2601102"
+  "ibge": "2601102",
+  "lat": -7.8862717,
+  "lon": -40.4746565
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Inácio",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7658479,
+  "lon": -57.0502098
 }

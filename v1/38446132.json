@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6654726,
+  "lon": -48.177869
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pires do Rio",
   "uf": "GO",
-  "ibge": "5217401"
+  "ibge": "5217401",
+  "lat": -17.308611,
+  "lon": -48.278112
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Reunidas Ipê",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2440879,
+  "lon": -47.3059188
 }

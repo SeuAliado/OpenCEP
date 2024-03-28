@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Suiça",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

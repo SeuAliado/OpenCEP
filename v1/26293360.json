@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7839051,
+  "lon": -43.5590263
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cidelândia",
   "uf": "MA",
-  "ibge": "2103257"
+  "ibge": "2103257",
+  "lat": -5.0426214,
+  "lon": -47.8032284
 }

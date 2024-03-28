@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibarama",
   "uf": "RS",
-  "ibge": "4309753"
+  "ibge": "4309753",
+  "lat": -29.4208124,
+  "lon": -53.1300172
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Regina Bastelli",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6200822,
+  "lon": -47.4114779
 }

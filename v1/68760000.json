@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marapanim",
   "uf": "PA",
-  "ibge": "1504406"
+  "ibge": "1504406",
+  "lat": -0.7150556,
+  "lon": -47.7037779
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rodrigues Alves",
   "uf": "AC",
-  "ibge": "1200427"
+  "ibge": "1200427",
+  "lat": -7.739011,
+  "lon": -72.6615818
 }

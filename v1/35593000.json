@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Lagoa da Prata",
   "uf": "MG",
-  "ibge": "3137205"
+  "ibge": "3137205",
+  "lat": -20.0832167,
+  "lon": -45.3986096
 }

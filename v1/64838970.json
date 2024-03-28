@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pavussu",
   "uf": "PI",
-  "ibge": "2207850"
+  "ibge": "2207850",
+  "lat": -7.9655214,
+  "lon": -43.2239833
 }

@@ -5,5 +5,7 @@
   "bairro": "Jurama",
   "localidade": "Vila Valério",
   "uf": "ES",
-  "ibge": "3205176"
+  "ibge": "3205176",
+  "lat": -18.98981,
+  "lon": -40.2736158
 }

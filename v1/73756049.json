@@ -5,5 +5,7 @@
   "bairro": "Jardim das Paineiras",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "lat": -15.4485911,
+  "lon": -47.5867297
 }

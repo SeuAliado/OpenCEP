@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Embaúba",
   "uf": "SP",
-  "ibge": "3514957"
+  "ibge": "3514957",
+  "lat": -20.9487174,
+  "lon": -48.8498018
 }

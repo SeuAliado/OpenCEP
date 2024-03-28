@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Lagos",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3124895,
+  "lon": -46.7535371
 }

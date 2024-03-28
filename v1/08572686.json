@@ -5,5 +5,7 @@
   "bairro": "Jardim do Algarve",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.5021166,
+  "lon": -46.3461383
 }

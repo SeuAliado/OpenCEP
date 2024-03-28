@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mallet",
   "uf": "PR",
-  "ibge": "4113908"
+  "ibge": "4113908",
+  "lat": -25.8810764,
+  "lon": -50.8178356
 }

@@ -5,5 +5,7 @@
   "bairro": "São Francisco II",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.7015511,
+  "lon": -49.0822142
 }

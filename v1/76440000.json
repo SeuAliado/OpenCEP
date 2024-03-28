@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campinaçu",
   "uf": "GO",
-  "ibge": "5204656"
+  "ibge": "5204656",
+  "lat": -13.787435,
+  "lon": -48.5708209
 }

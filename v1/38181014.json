@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5768573,
+  "lon": -46.9402198
 }

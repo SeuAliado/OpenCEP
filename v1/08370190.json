@@ -5,5 +5,7 @@
   "bairro": "Jardim São Gonçalo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8395204,
+  "lon": -46.7193851
 }

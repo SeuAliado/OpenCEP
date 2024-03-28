@@ -5,5 +5,7 @@
   "bairro": "Destilaria",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.2766276,
+  "lon": -35.0246979
 }

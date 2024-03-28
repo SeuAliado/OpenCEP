@@ -5,5 +5,7 @@
   "bairro": "Colatina Velha",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "lat": -19.547099,
+  "lon": -40.6298363
 }

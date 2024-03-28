@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Vila Vitória",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.978839,
+  "lon": -47.169503
 }

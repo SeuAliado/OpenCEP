@@ -5,5 +5,7 @@
   "bairro": "Ayrton Senna",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0025052,
+  "lon": -67.8322379
 }

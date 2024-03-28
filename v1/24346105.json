@@ -5,5 +5,7 @@
   "bairro": "Itaipu",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.9543126,
+  "lon": -43.0261933
 }

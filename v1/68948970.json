@@ -5,5 +5,7 @@
   "bairro": "Vila Primária",
   "localidade": "Serra do Navio",
   "uf": "AP",
-  "ibge": "1600055"
+  "ibge": "1600055",
+  "lat": 0.9002608,
+  "lon": -52.0047221
 }

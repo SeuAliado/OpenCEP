@@ -5,5 +5,7 @@
   "bairro": "Fazenda do Benito",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0043673,
+  "lon": -43.844814
 }

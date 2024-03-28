@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Helena",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.521359,
+  "lon": -46.3608038
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Glória D'Oeste",
   "uf": "MT",
-  "ibge": "5103957"
+  "ibge": "5103957",
+  "lat": -15.9411375,
+  "lon": -58.2348638
 }

@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "lat": -22.7592084,
+  "lon": -48.5786926
 }

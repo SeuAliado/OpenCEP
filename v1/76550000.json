@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porangatu",
   "uf": "GO",
-  "ibge": "5218003"
+  "ibge": "5218003",
+  "lat": -13.432916,
+  "lon": -49.1424016
 }

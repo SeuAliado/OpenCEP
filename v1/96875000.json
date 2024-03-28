@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gramado Xavier",
   "uf": "RS",
-  "ibge": "4309159"
+  "ibge": "4309159",
+  "lat": -29.2981888,
+  "lon": -52.5959129
 }

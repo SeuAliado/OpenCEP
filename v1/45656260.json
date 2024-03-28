@@ -5,5 +5,7 @@
   "bairro": "Nelson Costa",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.8225143,
+  "lon": -39.0342925
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Arboreto dos Jequitibás (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8866987,
+  "lon": -46.9693715
 }

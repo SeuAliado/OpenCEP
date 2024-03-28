@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5676923,
+  "lon": -46.4922964
 }

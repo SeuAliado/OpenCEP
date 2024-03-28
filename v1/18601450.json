@@ -5,5 +5,7 @@
   "bairro": "Jardim São Vicente",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9115672,
+  "lon": -48.4581035
 }

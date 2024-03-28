@@ -5,5 +5,7 @@
   "bairro": "Canafistula",
   "localidade": "Apuiarés",
   "uf": "CE",
-  "ibge": "2300903"
+  "ibge": "2300903",
+  "lat": -3.9671546,
+  "lon": -39.2477785
 }

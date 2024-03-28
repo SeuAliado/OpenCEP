@@ -5,5 +5,7 @@
   "bairro": "Vila América",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8853032,
+  "lon": -47.170882
 }

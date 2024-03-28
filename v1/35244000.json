@@ -5,5 +5,7 @@
   "bairro": "Bueno",
   "localidade": "Conselheiro Pena",
   "uf": "MG",
-  "ibge": "3118403"
+  "ibge": "3118403",
+  "lat": -19.3757477,
+  "lon": -41.5454583
 }

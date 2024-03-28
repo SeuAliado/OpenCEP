@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Bárbara",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.3297951,
+  "lon": -48.323189
 }

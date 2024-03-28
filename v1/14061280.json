@@ -5,5 +5,7 @@
   "bairro": "Geraldo Correia de Carvalho",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1264983,
+  "lon": -47.8161883
 }

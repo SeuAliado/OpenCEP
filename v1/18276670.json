@@ -5,5 +5,7 @@
   "bairro": "Jardim Fortunato Minghini",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3597624,
+  "lon": -47.8763644
 }

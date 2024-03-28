@@ -5,5 +5,7 @@
   "bairro": "Loteamento Santa Esther",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4681096,
+  "lon": -54.6108612
 }

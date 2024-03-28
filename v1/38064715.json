@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7359664,
+  "lon": -47.9824456
 }

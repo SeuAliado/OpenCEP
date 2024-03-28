@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6519016,
+  "lon": -49.754216
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Guatos",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "lat": -19.041769,
+  "lon": -57.651076
 }

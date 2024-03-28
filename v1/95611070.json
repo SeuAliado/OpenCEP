@@ -5,5 +5,7 @@
   "bairro": "Sagrada Família",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "lat": -29.6433164,
+  "lon": -50.7887921
 }

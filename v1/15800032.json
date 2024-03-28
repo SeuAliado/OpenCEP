@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -23.6753307,
+  "lon": -46.4664875
 }

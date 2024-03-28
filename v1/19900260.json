@@ -5,5 +5,7 @@
   "bairro": "Vila Moraes",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.984484,
+  "lon": -49.8612366
 }

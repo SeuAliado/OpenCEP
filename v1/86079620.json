@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2857108,
+  "lon": -51.1558949
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Treze Tílias",
   "uf": "SC",
-  "ibge": "4218509"
+  "ibge": "4218509",
+  "lat": -26.9998302,
+  "lon": -51.408892
 }

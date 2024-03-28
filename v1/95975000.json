@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Putinga",
   "uf": "RS",
-  "ibge": "4315206"
+  "ibge": "4315206",
+  "lat": -29.0049879,
+  "lon": -52.1574184
 }

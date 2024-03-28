@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Bassano",
   "uf": "RS",
-  "ibge": "4312906"
+  "ibge": "4312906",
+  "lat": -28.7410287,
+  "lon": -51.7011103
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Anália",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7959528,
+  "lon": -39.261816
 }

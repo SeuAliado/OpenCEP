@@ -5,5 +5,7 @@
   "bairro": "Jardim Itamaraty",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7658078,
+  "lon": -47.4135852
 }

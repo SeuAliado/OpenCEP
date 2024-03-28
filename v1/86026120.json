@@ -5,5 +5,7 @@
   "bairro": "Vila Galvão",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.3022328,
+  "lon": -51.1518425
 }

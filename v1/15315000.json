@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João de Iracema",
   "uf": "SP",
-  "ibge": "3549250"
+  "ibge": "3549250",
+  "lat": -20.511527,
+  "lon": -50.3565359
 }

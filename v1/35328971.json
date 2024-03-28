@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Bárbara do Leste",
   "uf": "MG",
-  "ibge": "3157252"
+  "ibge": "3157252",
+  "lat": -19.9789302,
+  "lon": -42.1440658
 }

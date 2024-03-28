@@ -5,5 +5,7 @@
   "bairro": "Jardim Clodoaldo",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "lat": -11.4214426,
+  "lon": -61.447574
 }

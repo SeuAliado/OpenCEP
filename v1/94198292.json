@@ -5,5 +5,7 @@
   "bairro": "Vila Imperial",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9158426,
+  "lon": -50.8978507
 }

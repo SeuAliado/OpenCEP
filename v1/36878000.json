@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rosário da Limeira",
   "uf": "MG",
-  "ibge": "3156452"
+  "ibge": "3156452",
+  "lat": -20.9817172,
+  "lon": -42.5115995
 }

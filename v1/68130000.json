@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Prainha",
   "uf": "PA",
-  "ibge": "1506005"
+  "ibge": "1506005",
+  "lat": -2.1074872,
+  "lon": -53.5635637
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Gandhi",
   "localidade": "Primeiro de Maio",
   "uf": "PR",
-  "ibge": "4120507"
+  "ibge": "4120507",
+  "lat": -22.9355089,
+  "lon": -51.1328017
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paranaíba",
   "uf": "MS",
-  "ibge": "5006309"
+  "ibge": "5006309",
+  "lat": -19.6860023,
+  "lon": -51.1899605
 }

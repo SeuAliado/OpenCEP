@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Crixás do Tocantins",
   "uf": "TO",
-  "ibge": "1706258"
+  "ibge": "1706258",
+  "lat": -11.2037661,
+  "lon": -49.0009403
 }

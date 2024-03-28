@@ -5,5 +5,7 @@
   "bairro": "Chácara Moinho Velho",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5739736,
+  "lon": -46.8637422
 }

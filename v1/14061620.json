@@ -5,5 +5,7 @@
   "bairro": "Valentina Figueiredo",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1199839,
+  "lon": -47.8062387
 }

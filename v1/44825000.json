@@ -5,5 +5,7 @@
   "bairro": "Ibiapora",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "lat": -12.0487038,
+  "lon": -40.8377154
 }

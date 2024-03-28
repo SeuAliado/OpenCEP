@@ -5,5 +5,7 @@
   "bairro": "Jaracatiá",
   "localidade": "Goioerê",
   "uf": "PR",
-  "ibge": "4108601"
+  "ibge": "4108601",
+  "lat": -24.1929373,
+  "lon": -52.974837
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Belo",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1165492,
+  "lon": -52.588939
 }

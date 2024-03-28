@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arenópolis",
   "uf": "GO",
-  "ibge": "5202353"
+  "ibge": "5202353",
+  "lat": -16.3788985,
+  "lon": -51.5570726
 }

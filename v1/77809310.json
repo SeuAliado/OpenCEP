@@ -5,5 +5,7 @@
   "bairro": "Jardim Mansões Palmeiras",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.2138928,
+  "lon": -48.2046714
 }

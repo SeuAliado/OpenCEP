@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.3808252,
+  "lon": -38.2287756
 }

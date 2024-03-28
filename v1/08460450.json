@@ -5,5 +5,7 @@
   "bairro": "Vila São Geraldo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -21.794455,
+  "lon": -48.1757279
 }

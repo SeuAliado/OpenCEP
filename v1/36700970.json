@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "lat": -21.5316687,
+  "lon": -42.6391896
 }

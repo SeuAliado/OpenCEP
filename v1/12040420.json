@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque Piracangaguá",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0338965,
+  "lon": -45.6054457
 }

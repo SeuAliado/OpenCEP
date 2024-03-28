@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Esperança",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4597523,
+  "lon": -54.6697904
 }

@@ -5,5 +5,7 @@
   "bairro": "Riacho Fundo",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7604321,
+  "lon": -42.9977867
 }

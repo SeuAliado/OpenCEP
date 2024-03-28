@@ -5,5 +5,7 @@
   "bairro": "Eugênio Schneider",
   "localidade": "Rio do Sul",
   "uf": "SC",
-  "ibge": "4214805"
+  "ibge": "4214805",
+  "lat": -27.2243565,
+  "lon": -49.6391701
 }

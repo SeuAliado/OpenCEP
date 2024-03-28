@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Candeias do Jamari",
   "uf": "RO",
-  "ibge": "1100809"
+  "ibge": "1100809",
+  "lat": -8.7946469,
+  "lon": -63.7170099
 }

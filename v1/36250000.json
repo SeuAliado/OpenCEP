@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Oliveira Fortes",
   "uf": "MG",
-  "ibge": "3145703"
+  "ibge": "3145703",
+  "lat": -21.3405438,
+  "lon": -43.4503057
 }

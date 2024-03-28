@@ -5,5 +5,7 @@
   "bairro": "Praia do Estaleirinho",
   "localidade": "Balneário Camboriú",
   "uf": "SC",
-  "ibge": "4202008"
+  "ibge": "4202008",
+  "lat": -27.043285,
+  "lon": -48.5900251
 }

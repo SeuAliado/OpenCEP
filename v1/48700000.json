@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serrinha",
   "uf": "BA",
-  "ibge": "2930501"
+  "ibge": "2930501",
+  "lat": -11.662842,
+  "lon": -39.0084965
 }

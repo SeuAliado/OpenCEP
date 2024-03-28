@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7549374,
+  "lon": -43.4855449
 }

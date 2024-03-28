@@ -5,5 +5,7 @@
   "bairro": "Chácara Cuiabá",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4349092,
+  "lon": -46.3108398
 }

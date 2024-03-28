@@ -5,5 +5,7 @@
   "bairro": "Jardim Mont Serrat",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7608602,
+  "lon": -49.2638937
 }

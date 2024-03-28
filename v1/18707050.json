@@ -5,5 +5,7 @@
   "bairro": "Alto",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0952212,
+  "lon": -48.9238151
 }

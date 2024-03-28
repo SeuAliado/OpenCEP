@@ -5,5 +5,7 @@
   "bairro": "Parque São Bernardo",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0514133,
+  "lon": -47.9821944
 }

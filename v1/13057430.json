@@ -5,5 +5,7 @@
   "bairro": "Parque Aeroporto",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -23.0207457,
+  "lon": -45.5665113
 }

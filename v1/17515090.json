@@ -5,5 +5,7 @@
   "bairro": "Banzato",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2111646,
+  "lon": -49.9430968
 }

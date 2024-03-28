@@ -5,5 +5,7 @@
   "bairro": "Central Parque 4-L",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.6029376,
+  "lon": -48.0555451
 }

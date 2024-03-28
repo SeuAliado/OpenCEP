@@ -5,5 +5,7 @@
   "bairro": "Tejuco",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "lat": -15.3337613,
+  "lon": -44.2515019
 }

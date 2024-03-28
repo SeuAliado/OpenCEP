@@ -5,5 +5,7 @@
   "bairro": "Morada da Serra",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6320808,
+  "lon": -55.9436682
 }

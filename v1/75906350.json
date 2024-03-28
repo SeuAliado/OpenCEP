@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.8016839,
+  "lon": -50.923542
 }

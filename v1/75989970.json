@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "São João da Paraúna",
   "uf": "GO",
-  "ibge": "5220058"
+  "ibge": "5220058",
+  "lat": -16.8177699,
+  "lon": -50.4094929
 }

@@ -5,5 +5,7 @@
   "bairro": "Maravilha (Visconde de Itaboraí)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7084845,
+  "lon": -42.89375
 }

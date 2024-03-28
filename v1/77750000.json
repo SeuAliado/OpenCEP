@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Couto de Magalhães",
   "uf": "TO",
-  "ibge": "1706001"
+  "ibge": "1706001",
+  "lat": -8.2832243,
+  "lon": -49.2470809
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nardin",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.9875411,
+  "lon": -46.8320061
 }

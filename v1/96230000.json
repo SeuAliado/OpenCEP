@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Vitória do Palmar",
   "uf": "RS",
-  "ibge": "4317301"
+  "ibge": "4317301",
+  "lat": -33.5215632,
+  "lon": -53.3664818
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campanário",
   "uf": "MG",
-  "ibge": "3110806"
+  "ibge": "3110806",
+  "lat": -23.6760347,
+  "lon": -46.5963559
 }

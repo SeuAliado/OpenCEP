@@ -5,5 +5,7 @@
   "bairro": "Campinas",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9604932,
+  "lon": -45.4094596
 }

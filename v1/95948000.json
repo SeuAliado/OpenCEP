@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Travesseiro",
   "uf": "RS",
-  "ibge": "4321626"
+  "ibge": "4321626",
+  "lat": -29.2944073,
+  "lon": -52.055356
 }

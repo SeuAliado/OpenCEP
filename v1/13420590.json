@@ -5,5 +5,7 @@
   "bairro": "Piracicamirim",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7465982,
+  "lon": -47.6223572
 }

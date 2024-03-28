@@ -5,5 +5,7 @@
   "bairro": "Vila Emil",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.7884727,
+  "lon": -43.4247474
 }

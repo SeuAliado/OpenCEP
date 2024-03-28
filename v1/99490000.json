@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tapera",
   "uf": "RS",
-  "ibge": "4321006"
+  "ibge": "4321006",
+  "lat": -28.6229959,
+  "lon": -52.8711249
 }

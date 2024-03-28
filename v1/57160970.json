@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marechal Deodoro",
   "uf": "AL",
-  "ibge": "2704708"
+  "ibge": "2704708",
+  "lat": -9.7179026,
+  "lon": -35.8954371
 }

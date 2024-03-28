@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Sucesso",
   "uf": "PB",
-  "ibge": "2502300"
+  "ibge": "2502300",
+  "lat": -6.4463071,
+  "lon": -37.9297218
 }

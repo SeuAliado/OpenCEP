@@ -5,5 +5,7 @@
   "bairro": "Jardim das Esmeraldas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5968386,
+  "lon": -46.7650386
 }

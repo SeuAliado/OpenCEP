@@ -5,5 +5,7 @@
   "bairro": "Vila Suíça",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4697594,
+  "lon": -43.8247326
 }

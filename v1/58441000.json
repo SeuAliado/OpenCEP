@@ -5,5 +5,7 @@
   "bairro": "São José da Mata",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.179202,
+  "lon": -35.9904921
 }

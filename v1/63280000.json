@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Penaforte",
   "uf": "CE",
-  "ibge": "2310605"
+  "ibge": "2310605",
+  "lat": -7.8296443,
+  "lon": -39.0731846
 }

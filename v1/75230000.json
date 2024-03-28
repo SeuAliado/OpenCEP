@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cristianópolis",
   "uf": "GO",
-  "ibge": "5206305"
+  "ibge": "5206305",
+  "lat": -17.2002433,
+  "lon": -48.7050663
 }

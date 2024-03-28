@@ -5,5 +5,7 @@
   "bairro": "Bairro dos Pires",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5866261,
+  "lon": -47.3710784
 }

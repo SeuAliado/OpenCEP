@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Lúcia Maggi",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4684811,
+  "lon": -54.623984
 }

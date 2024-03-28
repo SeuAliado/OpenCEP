@@ -5,5 +5,7 @@
   "bairro": "Saint Pastous",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.799381,
+  "lon": -55.7426509
 }

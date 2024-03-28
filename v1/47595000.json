@@ -5,5 +5,7 @@
   "bairro": "Ibipetum",
   "localidade": "Ipupiara",
   "uf": "BA",
-  "ibge": "2914109"
+  "ibge": "2914109",
+  "lat": -11.7984609,
+  "lon": -42.6409718
 }

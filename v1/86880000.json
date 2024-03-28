@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ariranha do Ivaí",
   "uf": "PR",
-  "ibge": "4101853"
+  "ibge": "4101853",
+  "lat": -24.3636974,
+  "lon": -51.5360368
 }

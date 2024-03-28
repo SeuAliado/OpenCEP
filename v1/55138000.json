@@ -5,5 +5,7 @@
   "bairro": "Tapiraim",
   "localidade": "São Caitano",
   "uf": "PE",
-  "ibge": "2613107"
+  "ibge": "2613107",
+  "lat": -8.4178784,
+  "lon": -36.1481514
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sítio D'Abadia",
   "uf": "GO",
-  "ibge": "5220702"
+  "ibge": "5220702",
+  "lat": -14.7976469,
+  "lon": -46.2545396
 }

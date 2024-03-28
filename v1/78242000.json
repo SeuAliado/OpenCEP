@@ -5,5 +5,7 @@
   "bairro": "Pedro Neca",
   "localidade": "Porto Esperidião",
   "uf": "MT",
-  "ibge": "5106828"
+  "ibge": "5106828",
+  "lat": -15.8588965,
+  "lon": -58.4613509
 }

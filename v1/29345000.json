@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marataízes",
   "uf": "ES",
-  "ibge": "3203320"
+  "ibge": "3203320",
+  "lat": -21.0403074,
+  "lon": -40.8388248
 }

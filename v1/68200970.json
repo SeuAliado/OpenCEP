@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alenquer",
   "uf": "PA",
-  "ibge": "1500404"
+  "ibge": "1500404",
+  "lat": -1.9531465,
+  "lon": -54.7391408
 }

@@ -5,5 +5,7 @@
   "bairro": "Pinheiros",
   "localidade": "Lavrinhas",
   "uf": "SP",
-  "ibge": "3526605"
+  "ibge": "3526605",
+  "lat": -22.5487718,
+  "lon": -44.9157254
 }

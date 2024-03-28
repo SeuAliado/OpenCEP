@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Jatobá",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9196408,
+  "lon": -48.4245247
 }

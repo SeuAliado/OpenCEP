@@ -5,5 +5,7 @@
   "bairro": "Santa Rita Durão",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "lat": -20.3746719,
+  "lon": -43.4216871
 }

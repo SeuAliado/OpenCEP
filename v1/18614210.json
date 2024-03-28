@@ -5,5 +5,7 @@
   "bairro": "Jardim Estoril I",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -23.2235328,
+  "lon": -45.9130724
 }

@@ -5,5 +5,7 @@
   "bairro": "São Tiago",
   "localidade": "Guaçuí",
   "uf": "ES",
-  "ibge": "3202306"
+  "ibge": "3202306",
+  "lat": -20.708525,
+  "lon": -41.6727707
 }

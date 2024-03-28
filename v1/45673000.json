@@ -5,5 +5,7 @@
   "bairro": "Banco Central",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7935051,
+  "lon": -39.0463797
 }

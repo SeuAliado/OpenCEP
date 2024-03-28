@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7077443,
+  "lon": -52.4478029
 }

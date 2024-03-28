@@ -5,5 +5,7 @@
   "bairro": "Waldir Lins I",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.715725,
+  "lon": -49.0812066
 }

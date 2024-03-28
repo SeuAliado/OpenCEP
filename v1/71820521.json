@@ -5,5 +5,7 @@
   "bairro": "Riacho Fundo I",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.886213,
+  "lon": -48.0218494
 }

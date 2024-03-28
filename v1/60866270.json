@@ -5,5 +5,7 @@
   "bairro": "Jangurussu",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.83367,
+  "lon": -38.52363
 }

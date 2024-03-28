@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ulianópolis",
   "uf": "PA",
-  "ibge": "1508126"
+  "ibge": "1508126",
+  "lat": -3.8649098,
+  "lon": -47.6061625
 }

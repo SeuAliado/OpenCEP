@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Primavera",
   "uf": "PA",
-  "ibge": "1506104"
+  "ibge": "1506104",
+  "lat": -0.9457944,
+  "lon": -47.1256835
 }

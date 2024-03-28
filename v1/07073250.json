@@ -5,5 +5,7 @@
   "bairro": "Jardim do Papai",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4435334,
+  "lon": -46.5592106
 }

@@ -5,5 +5,7 @@
   "bairro": "Aruaru",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "lat": -4.5765963,
+  "lon": -38.365512
 }

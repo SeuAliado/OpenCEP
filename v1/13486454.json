@@ -5,5 +5,7 @@
   "bairro": "Jardim São Simão",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5631506,
+  "lon": -47.3796191
 }

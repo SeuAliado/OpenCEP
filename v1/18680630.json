@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.5919612,
+  "lon": -48.8031997
 }

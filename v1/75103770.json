@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3500243,
+  "lon": -48.9075497
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vale do Sol",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5419166,
+  "lon": -51.4610766
 }

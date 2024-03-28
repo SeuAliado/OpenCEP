@@ -5,5 +5,7 @@
   "bairro": "Cidade Doutor José Euclides Ferreira Gomes Junior",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.6721269,
+  "lon": -40.3695946
 }

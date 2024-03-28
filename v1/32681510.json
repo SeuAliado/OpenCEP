@@ -5,5 +5,7 @@
   "bairro": "Jardim Teresópolis",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9314359,
+  "lon": -44.1250196
 }

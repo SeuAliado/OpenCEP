@@ -5,5 +5,7 @@
   "bairro": "Loteamento Remanso Campineiro",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8597483,
+  "lon": -47.1619923
 }

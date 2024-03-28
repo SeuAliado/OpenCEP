@@ -5,5 +5,7 @@
   "bairro": "Itajubaquara",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "lat": -11.2989744,
+  "lon": -42.6633904
 }

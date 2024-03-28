@@ -5,5 +5,7 @@
   "bairro": "Caripare",
   "localidade": "Riachão das Neves",
   "uf": "BA",
-  "ibge": "2926202"
+  "ibge": "2926202",
+  "lat": -11.7348884,
+  "lon": -44.9037572
 }

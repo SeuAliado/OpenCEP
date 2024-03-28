@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Paraná",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8117485,
+  "lon": -47.2542764
 }

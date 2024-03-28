@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro Laurentino",
   "uf": "PI",
-  "ibge": "2207934"
+  "ibge": "2207934",
+  "lat": -8.0665509,
+  "lon": -42.2858241
 }

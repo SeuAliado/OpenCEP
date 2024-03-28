@@ -5,5 +5,7 @@
   "bairro": "Jardim Ayde",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2022156,
+  "lon": -54.7776748
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz II",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4646418,
+  "lon": -44.0988672
 }

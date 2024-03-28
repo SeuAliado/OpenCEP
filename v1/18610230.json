@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8567866,
+  "lon": -48.4404091
 }

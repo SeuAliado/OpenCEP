@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guarda-Mor",
   "uf": "MG",
-  "ibge": "3128600"
+  "ibge": "3128600",
+  "lat": -17.7682443,
+  "lon": -47.1008943
 }

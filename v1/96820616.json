@@ -5,5 +5,7 @@
   "bairro": "Santo Inácio",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7041958,
+  "lon": -52.4208661
 }

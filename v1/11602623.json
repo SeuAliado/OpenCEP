@@ -5,5 +5,7 @@
   "bairro": "Enseada",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7287951,
+  "lon": -45.4198923
 }

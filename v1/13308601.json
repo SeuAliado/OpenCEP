@@ -5,5 +5,7 @@
   "bairro": "City Castello",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.4118509,
+  "lon": -47.3497346
 }

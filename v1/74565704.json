@@ -5,5 +5,7 @@
   "bairro": "Setor Urias Magalhães II",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6391603,
+  "lon": -49.2645032
 }

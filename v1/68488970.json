@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Breu Branco",
   "uf": "PA",
-  "ibge": "1501782"
+  "ibge": "1501782",
+  "lat": -3.7750124,
+  "lon": -49.5678421
 }

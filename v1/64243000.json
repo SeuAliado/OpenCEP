@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João da Fronteira",
   "uf": "PI",
-  "ibge": "2209872"
+  "ibge": "2209872",
+  "lat": -3.9553549,
+  "lon": -41.2572884
 }

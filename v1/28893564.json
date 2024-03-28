@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5215989,
+  "lon": -41.9326087
 }

@@ -5,5 +5,7 @@
   "bairro": "Pedra Linda",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3525529,
+  "lon": -40.5159894
 }

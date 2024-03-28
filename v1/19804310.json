@@ -5,5 +5,7 @@
   "bairro": "Vila Carvalho",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6623985,
+  "lon": -50.437558
 }

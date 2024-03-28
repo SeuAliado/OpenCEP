@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Vermelho",
   "uf": "MG",
-  "ibge": "3156007"
+  "ibge": "3156007",
+  "lat": -18.2931318,
+  "lon": -43.0080668
 }

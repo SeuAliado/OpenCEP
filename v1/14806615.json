@@ -5,5 +5,7 @@
   "bairro": "3° Distrito Industrial (Virgílio Ometto Pavan)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7424038,
+  "lon": -48.1297995
 }

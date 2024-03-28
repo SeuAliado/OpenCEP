@@ -5,5 +5,7 @@
   "bairro": "Jardim Martins",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5197979,
+  "lon": -47.4328385
 }

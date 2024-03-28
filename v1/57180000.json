@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra de São Miguel",
   "uf": "AL",
-  "ibge": "2700607"
+  "ibge": "2700607",
+  "lat": -9.8237028,
+  "lon": -35.885903
 }

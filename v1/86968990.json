@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "lat": -24.0330901,
+  "lon": -52.1304594
 }

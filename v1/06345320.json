@@ -5,5 +5,7 @@
   "bairro": "Chácara dos Lagos",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5808186,
+  "lon": -46.8465603
 }

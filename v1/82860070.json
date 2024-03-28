@@ -5,5 +5,7 @@
   "bairro": "Atuba",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.383981,
+  "lon": -49.1984235
 }

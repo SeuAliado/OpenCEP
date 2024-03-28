@@ -5,5 +5,7 @@
   "bairro": "Arvoredo",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8798732,
+  "lon": -44.027315
 }

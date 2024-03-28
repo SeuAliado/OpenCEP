@@ -5,5 +5,7 @@
   "bairro": "Jardim Herplin",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7911315,
+  "lon": -46.7146294
 }

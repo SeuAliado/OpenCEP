@@ -5,5 +5,7 @@
   "bairro": "Vila Três Marias",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8924672,
+  "lon": -51.7153977
 }

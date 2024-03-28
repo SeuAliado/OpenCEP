@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caçapava do Sul",
   "uf": "RS",
-  "ibge": "4302808"
+  "ibge": "4302808",
+  "lat": -30.5110607,
+  "lon": -53.4913661
 }

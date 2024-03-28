@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel do Tapuio",
   "uf": "PI",
-  "ibge": "2210409"
+  "ibge": "2210409",
+  "lat": -5.5019906,
+  "lon": -41.3226931
 }

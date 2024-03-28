@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pingo-D'Água",
   "uf": "MG",
-  "ibge": "3150539"
+  "ibge": "3150539",
+  "lat": -19.7480502,
+  "lon": -42.4233339
 }

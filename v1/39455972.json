@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiracatu",
   "uf": "MG",
-  "ibge": "3129657"
+  "ibge": "3129657",
+  "lat": -15.6660557,
+  "lon": -44.167503
 }

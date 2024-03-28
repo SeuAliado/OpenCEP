@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Bárbara do Monte Verde",
   "uf": "MG",
-  "ibge": "3157278"
+  "ibge": "3157278",
+  "lat": -21.9596713,
+  "lon": -43.7031437
 }

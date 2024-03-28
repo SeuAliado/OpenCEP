@@ -5,5 +5,7 @@
   "bairro": "Caiuca",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -8.29655,
+  "lon": -35.9916064
 }

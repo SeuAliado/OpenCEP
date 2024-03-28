@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Hora",
   "uf": "PI",
-  "ibge": "2201770"
+  "ibge": "2201770",
+  "lat": -4.414424,
+  "lon": -42.136123
 }

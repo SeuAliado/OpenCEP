@@ -5,5 +5,7 @@
   "bairro": "Rinaré",
   "localidade": "Banabuiú",
   "uf": "CE",
-  "ibge": "2301851"
+  "ibge": "2301851",
+  "lat": -5.3597129,
+  "lon": -39.0085006
 }

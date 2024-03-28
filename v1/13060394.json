@@ -5,5 +5,7 @@
   "bairro": "Vila Perseu Leite de Barros",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9311055,
+  "lon": -47.1156592
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Pantaleão",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0969992,
+  "lon": -45.7051915
 }

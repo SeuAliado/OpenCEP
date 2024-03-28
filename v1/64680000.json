@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Padre Marcos",
   "uf": "PI",
-  "ibge": "2207207"
+  "ibge": "2207207",
+  "lat": -7.3628132,
+  "lon": -40.8980767
 }

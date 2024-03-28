@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraú",
   "uf": "RN",
-  "ibge": "2408706"
+  "ibge": "2408706",
+  "lat": -5.7779761,
+  "lon": -37.1048849
 }

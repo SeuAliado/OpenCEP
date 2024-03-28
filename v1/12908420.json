@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Padre Aldo Bolini",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9344959,
+  "lon": -46.5469248
 }

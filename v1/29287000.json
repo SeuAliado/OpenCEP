@@ -5,5 +5,7 @@
   "bairro": "Aghá",
   "localidade": "Piúma",
   "uf": "ES",
-  "ibge": "3204203"
+  "ibge": "3204203",
+  "lat": -20.8325301,
+  "lon": -40.7195636
 }

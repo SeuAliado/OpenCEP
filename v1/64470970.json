@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Hugo Napoleão",
   "uf": "PI",
-  "ibge": "2204600"
+  "ibge": "2204600",
+  "lat": -5.9884601,
+  "lon": -42.5610554
 }

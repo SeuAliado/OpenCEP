@@ -5,5 +5,7 @@
   "bairro": "Jardim Canaã II",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.327398,
+  "lon": -46.9271424
 }

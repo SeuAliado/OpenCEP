@@ -5,5 +5,7 @@
   "bairro": "Promissão",
   "localidade": "Paragominas",
   "uf": "PA",
-  "ibge": "1505502"
+  "ibge": "1505502",
+  "lat": -2.9833222,
+  "lon": -47.349815
 }

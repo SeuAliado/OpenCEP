@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nazária",
   "uf": "PI",
-  "ibge": "2206720"
+  "ibge": "2206720",
+  "lat": -5.494627,
+  "lon": -41.3251267
 }

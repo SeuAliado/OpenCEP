@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8438358,
+  "lon": -55.525713
 }

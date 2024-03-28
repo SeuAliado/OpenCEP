@@ -5,5 +5,7 @@
   "bairro": "Setor 3",
   "localidade": "Buritis",
   "uf": "RO",
-  "ibge": "1100452"
+  "ibge": "1100452",
+  "lat": -8.7894523,
+  "lon": -63.8845072
 }

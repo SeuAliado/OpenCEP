@@ -5,5 +5,7 @@
   "bairro": "Sotelândia",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3565875,
+  "lon": -40.3638037
 }

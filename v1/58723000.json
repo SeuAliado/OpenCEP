@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José de Espinharas",
   "uf": "PB",
-  "ibge": "2514404"
+  "ibge": "2514404",
+  "lat": -6.8470966,
+  "lon": -37.3256414
 }

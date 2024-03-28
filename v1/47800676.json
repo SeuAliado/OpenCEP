@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.9407527,
+  "lon": -38.4222241
 }

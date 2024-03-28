@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Alice",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6017932,
+  "lon": -43.3088238
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirapora do Bom Jesus",
   "uf": "SP",
-  "ibge": "3539103"
+  "ibge": "3539103",
+  "lat": -23.3994629,
+  "lon": -47.0010889
 }

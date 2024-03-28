@@ -5,5 +5,7 @@
   "bairro": "Sítio de Recreio Jardim Boa Vista",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2801443,
+  "lon": -48.9153926
 }

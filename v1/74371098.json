@@ -5,5 +5,7 @@
   "bairro": "Residencial Eli Forte Extensão",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7297349,
+  "lon": -49.3536985
 }

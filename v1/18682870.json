@@ -5,5 +5,7 @@
   "bairro": "Jardim do Caju II",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6197519,
+  "lon": -48.7900698
 }

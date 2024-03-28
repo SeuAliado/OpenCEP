@@ -5,5 +5,7 @@
   "bairro": "Quarteirão Brasileiro",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.4887125,
+  "lon": -43.1801582
 }

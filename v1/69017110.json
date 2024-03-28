@@ -5,5 +5,7 @@
   "bairro": "Santa Etelvina",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.0046855,
+  "lon": -60.0354756
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João Batista",
   "uf": "MA",
-  "ibge": "2111003"
+  "ibge": "2111003",
+  "lat": -2.9543488,
+  "lon": -44.7957199
 }

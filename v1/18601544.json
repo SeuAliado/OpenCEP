@@ -5,5 +5,7 @@
   "bairro": "Vila Auxiliadora",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8892356,
+  "lon": -48.4296053
 }

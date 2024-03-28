@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Paraíso",
   "uf": "PR",
-  "ibge": "4124301"
+  "ibge": "4124301",
+  "lat": -23.4951989,
+  "lon": -50.6501339
 }

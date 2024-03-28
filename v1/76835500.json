@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -10.7092085,
+  "lon": -62.2486628
 }

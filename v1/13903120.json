@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7073188,
+  "lon": -46.7654177
 }

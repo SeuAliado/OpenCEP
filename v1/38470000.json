@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Grupiara",
   "uf": "MG",
-  "ibge": "3127909"
+  "ibge": "3127909",
+  "lat": -18.494798,
+  "lon": -47.7186616
 }

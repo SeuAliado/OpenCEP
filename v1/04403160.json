@@ -5,5 +5,7 @@
   "bairro": "Vila Joaniza",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6730822,
+  "lon": -46.6637676
 }

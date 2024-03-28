@@ -5,5 +5,7 @@
   "bairro": "Santa Maria Goretti",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0037998,
+  "lon": -51.1777795
 }

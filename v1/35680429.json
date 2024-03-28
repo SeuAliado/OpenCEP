@@ -5,5 +5,7 @@
   "bairro": "Chácara do Quitão",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0882621,
+  "lon": -44.5988642
 }

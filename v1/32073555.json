@@ -5,5 +5,7 @@
   "bairro": "Vila Universal",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9349488,
+  "lon": -44.1087024
 }

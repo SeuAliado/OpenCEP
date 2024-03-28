@@ -5,5 +5,7 @@
   "bairro": "Jardim Florestal",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1216127,
+  "lon": -58.4288058
 }

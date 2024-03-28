@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pato Bragado",
   "uf": "PR",
-  "ibge": "4118451"
+  "ibge": "4118451",
+  "lat": -24.6250974,
+  "lon": -54.2286256
 }

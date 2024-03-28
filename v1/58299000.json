@@ -5,5 +5,7 @@
   "bairro": "Camurupim",
   "localidade": "Rio Tinto",
   "uf": "PB",
-  "ibge": "2512903"
+  "ibge": "2512903",
+  "lat": -6.7438153,
+  "lon": -34.9439376
 }

@@ -5,5 +5,7 @@
   "bairro": "São Raimundo do Araguaia",
   "localidade": "Brejo Grande do Araguaia",
   "uf": "PA",
-  "ibge": "1501758"
+  "ibge": "1501758",
+  "lat": -5.5847653,
+  "lon": -48.1964471
 }

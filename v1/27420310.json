@@ -5,5 +5,7 @@
   "bairro": "Barrinha",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4163504,
+  "lon": -44.2603402
 }

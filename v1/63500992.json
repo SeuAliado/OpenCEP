@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.35255,
+  "lon": -39.2987197
 }

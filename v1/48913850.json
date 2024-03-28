@@ -5,5 +5,7 @@
   "bairro": "João Paulo II",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4402943,
+  "lon": -40.5048465
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Leda",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4592308,
+  "lon": -46.5446094
 }

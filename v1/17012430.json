@@ -5,5 +5,7 @@
   "bairro": "Vila Aeroporto Bauru",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3390211,
+  "lon": -49.0544017
 }

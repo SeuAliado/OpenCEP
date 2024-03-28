@@ -5,5 +5,7 @@
   "bairro": "Iguaçu",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5964087,
+  "lon": -49.3971452
 }

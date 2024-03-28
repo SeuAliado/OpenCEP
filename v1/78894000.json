@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Sorriso",
   "uf": "MT",
-  "ibge": "5107925"
+  "ibge": "5107925",
+  "lat": -13.6513589,
+  "lon": -55.1441849
 }

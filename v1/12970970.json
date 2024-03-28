@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piracaia",
   "uf": "SP",
-  "ibge": "3538600"
+  "ibge": "3538600",
+  "lat": -23.0540214,
+  "lon": -46.3562064
 }

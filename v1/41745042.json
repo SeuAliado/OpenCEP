@@ -5,5 +5,7 @@
   "bairro": "Trobogy",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9288552,
+  "lon": -38.4067473
 }

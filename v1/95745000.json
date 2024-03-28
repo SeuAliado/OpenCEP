@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capela de Santana",
   "uf": "RS",
-  "ibge": "4304689"
+  "ibge": "4304689",
+  "lat": -29.6825408,
+  "lon": -51.3181856
 }

@@ -5,5 +5,7 @@
   "bairro": "Riviera Paulista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7046311,
+  "lon": -46.7419512
 }

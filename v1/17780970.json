@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lucélia",
   "uf": "SP",
-  "ibge": "3527405"
+  "ibge": "3527405",
+  "lat": -21.7230469,
+  "lon": -51.0228145
 }

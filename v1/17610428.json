@@ -5,5 +5,7 @@
   "bairro": "Nova Tupã",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.923554,
+  "lon": -50.492126
 }

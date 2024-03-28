@@ -5,5 +5,7 @@
   "bairro": "Distrito de Potunduva (Potunduva)",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3031707,
+  "lon": -48.5568378
 }

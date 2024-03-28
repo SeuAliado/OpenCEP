@@ -5,5 +5,7 @@
   "bairro": "Angicos de Minas",
   "localidade": "Brasília de Minas",
   "uf": "MG",
-  "ibge": "3108602"
+  "ibge": "3108602",
+  "lat": -16.0960738,
+  "lon": -44.3909498
 }

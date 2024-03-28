@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Pardo de Minas",
   "uf": "MG",
-  "ibge": "3155603"
+  "ibge": "3155603",
+  "lat": -15.6175304,
+  "lon": -42.5438383
 }

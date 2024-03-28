@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Olinda",
   "uf": "TO",
-  "ibge": "1714880"
+  "ibge": "1714880",
+  "lat": -7.6336435,
+  "lon": -48.424133
 }

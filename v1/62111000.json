@@ -5,5 +5,7 @@
   "bairro": "Aracatiaçu",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "lat": -3.6729198,
+  "lon": -40.3417747
 }

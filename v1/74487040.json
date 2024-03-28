@@ -5,5 +5,7 @@
   "bairro": "Residencial São Marcos",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.699724,
+  "lon": -49.371312
 }

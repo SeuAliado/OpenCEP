@@ -5,5 +5,7 @@
   "bairro": "Tangueira",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.9034789,
+  "lon": -38.6861038
 }

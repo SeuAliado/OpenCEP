@@ -5,5 +5,7 @@
   "bairro": "Campos Filho",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.0132517,
+  "lon": -44.0910819
 }

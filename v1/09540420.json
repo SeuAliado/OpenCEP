@@ -5,5 +5,7 @@
   "bairro": "Olímpico",
   "localidade": "São Caetano do Sul",
   "uf": "SP",
-  "ibge": "3548807"
+  "ibge": "3548807",
+  "lat": -23.6227463,
+  "lon": -46.5608751
 }

@@ -5,5 +5,7 @@
   "bairro": "Independência",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.6969336,
+  "lon": -46.5802591
 }

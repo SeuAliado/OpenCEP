@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Figueirópolis D'Oeste",
   "uf": "MT",
-  "ibge": "5103809"
+  "ibge": "5103809",
+  "lat": -15.5154793,
+  "lon": -58.6915912
 }

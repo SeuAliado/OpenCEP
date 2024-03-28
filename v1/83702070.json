@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5909524,
+  "lon": -49.4020152
 }

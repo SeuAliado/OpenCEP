@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Peri Mirim",
   "uf": "MA",
-  "ibge": "2108405"
+  "ibge": "2108405",
+  "lat": -2.5676913,
+  "lon": -44.8879576
 }

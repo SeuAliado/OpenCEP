@@ -5,5 +5,7 @@
   "bairro": "Estação",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4860975,
+  "lon": -46.3376105
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1394493,
+  "lon": -58.4506062
 }

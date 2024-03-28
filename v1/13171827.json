@@ -5,5 +5,7 @@
   "bairro": "Jardim Macarenko",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8312166,
+  "lon": -47.2788924
 }

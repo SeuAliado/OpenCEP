@@ -5,5 +5,7 @@
   "bairro": "Lagoas",
   "localidade": "Vitor Meireles",
   "uf": "SC",
-  "ibge": "4219358"
+  "ibge": "4219358",
+  "lat": -26.8805397,
+  "lon": -49.833364
 }

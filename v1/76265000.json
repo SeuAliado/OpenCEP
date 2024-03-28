@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Fé de Goiás",
   "uf": "GO",
-  "ibge": "5219258"
+  "ibge": "5219258",
+  "lat": -15.7431896,
+  "lon": -51.1376317
 }

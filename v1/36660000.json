@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Além Paraíba",
   "uf": "MG",
-  "ibge": "3101508"
+  "ibge": "3101508",
+  "lat": -21.8833835,
+  "lon": -42.6985095
 }

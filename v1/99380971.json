@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Herval",
   "uf": "RS",
-  "ibge": "4318465"
+  "ibge": "4318465",
+  "lat": -28.3891246,
+  "lon": -53.9220247
 }

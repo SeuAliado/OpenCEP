@@ -5,5 +5,7 @@
   "bairro": "Vila Sulina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4435683,
+  "lon": -46.78632
 }

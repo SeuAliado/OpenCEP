@@ -5,5 +5,7 @@
   "bairro": "Nova Tatuí",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3417245,
+  "lon": -47.8619839
 }

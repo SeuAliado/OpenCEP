@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Britânia",
   "uf": "GO",
-  "ibge": "5203807"
+  "ibge": "5203807",
+  "lat": -16.4237494,
+  "lon": -51.1155268
 }

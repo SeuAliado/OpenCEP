@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Casagrande Lopes (Dona Amália)",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1248504,
+  "lon": -47.8238751
 }

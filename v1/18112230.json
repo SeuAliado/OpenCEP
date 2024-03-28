@@ -5,5 +5,7 @@
   "bairro": "Jardim Antônio Cassillo",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.527963,
+  "lon": -47.4334059
 }

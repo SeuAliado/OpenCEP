@@ -5,5 +5,7 @@
   "bairro": "Recanto do Sossego",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5574579,
+  "lon": -42.58773
 }

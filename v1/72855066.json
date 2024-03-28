@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Mingone",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.1513363,
+  "lon": -47.9533757
 }

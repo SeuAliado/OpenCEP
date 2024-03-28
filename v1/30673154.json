@@ -5,5 +5,7 @@
   "bairro": "Águas Claras (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -20.0123247,
+  "lon": -44.0232574
 }

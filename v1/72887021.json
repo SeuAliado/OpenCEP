@@ -5,5 +5,7 @@
   "bairro": "Parque Nova Friburgo A",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "lat": -16.1005234,
+  "lon": -47.9248402
 }

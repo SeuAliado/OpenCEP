@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José de Mipibu",
   "uf": "RN",
-  "ibge": "2412203"
+  "ibge": "2412203",
+  "lat": -6.0726542,
+  "lon": -35.2397361
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora do Amparo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5716874,
+  "lon": -47.4179708
 }

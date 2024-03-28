@@ -5,5 +5,7 @@
   "bairro": "Chácara Bela Vista",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4864346,
+  "lon": -47.0123819
 }

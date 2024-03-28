@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Luzia",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4398708,
+  "lon": -49.5234687
 }

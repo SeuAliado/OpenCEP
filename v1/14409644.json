@@ -5,5 +5,7 @@
   "bairro": "Jardim Marambaia",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.4832746,
+  "lon": -47.399596
 }

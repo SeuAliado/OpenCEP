@@ -5,5 +5,7 @@
   "bairro": "Pro-Morar",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5368917,
+  "lon": -47.408091
 }

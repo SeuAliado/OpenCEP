@@ -5,5 +5,7 @@
   "bairro": "Lagoa do Banana",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.6249153,
+  "lon": -38.7483208
 }

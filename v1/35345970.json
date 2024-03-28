@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Córrego Novo",
   "uf": "MG",
-  "ibge": "3120003"
+  "ibge": "3120003",
+  "lat": -19.8320357,
+  "lon": -42.4012452
 }

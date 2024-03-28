@@ -5,5 +5,7 @@
   "bairro": "Padre Fialho",
   "localidade": "Matipó",
   "uf": "MG",
-  "ibge": "3140902"
+  "ibge": "3140902",
+  "lat": -20.3782589,
+  "lon": -42.3747549
 }

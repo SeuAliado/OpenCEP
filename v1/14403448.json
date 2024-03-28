@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Cruz",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5398066,
+  "lon": -47.3834018
 }

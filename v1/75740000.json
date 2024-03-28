@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goiandira",
   "uf": "GO",
-  "ibge": "5208509"
+  "ibge": "5208509",
+  "lat": -18.111658,
+  "lon": -48.1200592
 }

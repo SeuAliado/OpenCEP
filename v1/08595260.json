@@ -5,5 +5,7 @@
   "bairro": "Parque Dirce",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4647298,
+  "lon": -46.3051236
 }

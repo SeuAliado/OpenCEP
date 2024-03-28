@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraíso do Sul",
   "uf": "RS",
-  "ibge": "4314027"
+  "ibge": "4314027",
+  "lat": -29.6696681,
+  "lon": -53.1417776
 }

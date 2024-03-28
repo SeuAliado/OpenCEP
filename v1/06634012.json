@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5564575,
+  "lon": -46.9066922
 }

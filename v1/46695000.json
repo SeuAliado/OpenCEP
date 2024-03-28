@@ -5,5 +5,7 @@
   "bairro": "Catolés",
   "localidade": "Abaíra",
   "uf": "BA",
-  "ibge": "2900108"
+  "ibge": "2900108",
+  "lat": -13.2948876,
+  "lon": -41.8492847
 }

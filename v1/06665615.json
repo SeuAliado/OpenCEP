@@ -5,5 +5,7 @@
   "bairro": "Recanto Camargo Ribeiro",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5484072,
+  "lon": -46.9858896
 }

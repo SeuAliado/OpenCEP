@@ -5,5 +5,7 @@
   "bairro": "Residencial Buriti",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5519907,
+  "lon": -56.0347493
 }

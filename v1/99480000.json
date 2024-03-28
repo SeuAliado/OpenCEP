@@ -5,5 +5,7 @@
   "bairro": "São José do Centro",
   "localidade": "Não-Me-Toque",
   "uf": "RS",
-  "ibge": "4312658"
+  "ibge": "4312658",
+  "lat": -28.470983,
+  "lon": -52.8124461
 }

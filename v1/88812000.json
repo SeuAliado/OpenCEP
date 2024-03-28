@@ -5,5 +5,7 @@
   "bairro": "Dagostin",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.7611712,
+  "lon": -49.366973
 }

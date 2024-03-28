@@ -5,5 +5,7 @@
   "bairro": "Parque Amazonas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.8256365,
+  "lon": -46.7235824
 }

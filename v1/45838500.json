@@ -5,5 +5,7 @@
   "bairro": "Nova Alegria",
   "localidade": "Itamaraju",
   "uf": "BA",
-  "ibge": "2915601"
+  "ibge": "2915601",
+  "lat": -17.0428005,
+  "lon": -39.5357471
 }

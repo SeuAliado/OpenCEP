@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paula Cândido",
   "uf": "MG",
-  "ibge": "3148301"
+  "ibge": "3148301",
+  "lat": -20.8758605,
+  "lon": -42.9755913
 }

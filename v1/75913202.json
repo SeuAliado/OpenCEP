@@ -5,5 +5,7 @@
   "bairro": "Cidade Empresarial Nova Aliança",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.8269721,
+  "lon": -50.9650773
 }

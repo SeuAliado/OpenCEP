@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidente Wenceslau",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.888318,
+  "lon": -47.0358478
 }

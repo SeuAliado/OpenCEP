@@ -5,5 +5,7 @@
   "bairro": "Cavunge",
   "localidade": "Ipecaetá",
   "uf": "BA",
-  "ibge": "2913804"
+  "ibge": "2913804",
+  "lat": -12.3100278,
+  "lon": -39.307275
 }

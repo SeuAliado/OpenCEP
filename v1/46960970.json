@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lençóis",
   "uf": "BA",
-  "ibge": "2919306"
+  "ibge": "2919306",
+  "lat": -12.5623195,
+  "lon": -41.390559
 }

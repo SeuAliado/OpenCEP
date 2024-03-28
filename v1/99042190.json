@@ -5,5 +5,7 @@
   "bairro": "José Alexandre Zachia",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2230122,
+  "lon": -52.438557
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0905222,
+  "lon": -48.9295015
 }

@@ -5,5 +5,7 @@
   "bairro": "Quissama",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.4985771,
+  "lon": -43.1645329
 }

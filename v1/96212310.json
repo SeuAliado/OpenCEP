@@ -5,5 +5,7 @@
   "bairro": "Vila Rural",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0488462,
+  "lon": -52.1422664
 }

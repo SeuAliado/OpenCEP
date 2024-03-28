@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Esperança do Sul",
   "uf": "RS",
-  "ibge": "4313037"
+  "ibge": "4313037",
+  "lat": -29.4095407,
+  "lon": -54.8312736
 }

@@ -5,5 +5,7 @@
   "bairro": "Pineville",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4371954,
+  "lon": -49.1736127
 }

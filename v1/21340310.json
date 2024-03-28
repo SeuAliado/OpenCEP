@@ -5,5 +5,7 @@
   "bairro": "Oswaldo Cruz",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8707759,
+  "lon": -43.3499055
 }

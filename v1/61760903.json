@@ -5,5 +5,7 @@
   "bairro": "Pires Façanha",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "lat": -3.893861,
+  "lon": -38.4320269
 }

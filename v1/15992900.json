@@ -5,5 +5,7 @@
   "bairro": "Vila Mariani",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "lat": -21.5965004,
+  "lon": -48.3684503
 }

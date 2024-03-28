@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Humaitá",
   "uf": "RS",
-  "ibge": "4309704"
+  "ibge": "4309704",
+  "lat": -27.5695477,
+  "lon": -53.9700465
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tangará",
   "uf": "RN",
-  "ibge": "2414001"
+  "ibge": "2414001",
+  "lat": -6.1968905,
+  "lon": -35.7992094
 }

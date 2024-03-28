@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Datas",
   "uf": "MG",
-  "ibge": "3121001"
+  "ibge": "3121001",
+  "lat": -18.5107882,
+  "lon": -43.6567219
 }

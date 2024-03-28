@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejo dos Santos",
   "uf": "PB",
-  "ibge": "2502904"
+  "ibge": "2502904",
+  "lat": -6.3776639,
+  "lon": -37.824736
 }

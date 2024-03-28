@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passa e Fica",
   "uf": "RN",
-  "ibge": "2409100"
+  "ibge": "2409100",
+  "lat": -6.4305855,
+  "lon": -35.6444991
 }

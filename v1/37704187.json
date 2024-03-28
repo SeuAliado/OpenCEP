@@ -5,5 +5,7 @@
   "bairro": "Vila Caio Junqueira",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.8043864,
+  "lon": -46.5505964
 }

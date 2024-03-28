@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto Alegre (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5853413,
+  "lon": -46.5214262
 }

@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Flores de Goiás",
   "uf": "GO",
-  "ibge": "5207907"
+  "ibge": "5207907",
+  "lat": -14.4586078,
+  "lon": -47.0359799
 }

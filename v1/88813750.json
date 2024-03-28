@@ -5,5 +5,7 @@
   "bairro": "dos Imigrantes",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6768852,
+  "lon": -49.3203085
 }

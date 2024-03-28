@@ -5,5 +5,7 @@
   "bairro": "Setor Morada do Bosque",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6451945,
+  "lon": -49.4310293
 }

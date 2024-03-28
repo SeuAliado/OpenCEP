@@ -5,5 +5,7 @@
   "bairro": "Campinho",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1868181,
+  "lon": -47.1669352
 }

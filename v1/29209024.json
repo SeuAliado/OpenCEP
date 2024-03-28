@@ -5,5 +5,7 @@
   "bairro": "Condados",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6557337,
+  "lon": -40.4995227
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Palmares",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7951862,
+  "lon": -48.1374753
 }

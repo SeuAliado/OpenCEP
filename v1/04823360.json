@@ -5,5 +5,7 @@
   "bairro": "Jardim Nizia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7214115,
+  "lon": -46.6927646
 }

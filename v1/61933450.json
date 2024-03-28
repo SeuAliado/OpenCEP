@@ -5,5 +5,7 @@
   "bairro": "Pajuçara",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8700946,
+  "lon": -38.6274035
 }

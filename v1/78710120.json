@@ -5,5 +5,7 @@
   "bairro": "La Salle II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4576964,
+  "lon": -54.6337599
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Colinas Park",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4324965,
+  "lon": -45.9657968
 }

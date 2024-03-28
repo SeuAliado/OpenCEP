@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "General Sampaio",
   "uf": "CE",
-  "ibge": "2304608"
+  "ibge": "2304608",
+  "lat": -4.0438884,
+  "lon": -39.4543102
 }

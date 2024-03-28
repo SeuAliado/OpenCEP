@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passagem",
   "uf": "RN",
-  "ibge": "2409209"
+  "ibge": "2409209",
+  "lat": -5.182225,
+  "lon": -37.3477776
 }

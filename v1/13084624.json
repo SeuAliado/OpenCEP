@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Isabel",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8165562,
+  "lon": -47.0951756
 }

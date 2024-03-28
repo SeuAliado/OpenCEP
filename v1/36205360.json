@@ -5,5 +5,7 @@
   "bairro": "Caiçaras",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2168385,
+  "lon": -43.7505586
 }

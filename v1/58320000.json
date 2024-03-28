@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alhandra",
   "uf": "PB",
-  "ibge": "2500601"
+  "ibge": "2500601",
+  "lat": -7.4331058,
+  "lon": -34.9115335
 }

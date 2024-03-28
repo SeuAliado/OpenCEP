@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3674237,
+  "lon": -40.0504107
 }

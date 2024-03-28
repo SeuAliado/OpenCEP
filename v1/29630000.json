@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejetuba",
   "uf": "ES",
-  "ibge": "3201159"
+  "ibge": "3201159",
+  "lat": -20.149507,
+  "lon": -41.2922431
 }

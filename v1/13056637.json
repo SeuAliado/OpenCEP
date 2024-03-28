@@ -5,5 +5,7 @@
   "bairro": "Recanto do Sol II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9631787,
+  "lon": -47.1388803
 }

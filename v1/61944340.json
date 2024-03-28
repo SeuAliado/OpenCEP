@@ -5,5 +5,7 @@
   "bairro": "Novo Maranguape II",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.8742178,
+  "lon": -38.6660003
 }

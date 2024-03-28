@@ -5,5 +5,7 @@
   "bairro": "Vila Messias",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8826815,
+  "lon": -51.3710402
 }

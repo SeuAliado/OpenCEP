@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buri",
   "uf": "SP",
-  "ibge": "3508009"
+  "ibge": "3508009",
+  "lat": -23.7976381,
+  "lon": -48.6013619
 }

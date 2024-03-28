@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Belinha Ometto",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5503307,
+  "lon": -47.4482859
 }

@@ -5,5 +5,7 @@
   "bairro": "Bacaetava",
   "localidade": "Iperó",
   "uf": "SP",
-  "ibge": "3521002"
+  "ibge": "3521002",
+  "lat": -23.3861103,
+  "lon": -47.6551306
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Capela",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6726277,
+  "lon": -46.6323878
 }

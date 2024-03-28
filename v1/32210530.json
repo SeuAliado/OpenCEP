@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9771511,
+  "lon": -43.9957954
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvino",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -23.3003681,
+  "lon": -51.224548
 }

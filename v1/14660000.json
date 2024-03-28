@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sales Oliveira",
   "uf": "SP",
-  "ibge": "3544905"
+  "ibge": "3544905",
+  "lat": -20.7700879,
+  "lon": -47.8373208
 }

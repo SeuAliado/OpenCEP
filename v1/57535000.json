@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carneiros",
   "uf": "AL",
-  "ibge": "2701803"
+  "ibge": "2701803",
+  "lat": -9.4851868,
+  "lon": -37.377641
 }

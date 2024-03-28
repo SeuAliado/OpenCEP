@@ -5,5 +5,7 @@
   "bairro": "Atalaia (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.795773,
+  "lon": -44.0040738
 }

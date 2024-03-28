@@ -5,5 +5,7 @@
   "bairro": "Real Parque",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8261776,
+  "lon": -47.0998878
 }

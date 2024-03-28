@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz do Escalvado",
   "uf": "MG",
-  "ibge": "3157401"
+  "ibge": "3157401",
+  "lat": -20.2377235,
+  "lon": -42.8172902
 }

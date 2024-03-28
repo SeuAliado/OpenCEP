@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Quitéria do Maranhão",
   "uf": "MA",
-  "ibge": "2110104"
+  "ibge": "2110104",
+  "lat": -3.2826576,
+  "lon": -42.941698
 }

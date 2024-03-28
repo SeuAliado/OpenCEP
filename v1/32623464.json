@@ -5,5 +5,7 @@
   "bairro": "Marimbá",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9151529,
+  "lon": -44.2777117
 }

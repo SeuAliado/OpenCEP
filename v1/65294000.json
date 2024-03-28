@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Junco do Maranhão",
   "uf": "MA",
-  "ibge": "2105658"
+  "ibge": "2105658",
+  "lat": -1.8392412,
+  "lon": -46.0904307
 }

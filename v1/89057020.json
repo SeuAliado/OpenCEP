@@ -5,5 +5,7 @@
   "bairro": "Fortaleza",
   "localidade": "Blumenau",
   "uf": "SC",
-  "ibge": "4202404"
+  "ibge": "4202404",
+  "lat": -26.8749364,
+  "lon": -49.0620082
 }

@@ -5,5 +5,7 @@
   "bairro": "Steffen",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -14.235004,
+  "lon": -51.92528
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -21.1878487,
+  "lon": -41.8899164
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Frei Lagonegro",
   "uf": "MG",
-  "ibge": "3126950"
+  "ibge": "3126950",
+  "lat": -18.1686555,
+  "lon": -42.7673708
 }

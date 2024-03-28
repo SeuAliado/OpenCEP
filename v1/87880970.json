@@ -5,5 +5,7 @@
   "bairro": "Guairaçá",
   "localidade": "Guairaçá",
   "uf": "PR",
-  "ibge": "4108908"
+  "ibge": "4108908",
+  "lat": -22.9312072,
+  "lon": -52.6885674
 }

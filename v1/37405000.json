@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monsenhor Paulo",
   "uf": "MG",
-  "ibge": "3142601"
+  "ibge": "3142601",
+  "lat": -21.7583716,
+  "lon": -45.5394868
 }

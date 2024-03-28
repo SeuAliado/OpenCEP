@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Tereza",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6523232,
+  "lon": -46.8042219
 }

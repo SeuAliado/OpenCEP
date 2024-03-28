@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Colinas",
   "uf": "MA",
-  "ibge": "2107258"
+  "ibge": "2107258",
+  "lat": -7.1230276,
+  "lon": -46.261078
 }

@@ -5,5 +5,7 @@
   "bairro": "Volta da Charqueada",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0178924,
+  "lon": -52.8696287
 }

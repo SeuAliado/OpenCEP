@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema (Cidade Líder)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5584589,
+  "lon": -46.5000763
 }

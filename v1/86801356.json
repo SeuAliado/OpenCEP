@@ -5,5 +5,7 @@
   "bairro": "Jardim Figueira",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5493132,
+  "lon": -51.476598
 }

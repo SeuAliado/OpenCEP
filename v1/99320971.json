@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibirapuitã",
   "uf": "RS",
-  "ibge": "4309951"
+  "ibge": "4309951",
+  "lat": -28.6248243,
+  "lon": -52.5127967
 }

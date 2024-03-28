@@ -5,5 +5,7 @@
   "bairro": "Pindorama",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.916015,
+  "lon": -41.7633796
 }

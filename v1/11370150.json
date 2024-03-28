@@ -5,5 +5,7 @@
   "bairro": "Jardim Nosso Lar",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.9556465,
+  "lon": -46.3864113
 }

@@ -5,5 +5,7 @@
   "bairro": "Copacabana",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.5817672,
+  "lon": -46.5291353
 }

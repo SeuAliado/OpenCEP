@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4028465,
+  "lon": -49.2293135
 }

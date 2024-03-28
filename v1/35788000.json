@@ -5,5 +5,7 @@
   "bairro": "Fechados",
   "localidade": "Santana de Pirapama",
   "uf": "MG",
-  "ibge": "3158508"
+  "ibge": "3158508",
+  "lat": -18.789022,
+  "lon": -43.890508
 }

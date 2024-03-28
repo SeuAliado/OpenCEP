@@ -5,5 +5,7 @@
   "bairro": "Guriri Norte",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7421346,
+  "lon": -39.7519631
 }

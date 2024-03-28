@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília (Ilha de Bom Jesus dos Passos)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7608754,
+  "lon": -38.6392145
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Varginha",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5877791,
+  "lon": -45.4575015
 }

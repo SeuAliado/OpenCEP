@@ -5,5 +5,7 @@
   "bairro": "Jardim Lapena",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4951408,
+  "lon": -46.442796
 }

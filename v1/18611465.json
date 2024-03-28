@@ -5,5 +5,7 @@
   "bairro": "Jardim Cristina",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8731004,
+  "lon": -48.4346211
 }

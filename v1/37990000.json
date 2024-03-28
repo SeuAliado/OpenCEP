@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibiraci",
   "uf": "MG",
-  "ibge": "3129707"
+  "ibge": "3129707",
+  "lat": -20.4171273,
+  "lon": -47.0972424
 }

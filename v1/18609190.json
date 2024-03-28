@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Mor",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8503767,
+  "lon": -48.4556659
 }

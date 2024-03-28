@@ -5,5 +5,7 @@
   "bairro": "Tanquinho do Poço",
   "localidade": "Andorinha",
   "uf": "BA",
-  "ibge": "2901353"
+  "ibge": "2901353",
+  "lat": -10.4088269,
+  "lon": -39.9452074
 }

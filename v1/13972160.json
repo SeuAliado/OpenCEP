@@ -5,5 +5,7 @@
   "bairro": "Jardim Ivete",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4301692,
+  "lon": -46.8184933
 }

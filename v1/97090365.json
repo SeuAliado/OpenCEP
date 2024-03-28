@@ -5,5 +5,7 @@
   "bairro": "Campestre do Menino Deus",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.6647691,
+  "lon": -53.79526
 }

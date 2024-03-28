@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribas do Rio Pardo",
   "uf": "MS",
-  "ibge": "5007109"
+  "ibge": "5007109",
+  "lat": -20.6444521,
+  "lon": -53.5635637
 }

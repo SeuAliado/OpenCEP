@@ -5,5 +5,7 @@
   "bairro": "Vila Bacanga",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5500846,
+  "lon": -44.3324469
 }

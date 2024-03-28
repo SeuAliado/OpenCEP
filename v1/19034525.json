@@ -5,5 +5,7 @@
   "bairro": "Brasil Novo",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.0887841,
+  "lon": -51.3799252
 }

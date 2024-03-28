@@ -5,5 +5,7 @@
   "bairro": "Jardim Altos do Itavuvu",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4633977,
+  "lon": -47.4833159
 }

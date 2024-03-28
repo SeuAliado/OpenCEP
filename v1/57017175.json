@@ -5,5 +5,7 @@
   "bairro": "Levada",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6564723,
+  "lon": -35.7514802
 }

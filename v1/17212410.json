@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosa Branca",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3098115,
+  "lon": -48.5447737
 }

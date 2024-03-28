@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tesouro",
   "uf": "MT",
-  "ibge": "5108105"
+  "ibge": "5108105",
+  "lat": -16.077647,
+  "lon": -53.5553
 }

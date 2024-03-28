@@ -5,5 +5,7 @@
   "bairro": "Nova São Luiz",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4718367,
+  "lon": -44.064567
 }

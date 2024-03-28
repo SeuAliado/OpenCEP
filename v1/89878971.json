@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Flor do Sertão",
   "uf": "SC",
-  "ibge": "4205357"
+  "ibge": "4205357",
+  "lat": -26.7776965,
+  "lon": -53.3505955
 }

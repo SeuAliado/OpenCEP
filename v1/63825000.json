@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "lat": -5.3479714,
+  "lon": -39.5169272
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pinhal",
   "uf": "RS",
-  "ibge": "4314456"
+  "ibge": "4314456",
+  "lat": -27.5085074,
+  "lon": -53.2087004
 }

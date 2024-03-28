@@ -5,5 +5,7 @@
   "bairro": "Jardim Carlota",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8969388,
+  "lon": -45.3680106
 }

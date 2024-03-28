@@ -5,5 +5,7 @@
   "bairro": "Nova Descoberta",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.794154,
+  "lon": -35.1873713
 }

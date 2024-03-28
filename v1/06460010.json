@@ -5,5 +5,7 @@
   "bairro": "Tamboré",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4925524,
+  "lon": -46.8353069
 }

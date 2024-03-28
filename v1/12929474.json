@@ -5,5 +5,7 @@
   "bairro": "Centro Industrial Rafael Diniz",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9530312,
+  "lon": -46.5175198
 }

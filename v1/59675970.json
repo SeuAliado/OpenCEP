@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Grossos",
   "uf": "RN",
-  "ibge": "2404408"
+  "ibge": "2404408",
+  "lat": -4.984506,
+  "lon": -37.151129
 }

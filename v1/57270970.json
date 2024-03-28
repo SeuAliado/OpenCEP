@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Junqueiro",
   "uf": "AL",
-  "ibge": "2704005"
+  "ibge": "2704005",
+  "lat": -9.8962659,
+  "lon": -36.4702409
 }

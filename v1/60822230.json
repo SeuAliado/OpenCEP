@@ -5,5 +5,7 @@
   "bairro": "Cambeba",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8022522,
+  "lon": -38.4860963
 }

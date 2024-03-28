@@ -5,5 +5,7 @@
   "bairro": "Km 25",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3652965,
+  "lon": -40.5383524
 }

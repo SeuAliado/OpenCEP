@@ -5,5 +5,7 @@
   "bairro": "Mãe Luiza",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.7294438,
+  "lon": -35.2328013
 }

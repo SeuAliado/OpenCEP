@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Corações",
   "uf": "MG",
-  "ibge": "3169307"
+  "ibge": "3169307",
+  "lat": -21.6987523,
+  "lon": -45.2572291
 }

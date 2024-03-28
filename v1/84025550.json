@@ -5,5 +5,7 @@
   "bairro": "Uvaranas",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "lat": -25.0948278,
+  "lon": -50.1303417
 }

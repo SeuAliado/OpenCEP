@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Espírito Santo do Dourado",
   "uf": "MG",
-  "ibge": "3124401"
+  "ibge": "3124401",
+  "lat": -22.0478729,
+  "lon": -45.9509784
 }

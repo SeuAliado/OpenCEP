@@ -5,5 +5,7 @@
   "bairro": "Outeiro das Pedras",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7527801,
+  "lon": -42.8719424
 }

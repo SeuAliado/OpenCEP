@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antônio Almeida",
   "uf": "PI",
-  "ibge": "2200806"
+  "ibge": "2200806",
+  "lat": -7.2295427,
+  "lon": -44.2099791
 }

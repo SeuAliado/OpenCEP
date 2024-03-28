@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmeirópolis",
   "uf": "TO",
-  "ibge": "1715754"
+  "ibge": "1715754",
+  "lat": -13.0142607,
+  "lon": -48.3190276
 }

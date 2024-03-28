@@ -5,5 +5,7 @@
   "bairro": "Vila Albertina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4582206,
+  "lon": -46.614427
 }

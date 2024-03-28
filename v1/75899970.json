@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "São Simão",
   "uf": "GO",
-  "ibge": "5220405"
+  "ibge": "5220405",
+  "lat": -16.3297234,
+  "lon": -48.9793678
 }

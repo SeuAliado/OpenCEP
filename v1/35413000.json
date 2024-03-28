@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Leite",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "lat": -20.3640906,
+  "lon": -43.7115733
 }

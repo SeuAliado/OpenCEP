@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Castilho",
   "uf": "SP",
-  "ibge": "3532868"
+  "ibge": "3532868",
+  "lat": -20.7619611,
+  "lon": -50.3482086
 }

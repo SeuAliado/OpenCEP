@@ -5,5 +5,7 @@
   "bairro": "Vila Mafalda",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6342743,
+  "lon": -46.7935767
 }

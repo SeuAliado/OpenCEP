@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Inês",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.4971064,
+  "lon": -46.2906672
 }

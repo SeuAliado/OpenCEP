@@ -5,5 +5,7 @@
   "bairro": "Jatobá (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.98946,
+  "lon": -44.0556193
 }

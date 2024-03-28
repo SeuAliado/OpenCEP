@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Wanderley",
   "uf": "BA",
-  "ibge": "2933455"
+  "ibge": "2933455",
+  "lat": -11.868941,
+  "lon": -43.8673222
 }

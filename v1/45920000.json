@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Viçosa",
   "uf": "BA",
-  "ibge": "2923001"
+  "ibge": "2923001",
+  "lat": -17.9008502,
+  "lon": -39.371702
 }

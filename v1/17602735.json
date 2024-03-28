@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Cônego Eduardo Rebouças de Carvalho",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "lat": -21.9280601,
+  "lon": -50.49741
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Sul",
   "uf": "RS",
-  "ibge": "4318614"
+  "ibge": "4318614",
+  "lat": -29.538984,
+  "lon": -51.48365
 }

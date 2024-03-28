@@ -5,5 +5,7 @@
   "bairro": "Brasília",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7541033,
+  "lon": -36.6433676
 }

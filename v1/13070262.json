@@ -5,5 +5,7 @@
   "bairro": "Vila Rossi Borghi e Siqueira",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8960545,
+  "lon": -47.0741716
 }

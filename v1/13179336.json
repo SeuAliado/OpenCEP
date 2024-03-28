@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso I (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8177675,
+  "lon": -47.1661261
 }

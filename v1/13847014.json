@@ -5,5 +5,7 @@
   "bairro": "Capela",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3589283,
+  "lon": -46.9449995
 }

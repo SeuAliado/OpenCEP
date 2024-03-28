@@ -5,5 +5,7 @@
   "bairro": "Vila Rio de Janeiro",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.436474,
+  "lon": -46.5367292
 }

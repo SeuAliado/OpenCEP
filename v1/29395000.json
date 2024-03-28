@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibatiba",
   "uf": "ES",
-  "ibge": "3202454"
+  "ibge": "3202454",
+  "lat": -20.2351644,
+  "lon": -41.5090668
 }

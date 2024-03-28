@@ -5,5 +5,7 @@
   "bairro": "Quinze de Novembro",
   "localidade": "Giruá",
   "uf": "RS",
-  "ibge": "4309001"
+  "ibge": "4309001",
+  "lat": -28.0501868,
+  "lon": -54.3604074
 }

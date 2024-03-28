@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Monsenhor Rossi",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5492629,
+  "lon": -47.4215107
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Francisco Dantas",
   "uf": "RN",
-  "ibge": "2403905"
+  "ibge": "2403905",
+  "lat": -6.0894156,
+  "lon": -38.1234555
 }

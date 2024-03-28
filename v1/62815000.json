@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fortim",
   "uf": "CE",
-  "ibge": "2304459"
+  "ibge": "2304459",
+  "lat": -4.4787776,
+  "lon": -37.8724519
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dois Irmãos das Missões",
   "uf": "RS",
-  "ibge": "4306429"
+  "ibge": "4306429",
+  "lat": -27.6625877,
+  "lon": -53.5309316
 }

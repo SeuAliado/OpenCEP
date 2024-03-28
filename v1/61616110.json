@@ -5,5 +5,7 @@
   "bairro": "Genipabu",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.7270925,
+  "lon": -38.7176298
 }

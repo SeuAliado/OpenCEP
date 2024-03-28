@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caseiros",
   "uf": "RS",
-  "ibge": "4304952"
+  "ibge": "4304952",
+  "lat": -28.2506245,
+  "lon": -51.70451
 }

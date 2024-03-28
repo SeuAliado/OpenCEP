@@ -5,5 +5,7 @@
   "bairro": "Rio Azul",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "lat": -27.4700153,
+  "lon": -52.332047
 }

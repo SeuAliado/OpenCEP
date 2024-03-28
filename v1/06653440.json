@@ -5,5 +5,7 @@
   "bairro": "Jardim Julieta",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.547917,
+  "lon": -46.9251276
 }

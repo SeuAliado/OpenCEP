@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bequimão",
   "uf": "MA",
-  "ibge": "2101905"
+  "ibge": "2101905",
+  "lat": -2.4468702,
+  "lon": -44.7854028
 }

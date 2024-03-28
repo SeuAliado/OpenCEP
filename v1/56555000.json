@@ -5,5 +5,7 @@
   "bairro": "Negras",
   "localidade": "Itaíba",
   "uf": "PE",
-  "ibge": "2607505"
+  "ibge": "2607505",
+  "lat": -8.9781239,
+  "lon": -37.4517453
 }

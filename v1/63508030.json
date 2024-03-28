@@ -5,5 +5,7 @@
   "bairro": "Areias I",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3521687,
+  "lon": -39.3038032
 }

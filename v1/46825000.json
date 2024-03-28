@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lajedinho",
   "uf": "BA",
-  "ibge": "2919009"
+  "ibge": "2919009",
+  "lat": -12.3533301,
+  "lon": -40.9051242
 }

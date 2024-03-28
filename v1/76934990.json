@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Seringueiras",
   "uf": "RO",
-  "ibge": "1101500"
+  "ibge": "1101500",
+  "lat": -9.9137223,
+  "lon": -63.0424505
 }

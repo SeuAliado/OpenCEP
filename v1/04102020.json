@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Mariana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5931794,
+  "lon": -46.6310325
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Montividiu do Norte",
   "uf": "GO",
-  "ibge": "5213772"
+  "ibge": "5213772",
+  "lat": -13.10468,
+  "lon": -48.60602
 }

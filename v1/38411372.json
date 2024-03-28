@@ -5,5 +5,7 @@
   "bairro": "Jardim Karaíba",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9489169,
+  "lon": -48.2582855
 }

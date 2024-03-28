@@ -5,5 +5,7 @@
   "bairro": "Parque das Indústrias (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8165161,
+  "lon": -47.2007769
 }

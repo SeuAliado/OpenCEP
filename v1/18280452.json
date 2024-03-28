@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3288219,
+  "lon": -47.8736174
 }

@@ -5,5 +5,7 @@
   "bairro": "Peixe",
   "localidade": "Campo Alegre de Lourdes",
   "uf": "BA",
-  "ibge": "2905909"
+  "ibge": "2905909",
+  "lat": -9.4692955,
+  "lon": -43.4088205
 }

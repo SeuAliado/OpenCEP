@@ -5,5 +5,7 @@
   "bairro": "Gaspar Grande",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "lat": -26.9373049,
+  "lon": -48.9773583
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Flores",
   "localidade": "Flores de Goiás",
   "uf": "GO",
-  "ibge": "5207907"
+  "ibge": "5207907",
+  "lat": -14.4563676,
+  "lon": -47.0427036
 }

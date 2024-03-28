@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Eugênio de Castro",
   "uf": "RS",
-  "ibge": "4307831"
+  "ibge": "4307831",
+  "lat": -28.5319519,
+  "lon": -54.1511176
 }

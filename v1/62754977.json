@@ -5,5 +5,7 @@
   "bairro": "Pedra Branca",
   "localidade": "Pedra Branca",
   "uf": "CE",
-  "ibge": "2310506"
+  "ibge": "2310506",
+  "lat": -4.3726759,
+  "lon": -38.8095129
 }

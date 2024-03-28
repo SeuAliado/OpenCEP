@@ -5,5 +5,7 @@
   "bairro": "Logradouro dos Leões",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "lat": -9.1735405,
+  "lon": -36.6940015
 }

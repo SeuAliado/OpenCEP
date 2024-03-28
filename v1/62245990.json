@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "lat": -4.5013464,
+  "lon": -40.8175401
 }

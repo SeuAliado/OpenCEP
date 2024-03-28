@@ -5,5 +5,7 @@
   "bairro": "Jardim Florença",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5806787,
+  "lon": -47.4186332
 }

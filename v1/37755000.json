@@ -5,5 +5,7 @@
   "bairro": "Douradinho",
   "localidade": "Machado",
   "uf": "MG",
-  "ibge": "3139003"
+  "ibge": "3139003",
+  "lat": -21.748578,
+  "lon": -45.7593056
 }

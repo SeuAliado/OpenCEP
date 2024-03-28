@@ -5,5 +5,7 @@
   "bairro": "Três Vendas",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6465532,
+  "lon": -52.2941551
 }

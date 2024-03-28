@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaborandi",
   "uf": "BA",
-  "ibge": "2917359"
+  "ibge": "2917359",
+  "lat": -13.6301814,
+  "lon": -44.4605651
 }

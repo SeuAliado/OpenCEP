@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Doutor Fernando Mauro Pires Rocha",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1796966,
+  "lon": -49.9616546
 }

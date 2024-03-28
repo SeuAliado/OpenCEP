@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Diamante",
   "uf": "PB",
-  "ibge": "2505600"
+  "ibge": "2505600",
+  "lat": -7.429706,
+  "lon": -38.29549
 }

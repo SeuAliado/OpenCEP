@@ -5,5 +5,7 @@
   "bairro": "Jardim São João (São Rafael)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5937774,
+  "lon": -46.4435726
 }

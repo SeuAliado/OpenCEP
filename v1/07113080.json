@@ -5,5 +5,7 @@
   "bairro": "Jardim Gabriela",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4649601,
+  "lon": -46.5167381
 }

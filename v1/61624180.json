@@ -5,5 +5,7 @@
   "bairro": "Icaraí",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.7034671,
+  "lon": -38.670948
 }

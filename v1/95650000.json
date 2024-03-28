@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igrejinha",
   "uf": "RS",
-  "ibge": "4310108"
+  "ibge": "4310108",
+  "lat": -29.5700426,
+  "lon": -50.7927755
 }

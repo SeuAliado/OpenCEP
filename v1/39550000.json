@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taiobeiras",
   "uf": "MG",
-  "ibge": "3168002"
+  "ibge": "3168002",
+  "lat": -15.8142935,
+  "lon": -42.227378
 }

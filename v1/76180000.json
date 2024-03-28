@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nazário",
   "uf": "GO",
-  "ibge": "5214408"
+  "ibge": "5214408",
+  "lat": -16.5812194,
+  "lon": -49.8821237
 }

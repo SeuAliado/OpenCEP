@@ -5,5 +5,7 @@
   "bairro": "Parque Independência",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8704172,
+  "lon": -43.7693231
 }

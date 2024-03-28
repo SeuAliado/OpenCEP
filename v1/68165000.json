@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rurópolis",
   "uf": "PA",
-  "ibge": "1506195"
+  "ibge": "1506195",
+  "lat": -4.3016791,
+  "lon": -55.3143491
 }

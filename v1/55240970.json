@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poção",
   "uf": "PE",
-  "ibge": "2611200"
+  "ibge": "2611200",
+  "lat": -8.1859741,
+  "lon": -36.7036592
 }

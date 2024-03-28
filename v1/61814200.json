@@ -5,5 +5,7 @@
   "bairro": "Senador Carlos Jereissati",
   "localidade": "Pacatuba",
   "uf": "CE",
-  "ibge": "2309706"
+  "ibge": "2309706",
+  "lat": -3.8903369,
+  "lon": -38.6006921
 }

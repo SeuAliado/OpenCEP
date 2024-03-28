@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Banzaê",
   "uf": "BA",
-  "ibge": "2902658"
+  "ibge": "2902658",
+  "lat": -10.5811789,
+  "lon": -38.6126757
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Serra Dourada - 3ª Etapa",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.828262,
+  "lon": -49.2599782
 }

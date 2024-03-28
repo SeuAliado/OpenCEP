@@ -5,5 +5,7 @@
   "bairro": "Aranha",
   "localidade": "Brumadinho",
   "uf": "MG",
-  "ibge": "3109006"
+  "ibge": "3109006",
+  "lat": -20.1470133,
+  "lon": -44.2092192
 }

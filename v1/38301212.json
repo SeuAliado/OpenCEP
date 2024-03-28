@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9591067,
+  "lon": -49.4504689
 }

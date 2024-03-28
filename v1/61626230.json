@@ -5,5 +5,7 @@
   "bairro": "Pacheco",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.687023,
+  "lon": -38.6502295
 }

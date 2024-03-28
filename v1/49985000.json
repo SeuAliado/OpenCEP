@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do São Francisco",
   "uf": "SE",
-  "ibge": "2806404"
+  "ibge": "2806404",
+  "lat": -10.2926646,
+  "lon": -36.610871
 }

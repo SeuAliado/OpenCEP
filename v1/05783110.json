@@ -5,5 +5,7 @@
   "bairro": "Parque Flamengo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6442466,
+  "lon": -46.7702099
 }

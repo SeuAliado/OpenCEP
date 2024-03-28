@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bandeirante",
   "uf": "SC",
-  "ibge": "4202081"
+  "ibge": "4202081",
+  "lat": -21.7624878,
+  "lon": -43.350866
 }

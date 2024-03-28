@@ -5,5 +5,7 @@
   "bairro": "Conjunto Jacaraípe",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1293775,
+  "lon": -40.2133588
 }

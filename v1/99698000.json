@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Engenho Velho",
   "uf": "RS",
-  "ibge": "4306924"
+  "ibge": "4306924",
+  "lat": -27.7089322,
+  "lon": -52.913022
 }

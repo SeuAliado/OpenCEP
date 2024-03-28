@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa dos Patos",
   "uf": "MG",
-  "ibge": "3137304"
+  "ibge": "3137304",
+  "lat": -16.9813388,
+  "lon": -44.5790315
 }

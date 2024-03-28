@@ -5,5 +5,7 @@
   "bairro": "Vila Dulce",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1388955,
+  "lon": -44.9936429
 }

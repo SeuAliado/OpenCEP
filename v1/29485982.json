@@ -5,5 +5,7 @@
   "bairro": "Camará",
   "localidade": "Muqui",
   "uf": "ES",
-  "ibge": "3203809"
+  "ibge": "3203809",
+  "lat": -20.8965584,
+  "lon": -41.2681109
 }

@@ -5,5 +5,7 @@
   "bairro": "Porto Góes",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1996654,
+  "lon": -47.2790426
 }

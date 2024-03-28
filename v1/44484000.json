@@ -5,5 +5,7 @@
   "bairro": "Jacuruna",
   "localidade": "Jaguaripe",
   "uf": "BA",
-  "ibge": "2917805"
+  "ibge": "2917805",
+  "lat": -13.0441386,
+  "lon": -38.8505386
 }

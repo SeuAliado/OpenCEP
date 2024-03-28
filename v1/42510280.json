@@ -5,5 +5,7 @@
   "bairro": "Pontinha (Ilha de Bom Jesus dos Passos)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7610114,
+  "lon": -38.6384538
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Carbone",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4920593,
+  "lon": -46.6803227
 }

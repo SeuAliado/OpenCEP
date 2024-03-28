@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nossa Senhora de Nazaré",
   "uf": "PI",
-  "ibge": "2206753"
+  "ibge": "2206753",
+  "lat": -4.6465847,
+  "lon": -42.1770246
 }

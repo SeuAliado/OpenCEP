@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lourdes",
   "uf": "SP",
-  "ibge": "3527256"
+  "ibge": "3527256",
+  "lat": -20.9658542,
+  "lon": -50.2266327
 }

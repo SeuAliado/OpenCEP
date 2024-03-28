@@ -5,5 +5,7 @@
   "bairro": "Curicica",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9538636,
+  "lon": -43.3781253
 }

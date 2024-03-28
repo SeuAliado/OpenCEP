@@ -5,5 +5,7 @@
   "bairro": "Jardim Bélgica",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6603091,
+  "lon": -46.6995283
 }

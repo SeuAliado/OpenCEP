@@ -5,5 +5,7 @@
   "bairro": "Xarqueada",
   "localidade": "Putinga",
   "uf": "RS",
-  "ibge": "4315206"
+  "ibge": "4315206",
+  "lat": -29.0140384,
+  "lon": -52.0835684
 }

@@ -5,5 +5,7 @@
   "bairro": "Barro Vermelho",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7414051,
+  "lon": -43.3768737
 }

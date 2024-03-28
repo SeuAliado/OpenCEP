@@ -5,5 +5,7 @@
   "bairro": "Santa Felicidade",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4110217,
+  "lon": -49.3332606
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Benedito",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.019291,
+  "lon": -45.577188
 }

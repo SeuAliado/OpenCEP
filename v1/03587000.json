@@ -5,5 +5,7 @@
   "bairro": "Cidade Líder",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5553728,
+  "lon": -46.487594
 }

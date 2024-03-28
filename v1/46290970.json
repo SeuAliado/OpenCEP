@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mortugaba",
   "uf": "BA",
-  "ibge": "2921807"
+  "ibge": "2921807",
+  "lat": -15.0231857,
+  "lon": -42.3705226
 }

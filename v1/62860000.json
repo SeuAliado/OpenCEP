@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pindoretama",
   "uf": "CE",
-  "ibge": "2310852"
+  "ibge": "2310852",
+  "lat": -4.0304584,
+  "lon": -38.3036892
 }

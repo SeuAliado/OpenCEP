@@ -5,5 +5,7 @@
   "bairro": "Vila Narcisa",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "lat": -22.4903057,
+  "lon": -48.5515554
 }

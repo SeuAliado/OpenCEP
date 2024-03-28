@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Edison Bastos Gasparini",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2803773,
+  "lon": -49.0838732
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2440634,
+  "lon": -35.9004949
 }

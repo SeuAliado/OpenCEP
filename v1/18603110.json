@@ -5,5 +5,7 @@
   "bairro": "Recanto Azul",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8821761,
+  "lon": -48.46003
 }

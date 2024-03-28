@@ -5,5 +5,7 @@
   "bairro": "Capão Redondo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6678868,
+  "lon": -46.7705654
 }

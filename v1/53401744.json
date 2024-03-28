@@ -5,5 +5,7 @@
   "bairro": "Nobre",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9706518,
+  "lon": -34.8789875
 }

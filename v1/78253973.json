@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vale de São Domingos",
   "uf": "MT",
-  "ibge": "5108352"
+  "ibge": "5108352",
+  "lat": -15.2788042,
+  "lon": -59.1180378
 }

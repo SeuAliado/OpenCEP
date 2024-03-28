@@ -5,5 +5,7 @@
   "bairro": "Loteamento Chico Mendes",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3225508,
+  "lon": -49.2686001
 }

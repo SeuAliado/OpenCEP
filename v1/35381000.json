@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus de Cardosos",
   "localidade": "Urucânia",
   "uf": "MG",
-  "ibge": "3170503"
+  "ibge": "3170503",
+  "lat": -20.3449622,
+  "lon": -42.7745223
 }

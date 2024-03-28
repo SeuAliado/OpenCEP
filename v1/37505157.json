@@ -5,5 +5,7 @@
   "bairro": "Vila Rubens",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4184143,
+  "lon": -45.474943
 }

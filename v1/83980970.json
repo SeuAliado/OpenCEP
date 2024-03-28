@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antônio Olinto",
   "uf": "PR",
-  "ibge": "4101309"
+  "ibge": "4101309",
+  "lat": -25.9830503,
+  "lon": -50.197652
 }

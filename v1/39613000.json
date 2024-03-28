@@ -5,5 +5,7 @@
   "bairro": "Jacaré",
   "localidade": "Itinga",
   "uf": "MG",
-  "ibge": "3134004"
+  "ibge": "3134004",
+  "lat": -16.4701735,
+  "lon": -41.9891904
 }

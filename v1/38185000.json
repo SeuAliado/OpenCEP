@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tapira",
   "uf": "MG",
-  "ibge": "3168101"
+  "ibge": "3168101",
+  "lat": -19.9250374,
+  "lon": -46.8233952
 }

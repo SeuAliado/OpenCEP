@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vale do Sol",
   "uf": "RS",
-  "ibge": "4322533"
+  "ibge": "4322533",
+  "lat": -29.6044536,
+  "lon": -52.6868467
 }

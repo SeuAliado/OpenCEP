@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim Marajoara",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.7009725,
+  "lon": -43.626324
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Inácio do Piauí",
   "uf": "PI",
-  "ibge": "2209500"
+  "ibge": "2209500",
+  "lat": -7.4879048,
+  "lon": -42.0385904
 }

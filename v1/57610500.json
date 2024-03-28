@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.4031748,
+  "lon": -36.6308587
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sapucaia",
   "uf": "PA",
-  "ibge": "1507755"
+  "ibge": "1507755",
+  "lat": -6.9343959,
+  "lon": -49.6917429
 }

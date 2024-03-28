@@ -5,5 +5,7 @@
   "bairro": "Jardim Castanheira",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.1840292,
+  "lon": -45.7923275
 }

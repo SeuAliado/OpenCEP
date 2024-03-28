@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2541067,
+  "lon": -52.4284781
 }

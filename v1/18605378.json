@@ -5,5 +5,7 @@
   "bairro": "Jardim Palos Verdes",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.90802,
+  "lon": -48.439606
 }

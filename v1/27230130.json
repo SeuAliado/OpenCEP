@@ -5,5 +5,7 @@
   "bairro": "Nova Primavera",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4874549,
+  "lon": -44.0547261
 }

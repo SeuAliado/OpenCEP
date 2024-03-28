@@ -5,5 +5,7 @@
   "bairro": "Jardim Josane",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4487286,
+  "lon": -47.3723252
 }

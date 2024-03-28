@@ -5,5 +5,7 @@
   "bairro": "Vila Popular",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "lat": -8.0147776,
+  "lon": -34.8645471
 }

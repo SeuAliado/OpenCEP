@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Córrego Longe",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7481938,
+  "lon": -53.2761833
 }

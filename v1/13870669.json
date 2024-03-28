@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9873398,
+  "lon": -46.7910497
 }

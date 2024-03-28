@@ -5,5 +5,7 @@
   "bairro": "Chácaras Granja São Francisco",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3336646,
+  "lon": -47.3562404
 }

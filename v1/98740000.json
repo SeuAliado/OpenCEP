@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Augusto Pestana",
   "uf": "RS",
-  "ibge": "4301503"
+  "ibge": "4301503",
+  "lat": -28.5159341,
+  "lon": -53.9925304
 }

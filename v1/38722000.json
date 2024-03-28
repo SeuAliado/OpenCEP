@@ -5,5 +5,7 @@
   "bairro": "Monjolinho de Minas",
   "localidade": "Lagoa Formosa",
   "uf": "MG",
-  "ibge": "3137502"
+  "ibge": "3137502",
+  "lat": -18.7708358,
+  "lon": -46.2473244
 }

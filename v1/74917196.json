@@ -5,5 +5,7 @@
   "bairro": "Vila Cruzeiro do Sul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7614976,
+  "lon": -49.2751446
 }

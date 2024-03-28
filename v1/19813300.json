@@ -5,5 +5,7 @@
   "bairro": "Jardim São Nicolau",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6420889,
+  "lon": -50.4059663
 }

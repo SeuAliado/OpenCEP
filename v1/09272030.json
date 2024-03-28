@@ -5,5 +5,7 @@
   "bairro": "Tamanduateí 8",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -27.0255662,
+  "lon": -48.6683989
 }

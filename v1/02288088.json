@@ -5,5 +5,7 @@
   "bairro": "Vila Ayrosa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4331986,
+  "lon": -46.5706775
 }

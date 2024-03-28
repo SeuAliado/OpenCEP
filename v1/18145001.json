@@ -5,5 +5,7 @@
   "bairro": "Centro (Canguera)",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.6005911,
+  "lon": -47.1613381
 }

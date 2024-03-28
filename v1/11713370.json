@@ -5,5 +5,7 @@
   "bairro": "Esmeralda",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.0118937,
+  "lon": -46.4695169
 }

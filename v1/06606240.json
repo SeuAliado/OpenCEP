@@ -5,5 +5,7 @@
   "bairro": "Vila Eugênia",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5346153,
+  "lon": -46.9077438
 }

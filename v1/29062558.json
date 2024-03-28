@@ -5,5 +5,7 @@
   "bairro": "Morada de Camburi",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.269899,
+  "lon": -40.2963326
 }

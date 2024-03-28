@@ -5,5 +5,7 @@
   "bairro": "Loteamento Novo Horizonte",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9372319,
+  "lon": -67.8302254
 }

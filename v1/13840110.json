@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidente",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3630845,
+  "lon": -46.9371291
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria I",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3679834,
+  "lon": -46.9302985
 }

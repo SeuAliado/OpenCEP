@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Água Azul do Norte",
   "uf": "PA",
-  "ibge": "1500347"
+  "ibge": "1500347",
+  "lat": -6.8034777,
+  "lon": -50.4863226
 }

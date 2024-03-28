@@ -5,5 +5,7 @@
   "bairro": "Braz de Pina",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8350692,
+  "lon": -43.3016853
 }

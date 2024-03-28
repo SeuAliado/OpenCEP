@@ -5,5 +5,7 @@
   "bairro": "Fernão Dias",
   "localidade": "Brasília de Minas",
   "uf": "MG",
-  "ibge": "3108602"
+  "ibge": "3108602",
+  "lat": -19.5299755,
+  "lon": -43.9635172
 }

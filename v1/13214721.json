@@ -5,5 +5,7 @@
   "bairro": "CECAP",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1452559,
+  "lon": -46.9288488
 }

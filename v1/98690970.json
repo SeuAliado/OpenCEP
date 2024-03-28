@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Martinho",
   "uf": "RS",
-  "ibge": "4319109"
+  "ibge": "4319109",
+  "lat": -27.7092324,
+  "lon": -53.9602113
 }

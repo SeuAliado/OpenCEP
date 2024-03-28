@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.9021443,
+  "lon": -43.8144856
 }

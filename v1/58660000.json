@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juazeirinho",
   "uf": "PB",
-  "ibge": "2507705"
+  "ibge": "2507705",
+  "lat": -7.0693466,
+  "lon": -36.5794208
 }

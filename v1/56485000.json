@@ -5,5 +5,7 @@
   "bairro": "Caraibeiras",
   "localidade": "Tacaratu",
   "uf": "PE",
-  "ibge": "2614808"
+  "ibge": "2614808",
+  "lat": -9.1065389,
+  "lon": -38.0824979
 }

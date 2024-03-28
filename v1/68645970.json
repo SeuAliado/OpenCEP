@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bonito",
   "uf": "PA",
-  "ibge": "1501600"
+  "ibge": "1501600",
+  "lat": -1.3626121,
+  "lon": -47.3077029
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Gabriela (Manilha)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.763566,
+  "lon": -42.9179412
 }

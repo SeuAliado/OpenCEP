@@ -5,5 +5,7 @@
   "bairro": "Pinheirinho",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.2497719,
+  "lon": -52.6819511
 }

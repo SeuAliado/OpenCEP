@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Boa Vista do Cadeado",
   "uf": "RS",
-  "ibge": "4302220"
+  "ibge": "4302220",
+  "lat": -28.6073001,
+  "lon": -53.8152871
 }

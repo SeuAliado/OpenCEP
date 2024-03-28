@@ -5,5 +5,7 @@
   "bairro": "São Lucas",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.0885672,
+  "lon": -51.0639641
 }

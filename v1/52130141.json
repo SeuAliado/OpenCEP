@@ -5,5 +5,7 @@
   "bairro": "Porto da Madeira",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.0108313,
+  "lon": -34.8897974
 }

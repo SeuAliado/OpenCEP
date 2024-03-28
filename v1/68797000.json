@@ -5,5 +5,7 @@
   "bairro": "Benfica",
   "localidade": "Benevides",
   "uf": "PA",
-  "ibge": "1501501"
+  "ibge": "1501501",
+  "lat": -1.3043507,
+  "lon": -48.3055434
 }

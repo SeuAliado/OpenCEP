@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Socorro do Piauí",
   "uf": "PI",
-  "ibge": "2210904"
+  "ibge": "2210904",
+  "lat": -7.9127366,
+  "lon": -42.4331624
 }

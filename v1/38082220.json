@@ -5,5 +5,7 @@
   "bairro": "Jardim Elza Amuí II",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7398274,
+  "lon": -47.8938384
 }

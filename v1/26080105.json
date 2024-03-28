@@ -5,5 +5,7 @@
   "bairro": "Tinguazinho",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7276264,
+  "lon": -43.504314
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0458811,
+  "lon": -52.9035765
 }

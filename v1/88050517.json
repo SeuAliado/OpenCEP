@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio de Lisboa",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.4925277,
+  "lon": -48.5158158
 }

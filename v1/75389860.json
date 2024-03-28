@@ -5,5 +5,7 @@
   "bairro": "Setor São Sebastião",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6802519,
+  "lon": -49.4746046
 }

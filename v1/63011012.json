@@ -5,5 +5,7 @@
   "bairro": "Salgadinho",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "lat": -7.193663,
+  "lon": -39.3257709
 }

@@ -5,5 +5,7 @@
   "bairro": "Anita Garibaldi",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4104549,
+  "lon": -46.4173612
 }

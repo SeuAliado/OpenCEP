@@ -5,5 +5,7 @@
   "bairro": "Jardim São Judas Tadeu",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "lat": -23.6264145,
+  "lon": -46.8056284
 }

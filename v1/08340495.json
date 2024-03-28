@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Carrão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6210979,
+  "lon": -46.4700156
 }

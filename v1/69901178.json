@@ -5,5 +5,7 @@
   "bairro": "Adalberto Aragão",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9593627,
+  "lon": -67.7887323
 }

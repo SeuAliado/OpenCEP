@@ -5,5 +5,7 @@
   "bairro": "Jardim Lenize",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4035638,
+  "lon": -46.456311
 }

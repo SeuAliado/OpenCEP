@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rita D'Oeste",
   "uf": "SP",
-  "ibge": "3547403"
+  "ibge": "3547403",
+  "lat": -20.1430872,
+  "lon": -50.8312673
 }

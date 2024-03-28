@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8773174,
+  "lon": -38.6259927
 }

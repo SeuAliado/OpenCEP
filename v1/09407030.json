@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "lat": -23.7047319,
+  "lon": -46.3946084
 }

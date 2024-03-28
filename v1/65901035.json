@@ -5,5 +5,7 @@
   "bairro": "São José do Egito",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5321384,
+  "lon": -47.4817087
 }

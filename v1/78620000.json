@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "General Carneiro",
   "uf": "MT",
-  "ibge": "5103908"
+  "ibge": "5103908",
+  "lat": -15.7098868,
+  "lon": -52.7578469
 }

@@ -5,5 +5,7 @@
   "bairro": "Lapa de Baixo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5160095,
+  "lon": -46.7020206
 }

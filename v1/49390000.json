@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salgado",
   "uf": "SE",
-  "ibge": "2806206"
+  "ibge": "2806206",
+  "lat": -11.0292691,
+  "lon": -37.4807256
 }

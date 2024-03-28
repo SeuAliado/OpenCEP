@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Terra Santa",
   "uf": "PA",
-  "ibge": "1507979"
+  "ibge": "1507979",
+  "lat": -2.1108147,
+  "lon": -56.4958823
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coromandel",
   "uf": "MG",
-  "ibge": "3119302"
+  "ibge": "3119302",
+  "lat": -18.4785912,
+  "lon": -47.1978694
 }

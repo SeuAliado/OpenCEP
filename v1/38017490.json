@@ -5,5 +5,7 @@
   "bairro": "Quinta Boa Esperança",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7380741,
+  "lon": -47.9190892
 }

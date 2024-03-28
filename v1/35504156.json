@@ -5,5 +5,7 @@
   "bairro": "Campina Verde",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1566038,
+  "lon": -44.9243686
 }

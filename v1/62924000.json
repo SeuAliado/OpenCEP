@@ -5,5 +5,7 @@
   "bairro": "Tomé",
   "localidade": "Quixeré",
   "uf": "CE",
-  "ibge": "2311504"
+  "ibge": "2311504",
+  "lat": -5.1360762,
+  "lon": -37.9548989
 }

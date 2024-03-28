@@ -5,5 +5,7 @@
   "bairro": "Fortaleza",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -0.0471861,
+  "lon": -51.1404542
 }

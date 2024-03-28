@@ -5,5 +5,7 @@
   "bairro": "Agostinho Simonato",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8476402,
+  "lon": -41.1499294
 }

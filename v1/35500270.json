@@ -5,5 +5,7 @@
   "bairro": "Halin Souki",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1122125,
+  "lon": -44.8798313
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Martinez",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4956573,
+  "lon": -47.4297259
 }

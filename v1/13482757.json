@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Adélia",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5727869,
+  "lon": -47.4466735
 }

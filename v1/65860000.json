@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sucupira do Norte",
   "uf": "MA",
-  "ibge": "2111904"
+  "ibge": "2111904",
+  "lat": -6.4787889,
+  "lon": -44.192282
 }

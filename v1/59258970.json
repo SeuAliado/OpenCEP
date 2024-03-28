@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serrinha",
   "uf": "RN",
-  "ibge": "2413508"
+  "ibge": "2413508",
+  "lat": -6.278149,
+  "lon": -35.50004
 }

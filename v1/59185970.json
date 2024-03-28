@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Várzea",
   "uf": "RN",
-  "ibge": "2414704"
+  "ibge": "2414704",
+  "lat": -6.3483153,
+  "lon": -35.3718606
 }

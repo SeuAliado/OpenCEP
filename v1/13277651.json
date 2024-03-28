@@ -5,5 +5,7 @@
   "bairro": "Ponte Alta",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9975606,
+  "lon": -46.990163
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paranhos",
   "uf": "MS",
-  "ibge": "5006358"
+  "ibge": "5006358",
+  "lat": -23.8915329,
+  "lon": -55.4295343
 }

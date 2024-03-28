@@ -5,5 +5,7 @@
   "bairro": "Marechal Floriano",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1634037,
+  "lon": -51.209239
 }

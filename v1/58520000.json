@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Tigre",
   "uf": "PB",
-  "ibge": "2514107"
+  "ibge": "2514107",
+  "lat": -8.063015,
+  "lon": -36.8250274
 }

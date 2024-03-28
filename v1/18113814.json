@@ -5,5 +5,7 @@
   "bairro": "Altos de Votorantim",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5405263,
+  "lon": -47.4173443
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Viana",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.661355,
+  "lon": -49.2397225
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serranópolis",
   "uf": "GO",
-  "ibge": "5220504"
+  "ibge": "5220504",
+  "lat": -18.1608814,
+  "lon": -52.2762322
 }

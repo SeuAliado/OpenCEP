@@ -5,5 +5,7 @@
   "bairro": "Vila Horácio Tulli",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9278467,
+  "lon": -47.0520894
 }

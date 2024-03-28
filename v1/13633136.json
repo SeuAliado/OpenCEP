@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0086095,
+  "lon": -47.4342133
 }

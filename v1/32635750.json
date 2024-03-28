@@ -5,5 +5,7 @@
   "bairro": "Charneca",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -20.0154979,
+  "lon": -44.2531351
 }

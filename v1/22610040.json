@@ -5,5 +5,7 @@
   "bairro": "São Conrado",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9940743,
+  "lon": -43.2587422
 }

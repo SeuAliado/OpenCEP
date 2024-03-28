@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pau D'Arco do Piauí",
   "uf": "PI",
-  "ibge": "2207793"
+  "ibge": "2207793",
+  "lat": -5.2295668,
+  "lon": -42.4528138
 }

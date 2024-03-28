@@ -5,5 +5,7 @@
   "bairro": "Jardim Soraia",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8181696,
+  "lon": -49.354024
 }

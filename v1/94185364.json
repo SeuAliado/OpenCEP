@@ -5,5 +5,7 @@
   "bairro": "Passos dos Ferreiros",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9448113,
+  "lon": -50.9738502
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0853513,
+  "lon": -44.5893682
 }

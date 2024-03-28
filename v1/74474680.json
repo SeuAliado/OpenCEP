@@ -5,5 +5,7 @@
   "bairro": "Jardim Lago Azul",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.3512995,
+  "lon": -48.9377759
 }

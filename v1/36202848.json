@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2053726,
+  "lon": -43.7860011
 }

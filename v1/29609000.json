@@ -5,5 +5,7 @@
   "bairro": "Fazenda Guandu",
   "localidade": "Afonso Cláudio",
   "uf": "ES",
-  "ibge": "3200102"
+  "ibge": "3200102",
+  "lat": -20.2118372,
+  "lon": -41.1064131
 }

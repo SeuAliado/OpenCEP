@@ -5,5 +5,7 @@
   "bairro": "Jerusalém",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.5467169,
+  "lon": -39.7111261
 }

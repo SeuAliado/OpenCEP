@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Sucesso",
   "uf": "MG",
-  "ibge": "3108008"
+  "ibge": "3108008",
+  "lat": -21.0333018,
+  "lon": -44.7574859
 }

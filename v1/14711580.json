@@ -5,5 +5,7 @@
   "bairro": "Residencial Pedro Maia",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9467815,
+  "lon": -48.4689247
 }

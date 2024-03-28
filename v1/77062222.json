@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.33728,
+  "lon": -48.3183102
 }

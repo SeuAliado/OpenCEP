@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.917763,
+  "lon": -63.0424296
 }

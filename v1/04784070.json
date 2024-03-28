@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6871363,
+  "lon": -46.7123897
 }

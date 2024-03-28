@@ -5,5 +5,7 @@
   "bairro": "Piraquara",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.2680413,
+  "lon": -55.6693983
 }

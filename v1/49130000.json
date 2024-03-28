@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riachuelo",
   "uf": "SE",
-  "ibge": "2805901"
+  "ibge": "2805901",
+  "lat": -10.732668,
+  "lon": -37.1870599
 }

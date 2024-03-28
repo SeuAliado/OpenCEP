@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco do Guaporé",
   "uf": "RO",
-  "ibge": "1101492"
+  "ibge": "1101492",
+  "lat": -8.7476289,
+  "lon": -63.863903
 }

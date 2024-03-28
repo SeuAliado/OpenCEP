@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Codó",
   "uf": "MA",
-  "ibge": "2103307"
+  "ibge": "2103307",
+  "lat": -5.5552792,
+  "lon": -42.6118799
 }

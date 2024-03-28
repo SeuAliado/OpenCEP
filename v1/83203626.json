@@ -5,5 +5,7 @@
   "bairro": "Tuiuti",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5127487,
+  "lon": -48.5177429
 }

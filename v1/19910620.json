@@ -5,5 +5,7 @@
   "bairro": "Jardim São Judas Tadeu",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.967701,
+  "lon": -49.8985559
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "lat": -21.384898,
+  "lon": -42.6925971
 }

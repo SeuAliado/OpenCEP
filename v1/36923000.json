@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luisburgo",
   "uf": "MG",
-  "ibge": "3138674"
+  "ibge": "3138674",
+  "lat": -20.4472413,
+  "lon": -42.0980405
 }

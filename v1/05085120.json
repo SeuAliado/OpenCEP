@@ -5,5 +5,7 @@
   "bairro": "Alto da Lapa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5283269,
+  "lon": -46.7250234
 }

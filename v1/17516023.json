@@ -5,5 +5,7 @@
   "bairro": "Jardim Tangará",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2205123,
+  "lon": -49.9354356
 }

@@ -5,5 +5,7 @@
   "bairro": "Moradas do Sobrado",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9444936,
+  "lon": -50.9488442
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "lat": -8.398109,
+  "lon": -35.0609851
 }

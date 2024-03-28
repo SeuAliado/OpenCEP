@@ -5,5 +5,7 @@
   "bairro": "Vila Machadinho",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1122152,
+  "lon": -51.3899742
 }

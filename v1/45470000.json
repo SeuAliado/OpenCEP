@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jiquiriçá",
   "uf": "BA",
-  "ibge": "2918209"
+  "ibge": "2918209",
+  "lat": -13.3192799,
+  "lon": -39.5898526
 }

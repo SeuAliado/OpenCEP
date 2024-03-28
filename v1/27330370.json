@@ -5,5 +5,7 @@
   "bairro": "Barbara",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.540942,
+  "lon": -44.1459165
 }

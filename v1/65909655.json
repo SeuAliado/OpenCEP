@@ -5,5 +5,7 @@
   "bairro": "Centro Novo",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.513999,
+  "lon": -47.4487457
 }

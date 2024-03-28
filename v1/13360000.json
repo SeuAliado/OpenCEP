@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "lat": -22.9972026,
+  "lon": -47.512814
 }

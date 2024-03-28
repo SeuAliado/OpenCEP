@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional São Sebastião",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5639396,
+  "lon": -46.1810896
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Niquelândia",
   "uf": "GO",
-  "ibge": "5214606"
+  "ibge": "5214606",
+  "lat": -14.7723753,
+  "lon": -48.6255524
 }

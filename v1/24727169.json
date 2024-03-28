@@ -5,5 +5,7 @@
   "bairro": "Marambaia",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.7787695,
+  "lon": -42.9430827
 }

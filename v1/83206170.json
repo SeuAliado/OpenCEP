@@ -5,5 +5,7 @@
   "bairro": "Palmital",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.524101,
+  "lon": -48.5197267
 }

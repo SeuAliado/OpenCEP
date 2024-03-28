@@ -5,5 +5,7 @@
   "bairro": "São Felix",
   "localidade": "Mauriti",
   "uf": "CE",
-  "ibge": "2308104"
+  "ibge": "2308104",
+  "lat": -7.2534768,
+  "lon": -38.7633228
 }

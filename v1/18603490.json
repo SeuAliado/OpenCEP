@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Pastor",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8867733,
+  "lon": -48.4528794
 }

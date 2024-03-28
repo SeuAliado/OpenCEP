@@ -5,5 +5,7 @@
   "bairro": "Arutef",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -17.5287672,
+  "lon": -39.7533347
 }

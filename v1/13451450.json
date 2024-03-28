@@ -5,5 +5,7 @@
   "bairro": "Glebas Califórnia",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7408686,
+  "lon": -47.4388776
 }

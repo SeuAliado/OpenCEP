@@ -5,5 +5,7 @@
   "bairro": "Vinhedos",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1601141,
+  "lon": -51.5394385
 }

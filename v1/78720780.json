@@ -5,5 +5,7 @@
   "bairro": "Jardim Sumaré",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4408096,
+  "lon": -54.6263098
 }

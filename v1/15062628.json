@@ -5,5 +5,7 @@
   "bairro": "Ideal Life Ecolazer Residence",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8519352,
+  "lon": -49.3188544
 }

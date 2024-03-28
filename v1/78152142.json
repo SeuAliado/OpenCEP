@@ -5,5 +5,7 @@
   "bairro": "São Matheus",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.6691628,
+  "lon": -56.1817928
 }

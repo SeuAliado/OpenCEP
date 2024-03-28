@@ -5,5 +5,7 @@
   "bairro": "Jardim Belo Horizonte",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7469172,
+  "lon": -43.5035845
 }

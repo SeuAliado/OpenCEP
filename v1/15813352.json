@@ -5,5 +5,7 @@
   "bairro": "Pólo Industrial Pedro Luís Boso",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1214454,
+  "lon": -49.0392638
 }

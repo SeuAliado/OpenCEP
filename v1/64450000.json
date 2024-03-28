@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monsenhor Gil",
   "uf": "PI",
-  "ibge": "2206407"
+  "ibge": "2206407",
+  "lat": -5.5865653,
+  "lon": -42.5901672
 }

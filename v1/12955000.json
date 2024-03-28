@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus dos Perdões",
   "uf": "SP",
-  "ibge": "3507100"
+  "ibge": "3507100",
+  "lat": -23.1360696,
+  "lon": -46.4679179
 }

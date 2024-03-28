@@ -5,5 +5,7 @@
   "bairro": "Vila Prel",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6482602,
+  "lon": -46.7528591
 }

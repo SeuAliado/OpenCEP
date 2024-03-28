@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4752734,
+  "lon": -46.9970085
 }

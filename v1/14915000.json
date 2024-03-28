@@ -5,5 +5,7 @@
   "bairro": "Curupá",
   "localidade": "Tabatinga",
   "uf": "SP",
-  "ibge": "3552700"
+  "ibge": "3552700",
+  "lat": -21.7314973,
+  "lon": -48.688891
 }

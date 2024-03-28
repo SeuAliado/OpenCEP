@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3084396,
+  "lon": -40.3912238
 }

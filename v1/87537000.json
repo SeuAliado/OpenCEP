@@ -5,5 +5,7 @@
   "bairro": "Eliza",
   "localidade": "Xambrê",
   "uf": "PR",
-  "ibge": "4128807"
+  "ibge": "4128807",
+  "lat": -24.0273616,
+  "lon": -52.3564841
 }

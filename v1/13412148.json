@@ -5,5 +5,7 @@
   "bairro": "Jardim Matilde II",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.6932625,
+  "lon": -47.661493
 }

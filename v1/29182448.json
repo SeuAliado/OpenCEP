@@ -5,5 +5,7 @@
   "bairro": "Parque das Gaivotas",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.0384826,
+  "lon": -40.1986708
 }

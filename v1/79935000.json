@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sete Quedas",
   "uf": "MS",
-  "ibge": "5007703"
+  "ibge": "5007703",
+  "lat": -23.9709754,
+  "lon": -55.0403538
 }

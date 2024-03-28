@@ -5,5 +5,7 @@
   "bairro": "Distrito Curral Novo",
   "localidade": "Águas Belas",
   "uf": "PE",
-  "ibge": "2600500"
+  "ibge": "2600500",
+  "lat": -9.0242153,
+  "lon": -37.0539603
 }

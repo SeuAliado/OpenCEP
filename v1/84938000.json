@@ -5,5 +5,7 @@
   "bairro": "Sapé",
   "localidade": "Tomazina",
   "uf": "PR",
-  "ibge": "4127809"
+  "ibge": "4127809",
+  "lat": -23.6277234,
+  "lon": -50.0283787
 }

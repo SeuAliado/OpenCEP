@@ -5,5 +5,7 @@
   "bairro": "Ourilândia",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "lat": -24.032678,
+  "lon": -52.1265937
 }

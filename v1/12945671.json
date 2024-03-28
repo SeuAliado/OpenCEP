@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pinheiros",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1153011,
+  "lon": -46.5176788
 }

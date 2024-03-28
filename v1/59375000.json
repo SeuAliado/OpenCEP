@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cruzeta",
   "uf": "RN",
-  "ibge": "2403004"
+  "ibge": "2403004",
+  "lat": -6.3507721,
+  "lon": -36.8250274
 }

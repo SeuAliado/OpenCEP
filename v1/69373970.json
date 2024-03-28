@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rorainópolis",
   "uf": "RR",
-  "ibge": "1400472"
+  "ibge": "1400472",
+  "lat": 0.9501928,
+  "lon": -60.4237093
 }

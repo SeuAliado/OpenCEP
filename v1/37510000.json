@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Alegre",
   "uf": "MG",
-  "ibge": "3163201"
+  "ibge": "3163201",
+  "lat": -22.3247584,
+  "lon": -45.5262704
 }

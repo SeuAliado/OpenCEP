@@ -5,5 +5,7 @@
   "bairro": "Vila Costa Muniz",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "lat": -23.8959774,
+  "lon": -46.4339548
 }

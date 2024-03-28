@@ -5,5 +5,7 @@
   "bairro": "Jardim Viaduto (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7757839,
+  "lon": -48.1605336
 }

@@ -5,5 +5,7 @@
   "bairro": "Ponta de Nossa Senhora (Ilha dos Frades)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8131942,
+  "lon": -38.6393352
 }

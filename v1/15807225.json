@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1239271,
+  "lon": -48.9515525
 }

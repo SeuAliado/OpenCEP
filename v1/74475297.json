@@ -5,5 +5,7 @@
   "bairro": "Setor Estrela Dalva",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.592575,
+  "lon": -49.3176365
 }

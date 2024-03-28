@@ -5,5 +5,7 @@
   "bairro": "Jardim Recanto do Jaguari",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9708546,
+  "lon": -46.8090793
 }

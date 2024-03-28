@@ -5,5 +5,7 @@
   "bairro": "Gramado São Pedro",
   "localidade": "Fontoura Xavier",
   "uf": "RS",
-  "ibge": "4308300"
+  "ibge": "4308300",
+  "lat": -29.0653883,
+  "lon": -52.3878822
 }

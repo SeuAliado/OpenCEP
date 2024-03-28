@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "lat": -25.0579322,
+  "lon": -50.1559873
 }

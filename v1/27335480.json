@@ -5,5 +5,7 @@
   "bairro": "Assunção",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5193886,
+  "lon": -44.1132695
 }

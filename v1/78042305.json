@@ -5,5 +5,7 @@
   "bairro": "Novo Tempo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5681851,
+  "lon": -56.1249467
 }

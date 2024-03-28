@@ -5,5 +5,7 @@
   "bairro": "Ponta do Pasto",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5455124,
+  "lon": -48.5365711
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2330324,
+  "lon": -54.7548479
 }

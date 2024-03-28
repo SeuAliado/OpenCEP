@@ -5,5 +5,7 @@
   "bairro": "Bom Conselho",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "lat": -8.3330025,
+  "lon": -36.4291903
 }

@@ -5,5 +5,7 @@
   "bairro": "Paineiras do Morumbi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6051515,
+  "lon": -46.7088223
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Borges",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7809692,
+  "lon": -50.924895
 }

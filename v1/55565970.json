@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Coroa Grande",
   "uf": "PE",
-  "ibge": "2613404"
+  "ibge": "2613404",
+  "lat": -8.899515,
+  "lon": -35.1463897
 }

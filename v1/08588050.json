@@ -5,5 +5,7 @@
   "bairro": "Jardim Mossapyra",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4413482,
+  "lon": -46.3234869
 }

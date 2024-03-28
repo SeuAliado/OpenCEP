@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Liberato Salzano",
   "uf": "RS",
-  "ibge": "4311601"
+  "ibge": "4311601",
+  "lat": -27.599203,
+  "lon": -53.0792406
 }

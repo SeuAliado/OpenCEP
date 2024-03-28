@@ -5,5 +5,7 @@
   "bairro": "Pirangi do Norte (Distrito Litoral)",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "lat": -5.9765046,
+  "lon": -35.1324643
 }

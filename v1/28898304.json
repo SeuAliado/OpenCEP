@@ -5,5 +5,7 @@
   "bairro": "Balneário das Garças",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.439534,
+  "lon": -41.8651886
 }

@@ -5,5 +5,7 @@
   "bairro": "Oliveira Brito",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1966886,
+  "lon": -47.1699276
 }

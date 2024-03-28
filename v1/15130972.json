@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "lat": -20.8166028,
+  "lon": -49.5096863
 }

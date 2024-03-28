@@ -5,5 +5,7 @@
   "bairro": "Cachoeirinha",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.12596,
+  "lon": -60.0061066
 }

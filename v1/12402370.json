@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Andrade",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9165514,
+  "lon": -45.4432958
 }

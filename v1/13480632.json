@@ -5,5 +5,7 @@
   "bairro": "Vila Esteves",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5760439,
+  "lon": -47.4089045
 }

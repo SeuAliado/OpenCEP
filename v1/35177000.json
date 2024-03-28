@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antônio Dias",
   "uf": "MG",
-  "ibge": "3103009"
+  "ibge": "3103009",
+  "lat": -19.653635,
+  "lon": -42.8723393
 }

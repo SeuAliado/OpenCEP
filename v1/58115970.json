@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Puxinanã",
   "uf": "PB",
-  "ibge": "2512408"
+  "ibge": "2512408",
+  "lat": -7.1468834,
+  "lon": -35.9634286
 }

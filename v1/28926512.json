@@ -5,5 +5,7 @@
   "bairro": "Samburá (Tamoios)",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.6331523,
+  "lon": -42.0025077
 }

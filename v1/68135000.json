@@ -5,5 +5,7 @@
   "bairro": "Pacoval",
   "localidade": "Prainha",
   "uf": "PA",
-  "ibge": "1506005"
+  "ibge": "1506005",
+  "lat": -2.4489241,
+  "lon": -54.0862779
 }

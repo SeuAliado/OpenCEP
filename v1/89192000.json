@@ -5,5 +5,7 @@
   "bairro": "Passo Manso",
   "localidade": "Taió",
   "uf": "SC",
-  "ibge": "4217808"
+  "ibge": "4217808",
+  "lat": -27.0524561,
+  "lon": -50.1131083
 }

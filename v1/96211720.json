@@ -5,5 +5,7 @@
   "bairro": "Hidráulica",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0514929,
+  "lon": -52.1244568
 }

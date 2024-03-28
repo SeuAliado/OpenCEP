@@ -5,5 +5,7 @@
   "bairro": "Loteamento Nossa Senhora Aparecida",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4557842,
+  "lon": -54.6360498
 }

@@ -5,5 +5,7 @@
   "bairro": "Cardo",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8350474,
+  "lon": -41.9143346
 }

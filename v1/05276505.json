@@ -5,5 +5,7 @@
   "bairro": "Jardim Paineiras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.0974252,
+  "lon": -48.9257362
 }

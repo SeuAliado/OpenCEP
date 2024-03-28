@@ -5,5 +5,7 @@
   "bairro": "Residência",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.769781,
+  "lon": -43.3449318
 }

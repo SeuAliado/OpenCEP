@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Virgolândia",
   "uf": "MG",
-  "ibge": "3171907"
+  "ibge": "3171907",
+  "lat": -18.4658531,
+  "lon": -42.3347949
 }

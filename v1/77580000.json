@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Silvanópolis",
   "uf": "TO",
-  "ibge": "1720655"
+  "ibge": "1720655",
+  "lat": -11.1475222,
+  "lon": -48.1697994
 }

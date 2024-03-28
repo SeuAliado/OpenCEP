@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Paraíso",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7642066,
+  "lon": -48.1929626
 }

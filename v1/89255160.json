@@ -5,5 +5,7 @@
   "bairro": "Czerniewicz",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "lat": -26.4729289,
+  "lon": -49.0842129
 }

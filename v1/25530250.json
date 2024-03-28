@@ -5,5 +5,7 @@
   "bairro": "Parque Siqueira",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.8068344,
+  "lon": -43.3922852
 }

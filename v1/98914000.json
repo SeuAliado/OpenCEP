@@ -5,5 +5,7 @@
   "bairro": "Consolata",
   "localidade": "Três de Maio",
   "uf": "RS",
-  "ibge": "4321808"
+  "ibge": "4321808",
+  "lat": -27.7851862,
+  "lon": -54.2306711
 }

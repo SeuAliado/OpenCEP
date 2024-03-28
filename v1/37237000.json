@@ -5,5 +5,7 @@
   "bairro": "Frei Eustáquio",
   "localidade": "Coqueiral",
   "uf": "MG",
-  "ibge": "3118700"
+  "ibge": "3118700",
+  "lat": -21.186241,
+  "lon": -45.4369972
 }

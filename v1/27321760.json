@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -23.4282402,
+  "lon": -46.5354262
 }

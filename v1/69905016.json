@@ -5,5 +5,7 @@
   "bairro": "Capoeira",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9691583,
+  "lon": -67.808468
 }

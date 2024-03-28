@@ -5,5 +5,7 @@
   "bairro": "Padre Pinto",
   "localidade": "Rio Piracicaba",
   "uf": "MG",
-  "ibge": "3155702"
+  "ibge": "3155702",
+  "lat": -19.928843,
+  "lon": -43.1833256
 }

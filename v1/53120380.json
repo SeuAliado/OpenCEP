@@ -5,5 +5,7 @@
   "bairro": "Carmo",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "lat": -8.012963,
+  "lon": -34.8448237
 }

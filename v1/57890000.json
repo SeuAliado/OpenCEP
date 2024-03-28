@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibateguara",
   "uf": "AL",
-  "ibge": "2703007"
+  "ibge": "2703007",
+  "lat": -8.9786543,
+  "lon": -35.9376497
 }

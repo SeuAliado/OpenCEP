@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Três Passos",
   "uf": "RS",
-  "ibge": "4321907"
+  "ibge": "4321907",
+  "lat": -30.0850449,
+  "lon": -51.0764751
 }

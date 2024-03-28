@@ -5,5 +5,7 @@
   "bairro": "Caitá",
   "localidade": "São Mateus do Sul",
   "uf": "PR",
-  "ibge": "4125605"
+  "ibge": "4125605",
+  "lat": -25.7801528,
+  "lon": -50.5437858
 }

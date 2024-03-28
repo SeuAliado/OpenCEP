@@ -5,5 +5,7 @@
   "bairro": "Coronel Ponce",
   "localidade": "Campo Verde",
   "uf": "MT",
-  "ibge": "5102678"
+  "ibge": "5102678",
+  "lat": -15.6710201,
+  "lon": -56.1359193
 }

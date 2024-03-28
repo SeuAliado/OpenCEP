@@ -5,5 +5,7 @@
   "bairro": "Vila Helemar",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5334561,
+  "lon": -46.8566221
 }

@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1536399,
+  "lon": -44.892032
 }

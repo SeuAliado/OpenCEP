@@ -5,5 +5,7 @@
   "bairro": "Treze de Setembro",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.7982039,
+  "lon": -60.6816033
 }

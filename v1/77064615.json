@@ -5,5 +5,7 @@
   "bairro": "Conjunto Maria Rosa (Taquaralto)",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.3398611,
+  "lon": -48.2842196
 }

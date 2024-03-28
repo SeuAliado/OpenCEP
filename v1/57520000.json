@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maravilha",
   "uf": "AL",
-  "ibge": "2704609"
+  "ibge": "2704609",
+  "lat": -9.230872,
+  "lon": -37.3527565
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Aracanguá",
   "uf": "SP",
-  "ibge": "3548054"
+  "ibge": "3548054",
+  "lat": -20.9354143,
+  "lon": -50.4969166
 }

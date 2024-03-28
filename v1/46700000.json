@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibitiara",
   "uf": "BA",
-  "ibge": "2913002"
+  "ibge": "2913002",
+  "lat": -12.6515435,
+  "lon": -42.2159574
 }

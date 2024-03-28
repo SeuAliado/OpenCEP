@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Olímpia",
   "uf": "PR",
-  "ibge": "4117206"
+  "ibge": "4117206",
+  "lat": -23.470724,
+  "lon": -53.0902966
 }

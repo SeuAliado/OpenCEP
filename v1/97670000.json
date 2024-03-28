@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Borja",
   "uf": "RS",
-  "ibge": "4318002"
+  "ibge": "4318002",
+  "lat": -28.6583059,
+  "lon": -56.0041451
 }

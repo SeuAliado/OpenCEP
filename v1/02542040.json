@@ -5,5 +5,7 @@
   "bairro": "Sítio do Mandaqui",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4912251,
+  "lon": -46.6595841
 }

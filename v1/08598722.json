@@ -5,5 +5,7 @@
   "bairro": "Jardim Adriane",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4733501,
+  "lon": -46.3224895
 }

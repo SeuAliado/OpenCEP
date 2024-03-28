@@ -5,5 +5,7 @@
   "bairro": "Porto Agrário",
   "localidade": "Juvenília",
   "uf": "MG",
-  "ibge": "3136959"
+  "ibge": "3136959",
+  "lat": -14.2666864,
+  "lon": -44.1600586
 }

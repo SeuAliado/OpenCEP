@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Grandes Rios",
   "uf": "PR",
-  "ibge": "4108700"
+  "ibge": "4108700",
+  "lat": -24.147521,
+  "lon": -51.5032753
 }

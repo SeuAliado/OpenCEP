@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itagibá",
   "uf": "BA",
-  "ibge": "2915205"
+  "ibge": "2915205",
+  "lat": -14.2833923,
+  "lon": -39.843188
 }

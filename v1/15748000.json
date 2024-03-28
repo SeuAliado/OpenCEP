@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mesópolis",
   "uf": "SP",
-  "ibge": "3529658"
+  "ibge": "3529658",
+  "lat": -19.9688158,
+  "lon": -50.6331084
 }

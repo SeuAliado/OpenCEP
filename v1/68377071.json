@@ -5,5 +5,7 @@
   "bairro": "Mutirão",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "lat": -3.1848058,
+  "lon": -52.207637
 }

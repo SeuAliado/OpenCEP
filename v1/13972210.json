@@ -5,5 +5,7 @@
   "bairro": "Jardim Yara",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.426642,
+  "lon": -46.811809
 }

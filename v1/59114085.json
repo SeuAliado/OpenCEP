@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Apresentação",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.754434,
+  "lon": -35.2644706
 }

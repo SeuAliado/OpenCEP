@@ -5,5 +5,7 @@
   "bairro": "Jardim Cometa",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4536355,
+  "lon": -51.8710299
 }

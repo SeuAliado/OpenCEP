@@ -5,5 +5,7 @@
   "bairro": "Glicério",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3836705,
+  "lon": -41.7827461
 }

@@ -5,5 +5,7 @@
   "bairro": "Geremia Lunardelli",
   "localidade": "Nova Cantu",
   "uf": "PR",
-  "ibge": "4116802"
+  "ibge": "4116802",
+  "lat": -24.7272314,
+  "lon": -52.6360474
 }

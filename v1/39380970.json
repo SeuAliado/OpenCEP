@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Claro dos Poções",
   "uf": "MG",
-  "ibge": "3116506"
+  "ibge": "3116506",
+  "lat": -17.0806981,
+  "lon": -44.2102665
 }

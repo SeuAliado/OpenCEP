@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.24183,
+  "lon": -54.8193696
 }

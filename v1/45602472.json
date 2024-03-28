@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.8021332,
+  "lon": -39.2931316
 }

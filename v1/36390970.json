@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itutinga",
   "uf": "MG",
-  "ibge": "3134509"
+  "ibge": "3134509",
+  "lat": -19.4716452,
+  "lon": -42.5382452
 }

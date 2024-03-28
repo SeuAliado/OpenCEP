@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serra dos Aimorés",
   "uf": "MG",
-  "ibge": "3166709"
+  "ibge": "3166709",
+  "lat": -17.7896997,
+  "lon": -40.2455481
 }

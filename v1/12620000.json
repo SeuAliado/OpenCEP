@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piquete",
   "uf": "SP",
-  "ibge": "3538501"
+  "ibge": "3538501",
+  "lat": -22.6129585,
+  "lon": -45.1790441
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4318829,
+  "lon": -51.427996
 }

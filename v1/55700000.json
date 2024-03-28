@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Limoeiro",
   "uf": "PE",
-  "ibge": "2608909"
+  "ibge": "2608909",
+  "lat": -7.8730131,
+  "lon": -35.4404733
 }

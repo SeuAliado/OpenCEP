@@ -5,5 +5,7 @@
   "bairro": "Dom Quintino",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.2331858,
+  "lon": -39.4049015
 }

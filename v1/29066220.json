@@ -5,5 +5,7 @@
   "bairro": "Mata da Praia",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.2777364,
+  "lon": -40.3004485
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco de Assis do Piauí",
   "uf": "PI",
-  "ibge": "2209658"
+  "ibge": "2209658",
+  "lat": -8.2396186,
+  "lon": -41.6814019
 }

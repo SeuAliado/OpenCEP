@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Senador José Bento",
   "uf": "MG",
-  "ibge": "3165800"
+  "ibge": "3165800",
+  "lat": -22.2012847,
+  "lon": -46.1871404
 }

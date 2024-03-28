@@ -5,5 +5,7 @@
   "bairro": "Fortaleza",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -20.3985263,
+  "lon": -42.9005657
 }

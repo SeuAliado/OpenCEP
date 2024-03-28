@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3622212,
+  "lon": -40.3784515
 }

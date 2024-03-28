@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Barreiro",
   "uf": "RS",
-  "ibge": "4313490"
+  "ibge": "4313490",
+  "lat": -27.908187,
+  "lon": -53.1108086
 }

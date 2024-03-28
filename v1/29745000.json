@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Domingos do Norte",
   "uf": "ES",
-  "ibge": "3204658"
+  "ibge": "3204658",
+  "lat": -19.0940049,
+  "lon": -40.5737316
 }

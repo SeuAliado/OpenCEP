@@ -5,5 +5,7 @@
   "bairro": "Residencial Água Santa",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.795492,
+  "lon": -50.9589773
 }

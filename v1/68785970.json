@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Colares",
   "uf": "PA",
-  "ibge": "1502608"
+  "ibge": "1502608",
+  "lat": -0.9309748,
+  "lon": -48.2861968
 }

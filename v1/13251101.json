@@ -5,5 +5,7 @@
   "bairro": "Vila Capelletto",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.998546,
+  "lon": -46.845781
 }

@@ -5,5 +5,7 @@
   "bairro": "Caieira São Pedro",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4641732,
+  "lon": -43.8188869
 }

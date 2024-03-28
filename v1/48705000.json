@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barrocas",
   "uf": "BA",
-  "ibge": "2903276"
+  "ibge": "2903276",
+  "lat": -11.5304158,
+  "lon": -39.0790823
 }

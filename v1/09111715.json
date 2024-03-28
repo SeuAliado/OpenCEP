@@ -5,5 +5,7 @@
   "bairro": "Cidade São Jorge",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6734673,
+  "lon": -46.4836637
 }

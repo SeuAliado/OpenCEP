@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3098021,
+  "lon": -49.2840517
 }

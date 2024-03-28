@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teotônio Vilela",
   "uf": "AL",
-  "ibge": "2709152"
+  "ibge": "2709152",
+  "lat": -9.9084342,
+  "lon": -36.3597871
 }

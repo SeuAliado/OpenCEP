@@ -5,5 +5,7 @@
   "bairro": "Vila Real",
   "localidade": "Balneário Camboriú",
   "uf": "SC",
-  "ibge": "4202008"
+  "ibge": "4202008",
+  "lat": -27.0121361,
+  "lon": -48.6273231
 }

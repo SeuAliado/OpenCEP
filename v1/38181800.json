@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim das Oliveiras",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.5622411,
+  "lon": -46.9282964
 }

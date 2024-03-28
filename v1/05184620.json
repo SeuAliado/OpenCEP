@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Bandeirantes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4425566,
+  "lon": -46.7594275
 }

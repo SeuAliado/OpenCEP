@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Teresa",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7488101,
+  "lon": -43.3551221
 }

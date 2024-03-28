@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "lat": -5.1680725,
+  "lon": -40.653998
 }

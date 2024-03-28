@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "lat": -29.3745686,
+  "lon": -50.876435
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila América",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6677432,
+  "lon": -46.5105298
 }

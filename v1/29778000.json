@@ -5,5 +5,7 @@
   "bairro": "São José de Mantenópolis",
   "localidade": "Mantenópolis",
   "uf": "ES",
-  "ibge": "3203304"
+  "ibge": "3203304",
+  "lat": -18.8622775,
+  "lon": -41.1219567
 }

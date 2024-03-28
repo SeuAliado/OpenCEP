@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Fonte Nova",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9554915,
+  "lon": -46.9768353
 }

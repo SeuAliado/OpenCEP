@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Abadia dos Dourados",
   "uf": "MG",
-  "ibge": "3100104"
+  "ibge": "3100104",
+  "lat": -18.3223886,
+  "lon": -47.4882762
 }

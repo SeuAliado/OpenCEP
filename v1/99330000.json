@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tunas",
   "uf": "RS",
-  "ibge": "4322152"
+  "ibge": "4322152",
+  "lat": -29.1044351,
+  "lon": -52.9543642
 }

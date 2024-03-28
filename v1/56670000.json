@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Betânia",
   "uf": "PE",
-  "ibge": "2601805"
+  "ibge": "2601805",
+  "lat": -8.3258061,
+  "lon": -38.0631455
 }

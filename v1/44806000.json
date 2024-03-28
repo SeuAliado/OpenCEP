@@ -5,5 +5,7 @@
   "bairro": "Umbuzeiro",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "lat": -11.6738703,
+  "lon": -40.2931501
 }

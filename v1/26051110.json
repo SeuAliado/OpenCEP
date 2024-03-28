@@ -5,5 +5,7 @@
   "bairro": "Barão de Amapá",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6906415,
+  "lon": -43.4600181
 }

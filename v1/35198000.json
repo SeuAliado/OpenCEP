@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ipaba",
   "uf": "MG",
-  "ibge": "3131158"
+  "ibge": "3131158",
+  "lat": -19.4143619,
+  "lon": -42.4150731
 }

@@ -5,5 +5,7 @@
   "bairro": "Sussui",
   "localidade": "Engenheiro Beltrão",
   "uf": "PR",
-  "ibge": "4107504"
+  "ibge": "4107504",
+  "lat": -23.7221242,
+  "lon": -52.1772344
 }

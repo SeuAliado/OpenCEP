@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4080817,
+  "lon": -49.2631824
 }

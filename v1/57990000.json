@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Messias",
   "uf": "AL",
-  "ibge": "2705200"
+  "ibge": "2705200",
+  "lat": -9.3942686,
+  "lon": -35.8395062
 }

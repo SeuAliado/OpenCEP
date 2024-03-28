@@ -5,5 +5,7 @@
   "bairro": "Jardim Alpes de Sorocaba",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4236421,
+  "lon": -47.4666656
 }

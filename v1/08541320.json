@@ -5,5 +5,7 @@
   "bairro": "Jardim São Fernando",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5186016,
+  "lon": -46.3744733
 }

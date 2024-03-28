@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8603745,
+  "lon": -43.2219856
 }

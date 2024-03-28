@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus",
   "uf": "GO",
-  "ibge": "5203500"
+  "ibge": "5203500",
+  "lat": -18.203484,
+  "lon": -49.733795
 }

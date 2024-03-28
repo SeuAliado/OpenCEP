@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "João Neiva",
   "uf": "ES",
-  "ibge": "3203130"
+  "ibge": "3203130",
+  "lat": -19.7635252,
+  "lon": -40.3710343
 }

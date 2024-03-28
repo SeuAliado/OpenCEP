@@ -5,5 +5,7 @@
   "bairro": "Fênix",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.8049683,
+  "lon": -55.8093418
 }

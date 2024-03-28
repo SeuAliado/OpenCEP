@@ -5,5 +5,7 @@
   "bairro": "Acampamento Anchieta(Blocos C e D)",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.7396696,
+  "lon": -46.4735054
 }

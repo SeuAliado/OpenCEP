@@ -5,5 +5,7 @@
   "bairro": "Ossian Araripe",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.2440297,
+  "lon": -39.4194865
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Iza",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8825109,
+  "lon": -47.0482486
 }

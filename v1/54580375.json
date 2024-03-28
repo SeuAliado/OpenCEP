@@ -5,5 +5,7 @@
   "bairro": "Ponte dos Carvalhos",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "lat": -8.235771,
+  "lon": -34.9797595
 }

@@ -5,5 +5,7 @@
   "bairro": "Tapinas",
   "localidade": "Itápolis",
   "uf": "SP",
-  "ibge": "3522703"
+  "ibge": "3522703",
+  "lat": -21.4435464,
+  "lon": -48.7912295
 }

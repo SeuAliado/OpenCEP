@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9124073,
+  "lon": -42.8142513
 }

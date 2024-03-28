@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaranésia",
   "uf": "MG",
-  "ibge": "3128303"
+  "ibge": "3128303",
+  "lat": -21.3017905,
+  "lon": -46.7968351
 }

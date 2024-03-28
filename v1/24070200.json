@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8982321,
+  "lon": -43.1012238
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Esmeralda",
   "uf": "RS",
-  "ibge": "4307401"
+  "ibge": "4307401",
+  "lat": -28.0522565,
+  "lon": -51.1937721
 }

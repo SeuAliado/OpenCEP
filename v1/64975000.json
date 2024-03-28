@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riacho Frio",
   "uf": "PI",
-  "ibge": "2208858"
+  "ibge": "2208858",
+  "lat": -10.124799,
+  "lon": -44.9507288
 }

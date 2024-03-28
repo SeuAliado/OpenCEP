@@ -5,5 +5,7 @@
   "bairro": "Jardim Kamel",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.015046,
+  "lon": -47.4129523
 }

@@ -5,5 +5,7 @@
   "bairro": "Fortuna",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8085543,
+  "lon": -51.1826336
 }

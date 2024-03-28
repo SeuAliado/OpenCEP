@@ -5,5 +5,7 @@
   "bairro": "Riviera da Barra",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.43079,
+  "lon": -40.3407279
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primeiro de Maio",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.962777,
+  "lon": -46.8071079
 }

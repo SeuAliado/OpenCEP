@@ -5,5 +5,7 @@
   "bairro": "Distrito Passagem do Tó",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "lat": -8.0712964,
+  "lon": -36.541488
 }

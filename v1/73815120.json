@@ -5,5 +5,7 @@
   "bairro": "Parque São Francisco",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.559663,
+  "lon": -47.3387809
 }

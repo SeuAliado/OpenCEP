@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monteirópolis",
   "uf": "AL",
-  "ibge": "2705408"
+  "ibge": "2705408",
+  "lat": -9.6039948,
+  "lon": -37.2508
 }

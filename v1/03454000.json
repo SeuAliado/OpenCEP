@@ -5,5 +5,7 @@
   "bairro": "Jardim Aricanduva",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5667201,
+  "lon": -46.5103388
 }

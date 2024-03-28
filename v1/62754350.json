@@ -5,5 +5,7 @@
   "bairro": "Passagem Funda",
   "localidade": "Aracoiaba",
   "uf": "CE",
-  "ibge": "2301208"
+  "ibge": "2301208",
+  "lat": -6.9357719,
+  "lon": -38.8976062
 }

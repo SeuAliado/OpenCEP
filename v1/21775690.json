@@ -5,5 +5,7 @@
   "bairro": "Padre Miguel",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.881961,
+  "lon": -43.4646954
 }

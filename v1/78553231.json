@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Vindilina III",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8195778,
+  "lon": -55.5165247
 }

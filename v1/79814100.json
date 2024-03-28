@@ -5,5 +5,7 @@
   "bairro": "Vila Erondina",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2457501,
+  "lon": -54.8188612
 }

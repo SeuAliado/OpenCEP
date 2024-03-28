@@ -5,5 +5,7 @@
   "bairro": "Iputinga",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "lat": -8.045253,
+  "lon": -34.941749
 }

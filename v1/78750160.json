@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Oasis",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.45863,
+  "lon": -54.6671884
 }

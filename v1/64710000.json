@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paes Landim",
   "uf": "PI",
-  "ibge": "2207306"
+  "ibge": "2207306",
+  "lat": -7.7780804,
+  "lon": -42.2551694
 }

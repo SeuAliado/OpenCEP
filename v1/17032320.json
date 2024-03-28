@@ -5,5 +5,7 @@
   "bairro": "Jardim Cecap",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3172205,
+  "lon": -49.0338364
 }

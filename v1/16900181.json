@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Antônio Ricardo Pegoraro",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9150084,
+  "lon": -51.3862353
 }

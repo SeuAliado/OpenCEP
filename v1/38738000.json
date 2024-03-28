@@ -5,5 +5,7 @@
   "bairro": "Brejo Bonito",
   "localidade": "Cruzeiro da Fortaleza",
   "uf": "MG",
-  "ibge": "3120706"
+  "ibge": "3120706",
+  "lat": -19.0023319,
+  "lon": -46.6121523
 }

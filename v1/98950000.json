@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alecrim",
   "uf": "RS",
-  "ibge": "4300307"
+  "ibge": "4300307",
+  "lat": -27.658336,
+  "lon": -54.7653769
 }

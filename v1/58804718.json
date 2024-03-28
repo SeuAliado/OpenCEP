@@ -5,5 +5,7 @@
   "bairro": "Maria Rachel",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7674433,
+  "lon": -38.2224283
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Perequê (Mambucaba)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0166275,
+  "lon": -44.531943
 }

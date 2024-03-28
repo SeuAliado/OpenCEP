@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carmo do Rio Claro",
   "uf": "MG",
-  "ibge": "3114402"
+  "ibge": "3114402",
+  "lat": -20.9696012,
+  "lon": -46.121064
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Palmeira das Missões",
   "uf": "RS",
-  "ibge": "4313706"
+  "ibge": "4313706",
+  "lat": -27.9133047,
+  "lon": -53.3150512
 }

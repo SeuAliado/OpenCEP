@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pio XII",
   "uf": "MA",
-  "ibge": "2108702"
+  "ibge": "2108702",
+  "lat": -3.8209326,
+  "lon": -45.2431035
 }

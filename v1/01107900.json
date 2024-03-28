@@ -5,5 +5,7 @@
   "bairro": "Ponte Pequena",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.521696,
+  "lon": -46.63634
 }

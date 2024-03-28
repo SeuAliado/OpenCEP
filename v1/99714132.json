@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.650624,
+  "lon": -52.2998047
 }

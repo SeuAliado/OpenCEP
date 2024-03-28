@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedras Grandes",
   "uf": "SC",
-  "ibge": "4212403"
+  "ibge": "4212403",
+  "lat": -28.4919629,
+  "lon": -49.2233389
 }

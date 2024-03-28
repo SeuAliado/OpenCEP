@@ -5,5 +5,7 @@
   "bairro": "Jardim Capricórnio",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6090735,
+  "lon": -45.3516139
 }

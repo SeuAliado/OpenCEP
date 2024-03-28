@@ -5,5 +5,7 @@
   "bairro": "Central Parque I",
   "localidade": "Extremoz",
   "uf": "RN",
-  "ibge": "2403608"
+  "ibge": "2403608",
+  "lat": -5.7041845,
+  "lon": -35.3011917
 }

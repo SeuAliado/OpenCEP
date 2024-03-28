@@ -5,5 +5,7 @@
   "bairro": "Jardim Adalberto Frederico de Oliveira Roxo I",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7347261,
+  "lon": -48.1600349
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Gramado",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8705297,
+  "lon": -48.2869889
 }

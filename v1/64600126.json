@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -7.0840848,
+  "lon": -41.4733822
 }

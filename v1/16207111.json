@@ -5,5 +5,7 @@
   "bairro": "Residencial Esplanada das Colinas",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

@@ -5,5 +5,7 @@
   "bairro": "Dez de Maio",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.6796771,
+  "lon": -53.9157327
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Solânea",
   "uf": "PB",
-  "ibge": "2516003"
+  "ibge": "2516003",
+  "lat": -6.7378881,
+  "lon": -35.6860723
 }

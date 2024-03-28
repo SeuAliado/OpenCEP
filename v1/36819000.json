@@ -5,5 +5,7 @@
   "bairro": "São Pedro do Glória",
   "localidade": "Fervedouro",
   "uf": "MG",
-  "ibge": "3125952"
+  "ibge": "3125952",
+  "lat": -20.7260722,
+  "lon": -42.2762515
 }

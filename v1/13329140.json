@@ -5,5 +5,7 @@
   "bairro": "Condomínio Fechado Village Haras São Luiz II",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1679104,
+  "lon": -47.306699
 }

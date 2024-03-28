@@ -5,5 +5,7 @@
   "bairro": "Jardim Virgínia",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.198377,
+  "lon": -49.9707492
 }

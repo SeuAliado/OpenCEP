@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8862491,
+  "lon": -43.931382
 }

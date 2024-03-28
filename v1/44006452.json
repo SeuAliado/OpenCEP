@@ -5,5 +5,7 @@
   "bairro": "Muchila",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.282585,
+  "lon": -38.9721585
 }

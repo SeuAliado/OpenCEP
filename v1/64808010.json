@@ -5,5 +5,7 @@
   "bairro": "Pedro Simplício",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.7821889,
+  "lon": -43.0330192
 }

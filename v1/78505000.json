@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Terra Nova do Norte",
   "uf": "MT",
-  "ibge": "5108055"
+  "ibge": "5108055",
+  "lat": -10.525278,
+  "lon": -55.220278
 }

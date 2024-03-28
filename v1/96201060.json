@@ -5,5 +5,7 @@
   "bairro": "Getúlio Vargas",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0402962,
+  "lon": -52.0826943
 }

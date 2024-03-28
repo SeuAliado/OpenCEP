@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6207206,
+  "lon": -43.2143445
 }

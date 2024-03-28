@@ -5,5 +5,7 @@
   "bairro": "Vila Luíza",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.892085,
+  "lon": -51.737379
 }

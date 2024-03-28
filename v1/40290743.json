@@ -5,5 +5,7 @@
   "bairro": "Acupe de Brotas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0074689,
+  "lon": -38.5229821
 }

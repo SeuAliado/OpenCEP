@@ -5,5 +5,7 @@
   "bairro": "Jardim Buscardi",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "lat": -21.6132223,
+  "lon": -48.3555277
 }

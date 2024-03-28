@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Igarapé-Miri",
   "uf": "PA",
-  "ibge": "1503309"
+  "ibge": "1503309",
+  "lat": -1.9839794,
+  "lon": -48.9611579
 }

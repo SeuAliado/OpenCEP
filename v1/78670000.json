@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Félix do Araguaia",
   "uf": "MT",
-  "ibge": "5107859"
+  "ibge": "5107859",
+  "lat": -11.2748641,
+  "lon": -52.5318604
 }

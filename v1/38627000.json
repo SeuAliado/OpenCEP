@@ -5,5 +5,7 @@
   "bairro": "Palmital de Minas",
   "localidade": "Cabeceira Grande",
   "uf": "MG",
-  "ibge": "3109451"
+  "ibge": "3109451",
+  "lat": -16.1273224,
+  "lon": -47.2934057
 }

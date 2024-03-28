@@ -5,5 +5,7 @@
   "bairro": "Catolé",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.235527,
+  "lon": -35.8858326
 }

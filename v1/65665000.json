@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João dos Patos",
   "uf": "MA",
-  "ibge": "2111102"
+  "ibge": "2111102",
+  "lat": -6.4937974,
+  "lon": -43.7040121
 }

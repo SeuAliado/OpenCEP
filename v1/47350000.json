@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sento Sé",
   "uf": "BA",
-  "ibge": "2930204"
+  "ibge": "2930204",
+  "lat": -10.0451021,
+  "lon": -41.7606472
 }

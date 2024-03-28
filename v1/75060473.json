@@ -5,5 +5,7 @@
   "bairro": "Jardim Alexandrina",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2947027,
+  "lon": -48.9667918
 }

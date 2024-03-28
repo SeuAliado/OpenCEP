@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7048758,
+  "lon": -47.590517
 }

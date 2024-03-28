@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Nossa Senhora de Fátima",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8785074,
+  "lon": -43.8691443
 }

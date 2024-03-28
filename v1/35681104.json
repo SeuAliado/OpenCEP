@@ -5,5 +5,7 @@
   "bairro": "Parque Jardim Santanense",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.090255,
+  "lon": -44.6140999
 }

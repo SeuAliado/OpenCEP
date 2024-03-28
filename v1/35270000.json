@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mendes Pimentel",
   "uf": "MG",
-  "ibge": "3141504"
+  "ibge": "3141504",
+  "lat": -18.6577232,
+  "lon": -41.4020654
 }

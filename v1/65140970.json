@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Juscelino",
   "uf": "MA",
-  "ibge": "2109205"
+  "ibge": "2109205",
+  "lat": -2.9243335,
+  "lon": -44.0626249
 }

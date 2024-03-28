@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vila dos Comerciários II",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2128262,
+  "lon": -49.9766816
 }

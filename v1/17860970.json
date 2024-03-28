@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pacaembu",
   "uf": "SP",
-  "ibge": "3534906"
+  "ibge": "3534906",
+  "lat": -21.5595262,
+  "lon": -51.2699197
 }

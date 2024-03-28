@@ -5,5 +5,7 @@
   "bairro": "Quarenta Horas (Coqueiro)",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "lat": -1.3327135,
+  "lon": -48.4172747
 }

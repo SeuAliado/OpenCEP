@@ -5,5 +5,7 @@
   "bairro": "Jardim Brabância",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1149532,
+  "lon": -48.9348294
 }

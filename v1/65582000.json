@@ -5,5 +5,7 @@
   "bairro": "Barro Duro",
   "localidade": "Tutóia",
   "uf": "MA",
-  "ibge": "2112506"
+  "ibge": "2112506",
+  "lat": -2.9050361,
+  "lon": -42.3055365
 }

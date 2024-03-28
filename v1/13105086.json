@@ -5,5 +5,7 @@
   "bairro": "Jardim Conceição (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.886266,
+  "lon": -46.9826967
 }

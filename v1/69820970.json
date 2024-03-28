@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canutama",
   "uf": "AM",
-  "ibge": "1300904"
+  "ibge": "1300904",
+  "lat": -6.531657,
+  "lon": -64.3844054
 }

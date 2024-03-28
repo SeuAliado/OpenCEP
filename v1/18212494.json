@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Nisshinbo do Brasil",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.567269,
+  "lon": -48.0268051
 }

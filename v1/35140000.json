@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tarumirim",
   "uf": "MG",
-  "ibge": "3168408"
+  "ibge": "3168408",
+  "lat": -19.283957,
+  "lon": -42.0100938
 }

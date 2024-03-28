@@ -5,5 +5,7 @@
   "bairro": "Vila Janaína",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5937758,
+  "lon": -44.1928788
 }

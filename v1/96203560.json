@@ -5,5 +5,7 @@
   "bairro": "Vila Bernardeth",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0634374,
+  "lon": -52.146153
 }

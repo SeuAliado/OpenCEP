@@ -5,5 +5,7 @@
   "bairro": "Espigão",
   "localidade": "Novo Repartimento",
   "uf": "PA",
-  "ibge": "1505064"
+  "ibge": "1505064",
+  "lat": -4.2505274,
+  "lon": -49.9485264
 }

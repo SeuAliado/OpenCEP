@@ -5,5 +5,7 @@
   "bairro": "Jardim Stella",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.953714,
+  "lon": -47.0751079
 }

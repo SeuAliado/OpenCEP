@@ -5,5 +5,7 @@
   "bairro": "Vila ABC",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5535665,
+  "lon": -46.4021341
 }

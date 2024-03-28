@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Bella",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2913138,
+  "lon": -48.9659026
 }

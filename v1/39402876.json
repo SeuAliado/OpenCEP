@@ -5,5 +5,7 @@
   "bairro": "Vila Anália",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.743945,
+  "lon": -43.8258921
 }

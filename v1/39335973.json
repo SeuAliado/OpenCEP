@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Japonvar",
   "uf": "MG",
-  "ibge": "3135357"
+  "ibge": "3135357",
+  "lat": -15.9946755,
+  "lon": -44.2710597
 }

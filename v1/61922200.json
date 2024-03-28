@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre I",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8397226,
+  "lon": -38.6106099
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Getulina",
   "uf": "SP",
-  "ibge": "3517000"
+  "ibge": "3517000",
+  "lat": -21.7988905,
+  "lon": -49.9288241
 }

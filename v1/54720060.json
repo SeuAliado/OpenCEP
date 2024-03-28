@@ -5,5 +5,7 @@
   "bairro": "Parque Capibaribe",
   "localidade": "São Lourenço da Mata",
   "uf": "PE",
-  "ibge": "2613701"
+  "ibge": "2613701",
+  "lat": -8.0081352,
+  "lon": -35.036834
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Expedito do Sul",
   "uf": "RS",
-  "ibge": "4317954"
+  "ibge": "4317954",
+  "lat": -27.9079314,
+  "lon": -51.6438571
 }

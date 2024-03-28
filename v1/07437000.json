@@ -5,5 +5,7 @@
   "bairro": "Parque dos Jacarandás",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4175256,
+  "lon": -46.2953613
 }

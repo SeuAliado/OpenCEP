@@ -5,5 +5,7 @@
   "bairro": "Residencial Laguna",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2066458,
+  "lon": -46.8460959
 }

@@ -5,5 +5,7 @@
   "bairro": "Pio Corrêa",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6749574,
+  "lon": -49.3557401
 }

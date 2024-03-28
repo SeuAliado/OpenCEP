@@ -5,5 +5,7 @@
   "bairro": "Setor Dona Gercina",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7770702,
+  "lon": -50.9093191
 }

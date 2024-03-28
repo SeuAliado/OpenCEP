@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Reis",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3073375,
+  "lon": -46.7331407
 }

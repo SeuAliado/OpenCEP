@@ -5,5 +5,7 @@
   "bairro": "Imbuial",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.2899263,
+  "lon": -49.1740359
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Paraíso",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.1995493,
+  "lon": -50.4456544
 }

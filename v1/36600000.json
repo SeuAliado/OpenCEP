@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bicas",
   "uf": "MG",
-  "ibge": "3106903"
+  "ibge": "3106903",
+  "lat": -21.7171886,
+  "lon": -43.0628041
 }

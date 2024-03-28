@@ -5,5 +5,7 @@
   "bairro": "Jardim Celeste",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.0952674,
+  "lon": -46.9251682
 }

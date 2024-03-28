@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cassilândia",
   "uf": "MS",
-  "ibge": "5002902"
+  "ibge": "5002902",
+  "lat": -19.1183251,
+  "lon": -51.7317822
 }

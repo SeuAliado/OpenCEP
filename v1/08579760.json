@@ -5,5 +5,7 @@
   "bairro": "Rio Abaixo",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4615922,
+  "lon": -46.3887874
 }

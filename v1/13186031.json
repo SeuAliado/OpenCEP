@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Amélia",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8777228,
+  "lon": -47.2015743
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova Arujá",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4064775,
+  "lon": -46.3382026
 }

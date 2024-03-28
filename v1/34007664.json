@@ -5,5 +5,7 @@
   "bairro": "Jardim Canadá",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0595996,
+  "lon": -43.9744008
 }

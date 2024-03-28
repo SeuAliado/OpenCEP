@@ -5,5 +5,7 @@
   "bairro": "Ilha do Frade",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.3008011,
+  "lon": -40.2790491
 }

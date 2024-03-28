@@ -5,5 +5,7 @@
   "bairro": "Belmonte",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7671681,
+  "lon": -43.4479589
 }

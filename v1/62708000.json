@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "lat": -3.8205224,
+  "lon": -38.5824405
 }

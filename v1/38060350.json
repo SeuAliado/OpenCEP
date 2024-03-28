@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.747006,
+  "lon": -47.9413969
 }

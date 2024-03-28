@@ -5,5 +5,7 @@
   "bairro": "Jardim Capivari",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9537792,
+  "lon": -47.1097313
 }

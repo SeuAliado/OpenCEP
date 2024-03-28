@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Encruzilhada",
   "uf": "BA",
-  "ibge": "2910404"
+  "ibge": "2910404",
+  "lat": -15.5306298,
+  "lon": -40.9128094
 }

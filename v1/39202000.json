@@ -5,5 +5,7 @@
   "bairro": "Contria",
   "localidade": "Corinto",
   "uf": "MG",
-  "ibge": "3119104"
+  "ibge": "3119104",
+  "lat": -18.2152607,
+  "lon": -44.5062666
 }

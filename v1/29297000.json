@@ -5,5 +5,7 @@
   "bairro": "Jaciguá",
   "localidade": "Vargem Alta",
   "uf": "ES",
-  "ibge": "3205036"
+  "ibge": "3205036",
+  "lat": -20.7052465,
+  "lon": -41.0206282
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bela Vista I",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.3179731,
+  "lon": -45.9799967
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rodrigues Alves",
   "uf": "AC",
-  "ibge": "1200427"
+  "ibge": "1200427",
+  "lat": -29.1710744,
+  "lon": -51.1524733
 }

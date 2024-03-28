@@ -5,5 +5,7 @@
   "bairro": "Jardim Alteza",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.7671994,
+  "lon": -46.4391481
 }

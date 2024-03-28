@@ -5,5 +5,7 @@
   "bairro": "Jardim Lauro Pozzi",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0228297,
+  "lon": -47.4265893
 }

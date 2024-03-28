@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7370475,
+  "lon": -47.3275623
 }

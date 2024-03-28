@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lontras",
   "uf": "SC",
-  "ibge": "4209904"
+  "ibge": "4209904",
+  "lat": -27.1377512,
+  "lon": -49.5443333
 }

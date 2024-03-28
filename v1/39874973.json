@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Helena de Minas",
   "uf": "MG",
-  "ibge": "3157658"
+  "ibge": "3157658",
+  "lat": -18.8562477,
+  "lon": -41.9471607
 }

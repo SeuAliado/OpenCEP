@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Inocêncio",
   "uf": "PI",
-  "ibge": "2203453"
+  "ibge": "2203453",
+  "lat": -9.0032457,
+  "lon": -41.9719048
 }

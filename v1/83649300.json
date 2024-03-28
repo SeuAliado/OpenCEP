@@ -5,5 +5,7 @@
   "bairro": "Lavra",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -24.0203751,
+  "lon": -52.3553808
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "lat": -20.4091247,
+  "lon": -42.8907044
 }

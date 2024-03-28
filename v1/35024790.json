@@ -5,5 +5,7 @@
   "bairro": "Sir",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.83371,
+  "lon": -41.8962114
 }

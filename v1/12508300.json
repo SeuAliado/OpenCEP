@@ -5,5 +5,7 @@
   "bairro": "Parque das Garças",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7913293,
+  "lon": -45.2679582
 }

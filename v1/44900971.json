@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Irecê",
   "uf": "BA",
-  "ibge": "2914604"
+  "ibge": "2914604",
+  "lat": -11.3042482,
+  "lon": -41.8583333
 }

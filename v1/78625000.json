@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo São Joaquim",
   "uf": "MT",
-  "ibge": "5106281"
+  "ibge": "5106281",
+  "lat": -14.9132695,
+  "lon": -53.0186912
 }

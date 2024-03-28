@@ -5,5 +5,7 @@
   "bairro": "Parque Recreio",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.2221105,
+  "lon": -39.4086659
 }

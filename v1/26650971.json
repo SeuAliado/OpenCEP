@@ -5,5 +5,7 @@
   "bairro": "Morro Azul do Tinguá",
   "localidade": "Engenheiro Paulo de Frontin",
   "uf": "RJ",
-  "ibge": "3301801"
+  "ibge": "3301801",
+  "lat": -22.4760715,
+  "lon": -43.5812673
 }

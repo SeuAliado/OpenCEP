@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ourolândia",
   "uf": "BA",
-  "ibge": "2923357"
+  "ibge": "2923357",
+  "lat": -10.9582794,
+  "lon": -41.0759478
 }

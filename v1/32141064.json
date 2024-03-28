@@ -5,5 +5,7 @@
   "bairro": "Oitis",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9109426,
+  "lon": -44.037085
 }

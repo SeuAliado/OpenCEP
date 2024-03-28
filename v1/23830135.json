@@ -5,5 +5,7 @@
   "bairro": "Parque Primavera",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8547827,
+  "lon": -43.7747292
 }

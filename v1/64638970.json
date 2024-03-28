@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Luís do Piauí",
   "uf": "PI",
-  "ibge": "2210375"
+  "ibge": "2210375",
+  "lat": -6.8285895,
+  "lon": -41.3236218
 }

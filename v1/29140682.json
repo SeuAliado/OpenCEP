@@ -5,5 +5,7 @@
   "bairro": "Santa Paula",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3677423,
+  "lon": -40.3826632
 }

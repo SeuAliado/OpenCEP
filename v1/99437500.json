@@ -5,5 +5,7 @@
   "bairro": "Rincão dos Toledos",
   "localidade": "Campos Borges",
   "uf": "RS",
-  "ibge": "4304101"
+  "ibge": "4304101",
+  "lat": -28.8967603,
+  "lon": -53.0556375
 }

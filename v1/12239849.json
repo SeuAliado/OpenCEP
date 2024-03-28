@@ -5,5 +5,7 @@
   "bairro": "Residencial Altos do Bosque",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2663107,
+  "lon": -45.892304
 }

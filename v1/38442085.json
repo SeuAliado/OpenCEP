@@ -5,5 +5,7 @@
   "bairro": "Goiás",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6416916,
+  "lon": -48.209091
 }

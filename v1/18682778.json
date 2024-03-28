@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Azul",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6088938,
+  "lon": -48.7933963
 }

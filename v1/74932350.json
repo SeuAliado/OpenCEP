@@ -5,5 +5,7 @@
   "bairro": "Garavelo Residencial Park",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7531564,
+  "lon": -49.3350881
 }

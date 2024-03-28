@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tracunhaém",
   "uf": "PE",
-  "ibge": "2615508"
+  "ibge": "2615508",
+  "lat": -7.80298,
+  "lon": -35.2368026
 }

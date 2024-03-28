@@ -5,5 +5,7 @@
   "bairro": "Parque das Aroeiras",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7851086,
+  "lon": -49.4343989
 }

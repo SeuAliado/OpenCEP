@@ -5,5 +5,7 @@
   "bairro": "Vila da Serra",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9773543,
+  "lon": -43.9330686
 }

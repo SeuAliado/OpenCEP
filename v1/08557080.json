@@ -5,5 +5,7 @@
   "bairro": "Vila Vampre",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5193133,
+  "lon": -46.338023
 }

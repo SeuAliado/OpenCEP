@@ -5,5 +5,7 @@
   "bairro": "Vila Zilda (Tatuapé)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5350967,
+  "lon": -46.5640042
 }

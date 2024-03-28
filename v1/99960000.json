@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Charrua",
   "uf": "RS",
-  "ibge": "4305371"
+  "ibge": "4305371",
+  "lat": -27.9497592,
+  "lon": -52.0155132
 }

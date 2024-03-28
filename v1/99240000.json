@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Valentim do Sul",
   "uf": "RS",
-  "ibge": "4319711"
+  "ibge": "4319711",
+  "lat": -29.0530112,
+  "lon": -51.7708106
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Bonfim",
   "uf": "PB",
-  "ibge": "2514602"
+  "ibge": "2514602",
+  "lat": -7.1621886,
+  "lon": -37.3086249
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Fiquene",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5158452,
+  "lon": -47.4368545
 }

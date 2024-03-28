@@ -5,5 +5,7 @@
   "bairro": "Penha do Capim",
   "localidade": "Aimorés",
   "uf": "MG",
-  "ibge": "3101102"
+  "ibge": "3101102",
+  "lat": -19.6682004,
+  "lon": -41.253866
 }

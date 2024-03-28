@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7929446,
+  "lon": -44.0255554
 }

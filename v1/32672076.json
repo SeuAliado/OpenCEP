@@ -5,5 +5,7 @@
   "bairro": "Niterói",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.94829,
+  "lon": -44.1807817
 }

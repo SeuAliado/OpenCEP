@@ -5,5 +5,7 @@
   "bairro": "Jardim Angélica",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.453231,
+  "lon": -46.4183246
 }

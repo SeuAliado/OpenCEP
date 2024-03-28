@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campina das Missões",
   "uf": "RS",
-  "ibge": "4303707"
+  "ibge": "4303707",
+  "lat": -27.9899913,
+  "lon": -54.8403285
 }

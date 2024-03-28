@@ -5,5 +5,7 @@
   "bairro": "Sol Nascente",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6537635,
+  "lon": -40.5052746
 }

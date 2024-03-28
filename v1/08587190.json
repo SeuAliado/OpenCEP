@@ -5,5 +5,7 @@
   "bairro": "Jardim Amanda Caiubi",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4323966,
+  "lon": -46.3136645
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.833816,
+  "lon": -35.2447046
 }

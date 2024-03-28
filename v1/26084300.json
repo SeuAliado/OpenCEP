@@ -5,5 +5,7 @@
   "bairro": "Riachão",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.736534,
+  "lon": -43.5280191
 }

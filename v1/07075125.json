@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosana",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4373606,
+  "lon": -46.5624363
 }

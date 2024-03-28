@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedra Dourada",
   "uf": "MG",
-  "ibge": "3149002"
+  "ibge": "3149002",
+  "lat": -20.8316156,
+  "lon": -42.1556999
 }

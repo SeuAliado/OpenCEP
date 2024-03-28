@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José das Missões",
   "uf": "RS",
-  "ibge": "4318457"
+  "ibge": "4318457",
+  "lat": -27.7793945,
+  "lon": -53.1231111
 }

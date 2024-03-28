@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Delfa",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "lat": -23.3220614,
+  "lon": -46.7511336
 }

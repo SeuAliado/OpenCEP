@@ -5,5 +5,7 @@
   "bairro": "Vila Rocha",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5799099,
+  "lon": -48.0416085
 }

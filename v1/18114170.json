@@ -5,5 +5,7 @@
   "bairro": "Vila Dominguinho",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5417925,
+  "lon": -47.4395505
 }

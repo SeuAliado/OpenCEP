@@ -5,5 +5,7 @@
   "bairro": "Vila São Luiz",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1267214,
+  "lon": -48.981534
 }

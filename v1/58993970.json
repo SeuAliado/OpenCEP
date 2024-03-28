@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Ventura",
   "uf": "PB",
-  "ibge": "2502102"
+  "ibge": "2502102",
+  "lat": -7.4198563,
+  "lon": -38.2174259
 }

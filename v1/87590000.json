@@ -5,5 +5,7 @@
   "bairro": "Mirante do Piquiri",
   "localidade": "Alto Piquiri",
   "uf": "PR",
-  "ibge": "4100707"
+  "ibge": "4100707",
+  "lat": -24.2020197,
+  "lon": -53.3893385
 }

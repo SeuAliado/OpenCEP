@@ -5,5 +5,7 @@
   "bairro": "Luiz de Camões",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.6899057,
+  "lon": -43.5529475
 }

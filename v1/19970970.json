@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "lat": -24.5103106,
+  "lon": -48.8423543
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taquaraçu de Minas",
   "uf": "MG",
-  "ibge": "3168309"
+  "ibge": "3168309",
+  "lat": -19.6682193,
+  "lon": -43.6880038
 }

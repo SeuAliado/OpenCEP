@@ -5,5 +5,7 @@
   "bairro": "Jardim Alexandre Balbo",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.126999,
+  "lon": -47.8261035
 }

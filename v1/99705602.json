@@ -5,5 +5,7 @@
   "bairro": "Parque Redenção",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6406469,
+  "lon": -52.233597
 }

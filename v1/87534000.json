@@ -5,5 +5,7 @@
   "bairro": "Vila Rica do Ivaí",
   "localidade": "Icaraíma",
   "uf": "PR",
-  "ibge": "4109906"
+  "ibge": "4109906",
+  "lat": -23.2920813,
+  "lon": -53.5538462
 }

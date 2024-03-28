@@ -5,5 +5,7 @@
   "bairro": "Cerrado",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.576384,
+  "lon": -46.5268199
 }

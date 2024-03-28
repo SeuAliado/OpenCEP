@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Rosa",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4662584,
+  "lon": -46.333594
 }

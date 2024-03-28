@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Joaquim Pires",
   "uf": "PI",
-  "ibge": "2205409"
+  "ibge": "2205409",
+  "lat": -3.5088834,
+  "lon": -42.1928585
 }

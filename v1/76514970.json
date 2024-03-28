@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Crixás",
   "uf": "GO",
-  "ibge": "5206404"
+  "ibge": "5206404",
+  "lat": -14.5458496,
+  "lon": -49.9691245
 }

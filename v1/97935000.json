@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mato Queimado",
   "uf": "RS",
-  "ibge": "4312179"
+  "ibge": "4312179",
+  "lat": -28.2583043,
+  "lon": -54.6176198
 }

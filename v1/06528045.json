@@ -5,5 +5,7 @@
   "bairro": "Jardim Espacial",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.408189,
+  "lon": -46.897277
 }

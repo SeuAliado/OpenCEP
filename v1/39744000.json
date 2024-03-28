@@ -5,5 +5,7 @@
   "bairro": "Farias",
   "localidade": "Guanhães",
   "uf": "MG",
-  "ibge": "3128006"
+  "ibge": "3128006",
+  "lat": -19.0090437,
+  "lon": -42.8209631
 }

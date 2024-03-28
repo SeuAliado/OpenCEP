@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araricá",
   "uf": "RS",
-  "ibge": "4300877"
+  "ibge": "4300877",
+  "lat": -29.6173325,
+  "lon": -50.9296355
 }

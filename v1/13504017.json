@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.3888727,
+  "lon": -47.5658633
 }

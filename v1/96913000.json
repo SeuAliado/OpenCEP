@@ -5,5 +5,7 @@
   "bairro": "Serrinha Velha",
   "localidade": "Segredo",
   "uf": "RS",
-  "ibge": "4320263"
+  "ibge": "4320263",
+  "lat": -29.3682884,
+  "lon": -52.9330969
 }

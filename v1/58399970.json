@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Algodão de Jandaíra",
   "uf": "PB",
-  "ibge": "2500577"
+  "ibge": "2500577",
+  "lat": -6.904333,
+  "lon": -36.011024
 }

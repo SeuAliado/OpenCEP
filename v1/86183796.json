@@ -5,5 +5,7 @@
   "bairro": "Jardim José Favaro",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -23.2753041,
+  "lon": -51.2480337
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cândido Mendes",
   "uf": "MA",
-  "ibge": "2102606"
+  "ibge": "2102606",
+  "lat": -1.4330092,
+  "lon": -45.7165147
 }

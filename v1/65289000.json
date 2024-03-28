@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maracaçumé",
   "uf": "MA",
-  "ibge": "2106326"
+  "ibge": "2106326",
+  "lat": -2.0133843,
+  "lon": -45.9991326
 }

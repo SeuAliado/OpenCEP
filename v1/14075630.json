@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Tanquinho",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1353019,
+  "lon": -47.8002801
 }

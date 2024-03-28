@@ -5,5 +5,7 @@
   "bairro": "Jardim Leopoldina",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5503509,
+  "lon": -46.8434049
 }

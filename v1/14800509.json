@@ -5,5 +5,7 @@
   "bairro": "Vila Kátia",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8067912,
+  "lon": -48.1831662
 }

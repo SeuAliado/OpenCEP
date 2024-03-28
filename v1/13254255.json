@@ -5,5 +5,7 @@
   "bairro": "Parque São Francisco",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0047832,
+  "lon": -46.8135063
 }

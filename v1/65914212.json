@@ -5,5 +5,7 @@
   "bairro": "Parque Sanharol",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5154521,
+  "lon": -47.4508879
 }

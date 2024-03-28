@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial João Luiz",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8969678,
+  "lon": -47.195015
 }

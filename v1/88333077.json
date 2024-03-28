@@ -5,5 +5,7 @@
   "bairro": "Praia das Taquaras",
   "localidade": "Balneário Camboriú",
   "uf": "SC",
-  "ibge": "4202008"
+  "ibge": "4202008",
+  "lat": -27.0125712,
+  "lon": -48.5777974
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial São Vicente",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5102976,
+  "lon": -47.4032206
 }

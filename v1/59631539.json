@@ -5,5 +5,7 @@
   "bairro": "Planalto Treze de Maio",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -9.736818,
+  "lon": -36.6629232
 }

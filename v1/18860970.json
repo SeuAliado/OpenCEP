@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Timburi",
   "uf": "SP",
-  "ibge": "3554607"
+  "ibge": "3554607",
+  "lat": -23.2052682,
+  "lon": -49.6056675
 }

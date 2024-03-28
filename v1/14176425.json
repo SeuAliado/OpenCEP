@@ -5,5 +5,7 @@
   "bairro": "Chácaras Recreio Planalto",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.1359205,
+  "lon": -48.026336
 }

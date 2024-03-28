@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Helena",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2864756,
+  "lon": -48.579318
 }

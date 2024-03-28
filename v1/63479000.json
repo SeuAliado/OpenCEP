@@ -5,5 +5,7 @@
   "bairro": "Aquinópolis",
   "localidade": "Jaguaribe",
   "uf": "CE",
-  "ibge": "2306900"
+  "ibge": "2306900",
+  "lat": -6.0059841,
+  "lon": -38.6785978
 }

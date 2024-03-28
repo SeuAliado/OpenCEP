@@ -5,5 +5,7 @@
   "bairro": "Andaraí",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9248121,
+  "lon": -43.2485553
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto Esperança",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5169547,
+  "lon": -44.2321474
 }

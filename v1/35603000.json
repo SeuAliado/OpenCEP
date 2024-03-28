@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araújos",
   "uf": "MG",
-  "ibge": "3103900"
+  "ibge": "3103900",
+  "lat": -19.9475164,
+  "lon": -45.1661304
 }

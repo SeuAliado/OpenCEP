@@ -5,5 +5,7 @@
   "bairro": "Rio Pequeno",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.5193838,
+  "lon": -49.158541
 }

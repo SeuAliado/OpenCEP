@@ -5,5 +5,7 @@
   "bairro": "Chácara Bela Vista",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5092437,
+  "lon": -46.3448995
 }

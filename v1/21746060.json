@@ -5,5 +5,7 @@
   "bairro": "Magalhães Bastos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8778916,
+  "lon": -43.4084621
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Centro Novo do Maranhão",
   "uf": "MA",
-  "ibge": "2103174"
+  "ibge": "2103174",
+  "lat": -2.8291315,
+  "lon": -46.3624686
 }

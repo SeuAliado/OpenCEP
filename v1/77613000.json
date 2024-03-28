@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa do Tocantins",
   "uf": "TO",
-  "ibge": "1711951"
+  "ibge": "1711951",
+  "lat": -10.3141923,
+  "lon": -47.4882762
 }

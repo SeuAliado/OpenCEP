@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Igarapé do Meio",
   "uf": "MA",
-  "ibge": "2105153"
+  "ibge": "2105153",
+  "lat": -3.6424689,
+  "lon": -45.1878563
 }

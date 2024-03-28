@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "João Dourado",
   "uf": "BA",
-  "ibge": "2918357"
+  "ibge": "2918357",
+  "lat": -11.3462317,
+  "lon": -41.6631663
 }

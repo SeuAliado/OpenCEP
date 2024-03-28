@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Marta III",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2082374,
+  "lon": -47.271442
 }

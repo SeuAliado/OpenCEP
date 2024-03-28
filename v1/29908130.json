@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3354048,
+  "lon": -40.0568616
 }

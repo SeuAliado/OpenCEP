@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.2919404,
+  "lon": -46.0333595
 }

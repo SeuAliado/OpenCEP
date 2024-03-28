@@ -5,5 +5,7 @@
   "bairro": "Poço Escuro (Santo Aleixo)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.5545139,
+  "lon": -43.0481277
 }

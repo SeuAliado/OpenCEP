@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Luzia",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.596106,
+  "lon": -46.9453321
 }

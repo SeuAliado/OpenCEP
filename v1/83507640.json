@@ -5,5 +5,7 @@
   "bairro": "Lamenha Grande",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.352715,
+  "lon": -49.2919912
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Isaura",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4247161,
+  "lon": -46.8145165
 }

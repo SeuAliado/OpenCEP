@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quadra",
   "uf": "SP",
-  "ibge": "3541653"
+  "ibge": "3541653",
+  "lat": -23.29838,
+  "lon": -48.0564217
 }

@@ -5,5 +5,7 @@
   "bairro": "Itaguaçu",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "lat": -27.6145684,
+  "lon": -48.5943311
 }

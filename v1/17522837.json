@@ -5,5 +5,7 @@
   "bairro": "Parque das Azaléias",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.247969,
+  "lon": -49.9416536
 }

@@ -5,5 +5,7 @@
   "bairro": "Maria Rocha Village",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.812799,
+  "lon": -50.9265495
 }

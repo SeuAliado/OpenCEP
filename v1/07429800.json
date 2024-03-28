@@ -5,5 +5,7 @@
   "bairro": "Parque Maringá",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.4155463,
+  "lon": -46.3373775
 }

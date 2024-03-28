@@ -5,5 +5,7 @@
   "bairro": "Maria Antonieta",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4383119,
+  "lon": -49.156279
 }

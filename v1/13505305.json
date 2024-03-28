@@ -5,5 +5,7 @@
   "bairro": "Jardim Cherveson",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.3838892,
+  "lon": -47.5716796
 }

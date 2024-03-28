@@ -5,5 +5,7 @@
   "bairro": "Prazeres",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "lat": -8.1441224,
+  "lon": -34.936615
 }

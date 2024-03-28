@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Sabugi",
   "uf": "PB",
-  "ibge": "2514701"
+  "ibge": "2514701",
+  "lat": -6.7759968,
+  "lon": -36.7992396
 }

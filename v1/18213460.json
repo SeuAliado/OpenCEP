@@ -5,5 +5,7 @@
   "bairro": "Vila Novo Horizonte",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5757497,
+  "lon": -48.0235008
 }

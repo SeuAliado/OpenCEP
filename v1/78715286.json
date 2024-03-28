@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -15.5617691,
+  "lon": -56.0523518
 }

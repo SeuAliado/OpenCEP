@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Sarney",
   "uf": "MA",
-  "ibge": "2109270"
+  "ibge": "2109270",
+  "lat": -2.6001017,
+  "lon": -45.4370859
 }

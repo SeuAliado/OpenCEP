@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada das Acácias",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6115348,
+  "lon": -47.4222071
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Aimorés",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3116116,
+  "lon": -48.994268
 }

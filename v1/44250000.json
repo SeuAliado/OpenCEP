@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coração de Maria",
   "uf": "BA",
-  "ibge": "2908903"
+  "ibge": "2908903",
+  "lat": -12.2150246,
+  "lon": -38.7996239
 }

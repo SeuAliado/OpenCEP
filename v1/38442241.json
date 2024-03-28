@@ -5,5 +5,7 @@
   "bairro": "Sewa",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.8463974,
+  "lon": -47.9565208
 }

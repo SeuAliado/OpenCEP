@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Igaraçu do Tietê",
   "uf": "SP",
-  "ibge": "3520004"
+  "ibge": "3520004",
+  "lat": -22.5097036,
+  "lon": -48.5568493
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cocos",
   "uf": "BA",
-  "ibge": "2908101"
+  "ibge": "2908101",
+  "lat": -14.1818073,
+  "lon": -44.5356256
 }

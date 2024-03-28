@@ -5,5 +5,7 @@
   "bairro": "Topázio",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.3413866,
+  "lon": -40.4774608
 }

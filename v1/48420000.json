@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antas",
   "uf": "BA",
-  "ibge": "2901601"
+  "ibge": "2901601",
+  "lat": -10.3909253,
+  "lon": -38.29549
 }

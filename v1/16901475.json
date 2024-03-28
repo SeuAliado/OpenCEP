@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8946054,
+  "lon": -51.3731195
 }

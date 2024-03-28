@@ -5,5 +5,7 @@
   "bairro": "Albino Nicolau Schmidt",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -25.0001025,
+  "lon": -53.5280169
 }

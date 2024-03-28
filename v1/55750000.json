@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "lat": -7.8478439,
+  "lon": -35.7570657
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Andradina",
   "uf": "MS",
-  "ibge": "5006200"
+  "ibge": "5006200",
+  "lat": -22.2495244,
+  "lon": -53.3458495
 }

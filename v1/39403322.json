@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -19.7639505,
+  "lon": -47.9222526
 }

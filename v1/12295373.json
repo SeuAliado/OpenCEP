@@ -5,5 +5,7 @@
   "bairro": "Loteamento Pedro Rizzo II",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1777328,
+  "lon": -45.7367723
 }

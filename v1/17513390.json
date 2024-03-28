@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2066887,
+  "lon": -49.9378764
 }

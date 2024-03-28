@@ -5,5 +5,7 @@
   "bairro": "Gardênia Azul",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9489252,
+  "lon": -43.3408286
 }

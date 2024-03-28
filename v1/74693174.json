@@ -5,5 +5,7 @@
   "bairro": "Residencial Antônio Carlos Pires",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.545674,
+  "lon": -49.2694429
 }

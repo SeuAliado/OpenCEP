@@ -5,5 +5,7 @@
   "bairro": "Agro Brasil (Sambaetiba)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.66687,
+  "lon": -42.7871148
 }

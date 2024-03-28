@@ -5,5 +5,7 @@
   "bairro": "Vila Camargo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5652308,
+  "lon": -47.3917563
 }

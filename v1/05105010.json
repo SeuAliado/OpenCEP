@@ -5,5 +5,7 @@
   "bairro": "Vila dos Remédios",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5106874,
+  "lon": -46.7561665
 }

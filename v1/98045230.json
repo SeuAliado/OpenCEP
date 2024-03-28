@@ -5,5 +5,7 @@
   "bairro": "Tamoio",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6711338,
+  "lon": -53.6047097
 }

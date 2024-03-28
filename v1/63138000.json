@@ -5,5 +5,7 @@
   "bairro": "Ponta da Serra",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "lat": -7.0994571,
+  "lon": -39.4067446
 }

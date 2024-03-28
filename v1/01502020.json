@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.2980153,
+  "lon": -45.9468223
 }

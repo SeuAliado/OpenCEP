@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "lat": -23.086061,
+  "lon": -46.9488168
 }

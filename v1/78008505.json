@@ -5,5 +5,7 @@
   "bairro": "Lixeira",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5963721,
+  "lon": -56.087058
 }

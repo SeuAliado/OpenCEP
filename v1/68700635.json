@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1899654,
+  "lon": -47.160495
 }

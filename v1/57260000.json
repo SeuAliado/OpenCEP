@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Limoeiro de Anadia",
   "uf": "AL",
-  "ibge": "2704203"
+  "ibge": "2704203",
+  "lat": -9.7414106,
+  "lon": -36.5124275
 }

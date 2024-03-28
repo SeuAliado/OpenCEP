@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaíba",
   "uf": "MG",
-  "ibge": "3135050"
+  "ibge": "3135050",
+  "lat": -15.3490278,
+  "lon": -43.6697132
 }

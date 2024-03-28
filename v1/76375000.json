@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Hidrolina",
   "uf": "GO",
-  "ibge": "5209804"
+  "ibge": "5209804",
+  "lat": -14.7471337,
+  "lon": -49.3247147
 }

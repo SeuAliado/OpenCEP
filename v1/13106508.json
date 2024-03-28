@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8733804,
+  "lon": -46.9644812
 }

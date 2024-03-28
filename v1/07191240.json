@@ -5,5 +5,7 @@
   "bairro": "Vila Planalto",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4604458,
+  "lon": -46.510412
 }

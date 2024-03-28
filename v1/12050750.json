@@ -5,5 +5,7 @@
   "bairro": "Chácara do Visconde",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0204075,
+  "lon": -45.5709082
 }

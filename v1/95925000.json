@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Progresso",
   "uf": "RS",
-  "ibge": "4315156"
+  "ibge": "4315156",
+  "lat": -29.2424799,
+  "lon": -52.310549
 }

@@ -5,5 +5,7 @@
   "bairro": "Petit Vilage",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6581123,
+  "lon": -52.2579273
 }

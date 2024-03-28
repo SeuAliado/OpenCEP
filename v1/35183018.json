@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5725375,
+  "lon": -42.670637
 }

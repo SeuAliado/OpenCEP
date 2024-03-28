@@ -5,5 +5,7 @@
   "bairro": "Recanto Tropical",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9364106,
+  "lon": -53.4836754
 }

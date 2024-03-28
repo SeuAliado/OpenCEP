@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz",
   "uf": "RN",
-  "ibge": "2411205"
+  "ibge": "2411205",
+  "lat": -6.2257565,
+  "lon": -36.0216974
 }

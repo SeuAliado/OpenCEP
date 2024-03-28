@@ -5,5 +5,7 @@
   "bairro": "Coimbra",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4458818,
+  "lon": -43.7979181
 }

@@ -5,5 +5,7 @@
   "bairro": "Igaçaba",
   "localidade": "Pedregulho",
   "uf": "SP",
-  "ibge": "3537008"
+  "ibge": "3537008",
+  "lat": -20.1333788,
+  "lon": -47.4435828
 }

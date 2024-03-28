@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novo Horizonte do Sul",
   "uf": "MS",
-  "ibge": "5006259"
+  "ibge": "5006259",
+  "lat": -22.6195161,
+  "lon": -53.7803147
 }

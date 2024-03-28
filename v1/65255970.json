@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guimarães",
   "uf": "MA",
-  "ibge": "2104909"
+  "ibge": "2104909",
+  "lat": -2.1320336,
+  "lon": -44.6026096
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Potiretama",
   "uf": "CE",
-  "ibge": "2311231"
+  "ibge": "2311231",
+  "lat": -5.7132652,
+  "lon": -38.1581459
 }

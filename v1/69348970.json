@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iracema",
   "uf": "RR",
-  "ibge": "1400282"
+  "ibge": "1400282",
+  "lat": 2.1628651,
+  "lon": -61.0534113
 }

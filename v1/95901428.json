@@ -5,5 +5,7 @@
   "bairro": "Jardim do Cedro",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4808068,
+  "lon": -51.991285
 }

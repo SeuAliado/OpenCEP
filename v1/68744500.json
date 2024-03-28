@@ -5,5 +5,7 @@
   "bairro": "Imperador",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "lat": -1.265423,
+  "lon": -47.9041445
 }

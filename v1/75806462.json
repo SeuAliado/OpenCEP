@@ -5,5 +5,7 @@
   "bairro": "Bela Vista II",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8818109,
+  "lon": -51.7207172
 }

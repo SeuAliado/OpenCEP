@@ -5,5 +5,7 @@
   "bairro": "Boca do Mato",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.5338114,
+  "lon": -43.7975973
 }

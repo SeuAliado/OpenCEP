@@ -5,5 +5,7 @@
   "bairro": "Veleiros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6805343,
+  "lon": -46.7066951
 }

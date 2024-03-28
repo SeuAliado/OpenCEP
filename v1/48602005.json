@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.4021294,
+  "lon": -38.222469
 }

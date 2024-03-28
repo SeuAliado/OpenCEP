@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conceição do Almeida",
   "uf": "BA",
-  "ibge": "2908309"
+  "ibge": "2908309",
+  "lat": -12.7688873,
+  "lon": -39.1671587
 }

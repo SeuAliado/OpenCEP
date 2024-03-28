@@ -5,5 +5,7 @@
   "bairro": "Brigadeira",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "lat": -29.8769388,
+  "lon": -51.1749482
 }

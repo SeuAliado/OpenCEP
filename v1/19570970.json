@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Regente Feijó",
   "uf": "SP",
-  "ibge": "3542404"
+  "ibge": "3542404",
+  "lat": -22.2190892,
+  "lon": -51.306317
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vista Gaúcha",
   "uf": "RS",
-  "ibge": "4323705"
+  "ibge": "4323705",
+  "lat": -27.2887298,
+  "lon": -53.7029966
 }

@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0193359,
+  "lon": -44.3328619
 }

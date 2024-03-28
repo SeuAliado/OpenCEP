@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paulo de Faria",
   "uf": "SP",
-  "ibge": "3536604"
+  "ibge": "3536604",
+  "lat": -20.0802806,
+  "lon": -49.4669396
 }

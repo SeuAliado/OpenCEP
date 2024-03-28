@@ -5,5 +5,7 @@
   "bairro": "Parque das Palmeiras",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.1044341,
+  "lon": -52.6406293
 }

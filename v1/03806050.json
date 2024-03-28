@@ -5,5 +5,7 @@
   "bairro": "Ermelino Matarazzo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4982915,
+  "lon": -46.4784608
 }

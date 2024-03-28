@@ -5,5 +5,7 @@
   "bairro": "Jardim das Praias",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.723381,
+  "lon": -46.7102736
 }

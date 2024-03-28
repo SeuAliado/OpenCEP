@@ -5,5 +5,7 @@
   "bairro": "Jardim Rebouças",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.3794485,
+  "lon": -51.9700647
 }

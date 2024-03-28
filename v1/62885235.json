@@ -5,5 +5,7 @@
   "bairro": "Cajueiro da Malhada",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "lat": -4.136003,
+  "lon": -38.4954446
 }

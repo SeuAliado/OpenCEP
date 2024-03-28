@@ -5,5 +5,7 @@
   "bairro": "Vila Coqueiro",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.978684,
+  "lon": -46.9957944
 }

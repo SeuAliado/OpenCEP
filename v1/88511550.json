@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8346111,
+  "lon": -50.3127516
 }

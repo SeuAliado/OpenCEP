@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7949985,
+  "lon": -43.416112
 }

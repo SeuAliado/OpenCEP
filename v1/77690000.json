@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araguacema",
   "uf": "TO",
-  "ibge": "1701903"
+  "ibge": "1701903",
+  "lat": -9.0393109,
+  "lon": -49.609512
 }

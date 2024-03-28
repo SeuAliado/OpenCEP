@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Lourival Rabelo dos Santos",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9058954,
+  "lon": -51.3812767
 }

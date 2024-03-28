@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sítio do Quinto",
   "uf": "BA",
-  "ibge": "2930766"
+  "ibge": "2930766",
+  "lat": -10.3651688,
+  "lon": -38.2033808
 }

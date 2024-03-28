@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Missal",
   "uf": "PR",
-  "ibge": "4116059"
+  "ibge": "4116059",
+  "lat": -25.0914713,
+  "lon": -54.2474972
 }

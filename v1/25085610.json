@@ -5,5 +5,7 @@
   "bairro": "Parque Boa Vista II",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7920591,
+  "lon": -43.2848277
 }

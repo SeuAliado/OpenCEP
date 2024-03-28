@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Rosa (Palmeiras)",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6619166,
+  "lon": -46.311471
 }

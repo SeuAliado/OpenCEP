@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Vila das Laranjeiras",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.951232,
+  "lon": -48.4939306
 }

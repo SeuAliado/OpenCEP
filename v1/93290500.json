@@ -5,5 +5,7 @@
   "bairro": "Santo Inácio",
   "localidade": "Esteio",
   "uf": "RS",
-  "ibge": "4307708"
+  "ibge": "4307708",
+  "lat": -29.8510325,
+  "lon": -51.1381499
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Carmo",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4903738,
+  "lon": -46.3716423
 }

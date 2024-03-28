@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Jardim São Domingos",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "lat": -21.9913563,
+  "lon": -46.7931488
 }

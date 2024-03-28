@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Placas",
   "uf": "PA",
-  "ibge": "1505650"
+  "ibge": "1505650",
+  "lat": -3.867417,
+  "lon": -54.2169567
 }

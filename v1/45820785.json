@@ -5,5 +5,7 @@
   "bairro": "Jardins de Eunápolis",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3846613,
+  "lon": -39.592662
 }

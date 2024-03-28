@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juruti",
   "uf": "PA",
-  "ibge": "1503903"
+  "ibge": "1503903",
+  "lat": -2.1528088,
+  "lon": -56.0943826
 }

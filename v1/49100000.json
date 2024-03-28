@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Cristóvão",
   "uf": "SE",
-  "ibge": "2806701"
+  "ibge": "2806701",
+  "lat": -11.0122362,
+  "lon": -37.2059339
 }

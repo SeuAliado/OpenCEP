@@ -5,5 +5,7 @@
   "bairro": "Núcleo Lageado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.529024,
+  "lon": -46.4097399
 }

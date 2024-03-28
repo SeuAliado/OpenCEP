@@ -5,5 +5,7 @@
   "bairro": "Padre Vitor",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5706581,
+  "lon": -45.4112225
 }

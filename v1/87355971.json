@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juranda",
   "uf": "PR",
-  "ibge": "4112959"
+  "ibge": "4112959",
+  "lat": -24.4258243,
+  "lon": -52.8431058
 }

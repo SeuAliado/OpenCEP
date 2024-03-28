@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "João Ramalho",
   "uf": "SP",
-  "ibge": "3525607"
+  "ibge": "3525607",
+  "lat": -22.2478133,
+  "lon": -50.7698346
 }

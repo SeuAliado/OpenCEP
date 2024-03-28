@@ -5,5 +5,7 @@
   "bairro": "Tristeza",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.114054,
+  "lon": -51.2563378
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -20.0450466,
+  "lon": -43.9167016
 }

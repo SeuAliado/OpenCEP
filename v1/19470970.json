@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Epitácio",
   "uf": "SP",
-  "ibge": "3541307"
+  "ibge": "3541307",
+  "lat": -22.1137386,
+  "lon": -51.4030397
 }

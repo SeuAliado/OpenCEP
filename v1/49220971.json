@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arauá",
   "uf": "SE",
-  "ibge": "2800407"
+  "ibge": "2800407",
+  "lat": -13.0366874,
+  "lon": -38.6793484
 }

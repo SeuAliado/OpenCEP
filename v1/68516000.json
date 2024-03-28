@@ -5,5 +5,7 @@
   "bairro": "Carajás",
   "localidade": "Parauapebas",
   "uf": "PA",
-  "ibge": "1505536"
+  "ibge": "1505536",
+  "lat": -6.11594,
+  "lon": -50.0009698
 }

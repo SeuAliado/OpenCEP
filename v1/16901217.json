@@ -5,5 +5,7 @@
   "bairro": "Parque Urubupungá",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8830988,
+  "lon": -51.3721639
 }

@@ -5,5 +5,7 @@
   "bairro": "Planalto do Sol",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8328825,
+  "lon": -47.2687954
 }

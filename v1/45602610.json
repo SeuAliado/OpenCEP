@@ -5,5 +5,7 @@
   "bairro": "São Lourenço",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7862053,
+  "lon": -39.289089
 }

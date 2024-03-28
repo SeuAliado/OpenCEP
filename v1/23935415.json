@@ -5,5 +5,7 @@
   "bairro": "Parque Belém (Cunhambebe)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.9653541,
+  "lon": -44.2955318
 }

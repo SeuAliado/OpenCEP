@@ -5,5 +5,7 @@
   "bairro": "São Ciro",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1366618,
+  "lon": -51.1318959
 }

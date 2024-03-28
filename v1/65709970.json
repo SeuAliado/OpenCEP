@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Satubinha",
   "uf": "MA",
-  "ibge": "2111722"
+  "ibge": "2111722",
+  "lat": -4.033011,
+  "lon": -45.2297252
 }

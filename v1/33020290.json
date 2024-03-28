@@ -5,5 +5,7 @@
   "bairro": "Industrial Americano",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.7600047,
+  "lon": -43.8348586
 }

@@ -5,5 +5,7 @@
   "bairro": "Unamar (Tamoios)",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.6369649,
+  "lon": -42.0013048
 }

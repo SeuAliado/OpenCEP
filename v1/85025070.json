@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.39665,
+  "lon": -51.4910498
 }

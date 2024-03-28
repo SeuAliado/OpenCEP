@@ -5,5 +5,7 @@
   "bairro": "Vila Maristela",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1119489,
+  "lon": -51.3828244
 }

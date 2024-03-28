@@ -5,5 +5,7 @@
   "bairro": "Vila Sônia",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "lat": -24.0025029,
+  "lon": -46.4478221
 }

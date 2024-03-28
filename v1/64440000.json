@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Agricolândia",
   "uf": "PI",
-  "ibge": "2200103"
+  "ibge": "2200103",
+  "lat": -5.7871027,
+  "lon": -42.6880552
 }

@@ -5,5 +5,7 @@
   "bairro": "Enseada do Suá",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.3117056,
+  "lon": -40.2908605
 }

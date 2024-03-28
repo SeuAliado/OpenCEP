@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Fria de Goiás",
   "uf": "GO",
-  "ibge": "5200175"
+  "ibge": "5200175",
+  "lat": -14.9823559,
+  "lon": -47.7857329
 }

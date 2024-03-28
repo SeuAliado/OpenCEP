@@ -5,5 +5,7 @@
   "bairro": "Terra Nova",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "lat": -30.0447438,
+  "lon": -51.0827175
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pau D'Arco",
   "uf": "TO",
-  "ibge": "1716307"
+  "ibge": "1716307",
+  "lat": -7.5395904,
+  "lon": -49.367405
 }

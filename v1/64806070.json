@@ -5,5 +5,7 @@
   "bairro": "Caixa D'Agua",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "lat": -6.772385,
+  "lon": -43.0238272
 }

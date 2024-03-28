@@ -5,5 +5,7 @@
   "bairro": "Jardim Riviera",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1822495,
+  "lon": -49.9696972
 }

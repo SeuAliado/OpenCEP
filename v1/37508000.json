@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piranguinho",
   "uf": "MG",
-  "ibge": "3151008"
+  "ibge": "3151008",
+  "lat": -22.4029088,
+  "lon": -45.5339578
 }

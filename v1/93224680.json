@@ -5,5 +5,7 @@
   "bairro": "Nova Sapucaia",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8363418,
+  "lon": -51.1437548
 }

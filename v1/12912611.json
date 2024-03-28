@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9532446,
+  "lon": -46.5297739
 }

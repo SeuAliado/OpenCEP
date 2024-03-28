@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Indiavaí",
   "uf": "MT",
-  "ibge": "5104500"
+  "ibge": "5104500",
+  "lat": -15.3178342,
+  "lon": -58.6229664
 }

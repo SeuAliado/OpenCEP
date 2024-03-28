@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riacho dos Machados",
   "uf": "MG",
-  "ibge": "3154507"
+  "ibge": "3154507",
+  "lat": -16.019369,
+  "lon": -42.9806087
 }

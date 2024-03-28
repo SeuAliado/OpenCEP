@@ -5,5 +5,7 @@
   "bairro": "Pirapora",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.8919768,
+  "lon": -38.692639
 }

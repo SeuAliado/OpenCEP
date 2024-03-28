@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cordeiros",
   "uf": "BA",
-  "ibge": "2909000"
+  "ibge": "2909000",
+  "lat": -15.010868,
+  "lon": -41.8799408
 }

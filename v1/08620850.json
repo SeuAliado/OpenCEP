@@ -5,5 +5,7 @@
   "bairro": "Chácaras Duchen",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6191496,
+  "lon": -46.2698607
 }

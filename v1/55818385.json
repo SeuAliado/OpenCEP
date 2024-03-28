@@ -5,5 +5,7 @@
   "bairro": "Senzala",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "lat": -7.8560691,
+  "lon": -35.255367
 }

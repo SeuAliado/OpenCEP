@@ -5,5 +5,7 @@
   "bairro": "Sambaíba",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "lat": -3.1936829,
+  "lon": -40.9417108
 }

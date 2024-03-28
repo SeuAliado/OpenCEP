@@ -5,5 +5,7 @@
   "bairro": "Jardim das Torres",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0307293,
+  "lon": -47.9124068
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sambaíba",
   "uf": "MA",
-  "ibge": "2109700"
+  "ibge": "2109700",
+  "lat": -7.1405335,
+  "lon": -45.3478803
 }

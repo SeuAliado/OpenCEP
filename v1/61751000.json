@@ -5,5 +5,7 @@
   "bairro": "Justiniano Serpa",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "lat": -4.0455053,
+  "lon": -38.4950704
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Várzea Grande",
   "uf": "PI",
-  "ibge": "2211407"
+  "ibge": "2211407",
+  "lat": -6.551202,
+  "lon": -42.2165112
 }

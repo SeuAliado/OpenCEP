@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque das Rosas",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4881138,
+  "lon": -54.6086603
 }

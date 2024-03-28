@@ -5,5 +5,7 @@
   "bairro": "Anápolis City",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3237166,
+  "lon": -48.9268671
 }

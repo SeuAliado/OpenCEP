@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1441893,
+  "lon": -46.5405528
 }

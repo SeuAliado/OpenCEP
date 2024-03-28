@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova América",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.604094,
+  "lon": -46.3053951
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Desterro de Entre Rios",
   "uf": "MG",
-  "ibge": "3121407"
+  "ibge": "3121407",
+  "lat": -20.615319,
+  "lon": -44.2668514
 }

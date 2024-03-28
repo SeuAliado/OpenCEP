@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa Salgada",
   "uf": "RN",
-  "ibge": "2406601"
+  "ibge": "2406601",
+  "lat": -6.1459019,
+  "lon": -35.5110513
 }

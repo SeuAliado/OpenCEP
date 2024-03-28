@@ -5,5 +5,7 @@
   "bairro": "Pontal Sul - Acréscimo",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7953677,
+  "lon": -49.2978495
 }

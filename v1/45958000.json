@@ -5,5 +5,7 @@
   "bairro": "São José do Prado",
   "localidade": "Vereda",
   "uf": "BA",
-  "ibge": "2933257"
+  "ibge": "2933257",
+  "lat": -17.3314878,
+  "lon": -39.8883895
 }

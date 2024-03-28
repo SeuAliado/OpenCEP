@@ -5,5 +5,7 @@
   "bairro": "São Conrado",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7954869,
+  "lon": -46.5715533
 }

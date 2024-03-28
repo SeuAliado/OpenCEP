@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Iguaba Grande",
   "uf": "RJ",
-  "ibge": "3301876"
+  "ibge": "3301876",
+  "lat": -22.8310851,
+  "lon": -42.2330175
 }

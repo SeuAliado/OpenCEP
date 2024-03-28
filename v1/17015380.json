@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3228668,
+  "lon": -49.0658964
 }

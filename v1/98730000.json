@@ -5,5 +5,7 @@
   "bairro": "Mauá",
   "localidade": "Ijuí",
   "uf": "RS",
-  "ibge": "4310207"
+  "ibge": "4310207",
+  "lat": -28.3722865,
+  "lon": -53.9232083
 }

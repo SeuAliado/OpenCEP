@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João do Sabugi",
   "uf": "RN",
-  "ibge": "2412104"
+  "ibge": "2412104",
+  "lat": -6.7142707,
+  "lon": -37.2030102
 }

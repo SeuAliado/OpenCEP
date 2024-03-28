@@ -5,5 +5,7 @@
   "bairro": "Olinda",
   "localidade": "Nilópolis",
   "uf": "RJ",
-  "ibge": "3303203"
+  "ibge": "3303203",
+  "lat": -22.8127204,
+  "lon": -43.4119981
 }

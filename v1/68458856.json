@@ -5,5 +5,7 @@
   "bairro": "Colinas",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.7696257,
+  "lon": -49.6666063
 }

@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Mantenópolis",
   "uf": "ES",
-  "ibge": "3203304"
+  "ibge": "3203304",
+  "lat": -18.8590617,
+  "lon": -41.1241131
 }

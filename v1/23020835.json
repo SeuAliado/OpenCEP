@@ -5,5 +5,7 @@
   "bairro": "Grumari",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -23.0716747,
+  "lon": -43.5523387
 }

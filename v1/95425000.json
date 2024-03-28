@@ -5,5 +5,7 @@
   "bairro": "Chapada",
   "localidade": "Jaquirana",
   "uf": "RS",
-  "ibge": "4311122"
+  "ibge": "4311122",
+  "lat": -28.8318655,
+  "lon": -50.4942315
 }

@@ -5,5 +5,7 @@
   "bairro": "Jóquei Clube",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7642518,
+  "lon": -38.5689343
 }

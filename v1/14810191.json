@@ -5,5 +5,7 @@
   "bairro": "Vila Tito de Carvalho (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7812197,
+  "lon": -48.1565149
 }

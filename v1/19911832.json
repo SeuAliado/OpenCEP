@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Sá",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9629527,
+  "lon": -49.870001
 }

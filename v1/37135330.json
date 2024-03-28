@@ -5,5 +5,7 @@
   "bairro": "Recreio Vale do Sol",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4199011,
+  "lon": -45.9766608
 }

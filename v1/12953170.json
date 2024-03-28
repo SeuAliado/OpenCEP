@@ -5,5 +5,7 @@
   "bairro": "Condomínio Portal das Hortências",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.0882379,
+  "lon": -46.5824896
 }

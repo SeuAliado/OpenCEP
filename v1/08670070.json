@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Cristo",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5337048,
+  "lon": -46.3298241
 }

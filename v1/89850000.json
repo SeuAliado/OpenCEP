@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quilombo",
   "uf": "SC",
-  "ibge": "4214201"
+  "ibge": "4214201",
+  "lat": -26.7269167,
+  "lon": -52.7244682
 }

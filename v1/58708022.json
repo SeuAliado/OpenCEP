@@ -5,5 +5,7 @@
   "bairro": "Santa Cecília",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.0496664,
+  "lon": -37.2770752
 }

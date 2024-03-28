@@ -5,5 +5,7 @@
   "bairro": "Jardim das Rosas (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5873071,
+  "lon": -46.5095321
 }

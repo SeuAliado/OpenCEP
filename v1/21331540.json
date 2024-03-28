@@ -5,5 +5,7 @@
   "bairro": "Bento Ribeiro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.874803,
+  "lon": -43.360662
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Colégio",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6741749,
+  "lon": -46.7789546
 }

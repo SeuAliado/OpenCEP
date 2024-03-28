@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional C.D.H.U.",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -22.9981841,
+  "lon": -45.5721687
 }

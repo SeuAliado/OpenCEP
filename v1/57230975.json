@@ -5,5 +5,7 @@
   "bairro": "Pindorama",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "lat": -10.1213907,
+  "lon": -36.2675137
 }

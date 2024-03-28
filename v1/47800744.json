@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.135194,
+  "lon": -44.9731958
 }

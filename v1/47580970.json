@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morpará",
   "uf": "BA",
-  "ibge": "2921609"
+  "ibge": "2921609",
+  "lat": -11.5614788,
+  "lon": -43.2789019
 }

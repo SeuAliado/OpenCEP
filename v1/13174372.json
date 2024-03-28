@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Virginio Basso",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.807192,
+  "lon": -47.2674258
 }

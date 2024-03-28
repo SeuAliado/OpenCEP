@@ -5,5 +5,7 @@
   "bairro": "Jardim Renata",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0966751,
+  "lon": -47.219613
 }

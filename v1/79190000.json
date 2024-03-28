@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Terenos",
   "uf": "MS",
-  "ibge": "5008008"
+  "ibge": "5008008",
+  "lat": -20.4383001,
+  "lon": -54.8652419
 }

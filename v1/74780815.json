@@ -5,5 +5,7 @@
   "bairro": "Santo Hilário II",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6571554,
+  "lon": -49.2019991
 }

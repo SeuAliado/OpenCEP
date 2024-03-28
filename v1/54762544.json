@@ -5,5 +5,7 @@
   "bairro": "Areeiro",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.0264873,
+  "lon": -34.9844644
 }

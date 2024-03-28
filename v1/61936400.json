@@ -5,5 +5,7 @@
   "bairro": "Timbó",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8773915,
+  "lon": -38.6088768
 }

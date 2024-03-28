@@ -5,5 +5,7 @@
   "bairro": "Araguaia",
   "localidade": "Marechal Floriano",
   "uf": "ES",
-  "ibge": "3203346"
+  "ibge": "3203346",
+  "lat": -20.4911875,
+  "lon": -40.7731508
 }

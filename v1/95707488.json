@@ -5,5 +5,7 @@
   "bairro": "São Vendelino",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1493748,
+  "lon": -51.5320056
 }

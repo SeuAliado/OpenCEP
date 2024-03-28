@@ -5,5 +5,7 @@
   "bairro": "Ibirapuera",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "lat": -14.8407882,
+  "lon": -40.8562075
 }

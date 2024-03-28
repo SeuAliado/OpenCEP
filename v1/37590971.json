@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacutinga",
   "uf": "MG",
-  "ibge": "3134905"
+  "ibge": "3134905",
+  "lat": -22.7769328,
+  "lon": -43.4384888
 }

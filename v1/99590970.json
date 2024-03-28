@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rondinha",
   "uf": "RS",
-  "ibge": "4316204"
+  "ibge": "4316204",
+  "lat": -27.7824523,
+  "lon": -52.8053459
 }

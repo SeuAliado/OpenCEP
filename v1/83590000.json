@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Doutor Ulysses",
   "uf": "PR",
-  "ibge": "4128633"
+  "ibge": "4128633",
+  "lat": -24.5665369,
+  "lon": -49.4205513
 }

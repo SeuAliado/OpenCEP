@@ -5,5 +5,7 @@
   "bairro": "Guaianazes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5762959,
+  "lon": -46.4115522
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Colônia do Gurguéia",
   "uf": "PI",
-  "ibge": "2202752"
+  "ibge": "2202752",
+  "lat": -8.1830841,
+  "lon": -43.7942207
 }

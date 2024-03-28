@@ -5,5 +5,7 @@
   "bairro": "Bastiana",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3633136,
+  "lon": -39.3029614
 }

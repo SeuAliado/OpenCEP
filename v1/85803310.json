@@ -5,5 +5,7 @@
   "bairro": "Sitio de Recreio Paraíso",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -25.0028541,
+  "lon": -53.4601739
 }

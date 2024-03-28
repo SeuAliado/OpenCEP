@@ -5,5 +5,7 @@
   "bairro": "Vila Augusta",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4767825,
+  "lon": -46.5402233
 }

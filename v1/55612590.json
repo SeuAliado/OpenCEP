@@ -5,5 +5,7 @@
   "bairro": "Matriz",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.1168629,
+  "lon": -35.2958774
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Rita do Zarur",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.4653808,
+  "lon": -44.1079735
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lastro",
   "uf": "PB",
-  "ibge": "2508406"
+  "ibge": "2508406",
+  "lat": -6.5175567,
+  "lon": -38.1787634
 }

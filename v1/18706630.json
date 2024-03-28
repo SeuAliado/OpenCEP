@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidencial",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0756206,
+  "lon": -48.9349502
 }

@@ -5,5 +5,7 @@
   "bairro": "Herveira",
   "localidade": "Campina da Lagoa",
   "uf": "PR",
-  "ibge": "4103909"
+  "ibge": "4103909",
+  "lat": -24.5966147,
+  "lon": -52.8150393
 }

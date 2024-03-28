@@ -5,5 +5,7 @@
   "bairro": "Jordanópolis",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.6845081,
+  "lon": -46.5750656
 }

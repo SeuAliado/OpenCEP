@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dona Inês",
   "uf": "PB",
-  "ibge": "2505709"
+  "ibge": "2505709",
+  "lat": -6.600204,
+  "lon": -35.620484
 }

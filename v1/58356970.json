@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gurinhém",
   "uf": "PB",
-  "ibge": "2506400"
+  "ibge": "2506400",
+  "lat": -7.1247977,
+  "lon": -35.4249871
 }

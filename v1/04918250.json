@@ -5,5 +5,7 @@
   "bairro": "Jardim Tapera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6903388,
+  "lon": -46.7405719
 }

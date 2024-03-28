@@ -5,5 +5,7 @@
   "bairro": "Jóquei Clube",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8008436,
+  "lon": -60.7261714
 }

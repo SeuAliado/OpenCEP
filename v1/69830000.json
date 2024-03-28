@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lábrea",
   "uf": "AM",
-  "ibge": "1302405"
+  "ibge": "1302405",
+  "lat": -8.6977958,
+  "lon": -65.475736
 }

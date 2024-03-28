@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Correntina",
   "uf": "BA",
-  "ibge": "2909307"
+  "ibge": "2909307",
+  "lat": -13.3438071,
+  "lon": -44.6270373
 }

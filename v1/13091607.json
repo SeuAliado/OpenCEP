@@ -5,5 +5,7 @@
   "bairro": "Jardim Madalena",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8734041,
+  "lon": -47.0328467
 }

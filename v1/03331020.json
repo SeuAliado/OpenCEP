@@ -5,5 +5,7 @@
   "bairro": "Quarta Parada",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5514797,
+  "lon": -46.5789326
 }

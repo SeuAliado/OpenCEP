@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5516355,
+  "lon": -46.3531555
 }

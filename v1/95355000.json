@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guabiju",
   "uf": "RS",
-  "ibge": "4309258"
+  "ibge": "4309258",
+  "lat": -28.5425773,
+  "lon": -51.6953385
 }

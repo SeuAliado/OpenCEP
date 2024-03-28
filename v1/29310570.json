@@ -5,5 +5,7 @@
   "bairro": "Doutor Gilson Carone",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8383266,
+  "lon": -41.1475909
 }

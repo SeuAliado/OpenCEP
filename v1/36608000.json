@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maripá de Minas",
   "uf": "MG",
-  "ibge": "3140209"
+  "ibge": "3140209",
+  "lat": -21.6984119,
+  "lon": -42.9549984
 }

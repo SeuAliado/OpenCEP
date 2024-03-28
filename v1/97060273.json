@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora Medianeira",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.704209,
+  "lon": -53.81072
 }

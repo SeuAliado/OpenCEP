@@ -5,5 +5,7 @@
   "bairro": "Vila COHAB",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.549739,
+  "lon": -55.7074863
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dores do Rio Preto",
   "uf": "ES",
-  "ibge": "3202009"
+  "ibge": "3202009",
+  "lat": -20.6445443,
+  "lon": -41.7904952
 }

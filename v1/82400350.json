@@ -5,5 +5,7 @@
   "bairro": "Butiatuvinha",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.3946407,
+  "lon": -49.351548
 }

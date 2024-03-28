@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonfim",
   "uf": "RR",
-  "ibge": "1400159"
+  "ibge": "1400159",
+  "lat": 3.3612854,
+  "lon": -59.8338004
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guadalupe",
   "uf": "PI",
-  "ibge": "2204501"
+  "ibge": "2204501",
+  "lat": -6.7913959,
+  "lon": -43.5686678
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paratinga",
   "uf": "BA",
-  "ibge": "2923704"
+  "ibge": "2923704",
+  "lat": -12.5896471,
+  "lon": -43.0971625
 }

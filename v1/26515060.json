@@ -5,5 +5,7 @@
   "bairro": "Cabral",
   "localidade": "Nilópolis",
   "uf": "RJ",
-  "ibge": "3303203"
+  "ibge": "3303203",
+  "lat": -22.8209865,
+  "lon": -43.4180494
 }

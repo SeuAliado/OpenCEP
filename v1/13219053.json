@@ -5,5 +5,7 @@
   "bairro": "Recanto Parrilo",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1917176,
+  "lon": -46.863545
 }

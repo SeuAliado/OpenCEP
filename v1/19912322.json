@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Gabriela",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9801731,
+  "lon": -49.8592039
 }

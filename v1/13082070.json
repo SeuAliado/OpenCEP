@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Mônica",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8526535,
+  "lon": -47.1062753
 }

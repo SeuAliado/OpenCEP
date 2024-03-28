@@ -5,5 +5,7 @@
   "bairro": "Jardim Primaveril",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7886556,
+  "lon": -51.691865
 }

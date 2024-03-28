@@ -5,5 +5,7 @@
   "bairro": "Vila Centenário",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3700336,
+  "lon": -39.3069516
 }

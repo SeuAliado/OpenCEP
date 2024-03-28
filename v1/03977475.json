@@ -5,5 +5,7 @@
   "bairro": "Fazenda da Juta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6224954,
+  "lon": -46.4902769
 }

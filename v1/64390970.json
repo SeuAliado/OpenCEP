@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Demerval Lobão",
   "uf": "PI",
-  "ibge": "2203305"
+  "ibge": "2203305",
+  "lat": -5.366009,
+  "lon": -42.6740318
 }

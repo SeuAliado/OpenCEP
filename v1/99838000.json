@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Centenário",
   "uf": "RS",
-  "ibge": "4305116"
+  "ibge": "4305116",
+  "lat": -27.7898807,
+  "lon": -52.0003599
 }

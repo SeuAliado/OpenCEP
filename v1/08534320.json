@@ -5,5 +5,7 @@
   "bairro": "Vila Alayde",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5510161,
+  "lon": -46.3829125
 }

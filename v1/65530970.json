@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urbano Santos",
   "uf": "MA",
-  "ibge": "2112605"
+  "ibge": "2112605",
+  "lat": -3.2074657,
+  "lon": -43.4029329
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santarém Novo",
   "uf": "PA",
-  "ibge": "1506906"
+  "ibge": "1506906",
+  "lat": -0.9307751,
+  "lon": -47.3919888
 }

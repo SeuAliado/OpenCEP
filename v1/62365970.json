@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Graça",
   "uf": "CE",
-  "ibge": "2304657"
+  "ibge": "2304657",
+  "lat": -4.0487109,
+  "lon": -40.7530473
 }

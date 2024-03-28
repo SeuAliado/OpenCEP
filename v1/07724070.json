@@ -5,5 +5,7 @@
   "bairro": "Nova Era",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3588336,
+  "lon": -46.7349506
 }

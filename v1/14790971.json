@@ -5,5 +5,7 @@
   "bairro": "São José do Albertópolis",
   "localidade": "Guaíra",
   "uf": "SP",
-  "ibge": "3517406"
+  "ibge": "3517406",
+  "lat": -20.3078922,
+  "lon": -48.2977659
 }

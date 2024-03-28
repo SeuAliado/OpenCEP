@@ -5,5 +5,7 @@
   "bairro": "Industrial Anhangüera",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "lat": -23.4803517,
+  "lon": -46.7800826
 }

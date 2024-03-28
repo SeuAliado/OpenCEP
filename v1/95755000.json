@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Hortêncio",
   "uf": "RS",
-  "ibge": "4318481"
+  "ibge": "4318481",
+  "lat": -29.528461,
+  "lon": -51.2455577
 }

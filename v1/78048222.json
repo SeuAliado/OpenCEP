@@ -5,5 +5,7 @@
   "bairro": "Despraiado",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5651297,
+  "lon": -56.0872099
 }

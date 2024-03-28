@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Prados",
   "uf": "MG",
-  "ibge": "3152709"
+  "ibge": "3152709",
+  "lat": -21.0576529,
+  "lon": -44.0787649
 }

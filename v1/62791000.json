@@ -5,5 +5,7 @@
   "bairro": "Antônio Diogo",
   "localidade": "Redenção",
   "uf": "CE",
-  "ibge": "2311603"
+  "ibge": "2311603",
+  "lat": -4.3379727,
+  "lon": -38.7387745
 }

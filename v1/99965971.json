@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Santa",
   "uf": "RS",
-  "ibge": "4300059"
+  "ibge": "4300059",
+  "lat": -28.1775504,
+  "lon": -52.0343296
 }

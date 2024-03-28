@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cocalinho",
   "uf": "MT",
-  "ibge": "5103106"
+  "ibge": "5103106",
+  "lat": -13.7850699,
+  "lon": -51.1794546
 }

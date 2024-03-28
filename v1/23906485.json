@@ -5,5 +5,7 @@
   "bairro": "Parque das Palmeiras",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.9956213,
+  "lon": -44.3045097
 }

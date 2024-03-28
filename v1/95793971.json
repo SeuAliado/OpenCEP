@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maratá",
   "uf": "RS",
-  "ibge": "4311791"
+  "ibge": "4311791",
+  "lat": -29.5558267,
+  "lon": -51.5540661
 }

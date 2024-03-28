@@ -5,5 +5,7 @@
   "bairro": "Chalet",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.5245642,
+  "lon": -43.8042173
 }

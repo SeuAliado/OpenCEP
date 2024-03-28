@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro do Nordeste",
   "localidade": "Sertânia",
   "uf": "PE",
-  "ibge": "2614105"
+  "ibge": "2614105",
+  "lat": -8.3623049,
+  "lon": -37.2723071
 }

@@ -5,5 +5,7 @@
   "bairro": "Noé Trajano",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "lat": -7.009552,
+  "lon": -37.2877352
 }

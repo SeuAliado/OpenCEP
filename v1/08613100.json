@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5411523,
+  "lon": -46.2871375
 }

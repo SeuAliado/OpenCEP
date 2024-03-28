@@ -5,5 +5,7 @@
   "bairro": "Nova Cidade",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8127047,
+  "lon": -43.0278361
 }

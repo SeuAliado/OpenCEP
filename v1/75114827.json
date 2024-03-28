@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardins do Lago",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3461899,
+  "lon": -48.9298845
 }

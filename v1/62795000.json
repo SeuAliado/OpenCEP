@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barreira",
   "uf": "CE",
-  "ibge": "2301950"
+  "ibge": "2301950",
+  "lat": -4.2895897,
+  "lon": -38.6432554
 }

@@ -5,5 +5,7 @@
   "bairro": "Poema",
   "localidade": "Nova Tebas",
   "uf": "PR",
-  "ibge": "4117271"
+  "ibge": "4117271",
+  "lat": -24.3570978,
+  "lon": -51.9735253
 }

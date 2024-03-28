@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Pauliceia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6001368,
+  "lon": -46.5317219
 }

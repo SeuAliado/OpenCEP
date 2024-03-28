@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ituberá",
   "uf": "BA",
-  "ibge": "2917300"
+  "ibge": "2917300",
+  "lat": -13.7336504,
+  "lon": -39.1469821
 }

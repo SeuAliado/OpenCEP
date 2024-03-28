@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.369234,
+  "lon": -46.9330556
 }

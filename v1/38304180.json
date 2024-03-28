@@ -5,5 +5,7 @@
   "bairro": "Brasil",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -19.4760014,
+  "lon": -42.5324975
 }

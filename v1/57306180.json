@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7440261,
+  "lon": -36.6673514
 }

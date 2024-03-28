@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coqueiral",
   "uf": "MG",
-  "ibge": "3118700"
+  "ibge": "3118700",
+  "lat": -21.1893557,
+  "lon": -45.441058
 }

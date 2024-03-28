@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matias Olímpio",
   "uf": "PI",
-  "ibge": "2206100"
+  "ibge": "2206100",
+  "lat": -3.7152945,
+  "lon": -42.551032
 }

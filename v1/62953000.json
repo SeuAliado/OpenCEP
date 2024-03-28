@@ -5,5 +5,7 @@
   "bairro": "Boa Água",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "lat": -4.8358346,
+  "lon": -38.5055377
 }

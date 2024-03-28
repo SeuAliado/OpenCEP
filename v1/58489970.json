@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aroeiras",
   "uf": "PB",
-  "ibge": "2501302"
+  "ibge": "2501302",
+  "lat": -7.5473607,
+  "lon": -35.7161316
 }

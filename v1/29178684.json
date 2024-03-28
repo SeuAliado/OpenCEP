@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1303538,
+  "lon": -40.3106431
 }

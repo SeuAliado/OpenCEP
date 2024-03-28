@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "lat": -26.9183982,
+  "lon": -48.6716362
 }

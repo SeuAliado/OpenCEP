@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Três Forquilhas",
   "uf": "RS",
-  "ibge": "4321832"
+  "ibge": "4321832",
+  "lat": -29.4211577,
+  "lon": -50.0803953
 }

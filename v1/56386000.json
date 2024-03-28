@@ -5,5 +5,7 @@
   "bairro": "Urimama",
   "localidade": "Santa Maria da Boa Vista",
   "uf": "PE",
-  "ibge": "2612604"
+  "ibge": "2612604",
+  "lat": -8.8029452,
+  "lon": -39.8278122
 }

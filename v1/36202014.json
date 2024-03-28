@@ -5,5 +5,7 @@
   "bairro": "Funcionários",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.2186598,
+  "lon": -43.7831823
 }

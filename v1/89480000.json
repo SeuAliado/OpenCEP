@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Major Vieira",
   "uf": "SC",
-  "ibge": "4210308"
+  "ibge": "4210308",
+  "lat": -26.3713928,
+  "lon": -50.3270797
 }

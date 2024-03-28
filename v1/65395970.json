@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus das Selvas",
   "uf": "MA",
-  "ibge": "2102036"
+  "ibge": "2102036",
+  "lat": -4.47984,
+  "lon": -46.8551939
 }

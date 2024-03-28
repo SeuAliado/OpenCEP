@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera I",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.568317,
+  "lon": -55.6862806
 }

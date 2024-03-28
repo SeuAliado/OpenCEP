@@ -5,5 +5,7 @@
   "bairro": "Retiro do Muriaé",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "lat": -21.2076154,
+  "lon": -41.8868914
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraná",
   "uf": "RN",
-  "ibge": "2408607"
+  "ibge": "2408607",
+  "lat": -23.5208023,
+  "lon": -51.6735484
 }

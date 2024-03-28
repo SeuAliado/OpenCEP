@@ -5,5 +5,7 @@
   "bairro": "Barro Alto",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3742071,
+  "lon": -39.2953851
 }

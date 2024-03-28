@@ -5,5 +5,7 @@
   "bairro": "Canela",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9902868,
+  "lon": -38.5218245
 }

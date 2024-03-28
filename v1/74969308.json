@@ -5,5 +5,7 @@
   "bairro": "Setor Fabrício",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8399222,
+  "lon": -49.2954342
 }

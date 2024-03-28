@@ -5,5 +5,7 @@
   "bairro": "Jardim São Rafael I",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7459065,
+  "lon": -48.1392648
 }

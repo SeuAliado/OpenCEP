@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Roncador",
   "uf": "PR",
-  "ibge": "4122503"
+  "ibge": "4122503",
+  "lat": -24.5982327,
+  "lon": -52.2712172
 }

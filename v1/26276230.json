@@ -5,5 +5,7 @@
   "bairro": "Rosa dos Ventos",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7478587,
+  "lon": -43.5079447
 }

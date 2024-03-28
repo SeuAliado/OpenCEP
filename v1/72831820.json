@@ -5,5 +5,7 @@
   "bairro": "Residencial Copaíbas",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2543158,
+  "lon": -47.8988108
 }

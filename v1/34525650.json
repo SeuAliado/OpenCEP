@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Operário Raimundo Fantini",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.9033911,
+  "lon": -43.8158504
 }

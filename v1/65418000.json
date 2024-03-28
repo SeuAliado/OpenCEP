@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Peritoró",
   "uf": "MA",
-  "ibge": "2108454"
+  "ibge": "2108454",
+  "lat": -4.4433188,
+  "lon": -44.2857937
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jatobá",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.4111315,
+  "lon": -47.4149036
 }

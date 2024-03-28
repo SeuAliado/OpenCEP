@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.72063,
+  "lon": -53.757454
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Viracopos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -23.008205,
+  "lon": -47.1375685
 }

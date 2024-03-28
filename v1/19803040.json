@@ -5,5 +5,7 @@
   "bairro": "Jardim 3 Américas II",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6758376,
+  "lon": -50.4332834
 }

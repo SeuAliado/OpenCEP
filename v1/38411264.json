@@ -5,5 +5,7 @@
   "bairro": "Jardim Inconfidência",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9361044,
+  "lon": -48.2638926
 }

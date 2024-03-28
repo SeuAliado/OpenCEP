@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Baixa Grande",
   "uf": "BA",
-  "ibge": "2902609"
+  "ibge": "2902609",
+  "lat": -11.960508,
+  "lon": -40.1674186
 }

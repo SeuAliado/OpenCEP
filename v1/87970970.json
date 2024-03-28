@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Londrina",
   "uf": "PR",
-  "ibge": "4117107"
+  "ibge": "4117107",
+  "lat": -23.3109412,
+  "lon": -51.1579812
 }

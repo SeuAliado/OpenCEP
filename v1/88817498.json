@@ -5,5 +5,7 @@
   "bairro": "Vila Macarini",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.678896,
+  "lon": -49.4372653
 }

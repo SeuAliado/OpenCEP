@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipê",
   "uf": "RS",
-  "ibge": "4310439"
+  "ibge": "4310439",
+  "lat": -28.8207816,
+  "lon": -51.2806366
 }

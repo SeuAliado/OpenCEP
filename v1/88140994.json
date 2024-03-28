@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Amaro da Imperatriz",
   "uf": "SC",
-  "ibge": "4215703"
+  "ibge": "4215703",
+  "lat": -27.6711936,
+  "lon": -48.7537531
 }

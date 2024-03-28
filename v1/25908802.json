@@ -5,5 +5,7 @@
   "bairro": "Gandé",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6077182,
+  "lon": -43.0363479
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardinópolis",
   "localidade": "Serranópolis do Iguaçu",
   "uf": "PR",
-  "ibge": "4126355"
+  "ibge": "4126355",
+  "lat": -25.3830015,
+  "lon": -54.0556633
 }

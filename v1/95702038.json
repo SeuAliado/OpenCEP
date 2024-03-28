@@ -5,5 +5,7 @@
   "bairro": "Imigrante",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1731581,
+  "lon": -51.5066174
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Acácias",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.866053,
+  "lon": -41.5210591
 }

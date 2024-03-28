@@ -5,5 +5,7 @@
   "bairro": "Britador (Santo Aleixo)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.5729574,
+  "lon": -43.0578771
 }

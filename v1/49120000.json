@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaporanga D'Ajuda",
   "uf": "SE",
-  "ibge": "2803203"
+  "ibge": "2803203",
+  "lat": -11.1173904,
+  "lon": -37.2544065
 }

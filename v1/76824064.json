@@ -5,5 +5,7 @@
   "bairro": "Aponiã",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7336878,
+  "lon": -63.8563889
 }

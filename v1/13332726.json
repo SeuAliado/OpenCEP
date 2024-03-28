@@ -5,5 +5,7 @@
   "bairro": "Residencial Beira da Mata",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0641239,
+  "lon": -47.2099184
 }

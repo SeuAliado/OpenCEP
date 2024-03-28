@@ -5,5 +5,7 @@
   "bairro": "Vila Angélica",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2973231,
+  "lon": -50.3468076
 }

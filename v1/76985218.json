@@ -5,5 +5,7 @@
   "bairro": "S-22",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "lat": -12.7291454,
+  "lon": -60.115058
 }

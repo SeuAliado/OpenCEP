@@ -5,5 +5,7 @@
   "bairro": "Cabelinha",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "lat": -22.7268853,
+  "lon": -45.1220102
 }

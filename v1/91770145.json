@@ -5,5 +5,7 @@
   "bairro": "Guarujá",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.1515575,
+  "lon": -51.2175449
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Araras",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.369061,
+  "lon": -47.3932084
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Lajeado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5134048,
+  "lon": -46.4384432
 }

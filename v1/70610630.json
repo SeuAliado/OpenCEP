@@ -5,5 +5,7 @@
   "bairro": "Setores Complementares",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7697269,
+  "lon": -47.9124529
 }

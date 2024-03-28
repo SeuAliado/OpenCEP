@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.92406,
+  "lon": -38.5072451
 }

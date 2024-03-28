@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora da Glória",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4452146,
+  "lon": -54.6236443
 }

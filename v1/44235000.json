@@ -5,5 +5,7 @@
   "bairro": "Inhata",
   "localidade": "Amélia Rodrigues",
   "uf": "BA",
-  "ibge": "2901106"
+  "ibge": "2901106",
+  "lat": -12.3944683,
+  "lon": -38.696377
 }

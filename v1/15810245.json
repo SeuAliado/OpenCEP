@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Comendador José A Borelli",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1573739,
+  "lon": -48.9749175
 }

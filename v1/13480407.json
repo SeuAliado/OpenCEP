@@ -5,5 +5,7 @@
   "bairro": "Vila Claudia",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5790509,
+  "lon": -47.3981772
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio do Antônio",
   "uf": "BA",
-  "ibge": "2926806"
+  "ibge": "2926806",
+  "lat": -14.4138088,
+  "lon": -42.0757591
 }

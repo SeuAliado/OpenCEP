@@ -5,5 +5,7 @@
   "bairro": "Portão",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4659997,
+  "lon": -49.3035577
 }

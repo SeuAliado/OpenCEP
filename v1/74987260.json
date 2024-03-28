@@ -5,5 +5,7 @@
   "bairro": "Jardim das Acácias",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8236743,
+  "lon": -49.2304922
 }

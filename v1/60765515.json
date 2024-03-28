@@ -5,5 +5,7 @@
   "bairro": "Parque Presidente Vargas",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8230891,
+  "lon": -38.5978263
 }

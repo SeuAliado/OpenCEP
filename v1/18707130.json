@@ -5,5 +5,7 @@
   "bairro": "Baixada do Glicério",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.092405,
+  "lon": -48.9234678
 }

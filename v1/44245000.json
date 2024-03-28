@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição do Jacuípe",
   "uf": "BA",
-  "ibge": "2908507"
+  "ibge": "2908507",
+  "lat": -12.3305697,
+  "lon": -38.7670892
 }

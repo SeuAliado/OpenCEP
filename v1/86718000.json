@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -25.3625118,
+  "lon": -49.1864772
 }

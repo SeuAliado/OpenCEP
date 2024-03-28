@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conceição das Alagoas",
   "uf": "MG",
-  "ibge": "3117306"
+  "ibge": "3117306",
+  "lat": -19.9241693,
+  "lon": -48.3811173
 }

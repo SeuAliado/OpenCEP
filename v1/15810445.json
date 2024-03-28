@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Líbano",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1600752,
+  "lon": -48.9710306
 }

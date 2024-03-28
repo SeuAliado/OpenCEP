@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.736742,
+  "lon": -48.297809
 }

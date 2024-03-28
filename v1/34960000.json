@@ -5,5 +5,7 @@
   "bairro": "Antônio dos Santos",
   "localidade": "Caeté",
   "uf": "MG",
-  "ibge": "3110004"
+  "ibge": "3110004",
+  "lat": -19.889414,
+  "lon": -43.6599241
 }

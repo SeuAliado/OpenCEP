@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jardinópolis",
   "uf": "SP",
-  "ibge": "3525102"
+  "ibge": "3525102",
+  "lat": -21.0277616,
+  "lon": -47.7772049
 }

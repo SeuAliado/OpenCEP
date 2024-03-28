@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Maria Stella Faga",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -21.9982732,
+  "lon": -47.856765
 }

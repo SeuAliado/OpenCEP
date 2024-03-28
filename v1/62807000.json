@@ -5,5 +5,7 @@
   "bairro": "Córrego dos Fernandes",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "lat": -4.5993465,
+  "lon": -37.8778339
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iranduba",
   "uf": "AM",
-  "ibge": "1301852"
+  "ibge": "1301852",
+  "lat": -3.2828014,
+  "lon": -60.6413143
 }

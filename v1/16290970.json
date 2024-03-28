@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Braúna",
   "uf": "SP",
-  "ibge": "3507704"
+  "ibge": "3507704",
+  "lat": -21.5055067,
+  "lon": -50.3212192
 }

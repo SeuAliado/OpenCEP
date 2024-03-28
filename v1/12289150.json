@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Eldorado",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0743309,
+  "lon": -45.721193
 }

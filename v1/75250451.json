@@ -5,5 +5,7 @@
   "bairro": "Conjunto Morada do Morro",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.7066866,
+  "lon": -49.0858699
 }

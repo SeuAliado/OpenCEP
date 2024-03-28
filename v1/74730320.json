@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6960615,
+  "lon": -49.2084401
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Rui Palmeira",
   "uf": "AL",
-  "ibge": "2708956"
+  "ibge": "2708956",
+  "lat": -9.4666381,
+  "lon": -37.4571435
 }

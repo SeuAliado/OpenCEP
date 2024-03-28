@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.413319,
+  "lon": -36.6415569
 }

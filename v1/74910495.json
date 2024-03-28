@@ -5,5 +5,7 @@
   "bairro": "Vila São Joaquim",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7489272,
+  "lon": -49.2481604
 }

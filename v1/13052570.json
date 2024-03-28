@@ -5,5 +5,7 @@
   "bairro": "Jardim San Diego",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9859699,
+  "lon": -47.0988539
 }

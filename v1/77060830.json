@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial de Taquaralto",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.3191677,
+  "lon": -48.3010866
 }

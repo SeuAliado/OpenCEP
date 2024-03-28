@@ -5,5 +5,7 @@
   "bairro": "Sousas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8774068,
+  "lon": -46.9574452
 }

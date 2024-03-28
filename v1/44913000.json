@@ -5,5 +5,7 @@
   "bairro": "Soares",
   "localidade": "América Dourada",
   "uf": "BA",
-  "ibge": "2901155"
+  "ibge": "2901155",
+  "lat": -11.4433723,
+  "lon": -41.4393825
 }

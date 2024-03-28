@@ -5,5 +5,7 @@
   "bairro": "Jardim Moraes",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4591251,
+  "lon": -46.3110156
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Olinda - 2º Complemento",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8391686,
+  "lon": -49.2195836
 }

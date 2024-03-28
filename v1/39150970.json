@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serro",
   "uf": "MG",
-  "ibge": "3167103"
+  "ibge": "3167103",
+  "lat": -18.6034508,
+  "lon": -43.3804591
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Recanto dos Sonhos",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.7937988,
+  "lon": -47.2052155
 }

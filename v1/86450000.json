@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quatiguá",
   "uf": "PR",
-  "ibge": "4120705"
+  "ibge": "4120705",
+  "lat": -23.567759,
+  "lon": -49.9105563
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Alto Paraíso",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.339026,
+  "lon": -49.1066418
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ernesto Kuhl",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.6102622,
+  "lon": -47.409128
 }

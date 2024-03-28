@@ -5,5 +5,7 @@
   "bairro": "Aracapé",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.8278858,
+  "lon": -38.5815525
 }

@@ -5,5 +5,7 @@
   "bairro": "Canatiba",
   "localidade": "Macaúbas",
   "uf": "BA",
-  "ibge": "2919801"
+  "ibge": "2919801",
+  "lat": -13.172691,
+  "lon": -42.6526092
 }

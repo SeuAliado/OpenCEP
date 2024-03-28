@@ -5,5 +5,7 @@
   "bairro": "Serra Oriental",
   "localidade": "Monte Alegre",
   "uf": "PA",
-  "ibge": "1504802"
+  "ibge": "1504802",
+  "lat": -2.0009129,
+  "lon": -54.0687931
 }

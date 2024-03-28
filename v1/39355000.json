@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João da Lagoa",
   "uf": "MG",
-  "ibge": "3162252"
+  "ibge": "3162252",
+  "lat": -16.8459983,
+  "lon": -44.3511353
 }

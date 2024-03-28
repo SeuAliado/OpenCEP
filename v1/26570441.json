@@ -5,5 +5,7 @@
   "bairro": "Banco de Areia",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.7784992,
+  "lon": -43.4207369
 }

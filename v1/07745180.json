@@ -5,5 +5,7 @@
   "bairro": "Laranjeiras",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3836428,
+  "lon": -46.7204884
 }

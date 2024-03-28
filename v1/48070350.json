@@ -5,5 +5,7 @@
   "bairro": "Barreiro",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1340674,
+  "lon": -38.4426895
 }

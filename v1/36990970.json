@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Mantimento",
   "uf": "MG",
-  "ibge": "3163607"
+  "ibge": "3163607",
+  "lat": -20.0061987,
+  "lon": -41.7453942
 }

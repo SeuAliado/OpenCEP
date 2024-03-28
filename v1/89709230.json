@@ -5,5 +5,7 @@
   "bairro": "Guilherme Reich",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.2506528,
+  "lon": -52.0199745
 }

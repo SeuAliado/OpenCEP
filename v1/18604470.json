@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.875887,
+  "lon": -48.4206228
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "lat": -22.472994,
+  "lon": -48.5637543
 }

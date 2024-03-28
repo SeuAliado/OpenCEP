@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rubim",
   "uf": "MG",
-  "ibge": "3156601"
+  "ibge": "3156601",
+  "lat": -16.4596785,
+  "lon": -40.5127142
 }

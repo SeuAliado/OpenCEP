@@ -5,5 +5,7 @@
   "bairro": "Águas Claras",
   "localidade": "Águia Branca",
   "uf": "ES",
-  "ibge": "3200136"
+  "ibge": "3200136",
+  "lat": -18.9732399,
+  "lon": -40.7361322
 }

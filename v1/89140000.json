@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibirama",
   "uf": "SC",
-  "ibge": "4206900"
+  "ibge": "4206900",
+  "lat": -27.059141,
+  "lon": -49.5312828
 }

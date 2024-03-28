@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Acarape",
   "uf": "CE",
-  "ibge": "2300150"
+  "ibge": "2300150",
+  "lat": -4.2324078,
+  "lon": -38.6739528
 }

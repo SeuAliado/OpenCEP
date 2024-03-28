@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "José de Freitas",
   "uf": "PI",
-  "ibge": "2205508"
+  "ibge": "2205508",
+  "lat": -4.7575646,
+  "lon": -42.5761867
 }

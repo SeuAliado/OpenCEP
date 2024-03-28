@@ -5,5 +5,7 @@
   "bairro": "Jardim Belvedere",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3663549,
+  "lon": -47.3810079
 }

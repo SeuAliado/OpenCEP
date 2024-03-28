@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Tancredo Neves",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5790734,
+  "lon": -47.370709
 }

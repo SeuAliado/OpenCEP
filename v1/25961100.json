@@ -5,5 +5,7 @@
   "bairro": "Alto",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4346161,
+  "lon": -42.9755212
 }

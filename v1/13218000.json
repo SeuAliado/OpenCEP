@@ -5,5 +5,7 @@
   "bairro": "Ponte de São João",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2058803,
+  "lon": -46.8413703
 }

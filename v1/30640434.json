@@ -5,5 +5,7 @@
   "bairro": "Átila de Paiva (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9783812,
+  "lon": -44.0312351
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Médici",
   "uf": "MA",
-  "ibge": "2109239"
+  "ibge": "2109239",
+  "lat": -2.3656789,
+  "lon": -45.7900209
 }

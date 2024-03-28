@@ -5,5 +5,7 @@
   "bairro": "Vila Curuçá",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6419515,
+  "lon": -46.520544
 }

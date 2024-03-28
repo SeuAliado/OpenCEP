@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pão de Açúcar",
   "uf": "AL",
-  "ibge": "2706406"
+  "ibge": "2706406",
+  "lat": -9.7493777,
+  "lon": -37.4351721
 }

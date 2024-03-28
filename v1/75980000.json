@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraúna",
   "uf": "GO",
-  "ibge": "5216403"
+  "ibge": "5216403",
+  "lat": -16.9480783,
+  "lon": -50.44827
 }

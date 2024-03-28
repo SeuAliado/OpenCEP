@@ -5,5 +5,7 @@
   "bairro": "Engenheiro João Tomé",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "lat": -4.6006725,
+  "lon": -40.6338371
 }

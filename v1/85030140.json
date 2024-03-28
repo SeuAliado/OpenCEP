@@ -5,5 +5,7 @@
   "bairro": "Jardim das Américas",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.3914401,
+  "lon": -51.5104843
 }

@@ -5,5 +5,7 @@
   "bairro": "Areias",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5528459,
+  "lon": -48.6315068
 }

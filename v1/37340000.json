@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bocaina de Minas",
   "uf": "MG",
-  "ibge": "3107208"
+  "ibge": "3107208",
+  "lat": -22.167531,
+  "lon": -44.3947127
 }

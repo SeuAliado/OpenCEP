@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Soledade",
   "uf": "PB",
-  "ibge": "2516102"
+  "ibge": "2516102",
+  "lat": -7.058699,
+  "lon": -36.367118
 }

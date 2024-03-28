@@ -5,5 +5,7 @@
   "bairro": "Vila José de Paula",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3663986,
+  "lon": -46.9380192
 }

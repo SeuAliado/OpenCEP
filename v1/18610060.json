@@ -5,5 +5,7 @@
   "bairro": "Jardim Flamboyant",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8539012,
+  "lon": -48.4447973
 }

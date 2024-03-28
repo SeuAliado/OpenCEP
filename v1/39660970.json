@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Turmalina",
   "uf": "MG",
-  "ibge": "3169703"
+  "ibge": "3169703",
+  "lat": -17.2852644,
+  "lon": -42.728432
 }

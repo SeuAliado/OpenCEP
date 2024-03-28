@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Adrianópolis",
   "uf": "PR",
-  "ibge": "4100202"
+  "ibge": "4100202",
+  "lat": -24.6610966,
+  "lon": -48.9926341
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Munhoz de Melo",
   "uf": "PR",
-  "ibge": "4116307"
+  "ibge": "4116307",
+  "lat": -23.1464849,
+  "lon": -51.7736485
 }

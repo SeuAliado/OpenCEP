@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.35107,
+  "lon": -49.1089954
 }

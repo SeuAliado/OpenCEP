@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cachoeira Grande",
   "uf": "MA",
-  "ibge": "2102374"
+  "ibge": "2102374",
+  "lat": -3.1417099,
+  "lon": -43.9055155
 }

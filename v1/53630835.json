@@ -5,5 +5,7 @@
   "bairro": "Pancó",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8633274,
+  "lon": -34.9086951
 }

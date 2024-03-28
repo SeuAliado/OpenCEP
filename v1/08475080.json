@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Castro Alves",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.583166,
+  "lon": -46.3954805
 }

@@ -5,5 +5,7 @@
   "bairro": "Cocais",
   "localidade": "Barão de Cocais",
   "uf": "MG",
-  "ibge": "3105400"
+  "ibge": "3105400",
+  "lat": -19.9409462,
+  "lon": -43.4812978
 }

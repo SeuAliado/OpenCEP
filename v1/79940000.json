@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caarapó",
   "uf": "MS",
-  "ibge": "5002407"
+  "ibge": "5002407",
+  "lat": -22.6343857,
+  "lon": -54.8233506
 }

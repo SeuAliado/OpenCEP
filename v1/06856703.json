@@ -5,5 +5,7 @@
   "bairro": "Jardim Valo Velho",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.6972584,
+  "lon": -46.7997359
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Califórnia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6050208,
+  "lon": -46.555393
 }

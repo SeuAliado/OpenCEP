@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caracaraí",
   "uf": "RR",
-  "ibge": "1400209"
+  "ibge": "1400209",
+  "lat": 1.8142432,
+  "lon": -61.134494
 }

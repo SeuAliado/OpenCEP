@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Trairi",
   "uf": "CE",
-  "ibge": "2313500"
+  "ibge": "2313500",
+  "lat": -3.2742864,
+  "lon": -39.2651018
 }

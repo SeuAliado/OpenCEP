@@ -5,5 +5,7 @@
   "bairro": "Jardim Modelo",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5608049,
+  "lon": -46.3241011
 }

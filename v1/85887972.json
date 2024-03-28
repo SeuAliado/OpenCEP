@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matelândia",
   "uf": "PR",
-  "ibge": "4115606"
+  "ibge": "4115606",
+  "lat": -25.3666021,
+  "lon": -53.9651028
 }

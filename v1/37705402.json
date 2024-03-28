@@ -5,5 +5,7 @@
   "bairro": "Residencial Mantiqueira",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7999654,
+  "lon": -46.5420812
 }

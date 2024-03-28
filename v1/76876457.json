@@ -5,5 +5,7 @@
   "bairro": "Park Tropical",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "lat": -9.9261274,
+  "lon": -63.0353447
 }

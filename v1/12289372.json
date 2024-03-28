@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíba",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.0736214,
+  "lon": -45.7136763
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7323917,
+  "lon": -52.4452002
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Herculândia",
   "uf": "SP",
-  "ibge": "3519006"
+  "ibge": "3519006",
+  "lat": -22.0059319,
+  "lon": -50.3859202
 }

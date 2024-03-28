@@ -5,5 +5,7 @@
   "bairro": "Recreio dos Bandeirantes",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7812149,
+  "lon": -47.937602
 }

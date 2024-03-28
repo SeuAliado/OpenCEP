@@ -5,5 +5,7 @@
   "bairro": "Gardênia",
   "localidade": "Rancharia",
   "uf": "SP",
-  "ibge": "3542206"
+  "ibge": "3542206",
+  "lat": -22.6256293,
+  "lon": -50.9052053
 }

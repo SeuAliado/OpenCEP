@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Butantã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5765958,
+  "lon": -46.7273997
 }

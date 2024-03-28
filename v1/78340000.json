@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juruena",
   "uf": "MT",
-  "ibge": "5105176"
+  "ibge": "5105176",
+  "lat": -10.3334408,
+  "lon": -58.4930015
 }

@@ -5,5 +5,7 @@
   "bairro": "Augusto Montenegro",
   "localidade": "Urucurituba",
   "uf": "AM",
-  "ibge": "1304401"
+  "ibge": "1304401",
+  "lat": -3.1346651,
+  "lon": -58.1546959
 }

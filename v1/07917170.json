@@ -5,5 +5,7 @@
   "bairro": "Jardim Ferrão",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2755511,
+  "lon": -46.7497106
 }

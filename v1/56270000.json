@@ -5,5 +5,7 @@
   "bairro": "Serrolândia",
   "localidade": "Ipubi",
   "uf": "PE",
-  "ibge": "2607307"
+  "ibge": "2607307",
+  "lat": -7.4962229,
+  "lon": -40.2761434
 }

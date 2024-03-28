@@ -5,5 +5,7 @@
   "bairro": "Lagoa",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.769243,
+  "lon": -63.863904
 }

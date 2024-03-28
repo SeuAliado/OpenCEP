@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubaí",
   "uf": "MG",
-  "ibge": "3170008"
+  "ibge": "3170008",
+  "lat": -16.2867426,
+  "lon": -44.7802493
 }

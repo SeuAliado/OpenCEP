@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caeté",
   "uf": "MG",
-  "ibge": "3110004"
+  "ibge": "3110004",
+  "lat": -19.9008523,
+  "lon": -43.6723226
 }

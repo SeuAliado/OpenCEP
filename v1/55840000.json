@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa do Itaenga",
   "uf": "PE",
-  "ibge": "2608503"
+  "ibge": "2608503",
+  "lat": -7.934176,
+  "lon": -35.2920979
 }

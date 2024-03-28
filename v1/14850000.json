@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pradópolis",
   "uf": "SP",
-  "ibge": "3540903"
+  "ibge": "3540903",
+  "lat": -21.3593144,
+  "lon": -48.0724748
 }

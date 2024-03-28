@@ -5,5 +5,7 @@
   "bairro": "Canoão",
   "localidade": "Ibititá",
   "uf": "BA",
-  "ibge": "2913101"
+  "ibge": "2913101",
+  "lat": -11.4445821,
+  "lon": -41.9705034
 }

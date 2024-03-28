@@ -5,5 +5,7 @@
   "bairro": "Corrêas",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.4424376,
+  "lon": -43.138906
 }

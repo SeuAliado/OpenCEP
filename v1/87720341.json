@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália II",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.4245847,
+  "lon": -51.9628088
 }

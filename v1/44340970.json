@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muritiba",
   "uf": "BA",
-  "ibge": "2922300"
+  "ibge": "2922300",
+  "lat": -12.601255,
+  "lon": -39.041288
 }

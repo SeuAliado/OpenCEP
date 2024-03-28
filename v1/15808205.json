@@ -5,5 +5,7 @@
   "bairro": "Loteamento Solo Sagrado",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1407796,
+  "lon": -48.94877
 }

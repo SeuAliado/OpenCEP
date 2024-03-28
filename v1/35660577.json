@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.857161,
+  "lon": -44.622559
 }

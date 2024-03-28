@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Terra Roxa",
   "uf": "PR",
-  "ibge": "4127403"
+  "ibge": "4127403",
+  "lat": -24.3709576,
+  "lon": -54.0151291
 }

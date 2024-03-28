@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carazinho",
   "uf": "RS",
-  "ibge": "4304705"
+  "ibge": "4304705",
+  "lat": -28.2963334,
+  "lon": -52.793776
 }

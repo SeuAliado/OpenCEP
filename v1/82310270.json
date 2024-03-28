@@ -5,5 +5,7 @@
   "bairro": "Orleans",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4265938,
+  "lon": -49.3606279
 }

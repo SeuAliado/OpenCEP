@@ -5,5 +5,7 @@
   "bairro": "Jardim Concórdia",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7266245,
+  "lon": -53.7139878
 }

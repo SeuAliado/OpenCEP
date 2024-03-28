@@ -5,5 +5,7 @@
   "bairro": "Rodilândia",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7358254,
+  "lon": -43.5073183
 }

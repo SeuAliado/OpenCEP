@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.9007524,
+  "lon": -43.2221955
 }

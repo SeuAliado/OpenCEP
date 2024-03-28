@@ -5,5 +5,7 @@
   "bairro": "Jardim Mutinga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4866204,
+  "lon": -46.7505264
 }

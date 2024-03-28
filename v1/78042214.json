@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Sucuri",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5719469,
+  "lon": -56.1199433
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio Sena",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8759591,
+  "lon": -38.4727606
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cavallari",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.229033,
+  "lon": -49.9775445
 }

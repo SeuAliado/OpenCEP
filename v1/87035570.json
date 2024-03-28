@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial 200",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4107612,
+  "lon": -51.9316547
 }

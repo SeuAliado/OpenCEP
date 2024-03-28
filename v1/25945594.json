@@ -5,5 +5,7 @@
   "bairro": "Parque Silvestre",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "lat": -22.5264961,
+  "lon": -42.9979858
 }

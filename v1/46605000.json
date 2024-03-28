@@ -5,5 +5,7 @@
   "bairro": "Sussuarana",
   "localidade": "Tanhaçu",
   "uf": "BA",
-  "ibge": "2931004"
+  "ibge": "2931004",
+  "lat": -14.1610884,
+  "lon": -41.2093146
 }

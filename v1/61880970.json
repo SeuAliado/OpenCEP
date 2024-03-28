@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaitinga",
   "uf": "CE",
-  "ibge": "2306256"
+  "ibge": "2306256",
+  "lat": -3.8865696,
+  "lon": -38.521131
 }

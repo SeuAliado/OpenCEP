@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araçoiaba da Serra",
   "uf": "SP",
-  "ibge": "3502903"
+  "ibge": "3502903",
+  "lat": -23.5033899,
+  "lon": -47.6170597
 }

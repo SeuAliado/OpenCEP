@@ -5,5 +5,7 @@
   "bairro": "Santa Rita da Floresta",
   "localidade": "Cantagalo",
   "uf": "RJ",
-  "ibge": "3301108"
+  "ibge": "3301108",
+  "lat": -21.8814296,
+  "lon": -42.4573868
 }

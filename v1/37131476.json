@@ -5,5 +5,7 @@
   "bairro": "Campinho",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4347724,
+  "lon": -45.9455589
 }

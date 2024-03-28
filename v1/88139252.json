@@ -5,5 +5,7 @@
   "bairro": "Praia do Meio (Ens Brito)",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.8514884,
+  "lon": -48.6021951
 }

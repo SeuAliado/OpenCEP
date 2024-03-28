@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "lat": -18.6383887,
+  "lon": -48.1879079
 }

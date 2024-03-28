@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Bosco",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3730176,
+  "lon": -47.3673004
 }

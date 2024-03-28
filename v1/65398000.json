@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Alegre do Pindaré",
   "uf": "MA",
-  "ibge": "2100477"
+  "ibge": "2100477",
+  "lat": -3.6672617,
+  "lon": -45.8425154
 }

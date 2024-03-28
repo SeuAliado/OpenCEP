@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itamarandiba",
   "uf": "MG",
-  "ibge": "3132503"
+  "ibge": "3132503",
+  "lat": -17.857298,
+  "lon": -42.8583915
 }

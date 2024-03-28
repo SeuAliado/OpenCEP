@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7521946,
+  "lon": -43.3954831
 }

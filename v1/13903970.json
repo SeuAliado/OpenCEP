@@ -5,5 +5,7 @@
   "bairro": "Retiro Luiz Cenati",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7146123,
+  "lon": -46.7678655
 }

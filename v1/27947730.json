@@ -5,5 +5,7 @@
   "bairro": "Botafogo",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3636476,
+  "lon": -41.797626
 }

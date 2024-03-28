@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Frei Inocêncio",
   "uf": "MG",
-  "ibge": "3126901"
+  "ibge": "3126901",
+  "lat": -18.4940112,
+  "lon": -41.8799408
 }

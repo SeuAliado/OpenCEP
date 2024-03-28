@@ -5,5 +5,7 @@
   "bairro": "Célula Mater",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.885658,
+  "lon": -42.0441495
 }

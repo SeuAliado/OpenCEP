@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.1969314,
+  "lon": -37.3555209
 }

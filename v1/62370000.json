@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Benedito",
   "uf": "CE",
-  "ibge": "2312304"
+  "ibge": "2312304",
+  "lat": -4.0449071,
+  "lon": -40.8651372
 }

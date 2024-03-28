@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1639557,
+  "lon": -47.9435973
 }

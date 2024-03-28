@@ -5,5 +5,7 @@
   "bairro": "Setor Conde dos Arcos",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.81172,
+  "lon": -49.2761626
 }

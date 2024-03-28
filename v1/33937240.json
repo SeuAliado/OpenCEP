@@ -5,5 +5,7 @@
   "bairro": "Vila Terezópolis",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.829171,
+  "lon": -44.0217334
 }

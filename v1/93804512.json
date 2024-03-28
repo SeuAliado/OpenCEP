@@ -5,5 +5,7 @@
   "bairro": "Oeste",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "lat": -29.641209,
+  "lon": -51.029026
 }

@@ -5,5 +5,7 @@
   "bairro": "Moraes Almeida",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -6.22617,
+  "lon": -55.6307553
 }

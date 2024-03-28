@@ -5,5 +5,7 @@
   "bairro": "Chácara Terra Nova",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2295605,
+  "lon": -46.8985353
 }

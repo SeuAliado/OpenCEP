@@ -5,5 +5,7 @@
   "bairro": "Narandiba",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9545699,
+  "lon": -38.4492864
 }

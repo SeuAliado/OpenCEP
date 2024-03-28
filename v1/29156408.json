@@ -5,5 +5,7 @@
   "bairro": "Vila Merlo",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.2584468,
+  "lon": -40.411922
 }

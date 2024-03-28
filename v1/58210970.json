@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pilõezinhos",
   "uf": "PB",
-  "ibge": "2511707"
+  "ibge": "2511707",
+  "lat": -6.8433251,
+  "lon": -35.5306467
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3209334,
+  "lon": -49.0979592
 }

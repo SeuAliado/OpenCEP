@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Camargo",
   "uf": "RS",
-  "ibge": "4303558"
+  "ibge": "4303558",
+  "lat": -28.5862996,
+  "lon": -52.2087226
 }

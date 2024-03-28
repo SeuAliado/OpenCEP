@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jauru",
   "uf": "MT",
-  "ibge": "5105002"
+  "ibge": "5105002",
+  "lat": -15.3776137,
+  "lon": -58.8747865
 }

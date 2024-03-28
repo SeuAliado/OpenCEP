@@ -5,5 +5,7 @@
   "bairro": "Grande",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.79089,
+  "lon": -55.805592
 }

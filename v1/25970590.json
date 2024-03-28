@@ -5,5 +5,7 @@
   "bairro": "Parque do Imbui",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.3879538,
+  "lon": -43.0035051
 }

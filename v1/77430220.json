@@ -5,5 +5,7 @@
   "bairro": "Chácara Recreios Irmãos Ferreira",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7316967,
+  "lon": -49.0907036
 }

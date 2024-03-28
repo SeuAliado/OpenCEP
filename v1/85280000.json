@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Altamira do Paraná",
   "uf": "PR",
-  "ibge": "4100459"
+  "ibge": "4100459",
+  "lat": -24.8218692,
+  "lon": -52.6814062
 }

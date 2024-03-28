@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dourado",
   "uf": "SP",
-  "ibge": "3514304"
+  "ibge": "3514304",
+  "lat": -22.1261969,
+  "lon": -48.3389644
 }

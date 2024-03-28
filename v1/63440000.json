@@ -5,5 +5,7 @@
   "bairro": "Cruzeirinho",
   "localidade": "Icó",
   "uf": "CE",
-  "ibge": "2305407"
+  "ibge": "2305407",
+  "lat": -6.416296,
+  "lon": -38.8627645
 }

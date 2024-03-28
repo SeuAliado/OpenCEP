@@ -5,5 +5,7 @@
   "bairro": "São José Operário",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

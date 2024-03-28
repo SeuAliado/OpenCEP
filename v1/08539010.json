@@ -5,5 +5,7 @@
   "bairro": "Jardim Recanto dos Pássaros",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.531461,
+  "lon": -46.3796783
 }

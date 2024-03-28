@@ -5,5 +5,7 @@
   "bairro": "Matapiquara",
   "localidade": "Marapanim",
   "uf": "PA",
-  "ibge": "1504406"
+  "ibge": "1504406",
+  "lat": -0.9460594,
+  "lon": -47.6424364
 }

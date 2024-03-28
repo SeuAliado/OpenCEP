@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6153322,
+  "lon": -52.259933
 }

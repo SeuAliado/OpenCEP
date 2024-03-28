@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibirapuã",
   "uf": "BA",
-  "ibge": "2912806"
+  "ibge": "2912806",
+  "lat": -17.7357875,
+  "lon": -40.0222864
 }

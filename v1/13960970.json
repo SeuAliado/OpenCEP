@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Socorro",
   "uf": "SP",
-  "ibge": "3552106"
+  "ibge": "3552106",
+  "lat": -22.5937126,
+  "lon": -46.5300667
 }

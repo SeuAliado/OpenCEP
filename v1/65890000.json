@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Félix de Balsas",
   "uf": "MA",
-  "ibge": "2110807"
+  "ibge": "2110807",
+  "lat": -7.0757456,
+  "lon": -44.8096475
 }

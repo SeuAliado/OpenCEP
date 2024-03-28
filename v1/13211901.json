@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1771214,
+  "lon": -46.9314341
 }

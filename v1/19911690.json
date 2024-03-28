@@ -5,5 +5,7 @@
   "bairro": "Vila Christoni",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9721834,
+  "lon": -49.8693272
 }

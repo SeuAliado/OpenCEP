@@ -5,5 +5,7 @@
   "bairro": "Barra do Jucu",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.4297774,
+  "lon": -40.3271106
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Luiz Rocha",
   "uf": "MA",
-  "ibge": "2104628"
+  "ibge": "2104628",
+  "lat": -5.4787428,
+  "lon": -44.0778244
 }

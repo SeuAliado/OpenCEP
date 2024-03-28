@@ -5,5 +5,7 @@
   "bairro": "Jardim Oceania",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.0771817,
+  "lon": -34.8362665
 }

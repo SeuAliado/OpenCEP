@@ -5,5 +5,7 @@
   "bairro": "Vila Célio Honorato de Souza",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

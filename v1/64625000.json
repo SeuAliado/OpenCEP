@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Piauí",
   "uf": "PI",
-  "ibge": "2210201"
+  "ibge": "2210201",
+  "lat": -6.8248343,
+  "lon": -41.5012792
 }

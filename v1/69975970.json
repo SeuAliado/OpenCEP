@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jordão",
   "uf": "AC",
-  "ibge": "1200328"
+  "ibge": "1200328",
+  "lat": -21.6289041,
+  "lon": -55.1597245
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5444199,
+  "lon": -46.886967
 }

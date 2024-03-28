@@ -5,5 +5,7 @@
   "bairro": "Vila da Fábrica",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.0107484,
+  "lon": -34.97814
 }

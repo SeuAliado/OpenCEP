@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6534045,
+  "lon": -46.7610679
 }

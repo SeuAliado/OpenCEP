@@ -5,5 +5,7 @@
   "bairro": "Alto Uruguai",
   "localidade": "Três Passos",
   "uf": "RS",
-  "ibge": "4321907"
+  "ibge": "4321907",
+  "lat": -27.3068431,
+  "lon": -54.1241401
 }

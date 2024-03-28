@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chapadão do Lageado",
   "uf": "SC",
-  "ibge": "4204194"
+  "ibge": "4204194",
+  "lat": -27.5897517,
+  "lon": -49.5502089
 }

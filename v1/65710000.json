@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lago do Junco",
   "uf": "MA",
-  "ibge": "2105807"
+  "ibge": "2105807",
+  "lat": -4.406667,
+  "lon": -44.931944
 }

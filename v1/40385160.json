@@ -5,5 +5,7 @@
   "bairro": "Boa Vista de São Caetano",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9261626,
+  "lon": -38.4753659
 }

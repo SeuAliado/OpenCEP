@@ -5,5 +5,7 @@
   "bairro": "São Domingos",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "lat": -25.538082,
+  "lon": -49.219339
 }

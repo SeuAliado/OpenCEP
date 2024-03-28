@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada Du Park",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7682794,
+  "lon": -47.9799564
 }

@@ -5,5 +5,7 @@
   "bairro": "Bandeirantes d'Oeste",
   "localidade": "Quarto Centenário",
   "uf": "PR",
-  "ibge": "4120655"
+  "ibge": "4120655",
+  "lat": -24.2777889,
+  "lon": -53.0759351
 }

@@ -5,5 +5,7 @@
   "bairro": "João Correia",
   "localidade": "Mucugê",
   "uf": "BA",
-  "ibge": "2921906"
+  "ibge": "2921906",
+  "lat": -13.269692,
+  "lon": -41.6052268
 }

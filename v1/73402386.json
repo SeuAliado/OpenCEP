@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Esperança (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6065935,
+  "lon": -47.6814561
 }

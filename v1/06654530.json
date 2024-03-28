@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5400994,
+  "lon": -46.9223894
 }

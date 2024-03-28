@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Angical do Piauí",
   "uf": "PI",
-  "ibge": "2200608"
+  "ibge": "2200608",
+  "lat": -6.1285123,
+  "lon": -42.7226493
 }

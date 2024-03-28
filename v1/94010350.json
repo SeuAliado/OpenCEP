@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "lat": -29.9393346,
+  "lon": -50.9925774
 }

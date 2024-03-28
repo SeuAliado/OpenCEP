@@ -5,5 +5,7 @@
   "bairro": "Cidade Morumbi",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2447925,
+  "lon": -45.9065873
 }

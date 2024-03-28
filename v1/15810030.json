@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1514058,
+  "lon": -48.9652115
 }

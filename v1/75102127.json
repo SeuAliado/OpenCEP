@@ -5,5 +5,7 @@
   "bairro": "Residencial Gabriela",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3630323,
+  "lon": -48.9136639
 }

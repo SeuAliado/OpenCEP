@@ -5,5 +5,7 @@
   "bairro": "Jardim Palmares (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4347121,
+  "lon": -46.5870127
 }

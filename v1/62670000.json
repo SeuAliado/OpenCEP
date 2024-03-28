@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Gonçalo do Amarante",
   "uf": "CE",
-  "ibge": "2312403"
+  "ibge": "2312403",
+  "lat": -3.6072866,
+  "lon": -38.9683884
 }

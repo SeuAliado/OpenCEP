@@ -5,5 +5,7 @@
   "bairro": "Sete Estrelas",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1363789,
+  "lon": -42.8266251
 }

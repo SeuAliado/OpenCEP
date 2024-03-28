@@ -5,5 +5,7 @@
   "bairro": "Setor Sul",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "lat": -15.4471143,
+  "lon": -47.5895392
 }

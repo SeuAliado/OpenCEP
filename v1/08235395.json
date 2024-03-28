@@ -5,5 +5,7 @@
   "bairro": "Parque Guarani",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -21.1810021,
+  "lon": -48.9997987
 }

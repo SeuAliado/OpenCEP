@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "lat": -19.8462714,
+  "lon": -44.5992826
 }

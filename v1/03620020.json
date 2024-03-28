@@ -5,5 +5,7 @@
   "bairro": "Vila Fidelis Ribeiro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5109106,
+  "lon": -46.5080192
 }

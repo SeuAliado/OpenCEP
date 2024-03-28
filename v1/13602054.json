@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II Guilherme Buck Júnior",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3684754,
+  "lon": -47.4001441
 }

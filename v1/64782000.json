@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jurema",
   "uf": "PI",
-  "ibge": "2205532"
+  "ibge": "2205532",
+  "lat": -9.0408484,
+  "lon": -43.1359542
 }

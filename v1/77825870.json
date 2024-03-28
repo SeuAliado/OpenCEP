@@ -5,5 +5,7 @@
   "bairro": "Parque Bom Viver",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1335847,
+  "lon": -48.1882228
 }

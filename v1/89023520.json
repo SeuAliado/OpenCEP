@@ -5,5 +5,7 @@
   "bairro": "Valparaiso",
   "localidade": "Blumenau",
   "uf": "SC",
-  "ibge": "4202404"
+  "ibge": "4202404",
+  "lat": -26.9555374,
+  "lon": -49.0769319
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Uruburetama",
   "uf": "CE",
-  "ibge": "2313807"
+  "ibge": "2313807",
+  "lat": -3.622382,
+  "lon": -39.5721441
 }

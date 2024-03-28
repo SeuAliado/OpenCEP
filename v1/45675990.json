@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aurelino Leal",
   "uf": "BA",
-  "ibge": "2902401"
+  "ibge": "2902401",
+  "lat": -14.3192339,
+  "lon": -39.3224014
 }

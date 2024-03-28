@@ -5,5 +5,7 @@
   "bairro": "Cidade Aracy",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0569207,
+  "lon": -47.9009853
 }

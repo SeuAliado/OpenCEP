@@ -5,5 +5,7 @@
   "bairro": "Camorim Pequeno",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -23.0029384,
+  "lon": -44.2800766
 }

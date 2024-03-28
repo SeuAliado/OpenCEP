@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5230775,
+  "lon": -42.6316426
 }

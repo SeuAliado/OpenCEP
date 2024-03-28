@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Lúcia",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5299531,
+  "lon": -47.4299052
 }

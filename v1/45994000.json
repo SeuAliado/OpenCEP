@@ -5,5 +5,7 @@
   "bairro": "Redenção",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "lat": -5.1299981,
+  "lon": -42.8109363
 }

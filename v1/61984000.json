@@ -5,5 +5,7 @@
   "bairro": "Manoel Guedes",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -4.0265935,
+  "lon": -38.8857353
 }

@@ -5,5 +5,7 @@
   "bairro": "Itacava",
   "localidade": "Coração de Maria",
   "uf": "BA",
-  "ibge": "2908903"
+  "ibge": "2908903",
+  "lat": -12.19998,
+  "lon": -38.816921
 }

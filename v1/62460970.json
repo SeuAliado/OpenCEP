@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uruoca",
   "uf": "CE",
-  "ibge": "2313906"
+  "ibge": "2313906",
+  "lat": -3.3148223,
+  "lon": -40.5595184
 }

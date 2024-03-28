@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Terra Roxa",
   "uf": "SP",
-  "ibge": "3554409"
+  "ibge": "3554409",
+  "lat": -20.7886401,
+  "lon": -48.3318662
 }

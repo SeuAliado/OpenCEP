@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.566737,
+  "lon": -47.404092
 }

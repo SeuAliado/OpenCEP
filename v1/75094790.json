@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3181419,
+  "lon": -48.9323843
 }

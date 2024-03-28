@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bernardino",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.4977133,
+  "lon": -46.2736891
 }

@@ -5,5 +5,7 @@
   "bairro": "Higienópolis",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.7054668,
+  "lon": -52.4199133
 }

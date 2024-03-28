@@ -5,5 +5,7 @@
   "bairro": "Vila Angelina",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.8033615,
+  "lon": -45.1765026
 }

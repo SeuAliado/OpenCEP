@@ -5,5 +5,7 @@
   "bairro": "Antônio de Paiva Cantelmo",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.0490515,
+  "lon": -53.0633603
 }

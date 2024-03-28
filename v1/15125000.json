@@ -5,5 +5,7 @@
   "bairro": "Barra Dourada",
   "localidade": "Neves Paulista",
   "uf": "SP",
-  "ibge": "3532504"
+  "ibge": "3532504",
+  "lat": -20.8438551,
+  "lon": -49.629994
 }

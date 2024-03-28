@@ -5,5 +5,7 @@
   "bairro": "Residencial Primavera",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9815644,
+  "lon": -49.4859558
 }

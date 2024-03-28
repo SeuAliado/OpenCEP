@@ -5,5 +5,7 @@
   "bairro": "Reserva Santa Rosa",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

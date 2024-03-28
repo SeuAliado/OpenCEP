@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vargem Bonita",
   "uf": "MG",
-  "ibge": "3170602"
+  "ibge": "3170602",
+  "lat": -20.3288015,
+  "lon": -46.3692583
 }

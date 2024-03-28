@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mirante",
   "uf": "BA",
-  "ibge": "2921450"
+  "ibge": "2921450",
+  "lat": -14.2389228,
+  "lon": -40.7721729
 }

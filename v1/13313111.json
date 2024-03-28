@@ -5,5 +5,7 @@
   "bairro": "Jardim Padre Bento",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2524945,
+  "lon": -47.3148329
 }

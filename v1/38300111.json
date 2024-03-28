@@ -5,5 +5,7 @@
   "bairro": "Camargo",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9817099,
+  "lon": -49.4719058
 }

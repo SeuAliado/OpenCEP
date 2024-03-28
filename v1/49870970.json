@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itabi",
   "uf": "SE",
-  "ibge": "2803104"
+  "ibge": "2803104",
+  "lat": -10.1287223,
+  "lon": -37.1045748
 }

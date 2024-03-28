@@ -5,5 +5,7 @@
   "bairro": "COHEB",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -3.6654631,
+  "lon": -45.369583
 }

@@ -5,5 +5,7 @@
   "bairro": "Ibaré",
   "localidade": "Lavras do Sul",
   "uf": "RS",
-  "ibge": "4311502"
+  "ibge": "4311502",
+  "lat": -30.793444,
+  "lon": -54.2619627
 }

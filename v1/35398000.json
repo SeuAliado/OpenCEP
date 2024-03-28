@@ -5,5 +5,7 @@
   "bairro": "São Vicente do Grama",
   "localidade": "Jequeri",
   "uf": "MG",
-  "ibge": "3135506"
+  "ibge": "3135506",
+  "lat": -21.2251308,
+  "lon": -43.7711265
 }

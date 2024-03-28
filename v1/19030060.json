@@ -5,5 +5,7 @@
   "bairro": "Vila Laíde",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1244933,
+  "lon": -51.3786127
 }

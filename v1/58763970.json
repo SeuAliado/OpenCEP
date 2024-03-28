@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Emas",
   "uf": "PB",
-  "ibge": "2505907"
+  "ibge": "2505907",
+  "lat": -7.1078609,
+  "lon": -37.7169569
 }

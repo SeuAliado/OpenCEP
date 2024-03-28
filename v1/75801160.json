@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8871036,
+  "lon": -51.7107113
 }

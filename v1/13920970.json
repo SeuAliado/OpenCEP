@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedreira",
   "uf": "SP",
-  "ibge": "3537107"
+  "ibge": "3537107",
+  "lat": -22.7430826,
+  "lon": -46.8981716
 }

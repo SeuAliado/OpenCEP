@@ -5,5 +5,7 @@
   "bairro": "Colônia Santana",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5857544,
+  "lon": -48.7191587
 }

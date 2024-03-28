@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riolândia",
   "uf": "SP",
-  "ibge": "3544202"
+  "ibge": "3544202",
+  "lat": -23.4333884,
+  "lon": -46.5578568
 }

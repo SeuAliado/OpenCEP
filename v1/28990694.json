@@ -5,5 +5,7 @@
   "bairro": "Areal",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.9275278,
+  "lon": -42.5105108
 }

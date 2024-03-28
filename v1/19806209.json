@@ -5,5 +5,7 @@
   "bairro": "Vila Central",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6579037,
+  "lon": -50.419406
 }

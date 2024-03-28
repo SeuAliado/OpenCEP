@@ -5,5 +5,7 @@
   "bairro": "Jardim Transbrasiliano",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7649922,
+  "lon": -49.243943
 }

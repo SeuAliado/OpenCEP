@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campinápolis",
   "uf": "MT",
-  "ibge": "5102603"
+  "ibge": "5102603",
+  "lat": -14.3753491,
+  "lon": -53.1319209
 }

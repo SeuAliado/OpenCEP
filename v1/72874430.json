@@ -5,5 +5,7 @@
   "bairro": "Parque do Ipê",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.1626493,
+  "lon": -47.9954794
 }

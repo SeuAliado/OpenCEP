@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Taquari",
   "uf": "MT",
-  "ibge": "5100607"
+  "ibge": "5100607",
+  "lat": -17.8297833,
+  "lon": -53.2834695
 }

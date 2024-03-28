@@ -5,5 +5,7 @@
   "bairro": "Vila Zezé",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.2969671,
+  "lon": -45.945363
 }

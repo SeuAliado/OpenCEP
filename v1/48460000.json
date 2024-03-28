@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Soure",
   "uf": "BA",
-  "ibge": "2922904"
+  "ibge": "2922904",
+  "lat": -11.3035518,
+  "lon": -38.5270305
 }

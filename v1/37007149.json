@@ -5,5 +5,7 @@
   "bairro": "Jardim São Joaquim",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -19.926299,
+  "lon": -44.0047574
 }

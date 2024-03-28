@@ -5,5 +5,7 @@
   "bairro": "Aterrado (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.8965263,
+  "lon": -42.454869
 }

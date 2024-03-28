@@ -5,5 +5,7 @@
   "bairro": "Vila Endres",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4862942,
+  "lon": -46.5456706
 }

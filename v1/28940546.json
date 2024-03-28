@@ -5,5 +5,7 @@
   "bairro": "Porto da Aldeia",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "lat": -22.8499951,
+  "lon": -42.1001613
 }

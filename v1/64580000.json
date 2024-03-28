@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Patos do Piauí",
   "uf": "PI",
-  "ibge": "2207777"
+  "ibge": "2207777",
+  "lat": -7.6390666,
+  "lon": -41.3209993
 }

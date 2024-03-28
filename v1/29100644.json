@@ -5,5 +5,7 @@
   "bairro": "Jaburuna",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3308072,
+  "lon": -40.3021062
 }

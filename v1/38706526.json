@@ -5,5 +5,7 @@
   "bairro": "Ipanema",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.622628,
+  "lon": -46.510095
 }

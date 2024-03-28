@@ -5,5 +5,7 @@
   "bairro": "Loteamento Nossa Senhora do Amparo",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4620061,
+  "lon": -54.6130356
 }

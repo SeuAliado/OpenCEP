@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.8807691,
+  "lon": -51.378308
 }

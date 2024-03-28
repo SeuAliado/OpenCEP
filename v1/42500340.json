@@ -5,5 +5,7 @@
   "bairro": "Engenho de Maré (Ilha de Maré)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7848766,
+  "lon": -38.5163145
 }

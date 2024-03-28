@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Aurora",
   "uf": "GO",
-  "ibge": "5214804"
+  "ibge": "5214804",
+  "lat": -18.0601135,
+  "lon": -48.2556157
 }

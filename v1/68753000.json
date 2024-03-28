@@ -5,5 +5,7 @@
   "bairro": "Lauro Sodré",
   "localidade": "Curuçá",
   "uf": "PA",
-  "ibge": "1502905"
+  "ibge": "1502905",
+  "lat": -0.727527,
+  "lon": -47.8579538
 }

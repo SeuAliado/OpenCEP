@@ -5,5 +5,7 @@
   "bairro": "Jardim Myrian Moreira da Costa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8137031,
+  "lon": -47.0336159
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedro Régis",
   "uf": "PB",
-  "ibge": "2512721"
+  "ibge": "2512721",
+  "lat": -6.6410967,
+  "lon": -35.2931306
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iguatama",
   "uf": "MG",
-  "ibge": "3130309"
+  "ibge": "3130309",
+  "lat": -20.1773835,
+  "lon": -45.7081801
 }

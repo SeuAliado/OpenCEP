@@ -5,5 +5,7 @@
   "bairro": "Vila Euclides",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1278437,
+  "lon": -51.3942944
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Florestan Fernandes",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.1313252,
+  "lon": -47.7466292
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Bárbara",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4045185,
+  "lon": -44.253275
 }

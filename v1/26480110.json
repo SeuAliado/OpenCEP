@@ -5,5 +5,7 @@
   "bairro": "Jardim Rio D'Ouro",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6746896,
+  "lon": -43.5997907
 }

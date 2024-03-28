@@ -5,5 +5,7 @@
   "bairro": "Setor Marista Sul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8308363,
+  "lon": -49.2733791
 }

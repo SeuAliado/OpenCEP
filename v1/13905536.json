@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7054497,
+  "lon": -46.8067478
 }

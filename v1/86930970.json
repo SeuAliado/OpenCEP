@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Ivaí",
   "uf": "PR",
-  "ibge": "4125001"
+  "ibge": "4125001",
+  "lat": -23.9923271,
+  "lon": -51.8194879
 }

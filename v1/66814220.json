@@ -5,5 +5,7 @@
   "bairro": "Paracuri (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3118203,
+  "lon": -48.478024
 }

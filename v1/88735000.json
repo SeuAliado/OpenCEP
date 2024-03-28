@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gravatal",
   "uf": "SC",
-  "ibge": "4206207"
+  "ibge": "4206207",
+  "lat": -28.3212662,
+  "lon": -49.0431687
 }

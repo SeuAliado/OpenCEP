@@ -5,5 +5,7 @@
   "bairro": "Riachão",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.734062,
+  "lon": -43.5515915
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Grande",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3816011,
+  "lon": -46.9450676
 }

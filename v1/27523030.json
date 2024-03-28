@@ -5,5 +5,7 @@
   "bairro": "Morada da Colina",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.484895,
+  "lon": -44.4748736
 }

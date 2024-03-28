@@ -5,5 +5,7 @@
   "bairro": "Flores",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1028972,
+  "lon": -42.849553
 }

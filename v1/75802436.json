@@ -5,5 +5,7 @@
   "bairro": "Residencial Cohacol 5",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.901082,
+  "lon": -51.7387454
 }

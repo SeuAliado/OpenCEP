@@ -5,5 +5,7 @@
   "bairro": "Loteamento São Vicente de Paulo",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9164807,
+  "lon": -45.3639211
 }

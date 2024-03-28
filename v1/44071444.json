@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio dos Prazeres",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "lat": -12.2251794,
+  "lon": -38.914794
 }

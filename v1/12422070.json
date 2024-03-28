@@ -5,5 +5,7 @@
   "bairro": "Chácara da Galega",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.933405,
+  "lon": -45.4645781
 }

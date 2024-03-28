@@ -5,5 +5,7 @@
   "bairro": "Três Barras",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5398153,
+  "lon": -56.043226
 }

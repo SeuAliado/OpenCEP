@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paranapoema",
   "uf": "PR",
-  "ibge": "4118303"
+  "ibge": "4118303",
+  "lat": -22.6548251,
+  "lon": -52.0836697
 }

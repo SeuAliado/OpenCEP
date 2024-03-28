@@ -5,5 +5,7 @@
   "bairro": "Palestina",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8684319,
+  "lon": -38.4190014
 }

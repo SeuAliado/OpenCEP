@@ -5,5 +5,7 @@
   "bairro": "Bairro Cachoeira",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "lat": -25.6047695,
+  "lon": -49.3892348
 }

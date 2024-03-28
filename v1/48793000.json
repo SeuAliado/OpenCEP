@@ -5,5 +5,7 @@
   "bairro": "Caldas do Jorro",
   "localidade": "Tucano",
   "uf": "BA",
-  "ibge": "2931905"
+  "ibge": "2931905",
+  "lat": -11.0365851,
+  "lon": -38.7847942
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Alto da Boa Vista",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6749884,
+  "lon": -49.7362817
 }

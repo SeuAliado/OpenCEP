@@ -5,5 +5,7 @@
   "bairro": "Loteamento Mário Luiz Rodrigues do Prado",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2832991,
+  "lon": -49.0453864
 }

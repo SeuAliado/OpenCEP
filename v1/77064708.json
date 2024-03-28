@@ -5,5 +5,7 @@
   "bairro": "Setor Bela Vista (Taquaralto)",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "lat": -10.3506733,
+  "lon": -48.2923797
 }

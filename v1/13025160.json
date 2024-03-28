@@ -5,5 +5,7 @@
   "bairro": "Cambuí",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8943712,
+  "lon": -47.05197
 }

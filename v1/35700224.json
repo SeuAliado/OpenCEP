@@ -5,5 +5,7 @@
   "bairro": "São Dimas",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4723429,
+  "lon": -44.252885
 }

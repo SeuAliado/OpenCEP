@@ -5,5 +5,7 @@
   "bairro": "Grajaú",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.102524,
+  "lon": -44.8652806
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapebi",
   "uf": "BA",
-  "ibge": "2916302"
+  "ibge": "2916302",
+  "lat": -15.9726309,
+  "lon": -39.5363279
 }

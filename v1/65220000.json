@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Vicente Ferrer",
   "uf": "MA",
-  "ibge": "2111706"
+  "ibge": "2111706",
+  "lat": -2.8957254,
+  "lon": -44.880627
 }

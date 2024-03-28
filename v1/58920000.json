@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Triunfo",
   "uf": "PB",
-  "ibge": "2516805"
+  "ibge": "2516805",
+  "lat": -6.5792047,
+  "lon": -38.5976968
 }

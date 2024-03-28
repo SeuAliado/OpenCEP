@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Juscelino Kubitschek",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5651005,
+  "lon": -46.3940757
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Aparecida",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "lat": -23.3191949,
+  "lon": -51.3847989
 }

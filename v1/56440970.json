@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belém do São Francisco",
   "uf": "PE",
-  "ibge": "2601607"
+  "ibge": "2601607",
+  "lat": -8.7549042,
+  "lon": -38.9664243
 }

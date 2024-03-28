@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Peçanha",
   "uf": "MG",
-  "ibge": "3148608"
+  "ibge": "3148608",
+  "lat": -18.54881,
+  "lon": -42.5582843
 }

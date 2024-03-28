@@ -5,5 +5,7 @@
   "bairro": "Pindorama",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6646557,
+  "lon": -46.8719019
 }

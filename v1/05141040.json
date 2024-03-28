@@ -5,5 +5,7 @@
   "bairro": "Chácara Inglesa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4924929,
+  "lon": -46.7309337
 }

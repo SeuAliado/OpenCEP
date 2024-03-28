@@ -5,5 +5,7 @@
   "bairro": "Serra dos Dourados",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.6158526,
+  "lon": -53.3853244
 }

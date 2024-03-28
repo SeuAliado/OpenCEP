@@ -5,5 +5,7 @@
   "bairro": "Chácara Cneo",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9070514,
+  "lon": -47.1034103
 }

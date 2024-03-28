@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Enéas Marques",
   "uf": "PR",
-  "ibge": "4107405"
+  "ibge": "4107405",
+  "lat": -25.9433278,
+  "lon": -53.1641927
 }

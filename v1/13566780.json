@@ -5,5 +5,7 @@
   "bairro": "Vila Brasília",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -23.6691952,
+  "lon": -46.6429371
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.545355,
+  "lon": -44.16766
 }

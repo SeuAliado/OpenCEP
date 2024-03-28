@@ -5,5 +5,7 @@
   "bairro": "Jardim São Lázaro",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5224914,
+  "lon": -46.3760216
 }

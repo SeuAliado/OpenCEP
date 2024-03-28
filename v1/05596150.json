@@ -5,5 +5,7 @@
   "bairro": "Cidade dos Bandeirantes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.582132,
+  "lon": -46.7484161
 }

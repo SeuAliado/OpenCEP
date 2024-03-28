@@ -5,5 +5,7 @@
   "bairro": "Beija Flor",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8380922,
+  "lon": -43.8696302
 }

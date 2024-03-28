@@ -5,5 +5,7 @@
   "bairro": "Fundação da Casa Popular",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9171563,
+  "lon": -47.080173
 }

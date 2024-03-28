@@ -5,5 +5,7 @@
   "bairro": "Jardim Souza Queiroz",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.753442,
+  "lon": -47.3940025
 }

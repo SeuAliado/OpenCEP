@@ -5,5 +5,7 @@
   "bairro": "Silveira",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8924448,
+  "lon": -43.9299346
 }

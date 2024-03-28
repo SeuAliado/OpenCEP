@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Estrela do Norte",
   "uf": "GO",
-  "ibge": "5207501"
+  "ibge": "5207501",
+  "lat": -13.8680902,
+  "lon": -49.0710406
 }

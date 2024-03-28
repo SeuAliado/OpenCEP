@@ -5,5 +5,7 @@
   "bairro": "Pinheirinhos",
   "localidade": "Passa Quatro",
   "uf": "MG",
-  "ibge": "3147600"
+  "ibge": "3147600",
+  "lat": -22.4122194,
+  "lon": -44.9765975
 }

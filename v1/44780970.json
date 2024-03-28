@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antônio Gonçalves",
   "uf": "BA",
-  "ibge": "2901809"
+  "ibge": "2901809",
+  "lat": -10.5718014,
+  "lon": -40.2759706
 }

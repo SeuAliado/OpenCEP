@@ -5,5 +5,7 @@
   "bairro": "Ibitu",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.6132565,
+  "lon": -48.7686191
 }

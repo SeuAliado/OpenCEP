@@ -5,5 +5,7 @@
   "bairro": "Águas Lindas",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "lat": -1.398412,
+  "lon": -48.398464
 }

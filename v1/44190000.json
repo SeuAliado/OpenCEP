@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Estêvão",
   "uf": "BA",
-  "ibge": "2928802"
+  "ibge": "2928802",
+  "lat": -12.4754252,
+  "lon": -39.2583293
 }

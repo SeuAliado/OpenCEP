@@ -5,5 +5,7 @@
   "bairro": "Parque Cecap",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7137487,
+  "lon": -46.7866649
 }

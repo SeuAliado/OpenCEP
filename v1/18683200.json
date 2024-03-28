@@ -5,5 +5,7 @@
   "bairro": "Vila Virgílio Capoani",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.5932864,
+  "lon": -48.8031295
 }

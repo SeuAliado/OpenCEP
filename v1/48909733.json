@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4338481,
+  "lon": -40.4848939
 }

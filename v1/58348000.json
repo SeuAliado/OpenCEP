@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riachão do Poço",
   "uf": "PB",
-  "ibge": "2512762"
+  "ibge": "2512762",
+  "lat": -7.1471456,
+  "lon": -35.2628177
 }

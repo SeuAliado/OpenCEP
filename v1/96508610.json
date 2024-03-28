@@ -5,5 +5,7 @@
   "bairro": "Visconde de Mauá",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0367477,
+  "lon": -52.8744088
 }

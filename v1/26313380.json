@@ -5,5 +5,7 @@
   "bairro": "Vila Dona Branca",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7270514,
+  "lon": -43.5730209
 }

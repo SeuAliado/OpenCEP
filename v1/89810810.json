@@ -5,5 +5,7 @@
   "bairro": "Trevo",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -26.9989345,
+  "lon": -52.6470125
 }

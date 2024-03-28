@@ -5,5 +5,7 @@
   "bairro": "Menino Deus",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0498999,
+  "lon": -51.2201465
 }

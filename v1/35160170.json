@@ -5,5 +5,7 @@
   "bairro": "Das Águas",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.5002306,
+  "lon": -42.5447263
 }

@@ -5,5 +5,7 @@
   "bairro": "Satélite",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0755517,
+  "lon": -42.7734292
 }

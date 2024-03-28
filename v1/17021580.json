@@ -5,5 +5,7 @@
   "bairro": "Jardim Estrela D'Alva",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2963563,
+  "lon": -49.0772384
 }

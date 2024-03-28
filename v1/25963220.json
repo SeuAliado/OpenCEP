@@ -5,5 +5,7 @@
   "bairro": "Agriões",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4223042,
+  "lon": -42.9786527
 }

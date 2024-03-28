@@ -5,5 +5,7 @@
   "bairro": "Guaipava",
   "localidade": "Paraguaçu",
   "uf": "MG",
-  "ibge": "3147204"
+  "ibge": "3147204",
+  "lat": -21.6639837,
+  "lon": -45.724037
 }

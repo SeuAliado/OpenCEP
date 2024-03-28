@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luís Eduardo Magalhães",
   "uf": "BA",
-  "ibge": "2919553"
+  "ibge": "2919553",
+  "lat": -12.0940382,
+  "lon": -45.8050361
 }

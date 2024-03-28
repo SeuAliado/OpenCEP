@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chuvisca",
   "uf": "RS",
-  "ibge": "4305447"
+  "ibge": "4305447",
+  "lat": -30.7509097,
+  "lon": -51.974181
 }

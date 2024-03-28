@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Córrego do Ouro",
   "uf": "GO",
-  "ibge": "5205703"
+  "ibge": "5205703",
+  "lat": -16.3789541,
+  "lon": -50.5756887
 }

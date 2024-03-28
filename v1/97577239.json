@@ -5,5 +5,7 @@
   "bairro": "Argiles",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "lat": -30.8902662,
+  "lon": -55.5075136
 }

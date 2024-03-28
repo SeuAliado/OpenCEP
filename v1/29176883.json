@@ -5,5 +5,7 @@
   "bairro": "São Lourenço",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1312614,
+  "lon": -40.3056846
 }

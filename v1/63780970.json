@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monsenhor Tabosa",
   "uf": "CE",
-  "ibge": "2308609"
+  "ibge": "2308609",
+  "lat": -4.7918747,
+  "lon": -40.0649251
 }

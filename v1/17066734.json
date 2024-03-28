@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Fortunato Rocha Lima",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3176862,
+  "lon": -49.0934493
 }

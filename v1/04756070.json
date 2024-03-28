@@ -5,5 +5,7 @@
   "bairro": "Jardim Internacional",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6451142,
+  "lon": -46.7194748
 }

@@ -5,5 +5,7 @@
   "bairro": "Zú Silva",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7707311,
+  "lon": -38.2272318
 }

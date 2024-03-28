@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vera Cruz do Oeste",
   "uf": "PR",
-  "ibge": "4128559"
+  "ibge": "4128559",
+  "lat": -25.0595824,
+  "lon": -53.8790293
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rosário Oeste",
   "uf": "MT",
-  "ibge": "5107701"
+  "ibge": "5107701",
+  "lat": -14.8263658,
+  "lon": -56.4240651
 }

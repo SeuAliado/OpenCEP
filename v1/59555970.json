@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bento Fernandes",
   "uf": "RN",
-  "ibge": "2401602"
+  "ibge": "2401602",
+  "lat": -5.6930318,
+  "lon": -35.8197682
 }

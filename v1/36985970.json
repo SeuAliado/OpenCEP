@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chalé",
   "uf": "MG",
-  "ibge": "3116001"
+  "ibge": "3116001",
+  "lat": -20.0436494,
+  "lon": -41.6937121
 }

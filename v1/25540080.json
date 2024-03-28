@@ -5,5 +5,7 @@
   "bairro": "Grande Rio",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7807563,
+  "lon": -43.3978975
 }

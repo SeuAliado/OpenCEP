@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uchoa",
   "uf": "SP",
-  "ibge": "3555604"
+  "ibge": "3555604",
+  "lat": -20.9518639,
+  "lon": -49.1733743
 }

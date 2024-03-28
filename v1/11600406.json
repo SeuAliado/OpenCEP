@@ -5,5 +5,7 @@
   "bairro": "Jaraguá",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7263328,
+  "lon": -45.4437239
 }

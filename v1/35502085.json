@@ -5,5 +5,7 @@
   "bairro": "III Prolongamento do Bairro Bom Pastor",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1134499,
+  "lon": -44.8770431
 }

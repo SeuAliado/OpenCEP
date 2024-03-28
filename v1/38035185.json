@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7663258,
+  "lon": -47.9039128
 }

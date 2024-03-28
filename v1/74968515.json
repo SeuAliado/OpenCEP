@@ -5,5 +5,7 @@
   "bairro": "Residencial Village Garavelo",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8117697,
+  "lon": -49.2556409
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pereiro",
   "uf": "CE",
-  "ibge": "2310803"
+  "ibge": "2310803",
+  "lat": -3.693981,
+  "lon": -38.6312852
 }

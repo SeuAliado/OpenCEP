@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional João Zillo",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.5979597,
+  "lon": -48.783935
 }

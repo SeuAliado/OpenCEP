@@ -5,5 +5,7 @@
   "bairro": "Geraldo Fleming",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9522027,
+  "lon": -67.832114
 }

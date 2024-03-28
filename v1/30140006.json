@@ -5,5 +5,7 @@
   "bairro": "Savassi",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9317707,
+  "lon": -43.9351447
 }

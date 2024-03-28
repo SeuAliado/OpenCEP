@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Álvares Florence",
   "uf": "SP",
-  "ibge": "3501202"
+  "ibge": "3501202",
+  "lat": -20.282071,
+  "lon": -49.9161886
 }

@@ -5,5 +5,7 @@
   "bairro": "São Pedro do Gavião",
   "localidade": "Tururu",
   "uf": "CE",
-  "ibge": "2313559"
+  "ibge": "2313559",
+  "lat": -3.3642756,
+  "lon": -39.3831054
 }

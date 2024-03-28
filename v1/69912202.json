@@ -5,5 +5,7 @@
   "bairro": "Plácido de Castro",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0020667,
+  "lon": -67.8379667
 }

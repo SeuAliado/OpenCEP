@@ -5,5 +5,7 @@
   "bairro": "Chã de Bebedouro",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "lat": -9.6250126,
+  "lon": -35.7520923
 }

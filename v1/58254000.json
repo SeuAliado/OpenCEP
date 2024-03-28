@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Logradouro",
   "uf": "PB",
-  "ibge": "2508554"
+  "ibge": "2508554",
+  "lat": -6.6144662,
+  "lon": -35.4425934
 }

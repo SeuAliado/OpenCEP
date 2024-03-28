@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Posse",
   "uf": "GO",
-  "ibge": "5218300"
+  "ibge": "5218300",
+  "lat": -14.0907652,
+  "lon": -46.366679
 }

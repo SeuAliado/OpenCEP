@@ -5,5 +5,7 @@
   "bairro": "Lucas Araújo",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2645327,
+  "lon": -52.4076897
 }

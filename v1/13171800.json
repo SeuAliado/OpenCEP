@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Versailles",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8323366,
+  "lon": -47.2695369
 }

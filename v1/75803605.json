@@ -5,5 +5,7 @@
   "bairro": "Residencial das Brisas",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8577976,
+  "lon": -51.7219662
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7819073,
+  "lon": -47.1390087
 }

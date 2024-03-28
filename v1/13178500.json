@@ -5,5 +5,7 @@
   "bairro": "Jardim do Trevo (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8215393,
+  "lon": -47.2038669
 }

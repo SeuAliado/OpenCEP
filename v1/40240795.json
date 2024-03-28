@@ -5,5 +5,7 @@
   "bairro": "Engenho Velho de Brotas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9829585,
+  "lon": -38.5030394
 }

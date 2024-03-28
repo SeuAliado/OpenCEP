@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sentinela do Sul",
   "uf": "RS",
-  "ibge": "4320354"
+  "ibge": "4320354",
+  "lat": -30.6112079,
+  "lon": -51.586672
 }

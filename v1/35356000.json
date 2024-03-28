@@ -5,5 +5,7 @@
   "bairro": "São Sebastião do Óculo",
   "localidade": "Raul Soares",
   "uf": "MG",
-  "ibge": "3154002"
+  "ibge": "3154002",
+  "lat": -20.1042623,
+  "lon": -42.450467
 }

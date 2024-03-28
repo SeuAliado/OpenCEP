@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Trabiju",
   "uf": "SP",
-  "ibge": "3554755"
+  "ibge": "3554755",
+  "lat": -22.0392634,
+  "lon": -48.3346237
 }

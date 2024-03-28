@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dezesseis de Novembro",
   "uf": "RS",
-  "ibge": "4306353"
+  "ibge": "4306353",
+  "lat": -28.2059508,
+  "lon": -55.0713904
 }

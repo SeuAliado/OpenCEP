@@ -5,5 +5,7 @@
   "bairro": "Jardim Columbia",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9532283,
+  "lon": -49.8689508
 }

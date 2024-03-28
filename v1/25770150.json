@@ -5,5 +5,7 @@
   "bairro": "Posse",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.2499303,
+  "lon": -43.0715367
 }

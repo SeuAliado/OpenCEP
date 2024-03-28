@@ -5,5 +5,7 @@
   "bairro": "Setor Anhangüera",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1947318,
+  "lon": -48.2170398
 }

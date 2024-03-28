@@ -5,5 +5,7 @@
   "bairro": "Quadras Econômicas Lúcio Costa (Guará)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8134616,
+  "lon": -48.0012998
 }

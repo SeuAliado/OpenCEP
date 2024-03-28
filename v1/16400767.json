@@ -5,5 +5,7 @@
   "bairro": "Parque São Jorge",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6602745,
+  "lon": -49.7570992
 }

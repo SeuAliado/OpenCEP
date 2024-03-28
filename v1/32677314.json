@@ -5,5 +5,7 @@
   "bairro": "Imbiruçu",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9411995,
+  "lon": -44.1083733
 }

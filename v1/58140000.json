@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Areial",
   "uf": "PB",
-  "ibge": "2501203"
+  "ibge": "2501203",
+  "lat": -7.0490856,
+  "lon": -35.9247342
 }

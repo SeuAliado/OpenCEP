@@ -5,5 +5,7 @@
   "bairro": "Jardim das Samambaias",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3461762,
+  "lon": -48.9641768
 }

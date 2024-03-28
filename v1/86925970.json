@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Borrazópolis",
   "uf": "PR",
-  "ibge": "4103305"
+  "ibge": "4103305",
+  "lat": -23.9390554,
+  "lon": -51.5855767
 }

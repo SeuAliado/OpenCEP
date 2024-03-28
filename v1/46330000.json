@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Licínio de Almeida",
   "uf": "BA",
-  "ibge": "2919405"
+  "ibge": "2919405",
+  "lat": -14.6825243,
+  "lon": -42.5050773
 }

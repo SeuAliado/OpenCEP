@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cruzmaltina",
   "uf": "PR",
-  "ibge": "4106852"
+  "ibge": "4106852",
+  "lat": -24.0042884,
+  "lon": -51.4729695
 }

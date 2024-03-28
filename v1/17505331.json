@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1963428,
+  "lon": -49.9684708
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila dos Comerciários I",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7972906,
+  "lon": -45.2251127
 }

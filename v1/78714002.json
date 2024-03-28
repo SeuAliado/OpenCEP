@@ -5,5 +5,7 @@
   "bairro": "Jardim Dinalva Muniz",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4358652,
+  "lon": -54.6497433
 }

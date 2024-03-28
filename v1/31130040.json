@@ -5,5 +5,7 @@
   "bairro": "Canadá",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8964956,
+  "lon": -43.9454294
 }

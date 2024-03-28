@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Potim",
   "uf": "SP",
-  "ibge": "3540754"
+  "ibge": "3540754",
+  "lat": -22.8401139,
+  "lon": -45.2554893
 }

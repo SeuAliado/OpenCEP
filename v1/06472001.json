@@ -5,5 +5,7 @@
   "bairro": "Dezoito do Forte Empresarial/Alphaville.",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4853218,
+  "lon": -46.8548444
 }

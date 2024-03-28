@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "lat": -29.6896448,
+  "lon": -51.1332926
 }

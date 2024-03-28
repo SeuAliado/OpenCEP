@@ -5,5 +5,7 @@
   "bairro": "São José do Barreto",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3301983,
+  "lon": -41.7396066
 }

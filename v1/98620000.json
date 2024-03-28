@@ -5,5 +5,7 @@
   "bairro": "Padre Gonzales",
   "localidade": "Três Passos",
   "uf": "RS",
-  "ibge": "4321907"
+  "ibge": "4321907",
+  "lat": -27.4458252,
+  "lon": -53.9371361
 }

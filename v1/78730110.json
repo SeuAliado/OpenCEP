@@ -5,5 +5,7 @@
   "bairro": "Jardim Gloria",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4587411,
+  "lon": -54.6173522
 }

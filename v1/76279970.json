@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Jussara",
   "uf": "GO",
-  "ibge": "5212204"
+  "ibge": "5212204",
+  "lat": -15.864177,
+  "lon": -50.8692602
 }

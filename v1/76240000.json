@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aragarças",
   "uf": "GO",
-  "ibge": "5201702"
+  "ibge": "5201702",
+  "lat": -15.8958471,
+  "lon": -52.2516426
 }

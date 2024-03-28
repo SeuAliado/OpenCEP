@@ -5,5 +5,7 @@
   "bairro": "Vila Poupança",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.4339458,
+  "lon": -46.9025065
 }

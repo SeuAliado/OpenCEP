@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Cecília",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5542095,
+  "lon": -46.9149194
 }

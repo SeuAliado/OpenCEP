@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Belo (Raposo Tavares)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5856305,
+  "lon": -46.7722506
 }

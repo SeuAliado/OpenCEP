@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6300811,
+  "lon": -46.4470472
 }

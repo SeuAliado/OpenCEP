@@ -5,5 +5,7 @@
   "bairro": "Garibaldina",
   "localidade": "Garibaldi",
   "uf": "RS",
-  "ibge": "4308607"
+  "ibge": "4308607",
+  "lat": -29.2730184,
+  "lon": -51.5213666
 }

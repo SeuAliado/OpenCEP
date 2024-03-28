@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Olho D'Água",
   "uf": "PB",
-  "ibge": "2510402"
+  "ibge": "2510402",
+  "lat": -7.2527965,
+  "lon": -37.7662816
 }

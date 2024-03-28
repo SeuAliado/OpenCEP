@@ -5,5 +5,7 @@
   "bairro": "Jardim Esmeralda",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.450521,
+  "lon": -49.0946787
 }

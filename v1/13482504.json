@@ -5,5 +5,7 @@
   "bairro": "Chácara Boa Vista da Graminha",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5708024,
+  "lon": -47.4404607
 }

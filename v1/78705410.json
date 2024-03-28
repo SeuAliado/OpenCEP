@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4556325,
+  "lon": -54.6531633
 }

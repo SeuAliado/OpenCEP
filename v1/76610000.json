@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Goiás",
   "uf": "GO",
-  "ibge": "5208905"
+  "ibge": "5208905",
+  "lat": -17.5621786,
+  "lon": -52.5425352
 }

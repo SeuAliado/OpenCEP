@@ -5,5 +5,7 @@
   "bairro": "Campo do América",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "lat": -14.1477922,
+  "lon": -40.2439735
 }

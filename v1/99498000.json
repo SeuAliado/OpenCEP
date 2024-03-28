@@ -5,5 +5,7 @@
   "bairro": "Linha Glória",
   "localidade": "Lagoa dos Três Cantos",
   "uf": "RS",
-  "ibge": "4311270"
+  "ibge": "4311270",
+  "lat": -28.5864797,
+  "lon": -52.794604
 }

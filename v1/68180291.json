@@ -5,5 +5,7 @@
   "bairro": "Jardim das Araras",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -4.2559869,
+  "lon": -55.9882564
 }

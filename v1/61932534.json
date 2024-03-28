@@ -5,5 +5,7 @@
   "bairro": "Menino Jesus de Praga",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8777654,
+  "lon": -38.585959
 }

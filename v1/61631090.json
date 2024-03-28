@@ -5,5 +5,7 @@
   "bairro": "Parque Leblon",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.694511,
+  "lon": -38.5999597
 }

@@ -5,5 +5,7 @@
   "bairro": "Cariutaba",
   "localidade": "Farias Brito",
   "uf": "CE",
-  "ibge": "2304301"
+  "ibge": "2304301",
+  "lat": -6.82444,
+  "lon": -39.523206
 }

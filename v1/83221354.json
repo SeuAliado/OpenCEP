@@ -5,5 +5,7 @@
   "bairro": "Vila Cruzeiro",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5195974,
+  "lon": -48.5342994
 }

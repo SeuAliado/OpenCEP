@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Domingos",
   "uf": "SC",
-  "ibge": "4216107"
+  "ibge": "4216107",
+  "lat": -26.5574928,
+  "lon": -52.5362873
 }

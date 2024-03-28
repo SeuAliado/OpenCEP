@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6040664,
+  "lon": -46.5348208
 }

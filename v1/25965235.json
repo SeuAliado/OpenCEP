@@ -5,5 +5,7 @@
   "bairro": "Barra do Imbuí",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.3975376,
+  "lon": -42.9736809
 }

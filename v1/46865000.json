@@ -5,5 +5,7 @@
   "bairro": "João Amaro",
   "localidade": "Iaçu",
   "uf": "BA",
-  "ibge": "2911907"
+  "ibge": "2911907",
+  "lat": -12.7670819,
+  "lon": -40.2059758
 }

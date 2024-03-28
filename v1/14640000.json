@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morro Agudo",
   "uf": "SP",
-  "ibge": "3531902"
+  "ibge": "3531902",
+  "lat": -20.7305771,
+  "lon": -48.0540652
 }

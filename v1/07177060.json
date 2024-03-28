@@ -5,5 +5,7 @@
   "bairro": "Jardim Fátima",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4211492,
+  "lon": -46.4010264
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "lat": -28.6864076,
+  "lon": -49.4081568
 }

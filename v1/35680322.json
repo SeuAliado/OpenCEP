@@ -5,5 +5,7 @@
   "bairro": "Graças",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0695317,
+  "lon": -44.5812509
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marajá do Sena",
   "uf": "MA",
-  "ibge": "2106359"
+  "ibge": "2106359",
+  "lat": -4.7378979,
+  "lon": -45.5629394
 }

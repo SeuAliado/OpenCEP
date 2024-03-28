@@ -5,5 +5,7 @@
   "bairro": "Novo Jardim Pagani",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2923539,
+  "lon": -49.0669391
 }

@@ -5,5 +5,7 @@
   "bairro": "CDHU",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4396076,
+  "lon": -46.9324666
 }

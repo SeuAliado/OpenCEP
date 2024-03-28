@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brodowski",
   "uf": "SP",
-  "ibge": "3507803"
+  "ibge": "3507803",
+  "lat": -20.9870761,
+  "lon": -47.6531065
 }

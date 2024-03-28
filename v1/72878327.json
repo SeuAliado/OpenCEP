@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardins",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.051878,
+  "lon": -47.9800441
 }

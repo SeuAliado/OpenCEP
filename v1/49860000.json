@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Graccho Cardoso",
   "uf": "SE",
-  "ibge": "2802601"
+  "ibge": "2802601",
+  "lat": -10.2017678,
+  "lon": -37.2329979
 }

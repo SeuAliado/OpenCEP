@@ -5,5 +5,7 @@
   "bairro": "Bonfim do Arari",
   "localidade": "Arari",
   "uf": "MA",
-  "ibge": "2101004"
+  "ibge": "2101004",
+  "lat": -3.4132931,
+  "lon": -44.7870624
 }

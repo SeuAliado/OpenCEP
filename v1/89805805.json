@@ -5,5 +5,7 @@
   "bairro": "Vila Real",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "lat": -27.0693584,
+  "lon": -52.6039595
 }

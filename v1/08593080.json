@@ -5,5 +5,7 @@
   "bairro": "Jardim Félix e Milton",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4834246,
+  "lon": -46.287296
 }

@@ -5,5 +5,7 @@
   "bairro": "Joaquim de Oliveira",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7362607,
+  "lon": -42.8846681
 }

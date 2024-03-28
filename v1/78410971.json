@@ -5,5 +5,7 @@
   "bairro": "Tira Sentido",
   "localidade": "Alto Paraguai",
   "uf": "MT",
-  "ibge": "5100508"
+  "ibge": "5100508",
+  "lat": -14.9162094,
+  "lon": -56.8393247
 }

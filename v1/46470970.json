@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riacho de Santana",
   "uf": "BA",
-  "ibge": "2926400"
+  "ibge": "2926400",
+  "lat": -13.609398,
+  "lon": -42.9342127
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barro Duro",
   "uf": "PI",
-  "ibge": "2201408"
+  "ibge": "2201408",
+  "lat": -5.8171253,
+  "lon": -42.5150349
 }

@@ -5,5 +5,7 @@
   "bairro": "Iate Clube de Americana",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7231232,
+  "lon": -47.2796872
 }

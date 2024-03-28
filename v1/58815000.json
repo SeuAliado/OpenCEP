@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José da Lagoa Tapada",
   "uf": "PB",
-  "ibge": "2514206"
+  "ibge": "2514206",
+  "lat": -6.9413591,
+  "lon": -38.1622538
 }

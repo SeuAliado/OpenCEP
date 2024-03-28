@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -22.319442,
+  "lon": -49.0953967
 }

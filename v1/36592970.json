@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canaã",
   "uf": "MG",
-  "ibge": "3111705"
+  "ibge": "3111705",
+  "lat": -20.6847509,
+  "lon": -42.6217949
 }

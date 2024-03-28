@@ -5,5 +5,7 @@
   "bairro": "Jardim da Rainha",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5513487,
+  "lon": -46.9315909
 }

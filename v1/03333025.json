@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Estevão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5547887,
+  "lon": -46.5768001
 }

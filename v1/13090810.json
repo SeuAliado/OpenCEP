@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto da Barra",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8858251,
+  "lon": -47.0355669
 }

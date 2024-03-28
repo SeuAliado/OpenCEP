@@ -5,5 +5,7 @@
   "bairro": "Dos Rodoviários",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7901451,
+  "lon": -42.1350265
 }

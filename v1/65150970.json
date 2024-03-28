@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rosário",
   "uf": "MA",
-  "ibge": "2109601"
+  "ibge": "2109601",
+  "lat": -2.9405039,
+  "lon": -44.2462079
 }

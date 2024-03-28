@@ -5,5 +5,7 @@
   "bairro": "Basílio",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7865406,
+  "lon": -39.0548507
 }

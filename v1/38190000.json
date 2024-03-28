@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sacramento",
   "uf": "MG",
-  "ibge": "3156908"
+  "ibge": "3156908",
+  "lat": -19.8664968,
+  "lon": -47.4407846
 }

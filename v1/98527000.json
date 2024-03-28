@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Tenente Portela",
   "uf": "RS",
-  "ibge": "4321402"
+  "ibge": "4321402",
+  "lat": -29.5787925,
+  "lon": -51.1067097
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Marilucy",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.779181,
+  "lon": -49.6758223
 }

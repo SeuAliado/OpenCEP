@@ -5,5 +5,7 @@
   "bairro": "Chácaras Nova Suzano",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5769586,
+  "lon": -46.3082479
 }

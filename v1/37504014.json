@@ -5,5 +5,7 @@
   "bairro": "Avenida",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.432467,
+  "lon": -45.462319
 }

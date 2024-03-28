@@ -5,5 +5,7 @@
   "bairro": "São Vicente de Paula",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "lat": -2.9427843,
+  "lon": -41.7648745
 }

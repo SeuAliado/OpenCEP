@@ -5,5 +5,7 @@
   "bairro": "Maria da Conceição",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.920973,
+  "lon": -44.0622557
 }

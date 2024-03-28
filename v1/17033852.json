@@ -5,5 +5,7 @@
   "bairro": "Parque Hipódromo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3296966,
+  "lon": -49.0330196
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Samirópolis",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7050313,
+  "lon": -43.3348162
 }

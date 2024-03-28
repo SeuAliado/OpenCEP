@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvana",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7082578,
+  "lon": -46.764105
 }

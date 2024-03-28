@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amparo",
   "uf": "PB",
-  "ibge": "2500734"
+  "ibge": "2500734",
+  "lat": -7.5688789,
+  "lon": -37.0632183
 }

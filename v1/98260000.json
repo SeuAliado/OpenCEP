@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Saldanha Marinho",
   "uf": "RS",
-  "ibge": "4316436"
+  "ibge": "4316436",
+  "lat": -28.251305,
+  "lon": -52.4049002
 }

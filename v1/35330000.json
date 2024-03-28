@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Inhapim",
   "uf": "MG",
-  "ibge": "3130903"
+  "ibge": "3130903",
+  "lat": -19.5500692,
+  "lon": -42.1213236
 }

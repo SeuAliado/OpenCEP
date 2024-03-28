@@ -5,5 +5,7 @@
   "bairro": "Jaçanaú",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8235075,
+  "lon": -38.6302034
 }

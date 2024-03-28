@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vermelho Novo",
   "uf": "MG",
-  "ibge": "3171154"
+  "ibge": "3171154",
+  "lat": -20.0372332,
+  "lon": -42.2668357
 }

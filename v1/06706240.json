@@ -5,5 +5,7 @@
   "bairro": "Granja Viana II",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5807689,
+  "lon": -46.8669635
 }

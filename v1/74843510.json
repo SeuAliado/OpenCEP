@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.732868,
+  "lon": -49.2895885
 }

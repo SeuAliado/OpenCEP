@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "lat": -7.8620349,
+  "lon": -34.9126593
 }

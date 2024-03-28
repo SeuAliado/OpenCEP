@@ -5,5 +5,7 @@
   "bairro": "Nucleo Habitacional São José II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4198286,
+  "lon": -54.6560656
 }

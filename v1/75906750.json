@@ -5,5 +5,7 @@
   "bairro": "Loteamento Gameleira",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.8038902,
+  "lon": -50.9072935
 }

@@ -5,5 +5,7 @@
   "bairro": "Moisés Reis",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.36417,
+  "lon": -39.5805535
 }

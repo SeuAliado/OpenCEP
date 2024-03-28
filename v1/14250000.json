@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Cruz da Esperança",
   "uf": "SP",
-  "ibge": "3546256"
+  "ibge": "3546256",
+  "lat": -21.2918668,
+  "lon": -47.4288793
 }

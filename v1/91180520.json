@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Fé",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0053171,
+  "lon": -51.1100648
 }

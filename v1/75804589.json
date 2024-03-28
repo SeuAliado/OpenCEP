@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada do Sol",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8617329,
+  "lon": -51.7336698
 }

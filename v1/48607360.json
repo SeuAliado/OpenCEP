@@ -5,5 +5,7 @@
   "bairro": "Oliveira Lopes",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.3819226,
+  "lon": -38.230739
 }

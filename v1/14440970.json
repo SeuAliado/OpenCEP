@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Bela Vista",
   "uf": "SP",
-  "ibge": "3549508"
+  "ibge": "3549508",
+  "lat": -20.5928447,
+  "lon": -47.6398592
 }

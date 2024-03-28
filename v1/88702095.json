@@ -5,5 +5,7 @@
   "bairro": "Oficinas",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.488707,
+  "lon": -49.028337
 }

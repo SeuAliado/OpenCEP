@@ -5,5 +5,7 @@
   "bairro": "Bucuituba",
   "localidade": "Boquira",
   "uf": "BA",
-  "ibge": "2904100"
+  "ibge": "2904100",
+  "lat": -12.6795698,
+  "lon": -42.7843103
 }

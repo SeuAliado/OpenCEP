@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bodó",
   "uf": "RN",
-  "ibge": "2401651"
+  "ibge": "2401651",
+  "lat": -5.9881429,
+  "lon": -36.4131669
 }

@@ -5,5 +5,7 @@
   "bairro": "Bethânia",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.441085,
+  "lon": -42.5563744
 }

@@ -5,5 +5,7 @@
   "bairro": "Ajuda",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.3245722,
+  "lon": -41.7460683
 }

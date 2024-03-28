@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Antônio",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.680557,
+  "lon": -43.5921489
 }

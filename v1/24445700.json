@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.814001,
+  "lon": -43.0359096
 }

@@ -5,5 +5,7 @@
   "bairro": "Alaita",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0810509,
+  "lon": -44.602459
 }

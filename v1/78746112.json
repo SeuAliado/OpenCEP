@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Carla",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4772155,
+  "lon": -54.6782332
 }

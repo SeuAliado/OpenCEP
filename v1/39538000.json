@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio do Retiro",
   "uf": "MG",
-  "ibge": "3160454"
+  "ibge": "3160454",
+  "lat": -15.276996,
+  "lon": -42.6684924
 }

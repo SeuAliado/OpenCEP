@@ -5,5 +5,7 @@
   "bairro": "Barbosa",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.222651,
+  "lon": -49.9463632
 }

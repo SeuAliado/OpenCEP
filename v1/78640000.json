@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canarana",
   "uf": "MT",
-  "ibge": "5102702"
+  "ibge": "5102702",
+  "lat": -13.5564739,
+  "lon": -52.2691123
 }

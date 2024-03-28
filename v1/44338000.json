@@ -5,5 +5,7 @@
   "bairro": "Afligidos",
   "localidade": "São Gonçalo dos Campos",
   "uf": "BA",
-  "ibge": "2929305"
+  "ibge": "2929305",
+  "lat": -12.4367393,
+  "lon": -38.9516149
 }

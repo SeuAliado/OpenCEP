@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Bonito do Iguaçu",
   "uf": "PR",
-  "ibge": "4122156"
+  "ibge": "4122156",
+  "lat": -25.4903008,
+  "lon": -52.5281825
 }

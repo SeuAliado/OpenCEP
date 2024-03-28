@@ -5,5 +5,7 @@
   "bairro": "Boa Vista II",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.347092,
+  "lon": -40.3055674
 }

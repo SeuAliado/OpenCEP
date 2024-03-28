@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Redenção",
   "uf": "PA",
-  "ibge": "1506138"
+  "ibge": "1506138",
+  "lat": -8.0376898,
+  "lon": -50.0286262
 }

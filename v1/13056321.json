@@ -5,5 +5,7 @@
   "bairro": "Jardim Profilurb",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9778695,
+  "lon": -47.1361023
 }

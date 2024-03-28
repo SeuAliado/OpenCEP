@@ -5,5 +5,7 @@
   "bairro": "Camburi",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7755621,
+  "lon": -45.6439415
 }

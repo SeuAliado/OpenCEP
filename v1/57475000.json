@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pariconha",
   "uf": "AL",
-  "ibge": "2706422"
+  "ibge": "2706422",
+  "lat": -9.2567645,
+  "lon": -37.9990943
 }

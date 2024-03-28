@@ -5,5 +5,7 @@
   "bairro": "Jardim Laiá",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8738026,
+  "lon": -43.7990119
 }

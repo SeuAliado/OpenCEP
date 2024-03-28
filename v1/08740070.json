@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista da Estação",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "lat": -23.5389666,
+  "lon": -46.2292576
 }

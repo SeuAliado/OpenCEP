@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Aurora",
   "uf": "PR",
-  "ibge": "4116703"
+  "ibge": "4116703",
+  "lat": -24.5298725,
+  "lon": -53.2549432
 }

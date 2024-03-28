@@ -5,5 +5,7 @@
   "bairro": "Vila Iza",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "lat": -23.5258686,
+  "lon": -46.8449431
 }

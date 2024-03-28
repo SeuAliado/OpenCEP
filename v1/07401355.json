@@ -5,5 +5,7 @@
   "bairro": "Vila Riman",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "lat": -23.3914533,
+  "lon": -46.321794
 }

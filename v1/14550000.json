@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aramina",
   "uf": "SP",
-  "ibge": "3503000"
+  "ibge": "3503000",
+  "lat": -20.0878524,
+  "lon": -47.7882168
 }

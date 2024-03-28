@@ -5,5 +5,7 @@
   "bairro": "Boa Vista do Lobato",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9181804,
+  "lon": -38.4778482
 }

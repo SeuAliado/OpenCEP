@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6267362,
+  "lon": -56.727361
 }

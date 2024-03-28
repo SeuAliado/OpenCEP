@@ -5,5 +5,7 @@
   "bairro": "Jardim Country Club",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "lat": -24.0499207,
+  "lon": -52.3698668
 }

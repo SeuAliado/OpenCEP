@@ -5,5 +5,7 @@
   "bairro": "Cavaco",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "lat": -9.7360628,
+  "lon": -36.6741189
 }

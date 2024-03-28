@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.2161256,
+  "lon": -50.4432565
 }

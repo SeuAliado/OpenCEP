@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Gilberto Rossetti",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.5000251,
+  "lon": -47.0081215
 }

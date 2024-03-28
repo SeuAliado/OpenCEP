@@ -5,5 +5,7 @@
   "bairro": "Loteamento Guanabara",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2858636,
+  "lon": -48.9742663
 }

@@ -5,5 +5,7 @@
   "bairro": "Pontal de Coruripe",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "lat": -10.1606128,
+  "lon": -36.1352516
 }

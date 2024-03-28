@@ -5,5 +5,7 @@
   "bairro": "Urucubá",
   "localidade": "Limoeiro",
   "uf": "PE",
-  "ibge": "2608909"
+  "ibge": "2608909",
+  "lat": -7.85899,
+  "lon": -35.4413775
 }

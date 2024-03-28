@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra do Turvo",
   "uf": "SP",
-  "ibge": "3505401"
+  "ibge": "3505401",
+  "lat": -24.7546977,
+  "lon": -48.5045661
 }

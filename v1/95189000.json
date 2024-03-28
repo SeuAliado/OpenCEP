@@ -5,5 +5,7 @@
   "bairro": "Cinco da Boa Vista",
   "localidade": "Carlos Barbosa",
   "uf": "RS",
-  "ibge": "4304804"
+  "ibge": "4304804",
+  "lat": -30.0561766,
+  "lon": -51.2148932
 }

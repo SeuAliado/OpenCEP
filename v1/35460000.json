@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brumadinho",
   "uf": "MG",
-  "ibge": "3109006"
+  "ibge": "3109006",
+  "lat": -20.1514708,
+  "lon": -44.2010909
 }

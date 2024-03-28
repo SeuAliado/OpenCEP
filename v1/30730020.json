@@ -5,5 +5,7 @@
   "bairro": "Padre Eustáquio",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9196262,
+  "lon": -43.9833039
 }

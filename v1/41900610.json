@@ -5,5 +5,7 @@
   "bairro": "Amaralina",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -13.0112443,
+  "lon": -38.4726805
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Zilah Spósito",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8010583,
+  "lon": -43.9247939
 }

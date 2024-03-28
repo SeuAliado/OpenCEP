@@ -5,5 +5,7 @@
   "bairro": "Jardim Aline",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.8637578,
+  "lon": -47.1578915
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvorada do Gurguéia",
   "uf": "PI",
-  "ibge": "2200459"
+  "ibge": "2200459",
+  "lat": -8.4245939,
+  "lon": -43.7774074
 }

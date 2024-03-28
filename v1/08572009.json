@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4936465,
+  "lon": -46.338976
 }

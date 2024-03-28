@@ -5,5 +5,7 @@
   "bairro": "Trussu",
   "localidade": "Acopiara",
   "uf": "CE",
-  "ibge": "2300309"
+  "ibge": "2300309",
+  "lat": -6.0970474,
+  "lon": -39.7398857
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -22.3471192,
+  "lon": -47.3847149
 }

@@ -5,5 +5,7 @@
   "bairro": "Planta Meireles",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4217231,
+  "lon": -49.0722611
 }

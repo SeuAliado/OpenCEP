@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibotirama",
   "uf": "BA",
-  "ibge": "2913200"
+  "ibge": "2913200",
+  "lat": -12.1783127,
+  "lon": -43.2170814
 }

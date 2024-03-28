@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8919696,
+  "lon": -47.0731311
 }

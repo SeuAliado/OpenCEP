@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mucurici",
   "uf": "ES",
-  "ibge": "3203601"
+  "ibge": "3203601",
+  "lat": -18.1023944,
+  "lon": -40.5182695
 }

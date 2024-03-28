@@ -5,5 +5,7 @@
   "bairro": "Turmalina",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8583729,
+  "lon": -41.9832542
 }

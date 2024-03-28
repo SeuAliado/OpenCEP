@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Laje",
   "uf": "AL",
-  "ibge": "2708303"
+  "ibge": "2708303",
+  "lat": -19.8626245,
+  "lon": -44.6062248
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Clotilde",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.5005128,
+  "lon": -46.5516336
 }

@@ -5,5 +5,7 @@
   "bairro": "Jatobá",
   "localidade": "Alto Alegre",
   "uf": "SP",
-  "ibge": "3501103"
+  "ibge": "3501103",
+  "lat": -21.6263092,
+  "lon": -50.2445185
 }

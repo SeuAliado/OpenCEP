@@ -5,5 +5,7 @@
   "bairro": "Vieira",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4411459,
+  "lon": -42.9704229
 }

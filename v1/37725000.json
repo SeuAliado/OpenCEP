@@ -5,5 +5,7 @@
   "bairro": "Palmeiral",
   "localidade": "Botelhos",
   "uf": "MG",
-  "ibge": "3108404"
+  "ibge": "3108404",
+  "lat": -21.6333314,
+  "lon": -46.5116505
 }

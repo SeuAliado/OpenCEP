@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Querência do Norte",
   "uf": "PR",
-  "ibge": "4121000"
+  "ibge": "4121000",
+  "lat": -23.0840678,
+  "lon": -53.4855246
 }

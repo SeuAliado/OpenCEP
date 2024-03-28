@@ -5,5 +5,7 @@
   "bairro": "Edson Jorge Júnior",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1810963,
+  "lon": -49.959396
 }

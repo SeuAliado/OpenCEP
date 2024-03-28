@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Ramada",
   "uf": "RS",
-  "ibge": "4313334"
+  "ibge": "4313334",
+  "lat": -28.0824003,
+  "lon": -53.7065993
 }

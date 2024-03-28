@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pejuçara",
   "uf": "RS",
-  "ibge": "4314308"
+  "ibge": "4314308",
+  "lat": -28.4229618,
+  "lon": -53.6565158
 }

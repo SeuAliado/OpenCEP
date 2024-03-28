@@ -5,5 +5,7 @@
   "bairro": "Nações",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4910929,
+  "lon": -51.996788
 }

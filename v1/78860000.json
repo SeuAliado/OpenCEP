@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Brasilândia",
   "uf": "MT",
-  "ibge": "5106208"
+  "ibge": "5106208",
+  "lat": -14.9331028,
+  "lon": -54.9739052
 }

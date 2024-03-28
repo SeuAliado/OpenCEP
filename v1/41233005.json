@@ -5,5 +5,7 @@
   "bairro": "Porto Seco Pirajá",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9082498,
+  "lon": -38.4533515
 }

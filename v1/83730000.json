@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Contenda",
   "uf": "PR",
-  "ibge": "4106209"
+  "ibge": "4106209",
+  "lat": -25.6793029,
+  "lon": -49.5355225
 }

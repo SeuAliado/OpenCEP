@@ -5,5 +5,7 @@
   "bairro": "Alvação",
   "localidade": "Coração de Jesus",
   "uf": "MG",
-  "ibge": "3118809"
+  "ibge": "3118809",
+  "lat": -16.4190663,
+  "lon": -44.1980435
 }

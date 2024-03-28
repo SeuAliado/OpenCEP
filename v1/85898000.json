@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José das Palmeiras",
   "uf": "PR",
-  "ibge": "4125456"
+  "ibge": "4125456",
+  "lat": -24.8178205,
+  "lon": -54.1065864
 }

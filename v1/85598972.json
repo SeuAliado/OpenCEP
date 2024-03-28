@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cruzeiro do Iguaçu",
   "uf": "PR",
-  "ibge": "4106571"
+  "ibge": "4106571",
+  "lat": -25.6156876,
+  "lon": -53.1293212
 }

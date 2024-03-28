@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz do Capibaribe",
   "uf": "PE",
-  "ibge": "2612505"
+  "ibge": "2612505",
+  "lat": -7.9559301,
+  "lon": -36.2037053
 }

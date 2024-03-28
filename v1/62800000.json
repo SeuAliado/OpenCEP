@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "lat": -4.5612094,
+  "lon": -37.7688612
 }

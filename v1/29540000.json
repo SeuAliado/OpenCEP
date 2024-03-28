@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibitirama",
   "uf": "ES",
-  "ibge": "3202553"
+  "ibge": "3202553",
+  "lat": -20.4621533,
+  "lon": -41.7208243
 }

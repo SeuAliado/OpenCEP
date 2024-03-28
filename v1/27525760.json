@@ -5,5 +5,7 @@
   "bairro": "Jardim Beira Rio",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.471498,
+  "lon": -44.4992833
 }

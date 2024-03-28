@@ -5,5 +5,7 @@
   "bairro": "Setor Novo Planalto",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.6197224,
+  "lon": -49.340834
 }

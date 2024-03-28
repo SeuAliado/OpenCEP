@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Irajuba",
   "uf": "BA",
-  "ibge": "2914208"
+  "ibge": "2914208",
+  "lat": -13.2567793,
+  "lon": -40.0851864
 }

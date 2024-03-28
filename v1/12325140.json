@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova Jacareí",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.307068,
+  "lon": -46.0144489
 }

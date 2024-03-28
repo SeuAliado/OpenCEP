@@ -5,5 +5,7 @@
   "bairro": "Rio do Ouro",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8975016,
+  "lon": -43.040725
 }

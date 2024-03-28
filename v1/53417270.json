@@ -5,5 +5,7 @@
   "bairro": "Artur Lundgren I",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9360756,
+  "lon": -34.890729
 }

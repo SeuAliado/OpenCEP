@@ -5,5 +5,7 @@
   "bairro": "Campos de São José",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2163134,
+  "lon": -45.8130602
 }

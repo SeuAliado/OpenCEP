@@ -5,5 +5,7 @@
   "bairro": "Ivaí",
   "localidade": "Bossoroca",
   "uf": "RS",
-  "ibge": "4302501"
+  "ibge": "4302501",
+  "lat": -28.4962005,
+  "lon": -55.0474732
 }

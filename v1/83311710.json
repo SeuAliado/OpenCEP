@@ -5,5 +5,7 @@
   "bairro": "Parque das Araucárias",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4745473,
+  "lon": -49.1258377
 }

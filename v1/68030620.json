@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "lat": -2.4377713,
+  "lon": -54.7264326
 }

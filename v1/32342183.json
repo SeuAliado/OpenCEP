@@ -5,5 +5,7 @@
   "bairro": "Parque São João",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8322518,
+  "lon": -44.15381
 }

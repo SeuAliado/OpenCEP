@@ -5,5 +5,7 @@
   "bairro": "Linha Ferrari",
   "localidade": "Campos Borges",
   "uf": "RS",
-  "ibge": "4304101"
+  "ibge": "4304101",
+  "lat": -28.8786848,
+  "lon": -52.99608
 }

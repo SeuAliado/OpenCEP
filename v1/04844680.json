@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Francisca Cabrini",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7603129,
+  "lon": -46.7059774
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João das Duas Pontes",
   "uf": "SP",
-  "ibge": "3549201"
+  "ibge": "3549201",
+  "lat": -20.4052533,
+  "lon": -50.3688312
 }

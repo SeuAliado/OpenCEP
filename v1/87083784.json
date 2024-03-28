@@ -5,5 +5,7 @@
   "bairro": "Residencial Ícaro",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.3760362,
+  "lon": -51.9634373
 }

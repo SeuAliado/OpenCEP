@@ -5,5 +5,7 @@
   "bairro": "Jardim Queimados",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7059829,
+  "lon": -43.576628
 }

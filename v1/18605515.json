@@ -5,5 +5,7 @@
   "bairro": "Portal das Brisas",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9360016,
+  "lon": -48.4541175
 }

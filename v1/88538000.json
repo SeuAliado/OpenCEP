@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bocaína do Sul",
   "uf": "SC",
-  "ibge": "4202438"
+  "ibge": "4202438",
+  "lat": -27.7767569,
+  "lon": -49.8956943
 }

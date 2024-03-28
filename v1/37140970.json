@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Areado",
   "uf": "MG",
-  "ibge": "3104304"
+  "ibge": "3104304",
+  "lat": -21.3597576,
+  "lon": -46.1440333
 }

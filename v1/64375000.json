@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Félix do Piauí",
   "uf": "PI",
-  "ibge": "2209609"
+  "ibge": "2209609",
+  "lat": -5.9536762,
+  "lon": -42.1177396
 }

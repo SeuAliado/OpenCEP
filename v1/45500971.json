@@ -5,5 +5,7 @@
   "bairro": "Itamaraty",
   "localidade": "Ibirapitanga",
   "uf": "BA",
-  "ibge": "2912707"
+  "ibge": "2912707",
+  "lat": -14.0182781,
+  "lon": -39.4312423
 }

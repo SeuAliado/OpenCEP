@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Buritis",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -10.0010015,
+  "lon": -67.7970189
 }

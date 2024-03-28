@@ -5,5 +5,7 @@
   "bairro": "Paineira",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4104454,
+  "lon": -42.9680739
 }

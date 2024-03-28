@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "lat": -21.3601809,
+  "lon": -48.2282659
 }

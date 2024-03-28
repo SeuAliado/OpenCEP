@@ -5,5 +5,7 @@
   "bairro": "Condomínio Comercial e Residencial Sobradinho (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6325598,
+  "lon": -47.8280577
 }

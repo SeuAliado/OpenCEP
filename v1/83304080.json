@@ -5,5 +5,7 @@
   "bairro": "Vila Marumbi",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4392793,
+  "lon": -49.0632542
 }

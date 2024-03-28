@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campina do Monte Alegre",
   "uf": "SP",
-  "ibge": "3509452"
+  "ibge": "3509452",
+  "lat": -23.5899668,
+  "lon": -48.476262
 }

@@ -5,5 +5,7 @@
   "bairro": "Três de Maio",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1990865,
+  "lon": -47.1747668
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Mundo",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1969257,
+  "lon": -46.9157877
 }

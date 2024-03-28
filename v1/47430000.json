@@ -5,5 +5,7 @@
   "bairro": "Copixaba",
   "localidade": "Xique-Xique",
   "uf": "BA",
-  "ibge": "2933604"
+  "ibge": "2933604",
+  "lat": -10.7874579,
+  "lon": -42.7055657
 }

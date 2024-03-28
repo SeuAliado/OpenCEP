@@ -5,5 +5,7 @@
   "bairro": "Vila Nogueira",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8704339,
+  "lon": -47.0424406
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Galvão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4537996,
+  "lon": -46.5744891
 }

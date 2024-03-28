@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Parque São Bento",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9630405,
+  "lon": -47.197133
 }

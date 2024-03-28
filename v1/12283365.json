@@ -5,5 +5,7 @@
   "bairro": "Vila Velha",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1107621,
+  "lon": -45.6332154
 }

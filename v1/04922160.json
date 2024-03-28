@@ -5,5 +5,7 @@
   "bairro": "Itupu",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6886009,
+  "lon": -46.7367136
 }

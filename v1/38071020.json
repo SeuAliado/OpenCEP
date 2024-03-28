@@ -5,5 +5,7 @@
   "bairro": "COHAB Boa Vista",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7255134,
+  "lon": -47.9199649
 }

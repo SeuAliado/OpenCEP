@@ -5,5 +5,7 @@
   "bairro": "Jardim Esmeralda",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6061872,
+  "lon": -43.0355412
 }

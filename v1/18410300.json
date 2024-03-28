@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Tancredo Neves",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9750754,
+  "lon": -48.8874731
 }

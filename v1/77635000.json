@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Sono",
   "uf": "TO",
-  "ibge": "1718758"
+  "ibge": "1718758",
+  "lat": -9.3452152,
+  "lon": -47.895338
 }

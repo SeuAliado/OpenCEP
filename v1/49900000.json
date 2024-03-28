@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Propriá",
   "uf": "SE",
-  "ibge": "2805703"
+  "ibge": "2805703",
+  "lat": -10.2122281,
+  "lon": -36.8371852
 }

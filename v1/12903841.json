@@ -5,5 +5,7 @@
   "bairro": "Campo Novo",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9476949,
+  "lon": -46.5943203
 }

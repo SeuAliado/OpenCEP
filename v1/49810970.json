@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poço Redondo",
   "uf": "SE",
-  "ibge": "2805406"
+  "ibge": "2805406",
+  "lat": -9.8046052,
+  "lon": -37.6845256
 }

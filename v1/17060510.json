@@ -5,5 +5,7 @@
   "bairro": "Vila Becheli",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3107864,
+  "lon": -49.0897686
 }

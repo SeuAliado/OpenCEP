@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itambé do Mato Dentro",
   "uf": "MG",
-  "ibge": "3132800"
+  "ibge": "3132800",
+  "lat": -19.3912185,
+  "lon": -43.3487761
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4419488,
+  "lon": -46.7084323
 }

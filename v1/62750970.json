@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aracoiaba",
   "uf": "CE",
-  "ibge": "2301208"
+  "ibge": "2301208",
+  "lat": -4.3731409,
+  "lon": -38.8095749
 }

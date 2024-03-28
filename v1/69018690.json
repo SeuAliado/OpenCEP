@@ -5,5 +5,7 @@
   "bairro": "Lago Azul",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -2.9649962,
+  "lon": -59.9849245
 }

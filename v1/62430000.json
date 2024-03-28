@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "lat": -3.2575968,
+  "lon": -41.0394028
 }

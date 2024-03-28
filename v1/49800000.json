@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto da Folha",
   "uf": "SE",
-  "ibge": "2805604"
+  "ibge": "2805604",
+  "lat": -9.8979418,
+  "lon": -37.4254444
 }

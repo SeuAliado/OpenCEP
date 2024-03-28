@@ -5,5 +5,7 @@
   "bairro": "Oficinas",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "lat": -25.1103423,
+  "lon": -50.1551658
 }

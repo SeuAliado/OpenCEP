@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Jorge do Patrocínio",
   "uf": "PR",
-  "ibge": "4125357"
+  "ibge": "4125357",
+  "lat": -23.764693,
+  "lon": -53.87829
 }

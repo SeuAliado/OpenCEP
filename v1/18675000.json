@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Borebi",
   "uf": "SP",
-  "ibge": "3507456"
+  "ibge": "3507456",
+  "lat": -22.7014405,
+  "lon": -49.0009403
 }

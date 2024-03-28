@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Livramento de Nossa Senhora",
   "uf": "BA",
-  "ibge": "2919504"
+  "ibge": "2919504",
+  "lat": -13.6421285,
+  "lon": -41.84116
 }

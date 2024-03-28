@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Parazinho",
   "uf": "RN",
-  "ibge": "2408805"
+  "ibge": "2408805",
+  "lat": -5.2277463,
+  "lon": -35.8410772
 }

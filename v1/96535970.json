@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerro Branco",
   "uf": "RS",
-  "ibge": "4305132"
+  "ibge": "4305132",
+  "lat": -29.6664553,
+  "lon": -52.9351176
 }

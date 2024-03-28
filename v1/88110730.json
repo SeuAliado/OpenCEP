@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "lat": -27.5704388,
+  "lon": -48.6196848
 }

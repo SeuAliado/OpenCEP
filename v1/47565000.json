@@ -5,5 +5,7 @@
   "bairro": "Ouricuri do Ouro",
   "localidade": "Brotas de Macaúbas",
   "uf": "BA",
-  "ibge": "2904506"
+  "ibge": "2904506",
+  "lat": -12.0461653,
+  "lon": -42.5189525
 }

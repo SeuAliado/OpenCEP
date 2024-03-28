@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paraipaba",
   "uf": "CE",
-  "ibge": "2310258"
+  "ibge": "2310258",
+  "lat": -3.4383637,
+  "lon": -39.1482174
 }

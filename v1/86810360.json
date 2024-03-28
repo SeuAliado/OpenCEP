@@ -5,5 +5,7 @@
   "bairro": "Jardim das Flores III",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "lat": -23.5714095,
+  "lon": -51.4497516
 }

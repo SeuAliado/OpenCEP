@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -7.0852189,
+  "lon": -41.429339
 }

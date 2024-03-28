@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa Vale do Jatobá (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9997465,
+  "lon": -44.0306128
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaguajé",
   "uf": "PR",
-  "ibge": "4110904"
+  "ibge": "4110904",
+  "lat": -22.6187543,
+  "lon": -51.9678371
 }

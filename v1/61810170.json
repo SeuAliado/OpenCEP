@@ -5,5 +5,7 @@
   "bairro": "Pavuna",
   "localidade": "Pacatuba",
   "uf": "CE",
-  "ibge": "2309706"
+  "ibge": "2309706",
+  "lat": -3.888111,
+  "lon": -38.595372
 }

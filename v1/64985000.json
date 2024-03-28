@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sebastião Barros",
   "uf": "PI",
-  "ibge": "2210623"
+  "ibge": "2210623",
+  "lat": -10.8174037,
+  "lon": -44.8341208
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Araçá",
   "uf": "RS",
-  "ibge": "4312807"
+  "ibge": "4312807",
+  "lat": -28.660742,
+  "lon": -51.7444138
 }

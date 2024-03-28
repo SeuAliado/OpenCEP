@@ -5,5 +5,7 @@
   "bairro": "Jari",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "lat": -30.0538591,
+  "lon": -51.0880361
 }

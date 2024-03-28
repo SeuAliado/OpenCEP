@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8981639,
+  "lon": -48.34777
 }

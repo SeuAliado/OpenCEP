@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Joaquim",
   "uf": "MG",
-  "ibge": "3122603"
+  "ibge": "3122603",
+  "lat": -18.808186,
+  "lon": -43.2350369
 }

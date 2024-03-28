@@ -5,5 +5,7 @@
   "bairro": "Residencial Machado I",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.7652187,
+  "lon": -49.3581612
 }

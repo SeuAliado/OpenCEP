@@ -5,5 +5,7 @@
   "bairro": "Jardim Casarão",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "lat": -22.1784078,
+  "lon": -47.3751267
 }

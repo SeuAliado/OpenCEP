@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.731947,
+  "lon": -38.5312348
 }

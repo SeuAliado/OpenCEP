@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bela Vista de Minas",
   "uf": "MG",
-  "ibge": "3106002"
+  "ibge": "3106002",
+  "lat": -19.8290628,
+  "lon": -43.0918178
 }

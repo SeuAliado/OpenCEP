@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto Verde",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "lat": -23.2903306,
+  "lon": -51.277764
 }

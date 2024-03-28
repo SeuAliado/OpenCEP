@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cruz",
   "uf": "CE",
-  "ibge": "2304251"
+  "ibge": "2304251",
+  "lat": -2.9172678,
+  "lon": -40.1734431
 }

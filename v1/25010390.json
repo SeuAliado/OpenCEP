@@ -5,5 +5,7 @@
   "bairro": "Vila Ideal",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7944104,
+  "lon": -43.3143397
 }

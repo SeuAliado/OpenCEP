@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mongaguá",
   "uf": "SP",
-  "ibge": "3531100"
+  "ibge": "3531100",
+  "lat": -24.0961096,
+  "lon": -46.6260067
 }

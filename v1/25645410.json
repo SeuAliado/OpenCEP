@@ -5,5 +5,7 @@
   "bairro": "Independência",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "lat": -22.5489584,
+  "lon": -43.215633
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nioaque",
   "uf": "MS",
-  "ibge": "5005806"
+  "ibge": "5005806",
+  "lat": -21.1205189,
+  "lon": -55.9358581
 }

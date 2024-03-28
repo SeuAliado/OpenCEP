@@ -5,5 +5,7 @@
   "bairro": "Vila Terezinha",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0665142,
+  "lon": -52.4302912
 }

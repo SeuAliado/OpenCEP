@@ -5,5 +5,7 @@
   "bairro": "Barra Grande",
   "localidade": "Faxinal dos Guedes",
   "uf": "SC",
-  "ibge": "4205308"
+  "ibge": "4205308",
+  "lat": -26.7858656,
+  "lon": -52.1960937
 }

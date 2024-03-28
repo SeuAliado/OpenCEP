@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Garrafão do Norte",
   "uf": "PA",
-  "ibge": "1503077"
+  "ibge": "1503077",
+  "lat": -1.9332981,
+  "lon": -47.052806
 }

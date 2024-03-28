@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "lat": -21.6877324,
+  "lon": -49.7677803
 }

@@ -5,5 +5,7 @@
   "bairro": "Boi Morto",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "lat": -29.7361452,
+  "lon": -53.8807191
 }

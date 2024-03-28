@@ -5,5 +5,7 @@
   "bairro": "Parque Alvorada II",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.159067,
+  "lon": -47.9502337
 }

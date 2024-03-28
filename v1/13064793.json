@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Vista",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8943098,
+  "lon": -47.1214285
 }

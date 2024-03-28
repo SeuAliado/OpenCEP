@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor Attílio Mazzini (Arcadas)",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "lat": -22.7179675,
+  "lon": -46.8405486
 }

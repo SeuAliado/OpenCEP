@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "lat": -22.6452019,
+  "lon": -47.1952082
 }

@@ -5,5 +5,7 @@
   "bairro": "Center Park",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.421825,
+  "lon": -54.6002109
 }

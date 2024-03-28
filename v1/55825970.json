@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paudalho",
   "uf": "PE",
-  "ibge": "2610608"
+  "ibge": "2610608",
+  "lat": -7.8971639,
+  "lon": -35.1765521
 }

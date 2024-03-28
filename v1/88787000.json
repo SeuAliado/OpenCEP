@@ -5,5 +5,7 @@
   "bairro": "Mirim",
   "localidade": "Imbituba",
   "uf": "SC",
-  "ibge": "4207304"
+  "ibge": "4207304",
+  "lat": -28.2576753,
+  "lon": -48.6837661
 }

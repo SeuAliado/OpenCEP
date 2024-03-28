@@ -5,5 +5,7 @@
   "bairro": "Dom Pedro II",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3288642,
+  "lon": -48.9627978
 }

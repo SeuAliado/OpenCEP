@@ -5,5 +5,7 @@
   "bairro": "Pedro Patrício",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.1140664,
+  "lon": -42.8470299
 }

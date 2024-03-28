@@ -5,5 +5,7 @@
   "bairro": "Barreiras I",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1170266,
+  "lon": -45.0069429
 }

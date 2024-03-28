@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "lat": -21.7798545,
+  "lon": -46.5932992
 }

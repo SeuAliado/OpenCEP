@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaçanã",
   "uf": "RN",
-  "ibge": "2405009"
+  "ibge": "2405009",
+  "lat": -6.425463,
+  "lon": -36.2112804
 }

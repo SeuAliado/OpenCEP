@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -24.5239835,
+  "lon": -48.1162068
 }

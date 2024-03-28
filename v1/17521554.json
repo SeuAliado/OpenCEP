@@ -5,5 +5,7 @@
   "bairro": "Jardim Damasco I",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2362921,
+  "lon": -49.9123221
 }

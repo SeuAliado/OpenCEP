@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Madre de Deus",
   "uf": "BA",
-  "ibge": "2919926"
+  "ibge": "2919926",
+  "lat": -12.7455027,
+  "lon": -38.6158131
 }

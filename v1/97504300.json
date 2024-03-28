@@ -5,5 +5,7 @@
   "bairro": "Tabajara Brites",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7807845,
+  "lon": -57.0951957
 }

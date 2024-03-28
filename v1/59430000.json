@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa de Velhos",
   "uf": "RN",
-  "ibge": "2406403"
+  "ibge": "2406403",
+  "lat": -6.012296,
+  "lon": -35.8732499
 }

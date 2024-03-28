@@ -5,5 +5,7 @@
   "bairro": "Izabel",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7815649,
+  "lon": -55.802708
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapetim",
   "uf": "PE",
-  "ibge": "2607703"
+  "ibge": "2607703",
+  "lat": -7.3816219,
+  "lon": -37.1882083
 }

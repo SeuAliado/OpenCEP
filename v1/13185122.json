@@ -5,5 +5,7 @@
   "bairro": "Chácara Reymar",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.905888,
+  "lon": -47.1750224
 }

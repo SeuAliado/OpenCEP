@@ -5,5 +5,7 @@
   "bairro": "Village da Luz",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.8269017,
+  "lon": -41.119152
 }

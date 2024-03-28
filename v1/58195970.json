@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Frei Martinho",
   "uf": "PB",
-  "ibge": "2506202"
+  "ibge": "2506202",
+  "lat": -6.4033671,
+  "lon": -36.4550184
 }

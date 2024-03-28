@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Espírito Santo do Pinhal",
   "uf": "SP",
-  "ibge": "3515186"
+  "ibge": "3515186",
+  "lat": -22.1942917,
+  "lon": -46.7520065
 }

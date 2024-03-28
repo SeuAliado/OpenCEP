@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.6377949,
+  "lon": -48.7130717
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Biritiba-Mirim",
   "uf": "SP",
-  "ibge": "3506607"
+  "ibge": "3506607",
+  "lat": -23.5704516,
+  "lon": -46.0409059
 }

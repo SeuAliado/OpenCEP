@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Verdelândia",
   "uf": "MG",
-  "ibge": "3171030"
+  "ibge": "3171030",
+  "lat": -15.5518647,
+  "lon": -43.6759049
 }

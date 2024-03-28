@@ -5,5 +5,7 @@
   "bairro": "Belveder Clube dos 500",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7925255,
+  "lon": -45.1557404
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Santa Efigênia",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "lat": -20.2467203,
+  "lon": -43.7726257
 }

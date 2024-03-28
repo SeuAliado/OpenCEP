@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3424596,
+  "lon": -49.2788422
 }

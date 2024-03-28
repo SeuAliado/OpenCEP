@@ -5,5 +5,7 @@
   "bairro": "Cantagalo",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "lat": -22.1167888,
+  "lon": -43.2231643
 }

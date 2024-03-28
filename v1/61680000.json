@@ -5,5 +5,7 @@
   "bairro": "Catuana",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.024492,
+  "lon": -41.1349031
 }

@@ -5,5 +5,7 @@
   "bairro": "Ilha das Flores",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3275193,
+  "lon": -40.3340585
 }

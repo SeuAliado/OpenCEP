@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco de Assis",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2943178,
+  "lon": -51.2245536
 }

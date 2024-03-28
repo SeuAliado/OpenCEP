@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vicente Dutra",
   "uf": "RS",
-  "ibge": "4323101"
+  "ibge": "4323101",
+  "lat": -27.1640754,
+  "lon": -53.4083489
 }

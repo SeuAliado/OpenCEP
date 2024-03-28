@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Luzia",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5060983,
+  "lon": -46.8816555
 }

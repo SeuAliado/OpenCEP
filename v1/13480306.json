@@ -5,5 +5,7 @@
   "bairro": "Jardim Consoli",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.579262,
+  "lon": -47.3889372
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Lúcia Itada",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1329739,
+  "lon": -51.390232
 }

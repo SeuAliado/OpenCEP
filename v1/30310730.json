@@ -5,5 +5,7 @@
   "bairro": "Carmo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9469991,
+  "lon": -43.9324589
 }

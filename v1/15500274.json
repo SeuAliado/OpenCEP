@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4214442,
+  "lon": -49.9665
 }

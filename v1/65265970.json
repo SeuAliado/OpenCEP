@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mirinzal",
   "uf": "MA",
-  "ibge": "2106805"
+  "ibge": "2106805",
+  "lat": -2.064369,
+  "lon": -44.7827087
 }

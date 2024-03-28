@@ -5,5 +5,7 @@
   "bairro": "Vila Wilson Guimarães",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "lat": -18.1548552,
+  "lon": -47.9512688
 }

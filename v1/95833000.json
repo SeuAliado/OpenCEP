@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vale Verde",
   "uf": "RS",
-  "ibge": "4322525"
+  "ibge": "4322525",
+  "lat": -29.7830238,
+  "lon": -52.1860314
 }

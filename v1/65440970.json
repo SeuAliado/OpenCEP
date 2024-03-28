@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Benedito do Rio Preto",
   "uf": "MA",
-  "ibge": "2110401"
+  "ibge": "2110401",
+  "lat": -3.3311758,
+  "lon": -43.5272984
 }

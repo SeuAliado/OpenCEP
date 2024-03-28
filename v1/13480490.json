@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Lina",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5779116,
+  "lon": -47.403243
 }

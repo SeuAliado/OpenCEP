@@ -5,5 +5,7 @@
   "bairro": "Delfina",
   "localidade": "Estrela",
   "uf": "RS",
-  "ibge": "4307807"
+  "ibge": "4307807",
+  "lat": -29.5588011,
+  "lon": -51.9371191
 }

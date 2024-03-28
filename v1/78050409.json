@@ -5,5 +5,7 @@
   "bairro": "Terra Nova",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5812817,
+  "lon": -56.0699406
 }

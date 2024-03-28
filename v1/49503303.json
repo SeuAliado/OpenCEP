@@ -5,5 +5,7 @@
   "bairro": "Anízio Amancio de Oliveira",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "lat": -10.7055131,
+  "lon": -37.4403893
 }

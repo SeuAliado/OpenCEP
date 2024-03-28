@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Alcides Matiuzzi",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.173994,
+  "lon": -49.9496679
 }

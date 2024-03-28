@@ -5,5 +5,7 @@
   "bairro": "Linha Comprida",
   "localidade": "Salvador do Sul",
   "uf": "RS",
-  "ibge": "4316501"
+  "ibge": "4316501",
+  "lat": -29.4891418,
+  "lon": -51.5231673
 }

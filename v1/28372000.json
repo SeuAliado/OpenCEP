@@ -5,5 +5,7 @@
   "bairro": "Carabuçu",
   "localidade": "Bom Jesus do Itabapoana",
   "uf": "RJ",
-  "ibge": "3300605"
+  "ibge": "3300605",
+  "lat": -21.2166946,
+  "lon": -41.5965701
 }

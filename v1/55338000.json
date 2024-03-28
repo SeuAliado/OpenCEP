@@ -5,5 +5,7 @@
   "bairro": "Caldeirões",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "lat": -9.3441657,
+  "lon": -36.6338551
 }

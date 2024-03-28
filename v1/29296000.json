@@ -5,5 +5,7 @@
   "bairro": "Alto Castelinho",
   "localidade": "Vargem Alta",
   "uf": "ES",
-  "ibge": "3205036"
+  "ibge": "3205036",
+  "lat": -20.6695109,
+  "lon": -41.0183115
 }

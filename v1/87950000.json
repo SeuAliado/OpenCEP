@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Rico",
   "uf": "PR",
-  "ibge": "4120200"
+  "ibge": "4120200",
+  "lat": -22.7713103,
+  "lon": -53.2684885
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosana",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.313706,
+  "lon": -49.2685472
 }

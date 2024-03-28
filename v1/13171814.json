@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Casarão",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8335256,
+  "lon": -47.2747959
 }

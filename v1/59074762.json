@@ -5,5 +5,7 @@
   "bairro": "Guarapes",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.8377877,
+  "lon": -35.2758397
 }

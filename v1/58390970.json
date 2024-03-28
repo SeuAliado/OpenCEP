@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alagoinha",
   "uf": "PB",
-  "ibge": "2500502"
+  "ibge": "2500502",
+  "lat": -6.9499954,
+  "lon": -35.5457586
 }

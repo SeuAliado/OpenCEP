@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Novorizonte",
   "uf": "MG",
-  "ibge": "3145372"
+  "ibge": "3145372",
+  "lat": -16.0166762,
+  "lon": -42.4048241
 }

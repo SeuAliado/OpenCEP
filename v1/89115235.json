@@ -5,5 +5,7 @@
   "bairro": "Poço Grande",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "lat": -26.9287834,
+  "lon": -48.8751354
 }

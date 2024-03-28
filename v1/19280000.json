@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teodoro Sampaio",
   "uf": "SP",
-  "ibge": "3554300"
+  "ibge": "3554300",
+  "lat": -22.5314368,
+  "lon": -52.1733719
 }

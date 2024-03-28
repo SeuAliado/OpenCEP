@@ -5,5 +5,7 @@
   "bairro": "Jardim Meudon",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.4415493,
+  "lon": -42.9524944
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Itarana",
   "uf": "BA",
-  "ibge": "2922805"
+  "ibge": "2922805",
+  "lat": -13.0259876,
+  "lon": -40.0664644
 }

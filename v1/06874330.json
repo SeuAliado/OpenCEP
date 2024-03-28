@@ -5,5 +5,7 @@
   "bairro": "Itaquaciara",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "lat": -23.7731457,
+  "lon": -46.8464801
 }

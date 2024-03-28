@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0380318,
+  "lon": -42.8228269
 }

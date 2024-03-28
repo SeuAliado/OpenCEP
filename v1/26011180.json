@@ -5,5 +5,7 @@
   "bairro": "Ida",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7268625,
+  "lon": -43.4355735
 }

@@ -5,5 +5,7 @@
   "bairro": "Carice",
   "localidade": "Itambé",
   "uf": "PE",
-  "ibge": "2607653"
+  "ibge": "2607653",
+  "lat": -7.408192,
+  "lon": -35.1078333
 }

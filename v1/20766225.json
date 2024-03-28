@@ -5,5 +5,7 @@
   "bairro": "Inhaúma",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8434213,
+  "lon": -43.2978403
 }

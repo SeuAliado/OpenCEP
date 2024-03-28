@@ -5,5 +5,7 @@
   "bairro": "Distrito de Roselândia",
   "localidade": "Bela Vista de Goiás",
   "uf": "GO",
-  "ibge": "5203302"
+  "ibge": "5203302",
+  "lat": -16.9784243,
+  "lon": -48.9489638
 }

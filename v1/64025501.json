@@ -5,5 +5,7 @@
   "bairro": "Parque Piauí",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.1474429,
+  "lon": -42.78877
 }

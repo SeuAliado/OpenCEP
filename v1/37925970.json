@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piumhi",
   "uf": "MG",
-  "ibge": "3151503"
+  "ibge": "3151503",
+  "lat": -20.4682411,
+  "lon": -45.9609938
 }

@@ -5,5 +5,7 @@
   "bairro": "Noemia",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "lat": -30.0171123,
+  "lon": -52.9203802
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Estância",
   "uf": "SE",
-  "ibge": "2802106"
+  "ibge": "2802106",
+  "lat": -11.2686587,
+  "lon": -37.438503
 }

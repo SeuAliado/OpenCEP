@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Módica",
   "uf": "MG",
-  "ibge": "3144904"
+  "ibge": "3144904",
+  "lat": -18.4421713,
+  "lon": -41.4987534
 }

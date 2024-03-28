@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouricuri",
   "uf": "PE",
-  "ibge": "2609907"
+  "ibge": "2609907",
+  "lat": -7.8808775,
+  "lon": -40.0810267
 }

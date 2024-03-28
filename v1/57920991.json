@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Luís do Quitunde",
   "uf": "AL",
-  "ibge": "2708501"
+  "ibge": "2708501",
+  "lat": -9.3164381,
+  "lon": -35.5656141
 }

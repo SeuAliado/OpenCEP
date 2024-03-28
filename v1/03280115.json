@@ -5,5 +5,7 @@
   "bairro": "Vila Carmem",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -22.3293827,
+  "lon": -49.0442767
 }

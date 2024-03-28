@@ -5,5 +5,7 @@
   "bairro": "Barão de Guandu",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6748856,
+  "lon": -43.4144587
 }

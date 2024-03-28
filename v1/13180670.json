@@ -5,5 +5,7 @@
   "bairro": "Residencial Recanto das Árvores",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8332902,
+  "lon": -47.1761637
 }

@@ -5,5 +5,7 @@
   "bairro": "Dona Francisca (Pirabeiraba)",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "lat": -26.2077151,
+  "lon": -48.9087076
 }

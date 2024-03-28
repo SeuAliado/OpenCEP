@@ -5,5 +5,7 @@
   "bairro": "Juritianha",
   "localidade": "Acaraú",
   "uf": "CE",
-  "ibge": "2300200"
+  "ibge": "2300200",
+  "lat": -2.8972466,
+  "lon": -40.0102485
 }

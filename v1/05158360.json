@@ -5,5 +5,7 @@
   "bairro": "Jardim Jaraguá (São Domingos)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4888058,
+  "lon": -46.7586346
 }

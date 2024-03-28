@@ -5,5 +5,7 @@
   "bairro": "Jardim Gonçalves",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4909106,
+  "lon": -46.3446607
 }

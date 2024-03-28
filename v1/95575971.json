@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Forquilhas",
   "uf": "RS",
-  "ibge": "4321832"
+  "ibge": "4321832",
+  "lat": -27.4437272,
+  "lon": -53.9453105
 }

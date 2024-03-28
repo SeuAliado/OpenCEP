@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pombal",
   "uf": "PB",
-  "ibge": "2512101"
+  "ibge": "2512101",
+  "lat": -6.7721366,
+  "lon": -37.8023523
 }

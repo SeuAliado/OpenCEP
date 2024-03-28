@@ -5,5 +5,7 @@
   "bairro": "Bom Jardim",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -10.8069352,
+  "lon": -55.4646417
 }

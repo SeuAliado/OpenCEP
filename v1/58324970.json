@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pitimbu",
   "uf": "PB",
-  "ibge": "2511905"
+  "ibge": "2511905",
+  "lat": -7.4724584,
+  "lon": -34.8080235
 }

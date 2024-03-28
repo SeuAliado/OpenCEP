@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Davinópolis",
   "uf": "MA",
-  "ibge": "2103752"
+  "ibge": "2103752",
+  "lat": -5.5939018,
+  "lon": -47.3119448
 }

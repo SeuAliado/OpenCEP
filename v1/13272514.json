@@ -5,5 +5,7 @@
   "bairro": "Jardim América II",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "lat": -22.9552783,
+  "lon": -47.0110452
 }

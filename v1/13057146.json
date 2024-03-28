@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Porto Seguro",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8735847,
+  "lon": -47.0242719
 }

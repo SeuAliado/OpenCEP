@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Eirunepé",
   "uf": "AM",
-  "ibge": "1301407"
+  "ibge": "1301407",
+  "lat": -6.6669993,
+  "lon": -69.8650791
 }

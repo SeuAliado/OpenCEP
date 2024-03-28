@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5209294,
+  "lon": -44.1802987
 }

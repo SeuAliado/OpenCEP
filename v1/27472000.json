@@ -5,5 +5,7 @@
   "bairro": "São João Marcos",
   "localidade": "Rio Claro",
   "uf": "RJ",
-  "ibge": "3304409"
+  "ibge": "3304409",
+  "lat": -22.7997923,
+  "lon": -44.030258
 }

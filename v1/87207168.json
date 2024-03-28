@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "lat": -24.7379709,
+  "lon": -53.722704
 }

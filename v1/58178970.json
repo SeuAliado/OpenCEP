@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Floresta",
   "uf": "PB",
-  "ibge": "2510105"
+  "ibge": "2510105",
+  "lat": -6.4576809,
+  "lon": -36.2046799
 }

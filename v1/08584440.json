@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvestre",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4288673,
+  "lon": -46.3251216
 }

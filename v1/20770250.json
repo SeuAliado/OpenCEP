@@ -5,5 +5,7 @@
   "bairro": "Todos os Santos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8944924,
+  "lon": -43.2839336
 }

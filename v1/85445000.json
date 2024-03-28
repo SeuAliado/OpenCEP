@@ -5,5 +5,7 @@
   "bairro": "Yolanda",
   "localidade": "Ubiratã",
   "uf": "PR",
-  "ibge": "4128005"
+  "ibge": "4128005",
+  "lat": -24.4555096,
+  "lon": -53.0802711
 }

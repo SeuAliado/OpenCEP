@@ -5,5 +5,7 @@
   "bairro": "Residencial Mário de Almeida Franco",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7849832,
+  "lon": -47.9675948
 }

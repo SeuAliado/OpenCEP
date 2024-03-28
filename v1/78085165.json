@@ -5,5 +5,7 @@
   "bairro": "Coophema",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6361206,
+  "lon": -56.0594375
 }

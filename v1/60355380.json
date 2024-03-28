@@ -5,5 +5,7 @@
   "bairro": "Presidente Kennedy",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.7285224,
+  "lon": -38.5735365
 }

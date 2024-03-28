@@ -5,5 +5,7 @@
   "bairro": "Custódio",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "lat": -4.9795555,
+  "lon": -39.0444639
 }

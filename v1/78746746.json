@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Fabrício Vetorasso Mendes",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.5134685,
+  "lon": -54.6473816
 }

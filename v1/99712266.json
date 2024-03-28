@@ -5,5 +5,7 @@
   "bairro": "Jabuticabal",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "lat": -27.6375133,
+  "lon": -52.3074193
 }

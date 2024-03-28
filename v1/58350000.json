@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caldas Brandão",
   "uf": "PB",
-  "ibge": "2503803"
+  "ibge": "2503803",
+  "lat": -7.1026686,
+  "lon": -35.3248749
 }

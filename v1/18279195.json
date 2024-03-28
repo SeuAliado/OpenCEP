@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.9731266,
+  "lon": -48.8762058
 }

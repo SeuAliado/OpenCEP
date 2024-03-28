@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Madre Paulina",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2079755,
+  "lon": -47.3203876
 }

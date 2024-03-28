@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ferreira Gomes",
   "uf": "AP",
-  "ibge": "1600238"
+  "ibge": "1600238",
+  "lat": 0.8570534,
+  "lon": -51.1847575
 }

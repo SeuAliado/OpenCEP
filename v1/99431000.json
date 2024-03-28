@@ -5,5 +5,7 @@
   "bairro": "Treze de Maio",
   "localidade": "Alto Alegre",
   "uf": "RS",
-  "ibge": "4300554"
+  "ibge": "4300554",
+  "lat": -28.8156669,
+  "lon": -53.0272625
 }

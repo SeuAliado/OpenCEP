@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Campestre",
   "uf": "RN",
-  "ibge": "2412302"
+  "ibge": "2412302",
+  "lat": -6.3112725,
+  "lon": -35.7070016
 }

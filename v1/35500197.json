@@ -5,5 +5,7 @@
   "bairro": "Bom Pastor",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1248873,
+  "lon": -44.8862293
 }

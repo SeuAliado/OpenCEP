@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "lat": -25.6923692,
+  "lon": -49.3092427
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel Marin",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.3014787,
+  "lon": -50.350503
 }

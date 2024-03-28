@@ -5,5 +5,7 @@
   "bairro": "Putirí",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.9094936,
+  "lon": -40.1021273
 }

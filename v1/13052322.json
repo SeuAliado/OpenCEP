@@ -5,5 +5,7 @@
   "bairro": "Parque Canadá",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9690497,
+  "lon": -47.1307573
 }

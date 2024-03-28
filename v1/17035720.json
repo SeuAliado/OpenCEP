@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Rita",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3361087,
+  "lon": -49.1148155
 }

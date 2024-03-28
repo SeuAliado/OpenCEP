@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Fátima",
   "uf": "BA",
-  "ibge": "2922730"
+  "ibge": "2922730",
+  "lat": -11.6077589,
+  "lon": -39.6293259
 }

@@ -5,5 +5,7 @@
   "bairro": "Vale das Parreiras",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1031306,
+  "lon": -51.3829268
 }

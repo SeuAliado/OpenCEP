@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo do Meio",
   "uf": "MG",
-  "ibge": "3111309"
+  "ibge": "3111309",
+  "lat": -21.1101871,
+  "lon": -45.8290377
 }

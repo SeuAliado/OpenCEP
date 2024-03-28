@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Gonçalo do Pará",
   "uf": "MG",
-  "ibge": "3161809"
+  "ibge": "3161809",
+  "lat": -19.9878319,
+  "lon": -44.8496688
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canarana",
   "uf": "BA",
-  "ibge": "2906204"
+  "ibge": "2906204",
+  "lat": -11.6862665,
+  "lon": -41.7680836
 }

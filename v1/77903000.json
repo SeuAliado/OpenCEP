@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luzinópolis",
   "uf": "TO",
-  "ibge": "1712454"
+  "ibge": "1712454",
+  "lat": -6.1900539,
+  "lon": -47.8606275
 }

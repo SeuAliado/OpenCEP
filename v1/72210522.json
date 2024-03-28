@@ -5,5 +5,7 @@
   "bairro": "Ceilândia Norte (Ceilândia)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8117809,
+  "lon": -48.1119521
 }

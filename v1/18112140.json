@@ -5,5 +5,7 @@
   "bairro": "Jardim Toledo",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5294481,
+  "lon": -47.4410827
 }

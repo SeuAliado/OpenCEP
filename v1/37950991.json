@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Sebastião do Paraíso",
   "uf": "MG",
-  "ibge": "3164704"
+  "ibge": "3164704",
+  "lat": -18.6490924,
+  "lon": -48.1838591
 }

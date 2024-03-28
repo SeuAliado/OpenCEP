@@ -5,5 +5,7 @@
   "bairro": "Cidade Tupinambá",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4640358,
+  "lon": -46.4078429
 }

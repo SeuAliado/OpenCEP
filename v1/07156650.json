@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.3972703,
+  "lon": -46.4530126
 }

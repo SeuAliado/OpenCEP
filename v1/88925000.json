@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morro Grande",
   "uf": "SC",
-  "ibge": "4211256"
+  "ibge": "4211256",
+  "lat": -28.7450817,
+  "lon": -49.7115614
 }

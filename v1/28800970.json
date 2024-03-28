@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Bonito",
   "uf": "RJ",
-  "ibge": "3304300"
+  "ibge": "3304300",
+  "lat": -22.7104127,
+  "lon": -42.6245782
 }

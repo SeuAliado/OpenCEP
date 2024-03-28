@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barreiros",
   "uf": "PE",
-  "ibge": "2601409"
+  "ibge": "2601409",
+  "lat": -8.8144891,
+  "lon": -35.1941148
 }

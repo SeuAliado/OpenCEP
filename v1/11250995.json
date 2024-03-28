@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "lat": -23.9276197,
+  "lon": -46.2083466
 }

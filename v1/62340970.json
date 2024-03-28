@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Frecheirinha",
   "uf": "CE",
-  "ibge": "2304509"
+  "ibge": "2304509",
+  "lat": -3.7512315,
+  "lon": -40.8149032
 }

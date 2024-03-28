@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bacabeira",
   "uf": "MA",
-  "ibge": "2101251"
+  "ibge": "2101251",
+  "lat": -2.9780939,
+  "lon": -44.3165822
 }

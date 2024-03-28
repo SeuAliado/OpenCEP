@@ -5,5 +5,7 @@
   "bairro": "Estância Guatambu",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4431039,
+  "lon": -46.312746
 }

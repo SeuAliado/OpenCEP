@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiaí",
   "uf": "MG",
-  "ibge": "3129608"
+  "ibge": "3129608",
+  "lat": -16.858486,
+  "lon": -44.9141084
 }

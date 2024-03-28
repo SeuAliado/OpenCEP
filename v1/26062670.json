@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim Parque Estoril",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6396247,
+  "lon": -43.3964949
 }

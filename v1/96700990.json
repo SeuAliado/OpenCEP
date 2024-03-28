@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Jerônimo",
   "uf": "RS",
-  "ibge": "4318408"
+  "ibge": "4318408",
+  "lat": -29.9666344,
+  "lon": -51.7967063
 }

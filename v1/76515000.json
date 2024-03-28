@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campos Verdes",
   "uf": "GO",
-  "ibge": "5204953"
+  "ibge": "5204953",
+  "lat": -14.2446355,
+  "lon": -49.653241
 }

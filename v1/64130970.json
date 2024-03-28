@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miguel Alves",
   "uf": "PI",
-  "ibge": "2206209"
+  "ibge": "2206209",
+  "lat": -4.1662295,
+  "lon": -42.8928818
 }

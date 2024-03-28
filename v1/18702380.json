@@ -5,5 +5,7 @@
   "bairro": "Vila Piagentino",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1110283,
+  "lon": -48.9066474
 }

@@ -5,5 +5,7 @@
   "bairro": "Paturá",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "lat": -20.6598862,
+  "lon": -40.4992584
 }

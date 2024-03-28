@@ -5,5 +5,7 @@
   "bairro": "Condomínio Guirra (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6387897,
+  "lon": -47.6457308
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Chácaras Gargantilhas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7764021,
+  "lon": -46.9525488
 }

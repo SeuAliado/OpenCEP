@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Olhos D'Água",
   "uf": "MG",
-  "ibge": "3145455"
+  "ibge": "3145455",
+  "lat": -17.4235127,
+  "lon": -43.599128
 }

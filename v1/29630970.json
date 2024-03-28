@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejetuba",
   "uf": "ES",
-  "ibge": "3201159"
+  "ibge": "3201159",
+  "lat": -20.1493846,
+  "lon": -41.2922179
 }

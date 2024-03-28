@@ -5,5 +5,7 @@
   "bairro": "Parque das Indústrias",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9904135,
+  "lon": -47.1459895
 }

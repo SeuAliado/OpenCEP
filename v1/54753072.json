@@ -5,5 +5,7 @@
   "bairro": "Nazaré",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "lat": -8.0180106,
+  "lon": -34.9693872
 }

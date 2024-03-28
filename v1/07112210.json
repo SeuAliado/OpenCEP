@@ -5,5 +5,7 @@
   "bairro": "Vila Sant Anna",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4708013,
+  "lon": -46.5209744
 }

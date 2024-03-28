@@ -5,5 +5,7 @@
   "bairro": "Coqueiral de Itaparica",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3835637,
+  "lon": -40.3221231
 }

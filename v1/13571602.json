@@ -5,5 +5,7 @@
   "bairro": "Jardim de Cresci",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0312324,
+  "lon": -47.8619417
 }

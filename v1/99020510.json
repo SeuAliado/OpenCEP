@@ -5,5 +5,7 @@
   "bairro": "Annes",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2491136,
+  "lon": -52.4059649
 }

@@ -5,5 +5,7 @@
   "bairro": "Portal do Amanhecer III (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6341992,
+  "lon": -47.64397
 }

@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.1081059,
+  "lon": -35.300334
 }

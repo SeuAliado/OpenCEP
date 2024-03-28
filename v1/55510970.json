@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Primavera",
   "uf": "PE",
-  "ibge": "2611408"
+  "ibge": "2611408",
+  "lat": -8.3294591,
+  "lon": -35.3516641
 }

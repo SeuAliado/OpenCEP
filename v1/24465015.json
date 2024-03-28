@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8847886,
+  "lon": -43.1087901
 }

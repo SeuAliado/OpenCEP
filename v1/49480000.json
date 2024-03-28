@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Simão Dias",
   "uf": "SE",
-  "ibge": "2807105"
+  "ibge": "2807105",
+  "lat": -10.7397921,
+  "lon": -37.809338
 }

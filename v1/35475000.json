@@ -5,5 +5,7 @@
   "bairro": "Santana do Paraopeba",
   "localidade": "Belo Vale",
   "uf": "MG",
-  "ibge": "3106408"
+  "ibge": "3106408",
+  "lat": -20.4082085,
+  "lon": -44.0278771
 }

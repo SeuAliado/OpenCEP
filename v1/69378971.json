@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caroebe",
   "uf": "RR",
-  "ibge": "1400233"
+  "ibge": "1400233",
+  "lat": 0.8034889,
+  "lon": -59.4295215
 }

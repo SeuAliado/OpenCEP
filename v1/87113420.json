@@ -5,5 +5,7 @@
   "bairro": "Parque Alvamar",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4191315,
+  "lon": -51.8751944
 }

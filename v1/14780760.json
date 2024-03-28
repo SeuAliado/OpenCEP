@@ -5,5 +5,7 @@
   "bairro": "Jardim Allah",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5475492,
+  "lon": -48.5765709
 }

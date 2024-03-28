@@ -5,5 +5,7 @@
   "bairro": "Vila Caiúba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.3981203,
+  "lon": -46.7531685
 }

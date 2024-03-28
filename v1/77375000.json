@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rosa do Tocantins",
   "uf": "TO",
-  "ibge": "1718907"
+  "ibge": "1718907",
+  "lat": -11.4478171,
+  "lon": -48.1220565
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Inês",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4677562,
+  "lon": -46.6350403
 }

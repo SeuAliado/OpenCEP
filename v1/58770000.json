@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coremas",
   "uf": "PB",
-  "ibge": "2504801"
+  "ibge": "2504801",
+  "lat": -7.0174314,
+  "lon": -37.9446335
 }

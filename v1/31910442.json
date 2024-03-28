@@ -5,5 +5,7 @@
   "bairro": "Fernão Dias",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8720002,
+  "lon": -43.9211454
 }

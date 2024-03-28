@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vitória do Jari",
   "uf": "AP",
-  "ibge": "1600808"
+  "ibge": "1600808",
+  "lat": 1.0943041,
+  "lon": -53.2180495
 }

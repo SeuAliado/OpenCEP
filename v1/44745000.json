@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mirangaba",
   "uf": "BA",
-  "ibge": "2921401"
+  "ibge": "2921401",
+  "lat": -10.8090557,
+  "lon": -40.7564002
 }

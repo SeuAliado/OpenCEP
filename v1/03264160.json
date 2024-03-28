@@ -5,5 +5,7 @@
   "bairro": "Vila Paulo Silas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.589979,
+  "lon": -46.5465695
 }

@@ -5,5 +5,7 @@
   "bairro": "Coqueiro",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "lat": -3.5550659,
+  "lon": -39.5835599
 }

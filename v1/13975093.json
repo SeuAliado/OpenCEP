@@ -5,5 +5,7 @@
   "bairro": "Estâncias de Recreio Santa Fé",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4362034,
+  "lon": -46.8403306
 }

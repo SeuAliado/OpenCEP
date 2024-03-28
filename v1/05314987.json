@@ -5,5 +5,7 @@
   "bairro": "Vila Leopoldina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.528471,
+  "lon": -46.7373736
 }

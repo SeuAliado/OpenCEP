@@ -5,5 +5,7 @@
   "bairro": "Guarapuá",
   "localidade": "Dois Córregos",
   "uf": "SP",
-  "ibge": "3514106"
+  "ibge": "3514106",
+  "lat": -22.2517865,
+  "lon": -48.3846034
 }

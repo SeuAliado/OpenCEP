@@ -5,5 +5,7 @@
   "bairro": "Recanto Amapola",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9360697,
+  "lon": -46.522534
 }

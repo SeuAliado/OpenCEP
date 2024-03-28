@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Indiaroba",
   "uf": "SE",
-  "ibge": "2802809"
+  "ibge": "2802809",
+  "lat": -11.4729433,
+  "lon": -37.5321341
 }

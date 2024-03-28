@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cuitegi",
   "uf": "PB",
-  "ibge": "2505204"
+  "ibge": "2505204",
+  "lat": -6.8975099,
+  "lon": -35.5245171
 }

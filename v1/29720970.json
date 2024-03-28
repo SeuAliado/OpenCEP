@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "lat": -19.2503153,
+  "lon": -40.4681982
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Taubaté E",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0290295,
+  "lon": -45.6134421
 }

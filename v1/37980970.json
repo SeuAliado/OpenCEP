@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cássia",
   "uf": "MG",
-  "ibge": "3115102"
+  "ibge": "3115102",
+  "lat": -20.5794155,
+  "lon": -46.9250695
 }

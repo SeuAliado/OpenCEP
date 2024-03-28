@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Josefa",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5767436,
+  "lon": -47.4237602
 }

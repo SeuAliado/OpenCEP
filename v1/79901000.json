@@ -5,5 +5,7 @@
   "bairro": "Jardim das Oliveiras",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.4883747,
+  "lon": -55.7348748
 }

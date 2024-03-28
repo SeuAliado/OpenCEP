@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibiassucê",
   "uf": "BA",
-  "ibge": "2912004"
+  "ibge": "2912004",
+  "lat": -14.2546968,
+  "lon": -42.2756861
 }

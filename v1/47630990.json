@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra do Ramalho",
   "uf": "BA",
-  "ibge": "2930154"
+  "ibge": "2930154",
+  "lat": -13.4787062,
+  "lon": -43.6317613
 }

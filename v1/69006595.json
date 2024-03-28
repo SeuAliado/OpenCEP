@@ -5,5 +5,7 @@
   "bairro": "Gilberto Mestrinho",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.0798514,
+  "lon": -59.9467657
 }

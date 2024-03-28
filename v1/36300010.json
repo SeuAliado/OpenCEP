@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "lat": -21.1291628,
+  "lon": -44.2551486
 }

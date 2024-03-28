@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Roque de Minas",
   "uf": "MG",
-  "ibge": "3164308"
+  "ibge": "3164308",
+  "lat": -20.2458648,
+  "lon": -46.3632581
 }

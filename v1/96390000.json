@@ -5,5 +5,7 @@
   "bairro": "Freire",
   "localidade": "Pedro Osório",
   "uf": "RS",
-  "ibge": "4314209"
+  "ibge": "4314209",
+  "lat": -31.6581837,
+  "lon": -52.7978111
 }

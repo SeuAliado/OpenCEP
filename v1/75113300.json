@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria de Nazareth",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3226157,
+  "lon": -48.941253
 }

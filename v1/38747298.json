@@ -5,5 +5,7 @@
   "bairro": "Ouro Preto",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "lat": -18.9371861,
+  "lon": -46.9739755
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.6039259,
+  "lon": -46.5286041
 }

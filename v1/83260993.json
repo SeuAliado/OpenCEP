@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matinhos",
   "uf": "PR",
-  "ibge": "4115705"
+  "ibge": "4115705",
+  "lat": -25.8109765,
+  "lon": -48.5329189
 }

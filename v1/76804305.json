@@ -5,5 +5,7 @@
   "bairro": "Areal",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "lat": -8.7852669,
+  "lon": -63.8968724
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Antártica",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6751756,
+  "lon": -43.4478221
 }

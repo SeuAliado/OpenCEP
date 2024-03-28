@@ -5,5 +5,7 @@
   "bairro": "Parque dos Laranjais",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.417094,
+  "lon": -54.6508129
 }

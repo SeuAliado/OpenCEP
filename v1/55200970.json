@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "lat": -8.3587189,
+  "lon": -36.7002329
 }

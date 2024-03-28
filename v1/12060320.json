@@ -5,5 +5,7 @@
   "bairro": "Monção",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0216042,
+  "lon": -45.561047
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Alexandrina",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.0913862,
+  "lon": -51.3726411
 }

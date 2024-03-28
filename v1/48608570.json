@@ -5,5 +5,7 @@
   "bairro": "Vila Nobre",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "lat": -9.4112811,
+  "lon": -38.2059102
 }

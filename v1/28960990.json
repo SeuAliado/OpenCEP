@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iguaba Grande",
   "uf": "RJ",
-  "ibge": "3301876"
+  "ibge": "3301876",
+  "lat": -22.8117359,
+  "lon": -42.1913835
 }

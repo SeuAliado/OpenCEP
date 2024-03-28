@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra dos Coqueiros",
   "uf": "SE",
-  "ibge": "2800605"
+  "ibge": "2800605",
+  "lat": -10.8512419,
+  "lon": -36.970226
 }

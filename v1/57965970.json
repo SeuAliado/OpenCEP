@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jundiá",
   "uf": "AL",
-  "ibge": "2703908"
+  "ibge": "2703908",
+  "lat": -8.9330489,
+  "lon": -35.5696165
 }

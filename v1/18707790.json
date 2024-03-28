@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa II",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0187946,
+  "lon": -48.8590189
 }

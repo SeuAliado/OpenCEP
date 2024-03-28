@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ponte Preta",
   "uf": "RS",
-  "ibge": "4314787"
+  "ibge": "4314787",
+  "lat": -27.6565845,
+  "lon": -52.4911934
 }

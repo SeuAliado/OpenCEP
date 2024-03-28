@@ -5,5 +5,7 @@
   "bairro": "Jardim Ângela",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6781731,
+  "lon": -46.8037611
 }

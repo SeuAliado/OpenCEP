@@ -5,5 +5,7 @@
   "bairro": "Parque Athenas",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.4836943,
+  "lon": -44.234304
 }

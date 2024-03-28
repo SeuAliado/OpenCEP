@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaraituba",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5481966,
+  "lon": -48.5318471
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5436531,
+  "lon": -47.3135767
 }

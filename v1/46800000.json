@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ruy Barbosa",
   "uf": "BA",
-  "ibge": "2927200"
+  "ibge": "2927200",
+  "lat": -12.2837758,
+  "lon": -40.4915946
 }

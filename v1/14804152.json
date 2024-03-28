@@ -5,5 +5,7 @@
   "bairro": "Jardim Águas do Paiol",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7625083,
+  "lon": -48.2103498
 }

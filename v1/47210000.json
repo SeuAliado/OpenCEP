@@ -5,5 +5,7 @@
   "bairro": "Poços",
   "localidade": "Remanso",
   "uf": "BA",
-  "ibge": "2926004"
+  "ibge": "2926004",
+  "lat": -14.886038,
+  "lon": -40.8661942
 }

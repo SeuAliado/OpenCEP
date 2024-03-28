@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Afuá",
   "uf": "PA",
-  "ibge": "1500305"
+  "ibge": "1500305",
+  "lat": -0.1572125,
+  "lon": -50.3955765
 }

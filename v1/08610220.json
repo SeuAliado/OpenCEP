@@ -5,5 +5,7 @@
   "bairro": "Vila Mazza",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5450586,
+  "lon": -46.3038794
 }

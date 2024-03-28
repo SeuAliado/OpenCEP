@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "lat": -22.5096552,
+  "lon": -47.7775613
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Urbano",
   "localidade": "Redenção",
   "uf": "PA",
-  "ibge": "1506138"
+  "ibge": "1506138",
+  "lat": -8.03562,
+  "lon": -50.0355896
 }

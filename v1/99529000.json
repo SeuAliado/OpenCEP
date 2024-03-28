@@ -5,5 +5,7 @@
   "bairro": "Igrejinha",
   "localidade": "Coqueiros do Sul",
   "uf": "RS",
-  "ibge": "4305850"
+  "ibge": "4305850",
+  "lat": -29.9738629,
+  "lon": -51.62902
 }

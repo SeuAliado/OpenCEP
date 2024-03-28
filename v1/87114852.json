@@ -5,5 +5,7 @@
   "bairro": "Residencial São José III",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.419222,
+  "lon": -51.8707283
 }

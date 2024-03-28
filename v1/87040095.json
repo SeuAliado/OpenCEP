@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Patrícia",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4124743,
+  "lon": -51.9038418
 }

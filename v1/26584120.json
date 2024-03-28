@@ -5,5 +5,7 @@
   "bairro": "Edson Passos",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "lat": -22.7948053,
+  "lon": -43.4282315
 }

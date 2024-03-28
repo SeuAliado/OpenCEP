@@ -5,5 +5,7 @@
   "bairro": "Valão do Barro",
   "localidade": "São Sebastião do Alto",
   "uf": "RJ",
-  "ibge": "3305307"
+  "ibge": "3305307",
+  "lat": -21.8223756,
+  "lon": -42.0884311
 }

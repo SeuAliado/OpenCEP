@@ -5,5 +5,7 @@
   "bairro": "Residencial Doutor Cícero da Silva Prado",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.8981514,
+  "lon": -45.378147
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morrinhos",
   "uf": "CE",
-  "ibge": "2308906"
+  "ibge": "2308906",
+  "lat": -3.2718622,
+  "lon": -40.1043057
 }

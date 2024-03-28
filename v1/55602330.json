@@ -5,5 +5,7 @@
   "bairro": "Livramento",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.1259942,
+  "lon": -35.2935083
 }

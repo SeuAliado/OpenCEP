@@ -5,5 +5,7 @@
   "bairro": "Fazenda Grande do Retiro",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.940427,
+  "lon": -38.4726217
 }

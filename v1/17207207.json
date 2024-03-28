@@ -5,5 +5,7 @@
   "bairro": "Vila Ivan",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2870985,
+  "lon": -48.5577242
 }

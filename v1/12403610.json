@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9200942,
+  "lon": -45.4420348
 }

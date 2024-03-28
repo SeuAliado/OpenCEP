@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Colinas",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.037334,
+  "lon": -45.5445061
 }

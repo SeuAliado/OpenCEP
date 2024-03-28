@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barão de Cotegipe",
   "uf": "RS",
-  "ibge": "4301701"
+  "ibge": "4301701",
+  "lat": -27.6212738,
+  "lon": -52.3803295
 }

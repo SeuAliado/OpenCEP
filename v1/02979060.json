@@ -5,5 +5,7 @@
   "bairro": "Vila Hermínia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.473516,
+  "lon": -46.7083302
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Una",
   "uf": "BA",
-  "ibge": "2932507"
+  "ibge": "2932507",
+  "lat": -14.823528,
+  "lon": -39.0269224
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "lat": -23.4382651,
+  "lon": -51.8805557
 }

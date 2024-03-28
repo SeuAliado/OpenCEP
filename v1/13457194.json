@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7675496,
+  "lon": -47.3807705
 }

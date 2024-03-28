@@ -5,5 +5,7 @@
   "bairro": "Estância Velha",
   "localidade": "Tramandaí",
   "uf": "RS",
-  "ibge": "4321600"
+  "ibge": "4321600",
+  "lat": -29.6807421,
+  "lon": -51.1681657
 }

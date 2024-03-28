@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7465083,
+  "lon": -47.8975752
 }

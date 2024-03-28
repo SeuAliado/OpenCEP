@@ -5,5 +5,7 @@
   "bairro": "Solar de Anchieta",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1964003,
+  "lon": -40.2790867
 }

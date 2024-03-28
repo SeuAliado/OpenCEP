@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Alegre dos Parecis",
   "uf": "RO",
-  "ibge": "1100379"
+  "ibge": "1100379",
+  "lat": -12.1325661,
+  "lon": -61.858413
 }

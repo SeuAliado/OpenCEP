@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bariri",
   "uf": "SP",
-  "ibge": "3505203"
+  "ibge": "3505203",
+  "lat": -22.0719119,
+  "lon": -48.7410139
 }

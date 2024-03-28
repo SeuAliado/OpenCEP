@@ -5,5 +5,7 @@
   "bairro": "Bom Recreio",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "lat": -28.2901377,
+  "lon": -52.4377693
 }

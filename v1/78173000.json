@@ -5,5 +5,7 @@
   "bairro": "Ribeirão dos Cocais",
   "localidade": "Nossa Senhora do Livramento",
   "uf": "MT",
-  "ibge": "5106109"
+  "ibge": "5106109",
+  "lat": -16.2171706,
+  "lon": -56.3804337
 }

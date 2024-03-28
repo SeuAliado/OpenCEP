@@ -5,5 +5,7 @@
   "bairro": "Vila São Domingos",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7656978,
+  "lon": -43.5111875
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salto da Divisa",
   "uf": "MG",
-  "ibge": "3157104"
+  "ibge": "3157104",
+  "lat": -15.9983207,
+  "lon": -39.9485172
 }

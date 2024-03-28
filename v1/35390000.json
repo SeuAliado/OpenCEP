@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jequeri",
   "uf": "MG",
-  "ibge": "3135506"
+  "ibge": "3135506",
+  "lat": -20.4544642,
+  "lon": -42.6655174
 }

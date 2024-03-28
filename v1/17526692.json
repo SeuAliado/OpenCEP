@@ -5,5 +5,7 @@
   "bairro": "Jardim Flamingo",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2512362,
+  "lon": -49.99184
 }

@@ -5,5 +5,7 @@
   "bairro": "São Lucas",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "lat": -20.1346869,
+  "lon": -44.8606242
 }

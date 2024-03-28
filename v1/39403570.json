@@ -5,5 +5,7 @@
   "bairro": "Santo Amaro",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -16.7599521,
+  "lon": -43.8772123
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jandaia do Sul",
   "uf": "PR",
-  "ibge": "4112108"
+  "ibge": "4112108",
+  "lat": -23.6565465,
+  "lon": -51.6930569
 }

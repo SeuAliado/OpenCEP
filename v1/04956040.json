@@ -5,5 +5,7 @@
   "bairro": "Balneário Dom Carlos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6913159,
+  "lon": -46.7108143
 }

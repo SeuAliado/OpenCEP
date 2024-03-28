@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9390326,
+  "lon": -44.1010621
 }

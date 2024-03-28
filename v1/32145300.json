@@ -5,5 +5,7 @@
   "bairro": "Novo Boa Vista",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.8819955,
+  "lon": -44.0465521
 }

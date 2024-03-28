@@ -5,5 +5,7 @@
   "bairro": "Santa América",
   "localidade": "Getulina",
   "uf": "SP",
-  "ibge": "3517000"
+  "ibge": "3517000",
+  "lat": -23.6849398,
+  "lon": -46.529017
 }

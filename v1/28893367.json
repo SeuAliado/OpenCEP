@@ -5,5 +5,7 @@
   "bairro": "Operário",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.522883,
+  "lon": -41.9507974
 }

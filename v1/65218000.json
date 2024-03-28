@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matinha",
   "uf": "MA",
-  "ibge": "2106508"
+  "ibge": "2106508",
+  "lat": -3.0988588,
+  "lon": -45.0354138
 }

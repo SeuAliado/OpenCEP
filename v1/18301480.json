@@ -5,5 +5,7 @@
   "bairro": "Jardim Vale Verde",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "lat": -23.9891802,
+  "lon": -48.3541219
 }

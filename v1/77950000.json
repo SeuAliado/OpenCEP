@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araguatins",
   "uf": "TO",
-  "ibge": "1702208"
+  "ibge": "1702208",
+  "lat": -5.6424062,
+  "lon": -48.0406759
 }

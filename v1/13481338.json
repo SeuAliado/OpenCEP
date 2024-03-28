@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Victor D'Andrea",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.587693,
+  "lon": -47.4016617
 }

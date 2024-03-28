@@ -5,5 +5,7 @@
   "bairro": "Chácara São Sebastião",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7370234,
+  "lon": -47.3597121
 }

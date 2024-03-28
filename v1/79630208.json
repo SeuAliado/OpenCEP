@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.7910409,
+  "lon": -51.7289676
 }

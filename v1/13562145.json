@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Júlia",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0036208,
+  "lon": -47.907811
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Lúcia",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3446856,
+  "lon": -47.4025997
 }

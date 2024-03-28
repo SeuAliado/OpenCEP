@@ -5,5 +5,7 @@
   "bairro": "Barra Fria",
   "localidade": "Erval Velho",
   "uf": "SC",
-  "ibge": "4205209"
+  "ibge": "4205209",
+  "lat": -27.2752532,
+  "lon": -51.4478258
 }

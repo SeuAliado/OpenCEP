@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4374648,
+  "lon": -54.6334636
 }

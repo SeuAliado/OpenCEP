@@ -5,5 +5,7 @@
   "bairro": "União de Vila Nova",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5974557,
+  "lon": -46.5035392
 }

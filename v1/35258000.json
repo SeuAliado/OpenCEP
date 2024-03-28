@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Geraldo do Baixio",
   "uf": "MG",
-  "ibge": "3161650"
+  "ibge": "3161650",
+  "lat": -18.9101493,
+  "lon": -41.3633523
 }

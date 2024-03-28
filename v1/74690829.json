@@ -5,5 +5,7 @@
   "bairro": "Residencial Nossa Morada",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.5906647,
+  "lon": -49.2636998
 }

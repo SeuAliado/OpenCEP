@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carauari",
   "uf": "AM",
-  "ibge": "1301001"
+  "ibge": "1301001",
+  "lat": -4.8776702,
+  "lon": -66.8966113
 }

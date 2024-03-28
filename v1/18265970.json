@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Torre de Pedra",
   "uf": "SP",
-  "ibge": "3554656"
+  "ibge": "3554656",
+  "lat": -23.2472742,
+  "lon": -48.1927105
 }

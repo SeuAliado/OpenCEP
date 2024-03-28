@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bertópolis",
   "uf": "MG",
-  "ibge": "3106606"
+  "ibge": "3106606",
+  "lat": -16.9642193,
+  "lon": -40.5737316
 }

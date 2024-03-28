@@ -5,5 +5,7 @@
   "bairro": "Jardim Continental",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8973143,
+  "lon": -48.4958296
 }

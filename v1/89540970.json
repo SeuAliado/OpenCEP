@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cecília",
   "uf": "SC",
-  "ibge": "4215505"
+  "ibge": "4215505",
+  "lat": -26.9670662,
+  "lon": -50.4256581
 }

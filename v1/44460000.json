@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaparica",
   "uf": "BA",
-  "ibge": "2916104"
+  "ibge": "2916104",
+  "lat": -12.8889337,
+  "lon": -38.6796352
 }

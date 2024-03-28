@@ -5,5 +5,7 @@
   "bairro": "Cajueiro",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3532762,
+  "lon": -39.3067425
 }

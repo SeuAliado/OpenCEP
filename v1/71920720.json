@@ -5,5 +5,7 @@
   "bairro": "Norte (Águas Claras)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8353095,
+  "lon": -48.0122671
 }

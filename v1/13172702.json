@@ -5,5 +5,7 @@
   "bairro": "Jardim Consteca",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8184938,
+  "lon": -47.2926606
 }

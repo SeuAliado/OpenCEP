@@ -5,5 +5,7 @@
   "bairro": "Porto Velho do Cunha",
   "localidade": "Carmo",
   "uf": "RJ",
-  "ibge": "3301207"
+  "ibge": "3301207",
+  "lat": -21.8312866,
+  "lon": -42.5469682
 }

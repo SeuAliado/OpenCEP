@@ -5,5 +5,7 @@
   "bairro": "Oxford",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "lat": -26.2125171,
+  "lon": -49.4087645
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Rosas",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5794098,
+  "lon": -48.0458705
 }

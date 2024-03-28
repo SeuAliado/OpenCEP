@@ -5,5 +5,7 @@
   "bairro": "Abaeté dos Mendes",
   "localidade": "Rio Paranaíba",
   "uf": "MG",
-  "ibge": "3155504"
+  "ibge": "3155504",
+  "lat": -19.145051,
+  "lon": -46.1219753
 }

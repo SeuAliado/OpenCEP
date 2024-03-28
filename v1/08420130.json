@@ -5,5 +5,7 @@
   "bairro": "Jardim Helena",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5400321,
+  "lon": -46.4294169
 }

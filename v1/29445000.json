@@ -5,5 +5,7 @@
   "bairro": "Dona América",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "lat": -21.1604257,
+  "lon": -41.4107183
 }

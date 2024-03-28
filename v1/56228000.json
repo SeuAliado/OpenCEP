@@ -5,5 +5,7 @@
   "bairro": "Feitoria",
   "localidade": "Bodocó",
   "uf": "PE",
-  "ibge": "2602001"
+  "ibge": "2602001",
+  "lat": -7.7783841,
+  "lon": -39.9421998
 }

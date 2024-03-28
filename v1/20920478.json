@@ -5,5 +5,7 @@
   "bairro": "Vasco da Gama",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8890406,
+  "lon": -43.2288421
 }

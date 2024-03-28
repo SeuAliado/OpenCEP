@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pequi",
   "uf": "MG",
-  "ibge": "3149606"
+  "ibge": "3149606",
+  "lat": -19.6284029,
+  "lon": -44.6640559
 }

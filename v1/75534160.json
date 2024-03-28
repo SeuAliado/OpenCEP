@@ -5,5 +5,7 @@
   "bairro": "Jardim Leonora",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "lat": -18.4210362,
+  "lon": -49.2427318
 }

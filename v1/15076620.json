@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Tancredo Neves",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "lat": -20.8360096,
+  "lon": -49.355252
 }

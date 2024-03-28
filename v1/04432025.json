@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.1939051,
+  "lon": -45.8660448
 }

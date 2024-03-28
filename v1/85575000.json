@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Jorge D'Oeste",
   "uf": "PR",
-  "ibge": "4125209"
+  "ibge": "4125209",
+  "lat": -25.6666474,
+  "lon": -52.9385002
 }

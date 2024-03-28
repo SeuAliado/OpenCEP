@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.9722642,
+  "lon": -46.5341852
 }

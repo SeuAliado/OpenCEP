@@ -5,5 +5,7 @@
   "bairro": "Jaguari",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4905011,
+  "lon": -46.3110222
 }

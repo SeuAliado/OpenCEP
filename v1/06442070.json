@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.51386,
+  "lon": -46.8787454
 }

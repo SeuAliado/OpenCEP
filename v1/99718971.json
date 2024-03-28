@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulo Bento",
   "uf": "RS",
-  "ibge": "4314134"
+  "ibge": "4314134",
+  "lat": -27.7068605,
+  "lon": -52.4210467
 }

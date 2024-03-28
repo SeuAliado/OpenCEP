@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagarto",
   "uf": "SE",
-  "ibge": "2803500"
+  "ibge": "2803500",
+  "lat": -10.9160322,
+  "lon": -37.6717255
 }

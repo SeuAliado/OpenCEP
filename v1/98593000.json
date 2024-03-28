@@ -5,5 +5,7 @@
   "bairro": "Pedro Paiva",
   "localidade": "Santo Augusto",
   "uf": "RS",
-  "ibge": "4317806"
+  "ibge": "4317806",
+  "lat": -27.8130985,
+  "lon": -53.7809787
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "lat": -29.7739173,
+  "lon": -55.7857803
 }

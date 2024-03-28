@@ -5,5 +5,7 @@
   "bairro": "Curral Velho",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "lat": -5.0540174,
+  "lon": -40.7089599
 }

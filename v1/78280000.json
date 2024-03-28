@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mirassol D'Oeste",
   "uf": "MT",
-  "ibge": "5105622"
+  "ibge": "5105622",
+  "lat": -15.6767058,
+  "lon": -58.0929375
 }

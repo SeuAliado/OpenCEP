@@ -5,5 +5,7 @@
   "bairro": "Setor Geda",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.9050759,
+  "lon": -51.7160029
 }

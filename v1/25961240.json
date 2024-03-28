@@ -5,5 +5,7 @@
   "bairro": "Parque do Ingá",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "lat": -22.439306,
+  "lon": -42.991581
 }

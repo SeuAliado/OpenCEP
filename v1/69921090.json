@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9407468,
+  "lon": -67.827846
 }

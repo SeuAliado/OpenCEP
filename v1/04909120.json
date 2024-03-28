@@ -5,5 +5,7 @@
   "bairro": "Jardim Alfredo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6805043,
+  "lon": -46.736662
 }

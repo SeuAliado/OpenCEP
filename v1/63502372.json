@@ -5,5 +5,7 @@
   "bairro": "Alto do Jucá",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3738394,
+  "lon": -39.2974107
 }

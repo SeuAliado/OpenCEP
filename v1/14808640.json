@@ -5,5 +5,7 @@
   "bairro": "Jardim Marialice",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.6073259,
+  "lon": -48.3583951
 }

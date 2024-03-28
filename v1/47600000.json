@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bom Jesus da Lapa",
   "uf": "BA",
-  "ibge": "2903904"
+  "ibge": "2903904",
+  "lat": -13.2521231,
+  "lon": -43.4172303
 }

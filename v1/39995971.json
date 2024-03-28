@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Divisa Alegre",
   "uf": "MG",
-  "ibge": "3122355"
+  "ibge": "3122355",
+  "lat": -15.7185642,
+  "lon": -41.3406774
 }

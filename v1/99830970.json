@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gaurama",
   "uf": "RS",
-  "ibge": "4308706"
+  "ibge": "4308706",
+  "lat": -27.5859963,
+  "lon": -52.0905299
 }

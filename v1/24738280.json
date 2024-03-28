@@ -5,5 +5,7 @@
   "bairro": "Eliane",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8458185,
+  "lon": -42.9568213
 }

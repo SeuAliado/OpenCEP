@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmeirândia",
   "uf": "MA",
-  "ibge": "2107605"
+  "ibge": "2107605",
+  "lat": -2.6449826,
+  "lon": -44.8936995
 }

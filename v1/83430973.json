@@ -5,5 +5,7 @@
   "bairro": "Jardim Araçatuba",
   "localidade": "Campina Grande do Sul",
   "uf": "PR",
-  "ibge": "4104006"
+  "ibge": "4104006",
+  "lat": -25.3363608,
+  "lon": -49.0791596
 }

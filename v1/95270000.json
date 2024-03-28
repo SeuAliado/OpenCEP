@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Flores da Cunha",
   "uf": "RS",
-  "ibge": "4308201"
+  "ibge": "4308201",
+  "lat": -29.0293699,
+  "lon": -51.1814301
 }

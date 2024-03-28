@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Santo",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.5898487,
+  "lon": -47.9772451
 }

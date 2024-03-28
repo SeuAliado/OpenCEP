@@ -5,5 +5,7 @@
   "bairro": "Jardim Amazonas",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4470801,
+  "lon": -46.3023038
 }

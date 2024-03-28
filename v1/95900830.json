@@ -5,5 +5,7 @@
   "bairro": "Moinhos",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4651089,
+  "lon": -51.9780074
 }

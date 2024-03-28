@@ -5,5 +5,7 @@
   "bairro": "Das Graças",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7571279,
+  "lon": -43.3961338
 }

@@ -5,5 +5,7 @@
   "bairro": "Distritos",
   "localidade": "Bananeiras",
   "uf": "PB",
-  "ibge": "2501500"
+  "ibge": "2501500",
+  "lat": -6.6956612,
+  "lon": -35.6364584
 }

@@ -5,5 +5,7 @@
   "bairro": "Olaria",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "lat": -29.9410564,
+  "lon": -51.1768189
 }

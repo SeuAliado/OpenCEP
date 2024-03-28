@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6836704,
+  "lon": -46.5039567
 }

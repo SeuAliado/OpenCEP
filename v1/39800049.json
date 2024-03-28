@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8611212,
+  "lon": -41.5040495
 }

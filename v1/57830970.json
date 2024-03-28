@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Branquinha",
   "uf": "AL",
-  "ibge": "2701100"
+  "ibge": "2701100",
+  "lat": -9.2476287,
+  "lon": -36.0166525
 }

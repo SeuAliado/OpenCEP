@@ -5,5 +5,7 @@
   "bairro": "Setor Lago dos Buritis",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2758445,
+  "lon": -48.9774012
 }

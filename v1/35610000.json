@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dores do Indaiá",
   "uf": "MG",
-  "ibge": "3123205"
+  "ibge": "3123205",
+  "lat": -19.4608252,
+  "lon": -45.596316
 }

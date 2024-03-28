@@ -5,5 +5,7 @@
   "bairro": "Loteamento Conjunto Habitacional Antônio Assad Alcici",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4230599,
+  "lon": -46.8315649
 }

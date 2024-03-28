@@ -5,5 +5,7 @@
   "bairro": "Vila Bonança",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6144571,
+  "lon": -43.2861732
 }

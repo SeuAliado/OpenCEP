@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio da Prata",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7570767,
+  "lon": -43.4138292
 }

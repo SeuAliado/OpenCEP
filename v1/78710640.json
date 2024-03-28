@@ -5,5 +5,7 @@
   "bairro": "Vila Planalto",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4558395,
+  "lon": -54.6351495
 }

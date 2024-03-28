@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Santa Rosa",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5266771,
+  "lon": -47.3501583
 }

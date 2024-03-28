@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Xavantina",
   "uf": "SC",
-  "ibge": "4219606"
+  "ibge": "4219606",
+  "lat": -27.0671871,
+  "lon": -52.3435007
 }

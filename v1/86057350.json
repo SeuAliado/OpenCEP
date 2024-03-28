@@ -5,5 +5,7 @@
   "bairro": "Gleba Fazenda Palhano",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.313756,
+  "lon": -51.2137635
 }

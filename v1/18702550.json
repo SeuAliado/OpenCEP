@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Elizabeth IV",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1094743,
+  "lon": -48.9018658
 }

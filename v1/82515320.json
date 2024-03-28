@@ -5,5 +5,7 @@
   "bairro": "Bacacheri",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.3943364,
+  "lon": -49.2333261
 }

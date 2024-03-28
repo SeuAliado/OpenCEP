@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Irerê",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6049172,
+  "lon": -48.7997611
 }

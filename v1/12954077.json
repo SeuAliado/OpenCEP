@@ -5,5 +5,7 @@
   "bairro": "Estância Parque de Atibaia",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.0998696,
+  "lon": -46.5515302
 }

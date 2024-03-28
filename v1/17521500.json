@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Paula",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2516353,
+  "lon": -49.9174446
 }

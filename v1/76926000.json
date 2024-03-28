@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mirante da Serra",
   "uf": "RO",
-  "ibge": "1101302"
+  "ibge": "1101302",
+  "lat": -11.0289123,
+  "lon": -62.6714775
 }

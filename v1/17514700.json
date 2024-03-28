@@ -5,5 +5,7 @@
   "bairro": "Jardim São Domingos",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1835923,
+  "lon": -49.9226279
 }

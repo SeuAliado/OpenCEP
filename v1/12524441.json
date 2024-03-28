@@ -5,5 +5,7 @@
   "bairro": "Residencial Shangri-La",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -21.1429235,
+  "lon": -48.9913606
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.508764,
+  "lon": -42.6228506
 }

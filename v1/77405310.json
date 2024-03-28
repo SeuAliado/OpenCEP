@@ -5,5 +5,7 @@
   "bairro": "Setor União II",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7272691,
+  "lon": -49.089873
 }

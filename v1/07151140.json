@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4097362,
+  "lon": -46.4546783
 }

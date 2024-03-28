@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Suzanápolis",
   "uf": "SP",
-  "ibge": "3552551"
+  "ibge": "3552551",
+  "lat": -20.4753263,
+  "lon": -51.0749483
 }

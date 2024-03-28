@@ -5,5 +5,7 @@
   "bairro": "Poço Fundo",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "lat": -22.8644655,
+  "lon": -42.1064703
 }

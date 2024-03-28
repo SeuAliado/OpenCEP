@@ -5,5 +5,7 @@
   "bairro": "Quilômetro Vinte",
   "localidade": "Boa Esperança",
   "uf": "ES",
-  "ibge": "3201001"
+  "ibge": "3201001",
+  "lat": -18.4873778,
+  "lon": -40.3966649
 }

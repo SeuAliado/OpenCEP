@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Antonio da Cascatinha (Rubião Junior)",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8971383,
+  "lon": -48.4915899
 }

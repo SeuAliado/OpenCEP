@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio do Itambé",
   "uf": "MG",
-  "ibge": "3160207"
+  "ibge": "3160207",
+  "lat": -18.4614216,
+  "lon": -43.300973
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Angélica",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.2063818,
+  "lon": -46.8808416
 }

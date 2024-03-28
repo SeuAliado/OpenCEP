@@ -5,5 +5,7 @@
   "bairro": "Tiarajú",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3544818,
+  "lon": -54.1166699
 }

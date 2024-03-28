@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Aprazível",
   "uf": "SP",
-  "ibge": "3531407"
+  "ibge": "3531407",
+  "lat": -23.1586183,
+  "lon": -45.8938845
 }

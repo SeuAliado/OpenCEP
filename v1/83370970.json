@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antonina",
   "uf": "PR",
-  "ibge": "4101200"
+  "ibge": "4101200",
+  "lat": -25.4790026,
+  "lon": -48.8316481
 }

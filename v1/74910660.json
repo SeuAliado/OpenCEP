@@ -5,5 +5,7 @@
   "bairro": "Villasul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7374819,
+  "lon": -49.249727
 }

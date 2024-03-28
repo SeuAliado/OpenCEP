@@ -5,5 +5,7 @@
   "bairro": "Casas Populares",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "lat": -23.1291148,
+  "lon": -46.5870373
 }

@@ -5,5 +5,7 @@
   "bairro": "Panorama Parque",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.381361,
+  "lon": -49.0803039
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Esperança II",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8273669,
+  "lon": -47.1735392
 }

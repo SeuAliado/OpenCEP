@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tabocão",
   "uf": "TO",
-  "ibge": "1708254"
+  "ibge": "1708254",
+  "lat": -9.0568395,
+  "lon": -48.5210976
 }

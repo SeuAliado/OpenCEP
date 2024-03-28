@@ -5,5 +5,7 @@
   "bairro": "Movelar",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.3603854,
+  "lon": -40.064367
 }

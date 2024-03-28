@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaçuano",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3149131,
+  "lon": -46.9516553
 }

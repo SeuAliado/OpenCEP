@@ -5,5 +5,7 @@
   "bairro": "Alto São Sebastião",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.5175032,
+  "lon": -48.5171597
 }

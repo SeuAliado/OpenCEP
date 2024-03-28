@@ -5,5 +5,7 @@
   "bairro": "Jardim José Ometto V",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3624327,
+  "lon": -47.3339737
 }

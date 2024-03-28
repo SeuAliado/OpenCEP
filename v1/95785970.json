@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Harmonia",
   "uf": "RS",
-  "ibge": "4309555"
+  "ibge": "4309555",
+  "lat": -29.333595,
+  "lon": -53.0853785
 }

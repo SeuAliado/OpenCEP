@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus do Tocantins",
   "uf": "PA",
-  "ibge": "1501576"
+  "ibge": "1501576",
+  "lat": -5.0445172,
+  "lon": -48.5969045
 }

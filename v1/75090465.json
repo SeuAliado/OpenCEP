@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera 2ª Etapa",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3068569,
+  "lon": -48.898738
 }

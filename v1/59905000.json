@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Encanto",
   "uf": "RN",
-  "ibge": "2403301"
+  "ibge": "2403301",
+  "lat": -6.1416101,
+  "lon": -38.29549
 }

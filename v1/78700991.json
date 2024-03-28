@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.5639077,
+  "lon": -54.3023003
 }

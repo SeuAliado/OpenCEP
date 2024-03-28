@@ -5,5 +5,7 @@
   "bairro": "Carajá",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "lat": -30.8568449,
+  "lon": -55.4940767
 }

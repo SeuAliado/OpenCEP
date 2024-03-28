@@ -5,5 +5,7 @@
   "bairro": "Jardim Império",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.763704,
+  "lon": -43.4236868
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Sul",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.686458,
+  "lon": -49.2563753
 }

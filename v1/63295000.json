@@ -5,5 +5,7 @@
   "bairro": "Jardimirim",
   "localidade": "Jardim",
   "uf": "CE",
-  "ibge": "2307106"
+  "ibge": "2307106",
+  "lat": -7.5911943,
+  "lon": -39.2010547
 }

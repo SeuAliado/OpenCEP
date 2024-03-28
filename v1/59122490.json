@@ -5,5 +5,7 @@
   "bairro": "Redinha",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.7536464,
+  "lon": -35.22923
 }

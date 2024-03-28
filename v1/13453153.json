@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional 31 de Março (COHAB)",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7387414,
+  "lon": -47.4032769
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Continental",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7992469,
+  "lon": -49.1896283
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Piazza di Roma",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5140755,
+  "lon": -47.5135561
 }

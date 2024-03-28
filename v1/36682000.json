@@ -5,5 +5,7 @@
   "bairro": "Roça Grande",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "lat": -21.5753135,
+  "lon": -42.9698771
 }

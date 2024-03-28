@@ -5,5 +5,7 @@
   "bairro": "Itaqui",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "lat": -23.5510974,
+  "lon": -46.9383623
 }

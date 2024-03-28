@@ -5,5 +5,7 @@
   "bairro": "Alto Boqueirão",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.545661,
+  "lon": -49.2355123
 }

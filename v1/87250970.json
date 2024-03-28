@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Peabiru",
   "uf": "PR",
-  "ibge": "4118808"
+  "ibge": "4118808",
+  "lat": -23.9179479,
+  "lon": -52.3371369
 }

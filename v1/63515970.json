@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quixelô",
   "uf": "CE",
-  "ibge": "2311355"
+  "ibge": "2311355",
+  "lat": -6.3568476,
+  "lon": -39.2926008
 }

@@ -5,5 +5,7 @@
   "bairro": "Arco Íris",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "lat": -28.6212963,
+  "lon": -53.609206
 }

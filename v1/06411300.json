@@ -5,5 +5,7 @@
   "bairro": "Jardim Barueri",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.4994679,
+  "lon": -46.8759003
 }

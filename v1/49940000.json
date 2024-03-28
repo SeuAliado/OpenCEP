@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Malhada dos Bois",
   "uf": "SE",
-  "ibge": "2803807"
+  "ibge": "2803807",
+  "lat": -10.3242015,
+  "lon": -36.9433591
 }

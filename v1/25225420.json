@@ -5,5 +5,7 @@
   "bairro": "Campos Elíseos",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.6999102,
+  "lon": -43.2739665
 }

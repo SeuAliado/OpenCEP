@@ -5,5 +5,7 @@
   "bairro": "Tindiquera",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -25.5885008,
+  "lon": -49.378543
 }

@@ -5,5 +5,7 @@
   "bairro": "Saraiva",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9313731,
+  "lon": -48.2894354
 }

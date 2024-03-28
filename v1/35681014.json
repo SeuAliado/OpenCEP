@@ -5,5 +5,7 @@
   "bairro": "Garcias",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0943667,
+  "lon": -44.6061807
 }

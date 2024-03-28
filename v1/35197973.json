@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus do Bagre",
   "localidade": "Belo Oriente",
   "uf": "MG",
-  "ibge": "3106309"
+  "ibge": "3106309",
+  "lat": -19.3089055,
+  "lon": -42.5135271
 }

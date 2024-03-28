@@ -5,5 +5,7 @@
   "bairro": "Vila Bressani",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7696766,
+  "lon": -47.1453565
 }

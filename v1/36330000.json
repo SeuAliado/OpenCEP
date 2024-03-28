@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coronel Xavier Chaves",
   "uf": "MG",
-  "ibge": "3119708"
+  "ibge": "3119708",
+  "lat": -21.0235012,
+  "lon": -44.2232491
 }

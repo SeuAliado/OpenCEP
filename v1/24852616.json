@@ -5,5 +5,7 @@
   "bairro": "São José (Cabuçu)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.8372468,
+  "lon": -42.8832842
 }

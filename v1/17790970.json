@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pracinha",
   "uf": "SP",
-  "ibge": "3540853"
+  "ibge": "3540853",
+  "lat": -21.8535154,
+  "lon": -51.0889284
 }

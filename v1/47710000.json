@@ -5,5 +5,7 @@
   "bairro": "Porto Novo",
   "localidade": "Santana",
   "uf": "BA",
-  "ibge": "2928208"
+  "ibge": "2928208",
+  "lat": -12.9842696,
+  "lon": -44.0536658
 }

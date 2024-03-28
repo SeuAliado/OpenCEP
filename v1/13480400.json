@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Flora",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.5846099,
+  "lon": -47.4004417
 }

@@ -5,5 +5,7 @@
   "bairro": "Joselândia",
   "localidade": "Santana dos Montes",
   "uf": "MG",
-  "ibge": "3159100"
+  "ibge": "3159100",
+  "lat": -20.786634,
+  "lon": -43.5849579
 }

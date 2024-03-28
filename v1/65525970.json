@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anapurus",
   "uf": "MA",
-  "ibge": "2100808"
+  "ibge": "2100808",
+  "lat": -3.6706012,
+  "lon": -43.1149041
 }

@@ -5,5 +5,7 @@
   "bairro": "Umburanas",
   "localidade": "Sertânia",
   "uf": "PE",
-  "ibge": "2614105"
+  "ibge": "2614105",
+  "lat": -8.0705767,
+  "lon": -37.262804
 }

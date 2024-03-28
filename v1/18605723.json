@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Engenheiro Francisco Blasi",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9221293,
+  "lon": -48.4454529
 }

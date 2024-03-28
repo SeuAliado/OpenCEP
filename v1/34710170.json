@@ -5,5 +5,7 @@
   "bairro": "Ana Lúcia",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8772435,
+  "lon": -43.9037391
 }

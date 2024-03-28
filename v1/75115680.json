@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3479197,
+  "lon": -48.9435581
 }

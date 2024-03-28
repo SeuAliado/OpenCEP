@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Flores do Piauí",
   "uf": "PI",
-  "ibge": "2203800"
+  "ibge": "2203800",
+  "lat": -7.7926401,
+  "lon": -42.92589
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Melliani",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.5039209,
+  "lon": -46.5488811
 }

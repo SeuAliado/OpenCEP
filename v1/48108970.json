@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araçás",
   "uf": "BA",
-  "ibge": "2902054"
+  "ibge": "2902054",
+  "lat": -12.210256,
+  "lon": -38.2001089
 }

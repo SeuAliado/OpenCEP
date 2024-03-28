@@ -5,5 +5,7 @@
   "bairro": "Cordovil",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8118238,
+  "lon": -43.287107
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto João de Barro I",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "lat": -23.4583866,
+  "lon": -51.9299535
 }

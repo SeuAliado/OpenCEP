@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "lat": -22.7271204,
+  "lon": -47.6368527
 }

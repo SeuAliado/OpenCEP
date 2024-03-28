@@ -5,5 +5,7 @@
   "bairro": "Recreio dos Bandeirantes",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -23.0286121,
+  "lon": -43.4718657
 }

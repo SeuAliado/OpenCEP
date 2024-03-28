@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chopinzinho",
   "uf": "PR",
-  "ibge": "4105409"
+  "ibge": "4105409",
+  "lat": -25.861046,
+  "lon": -52.5291425
 }

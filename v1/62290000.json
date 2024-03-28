@@ -5,5 +5,7 @@
   "bairro": "Areial",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "lat": -9.9706273,
+  "lon": -67.8151619
 }

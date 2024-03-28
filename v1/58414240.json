@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.214726,
+  "lon": -35.8955291
 }

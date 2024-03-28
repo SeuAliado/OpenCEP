@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coité do Nóia",
   "uf": "AL",
-  "ibge": "2702009"
+  "ibge": "2702009",
+  "lat": -9.6333241,
+  "lon": -36.5806118
 }

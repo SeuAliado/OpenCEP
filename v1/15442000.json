@@ -5,5 +5,7 @@
   "bairro": "Mangaratú",
   "localidade": "Nova Granada",
   "uf": "SP",
-  "ibge": "3533007"
+  "ibge": "3533007",
+  "lat": -21.6213809,
+  "lon": -55.1566268
 }

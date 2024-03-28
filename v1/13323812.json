@@ -5,5 +5,7 @@
   "bairro": "Jardim Soberano",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.220043,
+  "lon": -47.2730051
 }

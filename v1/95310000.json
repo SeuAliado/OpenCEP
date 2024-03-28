@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "André da Rocha",
   "uf": "RS",
-  "ibge": "4300661"
+  "ibge": "4300661",
+  "lat": -28.628789,
+  "lon": -51.580237
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jardim Alegre",
   "uf": "PR",
-  "ibge": "4112504"
+  "ibge": "4112504",
+  "lat": -24.1819793,
+  "lon": -51.6927024
 }

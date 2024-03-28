@@ -5,5 +5,7 @@
   "bairro": "Vila Pereira",
   "localidade": "Nanuque",
   "uf": "MG",
-  "ibge": "3144300"
+  "ibge": "3144300",
+  "lat": -17.980361,
+  "lon": -40.7605893
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Divinolândia de Minas",
   "uf": "MG",
-  "ibge": "3122207"
+  "ibge": "3122207",
+  "lat": -21.6606509,
+  "lon": -46.7417868
 }

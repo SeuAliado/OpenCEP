@@ -5,5 +5,7 @@
   "bairro": "Beira do Rio",
   "localidade": "Bom Retiro do Sul",
   "uf": "RS",
-  "ibge": "4302402"
+  "ibge": "4302402",
+  "lat": -30.0047241,
+  "lon": -52.9170525
 }

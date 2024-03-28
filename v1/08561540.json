@@ -5,5 +5,7 @@
   "bairro": "Calmon Viana",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.531211,
+  "lon": -46.3397179
 }

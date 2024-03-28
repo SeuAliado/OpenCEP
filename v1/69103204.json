@@ -5,5 +5,7 @@
   "bairro": "Tiradentes",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "lat": -3.1349262,
+  "lon": -58.4470774
 }

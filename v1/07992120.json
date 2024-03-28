@@ -5,5 +5,7 @@
   "bairro": "Jardim Olga",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2873209,
+  "lon": -46.7312199
 }

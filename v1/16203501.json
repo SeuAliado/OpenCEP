@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.3072438,
+  "lon": -50.3219466
 }

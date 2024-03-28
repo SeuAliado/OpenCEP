@@ -5,5 +5,7 @@
   "bairro": "Jardim Morada dos Bandeirantes",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.457736,
+  "lon": -54.6367331
 }

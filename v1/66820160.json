@@ -5,5 +5,7 @@
   "bairro": "Tenoné",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3203487,
+  "lon": -48.4409233
 }

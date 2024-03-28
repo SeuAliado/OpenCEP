@@ -5,5 +5,7 @@
   "bairro": "Funchal",
   "localidade": "São Gotardo",
   "uf": "MG",
-  "ibge": "3162104"
+  "ibge": "3162104",
+  "lat": -19.3067672,
+  "lon": -46.0647094
 }

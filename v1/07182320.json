@@ -5,5 +5,7 @@
   "bairro": "Sítio dos Britos",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.442314,
+  "lon": -46.4622672
 }

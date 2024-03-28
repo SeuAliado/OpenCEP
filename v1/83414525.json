@@ -5,5 +5,7 @@
   "bairro": "Butiatumirim",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.2842651,
+  "lon": -49.2157453
 }

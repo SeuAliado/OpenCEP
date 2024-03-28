@@ -5,5 +5,7 @@
   "bairro": "Serrano",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8826795,
+  "lon": -44.0073304
 }

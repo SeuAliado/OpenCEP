@@ -5,5 +5,7 @@
   "bairro": "Areado",
   "localidade": "São Gabriel do Oeste",
   "uf": "MS",
-  "ibge": "5007695"
+  "ibge": "5007695",
+  "lat": -19.2748559,
+  "lon": -54.327131
 }

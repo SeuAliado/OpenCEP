@@ -5,5 +5,7 @@
   "bairro": "Vila Adelina",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5479852,
+  "lon": -46.3122597
 }

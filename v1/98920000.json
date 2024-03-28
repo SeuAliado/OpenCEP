@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Horizontina",
   "uf": "RS",
-  "ibge": "4309605"
+  "ibge": "4309605",
+  "lat": -27.6289678,
+  "lon": -54.3110027
 }

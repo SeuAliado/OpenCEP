@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fátima",
   "uf": "BA",
-  "ibge": "2910750"
+  "ibge": "2910750",
+  "lat": -14.7801262,
+  "lon": -39.278076
 }

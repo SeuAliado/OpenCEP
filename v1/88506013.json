@@ -5,5 +5,7 @@
   "bairro": "Guadalupe",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "lat": -27.8108155,
+  "lon": -50.3300426
 }

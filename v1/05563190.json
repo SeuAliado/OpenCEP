@@ -5,5 +5,7 @@
   "bairro": "Raposo Tavares",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6030288,
+  "lon": -46.7810951
 }

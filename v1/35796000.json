@@ -5,5 +5,7 @@
   "bairro": "Maria Amália",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "lat": -18.7276018,
+  "lon": -44.3587866
 }

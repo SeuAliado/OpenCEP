@@ -5,5 +5,7 @@
   "bairro": "Jardim Corcovado",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.2001438,
+  "lon": -46.7749234
 }

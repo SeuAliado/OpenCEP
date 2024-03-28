@@ -5,5 +5,7 @@
   "bairro": "Itapocu",
   "localidade": "Araquari",
   "uf": "SC",
-  "ibge": "4201307"
+  "ibge": "4201307",
+  "lat": -26.5706529,
+  "lon": -48.6875911
 }

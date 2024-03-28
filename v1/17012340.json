@@ -5,5 +5,7 @@
   "bairro": "Vila Guedes de Azevedo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3373635,
+  "lon": -49.0647763
 }

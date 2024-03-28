@@ -5,5 +5,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "lat": -28.9941262,
+  "lon": -49.5440538
 }

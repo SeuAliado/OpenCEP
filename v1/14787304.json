@@ -5,5 +5,7 @@
   "bairro": "Jockey Club",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5476155,
+  "lon": -48.5864622
 }

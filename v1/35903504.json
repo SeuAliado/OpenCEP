@@ -5,5 +5,7 @@
   "bairro": "Barro Branco",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6849977,
+  "lon": -43.2285916
 }

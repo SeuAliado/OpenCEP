@@ -5,5 +5,7 @@
   "bairro": "Parque dos Ipês III",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "lat": -22.4984709,
+  "lon": -55.7369996
 }

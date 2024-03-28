@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaguaçu II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -23.0270611,
+  "lon": -47.1207109
 }

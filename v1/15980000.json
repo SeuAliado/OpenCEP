@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dobrada",
   "uf": "SP",
-  "ibge": "3514007"
+  "ibge": "3514007",
+  "lat": -21.518365,
+  "lon": -48.3489356
 }

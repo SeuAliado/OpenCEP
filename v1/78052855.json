@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Canaã",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.5558,
+  "lon": -56.0186732
 }

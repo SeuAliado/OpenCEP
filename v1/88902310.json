@@ -5,5 +5,7 @@
   "bairro": "Polícia Rodoviária",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "lat": -28.9698607,
+  "lon": -49.5246432
 }

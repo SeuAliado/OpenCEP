@@ -5,5 +5,7 @@
   "bairro": "Itapeim",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "lat": -4.3586135,
+  "lon": -38.1160458
 }

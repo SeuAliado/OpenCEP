@@ -5,5 +5,7 @@
   "bairro": "Vitória II",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8898377,
+  "lon": -48.4527195
 }

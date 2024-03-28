@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Conquista D'Oeste",
   "uf": "MT",
-  "ibge": "5103361"
+  "ibge": "5103361",
+  "lat": -14.7464099,
+  "lon": -59.3800105
 }

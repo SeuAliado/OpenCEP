@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaú do Tocantins",
   "uf": "TO",
-  "ibge": "1711506"
+  "ibge": "1711506",
+  "lat": -12.7819055,
+  "lon": -48.6388879
 }

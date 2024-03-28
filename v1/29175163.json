@@ -5,5 +5,7 @@
   "bairro": "Costa Dourada",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1382834,
+  "lon": -40.1978038
 }

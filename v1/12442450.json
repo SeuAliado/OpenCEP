@@ -5,5 +5,7 @@
   "bairro": "Jardim Regina (Moreira César)",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9437351,
+  "lon": -45.3763817
 }

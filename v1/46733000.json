@@ -5,5 +5,7 @@
   "bairro": "Brejo Luíza de Brito",
   "localidade": "Novo Horizonte",
   "uf": "BA",
-  "ibge": "2923035"
+  "ibge": "2923035",
+  "lat": -12.7675687,
+  "lon": -42.0568841
 }

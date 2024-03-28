@@ -5,5 +5,7 @@
   "bairro": "Cachoeirinha",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.8841829,
+  "lon": -43.9463835
 }

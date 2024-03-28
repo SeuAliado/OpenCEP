@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lucena",
   "uf": "PB",
-  "ibge": "2508604"
+  "ibge": "2508604",
+  "lat": -6.9029848,
+  "lon": -34.8750825
 }

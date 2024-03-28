@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Isabel",
   "uf": "SP",
-  "ibge": "3546801"
+  "ibge": "3546801",
+  "lat": -23.3174578,
+  "lon": -46.2257372
 }

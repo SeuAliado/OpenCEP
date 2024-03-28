@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Santa Rita",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.3211627,
+  "lon": -48.9420697
 }

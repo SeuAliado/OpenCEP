@@ -5,5 +5,7 @@
   "bairro": "São Raimundo de Borralhos",
   "localidade": "Santo Antônio do Tauá",
   "uf": "PA",
-  "ibge": "1507003"
+  "ibge": "1507003",
+  "lat": -1.0227238,
+  "lon": -48.240165
 }

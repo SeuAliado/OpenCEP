@@ -5,5 +5,7 @@
   "bairro": "Conjunto Morada do Sol",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -17.7899456,
+  "lon": -50.9475792
 }

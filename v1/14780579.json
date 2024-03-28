@@ -5,5 +5,7 @@
   "bairro": "Marília",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.550129,
+  "lon": -48.5868992
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Limeira Área VI",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "lat": -24.3097114,
+  "lon": -50.6617459
 }

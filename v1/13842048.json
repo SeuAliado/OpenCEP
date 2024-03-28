@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Madalena",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3809018,
+  "lon": -46.9268286
 }

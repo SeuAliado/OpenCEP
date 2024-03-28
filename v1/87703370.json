@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "lat": -23.0733814,
+  "lon": -52.4645901
 }

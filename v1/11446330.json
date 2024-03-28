@@ -5,5 +5,7 @@
   "bairro": "Balneario Praia do Perequê",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9289451,
+  "lon": -46.1858511
 }

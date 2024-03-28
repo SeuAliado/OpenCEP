@@ -5,5 +5,7 @@
   "bairro": "Nova Petrópolis",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caiçara",
   "uf": "RS",
-  "ibge": "4303400"
+  "ibge": "4303400",
+  "lat": -29.7393259,
+  "lon": -52.4386849
 }

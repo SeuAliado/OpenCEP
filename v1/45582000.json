@@ -5,5 +5,7 @@
   "bairro": "Algodão",
   "localidade": "Ibirataia",
   "uf": "BA",
-  "ibge": "2912905"
+  "ibge": "2912905",
+  "lat": -14.072575,
+  "lon": -39.6407763
 }

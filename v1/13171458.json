@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Ravagnani",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.837306,
+  "lon": -47.2731469
 }

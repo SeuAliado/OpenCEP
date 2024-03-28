@@ -5,5 +5,7 @@
   "bairro": "Cascata",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.2159339,
+  "lon": -49.9413672
 }

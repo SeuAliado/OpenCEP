@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Cavati",
   "uf": "MG",
-  "ibge": "3122504"
+  "ibge": "3122504",
+  "lat": -21.7791205,
+  "lon": -43.3491058
 }

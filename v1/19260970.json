@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mirante do Paranapanema",
   "uf": "SP",
-  "ibge": "3530201"
+  "ibge": "3530201",
+  "lat": -22.2958456,
+  "lon": -51.9114479
 }

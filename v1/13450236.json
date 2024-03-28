@@ -5,5 +5,7 @@
   "bairro": "Vila Mac Knight",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7516984,
+  "lon": -47.4257951
 }

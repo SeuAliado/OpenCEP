@@ -5,5 +5,7 @@
   "bairro": "Caimbé",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "lat": 2.8296048,
+  "lon": -60.7164311
 }

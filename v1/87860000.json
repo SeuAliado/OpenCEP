@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Planaltina do Paraná",
   "uf": "PR",
-  "ibge": "4119707"
+  "ibge": "4119707",
+  "lat": -23.1208644,
+  "lon": -52.9814383
 }

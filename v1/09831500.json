@@ -5,5 +5,7 @@
   "bairro": "Dos Finco",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.7921373,
+  "lon": -46.5459788
 }

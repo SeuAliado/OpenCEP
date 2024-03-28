@@ -5,5 +5,7 @@
   "bairro": "Alfredo Guedes",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.6090804,
+  "lon": -48.7928881
 }

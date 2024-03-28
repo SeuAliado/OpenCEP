@@ -5,5 +5,7 @@
   "bairro": "Jardim Vinte e Cinco de Agosto",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.788714,
+  "lon": -43.3007703
 }

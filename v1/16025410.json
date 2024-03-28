@@ -5,5 +5,7 @@
   "bairro": "Jardim do Prado",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "lat": -21.2116524,
+  "lon": -50.464051
 }

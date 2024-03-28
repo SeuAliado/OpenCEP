@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7650167,
+  "lon": -47.9531205
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "lat": -24.7444305,
+  "lon": -53.7191305
 }

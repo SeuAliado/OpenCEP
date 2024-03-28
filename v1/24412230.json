@@ -5,5 +5,7 @@
   "bairro": "Sete Pontes",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8465547,
+  "lon": -43.0729863
 }

@@ -5,5 +5,7 @@
   "bairro": "Alcântara",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "lat": -22.8236965,
+  "lon": -42.997735
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Várzea da Roça",
   "uf": "BA",
-  "ibge": "2933059"
+  "ibge": "2933059",
+  "lat": -11.6081114,
+  "lon": -40.1363141
 }

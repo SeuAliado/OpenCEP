@@ -5,5 +5,7 @@
   "bairro": "Portais (Polvilho)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.4046343,
+  "lon": -46.8637722
 }

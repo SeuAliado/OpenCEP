@@ -5,5 +5,7 @@
   "bairro": "Agreste",
   "localidade": "Laranjal do Jari",
   "uf": "AP",
-  "ibge": "1600279"
+  "ibge": "1600279",
+  "lat": -0.8493897,
+  "lon": -52.530747
 }

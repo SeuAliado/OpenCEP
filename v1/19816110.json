@@ -5,5 +5,7 @@
   "bairro": "Alto dos Ipês",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.34447,
+  "lon": -46.9460063
 }

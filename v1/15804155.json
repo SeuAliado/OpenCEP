@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -22.286073,
+  "lon": -48.11871
 }

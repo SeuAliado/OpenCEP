@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade do Aço",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "lat": -22.5034583,
+  "lon": -44.1182822
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Costa Rica",
   "uf": "MS",
-  "ibge": "5003256"
+  "ibge": "5003256",
+  "lat": -18.543654,
+  "lon": -53.1292138
 }

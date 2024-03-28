@@ -5,5 +5,7 @@
   "bairro": "Cremação",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.4590077,
+  "lon": -48.4813161
 }

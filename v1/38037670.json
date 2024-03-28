@@ -5,5 +5,7 @@
   "bairro": "Conjunto Chica Ferreira",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7896093,
+  "lon": -47.9081142
 }

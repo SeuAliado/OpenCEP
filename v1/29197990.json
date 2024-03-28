@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8259553,
+  "lon": -40.0602881
 }

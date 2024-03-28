@@ -5,5 +5,7 @@
   "bairro": "Senhora de Fátima",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9397352,
+  "lon": -44.1729129
 }

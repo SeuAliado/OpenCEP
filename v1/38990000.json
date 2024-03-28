@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Córrego Danta",
   "uf": "MG",
-  "ibge": "3119807"
+  "ibge": "3119807",
+  "lat": -19.7844861,
+  "lon": -46.018188
 }

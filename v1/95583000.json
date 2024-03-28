@@ -5,5 +5,7 @@
   "bairro": "Morro Azul",
   "localidade": "Três Cachoeiras",
   "uf": "RS",
-  "ibge": "4321667"
+  "ibge": "4321667",
+  "lat": -29.4136905,
+  "lon": -49.9384494
 }

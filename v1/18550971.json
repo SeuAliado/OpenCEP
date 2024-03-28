@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Novo Mundo",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "lat": -23.2637086,
+  "lon": -47.6713882
 }

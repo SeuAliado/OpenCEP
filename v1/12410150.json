@@ -5,5 +5,7 @@
   "bairro": "Vila Bourghese",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9314683,
+  "lon": -45.4553195
 }

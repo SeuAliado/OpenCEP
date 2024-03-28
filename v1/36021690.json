@@ -5,5 +5,7 @@
   "bairro": "Mansões do Bom Pastor",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "lat": -21.7790176,
+  "lon": -43.3384029
 }

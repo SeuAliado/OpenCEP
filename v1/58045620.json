@@ -5,5 +5,7 @@
   "bairro": "Ponta do Seixas",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1555767,
+  "lon": -34.7945479
 }

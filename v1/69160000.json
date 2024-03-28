@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barreirinha",
   "uf": "AM",
-  "ibge": "1300508"
+  "ibge": "1300508",
+  "lat": -3.0793652,
+  "lon": -57.1915504
 }

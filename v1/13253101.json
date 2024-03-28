@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0114589,
+  "lon": -46.8270143
 }

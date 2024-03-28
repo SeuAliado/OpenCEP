@@ -5,5 +5,7 @@
   "bairro": "Janga",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "lat": -7.9371736,
+  "lon": -34.826024
 }

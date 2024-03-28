@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -20.027144,
+  "lon": -44.0489868
 }

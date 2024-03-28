@@ -5,5 +5,7 @@
   "bairro": "Jardim Veneza",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -21.981337,
+  "lon": -47.422118
 }

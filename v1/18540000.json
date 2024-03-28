@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "lat": -23.2103852,
+  "lon": -47.5247679
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Dalla Costa",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3894912,
+  "lon": -47.376719
 }

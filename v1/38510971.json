@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iraí de Minas",
   "uf": "MG",
-  "ibge": "3131604"
+  "ibge": "3131604",
+  "lat": -19.8677152,
+  "lon": -44.5863077
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.6022192,
+  "lon": -56.0589868
 }

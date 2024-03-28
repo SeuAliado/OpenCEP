@@ -5,5 +5,7 @@
   "bairro": "Setor Canaã",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -11.7184805,
+  "lon": -49.0690468
 }

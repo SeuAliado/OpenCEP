@@ -5,5 +5,7 @@
   "bairro": "Galeão",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.814459,
+  "lon": -43.2290595
 }

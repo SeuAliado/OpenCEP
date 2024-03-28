@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Lourenço do Oeste",
   "uf": "SC",
-  "ibge": "4216909"
+  "ibge": "4216909",
+  "lat": -26.3544977,
+  "lon": -52.8527323
 }

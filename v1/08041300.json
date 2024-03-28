@@ -5,5 +5,7 @@
   "bairro": "Vila Danubio Azul",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5204172,
+  "lon": -46.4420674
 }

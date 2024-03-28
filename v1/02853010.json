@@ -5,5 +5,7 @@
   "bairro": "Vila Teresinha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4579952,
+  "lon": -46.6942199
 }

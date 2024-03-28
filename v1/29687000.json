@@ -5,5 +5,7 @@
   "bairro": "Acioli",
   "localidade": "João Neiva",
   "uf": "ES",
-  "ibge": "3203130"
+  "ibge": "3203130",
+  "lat": -19.6579555,
+  "lon": -40.4653975
 }

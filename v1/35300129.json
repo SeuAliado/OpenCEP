@@ -5,5 +5,7 @@
   "bairro": "Maria da Glória",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "lat": -19.7980613,
+  "lon": -42.1498233
 }

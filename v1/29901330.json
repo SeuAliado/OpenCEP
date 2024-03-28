@@ -5,5 +5,7 @@
   "bairro": "Aviso",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "lat": -19.40489,
+  "lon": -40.056179
 }

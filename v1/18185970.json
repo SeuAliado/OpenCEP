@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Pilar do Sul",
   "uf": "SP",
-  "ibge": "3537909"
+  "ibge": "3537909",
+  "lat": -23.8128758,
+  "lon": -47.7190339
 }

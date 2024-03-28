@@ -5,5 +5,7 @@
   "bairro": "Carapina",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7216307,
+  "lon": -39.852481
 }

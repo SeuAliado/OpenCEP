@@ -5,5 +5,7 @@
   "bairro": "César de Pina",
   "localidade": "Tiradentes",
   "uf": "MG",
-  "ibge": "3168804"
+  "ibge": "3168804",
+  "lat": -21.071252,
+  "lon": -44.213469
 }

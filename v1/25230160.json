@@ -5,5 +5,7 @@
   "bairro": "Chácaras Rio-Petrópolis",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.701001,
+  "lon": -43.2923478
 }

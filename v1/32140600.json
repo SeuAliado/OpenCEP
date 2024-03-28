@@ -5,5 +5,7 @@
   "bairro": "Novo Progresso",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9022103,
+  "lon": -44.0301551
 }

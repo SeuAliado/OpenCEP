@@ -5,5 +5,7 @@
   "bairro": "Maria Paula",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8692145,
+  "lon": -43.0450335
 }

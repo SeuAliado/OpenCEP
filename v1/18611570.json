@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Nazaré",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8704875,
+  "lon": -48.4338129
 }

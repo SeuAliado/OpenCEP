@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Oeiras do Pará",
   "uf": "PA",
-  "ibge": "1505205"
+  "ibge": "1505205",
+  "lat": -2.0050578,
+  "lon": -49.8596059
 }

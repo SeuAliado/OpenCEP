@@ -5,5 +5,7 @@
   "bairro": "Estiva",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4210818,
+  "lon": -45.4441222
 }

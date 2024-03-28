@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Miguel do Oeste",
   "uf": "SC",
-  "ibge": "4217204"
+  "ibge": "4217204",
+  "lat": -26.7247058,
+  "lon": -53.5167732
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Gonçalves",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.5287725,
+  "lon": -46.3589204
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "lat": -20.4148363,
+  "lon": -49.9576131
 }

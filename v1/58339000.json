@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José dos Ramos",
   "uf": "PB",
-  "ibge": "2514453"
+  "ibge": "2514453",
+  "lat": -7.2556629,
+  "lon": -35.3682096
 }

@@ -5,5 +5,7 @@
   "bairro": "Flexal",
   "localidade": "Óbidos",
   "uf": "PA",
-  "ibge": "1505106"
+  "ibge": "1505106",
+  "lat": -1.9123353,
+  "lon": -55.5201265
 }

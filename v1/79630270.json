@@ -5,5 +5,7 @@
   "bairro": "Jardim das Oliveiras",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "lat": -20.792295,
+  "lon": -51.7277817
 }

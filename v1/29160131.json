@@ -5,5 +5,7 @@
   "bairro": "Carapina Grande",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.2216454,
+  "lon": -40.2812449
 }

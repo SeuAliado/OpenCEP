@@ -5,5 +5,7 @@
   "bairro": "Jardim Ferrão",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4499755,
+  "lon": -46.4064479
 }

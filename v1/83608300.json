@@ -5,5 +5,7 @@
   "bairro": "Vila Dom Pedro",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.4289586,
+  "lon": -49.415194
 }

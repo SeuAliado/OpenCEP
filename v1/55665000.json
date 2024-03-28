@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camocim de São Félix",
   "uf": "PE",
-  "ibge": "2603504"
+  "ibge": "2603504",
+  "lat": -8.3477758,
+  "lon": -35.7516069
 }

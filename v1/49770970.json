@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maruim",
   "uf": "SE",
-  "ibge": "2804003"
+  "ibge": "2804003",
+  "lat": -27.6494031,
+  "lon": -48.6687166
 }

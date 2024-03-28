@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Branca",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "lat": -23.6479648,
+  "lon": -46.7965775
 }

@@ -5,5 +5,7 @@
   "bairro": "Serrote",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "lat": -6.3616896,
+  "lon": -39.2735756
 }

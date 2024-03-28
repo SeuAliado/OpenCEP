@@ -5,5 +5,7 @@
   "bairro": "Jardim Jaqueira",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "lat": -23.6282889,
+  "lon": -45.4304509
 }

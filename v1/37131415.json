@@ -5,5 +5,7 @@
   "bairro": "Residencial Bosque dos Ipês",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "lat": -21.4299744,
+  "lon": -45.9438602
 }

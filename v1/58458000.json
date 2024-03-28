@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra de Santana",
   "uf": "PB",
-  "ibge": "2501575"
+  "ibge": "2501575",
+  "lat": -7.5491312,
+  "lon": -35.9805528
 }

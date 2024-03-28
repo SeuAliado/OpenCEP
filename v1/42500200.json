@@ -5,5 +5,7 @@
   "bairro": "Itamoabo (Ilha de Maré)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7957748,
+  "lon": -38.5313598
 }

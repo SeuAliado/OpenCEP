@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Natividade",
   "uf": "TO",
-  "ibge": "1714203"
+  "ibge": "1714203",
+  "lat": -11.8764686,
+  "lon": -47.6849007
 }

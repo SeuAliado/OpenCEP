@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Armação dos Búzios",
   "uf": "RJ",
-  "ibge": "3300233"
+  "ibge": "3300233",
+  "lat": -22.7563906,
+  "lon": -41.889042
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Cristalândia",
   "uf": "TO",
-  "ibge": "1706100"
+  "ibge": "1706100",
+  "lat": -10.6057722,
+  "lon": -49.188773
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Miguel",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9914941,
+  "lon": -48.8699127
 }

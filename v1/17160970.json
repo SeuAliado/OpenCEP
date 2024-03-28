@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arealva",
   "uf": "SP",
-  "ibge": "3503406"
+  "ibge": "3503406",
+  "lat": -22.0276223,
+  "lon": -48.9075887
 }

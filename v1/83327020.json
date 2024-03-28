@@ -5,5 +5,7 @@
   "bairro": "Parque das Nascentes",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.4011347,
+  "lon": -49.1480943
 }

@@ -5,5 +5,7 @@
   "bairro": "Noivos",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "lat": -5.0823786,
+  "lon": -42.7815181
 }

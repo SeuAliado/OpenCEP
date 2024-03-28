@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itabaiana",
   "uf": "PB",
-  "ibge": "2506905"
+  "ibge": "2506905",
+  "lat": -7.3296633,
+  "lon": -35.3330235
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "lat": -24.5353607,
+  "lon": -54.0405755
 }

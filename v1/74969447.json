@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Líbano",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.8562241,
+  "lon": -49.2887443
 }

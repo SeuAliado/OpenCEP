@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Umarizal",
   "uf": "RN",
-  "ibge": "2414506"
+  "ibge": "2414506",
+  "lat": -5.9930216,
+  "lon": -37.814811
 }

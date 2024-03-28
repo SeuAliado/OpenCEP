@@ -5,5 +5,7 @@
   "bairro": "São Genaro",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "lat": -22.5819333,
+  "lon": -44.1716447
 }

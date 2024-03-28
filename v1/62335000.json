@@ -5,5 +5,7 @@
   "bairro": "Tabainha",
   "localidade": "Tianguá",
   "uf": "CE",
-  "ibge": "2313401"
+  "ibge": "2313401",
+  "lat": -3.4738558,
+  "lon": -40.8249023
 }

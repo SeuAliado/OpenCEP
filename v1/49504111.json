@@ -5,5 +5,7 @@
   "bairro": "Marianga",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "lat": -27.0208505,
+  "lon": -51.8857929
 }

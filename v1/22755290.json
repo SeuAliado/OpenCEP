@@ -5,5 +5,7 @@
   "bairro": "Anil",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.953389,
+  "lon": -43.3304552
 }

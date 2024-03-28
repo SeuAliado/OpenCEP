@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Nunes Freire",
   "uf": "MA",
-  "ibge": "2104677"
+  "ibge": "2104677",
+  "lat": -2.1293554,
+  "lon": -45.8780841
 }

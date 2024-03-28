@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9201149,
+  "lon": -45.4674977
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marilac",
   "uf": "MG",
-  "ibge": "3140100"
+  "ibge": "3140100",
+  "lat": -18.5067625,
+  "lon": -42.0837981
 }

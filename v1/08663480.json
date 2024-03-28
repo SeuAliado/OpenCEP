@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Casa Branca",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5697006,
+  "lon": -46.3281662
 }

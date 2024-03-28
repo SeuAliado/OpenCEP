@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arenápolis",
   "uf": "MT",
-  "ibge": "5101308"
+  "ibge": "5101308",
+  "lat": -14.4475842,
+  "lon": -56.844221
 }

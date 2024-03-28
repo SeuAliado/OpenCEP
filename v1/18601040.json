@@ -5,5 +5,7 @@
   "bairro": "Alto",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8871108,
+  "lon": -48.4308435
 }

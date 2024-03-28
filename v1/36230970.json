@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bias Fortes",
   "uf": "MG",
-  "ibge": "3106804"
+  "ibge": "3106804",
+  "lat": -21.6064563,
+  "lon": -43.7573787
 }

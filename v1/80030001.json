@@ -5,5 +5,7 @@
   "bairro": "Juvevê",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.4176742,
+  "lon": -49.2628831
 }

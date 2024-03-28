@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Francisco do Glória",
   "uf": "MG",
-  "ibge": "3161403"
+  "ibge": "3161403",
+  "lat": -20.7902788,
+  "lon": -42.2681456
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Oriental",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.687647,
+  "lon": -46.5340453
 }

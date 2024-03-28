@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Nova",
   "uf": "BA",
-  "ibge": "2903706"
+  "ibge": "2903706",
+  "lat": -14.3890026,
+  "lon": -40.1456385
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Altos da Cidade",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1766251,
+  "lon": -49.9199761
 }

@@ -5,5 +5,7 @@
   "bairro": "São Bernardo",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.714395,
+  "lon": -43.5541846
 }

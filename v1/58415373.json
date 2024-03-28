@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2449588,
+  "lon": -35.9005626
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lavínia",
   "uf": "SP",
-  "ibge": "3526506"
+  "ibge": "3526506",
+  "lat": -23.7057964,
+  "lon": -46.5583936
 }

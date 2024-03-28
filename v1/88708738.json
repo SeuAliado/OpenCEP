@@ -5,5 +5,7 @@
   "bairro": "São Martinho",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4355914,
+  "lon": -49.0256308
 }

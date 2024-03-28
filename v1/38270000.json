@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campina Verde",
   "uf": "MG",
-  "ibge": "3111101"
+  "ibge": "3111101",
+  "lat": -19.5387307,
+  "lon": -49.4866375
 }

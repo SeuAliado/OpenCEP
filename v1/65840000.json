@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Raimundo das Mangabeiras",
   "uf": "MA",
-  "ibge": "2111607"
+  "ibge": "2111607",
+  "lat": -7.0222336,
+  "lon": -45.4812837
 }

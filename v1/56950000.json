@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Belmonte",
   "uf": "PE",
-  "ibge": "2613503"
+  "ibge": "2613503",
+  "lat": -7.865489,
+  "lon": -38.7601577
 }

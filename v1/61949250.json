@@ -5,5 +5,7 @@
   "bairro": "Novo Parque Iracema",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.9192639,
+  "lon": -38.6904539
 }

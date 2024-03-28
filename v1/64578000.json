@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Grande do Piauí",
   "uf": "PI",
-  "ibge": "2202133"
+  "ibge": "2202133",
+  "lat": -7.1286781,
+  "lon": -41.0318535
 }

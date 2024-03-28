@@ -5,5 +5,7 @@
   "bairro": "Novo Paraíso",
   "localidade": "Estrela",
   "uf": "RS",
-  "ibge": "4307807"
+  "ibge": "4307807",
+  "lat": -29.5020301,
+  "lon": -51.8855524
 }

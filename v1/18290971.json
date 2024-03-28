@@ -5,5 +5,7 @@
   "bairro": "Indaiatuba/Matão",
   "localidade": "Buri",
   "uf": "SP",
-  "ibge": "3508009"
+  "ibge": "3508009",
+  "lat": -22.3820383,
+  "lon": -49.0232097
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.637283,
+  "lon": -46.6919789
 }

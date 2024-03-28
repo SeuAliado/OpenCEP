@@ -5,5 +5,7 @@
   "bairro": "Canjamba",
   "localidade": "Ressaquinha",
   "uf": "MG",
-  "ibge": "3154408"
+  "ibge": "3154408",
+  "lat": -21.0288117,
+  "lon": -43.7025868
 }

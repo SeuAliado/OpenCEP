@@ -5,5 +5,7 @@
   "bairro": "Jardim da Liberdade",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -18.3973259,
+  "lon": -49.2254668
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Palmeiras",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9556001,
+  "lon": -67.840301
 }

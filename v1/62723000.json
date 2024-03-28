@@ -5,5 +5,7 @@
   "bairro": "Bandeira",
   "localidade": "Itatira",
   "uf": "CE",
-  "ibge": "2306603"
+  "ibge": "2306603",
+  "lat": -4.6278896,
+  "lon": -39.3879033
 }

@@ -5,5 +5,7 @@
   "bairro": "Babilônia",
   "localidade": "Delfinópolis",
   "uf": "MG",
-  "ibge": "3121209"
+  "ibge": "3121209",
+  "lat": -20.5028606,
+  "lon": -46.6375823
 }

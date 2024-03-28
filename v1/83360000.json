@@ -5,5 +5,7 @@
   "bairro": "Porto de Cima",
   "localidade": "Morretes",
   "uf": "PR",
-  "ibge": "4116208"
+  "ibge": "4116208",
+  "lat": -25.4336873,
+  "lon": -48.8744879
 }

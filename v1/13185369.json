@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistinha",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.9015556,
+  "lon": -47.178126
 }

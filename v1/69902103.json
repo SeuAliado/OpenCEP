@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jardim São Francisco",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9321259,
+  "lon": -67.8288625
 }

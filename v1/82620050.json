@@ -5,5 +5,7 @@
   "bairro": "Tingui",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.3837576,
+  "lon": -49.2269686
 }

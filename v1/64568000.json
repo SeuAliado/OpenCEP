@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vera Mendes",
   "uf": "PI",
-  "ibge": "2211506"
+  "ibge": "2211506",
+  "lat": -7.5965022,
+  "lon": -41.5412618
 }

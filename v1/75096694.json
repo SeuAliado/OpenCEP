@@ -5,5 +5,7 @@
   "bairro": "Vila dos Sargentos",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3285018,
+  "lon": -48.955531
 }

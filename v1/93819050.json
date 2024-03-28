@@ -5,5 +5,7 @@
   "bairro": "Sete de Setembro",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "lat": -29.6395167,
+  "lon": -51.0014391
 }

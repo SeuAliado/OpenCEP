@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pacujá",
   "uf": "CE",
-  "ibge": "2309904"
+  "ibge": "2309904",
+  "lat": -3.9795046,
+  "lon": -40.6969436
 }

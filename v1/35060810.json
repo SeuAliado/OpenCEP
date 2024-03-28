@@ -5,5 +5,7 @@
   "bairro": "Santa Efigênia",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8447677,
+  "lon": -41.9458933
 }

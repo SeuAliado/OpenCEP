@@ -5,5 +5,7 @@
   "bairro": "Fazenda Colorado",
   "localidade": "Fortaleza dos Valos",
   "uf": "RS",
-  "ibge": "4308458"
+  "ibge": "4308458",
+  "lat": -28.8018699,
+  "lon": -53.2299861
 }

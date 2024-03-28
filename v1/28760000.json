@@ -5,5 +5,7 @@
   "bairro": "Sodrelândia",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "lat": -22.1389571,
+  "lon": -42.0725319
 }

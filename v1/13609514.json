@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Flamboyant",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3795549,
+  "lon": -47.3724899
 }

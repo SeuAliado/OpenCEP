@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Igarapé Grande",
   "uf": "MA",
-  "ibge": "2105203"
+  "ibge": "2105203",
+  "lat": -4.5992786,
+  "lon": -44.831834
 }

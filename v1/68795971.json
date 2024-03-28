@@ -5,5 +5,7 @@
   "bairro": "Murinim",
   "localidade": "Benevides",
   "uf": "PA",
-  "ibge": "1501501"
+  "ibge": "1501501",
+  "lat": -1.2855084,
+  "lon": -48.3216397
 }

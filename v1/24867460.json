@@ -5,5 +5,7 @@
   "bairro": "Gebara (Itambi)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "lat": -22.7563294,
+  "lon": -42.9447379
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itacaré",
   "uf": "BA",
-  "ibge": "2914901"
+  "ibge": "2914901",
+  "lat": -14.2790944,
+  "lon": -38.9946254
 }

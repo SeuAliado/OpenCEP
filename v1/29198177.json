@@ -5,5 +5,7 @@
   "bairro": "Barra do Sahy",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8925218,
+  "lon": -40.0910474
 }

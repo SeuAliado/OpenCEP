@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipupiara",
   "uf": "BA",
-  "ibge": "2914109"
+  "ibge": "2914109",
+  "lat": -11.8208569,
+  "lon": -42.6140494
 }

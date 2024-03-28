@@ -5,5 +5,7 @@
   "bairro": "Estrela D'Alva",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3386694,
+  "lon": -54.0940681
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Batalha",
   "uf": "AL",
-  "ibge": "2700706"
+  "ibge": "2700706",
+  "lat": -9.6764179,
+  "lon": -37.1239413
 }

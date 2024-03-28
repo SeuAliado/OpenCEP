@@ -5,5 +5,7 @@
   "bairro": "Vilatur",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.9272382,
+  "lon": -42.4086103
 }

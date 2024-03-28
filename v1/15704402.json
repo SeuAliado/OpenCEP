@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco de Assis",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2876191,
+  "lon": -50.5582983
 }

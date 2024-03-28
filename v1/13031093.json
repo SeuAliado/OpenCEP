@@ -5,5 +5,7 @@
   "bairro": "Vila Satúrnia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8864204,
+  "lon": -47.0671904
 }

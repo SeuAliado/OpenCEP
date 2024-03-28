@@ -5,5 +5,7 @@
   "bairro": "Laje do Banco",
   "localidade": "Aurelino Leal",
   "uf": "BA",
-  "ibge": "2902401"
+  "ibge": "2902401",
+  "lat": -14.364378,
+  "lon": -39.4067148
 }

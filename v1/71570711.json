@@ -5,5 +5,7 @@
   "bairro": "Paranoá",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8672274,
+  "lon": -47.8160825
 }

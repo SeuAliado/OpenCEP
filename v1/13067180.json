@@ -5,5 +5,7 @@
   "bairro": "Vila Lunardi",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8844781,
+  "lon": -47.1457463
 }

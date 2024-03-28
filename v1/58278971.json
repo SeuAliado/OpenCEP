@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacaraú",
   "uf": "PB",
-  "ibge": "2507309"
+  "ibge": "2507309",
+  "lat": -6.615061,
+  "lon": -35.2914225
 }

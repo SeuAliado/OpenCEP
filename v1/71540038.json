@@ -5,5 +5,7 @@
   "bairro": "Setor de Mansões do Lago Norte",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7404439,
+  "lon": -47.8348308
 }

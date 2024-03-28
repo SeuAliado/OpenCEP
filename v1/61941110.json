@@ -5,5 +5,7 @@
   "bairro": "Preguiça",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "lat": -3.8877073,
+  "lon": -38.6872623
 }

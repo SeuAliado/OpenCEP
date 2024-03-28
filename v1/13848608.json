@@ -5,5 +5,7 @@
   "bairro": "Jardim Pansani",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.33549,
+  "lon": -46.920061
 }

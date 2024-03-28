@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibirapitanga",
   "uf": "BA",
-  "ibge": "2912707"
+  "ibge": "2912707",
+  "lat": -14.1518905,
+  "lon": -39.3729135
 }

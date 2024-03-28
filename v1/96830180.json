@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "lat": -29.727916,
+  "lon": -52.423582
 }

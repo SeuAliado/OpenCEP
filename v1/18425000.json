@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taquarivaí",
   "uf": "SP",
-  "ibge": "3553856"
+  "ibge": "3553856",
+  "lat": -23.9216035,
+  "lon": -48.695234
 }

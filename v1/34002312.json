@@ -5,5 +5,7 @@
   "bairro": "Cascalho",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9939227,
+  "lon": -43.8468397
 }

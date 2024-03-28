@@ -5,5 +5,7 @@
   "bairro": "Jardim Soraia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5153977,
+  "lon": -46.4800458
 }

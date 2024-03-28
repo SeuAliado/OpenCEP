@@ -5,5 +5,7 @@
   "bairro": "Guará I",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8207168,
+  "lon": -47.9911888
 }

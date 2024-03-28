@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Victório de Santi",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8233384,
+  "lon": -48.1360402
 }

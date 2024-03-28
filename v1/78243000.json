@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Lacerda",
   "uf": "MT",
-  "ibge": "5106182"
+  "ibge": "5106182",
+  "lat": -14.4748906,
+  "lon": -59.5889993
 }

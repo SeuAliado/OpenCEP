@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juazeiro do Piauí",
   "uf": "PI",
-  "ibge": "2205516"
+  "ibge": "2205516",
+  "lat": -5.174978,
+  "lon": -41.6979327
 }

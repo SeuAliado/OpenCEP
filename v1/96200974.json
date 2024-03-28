@@ -5,5 +5,7 @@
   "bairro": "Carreiros",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.029294,
+  "lon": -52.0975417
 }

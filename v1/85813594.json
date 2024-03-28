@@ -5,5 +5,7 @@
   "bairro": "Canadá",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9297988,
+  "lon": -53.4664271
 }

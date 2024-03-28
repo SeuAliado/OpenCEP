@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria do Pará",
   "uf": "PA",
-  "ibge": "1506609"
+  "ibge": "1506609",
+  "lat": -1.8907778,
+  "lon": -55.1253282
 }

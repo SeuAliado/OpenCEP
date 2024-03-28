@@ -5,5 +5,7 @@
   "bairro": "Chácaras Havaí",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "lat": -22.9058384,
+  "lon": -47.2241378
 }

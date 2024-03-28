@@ -5,5 +5,7 @@
   "bairro": "Fartura",
   "localidade": "São Gabriel da Palha",
   "uf": "ES",
-  "ibge": "3204708"
+  "ibge": "3204708",
+  "lat": -18.9061869,
+  "lon": -40.451288
 }

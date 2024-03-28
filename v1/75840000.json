@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rita do Araguaia",
   "uf": "GO",
-  "ibge": "5219407"
+  "ibge": "5219407",
+  "lat": -17.2612309,
+  "lon": -53.0888943
 }

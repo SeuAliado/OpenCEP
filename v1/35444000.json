@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amparo da Serra",
   "uf": "MG",
-  "ibge": "3102506"
+  "ibge": "3102506",
+  "lat": -20.5083433,
+  "lon": -42.7984234
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Henrique",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1994122,
+  "lon": -47.2876373
 }

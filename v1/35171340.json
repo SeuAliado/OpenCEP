@@ -5,5 +5,7 @@
   "bairro": "Amaro Lanari",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5304194,
+  "lon": -42.5719335
 }

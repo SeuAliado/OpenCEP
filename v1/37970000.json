@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pratápolis",
   "uf": "MG",
-  "ibge": "3152907"
+  "ibge": "3152907",
+  "lat": -20.7896516,
+  "lon": -46.8834379
 }

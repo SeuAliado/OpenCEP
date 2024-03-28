@@ -5,5 +5,7 @@
   "bairro": "Lapa",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3371558,
+  "lon": -49.0079097
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1249338,
+  "lon": -44.968071
 }

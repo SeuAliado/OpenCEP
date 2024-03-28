@@ -5,5 +5,7 @@
   "bairro": "Bernardo Kelner",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7307782,
+  "lon": -43.4812726
 }

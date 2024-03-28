@@ -5,5 +5,7 @@
   "bairro": "Jardim João Ballan",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3143957,
+  "lon": -48.5394123
 }

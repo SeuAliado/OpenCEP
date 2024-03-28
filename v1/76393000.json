@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vila Propício",
   "uf": "GO",
-  "ibge": "5222302"
+  "ibge": "5222302",
+  "lat": -15.1998705,
+  "lon": -48.7995122
 }

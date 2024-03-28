@@ -5,5 +5,7 @@
   "bairro": "Vila Indiana",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7943899,
+  "lon": -45.211182
 }

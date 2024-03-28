@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.3968317,
+  "lon": -46.9670842
 }

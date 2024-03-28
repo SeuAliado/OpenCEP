@@ -5,5 +5,7 @@
   "bairro": "Pau-Serrado",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8667734,
+  "lon": -38.6486635
 }

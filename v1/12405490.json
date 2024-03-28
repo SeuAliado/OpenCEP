@@ -5,5 +5,7 @@
   "bairro": "Castolira",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9240414,
+  "lon": -45.4379963
 }

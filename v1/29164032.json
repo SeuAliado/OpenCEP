@@ -5,5 +5,7 @@
   "bairro": "Jardim Limoeiro",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.2164181,
+  "lon": -40.2634781
 }

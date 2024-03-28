@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinhal",
   "uf": "RS",
-  "ibge": "4314456"
+  "ibge": "4314456",
+  "lat": -30.2914625,
+  "lon": -50.2619145
 }

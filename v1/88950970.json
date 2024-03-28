@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacinto Machado",
   "uf": "SC",
-  "ibge": "4208708"
+  "ibge": "4208708",
+  "lat": -28.997556,
+  "lon": -49.7592676
 }

@@ -5,5 +5,7 @@
   "bairro": "Papouco",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.9719454,
+  "lon": -67.8145709
 }

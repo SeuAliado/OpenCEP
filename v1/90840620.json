@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0797105,
+  "lon": -51.2223463
 }

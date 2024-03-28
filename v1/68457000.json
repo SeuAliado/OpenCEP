@@ -5,5 +5,7 @@
   "bairro": "Caripe",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.7492704,
+  "lon": -49.674274
 }

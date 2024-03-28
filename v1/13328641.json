@@ -5,5 +5,7 @@
   "bairro": "Chácara Maracajás",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1184594,
+  "lon": -47.3377526
 }

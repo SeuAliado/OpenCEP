@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Várzea Alegre",
   "uf": "CE",
-  "ibge": "2314003"
+  "ibge": "2314003",
+  "lat": -6.7893984,
+  "lon": -39.2953171
 }

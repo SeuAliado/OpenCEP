@@ -5,5 +5,7 @@
   "bairro": "Adelaide",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9016787,
+  "lon": -43.9767311
 }

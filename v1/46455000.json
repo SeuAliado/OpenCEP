@@ -5,5 +5,7 @@
   "bairro": "Mandiroba",
   "localidade": "Sebastião Laranjeiras",
   "uf": "BA",
-  "ibge": "2930006"
+  "ibge": "2930006",
+  "lat": -14.4826386,
+  "lon": -43.0392028
 }

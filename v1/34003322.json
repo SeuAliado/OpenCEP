@@ -5,5 +5,7 @@
   "bairro": "Quintas II",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "lat": -19.9863142,
+  "lon": -43.8604666
 }

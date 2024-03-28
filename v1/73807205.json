@@ -5,5 +5,7 @@
   "bairro": "Setor Nordeste",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5296487,
+  "lon": -47.3348416
 }

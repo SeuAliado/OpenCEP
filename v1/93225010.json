@@ -5,5 +5,7 @@
   "bairro": "Lomba da Palmeira",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8296955,
+  "lon": -51.1300241
 }

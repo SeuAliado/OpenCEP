@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "lat": -22.413859,
+  "lon": -47.5856662
 }

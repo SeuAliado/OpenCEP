@@ -5,5 +5,7 @@
   "bairro": "Vila Colúmbia",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7713195,
+  "lon": -43.3407567
 }

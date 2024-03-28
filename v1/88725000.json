@@ -5,5 +5,7 @@
   "bairro": "Azambuja",
   "localidade": "Pedras Grandes",
   "uf": "SC",
-  "ibge": "4212403"
+  "ibge": "4212403",
+  "lat": -28.498251,
+  "lon": -49.2398322
 }

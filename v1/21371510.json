@@ -5,5 +5,7 @@
   "bairro": "Colégio",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "lat": -22.8451075,
+  "lon": -43.3347338
 }

@@ -5,5 +5,7 @@
   "bairro": "Sítio Bela Vista",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6659184,
+  "lon": -46.4400968
 }

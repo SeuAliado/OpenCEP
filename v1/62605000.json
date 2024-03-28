@@ -5,5 +5,7 @@
   "bairro": "Baixa Grande",
   "localidade": "Itapajé",
   "uf": "CE",
-  "ibge": "2306306"
+  "ibge": "2306306",
+  "lat": -3.6472504,
+  "lon": -39.6310173
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Turística",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5075869,
+  "lon": -46.7780098
 }

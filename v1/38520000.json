@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Romaria",
   "uf": "MG",
-  "ibge": "3156403"
+  "ibge": "3156403",
+  "lat": -18.8842743,
+  "lon": -47.5786615
 }

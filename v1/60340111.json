@@ -5,5 +5,7 @@
   "bairro": "Jardim Iracema",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -28.1411022,
+  "lon": -54.5590719
 }

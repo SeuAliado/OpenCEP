@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marzagão",
   "uf": "GO",
-  "ibge": "5212907"
+  "ibge": "5212907",
+  "lat": -17.9834382,
+  "lon": -48.6419656
 }

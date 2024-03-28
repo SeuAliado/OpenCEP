@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio da Boa Vista",
   "localidade": "São João da Ponte",
   "uf": "MG",
-  "ibge": "3162401"
+  "ibge": "3162401",
+  "lat": -20.6674584,
+  "lon": -43.7809113
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Ijuí",
   "uf": "RS",
-  "ibge": "4310207"
+  "ibge": "4310207",
+  "lat": -28.2469843,
+  "lon": -54.0071446
 }

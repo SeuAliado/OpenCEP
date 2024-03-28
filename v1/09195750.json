@@ -5,5 +5,7 @@
   "bairro": "Vila Pires",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6842627,
+  "lon": -46.5103834
 }

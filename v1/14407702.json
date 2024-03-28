@@ -5,5 +5,7 @@
   "bairro": "Recanto Capitão Heliodoro",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.4805467,
+  "lon": -47.4267523
 }

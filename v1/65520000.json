@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejo",
   "uf": "MA",
-  "ibge": "2102101"
+  "ibge": "2102101",
+  "lat": -3.6566004,
+  "lon": -42.7857583
 }

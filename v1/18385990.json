@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapirapuã Paulista",
   "uf": "SP",
-  "ibge": "3522653"
+  "ibge": "3522653",
+  "lat": -24.5694328,
+  "lon": -49.1733503
 }

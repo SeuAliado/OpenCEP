@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.1507499,
+  "lon": -51.1819482
 }

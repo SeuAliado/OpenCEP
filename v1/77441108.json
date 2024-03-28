@@ -5,5 +5,7 @@
   "bairro": "Jardim Boulivard",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "lat": -10.6927669,
+  "lon": -48.4092134
 }

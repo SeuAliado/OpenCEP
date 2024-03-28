@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Azul",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6483666,
+  "lon": -46.7367565
 }

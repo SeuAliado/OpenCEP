@@ -5,5 +5,7 @@
   "bairro": "Chácara Lourdes Meireles",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.065162,
+  "lon": -48.0052703
 }

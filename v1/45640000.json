@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Almadina",
   "uf": "BA",
-  "ibge": "2900900"
+  "ibge": "2900900",
+  "lat": -14.7093276,
+  "lon": -39.6418558
 }

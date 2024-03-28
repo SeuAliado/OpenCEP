@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Caetano de Odivelas",
   "uf": "PA",
-  "ibge": "1507102"
+  "ibge": "1507102",
+  "lat": -0.7476468,
+  "lon": -48.0250423
 }

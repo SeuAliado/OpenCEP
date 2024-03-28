@@ -5,5 +5,7 @@
   "bairro": "Vila Maranhão",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5581765,
+  "lon": -44.2350978
 }

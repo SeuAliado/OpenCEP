@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caetité",
   "uf": "BA",
-  "ibge": "2905206"
+  "ibge": "2905206",
+  "lat": -14.0648657,
+  "lon": -42.4858867
 }

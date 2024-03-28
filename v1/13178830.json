@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Luíza",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8301485,
+  "lon": -47.1601763
 }

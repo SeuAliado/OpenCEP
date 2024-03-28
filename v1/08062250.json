@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5132715,
+  "lon": -46.4750626
 }

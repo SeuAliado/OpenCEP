@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riqueza",
   "uf": "SC",
-  "ibge": "4215075"
+  "ibge": "4215075",
+  "lat": -27.0658086,
+  "lon": -53.3269663
 }

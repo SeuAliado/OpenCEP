@@ -5,5 +5,7 @@
   "bairro": "Alto das Paineiras",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2525813,
+  "lon": -54.8049103
 }

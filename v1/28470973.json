@@ -5,5 +5,7 @@
   "bairro": "Boa Nova",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "lat": -21.5415672,
+  "lon": -42.1835058
 }

@@ -5,5 +5,7 @@
   "bairro": "Guaturinho",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.3890826,
+  "lon": -46.8609329
 }

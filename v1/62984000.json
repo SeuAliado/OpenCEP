@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Iracema",
   "uf": "CE",
-  "ibge": "2306009"
+  "ibge": "2306009",
+  "lat": -5.8126314,
+  "lon": -38.3019957
 }

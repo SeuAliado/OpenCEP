@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cândido Rodrigues",
   "uf": "SP",
-  "ibge": "3510104"
+  "ibge": "3510104",
+  "lat": -21.3280073,
+  "lon": -48.6331749
 }

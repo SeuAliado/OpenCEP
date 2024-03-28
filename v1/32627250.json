@@ -5,5 +5,7 @@
   "bairro": "Flores e Florestas",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.955359,
+  "lon": -44.2645093
 }

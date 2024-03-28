@@ -5,5 +5,7 @@
   "bairro": "Vila São Paulo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.2775593,
+  "lon": -49.0657626
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -4.2431102,
+  "lon": -56.0115131
 }

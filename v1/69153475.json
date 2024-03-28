@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Nazaré",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6407901,
+  "lon": -56.7269095
 }

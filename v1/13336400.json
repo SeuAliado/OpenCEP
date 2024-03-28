@@ -5,5 +5,7 @@
   "bairro": "Recanto Campestre Internacional de Viracopos Gleba 4",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0404113,
+  "lon": -47.1857226
 }

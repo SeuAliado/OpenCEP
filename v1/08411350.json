@@ -5,5 +5,7 @@
   "bairro": "Vila Buenos Aires",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5537963,
+  "lon": -46.4177912
 }

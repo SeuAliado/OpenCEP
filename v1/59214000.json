@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra de São Bento",
   "uf": "RN",
-  "ibge": "2413300"
+  "ibge": "2413300",
+  "lat": -6.4174214,
+  "lon": -35.7040133
 }

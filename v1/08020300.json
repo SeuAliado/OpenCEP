@@ -5,5 +5,7 @@
   "bairro": "Vila Sinhá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5015084,
+  "lon": -46.4413543
 }

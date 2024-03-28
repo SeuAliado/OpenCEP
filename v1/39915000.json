@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mata Verde",
   "uf": "MG",
-  "ibge": "3140555"
+  "ibge": "3140555",
+  "lat": -15.6871198,
+  "lon": -40.7402604
 }

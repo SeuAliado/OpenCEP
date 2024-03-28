@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maxaranguape",
   "uf": "RN",
-  "ibge": "2407500"
+  "ibge": "2407500",
+  "lat": -5.5222043,
+  "lon": -35.2633982
 }

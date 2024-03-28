@@ -5,5 +5,7 @@
   "bairro": "Ipoema",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6233937,
+  "lon": -43.440688
 }

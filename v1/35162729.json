@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.5088727,
+  "lon": -42.6235202
 }

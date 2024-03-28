@@ -5,5 +5,7 @@
   "bairro": "Parque dos Sabiás",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "lat": -21.107675,
+  "lon": -47.7862668
 }

@@ -5,5 +5,7 @@
   "bairro": "Planetário",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6427367,
+  "lon": -43.6383027
 }

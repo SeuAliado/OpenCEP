@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rosa do Piauí",
   "uf": "PI",
-  "ibge": "2209377"
+  "ibge": "2209377",
+  "lat": -6.7976726,
+  "lon": -42.2807078
 }

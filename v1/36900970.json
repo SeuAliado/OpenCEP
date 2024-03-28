@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manhuaçu",
   "uf": "MG",
-  "ibge": "3139409"
+  "ibge": "3139409",
+  "lat": -20.2569526,
+  "lon": -42.0338282
 }

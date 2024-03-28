@@ -5,5 +5,7 @@
   "bairro": "Uruquê",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "lat": -5.1412097,
+  "lon": -39.1779047
 }

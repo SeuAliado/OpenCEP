@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.7931573,
+  "lon": -43.9970332
 }

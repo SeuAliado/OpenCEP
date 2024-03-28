@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4424842,
+  "lon": -46.346883
 }

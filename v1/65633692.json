@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "lat": -5.0950644,
+  "lon": -42.8512719
 }

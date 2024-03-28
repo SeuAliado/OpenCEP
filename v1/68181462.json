@@ -5,5 +5,7 @@
   "bairro": "Bom Jardim",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "lat": -4.2731201,
+  "lon": -56.0030353
 }

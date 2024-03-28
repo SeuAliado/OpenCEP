@@ -5,5 +5,7 @@
   "bairro": "Vila São Judas Thadeu",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.8931571,
+  "lon": -48.4507759
 }

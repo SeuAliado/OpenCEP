@@ -5,5 +5,7 @@
   "bairro": "São Marcos I",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.1389834,
+  "lon": -40.2964273
 }

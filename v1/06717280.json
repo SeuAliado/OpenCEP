@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Victor's",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6120859,
+  "lon": -46.9139802
 }

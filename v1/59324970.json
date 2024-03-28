@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jardim de Piranhas",
   "uf": "RN",
-  "ibge": "2405603"
+  "ibge": "2405603",
+  "lat": -6.3781251,
+  "lon": -37.3501163
 }

@@ -5,5 +5,7 @@
   "bairro": "Bosque São Francisco",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5574093,
+  "lon": -47.460273
 }

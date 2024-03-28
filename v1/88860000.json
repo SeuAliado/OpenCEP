@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Siderópolis",
   "uf": "SC",
-  "ibge": "4217600"
+  "ibge": "4217600",
+  "lat": -28.5960038,
+  "lon": -49.4319132
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Herval",
   "uf": "RS",
-  "ibge": "4307104"
+  "ibge": "4307104",
+  "lat": -32.0207681,
+  "lon": -53.3953187
 }

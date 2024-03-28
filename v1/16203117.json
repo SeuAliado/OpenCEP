@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Nelson Calixto",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2901214,
+  "lon": -50.3275686
 }

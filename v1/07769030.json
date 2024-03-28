@@ -5,5 +5,7 @@
   "bairro": "Ponunduva",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.3415884,
+  "lon": -46.9094276
 }

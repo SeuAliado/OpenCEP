@@ -5,5 +5,7 @@
   "bairro": "Vila Base Aérea",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "lat": -20.472452,
+  "lon": -54.6539591
 }

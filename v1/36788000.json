@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itamarati de Minas",
   "uf": "MG",
-  "ibge": "3132602"
+  "ibge": "3132602",
+  "lat": -21.4184268,
+  "lon": -42.8133764
 }

@@ -5,5 +5,7 @@
   "bairro": "Oneida Mendes",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7532423,
+  "lon": -47.8993816
 }

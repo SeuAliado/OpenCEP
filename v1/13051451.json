@@ -5,5 +5,7 @@
   "bairro": "Jardim Conceição I",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9626646,
+  "lon": -47.085757
 }

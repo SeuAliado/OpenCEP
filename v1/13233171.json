@@ -5,5 +5,7 @@
   "bairro": "Chácaras Nova Germânia",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "lat": -23.1575804,
+  "lon": -46.7899155
 }

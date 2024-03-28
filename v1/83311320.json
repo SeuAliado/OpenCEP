@@ -5,5 +5,7 @@
   "bairro": "Guarituba",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4626691,
+  "lon": -49.1368308
 }

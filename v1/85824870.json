@@ -5,5 +5,7 @@
   "bairro": "Portão",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "lat": -24.9542959,
+  "lon": -53.4352049
 }

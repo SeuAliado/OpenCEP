@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rosa de Lima",
   "uf": "SC",
-  "ibge": "4215604"
+  "ibge": "4215604",
+  "lat": -28.0183176,
+  "lon": -49.1727178
 }

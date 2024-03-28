@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Luiz do Norte",
   "uf": "GO",
-  "ibge": "5220157"
+  "ibge": "5220157",
+  "lat": -14.8612465,
+  "lon": -49.3289398
 }

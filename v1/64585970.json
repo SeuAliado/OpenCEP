@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Simões",
   "uf": "PI",
-  "ibge": "2210706"
+  "ibge": "2210706",
+  "lat": -7.5959345,
+  "lon": -40.8184785
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte do Carmo",
   "uf": "TO",
-  "ibge": "1713601"
+  "ibge": "1713601",
+  "lat": -10.7868625,
+  "lon": -48.0010282
 }

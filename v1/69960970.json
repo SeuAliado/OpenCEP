@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Feijó",
   "uf": "AC",
-  "ibge": "1200302"
+  "ibge": "1200302",
+  "lat": -8.1653755,
+  "lon": -70.3546131
 }

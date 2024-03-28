@@ -5,5 +5,7 @@
   "bairro": "Jardim Padre Augusto Sani",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3123565,
+  "lon": -48.5913416
 }

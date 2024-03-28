@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Protásio Alves",
   "uf": "RS",
-  "ibge": "4315172"
+  "ibge": "4315172",
+  "lat": -28.735259,
+  "lon": -51.4939853
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Cedros",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7648226,
+  "lon": -47.3654397
 }

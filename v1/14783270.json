@@ -5,5 +5,7 @@
   "bairro": "Nogueira",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5669771,
+  "lon": -48.5559734
 }

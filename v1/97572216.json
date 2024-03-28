@@ -5,5 +5,7 @@
   "bairro": "Prado",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "lat": -30.8765965,
+  "lon": -55.5288415
 }

@@ -5,5 +5,7 @@
   "bairro": "Colorado",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "lat": -19.9902507,
+  "lon": -44.0647366
 }

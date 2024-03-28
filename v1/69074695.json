@@ -5,5 +5,7 @@
   "bairro": "Morro da Liberdade",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.1440173,
+  "lon": -60.0022771
 }

@@ -5,5 +5,7 @@
   "bairro": "Passagem dos Teixeiras",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "lat": -14.8644439,
+  "lon": -40.8285035
 }

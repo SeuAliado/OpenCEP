@@ -5,5 +5,7 @@
   "bairro": "Doutor Gusmão",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -16.3705063,
+  "lon": -39.5857249
 }

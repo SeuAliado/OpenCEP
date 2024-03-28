@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poço das Trincheiras",
   "uf": "AL",
-  "ibge": "2707206"
+  "ibge": "2707206",
+  "lat": -9.3043087,
+  "lon": -37.2834721
 }

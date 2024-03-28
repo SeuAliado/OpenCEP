@@ -5,5 +5,7 @@
   "bairro": "Residencial Rio de Janeiro",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7667228,
+  "lon": -47.954853
 }

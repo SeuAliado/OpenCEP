@@ -5,5 +5,7 @@
   "bairro": "Loteamento Vista Alegre",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.462587,
+  "lon": -49.5467086
 }

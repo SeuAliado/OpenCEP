@@ -5,5 +5,7 @@
   "bairro": "Mimoso",
   "localidade": "Santo Antônio do Leverger",
   "uf": "MT",
-  "ibge": "5107800"
+  "ibge": "5107800",
+  "lat": -16.7817087,
+  "lon": -55.3143491
 }

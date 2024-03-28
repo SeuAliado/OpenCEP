@@ -5,5 +5,7 @@
   "bairro": "Umbará",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.5639192,
+  "lon": -49.2883553
 }

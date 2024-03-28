@@ -5,5 +5,7 @@
   "bairro": "Residencial de Ville",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.247789,
+  "lon": -45.9156566
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bethânia",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "lat": -19.6480227,
+  "lon": -43.2222966
 }

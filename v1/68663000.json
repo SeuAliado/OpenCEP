@@ -5,5 +5,7 @@
   "bairro": "Urucuri",
   "localidade": "São Miguel do Guamá",
   "uf": "PA",
-  "ibge": "1507607"
+  "ibge": "1507607",
+  "lat": -1.6107364,
+  "lon": -47.4887737
 }

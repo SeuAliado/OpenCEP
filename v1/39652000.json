@@ -5,5 +5,7 @@
   "bairro": "Baixa Quente",
   "localidade": "Minas Novas",
   "uf": "MG",
-  "ibge": "3141801"
+  "ibge": "3141801",
+  "lat": -17.223097,
+  "lon": -42.585937
 }

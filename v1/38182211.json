@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Clovis Freitas Leal",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "lat": -19.6139769,
+  "lon": -46.9228645
 }

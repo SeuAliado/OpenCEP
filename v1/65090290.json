@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -21.4671112,
+  "lon": -47.0167024
 }

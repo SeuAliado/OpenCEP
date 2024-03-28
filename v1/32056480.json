@@ -5,5 +5,7 @@
   "bairro": "Buganvile I",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9436496,
+  "lon": -44.0358732
 }

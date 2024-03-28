@@ -5,5 +5,7 @@
   "bairro": "Jaguaripe I",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9079406,
+  "lon": -38.4064345
 }

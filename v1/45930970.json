@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mucuri",
   "uf": "BA",
-  "ibge": "2922003"
+  "ibge": "2922003",
+  "lat": -18.0792506,
+  "lon": -39.5472568
 }

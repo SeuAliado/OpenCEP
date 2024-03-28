@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Luzia",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.461629,
+  "lon": -54.6448833
 }

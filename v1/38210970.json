@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirajuba",
   "uf": "MG",
-  "ibge": "3150703"
+  "ibge": "3150703",
+  "lat": -19.9066808,
+  "lon": -48.6992639
 }

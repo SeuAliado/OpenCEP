@@ -5,5 +5,7 @@
   "bairro": "Jardim de Alá (Justinópolis)",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "lat": -19.8033425,
+  "lon": -44.020745
 }

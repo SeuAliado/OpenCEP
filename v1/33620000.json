@@ -5,5 +5,7 @@
   "bairro": "Fidalgo",
   "localidade": "Pedro Leopoldo",
   "uf": "MG",
-  "ibge": "3149309"
+  "ibge": "3149309",
+  "lat": -19.6990076,
+  "lon": -44.0536902
 }

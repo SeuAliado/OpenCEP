@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antônio Carlos",
   "uf": "MG",
-  "ibge": "3102902"
+  "ibge": "3102902",
+  "lat": -21.2855564,
+  "lon": -43.7494107
 }

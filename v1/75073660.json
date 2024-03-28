@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial América",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2741046,
+  "lon": -48.9374128
 }

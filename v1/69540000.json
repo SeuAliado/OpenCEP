@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvarães",
   "uf": "AM",
-  "ibge": "1300029"
+  "ibge": "1300029",
+  "lat": -3.2144446,
+  "lon": -64.8076054
 }

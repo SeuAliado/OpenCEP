@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Roca Sales",
   "uf": "RS",
-  "ibge": "4315800"
+  "ibge": "4315800",
+  "lat": -29.2852071,
+  "lon": -51.8705377
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Major Isidoro",
   "uf": "AL",
-  "ibge": "2704401"
+  "ibge": "2704401",
+  "lat": -9.5353284,
+  "lon": -36.992382
 }

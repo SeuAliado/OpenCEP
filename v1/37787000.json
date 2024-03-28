@@ -5,5 +5,7 @@
   "bairro": "São Pedro de Caldas",
   "localidade": "Caldas",
   "uf": "MG",
-  "ibge": "3110301"
+  "ibge": "3110301",
+  "lat": -21.817245,
+  "lon": -46.257173
 }

@@ -5,5 +5,7 @@
   "bairro": "Serra da Tapuia",
   "localidade": "Sítio Novo",
   "uf": "RN",
-  "ibge": "2413706"
+  "ibge": "2413706",
+  "lat": -6.098611,
+  "lon": -35.9765475
 }

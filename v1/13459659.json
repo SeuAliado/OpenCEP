@@ -5,5 +5,7 @@
   "bairro": "Chácaras Pinheirinho",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7353816,
+  "lon": -47.4967013
 }

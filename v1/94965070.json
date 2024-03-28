@@ -5,5 +5,7 @@
   "bairro": "Nova Cachoeirinha",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "lat": -29.902534,
+  "lon": -51.0710142
 }

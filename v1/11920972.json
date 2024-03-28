@@ -5,5 +5,7 @@
   "bairro": "Rócio",
   "localidade": "Iguape",
   "uf": "SP",
-  "ibge": "3520301"
+  "ibge": "3520301",
+  "lat": -24.7447849,
+  "lon": -47.5479675
 }

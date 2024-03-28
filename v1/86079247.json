@@ -5,5 +5,7 @@
   "bairro": "Garden Park Residence",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "lat": -23.2888997,
+  "lon": -51.1492238
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.3230238,
+  "lon": -48.908078
 }

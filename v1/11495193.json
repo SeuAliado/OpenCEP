@@ -5,5 +5,7 @@
   "bairro": "Morrinhos",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.9607218,
+  "lon": -46.246102
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Lageado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.552335,
+  "lon": -46.7486765
 }

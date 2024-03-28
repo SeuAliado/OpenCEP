@@ -5,5 +5,7 @@
   "bairro": "Vila São Ricardo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4550046,
+  "lon": -46.5447508
 }

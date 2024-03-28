@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Cristo",
   "uf": "RS",
-  "ibge": "4317905"
+  "ibge": "4317905",
+  "lat": -27.8288077,
+  "lon": -54.6590707
 }

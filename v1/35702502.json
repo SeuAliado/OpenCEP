@@ -5,5 +5,7 @@
   "bairro": "Flórida",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.9544459,
+  "lon": -44.205051
 }

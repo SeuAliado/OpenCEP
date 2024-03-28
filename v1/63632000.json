@@ -5,5 +5,7 @@
   "bairro": "Mineirolândia",
   "localidade": "Pedra Branca",
   "uf": "CE",
-  "ibge": "2310506"
+  "ibge": "2310506",
+  "lat": -5.4381552,
+  "lon": -39.7137222
 }

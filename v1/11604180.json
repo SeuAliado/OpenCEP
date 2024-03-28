@@ -5,5 +5,7 @@
   "bairro": "Morro do Abrigo",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.760759,
+  "lon": -45.417532
 }

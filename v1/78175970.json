@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poconé",
   "uf": "MT",
-  "ibge": "5106505"
+  "ibge": "5106505",
+  "lat": -16.2635642,
+  "lon": -56.6273237
 }

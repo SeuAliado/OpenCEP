@@ -5,5 +5,7 @@
   "bairro": "Jardim de Alah",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3717338,
+  "lon": -40.3762255
 }

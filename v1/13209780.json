@@ -5,5 +5,7 @@
   "bairro": "Jardim Campos Elísios",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1875198,
+  "lon": -46.9028114
 }

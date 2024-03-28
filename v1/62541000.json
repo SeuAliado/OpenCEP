@@ -5,5 +5,7 @@
   "bairro": "Garças",
   "localidade": "Amontada",
   "uf": "CE",
-  "ibge": "2300754"
+  "ibge": "2300754",
+  "lat": -3.0254642,
+  "lon": -39.6463623
 }

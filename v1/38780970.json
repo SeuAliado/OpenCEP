@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vazante",
   "uf": "MG",
-  "ibge": "3171006"
+  "ibge": "3171006",
+  "lat": -17.989626,
+  "lon": -46.9062489
 }

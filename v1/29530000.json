@@ -5,5 +5,7 @@
   "bairro": "Anutiba",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "lat": -20.7670319,
+  "lon": -41.5331459
 }

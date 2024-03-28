@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marcolândia",
   "uf": "PI",
-  "ibge": "2205953"
+  "ibge": "2205953",
+  "lat": -7.4148133,
+  "lon": -40.7361322
 }

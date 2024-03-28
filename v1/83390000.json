@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaraqueçaba",
   "uf": "PR",
-  "ibge": "4109500"
+  "ibge": "4109500",
+  "lat": -25.2445091,
+  "lon": -48.3190276
 }

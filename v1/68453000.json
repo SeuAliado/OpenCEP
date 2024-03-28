@@ -5,5 +5,7 @@
   "bairro": "Cairari",
   "localidade": "Moju",
   "uf": "PA",
-  "ibge": "1504703"
+  "ibge": "1504703",
+  "lat": -1.8902879,
+  "lon": -48.7671911
 }

@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "lat": -7.9999839,
+  "lon": -34.8960618
 }

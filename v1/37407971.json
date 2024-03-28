@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Bento Abade",
   "uf": "MG",
-  "ibge": "3160801"
+  "ibge": "3160801",
+  "lat": -21.5912053,
+  "lon": -45.0660772
 }

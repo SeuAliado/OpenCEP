@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Witmarsum",
   "uf": "SC",
-  "ibge": "4219408"
+  "ibge": "4219408",
+  "lat": -26.9269483,
+  "lon": -49.8444891
 }

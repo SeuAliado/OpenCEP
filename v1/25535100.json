@@ -5,5 +5,7 @@
   "bairro": "Vila Norma",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7929708,
+  "lon": -43.4070307
 }

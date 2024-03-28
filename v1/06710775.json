@@ -5,5 +5,7 @@
   "bairro": "Horizontal Park",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.5946208,
+  "lon": -46.8248696
 }

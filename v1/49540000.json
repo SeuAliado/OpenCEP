@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nossa Senhora Aparecida",
   "uf": "SE",
-  "ibge": "2804458"
+  "ibge": "2804458",
+  "lat": -10.3948185,
+  "lon": -37.4520386
 }

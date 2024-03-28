@@ -5,5 +5,7 @@
   "bairro": "Engenhoca",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "lat": -22.8722185,
+  "lon": -43.09574
 }

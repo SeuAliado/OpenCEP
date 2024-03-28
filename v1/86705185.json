@@ -5,5 +5,7 @@
   "bairro": "Vila Passos",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "lat": -23.4114532,
+  "lon": -51.4235761
 }

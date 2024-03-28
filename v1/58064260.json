@@ -5,5 +5,7 @@
   "bairro": "Valentina de Figueiredo",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1980046,
+  "lon": -34.839865
 }

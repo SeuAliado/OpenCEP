@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Oliveira",
   "uf": "MG",
-  "ibge": "3145604"
+  "ibge": "3145604",
+  "lat": -20.6984299,
+  "lon": -44.8256777
 }

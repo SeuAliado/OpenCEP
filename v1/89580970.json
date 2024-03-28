@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fraiburgo",
   "uf": "SC",
-  "ibge": "4205506"
+  "ibge": "4205506",
+  "lat": -27.0264645,
+  "lon": -50.923969
 }

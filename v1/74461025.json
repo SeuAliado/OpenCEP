@@ -5,5 +5,7 @@
   "bairro": "Chácaras Maringá",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.663211,
+  "lon": -49.3623455
 }

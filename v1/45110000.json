@@ -5,5 +5,7 @@
   "bairro": "Inhobim",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "lat": -15.5142323,
+  "lon": -40.9090254
 }

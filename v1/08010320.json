@@ -5,5 +5,7 @@
   "bairro": "Cidade Nitro Operária",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4929428,
+  "lon": -46.4374733
 }

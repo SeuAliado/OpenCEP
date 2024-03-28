@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "lat": -20.2794258,
+  "lon": -50.5482905
 }

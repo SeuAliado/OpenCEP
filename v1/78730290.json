@@ -5,5 +5,7 @@
   "bairro": "Vila São Sebastião II",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4543181,
+  "lon": -54.6077397
 }

@@ -5,5 +5,7 @@
   "bairro": "Paúba",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.7970398,
+  "lon": -45.5375021
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Real de Goiânia",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7442532,
+  "lon": -49.2541364
 }

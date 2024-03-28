@@ -5,5 +5,7 @@
   "bairro": "Rive",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "lat": -20.7528258,
+  "lon": -41.4632724
 }

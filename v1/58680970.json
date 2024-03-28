@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taperoá",
   "uf": "PB",
-  "ibge": "2516508"
+  "ibge": "2516508",
+  "lat": -7.2062366,
+  "lon": -36.8246647
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio dos Milagres",
   "uf": "PI",
-  "ibge": "2209450"
+  "ibge": "2209450",
+  "lat": -6.0473899,
+  "lon": -42.7113807
 }

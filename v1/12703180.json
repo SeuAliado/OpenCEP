@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5838681,
+  "lon": -44.9749447
 }

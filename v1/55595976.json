@@ -5,5 +5,7 @@
   "bairro": "Distrito de Camela",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "lat": -8.5135357,
+  "lon": -35.1238972
 }

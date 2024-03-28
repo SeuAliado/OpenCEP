@@ -5,5 +5,7 @@
   "bairro": "Mimoso",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1358175,
+  "lon": -44.9641341
 }

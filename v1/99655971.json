@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Faxinalzinho",
   "uf": "RS",
-  "ibge": "4308052"
+  "ibge": "4308052",
+  "lat": -27.4227291,
+  "lon": -52.6748095
 }

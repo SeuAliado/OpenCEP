@@ -5,5 +5,7 @@
   "bairro": "Cidade Brasil",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4763297,
+  "lon": -46.5512367
 }

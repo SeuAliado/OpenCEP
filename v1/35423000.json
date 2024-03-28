@@ -5,5 +5,7 @@
   "bairro": "Bandeirantes",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "lat": -20.4005436,
+  "lon": -43.4207566
 }

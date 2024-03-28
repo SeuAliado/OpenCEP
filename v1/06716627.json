@@ -5,5 +5,7 @@
   "bairro": "Portal da Primavera",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "lat": -23.6049158,
+  "lon": -46.9026647
 }

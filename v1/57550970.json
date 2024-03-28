@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Olivença",
   "uf": "AL",
-  "ibge": "2706000"
+  "ibge": "2706000",
+  "lat": -9.5186778,
+  "lon": -37.1890817
 }

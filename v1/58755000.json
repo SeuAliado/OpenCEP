@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Princesa Isabel",
   "uf": "PB",
-  "ibge": "2512309"
+  "ibge": "2512309",
+  "lat": -7.7362129,
+  "lon": -37.9916987
 }

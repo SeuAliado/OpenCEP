@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.05772,
+  "lon": -51.1814369
 }

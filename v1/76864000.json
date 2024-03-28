@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cujubim",
   "uf": "RO",
-  "ibge": "1100940"
+  "ibge": "1100940",
+  "lat": -9.3610478,
+  "lon": -62.585101
 }

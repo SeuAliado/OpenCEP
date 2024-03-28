@@ -5,5 +5,7 @@
   "bairro": "Vila Pinheiro",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.1377305,
+  "lon": -51.3918391
 }

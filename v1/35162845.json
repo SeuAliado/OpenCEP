@@ -5,5 +5,7 @@
   "bairro": "Recanto",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "lat": -19.4612981,
+  "lon": -42.5847245
 }

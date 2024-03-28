@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Confresa",
   "uf": "MT",
-  "ibge": "5103353"
+  "ibge": "5103353",
+  "lat": -10.6427599,
+  "lon": -51.5673533
 }

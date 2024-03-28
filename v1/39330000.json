@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brasília de Minas",
   "uf": "MG",
-  "ibge": "3108602"
+  "ibge": "3108602",
+  "lat": -16.2131693,
+  "lon": -44.433649
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio Corrente",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "lat": -9.399954,
+  "lon": -40.5434095
 }

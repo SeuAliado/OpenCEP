@@ -5,5 +5,7 @@
   "bairro": "Residencial Recanto do Bosque",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.607563,
+  "lon": -49.3046403
 }

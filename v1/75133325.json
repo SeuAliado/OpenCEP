@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3225277,
+  "lon": -48.9638456
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Margarida",
   "uf": "MG",
-  "ibge": "3157906"
+  "ibge": "3157906",
+  "lat": -20.37932,
+  "lon": -42.2501212
 }

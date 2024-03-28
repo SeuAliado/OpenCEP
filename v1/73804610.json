@@ -5,5 +5,7 @@
   "bairro": "Parque Serrano",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "lat": -15.5375937,
+  "lon": -47.3435952
 }

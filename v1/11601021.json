@@ -5,5 +5,7 @@
   "bairro": "Canto do Mar",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.719726,
+  "lon": -45.4291585
 }

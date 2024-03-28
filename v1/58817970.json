@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nazarezinho",
   "uf": "PB",
-  "ibge": "2510006"
+  "ibge": "2510006",
+  "lat": -6.9153593,
+  "lon": -38.3244613
 }

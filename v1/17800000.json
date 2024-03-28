@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "lat": -21.6824831,
+  "lon": -51.0741711
 }

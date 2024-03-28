@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Europa",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.1899688,
+  "lon": -48.2173351
 }

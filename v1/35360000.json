@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro dos Ferros",
   "uf": "MG",
-  "ibge": "3164001"
+  "ibge": "3164001",
+  "lat": -20.168997,
+  "lon": -42.5221286
 }

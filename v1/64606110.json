@@ -5,5 +5,7 @@
   "bairro": "Jardim Natal",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "lat": -7.0785496,
+  "lon": -41.4187104
 }

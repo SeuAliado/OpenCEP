@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pimenteiras",
   "uf": "PI",
-  "ibge": "2208106"
+  "ibge": "2208106",
+  "lat": -6.2783335,
+  "lon": -41.1200028
 }

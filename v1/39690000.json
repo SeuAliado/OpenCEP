@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Malacacheta",
   "uf": "MG",
-  "ibge": "3139201"
+  "ibge": "3139201",
+  "lat": -17.8442329,
+  "lon": -42.0789785
 }

@@ -5,5 +5,7 @@
   "bairro": "Piratini",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "lat": -30.0103945,
+  "lon": -51.0545283
 }

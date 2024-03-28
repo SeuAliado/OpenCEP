@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança (Vila Xavier)",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7937009,
+  "lon": -48.1548607
 }

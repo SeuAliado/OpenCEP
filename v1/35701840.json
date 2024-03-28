@@ -5,5 +5,7 @@
   "bairro": "Pedras",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "lat": -19.4827798,
+  "lon": -42.6249413
 }

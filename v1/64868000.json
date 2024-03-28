@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Baixa Grande do Ribeiro",
   "uf": "PI",
-  "ibge": "2201150"
+  "ibge": "2201150",
+  "lat": -7.8494365,
+  "lon": -45.2193794
 }

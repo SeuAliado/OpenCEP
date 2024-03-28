@@ -5,5 +5,7 @@
   "bairro": "Bonsucesso (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.9948154,
+  "lon": -43.9798958
 }

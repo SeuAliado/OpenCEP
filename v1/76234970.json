@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Piranhas",
   "uf": "GO",
-  "ibge": "5217203"
+  "ibge": "5217203",
+  "lat": -16.4277546,
+  "lon": -51.8217132
 }

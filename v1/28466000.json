@@ -5,5 +5,7 @@
   "bairro": "Venda das Flores",
   "localidade": "Miracema",
   "uf": "RJ",
-  "ibge": "3303005"
+  "ibge": "3303005",
+  "lat": -21.332638,
+  "lon": -42.1345954
 }

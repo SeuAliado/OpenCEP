@@ -5,5 +5,7 @@
   "bairro": "Conjunto Treze de Maio",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7432093,
+  "lon": -47.9496815
 }

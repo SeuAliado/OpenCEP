@@ -5,5 +5,7 @@
   "bairro": "Parque Jurema",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4474201,
+  "lon": -46.4163373
 }

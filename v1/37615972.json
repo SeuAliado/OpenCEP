@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Amaral",
   "uf": "MG",
-  "ibge": "3165578"
+  "ibge": "3165578",
+  "lat": -22.5880125,
+  "lon": -46.1765602
 }

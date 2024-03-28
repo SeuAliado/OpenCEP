@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora D'Ajuda",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4883481,
+  "lon": -46.3585484
 }

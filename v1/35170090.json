@@ -5,5 +5,7 @@
   "bairro": "Manoel Domingos",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5262772,
+  "lon": -42.6316007
 }

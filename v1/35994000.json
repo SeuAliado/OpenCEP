@@ -5,5 +5,7 @@
   "bairro": "Ilhéus do Prata",
   "localidade": "São Domingos do Prata",
   "uf": "MG",
-  "ibge": "3161007"
+  "ibge": "3161007",
+  "lat": -19.8719328,
+  "lon": -42.9679515
 }

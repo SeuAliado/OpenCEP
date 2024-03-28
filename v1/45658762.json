@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "lat": -14.7933292,
+  "lon": -39.0577769
 }

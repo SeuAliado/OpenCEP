@@ -5,5 +5,7 @@
   "bairro": "Vila Oliva",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "lat": -29.2221691,
+  "lon": -50.8884938
 }

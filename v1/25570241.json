@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7725282,
+  "lon": -43.3534809
 }

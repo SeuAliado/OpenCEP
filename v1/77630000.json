@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lizarda",
   "uf": "TO",
-  "ibge": "1712405"
+  "ibge": "1712405",
+  "lat": -9.6046281,
+  "lon": -46.6833948
 }

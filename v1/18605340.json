@@ -5,5 +5,7 @@
   "bairro": "Chácara Recreio do Havaí",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "lat": -22.9132972,
+  "lon": -48.4347881
 }

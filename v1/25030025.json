@@ -5,5 +5,7 @@
   "bairro": "Vila Leopoldina",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.7695306,
+  "lon": -43.3100629
 }

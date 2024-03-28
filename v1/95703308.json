@@ -5,5 +5,7 @@
   "bairro": "Fenavinho",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "lat": -29.1686684,
+  "lon": -51.5009552
 }

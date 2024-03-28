@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Cumbica",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4203848,
+  "lon": -46.42236
 }

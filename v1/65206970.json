@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedro do Rosário",
   "uf": "MA",
-  "ibge": "2108256"
+  "ibge": "2108256",
+  "lat": -2.9730898,
+  "lon": -45.3497162
 }

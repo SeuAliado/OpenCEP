@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana da Boa Vista",
   "uf": "RS",
-  "ibge": "4317004"
+  "ibge": "4317004",
+  "lat": -30.8702334,
+  "lon": -53.1105128
 }

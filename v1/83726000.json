@@ -5,5 +5,7 @@
   "bairro": "Formigueiro",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "lat": -23.4202016,
+  "lon": -51.4464844
 }

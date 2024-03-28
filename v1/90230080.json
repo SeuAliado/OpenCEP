@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0063194,
+  "lon": -51.2011506
 }

@@ -5,5 +5,7 @@
   "bairro": "Águas Férreas",
   "localidade": "São Pedro dos Ferros",
   "uf": "MG",
-  "ibge": "3164001"
+  "ibge": "3164001",
+  "lat": -20.0924151,
+  "lon": -42.6227752
 }

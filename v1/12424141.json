@@ -5,5 +5,7 @@
   "bairro": "Mombaça",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9569907,
+  "lon": -45.5021779
 }

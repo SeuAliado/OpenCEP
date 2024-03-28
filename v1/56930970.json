@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Calumbi",
   "uf": "PE",
-  "ibge": "2603405"
+  "ibge": "2603405",
+  "lat": -7.9359275,
+  "lon": -38.1485874
 }

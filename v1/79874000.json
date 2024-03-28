@@ -5,5 +5,7 @@
   "bairro": "Guaçu",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "lat": -22.2126494,
+  "lon": -54.7603186
 }

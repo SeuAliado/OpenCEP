@@ -5,5 +5,7 @@
   "bairro": "Vila Grécia",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "lat": -25.3197728,
+  "lon": -49.2770107
 }

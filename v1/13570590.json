@@ -5,5 +5,7 @@
   "bairro": "Vila Marcelino",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "lat": -22.0286568,
+  "lon": -47.8844829
 }

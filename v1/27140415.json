@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "lat": -22.4817031,
+  "lon": -43.799324
 }

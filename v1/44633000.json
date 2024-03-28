@@ -5,5 +5,7 @@
   "bairro": "Angico",
   "localidade": "Mairi",
   "uf": "BA",
-  "ibge": "2920106"
+  "ibge": "2920106",
+  "lat": -11.67259,
+  "lon": -40.290081
 }

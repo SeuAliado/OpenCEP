@@ -5,5 +5,7 @@
   "bairro": "Vila Perino",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9701383,
+  "lon": -49.8669819
 }

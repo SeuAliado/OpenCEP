@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Jundiaí",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1501095,
+  "lon": -47.0090587
 }

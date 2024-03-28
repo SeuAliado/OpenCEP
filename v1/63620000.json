@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Solonópole",
   "uf": "CE",
-  "ibge": "2313005"
+  "ibge": "2313005",
+  "lat": -5.7571714,
+  "lon": -39.0293884
 }

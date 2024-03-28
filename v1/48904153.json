@@ -5,5 +5,7 @@
   "bairro": "Coréia",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "lat": -9.4201566,
+  "lon": -40.4921662
 }

@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.5530012,
+  "lon": -45.419509
 }

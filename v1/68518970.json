@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Araguaia",
   "uf": "PA",
-  "ibge": "1507508"
+  "ibge": "1507508",
+  "lat": -5.5396115,
+  "lon": -48.7320418
 }

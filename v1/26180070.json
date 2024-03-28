@@ -5,5 +5,7 @@
   "bairro": "Parque Colonial",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7121157,
+  "lon": -43.3400115
 }

@@ -5,5 +5,7 @@
   "bairro": "Nações",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "lat": -27.242303,
+  "lon": -52.028617
 }

@@ -5,5 +5,7 @@
   "bairro": "Estância dos Ipês",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.781651,
+  "lon": -47.9775256
 }

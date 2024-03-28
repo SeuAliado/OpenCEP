@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Colinas",
   "uf": "MA",
-  "ibge": "2107258"
+  "ibge": "2107258",
+  "lat": -7.1189228,
+  "lon": -46.2619084
 }

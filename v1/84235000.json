@@ -5,5 +5,7 @@
   "bairro": "Ouro Verde",
   "localidade": "Sengés",
   "uf": "PR",
-  "ibge": "4126306"
+  "ibge": "4126306",
+  "lat": -24.1140598,
+  "lon": -49.468642
 }

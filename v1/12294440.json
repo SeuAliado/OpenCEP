@@ -5,5 +5,7 @@
   "bairro": "Tijuco Preto",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "lat": -23.1218343,
+  "lon": -45.710021
 }

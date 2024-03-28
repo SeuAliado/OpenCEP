@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Umirim",
   "uf": "CE",
-  "ibge": "2313757"
+  "ibge": "2313757",
+  "lat": -3.6773001,
+  "lon": -39.3497987
 }

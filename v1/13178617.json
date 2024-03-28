@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Angelo Tomazin",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8080539,
+  "lon": -47.2012053
 }

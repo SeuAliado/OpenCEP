@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nordestina",
   "uf": "BA",
-  "ibge": "2922656"
+  "ibge": "2922656",
+  "lat": -10.8247619,
+  "lon": -39.4297427
 }

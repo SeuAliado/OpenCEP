@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iranduba",
   "uf": "AM",
-  "ibge": "1301852"
+  "ibge": "1301852",
+  "lat": -3.2802517,
+  "lon": -60.1855911
 }

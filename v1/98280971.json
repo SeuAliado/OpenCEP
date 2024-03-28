@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Panambi",
   "uf": "RS",
-  "ibge": "4313904"
+  "ibge": "4313904",
+  "lat": -28.293611,
+  "lon": -53.4998396
 }

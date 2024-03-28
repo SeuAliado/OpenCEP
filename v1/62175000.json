@@ -5,5 +5,7 @@
   "bairro": "Carquejo",
   "localidade": "Mucambo",
   "uf": "CE",
-  "ibge": "2309003"
+  "ibge": "2309003",
+  "lat": -3.8970857,
+  "lon": -40.8507928
 }

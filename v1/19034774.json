@@ -5,5 +5,7 @@
   "bairro": "Residencial Cremonezi",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "lat": -22.0792483,
+  "lon": -51.3818133
 }

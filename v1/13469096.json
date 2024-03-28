@@ -5,5 +5,7 @@
   "bairro": "Vila Omar",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7422918,
+  "lon": -47.3550966
 }

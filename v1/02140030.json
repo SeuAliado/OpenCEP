@@ -5,5 +5,7 @@
   "bairro": "Vila Sabrina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4882706,
+  "lon": -46.572111
 }

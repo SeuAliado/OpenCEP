@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Quijingue",
   "uf": "BA",
-  "ibge": "2925907"
+  "ibge": "2925907",
+  "lat": -10.7509511,
+  "lon": -39.2140495
 }

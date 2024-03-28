@@ -5,5 +5,7 @@
   "bairro": "Passo do Príncipe",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "lat": -31.3453249,
+  "lon": -54.1235442
 }

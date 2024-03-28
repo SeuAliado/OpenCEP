@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Flexeiras",
   "uf": "AL",
-  "ibge": "2702801"
+  "ibge": "2702801",
+  "lat": -9.2756555,
+  "lon": -35.7266204
 }

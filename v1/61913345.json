@@ -5,5 +5,7 @@
   "bairro": "Cágado",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "lat": -3.8831127,
+  "lon": -38.6282389
 }

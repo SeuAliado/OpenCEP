@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "lat": -8.0098869,
+  "lon": -34.8666281
 }

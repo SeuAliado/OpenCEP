@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Marias",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2036441,
+  "lon": -47.2997808
 }

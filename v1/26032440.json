@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7287456,
+  "lon": -43.4773056
 }

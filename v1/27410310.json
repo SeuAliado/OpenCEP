@@ -5,5 +5,7 @@
   "bairro": "Loteamento Bondarovshy",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "lat": -22.4204801,
+  "lon": -44.2589155
 }

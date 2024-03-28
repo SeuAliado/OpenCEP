@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo Beira Rio",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "lat": -15.65507,
+  "lon": -56.0690011
 }

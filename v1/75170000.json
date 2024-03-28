@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goianápolis",
   "uf": "GO",
-  "ibge": "5208400"
+  "ibge": "5208400",
+  "lat": -16.506621,
+  "lon": -49.0213663
 }

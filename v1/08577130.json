@@ -5,5 +5,7 @@
   "bairro": "Tipoia",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4800308,
+  "lon": -46.3598618
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Telha",
   "uf": "SE",
-  "ibge": "2807303"
+  "ibge": "2807303",
+  "lat": -10.2087342,
+  "lon": -36.8837217
 }

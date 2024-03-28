@@ -5,5 +5,7 @@
   "bairro": "Aribiri",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.3050478,
+  "lon": -40.3668265
 }

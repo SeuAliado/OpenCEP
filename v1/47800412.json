@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "lat": -12.1442876,
+  "lon": -44.9839972
 }

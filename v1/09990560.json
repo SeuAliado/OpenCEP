@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "lat": -23.7004419,
+  "lon": -46.624838
 }

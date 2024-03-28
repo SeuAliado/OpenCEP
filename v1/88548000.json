@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capão Alto",
   "uf": "SC",
-  "ibge": "4203253"
+  "ibge": "4203253",
+  "lat": -27.9394326,
+  "lon": -50.5102841
 }

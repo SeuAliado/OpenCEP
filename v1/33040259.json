@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Deputado Simão da Cunha",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "lat": -19.8332975,
+  "lon": -43.8549026
 }

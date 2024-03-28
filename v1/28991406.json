@@ -5,5 +5,7 @@
   "bairro": "Porto da Roça I",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.9066093,
+  "lon": -42.4698819
 }

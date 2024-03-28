@@ -5,5 +5,7 @@
   "bairro": "Jardim Metrópole",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7636295,
+  "lon": -43.3377348
 }

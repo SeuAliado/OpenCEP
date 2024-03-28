@@ -5,5 +5,7 @@
   "bairro": "Nova Canaã",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "lat": -20.3055272,
+  "lon": -40.3666028
 }

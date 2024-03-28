@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Imaruí",
   "uf": "SC",
-  "ibge": "4207205"
+  "ibge": "4207205",
+  "lat": -28.3456036,
+  "lon": -48.8142694
 }

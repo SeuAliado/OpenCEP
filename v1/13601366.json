@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "lat": -22.3869949,
+  "lon": -47.377216
 }

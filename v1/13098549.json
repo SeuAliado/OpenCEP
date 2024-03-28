@@ -5,5 +5,7 @@
   "bairro": "Loteamento Mont Blanc Residence",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8302054,
+  "lon": -47.0213291
 }

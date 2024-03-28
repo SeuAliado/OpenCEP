@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Branca",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9787355,
+  "lon": -44.190365
 }

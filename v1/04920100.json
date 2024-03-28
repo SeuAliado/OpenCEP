@@ -5,5 +5,7 @@
   "bairro": "Jardim Ângela (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6894302,
+  "lon": -46.754497
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vargem Grande",
   "uf": "MA",
-  "ibge": "2112704"
+  "ibge": "2112704",
+  "lat": -3.5420414,
+  "lon": -43.9196604
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Maria de Maggi",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5261572,
+  "lon": -46.3226044
 }

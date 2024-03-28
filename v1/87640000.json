@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Uniflor",
   "uf": "PR",
-  "ibge": "4128302"
+  "ibge": "4128302",
+  "lat": -23.0873035,
+  "lon": -52.1577962
 }

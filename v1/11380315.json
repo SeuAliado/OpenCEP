@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "lat": -23.959739,
+  "lon": -46.3755153
 }

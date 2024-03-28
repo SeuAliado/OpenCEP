@@ -5,5 +5,7 @@
   "bairro": "Hélio Ferraz",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.2394284,
+  "lon": -40.2696634
 }

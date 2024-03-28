@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Juscelino Kubitschek",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.1719088,
+  "lon": -49.9584043
 }

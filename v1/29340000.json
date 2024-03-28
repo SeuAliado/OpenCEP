@@ -5,5 +5,7 @@
   "bairro": "Rio Muqui",
   "localidade": "Itapemirim",
   "uf": "ES",
-  "ibge": "3202801"
+  "ibge": "3202801",
+  "lat": -21.0099029,
+  "lon": -40.8325579
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pacajus",
   "uf": "CE",
-  "ibge": "2309607"
+  "ibge": "2309607",
+  "lat": -4.1731846,
+  "lon": -38.460945
 }

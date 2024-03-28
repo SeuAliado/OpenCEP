@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmas de Monte Alto",
   "uf": "BA",
-  "ibge": "2923407"
+  "ibge": "2923407",
+  "lat": -14.1500098,
+  "lon": -43.2521507
 }

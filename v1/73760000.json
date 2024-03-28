@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São João D'Aliança",
   "uf": "GO",
-  "ibge": "5220009"
+  "ibge": "5220009",
+  "lat": -14.4353041,
+  "lon": -47.3706554
 }

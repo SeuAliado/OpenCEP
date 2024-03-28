@@ -5,5 +5,7 @@
   "bairro": "Capão da Cruz",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "lat": -29.8425324,
+  "lon": -51.146515
 }

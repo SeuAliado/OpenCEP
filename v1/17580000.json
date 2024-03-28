@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "lat": -22.1007393,
+  "lon": -50.1858252
 }

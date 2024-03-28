@@ -5,5 +5,7 @@
   "bairro": "Jardim Acapulco",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "lat": -23.954443,
+  "lon": -46.1944892
 }

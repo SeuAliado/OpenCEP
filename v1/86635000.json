@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lupionópolis",
   "uf": "PR",
-  "ibge": "4113809"
+  "ibge": "4113809",
+  "lat": -22.7150638,
+  "lon": -51.6623517
 }

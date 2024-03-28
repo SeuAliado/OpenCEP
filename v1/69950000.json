@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Manoel Urbano",
   "uf": "AC",
-  "ibge": "1200344"
+  "ibge": "1200344",
+  "lat": -9.9165208,
+  "lon": -70.1455805
 }

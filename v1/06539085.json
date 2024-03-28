@@ -5,5 +5,7 @@
   "bairro": "Alphaville",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "lat": -23.4621963,
+  "lon": -46.8857143
 }

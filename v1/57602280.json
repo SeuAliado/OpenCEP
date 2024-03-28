@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "lat": -9.4159227,
+  "lon": -36.6242105
 }

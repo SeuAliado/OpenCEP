@@ -5,5 +5,7 @@
   "bairro": "Parque São Luiz",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1506327,
+  "lon": -46.8744099
 }

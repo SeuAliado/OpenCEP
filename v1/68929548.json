@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "lat": -0.0522868,
+  "lon": -51.1579835
 }

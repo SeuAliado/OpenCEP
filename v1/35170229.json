@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.4821727,
+  "lon": -42.6307261
 }

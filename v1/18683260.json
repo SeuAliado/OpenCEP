@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Cecília",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "lat": -22.592813,
+  "lon": -48.8066713
 }

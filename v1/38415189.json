@@ -5,5 +5,7 @@
   "bairro": "Taiaman",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9017197,
+  "lon": -48.3236056
 }

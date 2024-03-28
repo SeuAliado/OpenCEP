@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Pedro Luis Boso",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "lat": -21.1598332,
+  "lon": -48.9432551
 }

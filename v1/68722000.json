@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Magalhães Barata",
   "uf": "PA",
-  "ibge": "1504109"
+  "ibge": "1504109",
+  "lat": -0.7989555,
+  "lon": -47.6019768
 }

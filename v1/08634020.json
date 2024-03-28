@@ -5,5 +5,7 @@
   "bairro": "Quinta Divisão",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6860158,
+  "lon": -46.2990298
 }

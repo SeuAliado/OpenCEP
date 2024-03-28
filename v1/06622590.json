@@ -5,5 +5,7 @@
   "bairro": "Parque das Iglesias",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "lat": -23.5517121,
+  "lon": -46.9027583
 }

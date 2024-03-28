@@ -5,5 +5,7 @@
   "bairro": "Caxias do Sul",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "lat": -20.3430857,
+  "lon": -40.4036531
 }

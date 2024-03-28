@@ -5,5 +5,7 @@
   "bairro": "Parque San Remo III",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "lat": -23.7789171,
+  "lon": -53.3139772
 }

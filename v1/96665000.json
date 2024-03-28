@@ -5,5 +5,7 @@
   "bairro": "João Rodrigues",
   "localidade": "Rio Pardo",
   "uf": "RS",
-  "ibge": "4315701"
+  "ibge": "4315701",
+  "lat": -29.9914912,
+  "lon": -52.3753686
 }

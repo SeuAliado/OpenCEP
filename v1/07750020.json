@@ -5,5 +5,7 @@
   "bairro": "Empresarial Colina",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "lat": -23.341034,
+  "lon": -46.845628
 }

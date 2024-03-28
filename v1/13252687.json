@@ -5,5 +5,7 @@
   "bairro": "Capela do Barreiro",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -22.9961603,
+  "lon": -46.804861
 }

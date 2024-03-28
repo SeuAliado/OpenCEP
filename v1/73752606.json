@@ -5,5 +5,7 @@
   "bairro": "Parque do Sol Nascente II",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "lat": -15.4476124,
+  "lon": -47.6042503
 }

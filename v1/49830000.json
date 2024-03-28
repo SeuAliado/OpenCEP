@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gararu",
   "uf": "SE",
-  "ibge": "2802403"
+  "ibge": "2802403",
+  "lat": -10.0156826,
+  "lon": -37.2329979
 }

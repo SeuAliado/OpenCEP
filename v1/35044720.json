@@ -5,5 +5,7 @@
   "bairro": "Vilagge da Serra",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.834807,
+  "lon": -41.9932932
 }

@@ -5,5 +5,7 @@
   "bairro": "Frade (Cunhambebe)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "lat": -22.9632853,
+  "lon": -44.4399297
 }

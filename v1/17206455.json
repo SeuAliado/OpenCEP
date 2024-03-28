@@ -5,5 +5,7 @@
   "bairro": "Loteamento Industrial Quinta da Colina",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2630978,
+  "lon": -48.5574717
 }

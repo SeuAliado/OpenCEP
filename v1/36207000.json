@@ -5,5 +5,7 @@
   "bairro": "Senhora das Dores",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "lat": -21.1932393,
+  "lon": -43.6438249
 }

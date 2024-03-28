@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8315066,
+  "lon": -40.2817688
 }

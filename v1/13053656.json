@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -23.0323437,
+  "lon": -47.1422502
 }

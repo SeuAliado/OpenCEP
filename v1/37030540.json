@@ -5,5 +5,7 @@
   "bairro": "Pinheiros",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "lat": -21.536981,
+  "lon": -45.4460431
 }

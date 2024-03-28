@@ -5,5 +5,7 @@
   "bairro": "Residencial São Francisco",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "lat": -11.8827406,
+  "lon": -55.4791817
 }

@@ -5,5 +5,7 @@
   "bairro": "Itaperuna",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "lat": -18.7104497,
+  "lon": -40.7339974
 }

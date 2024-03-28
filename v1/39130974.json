@@ -5,5 +5,7 @@
   "bairro": "Cachimbo",
   "localidade": "Datas",
   "uf": "MG",
-  "ibge": "3121001"
+  "ibge": "3121001",
+  "lat": -18.6388957,
+  "lon": -43.7171923
 }

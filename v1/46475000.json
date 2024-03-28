@@ -5,5 +5,7 @@
   "bairro": "Botuquara",
   "localidade": "Riacho de Santana",
   "uf": "BA",
-  "ibge": "2926400"
+  "ibge": "2926400",
+  "lat": -13.6615948,
+  "lon": -42.8505757
 }

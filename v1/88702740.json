@@ -5,5 +5,7 @@
   "bairro": "Fábio Silva",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "lat": -28.4858157,
+  "lon": -49.0329072
 }

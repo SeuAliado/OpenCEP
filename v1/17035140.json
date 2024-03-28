@@ -5,5 +5,7 @@
   "bairro": "Tangarás",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3199177,
+  "lon": -48.9971227
 }

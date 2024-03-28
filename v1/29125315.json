@@ -5,5 +5,7 @@
   "bairro": "Praia dos Recifes",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.4464489,
+  "lon": -40.332751
 }

@@ -5,5 +5,7 @@
   "bairro": "Bizarra",
   "localidade": "Bom Jardim",
   "uf": "PE",
-  "ibge": "2602209"
+  "ibge": "2602209",
+  "lat": -7.8049078,
+  "lon": -35.5876697
 }

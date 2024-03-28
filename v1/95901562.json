@@ -5,5 +5,7 @@
   "bairro": "Conservas",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "lat": -29.4750441,
+  "lon": -51.97545
 }

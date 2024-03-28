@@ -5,5 +5,7 @@
   "bairro": "Paredão de Minas",
   "localidade": "Buritizeiro",
   "uf": "MG",
-  "ibge": "3109402"
+  "ibge": "3109402",
+  "lat": -17.3632393,
+  "lon": -44.9642692
 }

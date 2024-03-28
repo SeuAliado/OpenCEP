@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaúba",
   "uf": "MT",
-  "ibge": "5104559"
+  "ibge": "5104559",
+  "lat": -11.0071788,
+  "lon": -55.2453366
 }

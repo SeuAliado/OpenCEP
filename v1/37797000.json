@@ -5,5 +5,7 @@
   "bairro": "Campestrinho",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "lat": -22.1455864,
+  "lon": -46.4657311
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Angelina Marcante",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9589098,
+  "lon": -49.8698097
 }

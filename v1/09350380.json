@@ -5,5 +5,7 @@
   "bairro": "Vila Correia",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "lat": -23.6815713,
+  "lon": -46.4425368
 }

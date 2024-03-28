@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Ijuí",
   "uf": "RS",
-  "ibge": "4310207"
+  "ibge": "4310207",
+  "lat": -28.6213931,
+  "lon": -53.0830461
 }

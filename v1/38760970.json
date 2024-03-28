@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serra do Salitre",
   "uf": "MG",
-  "ibge": "3166808"
+  "ibge": "3166808",
+  "lat": -19.1130132,
+  "lon": -46.685331
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "lat": -22.955277,
+  "lon": -46.5494288
 }

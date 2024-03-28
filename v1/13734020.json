@@ -5,5 +5,7 @@
   "bairro": "Vila Naufel",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "lat": -21.4644107,
+  "lon": -46.9938881
 }

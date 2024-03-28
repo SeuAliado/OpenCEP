@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caxingó",
   "uf": "PI",
-  "ibge": "2202653"
+  "ibge": "2202653",
+  "lat": -3.4194195,
+  "lon": -41.8958485
 }

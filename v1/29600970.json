@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Afonso Cláudio",
   "uf": "ES",
-  "ibge": "3200102"
+  "ibge": "3200102",
+  "lat": -20.0751601,
+  "lon": -41.1264454
 }

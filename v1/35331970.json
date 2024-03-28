@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus do Rio Preto",
   "localidade": "Inhapim",
   "uf": "MG",
-  "ibge": "3130903"
+  "ibge": "3130903",
+  "lat": -19.4697679,
+  "lon": -41.8821059
 }

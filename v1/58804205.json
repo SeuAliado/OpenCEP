@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Sousa",
   "uf": "PB",
-  "ibge": "2516201"
+  "ibge": "2516201",
+  "lat": -6.7666366,
+  "lon": -38.2290491
 }

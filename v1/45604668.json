@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "lat": -14.7761156,
+  "lon": -39.259436
 }

@@ -5,5 +5,7 @@
   "bairro": "Juquiratiba",
   "localidade": "Conchas",
   "uf": "SP",
-  "ibge": "3512308"
+  "ibge": "3512308",
+  "lat": -11.0232145,
+  "lon": -37.474589
 }

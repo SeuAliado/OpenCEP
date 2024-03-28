@@ -5,5 +5,7 @@
   "bairro": "Jardim Belo Horizonte II",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7592166,
+  "lon": -47.4054732
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Central",
   "localidade": "Japeri",
   "uf": "RJ",
-  "ibge": "3302270"
+  "ibge": "3302270",
+  "lat": -22.6886193,
+  "lon": -43.6047508
 }

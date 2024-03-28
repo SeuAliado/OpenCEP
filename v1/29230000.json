@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "lat": -20.8006667,
+  "lon": -40.644506
 }

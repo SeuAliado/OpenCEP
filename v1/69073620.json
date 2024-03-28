@@ -5,5 +5,7 @@
   "bairro": "São Lázaro",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "lat": -3.1371115,
+  "lon": -59.9920429
 }

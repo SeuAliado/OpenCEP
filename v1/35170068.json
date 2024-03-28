@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Carmo",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.506272,
+  "lon": -42.6379084
 }

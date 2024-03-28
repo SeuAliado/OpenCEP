@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tocantínia",
   "uf": "TO",
-  "ibge": "1721109"
+  "ibge": "1721109",
+  "lat": -9.5410632,
+  "lon": -48.1597946
 }

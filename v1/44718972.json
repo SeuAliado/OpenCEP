@@ -5,5 +5,7 @@
   "bairro": "Lagoa do Trinta e Três",
   "localidade": "Ourolândia",
   "uf": "BA",
-  "ibge": "2923357"
+  "ibge": "2923357",
+  "lat": -10.9738684,
+  "lon": -41.0914595
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tangará",
   "uf": "SC",
-  "ibge": "4217907"
+  "ibge": "4217907",
+  "lat": -27.1041077,
+  "lon": -51.2451262
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "lat": -23.0357729,
+  "lon": -49.1647555
 }

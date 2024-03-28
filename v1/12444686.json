@@ -5,5 +5,7 @@
   "bairro": "Residencial Liberdade (Moreira César)",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "lat": -22.9041696,
+  "lon": -45.3771095
 }

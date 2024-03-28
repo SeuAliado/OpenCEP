@@ -5,5 +5,7 @@
   "bairro": "Varjão",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.7108119,
+  "lon": -47.8736773
 }

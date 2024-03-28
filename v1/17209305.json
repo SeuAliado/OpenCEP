@@ -5,5 +5,7 @@
   "bairro": "Jardim Cila de Lúcio Bauab",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.2681983,
+  "lon": -48.5390956
 }

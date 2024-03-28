@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jardim do Seridó",
   "uf": "RN",
-  "ibge": "2405702"
+  "ibge": "2405702",
+  "lat": -6.581329,
+  "lon": -36.8034921
 }

@@ -5,5 +5,7 @@
   "bairro": "Indianópolis",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.734571,
+  "lon": -47.9142471
 }

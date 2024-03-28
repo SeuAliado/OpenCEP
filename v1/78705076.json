@@ -5,5 +5,7 @@
   "bairro": "Vila Andréia",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4665264,
+  "lon": -54.64307
 }

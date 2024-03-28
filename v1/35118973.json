@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Periquito",
   "uf": "MG",
-  "ibge": "3149952"
+  "ibge": "3149952",
+  "lat": -19.158962,
+  "lon": -42.2470457
 }

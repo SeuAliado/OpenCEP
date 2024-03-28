@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piquete",
   "uf": "SP",
-  "ibge": "3538501"
+  "ibge": "3538501",
+  "lat": -22.6097365,
+  "lon": -45.1818627
 }

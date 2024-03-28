@@ -5,5 +5,7 @@
   "bairro": "Parque Umari",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7548382,
+  "lon": -43.3394264
 }

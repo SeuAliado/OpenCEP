@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lajeado Novo",
   "uf": "MA",
-  "ibge": "2105989"
+  "ibge": "2105989",
+  "lat": -6.1857776,
+  "lon": -47.0297071
 }

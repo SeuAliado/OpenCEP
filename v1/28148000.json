@@ -5,5 +5,7 @@
   "bairro": "Tocos",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "lat": -21.8334705,
+  "lon": -41.2610311
 }

@@ -5,5 +5,7 @@
   "bairro": "Primeiro de Maio",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "lat": -23.2875458,
+  "lon": -46.035691
 }

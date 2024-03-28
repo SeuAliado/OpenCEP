@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cacique Doble",
   "uf": "RS",
-  "ibge": "4303202"
+  "ibge": "4303202",
+  "lat": -27.7701408,
+  "lon": -51.6611059
 }

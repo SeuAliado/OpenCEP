@@ -5,5 +5,7 @@
   "bairro": "Jardim Rui Barbosa",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4438434,
+  "lon": -54.6757975
 }

@@ -5,5 +5,7 @@
   "bairro": "Montanhão",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "lat": -23.7111868,
+  "lon": -46.5261395
 }

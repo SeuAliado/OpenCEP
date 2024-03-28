@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piraí do Norte",
   "uf": "BA",
-  "ibge": "2924678"
+  "ibge": "2924678",
+  "lat": -13.7594147,
+  "lon": -39.3839531
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5498462,
+  "lon": -46.3130185
 }

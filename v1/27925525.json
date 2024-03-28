@@ -5,5 +5,7 @@
   "bairro": "Imboassica",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "lat": -22.4079007,
+  "lon": -41.861488
 }

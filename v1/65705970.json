@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lago Verde",
   "uf": "MA",
-  "ibge": "2105906"
+  "ibge": "2105906",
+  "lat": -4.0402949,
+  "lon": -44.9379649
 }

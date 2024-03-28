@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedra Branca do Amaparí",
   "uf": "AP",
-  "ibge": "1600154"
+  "ibge": "1600154",
+  "lat": -8.7482476,
+  "lon": -63.83572
 }

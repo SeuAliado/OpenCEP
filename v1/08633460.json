@@ -5,5 +5,7 @@
   "bairro": "Recreio Bela Vista",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6491068,
+  "lon": -46.3180165
 }

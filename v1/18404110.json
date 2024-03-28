@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "lat": -23.9903591,
+  "lon": -48.8716624
 }

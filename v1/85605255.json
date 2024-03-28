@@ -5,5 +5,7 @@
   "bairro": "Miniguaçu",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "lat": -26.0770276,
+  "lon": -53.0323133
 }

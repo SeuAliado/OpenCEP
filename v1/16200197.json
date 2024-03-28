@@ -5,5 +5,7 @@
   "bairro": "Vila Saudades",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "lat": -21.2954184,
+  "lon": -50.3486924
 }

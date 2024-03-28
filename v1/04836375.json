@@ -5,5 +5,7 @@
   "bairro": "Jardim Alpino",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.7449367,
+  "lon": -46.7099964
 }

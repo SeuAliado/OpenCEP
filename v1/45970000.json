@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itanhém",
   "uf": "BA",
-  "ibge": "2916005"
+  "ibge": "2916005",
+  "lat": -17.16468,
+  "lon": -40.3325144
 }

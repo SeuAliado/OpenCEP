@@ -5,5 +5,7 @@
   "bairro": "Vila Sanches",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9076638,
+  "lon": -51.3874753
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Helena",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4816645,
+  "lon": -46.3580283
 }

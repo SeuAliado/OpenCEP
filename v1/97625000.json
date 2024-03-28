@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "São Francisco de Assis",
   "uf": "RS",
-  "ibge": "4318101"
+  "ibge": "4318101",
+  "lat": -29.6909762,
+  "lon": -51.1139674
 }

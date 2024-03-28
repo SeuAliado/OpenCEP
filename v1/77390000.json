@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Valério da Natividade",
   "uf": "TO",
-  "ibge": "1720499"
+  "ibge": "1720499",
+  "lat": -11.9747431,
+  "lon": -48.2357462
 }

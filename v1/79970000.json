@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Eldorado",
   "uf": "MS",
-  "ibge": "5003751"
+  "ibge": "5003751",
+  "lat": -23.7816031,
+  "lon": -54.2812804
 }

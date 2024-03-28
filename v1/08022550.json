@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Elias (São Miguel)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4918659,
+  "lon": -46.433562
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Arquelau",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7258126,
+  "lon": -47.914874
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Samambaia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9322895,
+  "lon": -47.0179655
 }

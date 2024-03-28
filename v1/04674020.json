@@ -5,5 +5,7 @@
   "bairro": "Jardim do Carmo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -20.335156,
+  "lon": -47.7979772
 }

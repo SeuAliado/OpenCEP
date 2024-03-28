@@ -5,5 +5,7 @@
   "bairro": "Mantiquira",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "lat": -22.5664141,
+  "lon": -43.3121901
 }

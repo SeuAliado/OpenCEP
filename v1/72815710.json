@@ -5,5 +5,7 @@
   "bairro": "Setor Norte",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "lat": -16.2351786,
+  "lon": -47.9422614
 }

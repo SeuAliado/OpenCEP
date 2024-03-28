@@ -5,5 +5,7 @@
   "bairro": "Guaxindiba",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.8071439,
+  "lon": -40.2766198
 }

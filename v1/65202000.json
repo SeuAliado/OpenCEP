@@ -5,5 +5,7 @@
   "bairro": "Roque",
   "localidade": "Pinheiro",
   "uf": "MA",
-  "ibge": "2108603"
+  "ibge": "2108603",
+  "lat": -2.7836484,
+  "lon": -45.2480284
 }

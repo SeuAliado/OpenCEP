@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capela Nova",
   "uf": "MG",
-  "ibge": "3112208"
+  "ibge": "3112208",
+  "lat": -20.9100719,
+  "lon": -43.5799151
 }

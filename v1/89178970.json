@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Braço do Trombudo",
   "uf": "SC",
-  "ibge": "4202859"
+  "ibge": "4202859",
+  "lat": -27.3590749,
+  "lon": -49.8826333
 }

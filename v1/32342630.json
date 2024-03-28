@@ -5,5 +5,7 @@
   "bairro": "Perobas 2",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9199033,
+  "lon": -44.0552622
 }

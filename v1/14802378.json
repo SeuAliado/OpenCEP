@@ -5,5 +5,7 @@
   "bairro": "Vila João Godói",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7779807,
+  "lon": -48.174586
 }

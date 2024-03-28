@@ -5,5 +5,7 @@
   "bairro": "Jardim Cotching",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5741897,
+  "lon": -46.5289835
 }

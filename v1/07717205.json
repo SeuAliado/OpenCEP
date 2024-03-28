@@ -5,5 +5,7 @@
   "bairro": "Vera Tereza",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3640635,
+  "lon": -46.7484063
 }

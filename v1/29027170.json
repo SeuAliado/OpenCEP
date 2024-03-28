@@ -5,5 +5,7 @@
   "bairro": "Mário Cypreste",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "lat": -20.3149551,
+  "lon": -40.3582987
 }

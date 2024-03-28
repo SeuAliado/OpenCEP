@@ -5,5 +5,7 @@
   "bairro": "Itamarati",
   "localidade": "Águas Vermelhas",
   "uf": "MG",
-  "ibge": "3101003"
+  "ibge": "3101003",
+  "lat": -15.5801224,
+  "lon": -41.4055481
 }

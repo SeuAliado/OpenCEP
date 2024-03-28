@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "lat": -22.55982,
+  "lon": -47.4101749
 }

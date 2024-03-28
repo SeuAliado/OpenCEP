@@ -5,5 +5,7 @@
   "bairro": "Livramento do Tiúma",
   "localidade": "Timbaúba",
   "uf": "PE",
-  "ibge": "2615300"
+  "ibge": "2615300",
+  "lat": -7.5147139,
+  "lon": -35.3178499
 }

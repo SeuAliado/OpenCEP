@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Alegre de Goiás",
   "uf": "GO",
-  "ibge": "5204805"
+  "ibge": "5204805",
+  "lat": -17.6368064,
+  "lon": -47.7772539
 }

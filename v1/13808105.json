@@ -5,5 +5,7 @@
   "bairro": "Condomínio Santa Úrsula",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "lat": -22.4491363,
+  "lon": -46.9356064
 }

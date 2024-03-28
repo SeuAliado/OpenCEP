@@ -5,5 +5,7 @@
   "bairro": "Conjunto Estrela do Sul",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.7783372,
+  "lon": -49.3035028
 }

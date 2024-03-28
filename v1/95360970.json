@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraí",
   "uf": "RS",
-  "ibge": "4314001"
+  "ibge": "4314001",
+  "lat": -28.5928748,
+  "lon": -51.7830631
 }

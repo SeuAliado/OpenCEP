@@ -5,5 +5,7 @@
   "bairro": "Europa",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9001323,
+  "lon": -44.0856942
 }

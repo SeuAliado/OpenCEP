@@ -5,5 +5,7 @@
   "bairro": "Linha Silveira",
   "localidade": "Fontoura Xavier",
   "uf": "RS",
-  "ibge": "4308300"
+  "ibge": "4308300",
+  "lat": -28.9935877,
+  "lon": -52.2864941
 }

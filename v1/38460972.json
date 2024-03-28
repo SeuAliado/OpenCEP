@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cascalho Rico",
   "uf": "MG",
-  "ibge": "3115003"
+  "ibge": "3115003",
+  "lat": -18.5762129,
+  "lon": -47.8753193
 }

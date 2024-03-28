@@ -5,5 +5,7 @@
   "bairro": "Distrito de Registro do Araguaia",
   "localidade": "Montes Claros de Goiás",
   "uf": "GO",
-  "ibge": "5213707"
+  "ibge": "5213707",
+  "lat": -15.7407298,
+  "lon": -51.8276644
 }

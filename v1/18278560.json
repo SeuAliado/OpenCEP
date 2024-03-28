@@ -5,5 +5,7 @@
   "bairro": "Lincoln Parque",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3457503,
+  "lon": -47.8631091
 }

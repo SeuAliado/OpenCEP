@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Onda Verde",
   "uf": "SP",
-  "ibge": "3534005"
+  "ibge": "3534005",
+  "lat": -20.6047012,
+  "lon": -49.2933839
 }

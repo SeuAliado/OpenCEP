@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.6962548,
+  "lon": -43.4717332
 }

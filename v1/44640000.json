@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Riachão do Jacuípe",
   "uf": "BA",
-  "ibge": "2926301"
+  "ibge": "2926301",
+  "lat": -11.8073632,
+  "lon": -39.3809152
 }

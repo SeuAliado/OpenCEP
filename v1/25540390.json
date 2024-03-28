@@ -5,5 +5,7 @@
   "bairro": "Parque São Judas Tadeu",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "lat": -22.7851121,
+  "lon": -43.3963935
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedra Grande",
   "uf": "RN",
-  "ibge": "2409506"
+  "ibge": "2409506",
+  "lat": -5.1464524,
+  "lon": -35.8934136
 }

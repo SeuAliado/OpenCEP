@@ -5,5 +5,7 @@
   "bairro": "Sítios de Recreio Vale das Laranjeiras",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3876043,
+  "lon": -48.9825325
 }

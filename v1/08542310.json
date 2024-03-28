@@ -5,5 +5,7 @@
   "bairro": "Jardim Luiz Mauro",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5160022,
+  "lon": -46.3679808
 }

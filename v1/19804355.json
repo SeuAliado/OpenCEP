@@ -5,5 +5,7 @@
   "bairro": "Vila Souza",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "lat": -22.6639176,
+  "lon": -50.4341232
 }

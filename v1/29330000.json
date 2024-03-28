@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapemirim",
   "uf": "ES",
-  "ibge": "3202801"
+  "ibge": "3202801",
+  "lat": -21.0100062,
+  "lon": -40.8310577
 }

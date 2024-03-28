@@ -5,5 +5,7 @@
   "bairro": "Cajueiro",
   "localidade": "Barreira",
   "uf": "CE",
-  "ibge": "2301950"
+  "ibge": "2301950",
+  "lat": -5.2185793,
+  "lon": -37.5457148
 }

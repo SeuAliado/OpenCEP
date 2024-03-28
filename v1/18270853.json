@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Helena",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "lat": -23.3557042,
+  "lon": -47.8470637
 }

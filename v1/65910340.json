@@ -5,5 +5,7 @@
   "bairro": "Vila Redenção",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "lat": -5.5054531,
+  "lon": -47.4573925
 }

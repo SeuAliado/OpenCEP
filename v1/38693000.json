@@ -5,5 +5,7 @@
   "bairro": "Goiaminas",
   "localidade": "Formoso",
   "uf": "MG",
-  "ibge": "3126208"
+  "ibge": "3126208",
+  "lat": -15.0558403,
+  "lon": -46.5000707
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Retirolândia",
   "uf": "BA",
-  "ibge": "2926103"
+  "ibge": "2926103",
+  "lat": -11.4836351,
+  "lon": -39.4237162
 }

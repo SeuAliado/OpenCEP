@@ -5,5 +5,7 @@
   "bairro": "Santa Dalila (Suruí)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "lat": -22.6357111,
+  "lon": -43.1730294
 }

@@ -5,5 +5,7 @@
   "bairro": "Serra Verde (Venda Nova)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "lat": -19.7994956,
+  "lon": -43.9564302
 }

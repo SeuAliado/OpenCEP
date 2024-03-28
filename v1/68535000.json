@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palestina do Pará",
   "uf": "PA",
-  "ibge": "1505494"
+  "ibge": "1505494",
+  "lat": -5.7406576,
+  "lon": -48.3185006
 }

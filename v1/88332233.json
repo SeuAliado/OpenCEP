@@ -5,5 +5,7 @@
   "bairro": "Barra",
   "localidade": "Balneário Camboriú",
   "uf": "SC",
-  "ibge": "4202008"
+  "ibge": "4202008",
+  "lat": -27.0077528,
+  "lon": -48.5991081
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha II",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "lat": -19.5236628,
+  "lon": -42.6081459
 }

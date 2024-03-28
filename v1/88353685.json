@@ -5,5 +5,7 @@
   "bairro": "Águas Claras",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "lat": -27.1470561,
+  "lon": -48.9103902
 }

@@ -5,5 +5,7 @@
   "bairro": "Mansões Olinda",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "lat": -15.7289328,
+  "lon": -48.2712564
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Gardênia Azul",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.5107499,
+  "lon": -46.287915
 }

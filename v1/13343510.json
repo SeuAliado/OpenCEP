@@ -5,5 +5,7 @@
   "bairro": "Vila Brizzola",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.1018515,
+  "lon": -47.210265
 }

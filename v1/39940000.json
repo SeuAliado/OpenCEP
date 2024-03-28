@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio do Prado",
   "uf": "MG",
-  "ibge": "3155108"
+  "ibge": "3155108",
+  "lat": -16.6950288,
+  "lon": -40.5737316
 }

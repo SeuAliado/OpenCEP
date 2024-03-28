@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Morro Agudo de Goiás",
   "uf": "GO",
-  "ibge": "5213855"
+  "ibge": "5213855",
+  "lat": -15.3278519,
+  "lon": -49.998236
 }

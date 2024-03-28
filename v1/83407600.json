@@ -5,5 +5,7 @@
   "bairro": "Das Graças",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "lat": -25.339804,
+  "lon": -49.1681368
 }

@@ -5,5 +5,7 @@
   "bairro": "Marta Helena",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "lat": -18.9805221,
+  "lon": -49.475954
 }

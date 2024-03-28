@@ -5,5 +5,7 @@
   "bairro": "Vila Jardim Maximiano Peres",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "lat": -17.8979318,
+  "lon": -51.722955
 }

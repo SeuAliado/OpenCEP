@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedro Alexandre",
   "uf": "BA",
-  "ibge": "2924207"
+  "ibge": "2924207",
+  "lat": -10.0124332,
+  "lon": -37.8935211
 }

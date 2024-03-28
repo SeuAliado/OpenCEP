@@ -5,5 +5,7 @@
   "bairro": "Itaúna",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "lat": -22.8029787,
+  "lon": -43.0155097
 }

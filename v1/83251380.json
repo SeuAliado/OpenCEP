@@ -5,5 +5,7 @@
   "bairro": "Ilha de Eufrasina",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "lat": -25.4619231,
+  "lon": -48.5751325
 }

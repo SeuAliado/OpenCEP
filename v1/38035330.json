@@ -5,5 +5,7 @@
   "bairro": "Conjunto Costa Telles I",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.760864,
+  "lon": -47.9092087
 }

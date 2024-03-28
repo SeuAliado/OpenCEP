@@ -5,5 +5,7 @@
   "bairro": "Arcádia",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "lat": -19.9133483,
+  "lon": -44.0798125
 }

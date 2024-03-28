@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3053907,
+  "lon": -48.5610916
 }

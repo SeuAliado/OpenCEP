@@ -5,5 +5,7 @@
   "bairro": "Tropical",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "lat": -20.0771466,
+  "lon": -44.593982
 }

@@ -5,5 +5,7 @@
   "bairro": "Lagoa da Cruz",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "lat": -4.3785944,
+  "lon": -40.8556235
 }

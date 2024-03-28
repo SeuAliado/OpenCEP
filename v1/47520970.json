@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibotirama",
   "uf": "BA",
-  "ibge": "2913200"
+  "ibge": "2913200",
+  "lat": -12.1852587,
+  "lon": -43.2199639
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.452157,
+  "lon": -46.3647486
 }

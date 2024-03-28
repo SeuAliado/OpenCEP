@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Raposa",
   "uf": "MA",
-  "ibge": "2109452"
+  "ibge": "2109452",
+  "lat": -2.4489352,
+  "lon": -44.11471
 }

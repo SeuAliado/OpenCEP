@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Santa Maria do Oeste",
   "uf": "PR",
-  "ibge": "4123857"
+  "ibge": "4123857",
+  "lat": -24.911861,
+  "lon": -52.0311342
 }

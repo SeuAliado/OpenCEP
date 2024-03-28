@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê III",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "lat": -22.3405168,
+  "lon": -46.9537961
 }

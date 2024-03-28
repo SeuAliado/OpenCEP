@@ -5,5 +5,7 @@
   "bairro": "Ribeirão Pequeno",
   "localidade": "Laguna",
   "uf": "SC",
-  "ibge": "4209409"
+  "ibge": "4209409",
+  "lat": -28.4460939,
+  "lon": -48.8637822
 }

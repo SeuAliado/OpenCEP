@@ -5,5 +5,7 @@
   "bairro": "Paramana (Ilha dos Frades)",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.7723943,
+  "lon": -38.6220853
 }

@@ -5,5 +5,7 @@
   "bairro": "Guararapes",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "lat": -3.767041,
+  "lon": -38.4843422
 }

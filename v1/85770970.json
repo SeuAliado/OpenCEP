@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Realeza",
   "uf": "PR",
-  "ibge": "4121406"
+  "ibge": "4121406",
+  "lat": -25.7771958,
+  "lon": -53.5436071
 }

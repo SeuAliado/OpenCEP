@@ -5,5 +5,7 @@
   "bairro": "Pilarzinho",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.3863678,
+  "lon": -49.2917884
 }

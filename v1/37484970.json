@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Heliodora",
   "uf": "MG",
-  "ibge": "3129202"
+  "ibge": "3129202",
+  "lat": -22.0664504,
+  "lon": -45.5399746
 }

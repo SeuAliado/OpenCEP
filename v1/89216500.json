@@ -5,5 +5,7 @@
   "bairro": "Glória",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "lat": -19.7504844,
+  "lon": -40.3798368
 }

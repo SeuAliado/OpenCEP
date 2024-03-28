@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Remígio",
   "uf": "PB",
-  "ibge": "2512705"
+  "ibge": "2512705",
+  "lat": -6.9158845,
+  "lon": -35.8061779
 }

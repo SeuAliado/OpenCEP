@@ -5,5 +5,7 @@
   "bairro": "Piratininga (Parque Durval de Barros)",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "lat": -19.9933461,
+  "lon": -44.0551669
 }

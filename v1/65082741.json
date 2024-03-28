@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.6365447,
+  "lon": -44.281876
 }

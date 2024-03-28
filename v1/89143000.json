@@ -5,5 +5,7 @@
   "bairro": "Dalbérgia",
   "localidade": "Ibirama",
   "uf": "SC",
-  "ibge": "4206900"
+  "ibge": "4206900",
+  "lat": -27.0432212,
+  "lon": -49.6228722
 }

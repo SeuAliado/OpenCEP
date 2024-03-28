@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Italva",
   "uf": "RJ",
-  "ibge": "3302056"
+  "ibge": "3302056",
+  "lat": -21.4285097,
+  "lon": -41.6940704
 }

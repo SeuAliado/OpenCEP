@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guabiruba",
   "uf": "SC",
-  "ibge": "4206306"
+  "ibge": "4206306",
+  "lat": -27.086356,
+  "lon": -48.9657485
 }

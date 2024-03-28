@@ -5,5 +5,7 @@
   "bairro": "Haras Paineiras",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2079495,
+  "lon": -47.3108465
 }

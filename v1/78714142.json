@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4436465,
+  "lon": -54.635922
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Russi",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "lat": -23.0321022,
+  "lon": -45.5546908
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Panucce",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "lat": -23.5391683,
+  "lon": -46.3708463
 }

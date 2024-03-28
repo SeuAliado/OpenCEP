@@ -5,5 +5,7 @@
   "bairro": "Jardim Belvedere",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4115756,
+  "lon": -46.4957588
 }

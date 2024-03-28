@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Agrolândia",
   "uf": "SC",
-  "ibge": "4200200"
+  "ibge": "4200200",
+  "lat": -27.4106483,
+  "lon": -49.8296196
 }

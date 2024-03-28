@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibimirim",
   "uf": "PE",
-  "ibge": "2606606"
+  "ibge": "2606606",
+  "lat": -8.5273221,
+  "lon": -37.5534526
 }

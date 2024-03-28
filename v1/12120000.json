@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tremembé",
   "uf": "SP",
-  "ibge": "3554805"
+  "ibge": "3554805",
+  "lat": -22.9576323,
+  "lon": -45.5479616
 }

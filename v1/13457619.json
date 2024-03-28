@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Líbano",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7645719,
+  "lon": -47.362097
 }

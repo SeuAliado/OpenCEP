@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Braga",
   "uf": "RS",
-  "ibge": "4302600"
+  "ibge": "4302600",
+  "lat": -27.6161238,
+  "lon": -53.7413827
 }

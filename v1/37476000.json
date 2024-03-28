@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cristina",
   "uf": "MG",
-  "ibge": "3120508"
+  "ibge": "3120508",
+  "lat": -22.2102702,
+  "lon": -45.2630555
 }

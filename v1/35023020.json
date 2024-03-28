@@ -5,5 +5,7 @@
   "bairro": "Chácaras Braúnas",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.8327501,
+  "lon": -41.9096365
 }

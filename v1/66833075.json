@@ -5,5 +5,7 @@
   "bairro": "Tapanã (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "lat": -1.3326804,
+  "lon": -48.4692275
 }

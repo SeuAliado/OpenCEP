@@ -5,5 +5,7 @@
   "bairro": "Fragata",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "lat": -22.233546,
+  "lon": -49.9242674
 }

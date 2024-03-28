@@ -5,5 +5,7 @@
   "bairro": "Água Fria",
   "localidade": "Chapada dos Guimarães",
   "uf": "MT",
-  "ibge": "5103007"
+  "ibge": "5103007",
+  "lat": -15.1801369,
+  "lon": -55.752059
 }

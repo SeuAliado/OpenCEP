@@ -5,5 +5,7 @@
   "bairro": "Conjunto Morada da Serra",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "lat": -19.8920563,
+  "lon": -43.7951181
 }

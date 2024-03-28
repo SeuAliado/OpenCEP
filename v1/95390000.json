@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pinhal da Serra",
   "uf": "RS",
-  "ibge": "4314464"
+  "ibge": "4314464",
+  "lat": -27.8743397,
+  "lon": -51.1706598
 }

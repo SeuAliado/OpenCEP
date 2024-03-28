@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.8057053,
+  "lon": -48.1874325
 }

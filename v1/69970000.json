@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tarauacá",
   "uf": "AC",
-  "ibge": "1200609"
+  "ibge": "1200609",
+  "lat": -8.2132323,
+  "lon": -71.3824374
 }

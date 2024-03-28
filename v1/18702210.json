@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.1104083,
+  "lon": -48.9088426
 }

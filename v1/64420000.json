@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmeirais",
   "uf": "PI",
-  "ibge": "2207504"
+  "ibge": "2207504",
+  "lat": -5.9084325,
+  "lon": -42.941698
 }

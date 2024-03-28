@@ -5,5 +5,7 @@
   "bairro": "Lagoinha",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "lat": -18.579675,
+  "lon": -46.5249041
 }

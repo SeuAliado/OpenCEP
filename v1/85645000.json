@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Ampére",
   "uf": "PR",
-  "ibge": "4101002"
+  "ibge": "4101002",
+  "lat": -25.7771327,
+  "lon": -53.5442923
 }

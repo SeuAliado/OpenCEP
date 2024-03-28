@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Laranja da Terra",
   "uf": "ES",
-  "ibge": "3203163"
+  "ibge": "3203163",
+  "lat": -19.8703061,
+  "lon": -41.0797172
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cedro de São João",
   "uf": "SE",
-  "ibge": "2801603"
+  "ibge": "2801603",
+  "lat": -10.2737288,
+  "lon": -36.9003514
 }

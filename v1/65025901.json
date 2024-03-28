@@ -5,5 +5,7 @@
   "bairro": "Fabril",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.536412,
+  "lon": -44.2909806
 }

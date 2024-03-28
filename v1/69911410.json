@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "lat": -9.975691,
+  "lon": -67.8595385
 }

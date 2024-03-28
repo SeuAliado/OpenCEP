@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Teotônio Vilela",
   "uf": "AL",
-  "ibge": "2709152"
+  "ibge": "2709152",
+  "lat": -9.9165846,
+  "lon": -36.3501553
 }

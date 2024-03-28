@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rafael Godeiro",
   "uf": "RN",
-  "ibge": "2410603"
+  "ibge": "2410603",
+  "lat": -6.0753174,
+  "lon": -37.7173143
 }

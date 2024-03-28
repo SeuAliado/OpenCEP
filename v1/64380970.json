@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Beneditinos",
   "uf": "PI",
-  "ibge": "2201606"
+  "ibge": "2201606",
+  "lat": -5.4540952,
+  "lon": -42.3623721
 }

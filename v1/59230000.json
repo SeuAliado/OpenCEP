@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Redondo",
   "uf": "RN",
-  "ibge": "2402105"
+  "ibge": "2402105",
+  "lat": -6.2421226,
+  "lon": -36.1829784
 }

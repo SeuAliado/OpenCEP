@@ -5,5 +5,7 @@
   "bairro": "Alto de Pinheiros",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "lat": -22.7398432,
+  "lon": -47.1750894
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Bela Vista",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.3628875,
+  "lon": -48.9576019
 }

@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "São José do Ouro",
   "uf": "RS",
-  "ibge": "4318606"
+  "ibge": "4318606",
+  "lat": -28.6453104,
+  "lon": -53.6171889
 }

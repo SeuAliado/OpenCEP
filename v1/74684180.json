@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale dos Sonhos I",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.59873,
+  "lon": -49.2012318
 }

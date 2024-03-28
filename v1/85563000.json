@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Chopinzinho",
   "uf": "PR",
-  "ibge": "4105409"
+  "ibge": "4105409",
+  "lat": -25.7426773,
+  "lon": -52.4964274
 }

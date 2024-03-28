@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iperó",
   "uf": "SP",
-  "ibge": "3521002"
+  "ibge": "3521002",
+  "lat": -23.3526767,
+  "lon": -47.6918024
 }

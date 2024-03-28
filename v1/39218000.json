@@ -5,5 +5,7 @@
   "bairro": "Rodeador",
   "localidade": "Monjolos",
   "uf": "MG",
-  "ibge": "3142502"
+  "ibge": "3142502",
+  "lat": -18.2914486,
+  "lon": -44.0543828
 }

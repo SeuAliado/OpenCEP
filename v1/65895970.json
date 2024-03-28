@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Loreto",
   "uf": "MA",
-  "ibge": "2106102"
+  "ibge": "2106102",
+  "lat": -7.0829537,
+  "lon": -45.1424153
 }

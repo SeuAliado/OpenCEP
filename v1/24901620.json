@@ -5,5 +5,7 @@
   "bairro": "Araçatiba",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "lat": -22.9343819,
+  "lon": -42.8252753
 }

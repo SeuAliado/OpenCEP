@@ -5,5 +5,7 @@
   "bairro": "Vila Andes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5288224,
+  "lon": -46.4029241
 }

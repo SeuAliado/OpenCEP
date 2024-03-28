@@ -5,5 +5,7 @@
   "bairro": "Mar Azul",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "lat": -19.9120935,
+  "lon": -40.1052757
 }

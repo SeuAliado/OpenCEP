@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Miravânia",
   "uf": "MG",
-  "ibge": "3142254"
+  "ibge": "3142254",
+  "lat": -14.782589,
+  "lon": -44.4370606
 }

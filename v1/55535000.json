@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joaquim Nabuco",
   "uf": "PE",
-  "ibge": "2608206"
+  "ibge": "2608206",
+  "lat": -8.6232299,
+  "lon": -35.5291347
 }

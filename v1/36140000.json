@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lima Duarte",
   "uf": "MG",
-  "ibge": "3138609"
+  "ibge": "3138609",
+  "lat": -21.8398589,
+  "lon": -43.7919951
 }

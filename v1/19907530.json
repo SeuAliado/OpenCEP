@@ -5,5 +5,7 @@
   "bairro": "Nova Ourinhos",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "lat": -22.9711215,
+  "lon": -49.8846229
 }

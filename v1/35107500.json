@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Floresta",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.9555708,
+  "lon": -42.2444704
 }

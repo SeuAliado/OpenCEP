@@ -5,5 +5,7 @@
   "bairro": "Estevão de Araújo",
   "localidade": "Araponga",
   "uf": "MG",
-  "ibge": "3103702"
+  "ibge": "3103702",
+  "lat": -20.6088802,
+  "lon": -42.5366308
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Matriz de Camaragibe",
   "uf": "AL",
-  "ibge": "2705101"
+  "ibge": "2705101",
+  "lat": -9.0972502,
+  "lon": -35.5876697
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camapuã",
   "uf": "MS",
-  "ibge": "5002605"
+  "ibge": "5002605",
+  "lat": -19.5351258,
+  "lon": -54.0435563
 }

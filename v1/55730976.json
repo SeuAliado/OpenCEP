@@ -5,5 +5,7 @@
   "bairro": "Encruzilhada",
   "localidade": "Bom Jardim",
   "uf": "PE",
-  "ibge": "2602209"
+  "ibge": "2602209",
+  "lat": -8.0076144,
+  "lon": -34.8652126
 }

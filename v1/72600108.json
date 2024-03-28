@@ -5,5 +5,7 @@
   "bairro": "Recanto das Emas",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8997648,
+  "lon": -48.0601169
 }

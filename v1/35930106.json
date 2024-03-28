@@ -5,5 +5,7 @@
   "bairro": "República",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "lat": -19.8147645,
+  "lon": -43.1851008
 }

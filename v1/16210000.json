@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bilac",
   "uf": "SP",
-  "ibge": "3506409"
+  "ibge": "3506409",
+  "lat": -21.4044336,
+  "lon": -50.4751106
 }

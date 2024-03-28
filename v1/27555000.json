@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Passos",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "lat": -22.5000948,
+  "lon": -44.6759687
 }

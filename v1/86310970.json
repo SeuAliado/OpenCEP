@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Fátima",
   "uf": "PR",
-  "ibge": "4117008"
+  "ibge": "4117008",
+  "lat": -23.4292136,
+  "lon": -50.5665648
 }

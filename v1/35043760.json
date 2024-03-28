@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "lat": -18.9133625,
+  "lon": -41.953715
 }

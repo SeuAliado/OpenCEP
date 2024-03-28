@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova II",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "lat": -23.0810543,
+  "lon": -47.2004909
 }

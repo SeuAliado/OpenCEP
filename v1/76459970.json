@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Minaçu",
   "uf": "GO",
-  "ibge": "5213087"
+  "ibge": "5213087",
+  "lat": -13.537874,
+  "lon": -48.2194529
 }

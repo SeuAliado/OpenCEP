@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Torres",
   "uf": "RS",
-  "ibge": "4321501"
+  "ibge": "4321501",
+  "lat": -29.3383976,
+  "lon": -49.728226
 }

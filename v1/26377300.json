@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7398231,
+  "lon": -43.5572777
 }

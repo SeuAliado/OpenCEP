@@ -5,5 +5,7 @@
   "bairro": "Recanto do Sol",
   "localidade": "Cerquilho",
   "uf": "SP",
-  "ibge": "3511508"
+  "ibge": "3511508",
+  "lat": -23.1736371,
+  "lon": -47.7408816
 }

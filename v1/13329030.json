@@ -5,5 +5,7 @@
   "bairro": "Condomínio Fechado Piccolo Paese",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.1681123,
+  "lon": -47.3194191
 }

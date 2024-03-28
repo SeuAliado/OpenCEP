@@ -5,5 +5,7 @@
   "bairro": "Ponte Nova",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.632,
+  "lon": -56.1155958
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiro",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "lat": -23.543071,
+  "lon": -46.3421059
 }

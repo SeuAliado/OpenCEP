@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "lat": -23.0008271,
+  "lon": -46.8274269
 }

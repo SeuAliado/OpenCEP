@@ -5,5 +5,7 @@
   "bairro": "Chácaras Reunidas São Jorge",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "lat": -23.5281442,
+  "lon": -47.5101526
 }

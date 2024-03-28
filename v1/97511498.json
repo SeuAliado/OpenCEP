@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "lat": -29.7656391,
+  "lon": -57.059657
 }

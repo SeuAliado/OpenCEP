@@ -5,5 +5,7 @@
   "bairro": "Amazonas",
   "localidade": "Guanhães",
   "uf": "MG",
-  "ibge": "3128006"
+  "ibge": "3128006",
+  "lat": -18.7816781,
+  "lon": -42.9385824
 }

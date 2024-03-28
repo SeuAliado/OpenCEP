@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8654746,
+  "lon": -43.7550371
 }

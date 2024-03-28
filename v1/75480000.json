@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Petrolina de Goiás",
   "uf": "GO",
-  "ibge": "5216809"
+  "ibge": "5216809",
+  "lat": -16.1057363,
+  "lon": -49.3342534
 }

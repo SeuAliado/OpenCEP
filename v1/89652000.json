@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibiam",
   "uf": "SC",
-  "ibge": "4206751"
+  "ibge": "4206751",
+  "lat": -27.2053765,
+  "lon": -51.2108394
 }

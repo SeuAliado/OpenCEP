@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "lat": -15.7526729,
+  "lon": -48.2698126
 }

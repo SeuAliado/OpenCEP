@@ -5,5 +5,7 @@
   "bairro": "Varadouro",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "lat": -23.818993,
+  "lon": -45.4076871
 }

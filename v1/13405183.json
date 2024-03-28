@@ -5,5 +5,7 @@
   "bairro": "Jardim Monumento",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "lat": -22.7105733,
+  "lon": -47.6655382
 }

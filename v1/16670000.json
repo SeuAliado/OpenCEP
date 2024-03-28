@@ -5,5 +5,7 @@
   "bairro": "Presidente Alves",
   "localidade": "Presidente Alves",
   "uf": "SP",
-  "ibge": "3541109"
+  "ibge": "3541109",
+  "lat": -22.1003875,
+  "lon": -49.4385977
 }

@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Dourados",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.7958246,
+  "lon": -46.998421
 }

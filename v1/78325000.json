@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Aripuanã",
   "uf": "MT",
-  "ibge": "5101407"
+  "ibge": "5101407",
+  "lat": -9.983333,
+  "lon": -59.3
 }

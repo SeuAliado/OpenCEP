@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Rosa",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "lat": -20.5148396,
+  "lon": -47.4146239
 }

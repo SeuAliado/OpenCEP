@@ -5,5 +5,7 @@
   "bairro": "Chácara Três Marias",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8678572,
+  "lon": -47.1377445
 }

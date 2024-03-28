@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Delmiro Gouveia",
   "uf": "AL",
-  "ibge": "2702405"
+  "ibge": "2702405",
+  "lat": -9.38576,
+  "lon": -37.999019
 }

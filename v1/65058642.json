@@ -5,5 +5,7 @@
   "bairro": "Vila Pavão Filho",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "lat": -2.5977331,
+  "lon": -44.1921269
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Milenium",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "lat": -22.0040162,
+  "lon": -47.4066409
 }

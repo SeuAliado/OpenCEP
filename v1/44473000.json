@@ -5,5 +5,7 @@
   "bairro": "Mar Grande",
   "localidade": "Vera Cruz",
   "uf": "BA",
-  "ibge": "2933208"
+  "ibge": "2933208",
+  "lat": -12.9918255,
+  "lon": -38.6904608
 }

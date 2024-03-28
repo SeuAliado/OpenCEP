@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Minerva",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "lat": -20.5560571,
+  "lon": -48.5542013
 }

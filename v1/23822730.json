@@ -5,5 +5,7 @@
   "bairro": "Weda",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "lat": -22.8602236,
+  "lon": -43.782031
 }

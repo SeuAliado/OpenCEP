@@ -5,5 +5,7 @@
   "bairro": "Açude",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "lat": -3.739944,
+  "lon": -38.6646021
 }

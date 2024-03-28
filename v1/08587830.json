@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Scaffid",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4320701,
+  "lon": -46.3159049
 }

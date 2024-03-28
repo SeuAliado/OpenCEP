@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coluna",
   "uf": "MG",
-  "ibge": "3116803"
+  "ibge": "3116803",
+  "lat": -18.2326645,
+  "lon": -42.8376834
 }

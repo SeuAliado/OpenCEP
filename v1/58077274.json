@@ -5,5 +5,7 @@
   "bairro": "Cuiá",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "lat": -7.1788585,
+  "lon": -34.8621399
 }

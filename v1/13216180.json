@@ -5,5 +5,7 @@
   "bairro": "Vila Guilherme",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.1782826,
+  "lon": -46.8767229
 }

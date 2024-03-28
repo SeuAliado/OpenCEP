@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro do Sul",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9459608,
+  "lon": -48.4993677
 }

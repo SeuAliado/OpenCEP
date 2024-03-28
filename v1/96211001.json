@@ -5,5 +5,7 @@
   "bairro": "Lagoa",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "lat": -32.0406503,
+  "lon": -52.1186587
 }

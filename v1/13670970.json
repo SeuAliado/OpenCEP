@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rita do Passa Quatro",
   "uf": "SP",
-  "ibge": "3547502"
+  "ibge": "3547502",
+  "lat": -21.7068759,
+  "lon": -47.4780523
 }

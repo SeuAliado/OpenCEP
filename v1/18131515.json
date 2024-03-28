@@ -5,5 +5,7 @@
   "bairro": "Vila São Rafael",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "lat": -23.533519,
+  "lon": -47.1526093
 }

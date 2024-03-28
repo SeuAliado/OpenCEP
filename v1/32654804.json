@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Bandeirinhas",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -20.0056613,
+  "lon": -44.1707553
 }

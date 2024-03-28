@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Silvânia",
   "uf": "GO",
-  "ibge": "5220603"
+  "ibge": "5220603",
+  "lat": -16.6680815,
+  "lon": -48.6132824
 }

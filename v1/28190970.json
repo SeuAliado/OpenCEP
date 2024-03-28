@@ -5,5 +5,7 @@
   "bairro": "Outeiro",
   "localidade": "Cardoso Moreira",
   "uf": "RJ",
-  "ibge": "3301157"
+  "ibge": "3301157",
+  "lat": -21.4880471,
+  "lon": -41.617673
 }

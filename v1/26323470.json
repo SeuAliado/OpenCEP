@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7285575,
+  "lon": -43.5606564
 }

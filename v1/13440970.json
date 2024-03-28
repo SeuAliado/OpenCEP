@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Saltinho",
   "uf": "SP",
-  "ibge": "3545159"
+  "ibge": "3545159",
+  "lat": -21.7618711,
+  "lon": -48.8333905
 }

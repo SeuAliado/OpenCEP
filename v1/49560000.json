@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Moita Bonita",
   "uf": "SE",
-  "ibge": "2804102"
+  "ibge": "2804102",
+  "lat": -10.577341,
+  "lon": -37.3515489
 }

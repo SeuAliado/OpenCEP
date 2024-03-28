@@ -5,5 +5,7 @@
   "bairro": "Vila Camarim",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "lat": -22.7063983,
+  "lon": -43.5685818
 }

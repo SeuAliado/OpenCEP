@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio das Missões",
   "uf": "RS",
-  "ibge": "4317707"
+  "ibge": "4317707",
+  "lat": -28.5084054,
+  "lon": -55.2248946
 }

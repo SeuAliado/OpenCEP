@@ -5,5 +5,7 @@
   "bairro": "Chácaras Brasil B",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "lat": -16.0658103,
+  "lon": -47.9639983
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacuípe",
   "uf": "AL",
-  "ibge": "2703502"
+  "ibge": "2703502",
+  "lat": -8.8399317,
+  "lon": -35.4593942
 }

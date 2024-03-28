@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Tancredo Neves",
   "uf": "BA",
-  "ibge": "2925758"
+  "ibge": "2925758",
+  "lat": -13.4634203,
+  "lon": -39.4243113
 }

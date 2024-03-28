@@ -5,5 +5,7 @@
   "bairro": "Taguatinga Norte (Taguatinga)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8160598,
+  "lon": -48.0787128
 }

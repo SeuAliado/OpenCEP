@@ -5,5 +5,7 @@
   "bairro": "Jackeline",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "lat": -18.7283619,
+  "lon": -39.8501323
 }

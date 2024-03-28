@@ -5,5 +5,7 @@
   "bairro": "Jardim Panambi",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7601011,
+  "lon": -47.4261824
 }

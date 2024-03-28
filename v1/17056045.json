@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Verde",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -22.3608078,
+  "lon": -49.1025597
 }

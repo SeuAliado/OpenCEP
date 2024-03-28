@@ -5,5 +5,7 @@
   "bairro": "Vila América",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.4963192,
+  "lon": -46.7035307
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardins das Acácias",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "lat": -12.1002455,
+  "lon": -45.8079359
 }

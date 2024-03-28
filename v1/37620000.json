@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Munhoz",
   "uf": "MG",
-  "ibge": "3143807"
+  "ibge": "3143807",
+  "lat": -22.6124587,
+  "lon": -46.3630169
 }

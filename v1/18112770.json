@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luís",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "lat": -23.5317637,
+  "lon": -47.4356639
 }

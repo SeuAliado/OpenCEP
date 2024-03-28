@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Joaquim Gomes",
   "uf": "AL",
-  "ibge": "2703809"
+  "ibge": "2703809",
+  "lat": -9.1336481,
+  "lon": -35.747141
 }

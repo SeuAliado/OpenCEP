@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itacajá",
   "uf": "TO",
-  "ibge": "1710508"
+  "ibge": "1710508",
+  "lat": -8.3933415,
+  "lon": -47.7730379
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Maltoni",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "lat": -23.156572,
+  "lon": -46.8737214
 }

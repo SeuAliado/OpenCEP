@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rondolândia",
   "uf": "MT",
-  "ibge": "5107578"
+  "ibge": "5107578",
+  "lat": -10.8413901,
+  "lon": -61.4586344
 }

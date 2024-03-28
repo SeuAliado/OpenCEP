@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9272853,
+  "lon": -48.2364151
 }

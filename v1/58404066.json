@@ -5,5 +5,7 @@
   "bairro": "Jeremias",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.206581,
+  "lon": -35.901903
 }

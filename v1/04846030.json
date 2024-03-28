@@ -5,5 +5,7 @@
   "bairro": "Jardim Aristocrata",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -21.7937015,
+  "lon": -48.1759102
 }

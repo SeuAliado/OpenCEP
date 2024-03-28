@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Inês",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "lat": -16.6557519,
+  "lon": -49.4947848
 }

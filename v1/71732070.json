@@ -5,5 +5,7 @@
   "bairro": "Setor Placa da Mercedes (Núcleo Bandeirante)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.8784356,
+  "lon": -47.9957599
 }

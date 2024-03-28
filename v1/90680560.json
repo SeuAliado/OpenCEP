@@ -5,5 +5,7 @@
   "bairro": "Glória",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "lat": -30.0715952,
+  "lon": -51.1983307
 }

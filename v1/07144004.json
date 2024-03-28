@@ -5,5 +5,7 @@
   "bairro": "Jardim Odete",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4210846,
+  "lon": -46.5066472
 }

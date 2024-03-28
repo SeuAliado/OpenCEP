@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Bárbara",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "lat": -22.7476247,
+  "lon": -47.3831601
 }

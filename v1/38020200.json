@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7594137,
+  "lon": -47.9473078
 }

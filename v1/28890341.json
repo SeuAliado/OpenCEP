@@ -5,5 +5,7 @@
   "bairro": "Jardim Campomar",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "lat": -22.5254597,
+  "lon": -41.9539105
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tupiratins",
   "uf": "TO",
-  "ibge": "1721307"
+  "ibge": "1721307",
+  "lat": -8.3942862,
+  "lon": -48.1281696
 }

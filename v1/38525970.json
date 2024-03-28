@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Estrela do Sul",
   "uf": "MG",
-  "ibge": "3124807"
+  "ibge": "3124807",
+  "lat": -18.7429483,
+  "lon": -47.6920661
 }

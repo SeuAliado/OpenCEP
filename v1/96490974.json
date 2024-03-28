@@ -5,5 +5,7 @@
   "bairro": "Cancelão",
   "localidade": "Piratini",
   "uf": "RS",
-  "ibge": "4314605"
+  "ibge": "4314605",
+  "lat": -31.3752733,
+  "lon": -53.1116465
 }

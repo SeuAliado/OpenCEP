@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cambará",
   "uf": "PR",
-  "ibge": "4103602"
+  "ibge": "4103602",
+  "lat": -23.3204763,
+  "lon": -51.1538415
 }

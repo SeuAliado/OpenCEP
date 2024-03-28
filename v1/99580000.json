@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Boa Vista",
   "uf": "RS",
-  "ibge": "4312955"
+  "ibge": "4312955",
+  "lat": -27.9930877,
+  "lon": -52.978893
 }

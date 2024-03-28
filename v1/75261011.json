@@ -5,5 +5,7 @@
   "bairro": "Das Indústrias",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "lat": -16.6880754,
+  "lon": -49.1067511
 }

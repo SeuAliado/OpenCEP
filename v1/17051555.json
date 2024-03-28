@@ -5,5 +5,7 @@
   "bairro": "Parque Jandaia",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "lat": -23.5539754,
+  "lon": -46.8315294
 }

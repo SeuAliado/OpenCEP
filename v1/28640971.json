@@ -5,5 +5,7 @@
   "bairro": "Barra de São Francisco",
   "localidade": "Carmo",
   "uf": "RJ",
-  "ibge": "3301207"
+  "ibge": "3301207",
+  "lat": -21.9314519,
+  "lon": -42.605043
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa III",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "lat": -23.0840127,
+  "lon": -48.9224591
 }

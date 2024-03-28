@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alagoa Grande",
   "uf": "PB",
-  "ibge": "2500304"
+  "ibge": "2500304",
+  "lat": -7.0390507,
+  "lon": -35.6300977
 }

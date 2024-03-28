@@ -5,5 +5,7 @@
   "bairro": "Vila Tibiriçá",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "lat": -23.6876577,
+  "lon": -46.5044683
 }

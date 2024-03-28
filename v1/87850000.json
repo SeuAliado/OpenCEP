@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Amaporã",
   "uf": "PR",
-  "ibge": "4100905"
+  "ibge": "4100905",
+  "lat": -23.0947436,
+  "lon": -52.787091
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "lat": -22.8132975,
+  "lon": -47.2282484
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "lat": -22.3015285,
+  "lon": -48.5571063
 }

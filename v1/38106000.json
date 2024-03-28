@@ -5,5 +5,7 @@
   "bairro": "Ponte Alta",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "lat": -19.7612281,
+  "lon": -47.9202607
 }

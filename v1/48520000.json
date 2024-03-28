@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Canudos",
   "uf": "BA",
-  "ibge": "2906824"
+  "ibge": "2906824",
+  "lat": -9.8962125,
+  "lon": -39.028593
 }

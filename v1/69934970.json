@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Epitaciolândia",
   "uf": "AC",
-  "ibge": "1200252"
+  "ibge": "1200252",
+  "lat": -11.0263756,
+  "lon": -68.7440385
 }

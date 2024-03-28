@@ -5,5 +5,7 @@
   "bairro": "Nova Itaipê",
   "localidade": "Planaltino",
   "uf": "BA",
-  "ibge": "2924900"
+  "ibge": "2924900",
+  "lat": -13.2259684,
+  "lon": -40.1546298
 }

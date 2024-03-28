@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "lat": -21.109357,
+  "lon": -47.9909233
 }

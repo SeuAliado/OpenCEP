@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Matos",
   "uf": "RN",
-  "ibge": "2411403"
+  "ibge": "2411403",
+  "lat": -5.946453,
+  "lon": -36.6580919
 }

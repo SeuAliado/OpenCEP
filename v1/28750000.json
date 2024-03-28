@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "lat": -22.0938182,
+  "lon": -42.1967716
 }

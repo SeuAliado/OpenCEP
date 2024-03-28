@@ -5,5 +5,7 @@
   "bairro": "São Domingos",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.5878791,
+  "lon": -49.3370335
 }

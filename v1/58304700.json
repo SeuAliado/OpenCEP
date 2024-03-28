@@ -5,5 +5,7 @@
   "bairro": "Ribeira",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "lat": -7.1247439,
+  "lon": -34.983043
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santa Inês",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7661353,
+  "lon": -47.3993169
 }

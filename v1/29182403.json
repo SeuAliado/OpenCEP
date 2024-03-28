@@ -5,5 +5,7 @@
   "bairro": "Reis Magos",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "lat": -20.0572011,
+  "lon": -40.2006508
 }

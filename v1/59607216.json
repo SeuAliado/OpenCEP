@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "lat": -5.199098,
+  "lon": -37.374149
 }

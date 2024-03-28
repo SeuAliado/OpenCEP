@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camocim",
   "uf": "CE",
-  "ibge": "2302602"
+  "ibge": "2302602",
+  "lat": -2.9014475,
+  "lon": -40.8388865
 }

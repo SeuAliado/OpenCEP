@@ -5,5 +5,7 @@
   "bairro": "Parque Vitória",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "lat": -12.1368585,
+  "lon": -38.4339372
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bonança",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "lat": -16.77028,
+  "lon": -49.25318
 }

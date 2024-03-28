@@ -5,5 +5,7 @@
   "bairro": "São Geraldo (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "lat": -22.890487,
+  "lon": -42.4745905
 }

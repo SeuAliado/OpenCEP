@@ -5,5 +5,7 @@
   "bairro": "Buenolândia",
   "localidade": "Goiás",
   "uf": "GO",
-  "ibge": "5208905"
+  "ibge": "5208905",
+  "lat": -16.2958601,
+  "lon": -50.5538235
 }

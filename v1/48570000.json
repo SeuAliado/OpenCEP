@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Brígida",
   "uf": "BA",
-  "ibge": "2927606"
+  "ibge": "2927606",
+  "lat": -9.7326989,
+  "lon": -38.1212798
 }

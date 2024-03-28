@@ -5,5 +5,7 @@
   "bairro": "Itaóca",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "lat": -20.7282132,
+  "lon": -41.1324715
 }

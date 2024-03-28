@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "lat": -10.914001,
+  "lon": -37.052222
 }

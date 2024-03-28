@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "lat": -22.5576107,
+  "lon": -44.9408905
 }

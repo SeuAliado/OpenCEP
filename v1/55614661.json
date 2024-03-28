@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipiranga",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "lat": -8.1311012,
+  "lon": -35.2950953
 }

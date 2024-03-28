@@ -5,5 +5,7 @@
   "bairro": "Jardim Paranapanema",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.9095476,
+  "lon": -47.0318931
 }

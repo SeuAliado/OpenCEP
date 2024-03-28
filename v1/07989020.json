@@ -5,5 +5,7 @@
   "bairro": "Portal do Lago",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "lat": -23.2973526,
+  "lon": -46.7146524
 }

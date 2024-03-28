@@ -5,5 +5,7 @@
   "bairro": "Vila Virgínia",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.4926261,
+  "lon": -46.3565642
 }

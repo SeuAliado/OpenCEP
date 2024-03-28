@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.2599658,
+  "lon": -52.6844255
 }

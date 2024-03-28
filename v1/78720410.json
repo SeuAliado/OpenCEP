@@ -5,5 +5,7 @@
   "bairro": "Jardim Luz da Yara",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4446392,
+  "lon": -54.628629
 }

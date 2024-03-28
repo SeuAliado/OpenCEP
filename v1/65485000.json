@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapecuru Mirim",
   "uf": "MA",
-  "ibge": "2105401"
+  "ibge": "2105401",
+  "lat": -3.4543432,
+  "lon": -44.1720266
 }

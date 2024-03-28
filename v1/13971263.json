@@ -5,5 +5,7 @@
   "bairro": "Jardim Galego",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "lat": -22.4160688,
+  "lon": -46.820455
 }

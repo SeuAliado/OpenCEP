@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "lat": -1.1952646,
+  "lon": -47.1832542
 }

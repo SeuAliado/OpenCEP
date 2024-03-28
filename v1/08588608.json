@@ -5,5 +5,7 @@
   "bairro": "Jardim Alpes de Itaquá",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.443298,
+  "lon": -46.3189884
 }

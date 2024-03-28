@@ -5,5 +5,7 @@
   "bairro": "Jardim Amélia",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "lat": -22.7615015,
+  "lon": -47.3615886
 }

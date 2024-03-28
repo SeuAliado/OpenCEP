@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Emilia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.4292212,
+  "lon": -46.5117166
 }

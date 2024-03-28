@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monsenhor Hipólito",
   "uf": "PI",
-  "ibge": "2206506"
+  "ibge": "2206506",
+  "lat": -6.9086648,
+  "lon": -41.0192349
 }

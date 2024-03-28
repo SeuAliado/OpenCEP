@@ -5,5 +5,7 @@
   "bairro": "Clube dos Oficiais",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "lat": -23.6922187,
+  "lon": -46.309343
 }

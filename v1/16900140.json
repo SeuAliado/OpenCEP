@@ -5,5 +5,7 @@
   "bairro": "Jardim das Águas",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "lat": -20.9005606,
+  "lon": -51.3807316
 }

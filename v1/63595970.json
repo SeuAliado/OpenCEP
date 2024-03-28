@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catarina",
   "uf": "CE",
-  "ibge": "2303600"
+  "ibge": "2303600",
+  "lat": -6.1310517,
+  "lon": -39.8784878
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Era",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "lat": -22.7387198,
+  "lon": -43.3781263
 }

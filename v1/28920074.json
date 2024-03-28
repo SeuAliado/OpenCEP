@@ -5,5 +5,7 @@
   "bairro": "Jardim Peró",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "lat": -22.844589,
+  "lon": -42.0127211
 }

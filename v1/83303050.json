@@ -5,5 +5,7 @@
   "bairro": "Vila Vicente Macedo",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4428837,
+  "lon": -49.094217
 }

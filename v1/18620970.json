@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anhembi",
   "uf": "SP",
-  "ibge": "3502309"
+  "ibge": "3502309",
+  "lat": -22.7915368,
+  "lon": -48.1279471
 }

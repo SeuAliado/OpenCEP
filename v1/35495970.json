@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Brás do Suaçuí",
   "uf": "MG",
-  "ibge": "3160900"
+  "ibge": "3160900",
+  "lat": -20.6243463,
+  "lon": -43.9482747
 }

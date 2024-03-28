@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Monte Pascoal",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "lat": -23.2243706,
+  "lon": -47.2640348
 }

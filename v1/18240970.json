@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Angatuba",
   "uf": "SP",
-  "ibge": "3502200"
+  "ibge": "3502200",
+  "lat": -23.4896969,
+  "lon": -48.4171994
 }

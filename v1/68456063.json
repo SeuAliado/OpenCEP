@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "lat": -3.762954,
+  "lon": -49.6739822
 }

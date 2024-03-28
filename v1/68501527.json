@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "lat": -5.3792579,
+  "lon": -49.1176716
 }

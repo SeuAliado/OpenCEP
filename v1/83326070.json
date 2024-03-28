@@ -5,5 +5,7 @@
   "bairro": "Atuba",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "lat": -25.3968205,
+  "lon": -49.1855028
 }

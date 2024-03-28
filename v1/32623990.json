@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "lat": -19.9136259,
+  "lon": -44.2718112
 }

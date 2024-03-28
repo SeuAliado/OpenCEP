@@ -5,5 +5,7 @@
   "bairro": "Jardim Padre José de Anchieta",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "lat": -25.455317,
+  "lon": -49.5095072
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Vereda dos Buritis",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "lat": -16.7221572,
+  "lon": -49.3382552
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Mariela",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "lat": -16.4491141,
+  "lon": -54.6311985
 }

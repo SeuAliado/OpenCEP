@@ -5,5 +5,7 @@
   "bairro": "Vila Nelita",
   "localidade": "Água Doce do Norte",
   "uf": "ES",
-  "ibge": "3200169"
+  "ibge": "3200169",
+  "lat": -18.4736585,
+  "lon": -41.0115402
 }

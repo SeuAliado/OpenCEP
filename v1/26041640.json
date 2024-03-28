@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Castelo",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.699743,
+  "lon": -43.460179
 }

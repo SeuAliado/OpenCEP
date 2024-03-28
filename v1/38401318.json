@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.8774463,
+  "lon": -48.2794733
 }

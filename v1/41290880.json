@@ -5,5 +5,7 @@
   "bairro": "Pirajá",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.8938116,
+  "lon": -38.4574709
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim 3 Marias",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "lat": -20.9610141,
+  "lon": -48.491503
 }

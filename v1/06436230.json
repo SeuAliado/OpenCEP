@@ -5,5 +5,7 @@
   "bairro": "Parque dos Camargos",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "lat": -23.5389592,
+  "lon": -46.8917229
 }

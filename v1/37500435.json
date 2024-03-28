@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Agonia",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "lat": -22.4160601,
+  "lon": -45.453505
 }

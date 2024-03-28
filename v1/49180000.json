@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Amaro das Brotas",
   "uf": "SE",
-  "ibge": "2806602"
+  "ibge": "2806602",
+  "lat": -10.7896598,
+  "lon": -37.0567665
 }

@@ -5,5 +5,7 @@
   "bairro": "Itaguaçu",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "lat": -17.8399929,
+  "lon": -41.4992106
 }

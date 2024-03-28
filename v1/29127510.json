@@ -5,5 +5,7 @@
   "bairro": "Normília da Cunha",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "lat": -20.4507748,
+  "lon": -40.3553338
 }

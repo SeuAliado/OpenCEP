@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cristiano Otoni",
   "uf": "MG",
-  "ibge": "3120409"
+  "ibge": "3120409",
+  "lat": -20.8249342,
+  "lon": -43.8124157
 }

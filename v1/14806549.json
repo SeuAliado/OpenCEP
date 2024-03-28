@@ -5,5 +5,7 @@
   "bairro": "Chácara Velosa",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "lat": -21.7631021,
+  "lon": -48.1408171
 }

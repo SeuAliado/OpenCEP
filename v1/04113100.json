@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.5832844,
+  "lon": -46.6241053
 }

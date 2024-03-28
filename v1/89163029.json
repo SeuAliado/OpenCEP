@@ -5,5 +5,7 @@
   "bairro": "Canta Galo",
   "localidade": "Rio do Sul",
   "uf": "SC",
-  "ibge": "4214805"
+  "ibge": "4214805",
+  "lat": -27.2028953,
+  "lon": -49.6318768
 }

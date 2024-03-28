@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Lourenço do Piauí",
   "uf": "PI",
-  "ibge": "2210359"
+  "ibge": "2210359",
+  "lat": -9.1310616,
+  "lon": -42.5117238
 }

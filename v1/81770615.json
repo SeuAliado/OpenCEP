@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "lat": -25.5248938,
+  "lon": -49.234282
 }

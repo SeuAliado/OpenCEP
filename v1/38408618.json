@@ -5,5 +5,7 @@
   "bairro": "Nosso Recanto",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "lat": -18.9326428,
+  "lon": -48.2643524
 }

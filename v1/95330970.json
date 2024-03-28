@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Veranópolis",
   "uf": "RS",
-  "ibge": "4322806"
+  "ibge": "4322806",
+  "lat": -28.9351909,
+  "lon": -51.5446079
 }

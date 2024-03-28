@@ -5,5 +5,7 @@
   "bairro": "Arroio Canoas",
   "localidade": "Barão",
   "uf": "RS",
-  "ibge": "4301651"
+  "ibge": "4301651",
+  "lat": -29.4097655,
+  "lon": -51.5559028
 }

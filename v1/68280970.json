@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Faro",
   "uf": "PA",
-  "ibge": "1503002"
+  "ibge": "1503002",
+  "lat": -2.172487,
+  "lon": -56.7456685
 }

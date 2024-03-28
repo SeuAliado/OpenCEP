@@ -5,5 +5,7 @@
   "bairro": "Chácara General Banda",
   "localidade": "Três Corações",
   "uf": "MG",
-  "ibge": "3169307"
+  "ibge": "3169307",
+  "lat": -21.5892625,
+  "lon": -45.0677313
 }

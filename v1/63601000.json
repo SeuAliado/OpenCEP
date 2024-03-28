@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Senador Pompeu",
   "uf": "CE",
-  "ibge": "2312700"
+  "ibge": "2312700",
+  "lat": -5.5183057,
+  "lon": -39.4921334
 }

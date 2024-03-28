@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sobradinho",
   "uf": "RS",
-  "ibge": "4320701"
+  "ibge": "4320701",
+  "lat": -29.4185722,
+  "lon": -53.0290624
 }

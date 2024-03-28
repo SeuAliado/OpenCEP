@@ -5,5 +5,7 @@
   "bairro": "Capão do Pequi",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "lat": -15.7366511,
+  "lon": -56.1570051
 }

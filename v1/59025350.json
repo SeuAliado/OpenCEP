@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "lat": -5.7843602,
+  "lon": -35.2089514
 }

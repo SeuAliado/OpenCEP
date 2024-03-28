@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bananal",
   "uf": "SP",
-  "ibge": "3504909"
+  "ibge": "3504909",
+  "lat": -22.6834001,
+  "lon": -44.3227431
 }

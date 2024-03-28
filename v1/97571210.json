@@ -5,5 +5,7 @@
   "bairro": "Registro",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "lat": -30.8566801,
+  "lon": -55.5447376
 }

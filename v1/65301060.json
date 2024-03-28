@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "lat": -3.6507591,
+  "lon": -45.3856366
 }

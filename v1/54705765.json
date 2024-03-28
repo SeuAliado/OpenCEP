@@ -5,5 +5,7 @@
   "bairro": "Capibaribe",
   "localidade": "São Lourenço da Mata",
   "uf": "PE",
-  "ibge": "2613701"
+  "ibge": "2613701",
+  "lat": -8.0134635,
+  "lon": -35.0130583
 }

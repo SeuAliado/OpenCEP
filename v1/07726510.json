@@ -5,5 +5,7 @@
   "bairro": "Morro Grande",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3726457,
+  "lon": -46.7040066
 }

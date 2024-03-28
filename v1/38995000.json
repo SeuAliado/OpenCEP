@@ -5,5 +5,7 @@
   "bairro": "Cachoeirinha",
   "localidade": "Córrego Danta",
   "uf": "MG",
-  "ibge": "3119807"
+  "ibge": "3119807",
+  "lat": -19.820251,
+  "lon": -45.9036573
 }

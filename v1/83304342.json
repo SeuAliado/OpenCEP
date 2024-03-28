@@ -5,5 +5,7 @@
   "bairro": "Planta Deodoro",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "lat": -25.4222207,
+  "lon": -49.0477664
 }

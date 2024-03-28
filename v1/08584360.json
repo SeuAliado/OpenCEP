@@ -5,5 +5,7 @@
   "bairro": "Jardim Mônica",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "lat": -23.42647,
+  "lon": -46.3445476
 }

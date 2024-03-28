@@ -5,5 +5,7 @@
   "bairro": "Região dos Lagos (Sobradinho)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "lat": -15.6917031,
+  "lon": -47.8252685
 }

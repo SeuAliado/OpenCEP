@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Angical",
   "uf": "BA",
-  "ibge": "2901403"
+  "ibge": "2901403",
+  "lat": -12.0077021,
+  "lon": -44.6951648
 }

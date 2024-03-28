@@ -5,5 +5,7 @@
   "bairro": "Iguaçu Velho",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "lat": -22.7082522,
+  "lon": -43.4720933
 }

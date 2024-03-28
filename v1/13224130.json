@@ -5,5 +5,7 @@
   "bairro": "Ieiri",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "lat": -23.2137549,
+  "lon": -46.8233429
 }

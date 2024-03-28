@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Luiza",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "lat": -23.451129,
+  "lon": -46.5455013
 }

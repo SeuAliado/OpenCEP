@@ -5,5 +5,7 @@
   "bairro": "Rocha Cavalcante",
   "localidade": "União dos Palmares",
   "uf": "AL",
-  "ibge": "2709301"
+  "ibge": "2709301",
+  "lat": -9.1600594,
+  "lon": -36.0338658
 }

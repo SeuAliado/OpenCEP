@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Macaparana",
   "uf": "PE",
-  "ibge": "2609006"
+  "ibge": "2609006",
+  "lat": -7.5336071,
+  "lon": -35.4672368
 }

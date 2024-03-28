@@ -5,5 +5,7 @@
   "bairro": "Quarenta",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "lat": -7.2314151,
+  "lon": -35.8906581
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Estiva Gerbi",
   "uf": "SP",
-  "ibge": "3557303"
+  "ibge": "3557303",
+  "lat": -22.2737724,
+  "lon": -46.9554553
 }

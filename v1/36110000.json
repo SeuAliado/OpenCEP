@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Chácara",
   "uf": "MG",
-  "ibge": "3115904"
+  "ibge": "3115904",
+  "lat": -21.6728417,
+  "lon": -43.2193919
 }

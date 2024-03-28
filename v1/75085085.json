@@ -5,5 +5,7 @@
   "bairro": "Chácaras Vale das Antas",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.27998,
+  "lon": -48.9053132
 }

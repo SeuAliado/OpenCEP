@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Luzia",
   "uf": "BA",
-  "ibge": "2928059"
+  "ibge": "2928059",
+  "lat": -15.430979,
+  "lon": -39.3328922
 }

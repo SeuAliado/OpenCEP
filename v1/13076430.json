@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Cambuí",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "lat": -22.8839148,
+  "lon": -47.0423043
 }

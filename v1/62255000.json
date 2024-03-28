@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pires Ferreira",
   "uf": "CE",
-  "ibge": "2310951"
+  "ibge": "2310951",
+  "lat": -4.2396004,
+  "lon": -40.6445424
 }

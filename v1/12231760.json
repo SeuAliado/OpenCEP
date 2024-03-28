@@ -5,5 +5,7 @@
   "bairro": "Jardim Satélite",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "lat": -23.2324932,
+  "lon": -45.8781117
 }

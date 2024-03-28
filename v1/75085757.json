@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale do Sol",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "lat": -16.2849213,
+  "lon": -48.9253577
 }

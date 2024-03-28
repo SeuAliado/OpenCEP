@@ -5,5 +5,7 @@
   "bairro": "Irenópolis",
   "localidade": "Juscimeira",
   "uf": "MT",
-  "ibge": "5105200"
+  "ibge": "5105200",
+  "lat": -16.0599209,
+  "lon": -54.8266879
 }

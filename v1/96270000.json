@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mostardas",
   "uf": "RS",
-  "ibge": "4312500"
+  "ibge": "4312500",
+  "lat": -30.927439,
+  "lon": -50.7624493
 }

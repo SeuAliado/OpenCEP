@@ -5,5 +5,7 @@
   "bairro": "Vila Carolina",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "lat": -23.6017121,
+  "lon": -48.0627825
 }

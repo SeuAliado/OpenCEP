@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "lat": -19.5537203,
+  "lon": -42.5900929
 }

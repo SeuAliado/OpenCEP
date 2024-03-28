@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bugre",
   "uf": "MG",
-  "ibge": "3109253"
+  "ibge": "3109253",
+  "lat": -19.4258672,
+  "lon": -42.25595
 }

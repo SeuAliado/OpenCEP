@@ -5,5 +5,7 @@
   "bairro": "Praia do Sonho (Ens Brito)",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "lat": -27.836034,
+  "lon": -48.5922302
 }

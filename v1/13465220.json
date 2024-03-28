@@ -5,5 +5,7 @@
   "bairro": "Vila Medon",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "lat": -22.7493667,
+  "lon": -47.334306
 }

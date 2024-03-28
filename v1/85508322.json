@@ -5,5 +5,7 @@
   "bairro": "Gralha Azul",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "lat": -26.2713926,
+  "lon": -52.6788954
 }

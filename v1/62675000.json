@@ -5,5 +5,7 @@
   "bairro": "Siupê",
   "localidade": "São Gonçalo do Amarante",
   "uf": "CE",
-  "ibge": "2312403"
+  "ibge": "2312403",
+  "lat": -3.546548,
+  "lon": -38.9358167
 }

@@ -5,5 +5,7 @@
   "bairro": "Palmares",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "lat": -2.6325995,
+  "lon": -56.729902
 }

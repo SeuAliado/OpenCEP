@@ -5,5 +5,7 @@
   "bairro": "Santo Amaro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.6480206,
+  "lon": -46.7071875
 }

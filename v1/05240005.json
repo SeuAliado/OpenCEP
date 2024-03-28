@@ -5,5 +5,7 @@
   "bairro": "Chácara Jaraguá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "lat": -23.431013,
+  "lon": -46.7596847
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rosário",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "lat": -7.185878,
+  "lon": -48.2158492
 }

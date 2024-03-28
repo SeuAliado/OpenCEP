@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "lat": -23.3775869,
+  "lon": -46.6404739
 }

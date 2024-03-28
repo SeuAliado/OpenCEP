@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "lat": -23.4336578,
+  "lon": -45.0838481
 }

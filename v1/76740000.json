@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Faina",
   "uf": "GO",
-  "ibge": "5207535"
+  "ibge": "5207535",
+  "lat": -15.3656904,
+  "lon": -50.265662
 }

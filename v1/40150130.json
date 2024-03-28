@@ -5,5 +5,7 @@
   "bairro": "Graça",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "lat": -12.9965547,
+  "lon": -38.5203043
 }

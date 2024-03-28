@@ -5,5 +5,7 @@
   "bairro": "Entre Rios",
   "localidade": "Dom Aquino",
   "uf": "MT",
-  "ibge": "5103601"
+  "ibge": "5103601",
+  "lat": -22.7219713,
+  "lon": -43.4043711
 }

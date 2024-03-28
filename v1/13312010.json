@@ -5,5 +5,7 @@
   "bairro": "Jardim Oliveira",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "lat": -23.2555994,
+  "lon": -47.3223253
 }
