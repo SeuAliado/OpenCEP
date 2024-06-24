@@ -11,6 +11,8 @@ A maior e mais completa API.
 
 Um total <b>1.192.347 CEPs</b> válidos!
 
+### Estamos online desde 2021!
+
 Perfeito para autocomplete e preenchimento de informações!
 
 ### Super fácil de usar e integrar com todas as plataformas:
