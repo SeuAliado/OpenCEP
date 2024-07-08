@@ -1,3 +1,12 @@
+# Clone currente repository
+git clone https://github.com/SeuAliado/OpenCEP.git
+
+# Go to OpenCEP folder
+cd OpenCEP
+
+# delete all files update folder
+del /q update\*
+
 # Check out to a temporary branch:
 git checkout --orphan TEMP_BRANCH
 
@@ -8,10 +17,10 @@ git add -A
 git commit -am "Git Refactoring - GitHub Warning"
 
 # Delete the old branch:
-git branch -D master
+git branch -D main
 
 # Rename the temporary branch to master:
-git branch -m master
+git branch -m main
 
 # Finally, force update to our repository:
-git push -f origin master
+git push -f origin main
